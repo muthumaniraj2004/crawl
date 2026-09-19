@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Telicom",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "209745",
+    "phone_number": "+91 63943 14849",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "436, Farrukhabad, Hathipur, Uttar Pradesh 209625",
+    "area": "209745",
+    "latitude": 27.4048317,
+    "longitude": 79.5299586,
+    "place_id": "ChIJI65vs_cvnjkRT5FwFDNYbBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI65vs_cvnjkRT5FwFDNYbBo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:39"
+  },
+  {
+    "business_name": "Shivam Auto",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "209745",
+    "phone_number": "+91 93698 17761",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "321, Hathipur, Rasidpur, Uttar Pradesh 209625",
+    "area": "209745",
+    "latitude": 27.4059973,
+    "longitude": 79.526303,
+    "place_id": "ChIJ7V_QnsgvnjkRYFKTVGdREAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7V_QnsgvnjkRYFKTVGdREAk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:42"
+  }
+]

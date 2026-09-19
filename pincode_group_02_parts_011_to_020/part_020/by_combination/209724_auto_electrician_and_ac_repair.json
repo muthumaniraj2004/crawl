@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Service shop",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Brake shop",
+    "all_categories": "Brake shop",
+    "pincode": "209724",
+    "phone_number": "+91 89338 30772",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Tapkapur, Gursahaiganj, Induia Ganj, Uttar Pradesh 209735",
+    "area": "Tapkapur",
+    "latitude": 27.1571879,
+    "longitude": 79.72963419999999,
+    "place_id": "ChIJH1QiKhcVnjkRG5NhFwzkhxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1QiKhcVnjkRG5NhFwzkhxE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:53:22"
+  },
+  {
+    "business_name": "Bombay Auto Link (Car Ac repair)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service",
+    "pincode": "209724",
+    "phone_number": "+91 96600 90034",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 246,
+    "address": "Bombay auto link Singh niwas, New colony, Gumanpura, Kota, Kota Municipal Area, Rajasthan 324007",
+    "area": "New colony, Gumanpura",
+    "latitude": 25.1761604,
+    "longitude": 75.8496241,
+    "place_id": "ChIJyRKb23mbbzkR3UIfk3ucMnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRKb23mbbzkR3UIfk3ucMnY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:53:24"
+  }
+]

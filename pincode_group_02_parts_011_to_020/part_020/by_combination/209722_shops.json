@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fauji traders",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "209722",
+    "phone_number": "+91 79852 43983",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8, Gursahaiganj - Jalaun Rd, Gursahaiganj, Larpur, Uttar Pradesh 209722",
+    "area": "209722",
+    "latitude": 27.105770399999997,
+    "longitude": 79.72663519999999,
+    "place_id": "ChIJW5GCsu8VnjkR0Imaxg2j6zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5GCsu8VnjkR0Imaxg2j6zE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:10"
+  },
+  {
+    "business_name": "Mi store",
+    "search_category": "Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "209722",
+    "phone_number": "+91 96487 07695",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Qibla market, farrukhabad road, Gursahaiganj, Uttar Pradesh 209722",
+    "area": "209722",
+    "latitude": 27.1170209,
+    "longitude": 79.7304377,
+    "place_id": "ChIJ4cveCoAVnjkR1EP-4bkPoB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cveCoAVnjkR1EP-4bkPoB8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:11"
+  }
+]

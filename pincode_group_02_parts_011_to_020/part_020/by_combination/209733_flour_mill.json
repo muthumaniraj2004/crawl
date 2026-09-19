@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": ".",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "209733",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madarpur Rd, Jalalabad, Uttar Pradesh 209733",
+    "area": "209733",
+    "latitude": 27.102065,
+    "longitude": 79.7781152,
+    "place_id": "ChIJrzrFYc9rnjkRGdMU340tkvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzrFYc9rnjkRGdMU340tkvk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:05:44"
+  },
+  {
+    "business_name": "Raebareli Flour Mills Pvt Ltd",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "209733",
+    "phone_number": "+91 98390 21866",
+    "website": "https://rfmrbl.com/",
+    "rating": 4,
+    "reviews_count": 39,
+    "address": "Industrial Area 2, C-16, Amawa Rd, Raebareli, Uttar Pradesh 229316",
+    "area": "Industrial Area",
+    "latitude": 26.2593389,
+    "longitude": 81.2582027,
+    "place_id": "ChIJ6aXLQg-kmzkRz4LcuSCoDUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6aXLQg-kmzkRz4LcuSCoDUg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:05:45"
+  }
+]

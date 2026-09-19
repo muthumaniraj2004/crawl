@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Battery House",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Auto parts store, Battery Wholesaler, Car battery store, Electric utility company, Oil change service, Power station",
+    "pincode": "209868",
+    "phone_number": "+91 97108 01833",
+    "website": "https://www.bababatteryhouse.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "38, Gangai Amman Koil St, Gangai Amman Nagar, Mogappair West, Mogappair, Chennai, Tamil Nadu 600107",
+    "area": "Gangai Amman Nagar, Mogappair West, Mogappair",
+    "latitude": 13.0734865,
+    "longitude": 80.17875149999999,
+    "place_id": "ChIJ1VvNN1FhUjoRvVT6RDAKYkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VvNN1FhUjoRvVT6RDAKYkk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:48:09"
+  },
+  {
+    "business_name": "Exide Battery Agency",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "209868",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "GCCW+RJQ, Infront of CNG Gas Pump, Akrampur, Unnao, Uttar Pradesh 209862",
+    "area": "Akrampur",
+    "latitude": 26.5221,
+    "longitude": 80.44659999999999,
+    "place_id": "ChIJs5CI2NI_nDkRrAxukelDdEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5CI2NI_nDkRrAxukelDdEU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:48:10"
+  }
+]

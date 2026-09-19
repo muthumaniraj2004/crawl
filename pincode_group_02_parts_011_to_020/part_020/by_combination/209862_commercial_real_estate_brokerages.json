@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Quick Broker",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "209862",
+    "phone_number": "N/A",
+    "website": "https://quickbrokerkanpur.blogspot.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13/391, Green Park, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Green Park, Civil Lines",
+    "latitude": 26.482503899999998,
+    "longitude": 80.34432249999999,
+    "place_id": "ChIJjWiKHi05nDkRMx9e6eZvL58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWiKHi05nDkRMx9e6eZvL58",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:01"
+  },
+  {
+    "business_name": "Balaji Commercial Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency, Commercial real estate agency, Industrial real estate agency, Office refurbishment service, Real estate appraiser, Real estate consultant, Retail space rental agency",
+    "pincode": "209862",
+    "phone_number": "+91 77209 72099",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Narayan Peth, Pune, Maharashtra 411030",
+    "area": "Narayan Peth",
+    "latitude": 18.5163144,
+    "longitude": 73.8482423,
+    "place_id": "ChIJVVVVFXDAwjsRrbHOngB_w6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFXDAwjsRrbHOngB_w6o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:03"
+  }
+]

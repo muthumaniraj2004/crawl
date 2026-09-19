@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham thakur Logistic park",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "209825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HJ75+9F, Gondwa Vishunpur, Uttar Pradesh 209831",
+    "area": "209825",
+    "latitude": 26.5634375,
+    "longitude": 80.6086875,
+    "place_id": "ChIJKSkESwATnDkRDbLArKAbX70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSkESwATnDkRDbLArKAbX70",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:52"
+  },
+  {
+    "business_name": "Vimal Delivery Surface",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "209825",
+    "phone_number": "+91 88814 23740",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 27, near Surya Hospital, Thana, Ajgain, Uttar Pradesh 209831",
+    "area": "Thana",
+    "latitude": 26.612798899999998,
+    "longitude": 80.62620729999999,
+    "place_id": "ChIJDYht33QRnDkR-11mEEIYSXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYht33QRnDkR-11mEEIYSXU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:52"
+  }
+]

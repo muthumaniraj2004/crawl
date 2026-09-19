@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Clothe",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209738",
+    "phone_number": "+91 87914 97294",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bela Rd, Bela, Uttar Pradesh 206251",
+    "area": "209738",
+    "latitude": 26.8281578,
+    "longitude": 79.67354019999999,
+    "place_id": "ChIJsdnEBQcLnjkRDcYxxl3bXcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdnEBQcLnjkRDcYxxl3bXcc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:30"
+  },
+  {
+    "business_name": "Shivam Brothers Jeans Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209738",
+    "phone_number": "+91 89799 44643",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8, Bela, Uttar Pradesh 206251",
+    "area": "209738",
+    "latitude": 26.8287537,
+    "longitude": 79.6740478,
+    "place_id": "ChIJbQP58EgLnjkRZXHggdebRbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQP58EgLnjkRZXHggdebRbk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:30"
+  }
+]

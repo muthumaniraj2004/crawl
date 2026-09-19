@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalra Flour Mills",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "209722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "तहसील - छिबरामऊ, तिर्वा रोड, टाउन, Gursahaiganj, Uttar Pradesh 209722",
+    "area": "टाउन",
+    "latitude": 27.1170233,
+    "longitude": 79.7304286,
+    "place_id": "ChIJN2If2vwVnjkRIpzjn7pCbQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2If2vwVnjkRIpzjn7pCbQc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:37"
+  },
+  {
+    "business_name": "S.K. Roller Flour Mills Ltd.",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "209722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "HMC4+Q5V, Hardoi Road, Sitapur, Uttar Pradesh 261001",
+    "area": "Lachimanpur",
+    "latitude": 27.571976199999998,
+    "longitude": 80.6554343,
+    "place_id": "ChIJ5ZnRhaLXnjkRTs7grjmvGcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZnRhaLXnjkRTs7grjmvGcM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:39"
+  }
+]

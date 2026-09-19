@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M&S International",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Leather Goods Wholesaler",
+    "pincode": "209861",
+    "phone_number": "+91 79913 40541",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "112/193, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Khalasi Line, Swaroop Nagar",
+    "latitude": 26.4814346,
+    "longitude": 80.3229049,
+    "place_id": "ChIJ6Zbzbro5nDkRLxf6b33qB4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Zbzbro5nDkRLxf6b33qB4M",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:36:03"
+  },
+  {
+    "business_name": "Evince Leather",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer",
+    "pincode": "209861",
+    "phone_number": "N/A",
+    "website": "http://evinceleather.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "15-B, 150 Feet Rd, Sector 1 Industrial Town, Jajmau, Kanpur, Uttar Pradesh 209861",
+    "area": "Sector 1 Industrial Town, Jajmau",
+    "latitude": 26.4324834,
+    "longitude": 80.3979238,
+    "place_id": "ChIJPRSLVuRAnDkRSXoAkgcc-NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRSLVuRAnDkRSXoAkgcc-NM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:36:03"
+  }
+]

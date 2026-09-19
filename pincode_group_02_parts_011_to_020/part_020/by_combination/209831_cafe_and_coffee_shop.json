@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wildbean Café | Banimod",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Coffee roastery, Coffee stand, Coffee store, Espresso bar, Pizza restaurant, Restaurant, Sandwich shop, Tea store",
+    "pincode": "209831",
+    "phone_number": "+91 96678 35016",
+    "website": "https://www.jiobp.com/products-and-services/wild-bean-cafe",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sarojini Nagar, Ain, Uttar Pradesh 226401",
+    "area": "Sarojini Nagar",
+    "latitude": 26.7328177,
+    "longitude": 80.72053749999999,
+    "place_id": "ChIJg5kQgGEFnDkR0wapVkRNoVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5kQgGEFnDkR0wapVkRNoVA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:05"
+  },
+  {
+    "business_name": "ONEBITE Restaurant Unnao",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209831",
+    "phone_number": "+91 92770 27282",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, Siya Pyari Plaza, near Hardoi Pull, Babuganj, Chaudrana, Unnao, Uttar Pradesh 209801",
+    "area": "Babuganj, Chaudrana",
+    "latitude": 26.5488672,
+    "longitude": 80.49217019999999,
+    "place_id": "ChIJtT3en2sVnDkRCYk99cyDAcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtT3en2sVnDkRCYk99cyDAcc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:06"
+  }
+]

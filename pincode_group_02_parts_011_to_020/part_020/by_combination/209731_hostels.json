@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flower's hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Student dormitory, Student housing center",
+    "pincode": "209731",
+    "phone_number": "+91 88088 33055",
+    "website": "https://www.flowershostelmrj.in/",
+    "rating": 4.9,
+    "reviews_count": 197,
+    "address": "near Little flower school, Dhnewa Dhanei, Maharajganj, Uttar Pradesh 273303",
+    "area": "209731",
+    "latitude": 27.1646893,
+    "longitude": 83.578116,
+    "place_id": "ChIJSfSzRI-pljkRPTkXsz_ukuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfSzRI-pljkRPTkXsz_ukuY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:03:26"
+  },
+  {
+    "business_name": "Krishna hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "209731",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "XQ4J+MRH, Tirwaganj, Uttar Pradesh 209732",
+    "area": "209731",
+    "latitude": 26.9566882,
+    "longitude": 79.78209749999999,
+    "place_id": "ChIJd18PL1dznjkRkl9VVGsYuso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd18PL1dznjkRkl9VVGsYuso",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:03:26"
+  }
+]

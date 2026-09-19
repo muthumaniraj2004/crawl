@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209726",
+    "phone_number": "+91 90446 58800",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 43,
+    "address": "Thathiya Rd, Kannauj, Thathiya, Uttar Pradesh 209734",
+    "area": "209726",
+    "latitude": 26.9248156,
+    "longitude": 79.8974023,
+    "place_id": "ChIJ-yyLcQRxnjkR6eJkrc8gFA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yyLcQRxnjkR6eJkrc8gFA8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:13"
+  },
+  {
+    "business_name": "VIP Pizza Tirwaganj",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "209726",
+    "phone_number": "+91 78304 48888",
+    "website": "https://wa.me/c/917830448888",
+    "rating": 4.5,
+    "reviews_count": 206,
+    "address": "Durga Nagar, near Allahabad Bank, Tirwaganj, Uttar Pradesh 209732",
+    "area": "209726",
+    "latitude": 26.960239899999998,
+    "longitude": 79.7899442,
+    "place_id": "ChIJFfAzoCtznjkRRGa77iQVPaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfAzoCtznjkRRGa77iQVPaA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:14"
+  }
+]

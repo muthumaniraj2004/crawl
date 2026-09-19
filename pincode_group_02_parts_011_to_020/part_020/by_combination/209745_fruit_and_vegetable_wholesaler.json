@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Fruits Corner",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "209745",
+    "phone_number": "+91 85114 90920",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chilsara Road Chilsara, Road, Farrukhabad, Uttar Pradesh 209745",
+    "area": "209745",
+    "latitude": 27.4865849,
+    "longitude": 79.50972089999999,
+    "place_id": "ChIJd8tEMmAtnjkR_eC9rWdUscI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8tEMmAtnjkR_eC9rWdUscI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:09"
+  },
+  {
+    "business_name": "Prabhakant Fruit Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "209745",
+    "phone_number": "+91 93364 45747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jahanganj, Jahan Ganj, Pataunja, Uttar Pradesh 209739",
+    "area": "Jahanganj",
+    "latitude": 27.246382399999998,
+    "longitude": 79.5515329,
+    "place_id": "ChIJrQMXLPojnjkRdy1yinrxWlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQMXLPojnjkRdy1yinrxWlY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pushpa medical agency",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209749",
+    "phone_number": "+91 91400 38445",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Police line, road, kachhari, Fatehgarh, Farrukhabad, Uttar Pradesh 209601",
+    "area": "kachhari, Gulistan Colony",
+    "latitude": 27.351151599999998,
+    "longitude": 79.62923719999999,
+    "place_id": "ChIJjWm-zy0xnjkRqWDKiTeRKqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWm-zy0xnjkRqWDKiTeRKqE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:47"
+  },
+  {
+    "business_name": "yadav pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209749",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9J98+8MV, Bewar Rd, Bholepur, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Bholepur",
+    "latitude": 27.368363499999997,
+    "longitude": 79.61668739999999,
+    "place_id": "ChIJCTe_PIExnjkREXMJhGF4F2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTe_PIExnjkREXMJhGF4F2I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASIF Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209871",
+    "phone_number": "+91 95995 34696",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Mirja Pur, Uttar Pradesh 209871",
+    "area": "209871",
+    "latitude": 26.6841609,
+    "longitude": 80.329916,
+    "place_id": "ChIJsYcWf-YknDkRZ5XlkRQOhoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsYcWf-YknDkRZ5XlkRQOhoA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:52:48"
+  },
+  {
+    "business_name": "NEW LUCKY FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209871",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P8QW+HFC, State Bank Road, Safipur, Uttar Pradesh 209871",
+    "area": "209871",
+    "latitude": 26.7389497,
+    "longitude": 80.3461305,
+    "place_id": "ChIJUWuSMxgknDkR7Yaktm3IH6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWuSMxgknDkR7Yaktm3IH6g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:52:49"
+  }
+]

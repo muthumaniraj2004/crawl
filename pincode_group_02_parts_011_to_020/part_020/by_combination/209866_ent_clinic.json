@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asha ENT clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "209866",
+    "phone_number": "+91 70545 52400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Unnao - Hardoi Rd, near Laxmi automobile gangarampur, Mallawan, Uttar Pradesh 241303",
+    "area": "209866",
+    "latitude": 27.040149399999997,
+    "longitude": 80.1525608,
+    "place_id": "ChIJewq3MTqJnjkRvEXuRSWK3ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewq3MTqJnjkRvEXuRSWK3ZM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:45"
+  },
+  {
+    "business_name": "Tejas Clinic Dr.Dharmendra Shukla",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "209866",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "HF5C+WHJ, Lok Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Lok Nagar",
+    "latitude": 26.5598498,
+    "longitude": 80.4714058,
+    "place_id": "ChIJwQiS_uUVnDkR9zgMlXAs0Q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQiS_uUVnDkR9zgMlXAs0Q4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:45"
+  }
+]

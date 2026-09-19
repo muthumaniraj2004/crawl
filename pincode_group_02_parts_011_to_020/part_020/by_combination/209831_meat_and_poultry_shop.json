@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The bengal meat",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "209831",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C99G+6WQ, Krishna Puram, Kanpur, Uttar Pradesh 208007",
+    "area": "Krishna Puram",
+    "latitude": 26.4180882,
+    "longitude": 80.3773557,
+    "place_id": "ChIJezR1TgBBnDkRKt9gYOYPOQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezR1TgBBnDkRKt9gYOYPOQQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:28:57"
+  },
+  {
+    "business_name": "Lucknow Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "209831",
+    "phone_number": "+91 99564 88271",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VWWP+PX8, Sitapur Rd, Tiraha, Purania, Sector-DS, Chandralok, Lucknow, Uttar Pradesh 226024",
+    "area": "Tiraha, Purania, Sector-DS, Chandralok",
+    "latitude": 26.896785299999998,
+    "longitude": 80.9374557,
+    "place_id": "ChIJ_xYmKzJWmTkRTCh87SXIWq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xYmKzJWmTkRTCh87SXIWq4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:28:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meaticious",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Meat products store, Chicken shop, Fish processing",
+    "pincode": "209723",
+    "phone_number": "+91 98717 12284",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop no G-3, DC SQUARE, near City Kart Mall, adjacent to T24 Cafe, Munshi Pulia, Sector 12, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Munshi Pulia, Sector 12, Indira Nagar",
+    "latitude": 26.8850461,
+    "longitude": 80.99670359999999,
+    "place_id": "ChIJH9auwKHlDDkR1DxLBkCSI5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9auwKHlDDkR1DxLBkCSI5s",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:16"
+  },
+  {
+    "business_name": "Abdul Majeed Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "209723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RWRJ+G2V, Rajendra Sanyal Rd, Sunderbagh, Maqbool Ganj, Ghasyari Mandi, Naka Hindola, Lucknow, Uttar Pradesh 226001",
+    "area": "Sunderbagh, Maqbool Ganj, Ghasyari Mandi, Naka Hindola",
+    "latitude": 26.8413644,
+    "longitude": 80.9300347,
+    "place_id": "ChIJqzVfjrH9mzkR45WdgY8RoMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzVfjrH9mzkR45WdgY8RoMg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:16"
+  }
+]

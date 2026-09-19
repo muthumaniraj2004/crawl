@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Aata Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "209860",
+    "phone_number": "+91 95069 20591",
+    "website": "http://www.jrnyentertainment.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Poni Road, Gandhi Nagar, Shuklaganj, Netua Grameen, Uttar Pradesh 209861",
+    "area": "Poni Road, Gandhi Nagar, Shuklaganj",
+    "latitude": 26.473557399999997,
+    "longitude": 80.3855988,
+    "place_id": "ChIJIQ5ocwA_nDkRlUMU509ZGtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQ5ocwA_nDkRlUMU509ZGtk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:01"
+  },
+  {
+    "business_name": "Anil Atta Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "209860",
+    "phone_number": "+91 92360 99338",
+    "website": "https://anil-atta-chakki.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Adarsh Nagar, Gandhi Nagar, Shuklaganj, Netua Grameen, Uttar Pradesh 209861",
+    "area": "Adarsh Nagar, Gandhi Nagar, Shuklaganj",
+    "latitude": 26.475975199999997,
+    "longitude": 80.38882,
+    "place_id": "ChIJ5wwLpFQ_nDkRp6kkLgxFWHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wwLpFQ_nDkRp6kkLgxFWHg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:03"
+  }
+]

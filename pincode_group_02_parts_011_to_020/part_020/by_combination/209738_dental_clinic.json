@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Dental Hospital (Dr Rohit Sharma)",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "209738",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "446R+J7M, Bhaghauli Rd, near tempo stand, next to Lucknow dental hospital, right, Sharda Nagar, Madhoganj, Uttar Pradesh 241302",
+    "area": "right",
+    "latitude": 27.1115925,
+    "longitude": 80.1406708,
+    "place_id": "ChIJ5_F-GqWLnjkRUXRcMySEDj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_F-GqWLnjkRUXRcMySEDj8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:40"
+  },
+  {
+    "business_name": "Vijay medical store",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "209738",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QP78+WF2, Yakubpur, Uttar Pradesh 206255",
+    "area": "209738",
+    "latitude": 26.764752299999998,
+    "longitude": 79.716129,
+    "place_id": "ChIJbymBegvhnTkRsIoNZfaQJIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbymBegvhnTkRsIoNZfaQJIA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:40"
+  }
+]

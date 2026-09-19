@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Care Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Endoscopist",
+    "pincode": "209732",
+    "phone_number": "+91 76124 00670",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "971, Besides Hanuman Mandir, ICICI-Atm, Ranital, Jabalpur, Madhya Pradesh 482002",
+    "area": "Wright Town",
+    "latitude": 23.168578399999998,
+    "longitude": 79.924066,
+    "place_id": "ChIJP9sWiByugTkRcJ_WYjXoEwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9sWiByugTkRcJ_WYjXoEwM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:04:37"
+  },
+  {
+    "business_name": "Jabalpur Health Care Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "209732",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Number- 2, Ahinsa Chowk, Kanchan Vihar, Vijay Nagar, Jabalpur, Raksha, Madhya Pradesh 482002",
+    "area": "Kanchan Vihar, Vijay Nagar",
+    "latitude": 23.185232,
+    "longitude": 79.90977749999999,
+    "place_id": "ChIJt1OvG9uxgTkRopGH0qe1vZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1OvG9uxgTkRopGH0qe1vZk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:04:37"
+  }
+]

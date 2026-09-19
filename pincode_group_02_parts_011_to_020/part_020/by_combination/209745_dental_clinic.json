@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Guru Dev Clinic Shop",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "209745",
+    "phone_number": "+91 80090 46422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Damar Rd, Santosapur, Lalpur Tarai, Uttar Pradesh 209625",
+    "area": "209745",
+    "latitude": 27.4660042,
+    "longitude": 79.5471723,
+    "place_id": "ChIJUUDmTDctnjkRZy-Km__MkIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUDmTDctnjkRZy-Km__MkIc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:31"
+  },
+  {
+    "business_name": "Ankit Rajput Shop",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "209745",
+    "phone_number": "+91 93695 61994",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "635, Farrukhabad, Hathipur, Uttar Pradesh 209625",
+    "area": "209745",
+    "latitude": 27.4059934,
+    "longitude": 79.5263148,
+    "place_id": "ChIJ437I2CIvnjkRxVraJhLrUy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ437I2CIvnjkRxVraJhLrUy8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:32"
+  }
+]

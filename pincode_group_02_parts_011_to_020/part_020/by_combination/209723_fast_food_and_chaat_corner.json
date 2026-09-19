@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209723",
+    "phone_number": "+91 99185 08281",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MDR 81E, Menhdawal, Uttar Pradesh 272271",
+    "area": "209723",
+    "latitude": 26.9712632,
+    "longitude": 83.10506219999999,
+    "place_id": "ChIJQ47l6O0ykTkRota8BZpVqY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ47l6O0ykTkRota8BZpVqY4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:23"
+  },
+  {
+    "business_name": "BABA CHAT CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Lar, Uttar Pradesh 274502",
+    "area": "209723",
+    "latitude": 26.206179799999997,
+    "longitude": 83.970664,
+    "place_id": "ChIJ24QlQCxKkjkRGrH-PLAdNZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24QlQCxKkjkRGrH-PLAdNZk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:23"
+  }
+]

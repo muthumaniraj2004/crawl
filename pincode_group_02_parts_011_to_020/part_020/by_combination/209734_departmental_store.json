@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manya Departmental & Cosmetic Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "209734",
+    "phone_number": "+91 63923 07611",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madhupur Road, Gukhru, Gukhroo, Uttar Pradesh 209727",
+    "area": "Gukhru",
+    "latitude": 26.976780599999998,
+    "longitude": 79.94994919999999,
+    "place_id": "ChIJbRYbSjd7njkRAuq3szEnaKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRYbSjd7njkRAuq3szEnaKg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:21"
+  },
+  {
+    "business_name": "Atul kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "209734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XXFM+GF8, Tikhwa, Uttar Pradesh 209727",
+    "area": "209734",
+    "latitude": 26.9737863,
+    "longitude": 79.9836997,
+    "place_id": "ChIJM-d4SwB7njkRNsCgOwjralo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-d4SwB7njkRNsCgOwjralo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:21"
+  }
+]

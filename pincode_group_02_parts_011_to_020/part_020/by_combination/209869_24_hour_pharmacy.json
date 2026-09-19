@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209869",
+    "phone_number": "+91 73555 80031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Aoras, Uttar Pradesh 209870",
+    "area": "209869",
+    "latitude": 26.916293999999997,
+    "longitude": 80.5025733,
+    "place_id": "ChIJKyhWC3OhnjkRW29EiOm_vYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyhWC3OhnjkRW29EiOm_vYc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:49:31"
+  },
+  {
+    "business_name": "Fine Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209869",
+    "phone_number": "+91 91255 66000",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "25M2+PVQ, near DIWAKAR KIRANA STORE, Mallawan, Uttar Pradesh 241303",
+    "area": "209869",
+    "latitude": 27.034325799999998,
+    "longitude": 80.1522221,
+    "place_id": "ChIJ9a6DxI2InjkRtlwB37JdrWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a6DxI2InjkRtlwB37JdrWA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:49:33"
+  }
+]

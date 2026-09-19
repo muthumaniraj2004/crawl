@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SB Sales",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Financial audit",
+    "pincode": "209821",
+    "phone_number": "+91 90442 36441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shukla Complex, Lucknow Road, near Bus Station, Maurawan, Uttar Pradesh 209821",
+    "area": "209821",
+    "latitude": 26.4361832,
+    "longitude": 80.87698499999999,
+    "place_id": "ChIJ3XaomJaLmzkRk8hxkCxOy5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XaomJaLmzkRk8hxkCxOy5I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:25:12"
+  },
+  {
+    "business_name": "Gem Consultant",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "209821",
+    "phone_number": "+91 80903 19309",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "E-28, Dream Green City, Phase-2, Dhawapur, Landmark:, in front of Vishwanath Academy, Banthra Sikander Pur, Uttar Pradesh 226401",
+    "area": "209821",
+    "latitude": 26.6747636,
+    "longitude": 80.8416471,
+    "place_id": "ChIJE1MOqQH5mzkRkfsPlX7aArA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1MOqQH5mzkRkfsPlX7aArA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:25:12"
+  }
+]

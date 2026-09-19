@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hardik Bridal Couture",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Bridal shop",
+    "all_categories": "Bridal shop",
+    "pincode": "209724",
+    "phone_number": "+91 98551 36558",
+    "website": "https://ecommerc-app-frontend.vercel.app/",
+    "rating": 5,
+    "reviews_count": 145,
+    "address": "Gate no 3, House no 41, near Pragati market, near Nand sweets, Gurjivan Vihar, Zirakpur, Punjab 140603",
+    "area": "Gurjivan Vihar, Dhakoli",
+    "latitude": 30.653997,
+    "longitude": 76.8485876,
+    "place_id": "ChIJF6WsujSVDzkReAfdRjU8IR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6WsujSVDzkReAfdRjU8IR8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:53:08"
+  },
+  {
+    "business_name": "Bhagwati Dresses & Boutique",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Bridal shop",
+    "all_categories": "Bridal shop",
+    "pincode": "209724",
+    "phone_number": "+91 99823 51639",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "CITY PLAZA, SCO 08 FIRST FLOOR, Peer Muchalla Rd, near D-MART, Zirakpur, Punjab 160104",
+    "area": "Sector 20",
+    "latitude": 30.658758,
+    "longitude": 76.8578899,
+    "place_id": "ChIJKVyBpdOVDzkRCRQeVhUokyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVyBpdOVDzkRCRQeVhUokyM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:53:08"
+  }
+]

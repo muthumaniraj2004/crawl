@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BOOK MY JOURNEY TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209726",
+    "phone_number": "+91 91761 57722",
+    "website": "https://miniweb-site.in/book-my-journey-travels",
+    "rating": 4.9,
+    "reviews_count": 163,
+    "address": "1st Floor, 1, Iyyenchery Main Rd, Revathipuram, Urapakkam, Kanchipuram, Ayyancheri, Tamil Nadu 600048",
+    "area": "Revathipuram, Urapakkam",
+    "latitude": 12.862343099999999,
+    "longitude": 80.0848352,
+    "place_id": "ChIJo9XQEtr3UjoRNTotYlAYMcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9XQEtr3UjoRNTotYlAYMcg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:35"
+  },
+  {
+    "business_name": "Sony Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209726",
+    "phone_number": "+91 94151 49686",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Ghanta Ghar Rd, near Amar Ujjala Office, Vishnupuri, Hardoi, Uttar Pradesh 241001",
+    "area": "Vishnupuri",
+    "latitude": 27.395883899999998,
+    "longitude": 80.12774069999999,
+    "place_id": "ChIJH6m-8yT4njkRa6sW9U8pU70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6m-8yT4njkRa6sW9U8pU70",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:35"
+  }
+]

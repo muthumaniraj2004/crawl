@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Canine Care Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "209862",
+    "phone_number": "+91 98392 74006",
+    "website": "https://www.facebook.com/manish.chauhan.9638",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st Floor Cima, Gulab Jamun Building, 76/01, Halsi Rd, Coolie Bazar, Badshahi Naka, Collectorganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Coolie Bazar, Badshahi Naka, Collectorganj",
+    "latitude": 26.465089199999998,
+    "longitude": 80.3479378,
+    "place_id": "ChIJSavb8uVHnDkR97apHHFxYjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSavb8uVHnDkR97apHHFxYjM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:37:40"
+  },
+  {
+    "business_name": "MY PETS FACTORY",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "209862",
+    "phone_number": "+91 99236 50027",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Friends Enclave, 15/58, opposite Amba Hospital, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.477981399999997,
+    "longitude": 80.3482499,
+    "place_id": "ChIJHzqbJHo5nDkRQwL4q4TbpCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzqbJHo5nDkRQwL4q4TbpCY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:37:42"
+  }
+]

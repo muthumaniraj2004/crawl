@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "International Courier & Cargo",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "209881",
+    "phone_number": "+91 96191 92555",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No 2, Jubilee Building, Lamington Rd, Grant Road East, Bharat Nagar, Kamathipura, Mumbai, Maharashtra 400007",
+    "area": "Grant Road East, Bharat Nagar, Kamathipura",
+    "latitude": 18.9653548,
+    "longitude": 72.8187739,
+    "place_id": "ChIJN1mFIG3O5zsRhrqC5ZaI1nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1mFIG3O5zsRhrqC5ZaI1nk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:55:34"
+  },
+  {
+    "business_name": "International Courier and Cargo - Sagar Air Express",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Freight Forwarding Agency, Import export company, Logistics service, Shipping service, Transportation service",
+    "pincode": "209881",
+    "phone_number": "+91 99997 77651",
+    "website": "http://www.sagarairexpress.com/",
+    "rating": 4.9,
+    "reviews_count": 343,
+    "address": "Metro Pillar Number 126, 416/2, Ghitorni, New Delhi, Delhi 110030",
+    "area": "Ghitorni",
+    "latitude": 28.491574999999997,
+    "longitude": 77.1433607,
+    "place_id": "ChIJBQvaac0fDTkRktOD-wiIFsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQvaac0fDTkRktOD-wiIFsY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:55:35"
+  }
+]

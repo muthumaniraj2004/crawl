@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priyanka Makeup Studio",
+    "search_category": "Unisex Salon",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "209825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lucknow Rd, Bara Chauraha, Chaudrana, Unnao, Uttar Pradesh 209801",
+    "area": "Bara Chauraha, Chaudrana",
+    "latitude": 26.5462509,
+    "longitude": 80.48661,
+    "place_id": "ChIJ723WwKwVnDkRn_N-2ySqg3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ723WwKwVnDkRn_N-2ySqg3o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:24"
+  },
+  {
+    "business_name": "Pranshi Saloon Shivnagar Unnao",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "209825",
+    "phone_number": "+91 80099 97350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HG33+JW7, Sabzi Mandi, Bara Chauraha, Shiv Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Sabzi Mandi, Bara Chauraha, Shiv Nagar",
+    "latitude": 26.5540478,
+    "longitude": 80.5048042,
+    "place_id": "ChIJoeElUgAVnDkRgSZ12gnDemo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeElUgAVnDkRgSZ12gnDemo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:24"
+  }
+]

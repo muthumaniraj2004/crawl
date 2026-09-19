@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DatabridgeCRM",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Information services",
+    "all_categories": "Information services, Business management consultant, Business networking company, Database Management Company, Marketing consultant, Web hosting company",
+    "pincode": "209801",
+    "phone_number": "+91 97822 88336",
+    "website": "http://databridgecrm.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VPVW+MRQ BIRLA SONS, bidla sons tower, tower, Ajmer Rd, Teachers Colony, Mahatma Gandhi Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Teachers Colony, Mahatma Gandhi Nagar",
+    "latitude": 26.8942539,
+    "longitude": 75.7472611,
+    "place_id": "ChIJdTgtb6u1bTkRWYyCkZVcRUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTgtb6u1bTkRWYyCkZVcRUI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:23:44"
+  },
+  {
+    "business_name": "Damco Solutions Private Limited",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services, Marketing agency, Website designer",
+    "pincode": "209801",
+    "phone_number": "+91 129 419 1000",
+    "website": "https://www.damcogroup.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "108, HSIIDC Industrial Estate, Sector 31, Faridabad, Haryana 121003",
+    "area": "Parmeshwari Colony, Sector 31",
+    "latitude": 28.442012599999998,
+    "longitude": 77.3106798,
+    "place_id": "ChIJY7YMLjzcDDkR8WvPwwBOGLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7YMLjzcDDkR8WvPwwBOGLQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:23:46"
+  }
+]

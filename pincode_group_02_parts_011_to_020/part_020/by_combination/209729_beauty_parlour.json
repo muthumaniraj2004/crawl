@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi Beauty Parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "209729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3/235, Nausaara, Talgram, Uttar Pradesh 209731",
+    "area": "Nausaara",
+    "latitude": 27.0499147,
+    "longitude": 79.64891229999999,
+    "place_id": "ChIJiRtrXnsRnjkRjA-gcve7dbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRtrXnsRnjkRjA-gcve7dbM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:40"
+  },
+  {
+    "business_name": "Soumya Beauty parlour and cosmetic",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "209729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bahorik Pur, Uttar Pradesh 209739",
+    "area": "209729",
+    "latitude": 27.2022403,
+    "longitude": 79.5519144,
+    "place_id": "ChIJ8eujCPsjnjkRnYSLoEHyLc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eujCPsjnjkRnYSLoEHyLc4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:40"
+  }
+]

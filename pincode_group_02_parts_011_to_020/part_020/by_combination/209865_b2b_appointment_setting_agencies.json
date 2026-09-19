@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adecco India",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Employment agency, Employment consultant, Recruiter",
+    "pincode": "209865",
+    "phone_number": "+91 522 493 9151",
+    "website": "http://www.adecco.co.in/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "4th Floor, Rohit Bhawan, Sapru Marg, above Canara Bank, Prem Nagar, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Prem Nagar, Hazratganj",
+    "latitude": 26.853175999999998,
+    "longitude": 80.94658199999999,
+    "place_id": "ChIJJ9gAfQn9mzkRmim_ENjCA9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9gAfQn9mzkRmim_ENjCA9Q",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:10"
+  },
+  {
+    "business_name": "Shree Vardhman Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Unemployment office",
+    "all_categories": "Unemployment office, BPO Placement Agency, Employment consultant",
+    "pincode": "209865",
+    "phone_number": "+91 99364 39111",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "1/111, Amar Shaheed Path, Viram Khand 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand 1, Gomti Nagar",
+    "latitude": 26.8517735,
+    "longitude": 81.0038909,
+    "place_id": "ChIJ9xCPUMPimzkRmmo1arbUxzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xCPUMPimzkRmmo1arbUxzc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:10"
+  }
+]

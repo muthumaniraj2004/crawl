@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "209732",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Unnamed Road, Manegaon, Jabalpur, Madhya Pradesh 482005",
+    "area": "Manegaon",
+    "latitude": 23.2106332,
+    "longitude": 80.0107337,
+    "place_id": "ChIJGxdZhXKpgTkRXPVoHmj1clE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxdZhXKpgTkRXPVoHmj1clE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:05:15"
+  },
+  {
+    "business_name": "CSC Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "209732",
+    "phone_number": "+91 97700 83024",
+    "website": "https://www.youtube.com/@cscmrp",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "JDA Colony, Medical Garha, Jabalpur, Madhya Pradesh 482003",
+    "area": "JDA Colony, Medical Garha",
+    "latitude": 23.1395467,
+    "longitude": 79.8810941,
+    "place_id": "ChIJt8PNzS2ygTkRPzhIjHldwAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8PNzS2ygTkRPzhIjHldwAk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:05:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "209721",
+    "phone_number": "+91 91259 77777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "G T Road In Fornt Of Hlvn Inter College, Chhibramau, Uttar Pradesh 209721",
+    "area": "209721",
+    "latitude": 27.146980499999998,
+    "longitude": 79.499563,
+    "place_id": "ChIJ3X1ubHIZnjkR0dYNrKI4jjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3X1ubHIZnjkR0dYNrKI4jjU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:05"
+  },
+  {
+    "business_name": "Corner Internet & Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "209721",
+    "phone_number": "+91 90442 30521",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "GT Rd, near J D Janta Inter College Gate, Chhibramau, Sarai Gujarm, Uttar Pradesh 209721",
+    "area": "209721",
+    "latitude": 27.1532429,
+    "longitude": 79.49206819999999,
+    "place_id": "ChIJ210dmLoZnjkRDd0krKnFFsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ210dmLoZnjkRDd0krKnFFsw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:05"
+  }
+]

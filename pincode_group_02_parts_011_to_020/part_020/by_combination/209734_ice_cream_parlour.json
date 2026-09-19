@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agnihotri Amul Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "209734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "WVFX+2WR, Thathiya, Uttar Pradesh 209734",
+    "area": "209734",
+    "latitude": 26.922625,
+    "longitude": 79.8997661,
+    "place_id": "ChIJ4-3ADCxxnjkRQRdDN36yRbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-3ADCxxnjkRQRdDN36yRbY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:33"
+  },
+  {
+    "business_name": "Thakur Paneer Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "209734",
+    "phone_number": "+91 82991 93314",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dedaura Khur, Uttar Pradesh 209727",
+    "area": "209734",
+    "latitude": 26.988995,
+    "longitude": 79.9671706,
+    "place_id": "ChIJt6tYGdZ7njkRhTtGTafH95E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6tYGdZ7njkRhTtGTafH95E",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:35"
+  }
+]

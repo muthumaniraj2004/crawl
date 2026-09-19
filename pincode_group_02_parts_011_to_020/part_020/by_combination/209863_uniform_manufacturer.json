@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hardev fashion",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "209863",
+    "phone_number": "+91 95801 50472",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Village & post, Terha, Belhadyal Ganj, Uttar Pradesh 209863",
+    "area": "209863",
+    "latitude": 26.2889336,
+    "longitude": 80.6577647,
+    "place_id": "ChIJ6_BFTgV7nDkR8TgF3gUbNj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_BFTgV7nDkR8TgF3gUbNj4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:38"
+  },
+  {
+    "business_name": "Lower manufacturer",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "209863",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "125 teeter wali pakhad, satoon-e, sang, Rampur, Uttar Pradesh 209863",
+    "area": "satoon-e, sang",
+    "latitude": 26.1660662,
+    "longitude": 80.654213,
+    "place_id": "ChIJbSWJO-19nDkRs2KVviKhXLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSWJO-19nDkRs2KVviKhXLM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:38"
+  }
+]

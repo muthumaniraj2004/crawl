@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Piyush Medical Store",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa, Hospital, Medical Center, Medical supply store",
+    "pincode": "209801",
+    "phone_number": "+91 97958 99966",
+    "website": "https://www.piyushmedicalstore.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Piyush Medical Store, Bashirat Ganj, Sarai Katiyan, Uttar Pradesh 209831",
+    "area": "Bashirat Ganj",
+    "latitude": 26.588150499999998,
+    "longitude": 80.5750712,
+    "place_id": "ChIJ33xtuqQRnDkRASJBaTid7j0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33xtuqQRnDkRASJBaTid7j0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:22:59"
+  },
+  {
+    "business_name": "RoboTouch",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Massage supply store",
+    "all_categories": "Massage supply store",
+    "pincode": "209801",
+    "phone_number": "+91 77997 70704",
+    "website": "https://robotouch.co.in/",
+    "rating": 4.5,
+    "reviews_count": 34,
+    "address": "2nd floor, Zsquare, Mall, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.4732414,
+    "longitude": 80.35266639999999,
+    "place_id": "ChIJfXBjr685nDkRcoNx4r0ulmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXBjr685nDkRcoNx4r0ulmI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:22:59"
+  }
+]

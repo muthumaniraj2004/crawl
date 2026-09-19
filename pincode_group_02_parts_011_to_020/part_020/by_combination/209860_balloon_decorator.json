@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayush decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "209860",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badarka, Manohar Pur, Uttar Pradesh 209860",
+    "area": "209860",
+    "latitude": 26.4367372,
+    "longitude": 80.47992909999999,
+    "place_id": "ChIJyUrivrJrnDkRIKVyKsARCE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUrivrJrnDkRIKVyKsARCE0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:58"
+  },
+  {
+    "business_name": "Yash Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "209860",
+    "phone_number": "+91 78384 05514",
+    "website": "https://yashballoondecoration.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no.4 Sector 120 Noida Neat, Amrapali Zodiac, Sector 119, Noida, Uttar Pradesh 201316",
+    "area": "Amrapali Zodiac, Sector 119",
+    "latitude": 28.5860012,
+    "longitude": 77.399411,
+    "place_id": "ChIJ8UiepAbvDDkRRjpYUALcoDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UiepAbvDDkRRjpYUALcoDE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:59"
+  }
+]

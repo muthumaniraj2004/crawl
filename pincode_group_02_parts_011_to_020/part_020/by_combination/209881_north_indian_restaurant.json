@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "209881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "RPV7+M4P, Agra - Lucknow Expressway Service Road, Fatehpur, Nasirpur, Revari, Uttar Pradesh 226101",
+    "area": "Fatehpur",
+    "latitude": 26.8442099,
+    "longitude": 80.7128371,
+    "place_id": "ChIJB2_CTQADnDkROqOBpOfSqHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2_CTQADnDkROqOBpOfSqHo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:54:22"
+  },
+  {
+    "business_name": "Ganga Kewal Dhaba & Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209881",
+    "phone_number": "+91 99191 25997",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 194,
+    "address": "WP2W+QJ5, Kanar, Uttar Pradesh 226101",
+    "area": "209881",
+    "latitude": 26.901893599999998,
+    "longitude": 80.7465938,
+    "place_id": "ChIJ97GHVUaqnjkRGW-2nNmN6k0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97GHVUaqnjkRGW-2nNmN6k0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:54:22"
+  }
+]

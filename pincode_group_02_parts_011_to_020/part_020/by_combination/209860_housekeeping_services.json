@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advika Business Solution Pvt. Ltd. (ABSN Group)",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Business management consultant, Cleaning Services, Security guard service",
+    "pincode": "209860",
+    "phone_number": "+91 87961 99585",
+    "website": "https://absngroup.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "G-27, B-2, Sector 3, Noida Sector 3, Noida, Uttar Pradesh 201301",
+    "area": "Sector 3, Noida Sector 3",
+    "latitude": 28.5796067,
+    "longitude": 77.3178764,
+    "place_id": "ChIJwRfj0EflDDkRm6EwlM7nZpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRfj0EflDDkRm6EwlM7nZpE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:35:23"
+  },
+  {
+    "business_name": "KD Cleaning & Maintenance Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "209860",
+    "phone_number": "+91 94537 33195",
+    "website": "http://kdhs.in/about-us.html",
+    "rating": null,
+    "reviews_count": null,
+    "address": "57, Krishna Puram, Kanpur, Uttar Pradesh 208007",
+    "area": "Krishna Puram",
+    "latitude": 26.41896,
+    "longitude": 80.37854999999999,
+    "place_id": "ChIJzeXVoLw3nDkR_xN9AibuIjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeXVoLw3nDkR_xN9AibuIjE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:35:24"
+  }
+]

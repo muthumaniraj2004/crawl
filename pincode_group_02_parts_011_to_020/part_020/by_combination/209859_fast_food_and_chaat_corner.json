@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Chat & fast food corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209859",
+    "phone_number": "+91 96488 42002",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhlla Form, Road, Saraijoga, Kantha, Uttar Pradesh 209859",
+    "area": "209859",
+    "latitude": 26.6074521,
+    "longitude": 80.71932199999999,
+    "place_id": "ChIJj24NDscPnDkRLNa1aFkWqGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj24NDscPnDkRLNa1aFkWqGI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:32:29"
+  },
+  {
+    "business_name": "Nirmal Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "209859",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "R645+GJG, Janki Mahal Rd, Karsewakpuram, Ayodhya, Uttar Pradesh 224123",
+    "area": "Karsewakpuram",
+    "latitude": 26.8063155,
+    "longitude": 82.20906649999999,
+    "place_id": "ChIJ11LG_oUHmjkRS9coDaQ_Mek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11LG_oUHmjkRS9coDaQ_Mek",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:32:30"
+  }
+]

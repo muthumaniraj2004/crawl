@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furkan Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209870",
+    "phone_number": "+91 78007 83325",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pnb Bank, Safipur, Uttar Pradesh 209871",
+    "area": "Pnb Bank",
+    "latitude": 26.7412665,
+    "longitude": 80.3487924,
+    "place_id": "ChIJPUvoUD0lnDkR7iGnRlxJ6Rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUvoUD0lnDkR7iGnRlxJ6Rc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:51:25"
+  },
+  {
+    "business_name": "Adventurepedia",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Service establishment",
+    "pincode": "209870",
+    "phone_number": "+91 90444 89940",
+    "website": "https://www.adventurepedia.in/",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "Adventurepedia, 209870, India",
+    "area": "209870",
+    "latitude": 27.6173836,
+    "longitude": 78.9466908,
+    "place_id": "ChIJG6aI83q6RK4R-9ne8AdQnyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6aI83q6RK4R-9ne8AdQnyI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:51:26"
+  }
+]

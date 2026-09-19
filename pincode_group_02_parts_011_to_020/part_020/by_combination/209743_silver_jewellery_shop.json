@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "209743",
+    "phone_number": "+91 90587 58101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Shubhash Murti, Bewar, Uttar Pradesh 205301",
+    "area": "209743",
+    "latitude": 27.2174774,
+    "longitude": 79.30142889999999,
+    "place_id": "ChIJp871eeaLdTkR1uw9tbQirGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp871eeaLdTkR1uw9tbQirGQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:44"
+  },
+  {
+    "business_name": "MOHIT JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith",
+    "pincode": "209743",
+    "phone_number": "+91 97190 13127",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "main market, GT Rd, Bewar, Uttar Pradesh 205301",
+    "area": "209743",
+    "latitude": 27.2189186,
+    "longitude": 79.2977356,
+    "place_id": "ChIJQWH15fCLdTkRAnpvkt6QfTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWH15fCLdTkRAnpvkt6QfTY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:44"
+  }
+]

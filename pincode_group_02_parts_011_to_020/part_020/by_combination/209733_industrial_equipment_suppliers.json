@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adani MySilo Kannauj",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "209733",
+    "phone_number": "+91 80044 33022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3RHJ+5HH, Kannauj, Uttar Pradesh 209733",
+    "area": "209733",
+    "latitude": 27.0779467,
+    "longitude": 79.8314848,
+    "place_id": "ChIJC6r6UgBvnjkRGZe9gK2E2DQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6r6UgBvnjkRGZe9gK2E2DQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:09"
+  },
+  {
+    "business_name": "Machinery Dukaan",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler, Construction equipment supplier",
+    "pincode": "209733",
+    "phone_number": "+91 85958 58422",
+    "website": "https://machinerydukaan.com/",
+    "rating": 4.8,
+    "reviews_count": 74,
+    "address": "3rd floor, C-2/108, C-2 Block, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "C-2 Block, Janakpuri",
+    "latitude": 28.620836699999998,
+    "longitude": 77.0853738,
+    "place_id": "ChIJdz5sYbQEDTkRcm2EOZBYA1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdz5sYbQEDTkRcm2EOZBYA1s",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:10"
+  }
+]

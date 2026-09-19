@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R S Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "209721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chhibramau Talgram marg, Trilokapur, Hathin, Antpur, Uttar Pradesh 209721",
+    "area": "Trilokapur",
+    "latitude": 27.1022842,
+    "longitude": 79.54651799999999,
+    "place_id": "ChIJYS8JdaEZnjkR_9bRy3JQWRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYS8JdaEZnjkR_9bRy3JQWRw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:23"
+  },
+  {
+    "business_name": "Lav kush cold storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "209721",
+    "phone_number": "+91 99185 52288",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 16,
+    "address": "SH 29A, Ubrikhera Makrand, Uttar Pradesh 209724",
+    "area": "209721",
+    "latitude": 27.2121419,
+    "longitude": 79.64878999999999,
+    "place_id": "ChIJw6G-lH49njkR8RilDZNE8U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6G-lH49njkR8RilDZNE8U0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:25"
+  }
+]

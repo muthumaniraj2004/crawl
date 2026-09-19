@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhya Resorts",
+    "search_category": "Resort",
+    "primary_category": "Park",
+    "all_categories": "Park",
+    "pincode": "209723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Talgram, Road, Nademau, Uttar Pradesh 209723",
+    "area": "209723",
+    "latitude": 26.9782151,
+    "longitude": 79.601648,
+    "place_id": "ChIJ0wGOSk4RnjkRsVul-7zi0rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wGOSk4RnjkRsVul-7zi0rk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:52:10"
+  },
+  {
+    "business_name": "Blue village bhoramau swimming pool",
+    "search_category": "Resort",
+    "primary_category": "Swimming pool",
+    "all_categories": "Swimming pool",
+    "pincode": "209723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 31,
+    "address": "Bhoramau, indergarh, bhoramau, Kalsan, Uttar Pradesh 209723",
+    "area": "209723",
+    "latitude": 26.955136,
+    "longitude": 79.6736562,
+    "place_id": "ChIJF-hpPtANnjkR976AAt7l2ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-hpPtANnjkR976AAt7l2ho",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:52:10"
+  }
+]

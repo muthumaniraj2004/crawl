@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sumit Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "209745",
+    "phone_number": "+91 79852 08636",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Dharm Chauraha, Shankar Ji Ka Mandir, Farrukhabad, Budhanpur, Uttar Pradesh 209625",
+    "area": "209745",
+    "latitude": 27.433491699999998,
+    "longitude": 79.5250401,
+    "place_id": "ChIJPR5HcYovnjkRJHaR_LFNOOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPR5HcYovnjkRJHaR_LFNOOE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:30"
+  },
+  {
+    "business_name": "Ambey Medical Store",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "209745",
+    "phone_number": "+91 73002 05908",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Samsabad, Ramapur, Jasu, Roshnabad, Uttar Pradesh 209745",
+    "area": "Ramapur",
+    "latitude": 27.5081107,
+    "longitude": 79.4866333,
+    "place_id": "ChIJ7T7Z1egtnjkRMfZ1EwJevbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7T7Z1egtnjkRMfZ1EwJevbM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:30"
+  }
+]

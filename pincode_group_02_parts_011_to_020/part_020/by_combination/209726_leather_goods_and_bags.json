@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Leather Works",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Leather Products Manufacturer",
+    "pincode": "209726",
+    "phone_number": "+91 98112 58332",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "T-565,Pragati Complex,Idgah Circle,Chamelian Road, New Delhi, Delhi 110006",
+    "area": "Police Colony, Sarai Khalil, Sadar Bazar",
+    "latitude": 28.655424699999998,
+    "longitude": 77.2044598,
+    "place_id": "ChIJq6qqLnr9DDkRL8Nb132qkG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqLnr9DDkRL8Nb132qkG0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:18"
+  },
+  {
+    "business_name": "Leather goods (UM leathers)",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Leather goods supplier, Shoe store",
+    "pincode": "209726",
+    "phone_number": "+91 79051 63472",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SHOP NO.3, Balaji Complex, LGF, Kursi Rd, Tedhi Pulia, Sector 14, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Tedhi Pulia, Sector 14, Vikas Nagar",
+    "latitude": 26.906523399999998,
+    "longitude": 80.95612539999999,
+    "place_id": "ChIJQ4CptgRXmTkRBAlzMucyP6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4CptgRXmTkRBAlzMucyP6k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:19"
+  }
+]

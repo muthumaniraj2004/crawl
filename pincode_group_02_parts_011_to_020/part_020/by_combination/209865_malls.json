@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goldie mall",
+    "search_category": "Malls",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209865",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9Q9Q+MH5, Panhan, Purander Pur, Uttar Pradesh 209867",
+    "area": "209865",
+    "latitude": 26.3691259,
+    "longitude": 80.7889831,
+    "place_id": "ChIJ8xHNLwB3nDkRq5mwWCZ7Dag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xHNLwB3nDkRq5mwWCZ7Dag",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:12"
+  },
+  {
+    "business_name": "Mahi Printers",
+    "search_category": "Malls",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, Shopping mall",
+    "pincode": "209865",
+    "phone_number": "+91 97944 47346",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "bus stop, Navale market, Bighapur, Uttar Pradesh 209865",
+    "area": "209865",
+    "latitude": 26.3520917,
+    "longitude": 80.655335,
+    "place_id": "ChIJtcRl3bJxnDkRZB0o_Q939KA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcRl3bJxnDkRZB0o_Q939KA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:13"
+  }
+]

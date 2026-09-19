@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIP Lounge",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Bag shop",
+    "pincode": "209827",
+    "phone_number": "+91 89127 02977",
+    "website": "https://vipbags.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Isnar Plaza, D.No:47-10-21/2, 1st Ln, opp. kalanikethan shopping mall, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Dwaraka Nagar",
+    "latitude": 17.7260731,
+    "longitude": 83.3064125,
+    "place_id": "ChIJR38nnTxDOToRG_aUWDNZ4Rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR38nnTxDOToRG_aUWDNZ4Rw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:33"
+  },
+  {
+    "business_name": "A.D.I Leather Zone - Leather Bags & Leather Wallets Manufacturer",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Leather goods supplier, Leather Goods Wholesaler",
+    "pincode": "209827",
+    "phone_number": "+91 94776 58219",
+    "website": "https://adi-leather-zone-leather.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "53 F, West Chowbaga Rd, Paschim Chowbaga, Kolkata, West Bengal 700105",
+    "area": "Paschim Chowbaga",
+    "latitude": 22.5282315,
+    "longitude": 88.4064004,
+    "place_id": "ChIJRXIvzFJ3AjoR0QmL8yMi8xA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXIvzFJ3AjoR0QmL8yMi8xA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:34"
+  }
+]

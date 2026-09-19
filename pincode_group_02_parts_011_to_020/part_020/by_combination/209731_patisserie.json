@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Ayat Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "209731",
+    "phone_number": "+91 96967 63417",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4P9Q+C6V, Gursahaiganj - Jalaun Rd, Gandhi Nagar, Gursahaiganj, Uttar Pradesh 209722",
+    "area": "Gandhi Nagar",
+    "latitude": 27.118622199999997,
+    "longitude": 79.73806019999999,
+    "place_id": "ChIJ82h2HQAVnjkRhIDuzYzl72A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82h2HQAVnjkRhIDuzYzl72A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:02:32"
+  },
+  {
+    "business_name": "Dharmendra Softies",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "209731",
+    "phone_number": "+91 96952 46020",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "658, Kanpur, Uttar Pradesh 209723",
+    "area": "209731",
+    "latitude": 26.9792618,
+    "longitude": 79.59669009999999,
+    "place_id": "ChIJSV76BPIRnjkRbtDULddXxMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSV76BPIRnjkRbtDULddXxMU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:02:35"
+  }
+]

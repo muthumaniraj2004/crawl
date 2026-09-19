@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food & Frozen Mart",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209862",
+    "phone_number": "+91 63706 21796",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "7VX7+Q24, New Colony, Palasuni, Rasulgarh, Bhubaneswar, Odisha 751010",
+    "area": "New Colony, Palasuni, Rasulgarh",
+    "latitude": 20.2993934,
+    "longitude": 85.8625845,
+    "place_id": "ChIJ-4Z9oPcLGToRAmS-dTzlIzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4Z9oPcLGToRAmS-dTzlIzA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:37:41"
+  },
+  {
+    "business_name": "SS Frozen World Katak",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209862",
+    "phone_number": "+91 94373 23001",
+    "website": "https://ssfrozenworld.com/",
+    "rating": 4.4,
+    "reviews_count": 64,
+    "address": "Cantonment Rd, Buxi Bazaar, Kataka, Odisha 753001",
+    "area": "Buxi Bazaar",
+    "latitude": 20.478970399999998,
+    "longitude": 85.877724,
+    "place_id": "ChIJASjrPxETGToRwaTkr1D814A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASjrPxETGToRwaTkr1D814A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:37:41"
+  }
+]

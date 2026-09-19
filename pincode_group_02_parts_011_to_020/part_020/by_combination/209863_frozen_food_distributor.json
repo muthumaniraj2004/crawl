@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APF Food Products",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "209863",
+    "phone_number": "+91 98395 30786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Katra Diwan Kheda, Bighapur, Uttar Pradesh 209865",
+    "area": "209863",
+    "latitude": 26.328462899999998,
+    "longitude": 80.67495989999999,
+    "place_id": "ChIJS_d1z19wnDkRAm3U41_Hi-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_d1z19wnDkRAm3U41_Hi-g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:25"
+  },
+  {
+    "business_name": "Ar Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "209863",
+    "phone_number": "+91 87885 89277",
+    "website": "https://ar-frozen-foods.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 4, Dure Apartment, No. 8, next to Durrani Complex, Meeta Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Meeta Nagar, Kondhwa",
+    "latitude": 18.4706234,
+    "longitude": 73.88588469999999,
+    "place_id": "ChIJJWZ5NX3rwjsR-MmFhwrdOMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWZ5NX3rwjsR-MmFhwrdOMM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:27"
+  }
+]

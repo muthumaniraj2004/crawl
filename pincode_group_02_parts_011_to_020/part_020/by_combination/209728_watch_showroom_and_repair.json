@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja Watch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "209728",
+    "phone_number": "+91 99972 77999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Feeder Rd, Bidhuna, Uttar Pradesh 206243",
+    "area": "209728",
+    "latitude": 26.8004666,
+    "longitude": 79.5087049,
+    "place_id": "ChIJt-2QoKkHnjkRQHEx4bgB4lY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-2QoKkHnjkRQHEx4bgB4lY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:59:36"
+  },
+  {
+    "business_name": "The Time Store",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Battery Store, Clock repair service, Clock and watch maker, Digital printer, Gold dealer, Repair service, Watch Manufacturer, Watch repair service",
+    "pincode": "209728",
+    "phone_number": "+91 98190 72131",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1186,
+    "address": "Shop No. A-1, Ashish Building, Sahar Rd, opposite Agarkar Chowk, Railway Colony, Andheri East, Mumbai, Maharashtra 400069",
+    "area": "Railway Colony, Andheri East",
+    "latitude": 19.117716599999998,
+    "longitude": 72.8478366,
+    "place_id": "ChIJt7WxREjI5zsRzZe8fjmSI7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7WxREjI5zsRzZe8fjmSI7o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:59:38"
+  }
+]

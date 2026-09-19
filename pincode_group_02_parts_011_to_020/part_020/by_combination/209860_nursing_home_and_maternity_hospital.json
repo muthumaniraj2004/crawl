@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhargava Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "209860",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 31,
+    "address": "5, Nehru Rd, Sadar Bazaar, Cantonment, Lucknow, Uttar Pradesh 226002",
+    "area": "Sadar Bazaar, Cantonment",
+    "latitude": 26.825492,
+    "longitude": 80.945646,
+    "place_id": "ChIJ3T5Eyvn8mzkRbH4H2IaKTwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T5Eyvn8mzkRbH4H2IaKTwA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:26"
+  },
+  {
+    "business_name": "Aastha Maternity & Laparoscopy Centre",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Dental clinic, Endoscopist, Gynecologist, Maternity Centre, Medical Center, Orthopedic clinic, Urology clinic",
+    "pincode": "209860",
+    "phone_number": "+91 522 407 0369",
+    "website": "http://www.aasthasurgery.com/",
+    "rating": 4.6,
+    "reviews_count": 1553,
+    "address": "C.P. 4, Kanpur - Lucknow Rd, Pakri Ka Pul, Sector H, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Pakri Ka Pul, Sector H, LDA Colony",
+    "latitude": 26.797451,
+    "longitude": 80.9131852,
+    "place_id": "ChIJG835wg78mzkR1D_dmMft5Pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG835wg78mzkR1D_dmMft5Pk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:26"
+  }
+]

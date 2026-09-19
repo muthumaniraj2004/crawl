@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MO KALAM",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209749",
+    "phone_number": "+91 63065 79661",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "04, Raigayi, Katri Bhojpur, Uttar Pradesh 209749",
+    "area": "Raigayi",
+    "latitude": 27.3116143,
+    "longitude": 79.633099,
+    "place_id": "ChIJlbtKEn87njkRu9SE3eXnHkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbtKEn87njkRu9SE3eXnHkw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:23"
+  },
+  {
+    "business_name": "Ramsewak namkeens",
+    "search_category": "Supermarket",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "209749",
+    "phone_number": "+91 80520 22764",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 40,
+    "address": "Nehru Rd, opposite Mittu kucha, Manhari, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Manhari",
+    "latitude": 27.39013,
+    "longitude": 79.5813411,
+    "place_id": "ChIJdTF_oTUwnjkRtPgLrwugyqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTF_oTUwnjkRtPgLrwugyqw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:26"
+  }
+]

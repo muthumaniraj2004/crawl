@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery delivery service, Milk delivery service, Soft drinks shop",
+    "pincode": "209725",
+    "phone_number": "+91 89339 27073",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Alauddin puri post, Bhagwanpur, Makrand Nagar, Kannauj, Uttar Pradesh 209725",
+    "area": "Bhagwanpur, Makrand Nagar",
+    "latitude": 27.0468975,
+    "longitude": 79.9132513,
+    "place_id": "ChIJzSPDzGRvnjkR9xlbwlzgPk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSPDzGRvnjkR9xlbwlzgPk4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:54:23"
+  },
+  {
+    "business_name": "Pappu General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "209725",
+    "phone_number": "+91 98398 69171",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 24,
+    "address": "Saraimeera, Kannauj, Uttar Pradesh 209727",
+    "area": "Saraimeera",
+    "latitude": 27.0291326,
+    "longitude": 79.92504579999999,
+    "place_id": "ChIJmRIPqWZlnjkRJ6gjOx9l1zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRIPqWZlnjkRJ6gjOx9l1zc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:54:23"
+  }
+]

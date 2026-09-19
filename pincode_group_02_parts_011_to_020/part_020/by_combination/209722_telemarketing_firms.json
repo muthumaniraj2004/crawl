@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Dth",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service",
+    "pincode": "209722",
+    "phone_number": "+91 98899 38542",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4P8J HRV, Seth Kaddilal Complex, GT Rd, Shastri Nagar, Gursahaiganj, Uttar Pradesh 209722",
+    "area": "Shastri Nagar",
+    "latitude": 27.116297099999997,
+    "longitude": 79.731928,
+    "place_id": "ChIJB8QDXkgVnjkRp-P5hgWmrFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8QDXkgVnjkRp-P5hgWmrFA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:06"
+  },
+  {
+    "business_name": "Ruby Battery Service",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "209722",
+    "phone_number": "+91 97941 44347",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tirwa Road, Gursahaiganj, Uncha, Uttar Pradesh 209722",
+    "area": "209722",
+    "latitude": 27.0904641,
+    "longitude": 79.73229429999999,
+    "place_id": "ChIJg5jcGXUVnjkRMpQTpdE-OCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5jcGXUVnjkRMpQTpdE-OCA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:08"
+  }
+]

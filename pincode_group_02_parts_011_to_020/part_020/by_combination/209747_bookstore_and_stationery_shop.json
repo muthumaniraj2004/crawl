@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bargain Book Hut, Navi Mumbai",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Children's Book Store, Comic book store, Rare book store",
+    "pincode": "209747",
+    "phone_number": "+91 86554 11660",
+    "website": "http://www.bargainbookhutonline.com/",
+    "rating": 4.1,
+    "reviews_count": 1188,
+    "address": "S-31, Second Floor, Nexus Seawoods Mall Seawoods Railway Station, Sector 40, W, Nerul, Navi Mumbai, Maharashtra 400706",
+    "area": "Nerul East, W, Nerul",
+    "latitude": 19.0215934,
+    "longitude": 73.0185983,
+    "place_id": "ChIJb_GevL3D5zsR6EJ2bAVABXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_GevL3D5zsR6EJ2bAVABXc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:53"
+  },
+  {
+    "business_name": "Saraswati Book Centre Shikohabad",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Books Wholesaler, Pen store, Stationery wholesaler",
+    "pincode": "209747",
+    "phone_number": "+91 94124 30492",
+    "website": "https://eshopsbc.wixsite.com/info",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "Narain Hotel Triraha, Station Rd, Shikohabad, Uttar Pradesh 283135",
+    "area": "209747",
+    "latitude": 27.106709799999997,
+    "longitude": 78.58071939999999,
+    "place_id": "ChIJOYuG0K5LdDkRlsyJux8eAic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYuG0K5LdDkRlsyJux8eAic",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:53"
+  }
+]

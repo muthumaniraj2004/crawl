@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chicksum.com",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop, Egg supplier, Meat processor, Meat products store, Meat wholesaler, Seafood wholesaler",
+    "pincode": "209726",
+    "phone_number": "+91 99880 04146",
+    "website": "https://www.chicksum.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B22/7, Kashmiri Ganj Rd, Kashmiri Ganj, Khojwan, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Kashmiri Ganj, Khojwan, Bhelupur",
+    "latitude": 25.296809399999997,
+    "longitude": 82.9953556,
+    "place_id": "ChIJLTRmKA8xjjkRR2qMAsbv3zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTRmKA8xjjkRR2qMAsbv3zM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:04"
+  },
+  {
+    "business_name": "Babu Jhatka Mutton & Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store, Butcher shop deli, Meat products store, Chicken & Mutton Shop",
+    "pincode": "209726",
+    "phone_number": "+91 98107 58852",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Shop No 19 & 20, LIG flats, DDA Market, Block J, Rajouri Garden Extension, Rajouri Garden, New Delhi, Delhi, 110027",
+    "area": "Block J, Rajouri Garden Extension, Rajouri Garden",
+    "latitude": 28.639381399999998,
+    "longitude": 77.1152278,
+    "place_id": "ChIJ____v2sDDTkR9lUammTZRYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____v2sDDTkR9lUammTZRYs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:04"
+  }
+]

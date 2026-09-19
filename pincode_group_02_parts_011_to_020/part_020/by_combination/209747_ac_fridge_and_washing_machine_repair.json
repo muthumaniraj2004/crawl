@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gen1service Center",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "209747",
+    "phone_number": "+91 94110 01216",
+    "website": "https://www.gen1service.com/",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "Gen1service Center, 209747, India",
+    "area": "209747",
+    "latitude": 29.0948069,
+    "longitude": 77.3871365,
+    "place_id": "ChIJN3zK4lqYX6sRdEkYDeBX3es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3zK4lqYX6sRdEkYDeBX3es",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:31"
+  },
+  {
+    "business_name": "Jayanti building material and Spares",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Store",
+    "all_categories": "Store, Air conditioning repair service, Appliance parts supplier, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "209747",
+    "phone_number": "+91 86308 15092",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WFG3+H37, chapunna, chupanna, Bausia, Uttar Pradesh 209728",
+    "area": "chapunna",
+    "latitude": 26.926575999999997,
+    "longitude": 79.4533822,
+    "place_id": "ChIJM18Pa_QDnjkRfhFLZFMe3nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM18Pa_QDnjkRfhFLZFMe3nM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:33"
+  }
+]

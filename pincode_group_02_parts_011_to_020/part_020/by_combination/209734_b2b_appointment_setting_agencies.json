@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Callbox Singapore",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Business development service, Business management consultant, Business to business service, Internet marketing service, Marketing consultant, Telephone Marketing Agency",
+    "pincode": "209734",
+    "phone_number": "N/A",
+    "website": "https://www.callbox.com.sg/?utm_source=gbp",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1, #24-10 Scotts Rd, Shaw Centre, Singapore 228208",
+    "area": "Central Area",
+    "latitude": 1.3061429999999998,
+    "longitude": 103.83171499999999,
+    "place_id": "ChIJq6qqYg4Z2jERcQSm88jMK_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqYg4Z2jERcQSm88jMK_Q",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:08:53"
+  },
+  {
+    "business_name": "SeniorConsultantsBiz",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "209734",
+    "phone_number": "+91 99711 50777",
+    "website": "http://seniorconsultants.biz/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SeniorConsultantsBiz, 209734, India",
+    "area": "209734",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJY8z13bXVXy8RZVx6efC6F4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8z13bXVXy8RZVx6efC6F4o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:08:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cross fit gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "209825",
+    "phone_number": "+91 95062 52752",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Downtown Bypass Road, Kaisar Ganj, Qila Bazar, Chaudrana, Unnao, Uttar Pradesh 209801",
+    "area": "Kaisar Ganj, Qila Bazar, Chaudrana",
+    "latitude": 26.5429663,
+    "longitude": 80.4905581,
+    "place_id": "ChIJeZMn0bAVnDkRqxMqywKygmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZMn0bAVnDkRqxMqywKygmU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:04"
+  },
+  {
+    "business_name": "Fitness Empire",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "209825",
+    "phone_number": "+91 78007 27474",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "bypass near MRF agency ,209801, Gadan Khera, Uttar Pradesh 209801",
+    "area": "Nirala Nagar",
+    "latitude": 26.517418,
+    "longitude": 80.48759559999999,
+    "place_id": "ChIJEZGecA8VnDkRNJr7jxowHXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZGecA8VnDkRNJr7jxowHXE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:04"
+  }
+]

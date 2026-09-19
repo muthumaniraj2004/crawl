@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swosti Consultancy",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Consultant, Lawyer",
+    "pincode": "209831",
+    "phone_number": "+91 98610 35535",
+    "website": "https://www.swosticonsultancy.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No. PP 19, Tankapani Rd, Badagada Brit Colony, Pandav Nagar, Bhubaneswar, Odisha 751018",
+    "area": "Badagada Brit Colony, Pandav Nagar",
+    "latitude": 20.245760999999998,
+    "longitude": 85.85017649999999,
+    "place_id": "ChIJZdAHozqnGToRXaYv4wP-Q9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdAHozqnGToRXaYv4wP-Q9o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:30:14"
+  },
+  {
+    "business_name": "Rabbani Masood & Co. Chartered Accountants",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "209831",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "39/78, Rabbani Masood & Co., Chartered Accountants, Meston Rd, Mulganj Chauraha, Parade, Kanpur, Uttar Pradesh 208001",
+    "area": "Mulganj Chauraha, Parade",
+    "latitude": 26.4678346,
+    "longitude": 80.34800779999999,
+    "place_id": "ChIJCWVohRBHnDkRaxW2y0Vu_q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWVohRBHnDkRaxW2y0Vu_q0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:30:15"
+  }
+]

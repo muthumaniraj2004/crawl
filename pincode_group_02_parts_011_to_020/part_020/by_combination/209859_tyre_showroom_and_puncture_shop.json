@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RV Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "209859",
+    "phone_number": "+91 99361 96385",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Daroga Kera Marg, Chandra Shekhar Azad Nagar colony, Miranpur Pinvat, Uttar Pradesh 226401",
+    "area": "Chandra Shekhar Azad Nagar colony",
+    "latitude": 26.7221409,
+    "longitude": 80.84632599999999,
+    "place_id": "ChIJAX6MZAD5mzkRTzn9K01edQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAX6MZAD5mzkRTzn9K01edQc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:32:54"
+  },
+  {
+    "business_name": "Vatsa Salesmart",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "209859",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Vihar Colony, Daroga Kheda, Lucknow, Miranpur Pinvat, Uttar Pradesh 226401",
+    "area": "Ram Vihar Colony, Daroga Kheda",
+    "latitude": 26.7217077,
+    "longitude": 80.84296859999999,
+    "place_id": "ChIJT8ga48j5mzkRXuSjWAOFRHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8ga48j5mzkRXuSjWAOFRHE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:32:54"
+  }
+]

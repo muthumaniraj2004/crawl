@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "209866",
+    "phone_number": "+91 94151 54880",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "GFWP+HCF, Bada Chauraha, Station Lines, Unnao, Uttar Pradesh 209801",
+    "area": "Bada Chauraha, Station Lines",
+    "latitude": 26.546427899999998,
+    "longitude": 80.4860391,
+    "place_id": "ChIJMV8sULgVnDkRCH7ATHbxedQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMV8sULgVnDkRCH7ATHbxedQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:33"
+  },
+  {
+    "business_name": "Radha jwellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "209866",
+    "phone_number": "+91 87564 01868",
+    "website": "https://instagram.com/harshitrastogi_hsr?igshid=ZDdkNTZiNTM=",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Bangarmau - Sandila Rd, sarheri puliya, Unnao, Sarehri, Uttar Pradesh 241305",
+    "area": "sarheri puliya",
+    "latitude": 26.9995172,
+    "longitude": 80.3603153,
+    "place_id": "ChIJoyTjne2bnjkRxa30SglLEQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyTjne2bnjkRxa30SglLEQc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:34"
+  }
+]

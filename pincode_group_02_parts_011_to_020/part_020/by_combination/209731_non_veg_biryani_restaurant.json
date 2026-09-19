@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veg biryani centre",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209731",
+    "phone_number": "+91 88962 29161",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rd, Talgram, Tera Jaket, Uttar Pradesh 209731",
+    "area": "209731",
+    "latitude": 27.0703887,
+    "longitude": 79.65184719999999,
+    "place_id": "ChIJXQiEjFMTnjkRkFArp7qdm7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQiEjFMTnjkRkFArp7qdm7I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:02:34"
+  },
+  {
+    "business_name": "Biryani Nawaabs in Lucknow",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "209731",
+    "phone_number": "+91 70804 62999",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SHOP N-C-1, Kapoorthala Road, Sector F, Sector A, Chandralok, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector F, Sector A, Chandralok",
+    "latitude": 26.8832949,
+    "longitude": 80.9454842,
+    "place_id": "ChIJh22zTABXmTkRuEdD-2UQrYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh22zTABXmTkRuEdD-2UQrYo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:02:35"
+  }
+]

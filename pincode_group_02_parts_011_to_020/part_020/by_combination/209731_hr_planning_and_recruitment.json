@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "91HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "209731",
+    "phone_number": "+91 88061 21926",
+    "website": "https://91hr.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5th Floor, Star, Gera Imperium Patto Plaza, 523, patto, Patto Centre, Panaji, Goa 403001",
+    "area": "Patto Centre",
+    "latitude": 15.4953322,
+    "longitude": 73.8337368,
+    "place_id": "ChIJr7Ot_I-zvzsRUMf5oCkL264",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7Ot_I-zvzsRUMf5oCkL264",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:03:43"
+  },
+  {
+    "business_name": "H R Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "209731",
+    "phone_number": "+91 265 232 1068",
+    "website": "http://www.hrsolutions.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "D-502, NIsarg Complex, Old Padra Rd, Off, Diwalipura, Vadodara, Gujarat 390007",
+    "area": "Off, Diwalipura",
+    "latitude": 22.304852099999998,
+    "longitude": 73.1557271,
+    "place_id": "ChIJg27n_xvGXzkRFbNfrz3lAl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg27n_xvGXzkRFbNfrz3lAl8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:03:43"
+  }
+]

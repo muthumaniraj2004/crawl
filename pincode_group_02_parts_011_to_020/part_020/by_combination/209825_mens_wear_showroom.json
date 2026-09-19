@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvesh Men's Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209825",
+    "phone_number": "+91 98070 61880",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "opposite Panjab Netional Bank PO & PS, Tahsil, Achalganj, Bethar, Uttar Pradesh 209860",
+    "area": "Tahsil",
+    "latitude": 26.4399454,
+    "longitude": 80.54631789999999,
+    "place_id": "ChIJR-7VagBtnDkRTVBPUx-QM5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-7VagBtnDkRTVBPUx-QM5c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:25:45"
+  },
+  {
+    "business_name": "New Fashion Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209825",
+    "phone_number": "+91 91207 65258",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Rahman Market, Unnao, Nawabganj, Uttar Pradesh 209859",
+    "area": "209825",
+    "latitude": 26.6192629,
+    "longitude": 80.6686976,
+    "place_id": "ChIJCf_QUAEPnDkRzDNJM61RIjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCf_QUAEPnDkRzDNJM61RIjQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:25:45"
+  }
+]

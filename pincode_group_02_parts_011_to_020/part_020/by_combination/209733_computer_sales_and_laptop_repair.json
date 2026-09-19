@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer Wholesaler",
+    "pincode": "209733",
+    "phone_number": "+91 99352 35198",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 37,
+    "address": "62, in front of Hpcl Pump Transport Crossing, Tompson Ganj, Sitapur, Uttar Pradesh 261001",
+    "area": "Tompson Ganj, Vijay Laxmi Nagar",
+    "latitude": 27.5663958,
+    "longitude": 80.68123109999999,
+    "place_id": "ChIJz9upwFXWnjkReOZ7fLUgLLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9upwFXWnjkReOZ7fLUgLLg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:06:54"
+  },
+  {
+    "business_name": "MeraLaptop Tech Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer store",
+    "pincode": "209733",
+    "phone_number": "+91 99184 62222",
+    "website": "https://meralaptop.in/",
+    "rating": 4.8,
+    "reviews_count": 40,
+    "address": "SR Complex, Kothari Bandhu Rd, near Mini jewellers, chauraha, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "chauraha, Rajajipuram",
+    "latitude": 26.850158999999998,
+    "longitude": 80.8847206,
+    "place_id": "ChIJW80nnRn_mzkRc_QtpKceVO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW80nnRn_mzkRc_QtpKceVO4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:06:54"
+  }
+]

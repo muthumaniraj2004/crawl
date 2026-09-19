@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sweet Home Shree Kanhaiya Lal House",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "209734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kannauj 1, Kannauj, Uttar Pradesh 209734",
+    "area": "209734",
+    "latitude": 26.9440952,
+    "longitude": 79.9095863,
+    "place_id": "ChIJudpDtsxxnjkR3f0Y6nYDhwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudpDtsxxnjkR3f0Y6nYDhwA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:08:59"
+  },
+  {
+    "business_name": "Ration shop",
+    "search_category": "Shops",
+    "primary_category": "Government ration shop",
+    "all_categories": "Government ration shop",
+    "pincode": "209734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "VWPQ+V96, Bahsuia, Uttar Pradesh 209734",
+    "area": "209734",
+    "latitude": 26.887174299999998,
+    "longitude": 79.93839659999999,
+    "place_id": "ChIJjXvq7wx5njkR6WDuXFWnRs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXvq7wx5njkR6WDuXFWnRs4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:08:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Terra Spa Noida",
+    "search_category": "Spa",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa",
+    "pincode": "209733",
+    "phone_number": "+91 120 428 4488",
+    "website": "http://www.blueterra.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st Floor, Dharam Place, K 1, above ICICI BANK, K Block, Pocket E, Sector 18, Noida, Uttar Pradesh 201301",
+    "area": "K Block, Pocket E, Sector 18",
+    "latitude": 28.5715912,
+    "longitude": 77.3225035,
+    "place_id": "ChIJ28y_P0_kDDkRBdUiUbjJSgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28y_P0_kDDkRBdUiUbjJSgs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:06:33"
+  },
+  {
+    "business_name": "Armara SPA CP",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa",
+    "pincode": "209733",
+    "phone_number": "+91 75494 59683",
+    "website": "https://www.redorchidspa.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "M 13 A, 3rd Floor, M Block Punj House near, next to Chili's Grill & Bar, New Delhi, Delhi 110001",
+    "area": "Block M, Connaught Place",
+    "latitude": 28.631785999999998,
+    "longitude": 77.2224837,
+    "place_id": "ChIJveWpIRb9DDkRjicz1c6p9-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveWpIRb9DDkRjicz1c6p9-E",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:06:34"
+  }
+]

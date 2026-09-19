@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav singh",
+    "search_category": "Boutiques",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "209738",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPVR+Q68, Firozpur, Uttar Pradesh 209738",
+    "area": "209738",
+    "latitude": 26.8945881,
+    "longitude": 79.74066289999999,
+    "place_id": "ChIJkSWBdQBznjkRoM-oI8TjHAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSWBdQBznjkRoM-oI8TjHAE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:36"
+  },
+  {
+    "business_name": "मिरुअन मडहा ( Miruan Madha )",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "209738",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "Miruan madha, Kudihna, Uttar Pradesh 209738",
+    "area": "209738",
+    "latitude": 26.857102899999997,
+    "longitude": 79.75043029999999,
+    "place_id": "ChIJo5PyFZx1njkRHzSVtrI3SP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5PyFZx1njkRHzSVtrI3SP0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:36"
+  }
+]

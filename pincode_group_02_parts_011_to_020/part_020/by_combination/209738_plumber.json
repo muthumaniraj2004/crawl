@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeta Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209738",
+    "phone_number": "+91 95017 95880",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bilaspur Rd, near Fattak, Khamanon, Punjab 141801",
+    "area": "209738",
+    "latitude": 30.805030799999997,
+    "longitude": 76.3494712,
+    "place_id": "ChIJdb22sDMFEDkRsE_hJslR8_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdb22sDMFEDkRsE_hJslR8_A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:13:01"
+  },
+  {
+    "business_name": "Nayamat",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209738",
+    "phone_number": "+91 63863 11009",
+    "website": "https://ahamadnayamat.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Padari road, Padri, Maharajganj, Baspar Baijauli, Uttar Pradesh 273303",
+    "area": "Padri",
+    "latitude": 27.1378198,
+    "longitude": 83.5619045,
+    "place_id": "ChIJ79Z041qpljkRdRqWX8swoSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79Z041qpljkRdRqWX8swoSk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:13:01"
+  }
+]

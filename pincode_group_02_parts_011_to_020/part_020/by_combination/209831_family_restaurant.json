@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Maa Chandika Devi Restaurant & Hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "209831",
+    "phone_number": "+91 63906 89109",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kumedaan khera, Dahichowki unaao, Unnao, Uttar Pradesh 209801",
+    "area": "209831",
+    "latitude": 26.5681656,
+    "longitude": 80.5439475,
+    "place_id": "ChIJ35Ym1K8TnDkREIywJENX6XM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35Ym1K8TnDkREIywJENX6XM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:06"
+  },
+  {
+    "business_name": "The wok..",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209831",
+    "phone_number": "+91 84291 59621",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 43,
+    "address": "NH 27, Nawabganj, Amretha, Uttar Pradesh 209859",
+    "area": "209831",
+    "latitude": 26.619518799999998,
+    "longitude": 80.67103999999999,
+    "place_id": "ChIJV8cEia8PnDkRryGLS8gLHkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8cEia8PnDkRryGLS8gLHkk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:07"
+  }
+]

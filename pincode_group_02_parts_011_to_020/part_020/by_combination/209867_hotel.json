@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Yadav. Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209867",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9R6H+QQ8, Maurawan Rd, Kotwar, Uttar Pradesh 209866",
+    "area": "209867",
+    "latitude": 26.3619065,
+    "longitude": 80.82944789999999,
+    "place_id": "ChIJa-EPFwiJmzkR5Vh50hNxlpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-EPFwiJmzkR5Vh50hNxlpc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:46:53"
+  },
+  {
+    "business_name": "Astha palaces",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209867",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 22,
+    "address": "FCQ5+H8P, Dhaudhi Rautapur, Uttar Pradesh 209862",
+    "area": "209867",
+    "latitude": 26.4889573,
+    "longitude": 80.40834319999999,
+    "place_id": "ChIJmdYgFcQ_nDkR0NuRMPxU3u0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdYgFcQ_nDkR0NuRMPxU3u0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:46:54"
+  }
+]

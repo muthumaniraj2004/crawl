@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Therish",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer, Clothing supplier",
+    "pincode": "209726",
+    "phone_number": "+91 82668 41067",
+    "website": "http://www.therish.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5/24, near ITI Road, Rajnagar Colony, Aligarh, Uttar Pradesh 202001",
+    "area": "Rajnagar Colony",
+    "latitude": 27.9023842,
+    "longitude": 78.0615274,
+    "place_id": "ChIJeWtK9HeldDkRCgxNKI3ZVKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWtK9HeldDkRCgxNKI3ZVKA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:19"
+  },
+  {
+    "business_name": "Yash School Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "209726",
+    "phone_number": "+91 99995 05174",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Gali Number 36, Block RZ B, Raja Puri, Matiala, New Delhi, Delhi, 110059",
+    "area": "Block RZ B, Raja Puri, Matiala",
+    "latitude": 28.604222,
+    "longitude": 77.0581443,
+    "place_id": "ChIJF2yYfiobDTkRa9s6Z8YM3Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2yYfiobDTkRa9s6Z8YM3Jw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:19"
+  }
+]

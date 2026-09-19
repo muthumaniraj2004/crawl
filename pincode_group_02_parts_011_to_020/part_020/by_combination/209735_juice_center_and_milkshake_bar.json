@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice & shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "209735",
+    "phone_number": "+91 87646 46467",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "H89G+X2Q, B Block, P Block, Pocket C, Sector 18, Noida, Uttar Pradesh 201301",
+    "area": "B Block, P Block, Pocket C, Sector 18",
+    "latitude": 28.5699583,
+    "longitude": 77.3251247,
+    "place_id": "ChIJVbCwHTflDDkR_4Q3CVZjcxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbCwHTflDDkR_4Q3CVZjcxk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:09:05"
+  },
+  {
+    "business_name": "Verma fresh juice And Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "209735",
+    "phone_number": "+91 96530 00283",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "Shop No 1, GTB Market, Khanna, Punjab 141401",
+    "area": "GTB Market",
+    "latitude": 30.700656499999997,
+    "longitude": 76.22848979999999,
+    "place_id": "ChIJn4qHAwAREDkRC6WELfpfZvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4qHAwAREDkRC6WELfpfZvs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:09:06"
+  }
+]

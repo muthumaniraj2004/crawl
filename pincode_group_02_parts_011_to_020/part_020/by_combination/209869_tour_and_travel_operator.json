@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saini Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209869",
+    "phone_number": "+91 95802 32985",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Bank Of India, Kanpur, Uttar Pradesh 209869",
+    "area": "209869",
+    "latitude": 26.9581345,
+    "longitude": 80.1850807,
+    "place_id": "ChIJFapGNpuHnjkRqpOOffXn20A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFapGNpuHnjkRqpOOffXn20A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:49:48"
+  },
+  {
+    "business_name": "Amazing India Tours",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Hotel, Lodging, Sport tour agency, Taxi service, Tour operator, Tourist information center",
+    "pincode": "209869",
+    "phone_number": "+91 82668 41185",
+    "website": "http://amazingindiatours.com/",
+    "rating": 4.9,
+    "reviews_count": 204,
+    "address": "A 60, KPS Town, Jaipuria Green Sunrise, Inner Ring Road, Road, Shamshabad, Agra, Uttar Pradesh 282004",
+    "area": "Shamshabad",
+    "latitude": 27.1171766,
+    "longitude": 78.06928599999999,
+    "place_id": "ChIJU3opL83lDDkRc71JKqFRHC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3opL83lDDkRc71JKqFRHC0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:49:48"
+  }
+]

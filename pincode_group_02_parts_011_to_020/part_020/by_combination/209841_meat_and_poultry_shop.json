@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lusitania",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "209841",
+    "phone_number": "+91 73494 50003",
+    "website": "http://www.lusitania.in/",
+    "rating": 4.5,
+    "reviews_count": 44,
+    "address": "Shop No 3, Ground Floor, St Patrick's Complex, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.9711273,
+    "longitude": 77.6068385,
+    "place_id": "ChIJc7idFdUVrjsRUBXgvTaCMcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7idFdUVrjsRUBXgvTaCMcw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:30:43"
+  },
+  {
+    "business_name": "Prince Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "209841",
+    "phone_number": "+91 93149 61796",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 45,
+    "address": "Shop no. 42, Khatipura Rd, Premjeet Nagar, Jaswant Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Premjeet Nagar, Jaswant Nagar",
+    "latitude": 26.9285766,
+    "longitude": 75.74834349999999,
+    "place_id": "ChIJawxoKW6zbTkRTWI-bl4aGUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawxoKW6zbTkRTWI-bl4aGUk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:30:43"
+  }
+]

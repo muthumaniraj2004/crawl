@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Sons",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage store",
+    "pincode": "209865",
+    "phone_number": "+91 99152 11887",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 142,
+    "address": "Chopra Luggage, near Super Bazar, Sarain Mohalla, Pathankot, Punjab 145001",
+    "area": "Sarain Mohalla",
+    "latitude": 32.2740763,
+    "longitude": 75.6512104,
+    "place_id": "ChIJ21aJkmx_HDkReDdyGIapDA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21aJkmx_HDkReDdyGIapDA8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:42:53"
+  },
+  {
+    "business_name": "Fawz International",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Leather goods supplier",
+    "pincode": "209865",
+    "phone_number": "+91 98072 66260",
+    "website": "https://www.fawzinternational.com/",
+    "rating": 4.6,
+    "reviews_count": 33,
+    "address": "448 Tadbaghia, Tewaripur, Ashiana Avenue, Jajmau, Kanpur, Uttar Pradesh 208010",
+    "area": "Jajmau",
+    "latitude": 26.4196669,
+    "longitude": 80.4066501,
+    "place_id": "ChIJo9xHwQZBnDkR4IM7fcoBHE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9xHwQZBnDkR4IM7fcoBHE4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:42:55"
+  }
+]

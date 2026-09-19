@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahi Moradabad biryani",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "209862",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GF26+288, Shekhpur Nari, Uttar Pradesh 209862",
+    "area": "209862",
+    "latitude": 26.4994989,
+    "longitude": 80.4606281,
+    "place_id": "ChIJXxKvZwAVnDkRVSPvH2SAZeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxKvZwAVnDkRVSPvH2SAZeQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:37:38"
+  },
+  {
+    "business_name": "Jaalwala & Co.",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing store",
+    "all_categories": "Fishing store",
+    "pincode": "209862",
+    "phone_number": "+91 95806 61933",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "78/11, Chooriwali Gali, near Moolganj, Mulganj Crossing, Anwarganj, Mulganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Mulganj Crossing, Anwarganj, Mulganj",
+    "latitude": 26.466548699999997,
+    "longitude": 80.3465793,
+    "place_id": "ChIJa1lg_KtHnDkRQ_a8Y3vrbCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1lg_KtHnDkRQ_a8Y3vrbCI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:37:40"
+  }
+]

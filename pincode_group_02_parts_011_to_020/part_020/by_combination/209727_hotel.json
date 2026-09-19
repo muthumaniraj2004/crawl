@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banshi Bala Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209727",
+    "phone_number": "+91 84198 95902",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thathiya Road, Kareda, Patti, Kannauj, Uttar Pradesh 209732",
+    "area": "Kareda",
+    "latitude": 26.9418878,
+    "longitude": 79.8480112,
+    "place_id": "ChIJuU7FxfVxnjkRWA_MnsJ1abQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuU7FxfVxnjkRWA_MnsJ1abQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:58:35"
+  },
+  {
+    "business_name": "Aryan Hotel & Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209727",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kareda Puliya , Thathiya Patti, Road, Thathiya, Tirwaganj, Uttar Pradesh 209732",
+    "area": "Road",
+    "latitude": 26.9420772,
+    "longitude": 79.8480187,
+    "place_id": "ChIJjdX7LHdxnjkR1qKGMxHlKaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdX7LHdxnjkR1qKGMxHlKaI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:58:35"
+  }
+]

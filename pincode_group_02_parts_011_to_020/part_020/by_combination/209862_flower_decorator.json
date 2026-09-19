@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "209862",
+    "phone_number": "+91 79054 68277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "1, Block E, Krishna Nagar, Kanpur, Uttar Pradesh 208013",
+    "area": "Block E, Krishna Nagar",
+    "latitude": 26.4151585,
+    "longitude": 80.3642776,
+    "place_id": "ChIJTf9CMYZHnDkRqEdIXUH3-lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTf9CMYZHnDkRqEdIXUH3-lo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:38:34"
+  },
+  {
+    "business_name": "Raj Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Contractor",
+    "pincode": "209862",
+    "phone_number": "+91 77540 72526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6/555, Nehru Nagar, Shuklaganj, Kanpur, Netua Grameen, Uttar Pradesh 209861",
+    "area": "Nehru Nagar, Shuklaganj",
+    "latitude": 26.486970399999997,
+    "longitude": 80.39231339999999,
+    "place_id": "ChIJjVZig-I_nDkR0HgYcYULI9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVZig-I_nDkR0HgYcYULI9U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:38:35"
+  }
+]

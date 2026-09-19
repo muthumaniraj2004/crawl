@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "209841",
+    "phone_number": "+91 99882 83260",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "21, Uttar Pradesh 209841",
+    "area": "209841",
+    "latitude": 26.7940032,
+    "longitude": 80.59051079999999,
+    "place_id": "ChIJf7-YW_YdnDkRDWue_DonL4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7-YW_YdnDkRDWue_DonL4Y",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:31:33"
+  },
+  {
+    "business_name": "King hair dresser pro.Sonu sharma",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "209841",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "PM94+9HH, Nimadpur, Uttar Pradesh 209841",
+    "area": "209841",
+    "latitude": 26.718439699999998,
+    "longitude": 80.6564657,
+    "place_id": "ChIJMzQSYAAFnDkRDHYXAtHJ8IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzQSYAAFnDkRDHYXAtHJ8IE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:31:33"
+  }
+]

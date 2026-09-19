@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Siddhivinayak taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "209747",
+    "phone_number": "+91 96767 92912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TG 07 T 5663, Road number 6, L N Colony, Rajalingam Colony, Telephone Colony, Boduppal, Hyderabad, Telangana 500092",
+    "area": "L N Colony, Rajalingam Colony, Telephone Colony, Boduppal",
+    "latitude": 17.4294351,
+    "longitude": 78.5889938,
+    "place_id": "ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:21"
+  },
+  {
+    "business_name": "Taxilotrip - Koraput Travels agency & Koraput Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment, Sightseeing Tour Operator, Taxi service, Tour operator",
+    "pincode": "209747",
+    "phone_number": "+91 94038 90798",
+    "website": "https://www.taxilotrip.com/car",
+    "rating": 4.9,
+    "reviews_count": 137,
+    "address": "Taxilotrip - Koraput Travels agency & Koraput Taxi Services, 209747, India",
+    "area": "209747",
+    "latitude": 18.723975,
+    "longitude": 82.75179419999999,
+    "place_id": "ChIJhwL6GAT_OjoRH9sy7oZhonQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwL6GAT_OjoRH9sy7oZhonQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:23"
+  }
+]

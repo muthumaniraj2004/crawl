@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.C.D Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "209868",
+    "phone_number": "+91 70542 89907",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "End of devider, Lucknow Rd, Bangarmau, Kanpur, Uttar Pradesh 209868",
+    "area": "209868",
+    "latitude": 26.8862071,
+    "longitude": 80.2219128,
+    "place_id": "ChIJaU5MoNiDnjkRFMncTNgpyBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaU5MoNiDnjkRFMncTNgpyBo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:48:05"
+  },
+  {
+    "business_name": "Prime auto care car washing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Pressure washing service",
+    "all_categories": "Pressure washing service",
+    "pincode": "209868",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "R8WR+FX8, Takiya, Aoras, Nasir Pur, Uttar Pradesh 209870",
+    "area": "Takiya",
+    "latitude": 26.8461531,
+    "longitude": 80.3424466,
+    "place_id": "ChIJc_rVKQCdnjkRbnSBtzmygrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_rVKQCdnjkRbnSBtzmygrQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:48:07"
+  }
+]

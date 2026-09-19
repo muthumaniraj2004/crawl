@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gina Thayer - eXp Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Service establishment, Home builder",
+    "pincode": "209747",
+    "phone_number": "N/A",
+    "website": "https://ginathayer.exprealty.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gina Thayer - eXp Realty, 209747, India",
+    "area": "209747",
+    "latitude": 29.965135,
+    "longitude": -95.46119,
+    "place_id": "ChIJvW9yTDPNQIYRBhl_jv_DCwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvW9yTDPNQIYRBhl_jv_DCwM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:07"
+  },
+  {
+    "business_name": "Commercial Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "209747",
+    "phone_number": "N/A",
+    "website": "https://www.jannathomes.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Commercial Real Estate, 209747, India",
+    "area": "209747",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJf7CWgOGZJAgR1ro0cOLgjmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7CWgOGZJAgR1ro0cOLgjmo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:09"
+  }
+]

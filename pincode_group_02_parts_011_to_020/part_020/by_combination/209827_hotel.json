@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO 23722 Hotel Avaa Continental",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "209827",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/46055/",
+    "rating": 3.8,
+    "reviews_count": 438,
+    "address": "1, Rajdhani Marg, Shuklaganj, rudranaga, Dhaudhi Rautapur, Uttar Pradesh 209862",
+    "area": "Shuklaganj",
+    "latitude": 26.496658099999998,
+    "longitude": 80.40241449999999,
+    "place_id": "ChIJaXZs0ww_nDkRmrnnLbNekqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXZs0ww_nDkRmrnnLbNekqk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:28:16"
+  },
+  {
+    "business_name": "SPOT ON New Hotel Green Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209827",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/168477/",
+    "rating": 3.5,
+    "reviews_count": 123,
+    "address": "Sabji Mandi, Kanpur - Lucknow Rd, Bara Chauraha, Chaudrana, Unnao, Uttar Pradesh 209801",
+    "area": "Bara Chauraha, Chaudrana",
+    "latitude": 26.546518,
+    "longitude": 80.487443,
+    "place_id": "ChIJt4ANNLgVnDkRydHxXIBdny8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4ANNLgVnDkRydHxXIBdny8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:28:16"
+  }
+]

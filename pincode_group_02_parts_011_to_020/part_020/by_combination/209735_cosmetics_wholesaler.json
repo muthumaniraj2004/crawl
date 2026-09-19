@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cosmetic Shop",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "209735",
+    "phone_number": "+91 73553 52265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Pandey Hata Rd, TP Nagar, Basantpur, Gorakhpur, Uttar Pradesh 273005",
+    "area": "TP Nagar, Basantpur",
+    "latitude": 26.7423309,
+    "longitude": 83.35818359999999,
+    "place_id": "ChIJCYIs-bFFkTkR5Sjg5nLAjm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYIs-bFFkTkR5Sjg5nLAjm8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:09:50"
+  },
+  {
+    "business_name": "यादव सदन",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler",
+    "pincode": "209735",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Haraha purwa, Uttar Pradesh 209733",
+    "area": "209735",
+    "latitude": 27.1536063,
+    "longitude": 79.7659846,
+    "place_id": "ChIJ-fEJ2J9rnjkRw9oRRMKKBp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fEJ2J9rnjkRw9oRRMKKBp4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:09:52"
+  }
+]

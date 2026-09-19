@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailash Bati chokha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "209727",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sandi Rd, Bilgram, Uttar Pradesh 241301",
+    "area": "209727",
+    "latitude": 27.1816747,
+    "longitude": 80.0383389,
+    "place_id": "ChIJD0zgSTFhnjkRpsHhb1jE42Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0zgSTFhnjkRpsHhb1jE42Q",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:57:45"
+  },
+  {
+    "business_name": "Dana Pani Restaurent",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209727",
+    "phone_number": "+91 94151 47280",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "krishna filling station, Jalalabad, Partappur, Uttar Pradesh 209733",
+    "area": "209727",
+    "latitude": 27.0957969,
+    "longitude": 79.7912158,
+    "place_id": "ChIJFVgu7IxrnjkRdkuvvcmR-iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVgu7IxrnjkRdkuvvcmR-iU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:57:46"
+  }
+]

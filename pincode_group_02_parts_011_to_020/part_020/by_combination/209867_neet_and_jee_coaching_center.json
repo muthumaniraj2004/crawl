@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eduzone",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Education center",
+    "pincode": "209867",
+    "phone_number": "+91 99557 24764",
+    "website": "http://www.eduzonejeet.com/",
+    "rating": 4.8,
+    "reviews_count": 464,
+    "address": "Eduzone, 2nd Floor, Punjab National Bank Devli, bus stand, 245, Devli Rd, Durga Vihar, Khanpur Village, Khanpur, New Delhi, Delhi 110080",
+    "area": "Durga Vihar, Khanpur Village, Khanpur",
+    "latitude": 28.5033949,
+    "longitude": 77.231532,
+    "place_id": "ChIJ0WXO8ZjhDDkRiyJUjK1VijM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WXO8ZjhDDkRiyJUjK1VijM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:47:00"
+  },
+  {
+    "business_name": "Coaching Center",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "209867",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "868, Narendra Nagar, Civil Lines, Lok Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Narendra Nagar, Civil Lines, Lok Nagar",
+    "latitude": 26.5470331,
+    "longitude": 80.483029,
+    "place_id": "ChIJbXVPsgEVnDkRcYgPhu3SPeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXVPsgEVnDkRcYgPhu3SPeE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:47:01"
+  }
+]

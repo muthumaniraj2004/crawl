@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gym Creation",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler",
+    "pincode": "209738",
+    "phone_number": "+91 80 4580 2433",
+    "website": "http://www.gymcreation.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "F-1, 75, Block F, Sector 16, Rohini, Delhi, 110089",
+    "area": "Block F, Sector 16, Rohini",
+    "latitude": 28.7347185,
+    "longitude": 77.1223504,
+    "place_id": "ChIJs7FlkL0BDTkRlmPXaf0v0uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7FlkL0BDTkRlmPXaf0v0uA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:48"
+  },
+  {
+    "business_name": "GALLANT FITNESS EQUIPMENTS",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler, Energy equipment and solutions, Fitness center",
+    "pincode": "209738",
+    "phone_number": "+91 99979 79488",
+    "website": "https://gallantfitnessequipments.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Roorkee Chungi, Ekta Vihar Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Ekta Vihar Colony",
+    "latitude": 29.4995308,
+    "longitude": 77.6922888,
+    "place_id": "ChIJb3m9poccDDkRLVd8leb3vSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3m9poccDDkRLVd8leb3vSE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:48"
+  }
+]

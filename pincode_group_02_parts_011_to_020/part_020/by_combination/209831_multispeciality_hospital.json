@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nishtha Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Maternity Centre, Surgical center",
+    "pincode": "209831",
+    "phone_number": "+91 94155 94965",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 20,
+    "address": "881, Abbas Bagh, Civil Lines, Lok Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Abbas Bagh, Civil Lines, Lok Nagar",
+    "latitude": 26.5545485,
+    "longitude": 80.4798019,
+    "place_id": "ChIJcca6LMIVnDkRECYQxBEpahY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcca6LMIVnDkRECYQxBEpahY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:18"
+  },
+  {
+    "business_name": "Mishra hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "209831",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "HF98+8VM, Abbaspur Rd, Vikas Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Vikas Nagar",
+    "latitude": 26.5683479,
+    "longitude": 80.4671762,
+    "place_id": "ChIJa8g6vMoVnDkR7kaA5byrhSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8g6vMoVnDkR7kaA5byrhSw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:18"
+  }
+]

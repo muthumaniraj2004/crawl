@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kebabcha Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Awadhi Restaurant, Breakfast restaurant, Brunch restaurant, Diner, Fast food restaurant, Lunch restaurant, Takeout restaurant, Mughlai restaurant, Turkish restaurant",
+    "pincode": "209729",
+    "phone_number": "+91 97172 02004",
+    "website": "http://www.kebabcha.com/",
+    "rating": 4.6,
+    "reviews_count": 118,
+    "address": "KebabCha Restaurant, Medical Rd, opp. Punjab National Bank, S.S Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "S.S Nagar",
+    "latitude": 27.911884699999998,
+    "longitude": 78.0845025,
+    "place_id": "ChIJh6Qfo9eldDkRYo6NMOWX9Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6Qfo9eldDkRYo6NMOWX9Cc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:03"
+  },
+  {
+    "business_name": "Shivam Fast Food Corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209729",
+    "phone_number": "+91 95696 30962",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "46, GT Rd, Malviyanagar, Sikanderpur, Uttar Pradesh 209729",
+    "area": "Malviyanagar",
+    "latitude": 27.1342017,
+    "longitude": 79.5956238,
+    "place_id": "ChIJW9uFkjwXnjkRaKzg7seC8nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9uFkjwXnjkRaKzg7seC8nc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:05"
+  }
+]

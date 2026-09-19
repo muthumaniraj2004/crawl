@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Maternity and Nursing Home Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Endoscopist, Fertility clinic, Obstetrician-gynecologist, Maternity Centre, Women's health clinic",
+    "pincode": "209731",
+    "phone_number": "+91 97692 67971",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Jai aptment, Dixit Rd, near Chetan School, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057",
+    "area": "Navpada, Vile Parle East, Vile Parle",
+    "latitude": 19.097152599999998,
+    "longitude": 72.84765349999999,
+    "place_id": "ChIJoXrosLPJ5zsRE4VeJgUDlr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXrosLPJ5zsRE4VeJgUDlr8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:02:52"
+  },
+  {
+    "business_name": "Good Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre, Doctor",
+    "pincode": "209731",
+    "phone_number": "+91 2522 243 395",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 69,
+    "address": "838G+C9F, Nashik Rd, near Tapola Car Studio, Chavindra, Bhiwandi, Maharashtra 421302",
+    "area": "Chavindra",
+    "latitude": 19.316074399999998,
+    "longitude": 73.07590909999999,
+    "place_id": "ChIJlaDC-0G95zsRC4D3w_SM35k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaDC-0G95zsRC4D3w_SM35k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:02:52"
+  }
+]

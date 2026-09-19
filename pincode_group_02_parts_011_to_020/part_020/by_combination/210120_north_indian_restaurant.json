@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, North Indian restaurant",
+    "pincode": "210120",
+    "phone_number": "+91 73557 94509",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 86,
+    "address": "Infront of State Bank of India, NH 35, near Punjab National Bank, Atarra, Uttar Pradesh 210201",
+    "area": "210120",
+    "latitude": 25.2862287,
+    "longitude": 80.5772963,
+    "place_id": "ChIJ0yczfTdMgzkRUuC6SNXW41c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yczfTdMgzkRUuC6SNXW41c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:57:51"
+  },
+  {
+    "business_name": "Veranda Bandra - Modern Indian Restaurant & Rooftop Bar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Modern Indian restaurant",
+    "all_categories": "Modern Indian restaurant, Banquet hall, Cocktail bar, Indian restaurant, Live music bar, Live music venue, Wine bar",
+    "pincode": "210120",
+    "phone_number": "+91 98200 27867",
+    "website": "http://theveranda.in/",
+    "rating": 4.2,
+    "reviews_count": 2958,
+    "address": "331, Doctor BR Ambedkar Road, Pali Hill, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Pali Pathar, Bandra West",
+    "latitude": 19.0667895,
+    "longitude": 72.83028329999999,
+    "place_id": "ChIJ9UGZ5RLJ5zsRQuwI1lTjzoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UGZ5RLJ5zsRQuwI1lTjzoY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:57:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mp Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Agrochemicals Supplier, Chemical Exporter, Chemical plant, Chemical wholesaler, Supplier, Household chemicals supplier, Industrial chemicals wholesaler, Suppliers, Water treatment supplier",
+    "pincode": "209745",
+    "phone_number": "+91 97005 26465",
+    "website": "https://www.mpchemicals.in/",
+    "rating": 4.9,
+    "reviews_count": 136,
+    "address": "A/15, opp. rajkamal transport, IDA, Balanagar, Hyderabad, Telangana 500037",
+    "area": "IDA, Balanagar",
+    "latitude": 17.463276699999998,
+    "longitude": 78.4436767,
+    "place_id": "ChIJc7tWZECRyzsRqa3YFkdZ_bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7tWZECRyzsRqa3YFkdZ_bg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:18:30"
+  },
+  {
+    "business_name": "Peer chemical industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "209745",
+    "phone_number": "+91 98660 67813",
+    "website": "https://peerchemicals.in/",
+    "rating": 4.6,
+    "reviews_count": 55,
+    "address": "Fathenagar Rd, beside masjid, Fatehnagar, Balanagar, Hyderabad, Telangana 500018",
+    "area": "Fatehnagar, Balanagar",
+    "latitude": 17.4617208,
+    "longitude": 78.4493414,
+    "place_id": "ChIJlzF_Y_KQyzsRiFBywUNz0OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzF_Y_KQyzsRiFBywUNz0OY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:18:30"
+  }
+]

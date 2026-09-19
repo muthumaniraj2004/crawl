@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abode Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Leasing service",
+    "pincode": "209738",
+    "phone_number": "+91 97931 97097",
+    "website": "https://abode-realty.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DLF Mypad, B-1 205, near Hyatt Regency, Vijaipur Colony, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijaipur Colony, Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.865517,
+    "longitude": 81.0069321,
+    "place_id": "ChIJddC92AjjmzkRmRUxD7U1HlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddC92AjjmzkRmRUxD7U1HlE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:13:35"
+  },
+  {
+    "business_name": "ANTHURIUM",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "209738",
+    "phone_number": "+91 98996 61290",
+    "website": "http://fortunehomz.com/",
+    "rating": 4,
+    "reviews_count": 25,
+    "address": "Plot No. 3, Sector 73, Basi Bahuddin Nagar, Noida, Uttar Pradesh 201316",
+    "area": "Sector 73",
+    "latitude": 28.593059,
+    "longitude": 77.3846688,
+    "place_id": "ChIJBx6wYX7vDDkR8twmTv2pEmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBx6wYX7vDDkR8twmTv2pEmI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:13:37"
+  }
+]

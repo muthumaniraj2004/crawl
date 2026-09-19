@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion king",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209862",
+    "phone_number": "+91 84238 79894",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2/384, Chandramukta Complex, RajdhaniMarg, gate ki samne, Rishi Nagar, Shuklaganj, Unnna, Uttar Pradesh 209861",
+    "area": "Rishi Nagar, Modern Colony, Shuklaganj",
+    "latitude": 26.479895199999998,
+    "longitude": 80.3872076,
+    "place_id": "ChIJvSRqipg_nDkR0vbsKqsrFvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSRqipg_nDkR0vbsKqsrFvU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:37:50"
+  },
+  {
+    "business_name": "Ali Brother",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209862",
+    "phone_number": "+91 77850 67440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mode, Magarwara Industrial Area, Karowan Bk, Unnao, Uttar Pradesh 209862",
+    "area": "Magarwara Industrial Area",
+    "latitude": 26.5325202,
+    "longitude": 80.46413,
+    "place_id": "ChIJv_BhANQVnDkRh1OMXXDjnA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_BhANQVnDkRh1OMXXDjnA0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:37:51"
+  }
+]

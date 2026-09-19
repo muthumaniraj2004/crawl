@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala Ji General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "209749",
+    "phone_number": "+91 89575 86633",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yakutganj Road Central Jail, Unnamed Road, Kirat Pur, Uttar Pradesh 209749",
+    "area": "209749",
+    "latitude": 27.3450444,
+    "longitude": 79.60632079999999,
+    "place_id": "ChIJYfE-T187njkRp9XyJt4eEmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfE-T187njkRp9XyJt4eEmY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:28"
+  },
+  {
+    "business_name": "Utkarsh General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "209749",
+    "phone_number": "+91 81279 47072",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "05, Lakhimpur, Lakhimpur Road, near Uchh Primary Vidyalay, Yaqut Ganj, Kirat Pur, Uttar Pradesh 209749",
+    "area": "209749",
+    "latitude": 27.3419423,
+    "longitude": 79.6003139,
+    "place_id": "ChIJ0a8P2347njkR5-6ointZIZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a8P2347njkR5-6ointZIZM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:29"
+  }
+]

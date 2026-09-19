@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Book Company (Rajarampuri)",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Art center, Art gallery, Office supply store, Office supply wholesaler, Pen store, Shoe store, Book store, Stationery wholesaler, Uniform store",
+    "pincode": "209865",
+    "phone_number": "+91 72498 66108",
+    "website": "http://www.jaibook.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Dayana App, 8th Ln, near bus route, Poorvarang, Mahalaxminagar, Rajarampuri, Kolhapur, Maharashtra 416008",
+    "area": "Poorvarang, Mahalaxminagar, Rajarampuri",
+    "latitude": 16.6940559,
+    "longitude": 74.2439658,
+    "place_id": "ChIJ-bjYjsMBwTsRq-kxvpnmOOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bjYjsMBwTsRq-kxvpnmOOs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:43:45"
+  },
+  {
+    "business_name": "Bajpai Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "209865",
+    "phone_number": "+91 96214 06375",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Bus Stop , 36, Purwa, Uttar Pradesh 209825",
+    "area": "209865",
+    "latitude": 26.4603631,
+    "longitude": 80.7690152,
+    "place_id": "ChIJVVVVVQF1nDkRX2O1z1QTdAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVQF1nDkRX2O1z1QTdAU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:43:45"
+  }
+]

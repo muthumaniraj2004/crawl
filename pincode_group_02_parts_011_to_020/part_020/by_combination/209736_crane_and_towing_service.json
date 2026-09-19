@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TIMMY TOWS",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "209736",
+    "phone_number": "N/A",
+    "website": "https://timmytows.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TIMMY TOWS, 209736, India",
+    "area": "209736",
+    "latitude": 35.2668975,
+    "longitude": -106.902129,
+    "place_id": "ChIJ8QiL7ekKu0sRUJKqvvCbJJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QiL7ekKu0sRUJKqvvCbJJU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:11:16"
+  },
+  {
+    "business_name": "WiseCars Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "209736",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WiseCars Towing, 209736, India",
+    "area": "209736",
+    "latitude": -25.77322,
+    "longitude": 28.167835,
+    "place_id": "ChIJyRZltN3AUmERJGxsJlvMBec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRZltN3AUmERJGxsJlvMBec",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:11:16"
+  }
+]

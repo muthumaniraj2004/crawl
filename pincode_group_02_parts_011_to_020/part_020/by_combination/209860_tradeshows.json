@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEX Exhibitions Pvt. Ltd.",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition planner",
+    "all_categories": "Exhibition planner, Advertising agency, Publisher",
+    "pincode": "209860",
+    "phone_number": "+91 11 4646 4848",
+    "website": "http://www.mexexhibits.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9 LGF, Sant Nagar, East of Kailash, New Delhi, Delhi 110065",
+    "area": "Sant Nagar, East of Kailash",
+    "latitude": 28.554698499999997,
+    "longitude": 77.24808569999999,
+    "place_id": "ChIJAWJWHcnjDDkRZ3s7NA-taVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWJWHcnjDDkRZ3s7NA-taVM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:35:33"
+  },
+  {
+    "business_name": "VVIP Events and Exhibition",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "209860",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Koyla Nagar, Krishna Nagar, Kanpur, Uttar Pradesh 208015",
+    "area": "Koyla Nagar, Krishna Nagar",
+    "latitude": 26.4083912,
+    "longitude": 80.372817,
+    "place_id": "ChIJtRcVjuVBnDkRaxyfzSzWSXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRcVjuVBnDkRaxyfzSzWSXU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:35:33"
+  }
+]

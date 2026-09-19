@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Pizza Lover’s Badarka",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "209860",
+    "phone_number": "+91 80808 38043",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Sabji Mandi, Badarka, Uttar Pradesh 209801",
+    "area": "209860",
+    "latitude": 26.458192699999998,
+    "longitude": 80.4980049,
+    "place_id": "ChIJ0U3bImhrnDkRefqIkD7F0eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U3bImhrnDkRefqIkD7F0eg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:12"
+  },
+  {
+    "business_name": "FEAST ZONE RESTURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Restaurant",
+    "pincode": "209860",
+    "phone_number": "+91 70714 64471",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Katri Piper Khera, Kanpur, Uttar Pradesh 209862",
+    "area": "209860",
+    "latitude": 26.4474801,
+    "longitude": 80.4210968,
+    "place_id": "ChIJVZd8egBBnDkRBn5DWnsmQ7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZd8egBBnDkRBn5DWnsmQ7g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:12"
+  }
+]

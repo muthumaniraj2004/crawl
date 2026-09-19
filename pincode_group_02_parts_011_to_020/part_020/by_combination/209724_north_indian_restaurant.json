@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhaba Yami Serve Indian",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "209724",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "5MR6+VH6, Khudaganj, Kaitaha, Uttar Pradesh 209724",
+    "area": "209724",
+    "latitude": 27.192156999999998,
+    "longitude": 79.6613844,
+    "place_id": "ChIJI6lzCiI_njkRjauVLStX4h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6lzCiI_njkRjauVLStX4h4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:52:59"
+  },
+  {
+    "business_name": "Krishna Kant Provision Store",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209724",
+    "phone_number": "+91 94500 09438",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "8JG7+J48, Yaqut Ganj, Uttar Pradesh 209749",
+    "area": "209724",
+    "latitude": 27.3265446,
+    "longitude": 79.6128181,
+    "place_id": "ChIJ1WqiZWc6njkR4krDkbvqNZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WqiZWc6njkR4krDkbvqNZw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:52:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snazzy tatt’s studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "209734",
+    "phone_number": "+91 90003 80600",
+    "website": "https://snazzytatts.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sbi road, Karnal - Kaithal Rd, near anand cosmatics, opp. Indira Gandhi College, GTB Colony, Kaithal, Haryana 136027",
+    "area": "GTB Colony",
+    "latitude": 29.801643799999997,
+    "longitude": 76.40709249999999,
+    "place_id": "ChIJjygQ5j3hETkRBA7di8g7XQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjygQ5j3hETkRBA7di8g7XQg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:08:13"
+  },
+  {
+    "business_name": "Nail House Pune",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "209734",
+    "phone_number": "+91 98230 60601",
+    "website": "https://instagram.com/nailhousepune?igshid=YmMyMTA2M2Y=",
+    "rating": 4.7,
+    "reviews_count": 587,
+    "address": "Shop no 102 , 1st floor, 10 Biz Park, Sanjay colony college, next to Symbiosis Law School, Mhada Colony, Viman Nagar, Pune, Maharashtra 411014",
+    "area": "Mhada Colony, Viman Nagar",
+    "latitude": 18.5752168,
+    "longitude": 73.909784,
+    "place_id": "ChIJbRksB0rBwjsR3stggni99ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRksB0rBwjsR3stggni99ic",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:08:15"
+  }
+]

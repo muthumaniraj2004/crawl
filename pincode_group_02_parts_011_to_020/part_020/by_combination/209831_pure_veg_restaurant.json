@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The diamond Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant",
+    "pincode": "209831",
+    "phone_number": "+91 94545 10024",
+    "website": "http://thedaimondrestaurant.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No.3, power house Road, bade bada mandir, Bargawan, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Bargawan, LDA Colony",
+    "latitude": 26.7949828,
+    "longitude": 80.8987741,
+    "place_id": "ChIJpdceBwD9mzkRPRnBRrwGs-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdceBwD9mzkRPRnBRrwGs-c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:02"
+  },
+  {
+    "business_name": "Maa Durga Restaurant & Banquet",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Breakfast restaurant, Indian restaurant",
+    "pincode": "209831",
+    "phone_number": "+91 92356 33455",
+    "website": "https://maadurga.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bhatia Tower, near Raj Sweet House, Tedhi Pulia, Adarsh Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Tedhi Pulia, Adarsh Nagar, Alambagh",
+    "latitude": 26.8198036,
+    "longitude": 80.9088287,
+    "place_id": "ChIJ9f3P-DH8mzkROaLy-TsEMu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9f3P-DH8mzkROaLy-TsEMu4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:02"
+  }
+]

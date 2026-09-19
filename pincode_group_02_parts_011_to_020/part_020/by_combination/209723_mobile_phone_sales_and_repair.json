@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anupam Telecom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209723",
+    "phone_number": "+91 78972 46190",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 44,
+    "address": "Anupan Telicom Bela Road Tirwaganj Kannauj State Highway, 21, Shukla Colony St, Gandhi Nagar, Tirwaganj, Uttar Pradesh 209732",
+    "area": "Gandhi Nagar",
+    "latitude": 26.952495499999998,
+    "longitude": 79.78631709999999,
+    "place_id": "ChIJF8U0tldynjkRn8OFKVHkUrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8U0tldynjkRn8OFKVHkUrc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:52:24"
+  },
+  {
+    "business_name": "vivo & iQOO Service Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "209723",
+    "phone_number": "+91 63068 76518",
+    "website": "https://www.vivo.com/",
+    "rating": 4,
+    "reviews_count": 141,
+    "address": "2WVF+X2R, Mahatma Gandhi Rd, Ashok Nagar, Kannauj, Uttar Pradesh 209725",
+    "area": "Ashok Nagar",
+    "latitude": 27.044981,
+    "longitude": 79.922528,
+    "place_id": "ChIJcy0qM3xlnjkRY7N9u2y3jd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcy0qM3xlnjkRY7N9u2y3jd0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:52:25"
+  }
+]

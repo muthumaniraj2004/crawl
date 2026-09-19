@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta frozen foods",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "209821",
+    "phone_number": "+91 99184 19554",
+    "website": "http://www.geetafrozenfoods.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "A41, A42, mini industrial area, Mau Rd, Mohanlalganj, Mau, Uttar Pradesh 226301",
+    "area": "209821",
+    "latitude": 26.6929017,
+    "longitude": 80.9856673,
+    "place_id": "ChIJ_2BN667xmzkR3ZglvR5OGzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2BN667xmzkR3ZglvR5OGzk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:23:55"
+  },
+  {
+    "business_name": "Payal Traders - Housekeeping material supplier",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Cleaning Services, Supplier, FMCG Goods Wholesaler, Household chemicals supplier, Household goods wholesaler",
+    "pincode": "209821",
+    "phone_number": "+91 91204 89239",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Neeva, Mohanlalganj Road, Junab Ganj, Uttar Pradesh 226401",
+    "area": "209821",
+    "latitude": 26.6699995,
+    "longitude": 80.85488769999999,
+    "place_id": "ChIJ3ZTNrQb3mzkRMtAeB_EE320",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZTNrQb3mzkRMtAeB_EE320",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:23:56"
+  }
+]

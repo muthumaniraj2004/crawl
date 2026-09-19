@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Sky Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "209722",
+    "phone_number": "+91 86885 66731",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 98,
+    "address": "Opp:Manthan International School, Jyothi Rao Pule Colony, Tellapur, Hyderabad, Nallagandla, Telangana 502032",
+    "area": "Jyothi Rao Pule Colony, Tellapur",
+    "latitude": 17.4600754,
+    "longitude": 78.2996125,
+    "place_id": "ChIJb9o2BbGTyzsRO24C6-kTeiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9o2BbGTyzsRO24C6-kTeiA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:50:04"
+  },
+  {
+    "business_name": "MaxPetZ Animal Hospital East of kailash",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "209722",
+    "phone_number": "+91 84484 49955",
+    "website": "https://maxpetz.com/location/maxpetz-east-of-kailash-delhi",
+    "rating": 4.2,
+    "reviews_count": 1230,
+    "address": "8, Lala Lajpat Rai Rd, in front of Metro Pillar Number 74, Block E, East of Kailash, New Delhi, Delhi 110065",
+    "area": "Block E, East of Kailash",
+    "latitude": 28.5569489,
+    "longitude": 77.2406926,
+    "place_id": "ChIJZS6HU5LjDDkRV2a_BPSeNd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZS6HU5LjDDkRV2a_BPSeNd4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:50:05"
+  }
+]

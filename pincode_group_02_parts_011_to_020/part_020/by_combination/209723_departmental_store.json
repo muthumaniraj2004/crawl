@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satendra grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "2MCM+4PH, Madho Nagar, Uttar Pradesh 209731",
+    "area": "209723",
+    "latitude": 27.0203138,
+    "longitude": 79.6843566,
+    "place_id": "ChIJiZaIZQATnjkRwK7KqOG5FP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZaIZQATnjkRwK7KqOG5FP4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:11"
+  },
+  {
+    "business_name": "Aman Grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "209723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WMMC+XJF, Indergarh, Poora Rai, Uttar Pradesh 209723",
+    "area": "209723",
+    "latitude": 26.9349334,
+    "longitude": 79.6715463,
+    "place_id": "ChIJQRG2NgANnjkRtmxp44kjj-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRG2NgANnjkRtmxp44kjj-w",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:51:11"
+  }
+]

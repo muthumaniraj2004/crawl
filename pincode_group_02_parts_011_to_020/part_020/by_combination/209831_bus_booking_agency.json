@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHAN Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car rental agency",
+    "pincode": "209831",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H no 10, Ag Farm, Magarwara, Unnao, Uttar Pradesh 209862",
+    "area": "209831",
+    "latitude": 26.5116923,
+    "longitude": 80.4224045,
+    "place_id": "ChIJ3fP8TfI_nDkR-JoCt_tfqj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fP8TfI_nDkR-JoCt_tfqj0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:33"
+  },
+  {
+    "business_name": "New Gulf Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209831",
+    "phone_number": "+91 93072 21238",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "500, Lucknow Rd, Narendra Nagar, Ab Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Narendra Nagar, Ab Nagar",
+    "latitude": 26.543133599999997,
+    "longitude": 80.4821034,
+    "place_id": "ChIJ-T_fq74VnDkRUyKckSWdvh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-T_fq74VnDkRUyKckSWdvh4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:29:33"
+  }
+]

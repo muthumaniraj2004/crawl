@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gori Pharma clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "209745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FF5G+V46, Bachhlaiya, Uttar Pradesh 209504",
+    "area": "209745",
+    "latitude": 27.459660999999997,
+    "longitude": 79.4752707,
+    "place_id": "ChIJ_TF6-PUtnjkR4-VBlph9Klw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TF6-PUtnjkR4-VBlph9Klw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:32"
+  },
+  {
+    "business_name": "Dr.Amit Gautam house",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "209745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FC9R+CM4, Manjhana, Uttar Pradesh 209504",
+    "area": "209745",
+    "latitude": 27.468066999999998,
+    "longitude": 79.441812,
+    "place_id": "ChIJ2_hoPAArnjkR0Ytbl-Up17c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_hoPAArnjkR0Ytbl-Up17c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:32"
+  }
+]

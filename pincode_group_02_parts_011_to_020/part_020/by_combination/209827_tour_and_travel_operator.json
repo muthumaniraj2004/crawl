@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaved Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency",
+    "pincode": "209827",
+    "phone_number": "+91 96218 02786",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Maurawan Rd, Begamganj, Purwa, Kasba Bhawani Pur, Uttar Pradesh 209825",
+    "area": "Begamganj",
+    "latitude": 26.4531119,
+    "longitude": 80.7733987,
+    "place_id": "ChIJ____Dwd1nDkRsqT4ntd1QfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____Dwd1nDkRsqT4ntd1QfQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:55"
+  },
+  {
+    "business_name": "Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "209827",
+    "phone_number": "+91 86509 08077",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "25, Mirza Tower Opposite Leela Cinema, Hazratganj, Hazratganj, Lucknow, Uttar Pradesh 226018",
+    "area": "Hazratganj",
+    "latitude": 26.851979099999998,
+    "longitude": 80.9442732,
+    "place_id": "ChIJNxvHs-b9mzkRsJL5_sXfShE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxvHs-b9mzkRsJL5_sXfShE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:55"
+  }
+]

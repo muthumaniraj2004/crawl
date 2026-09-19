@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food King Plaza",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "209868",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 5730,
+    "address": "W3PR+M7F, Agra - Lucknow Expy, Bhikharipur Patsia Gair, Uttar Pradesh 209868",
+    "area": "209868",
+    "latitude": 26.936677699999997,
+    "longitude": 80.0906837,
+    "place_id": "ChIJmbijjpt9njkRfyRQfH2BZJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbijjpt9njkRfyRQfH2BZJc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:47:42"
+  },
+  {
+    "business_name": "Express plaza",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209868",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 810,
+    "address": "W3PR+M97, Bhikharipur Patsia Gair, Uttar Pradesh 209868",
+    "area": "209868",
+    "latitude": 26.936652499999997,
+    "longitude": 80.090907,
+    "place_id": "ChIJfWBjfjB9njkRg_4kfHCmr50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWBjfjB9njkRg_4kfHCmr50",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:47:42"
+  }
+]

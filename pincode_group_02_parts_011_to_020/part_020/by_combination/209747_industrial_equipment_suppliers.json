@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yashpal",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Electronic parts supplier",
+    "all_categories": "Electronic parts supplier",
+    "pincode": "209747",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XC3X+VP7, post, Sharifpur, Murra, Uttar Pradesh 209728",
+    "area": "209747",
+    "latitude": 26.954651199999997,
+    "longitude": 79.44929239999999,
+    "place_id": "ChIJm6gzaAADnjkRbt89DcWQbT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6gzaAADnjkRbt89DcWQbT4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:13"
+  },
+  {
+    "business_name": "SHIV EQUIPMENTS PVT LTD",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier, Equipment supplier",
+    "pincode": "209747",
+    "phone_number": "+91 79 4256 2606",
+    "website": "https://www.shivequipment.com/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Land Mark, ITS Collage, Plot No. S-68, Harsha Compound, Site-II, Sunrise Industrial Area, Loni Rd, Mohan Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201007",
+    "area": "Loni Industrial Area, Mohan Nagar, Sahibabad",
+    "latitude": 28.6875069,
+    "longitude": 77.37647249999999,
+    "place_id": "ChIJU1GSKoD6DDkRVFvIQlElf5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1GSKoD6DDkRVFvIQlElf5k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hitesh copy house",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Bag shop",
+    "pincode": "209739",
+    "phone_number": "+91 98372 56155",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 172,
+    "address": "RQGV+848, gari khana, Katghar, Moradabad, Uttar Pradesh 244001",
+    "area": "Hayat Nagar, Katghar",
+    "latitude": 28.8275035,
+    "longitude": 78.7907183,
+    "place_id": "ChIJPWi4nbT7CjkRNMLEunAm0cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWi4nbT7CjkRNMLEunAm0cs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:00"
+  },
+  {
+    "business_name": "ASCHAN STORE",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Art cafe, Pen store, Gift shop, Toy store",
+    "pincode": "209739",
+    "phone_number": "+91 90055 36266",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop no F5 , Skyline plaza 1, Sector B Ansal API, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.7832844,
+    "longitude": 80.9917026,
+    "place_id": "ChIJve7mP3XlmzkR9wiLeokC7zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJve7mP3XlmzkR9wiLeokC7zM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:01"
+  }
+]

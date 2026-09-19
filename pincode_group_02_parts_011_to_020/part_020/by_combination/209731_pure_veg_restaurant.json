@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Fast Food",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209731",
+    "phone_number": "+91 80902 45516",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "XQCM+Q54, Tirwaganj, Tirwa Khas, Uttar Pradesh 209732",
+    "area": "209731",
+    "latitude": 26.9718909,
+    "longitude": 79.78294029999999,
+    "place_id": "ChIJtybSAQBlnjkRnTmS9zbLlmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtybSAQBlnjkRnTmS9zbLlmM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:02:33"
+  },
+  {
+    "business_name": "Hotel Kanhaaiya Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Family restaurant, Fast food restaurant",
+    "pincode": "209731",
+    "phone_number": "+91 98221 45391",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 1651,
+    "address": "Pune - Ahilyanagar Hwy, Opp Hotel Rupali, Ahilyanagar, Maharashtra 414005",
+    "area": "209731",
+    "latitude": 19.0546607,
+    "longitude": 74.68649479999999,
+    "place_id": "ChIJU-dgKdO23DsRRu2jdUIhrY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-dgKdO23DsRRu2jdUIhrY8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:02:35"
+  }
+]

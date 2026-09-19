@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parul Garg",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Lawyer",
+    "pincode": "209745",
+    "phone_number": "+91 95995 88312",
+    "website": "https://www.parulgargmakeup.com/",
+    "rating": 4.3,
+    "reviews_count": 1514,
+    "address": "POWERGRID TOWNSHIP, D231, Block D, Gate, Sector 43, Gurugram, Haryana 122009",
+    "area": "Block D, Gate, Sector 43",
+    "latitude": 28.4549636,
+    "longitude": 77.07484819999999,
+    "place_id": "ChIJJZqvX-kYDTkRfFk6WrdgASA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZqvX-kYDTkRfFk6WrdgASA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:58"
+  },
+  {
+    "business_name": "The art of beauty studio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "209745",
+    "phone_number": "+91 88082 26231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Tripathi Complex, Mod, Kotwari, Rasra, Uttar Pradesh 221712",
+    "area": "209745",
+    "latitude": 25.8092014,
+    "longitude": 83.8764193,
+    "place_id": "ChIJXXOIq_cTkjkR3DWZvkLXI9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXOIq_cTkjkR3DWZvkLXI9o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:58"
+  }
+]

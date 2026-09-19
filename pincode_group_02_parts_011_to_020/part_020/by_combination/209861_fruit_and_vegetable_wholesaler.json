@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdish Beej Company",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Fruit and vegetable store",
+    "pincode": "209861",
+    "phone_number": "+91 94154 41587",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "76, 242, Sabji Mandi Rd, Coolie Bazar, Badshahi Naka, Collectorganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Coolie Bazar, Badshahi Naka, Collectorganj",
+    "latitude": 26.4625462,
+    "longitude": 80.34830099999999,
+    "place_id": "ChIJo4s_ElxHnDkRnpfr-GYvSvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4s_ElxHnDkRnpfr-GYvSvs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:35:46"
+  },
+  {
+    "business_name": "Faithful Ganj",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "209861",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F935+JHR, Faithfulganj, Mirpur, Kanpur, Uttar Pradesh 208004",
+    "area": "Faithfulganj, Mirpur",
+    "latitude": 26.4541185,
+    "longitude": 80.3588939,
+    "place_id": "ChIJO3qjWABHnDkRwLc0JhBZaws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3qjWABHnDkRwLc0JhBZaws",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:35:47"
+  }
+]

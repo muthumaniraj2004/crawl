@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209729",
+    "phone_number": "+91 91290 62956",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Darora Bridge Rd, Sikanderpur, Uttar Pradesh 209729",
+    "area": "209729",
+    "latitude": 27.13048,
+    "longitude": 79.60511269999999,
+    "place_id": "ChIJs-fs9dkXnjkRrCMaxwqkLQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-fs9dkXnjkRrCMaxwqkLQQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:11"
+  },
+  {
+    "business_name": "Neelam Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sikanderpur, Uttar Pradesh 209729",
+    "area": "209729",
+    "latitude": 27.1363018,
+    "longitude": 79.59566459999999,
+    "place_id": "ChIJxQIHo7cXnjkRjS3Jp94tPks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQIHo7cXnjkRjS3Jp94tPks",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:11"
+  }
+]

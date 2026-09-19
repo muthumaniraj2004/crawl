@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prayagraj Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Service establishment",
+    "pincode": "209827",
+    "phone_number": "+91 92198 81996",
+    "website": "https://prayagrajcab.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prayagraj Cab, 209827, India",
+    "area": "209827",
+    "latitude": 26.035319299999998,
+    "longitude": 81.94414619999999,
+    "place_id": "ChIJT_5u0AE1hTkRg0kerr0_MrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_5u0AE1hTkRg0kerr0_MrI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:52"
+  },
+  {
+    "business_name": "Kumar Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Sightseeing Tour Operator, Travel agency",
+    "pincode": "209827",
+    "phone_number": "+91 88612 23716",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "51, 1st A Cross Rd, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560070",
+    "area": "Banashankari 3rd Stage, Banashankari",
+    "latitude": 12.9226835,
+    "longitude": 77.5522931,
+    "place_id": "ChIJHRX5uBA_rjsRf_-HCnHPuM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRX5uBA_rjsRf_-HCnHPuM0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:52"
+  }
+]

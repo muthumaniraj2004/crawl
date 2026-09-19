@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mero Vrindavan",
+    "search_category": "Shops",
+    "primary_category": "Perfume store",
+    "all_categories": "Perfume store",
+    "pincode": "209725",
+    "phone_number": "+91 73555 15653",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 43,
+    "address": "3W48+V76, Pata Nala Rd, Safdarganj, Kannauj, Uttar Pradesh 209725",
+    "area": "Safdarganj",
+    "latitude": 27.057169599999998,
+    "longitude": 79.9156349,
+    "place_id": "ChIJlbcNagBvnjkRUFYzRjT9bJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbcNagBvnjkRUFYzRjT9bJg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:55:59"
+  },
+  {
+    "business_name": "Janki traders",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "209725",
+    "phone_number": "+91 76072 21222",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "2WF3+PQV, Tirwa road, Nasirapur, Nasrapur, Uttar Pradesh 209727",
+    "area": "209725",
+    "latitude": 27.0243546,
+    "longitude": 79.90441179999999,
+    "place_id": "ChIJG3lp9lFvnjkRvpMW2XgJvbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3lp9lFvnjkRvpMW2XgJvbY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:00"
+  }
+]

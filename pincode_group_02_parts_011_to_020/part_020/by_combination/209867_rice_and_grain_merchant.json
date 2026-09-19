@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarkari Ration Shop",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Government ration shop",
+    "all_categories": "Government ration shop, Store",
+    "pincode": "209867",
+    "phone_number": "+91 1800 180 1967",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Chaturvedi Building, Baba Nagar, Kidvai Nagar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Baba Nagar, Kidvai Nagar, Naubasta",
+    "latitude": 26.4135596,
+    "longitude": 80.3134753,
+    "place_id": "ChIJQVd2cVFGnDkRrVDyctlwmy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVd2cVFGnDkRrVDyctlwmy0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:45:58"
+  },
+  {
+    "business_name": "PandiT Khera",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209867",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 25,
+    "address": "MDR 31C, Purthiyawan, Uttar Pradesh 226003",
+    "area": "209867",
+    "latitude": 26.877572599999997,
+    "longitude": 80.8536328,
+    "place_id": "ChIJiZNYgHejnjkR6pzY8F1qHmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZNYgHejnjkR6pzY8F1qHmc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:45:58"
+  }
+]

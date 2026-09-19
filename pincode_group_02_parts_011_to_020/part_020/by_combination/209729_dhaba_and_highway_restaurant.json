@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bubby Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "4HQ8+8PQ, NH 34, Salem Pur, Uttar Pradesh 209729",
+    "area": "209729",
+    "latitude": 27.138329,
+    "longitude": 79.56685,
+    "place_id": "ChIJmzcumA8XnjkRSG3OsQ7AdE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzcumA8XnjkRSG3OsQ7AdE4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:02"
+  },
+  {
+    "business_name": "Dabboo Da Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209729",
+    "phone_number": "+91 98914 97870",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Pachkohra, Uttar Pradesh 241122",
+    "area": "209729",
+    "latitude": 27.2809375,
+    "longitude": 80.20943749999999,
+    "place_id": "ChIJu1ZJXNzznjkRRNY8GrFGpSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1ZJXNzznjkRRNY8GrFGpSA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:05"
+  }
+]

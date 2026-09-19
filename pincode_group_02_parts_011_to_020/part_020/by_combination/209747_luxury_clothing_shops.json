@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio by Prithviraj",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "209747",
+    "phone_number": "+91 95190 31903",
+    "website": "http://www.studiobyprithviraj.com/",
+    "rating": 4.3,
+    "reviews_count": 366,
+    "address": "Bharhut Nagar Rd, Bharhut Nagar, Satna, Madhya Pradesh 485001",
+    "area": "Bharhut Nagar",
+    "latitude": 24.574702499999997,
+    "longitude": 80.8379969,
+    "place_id": "ChIJCdRHgQl_hDkRyaCnirh2aOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdRHgQl_hDkRyaCnirh2aOM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:04"
+  },
+  {
+    "business_name": "YuMe Fashions",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Custom tailor, Fabric store, Formal Clothing Store, Men's clothing store, Gents Tailor, Tuxedo shop",
+    "pincode": "209747",
+    "phone_number": "+91 72680 28607",
+    "website": "https://www.euvik.com/",
+    "rating": 5,
+    "reviews_count": 72,
+    "address": "Shop No B126, Sahara plaza, Patrakarpuram Crossing Rd, Vikas Khand 1, Vikas Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vikas Khand 1, Vikas Khand, Gomti Nagar",
+    "latitude": 26.8527837,
+    "longitude": 80.9989131,
+    "place_id": "ChIJPQY6_NXjmzkRMv3jAhuQAPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQY6_NXjmzkRMv3jAhuQAPA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:04"
+  }
+]

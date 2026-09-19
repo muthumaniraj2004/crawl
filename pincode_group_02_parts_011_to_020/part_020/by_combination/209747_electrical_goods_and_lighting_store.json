@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa laxmi electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "209747",
+    "phone_number": "+91 63874 99950",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lodhi chauraha, in front of nirmal das baba kutti, Janki Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Janki Vihar Colony, Jankipuram",
+    "latitude": 26.9353031,
+    "longitude": 80.95173059999999,
+    "place_id": "ChIJz5thLvZXmTkRTX1ON5aFMjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5thLvZXmTkRTX1ON5aFMjQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:26"
+  },
+  {
+    "business_name": "Yogesh Lighting House",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Lighting manufacturer, Lighting store, Lighting products wholesaler",
+    "pincode": "209747",
+    "phone_number": "+91 88517 85040",
+    "website": "https://thekanoria.in/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "401/8, Adarsh Gali Number 1, Babarpur, Shahdara, Delhi, 110032",
+    "area": "Babarpur, Shahdara",
+    "latitude": 28.6894882,
+    "longitude": 77.27925119999999,
+    "place_id": "ChIJebMoy8r9DDkRXVccchrRNhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebMoy8r9DDkRXVccchrRNhM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:27"
+  }
+]

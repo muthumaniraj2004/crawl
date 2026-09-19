@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meri Zameen",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Leasing service, Retail space rental agency",
+    "pincode": "209733",
+    "phone_number": "+91 80908 80909",
+    "website": "https://www.merizameen.in/",
+    "rating": 4.9,
+    "reviews_count": 71,
+    "address": "1st Floor, MS-68, near Jogger’s park, Sector D, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector D, Aliganj",
+    "latitude": 26.8923594,
+    "longitude": 80.9385427,
+    "place_id": "ChIJ0fFg9VJXmTkRAtaKDatMBNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fFg9VJXmTkRAtaKDatMBNM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:03"
+  },
+  {
+    "business_name": "Real Estate Consultant – Lucknow",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "209733",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Deoki Hospital, Daliganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Daliganj",
+    "latitude": 26.8728156,
+    "longitude": 80.9276087,
+    "place_id": "ChIJTcswMzb9mzkRoMKctjyHI3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcswMzb9mzkRoMKctjyHI3c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:03"
+  }
+]

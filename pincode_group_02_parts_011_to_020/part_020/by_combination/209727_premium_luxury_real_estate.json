@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate rental agency",
+    "all_categories": "Real estate rental agency",
+    "pincode": "209727",
+    "phone_number": "+91 72765 89078",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Tungarli Rd, Tungarli, Lonavala, Maharashtra 410403",
+    "area": "Tungarli",
+    "latitude": 18.7594097,
+    "longitude": 73.4029955,
+    "place_id": "ChIJicikM5EB6DsRAv7BkzVWcoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicikM5EB6DsRAv7BkzVWcoQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:58:59"
+  },
+  {
+    "business_name": "PrimeLand Ventures",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "209727",
+    "phone_number": "+91 98383 32079",
+    "website": "https://primelandventures.net/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35, Farsh Rd, Kannauj, Uttar Pradesh 209725",
+    "area": "209727",
+    "latitude": 27.0565625,
+    "longitude": 79.92080419999999,
+    "place_id": "ChIJe5ZVjjllnjkRZgyJKk9k5Dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5ZVjjllnjkRZgyJKk9k5Dc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:58:59"
+  }
+]

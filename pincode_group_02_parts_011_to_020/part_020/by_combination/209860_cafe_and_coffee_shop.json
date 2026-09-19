@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naubasta",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "209860",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CH9C+WH, Bhainshi Naubasta, Uttar Pradesh 209860",
+    "area": "209860",
+    "latitude": 26.4197839,
+    "longitude": 80.5713821,
+    "place_id": "ChIJF8UEegBtnDkRrDpo5TnwTBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8UEegBtnDkRrDpo5TnwTBU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:11"
+  },
+  {
+    "business_name": "Bonzer Foods",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee vending machine",
+    "all_categories": "Coffee vending machine, Coffee machine supplier, Food & Beverage Exporter, Machine repair service, Office equipment rental service, Office equipment supplier, Tea Manufacturer, Tea Wholesaler, Vending machine supplier",
+    "pincode": "209860",
+    "phone_number": "+91 94582 51630",
+    "website": "https://www.bonzerfoods.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H - 217, 10th St, Block H, Beta II, Greater Noida, Uttar Pradesh 201308",
+    "area": "Block H, Beta II",
+    "latitude": 28.487181,
+    "longitude": 77.5130928,
+    "place_id": "ChIJcycMquLrDDkRsCW_1J7HhKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcycMquLrDDkRsCW_1J7HhKI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:34:13"
+  }
+]

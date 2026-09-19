@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adige Dosa House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "209865",
+    "phone_number": "N/A",
+    "website": "https://www.adigedosahouse.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UG-01 & 02, Ocean Heights, K Block, Pocket E, Sector 18, Noida, Uttar Pradesh 201301",
+    "area": "K Block, Pocket E, Sector 18",
+    "latitude": 28.571052899999998,
+    "longitude": 77.3235612,
+    "place_id": "ChIJnSbO6czlDDkR-KLCp6-pDM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSbO6czlDDkR-KLCp6-pDM0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:42:45"
+  },
+  {
+    "business_name": "The Saatvik Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant, North Indian restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "209865",
+    "phone_number": "+91 92172 45100",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "G 63, G Block, Pocket G, Sector 18, Noida, Uttar Pradesh 201301",
+    "area": "G Block, Pocket G, Sector 18",
+    "latitude": 28.568917,
+    "longitude": 77.32408579999999,
+    "place_id": "ChIJQ_89bSjlDDkRAd1wKDYoX9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_89bSjlDDkRAd1wKDYoX9o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:42:45"
+  }
+]

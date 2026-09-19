@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Cab - Mumbai to Pune Car Rentals (One-Way & Round Trip)",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "209738",
+    "phone_number": "+91 99208 41717",
+    "website": "https://www.themycab.com/",
+    "rating": 5,
+    "reviews_count": 124,
+    "address": "CHS-B/20, CLUSTER_VASAI-26 DEV POOJA, Shiv Chaya Chawl, Yashvant Viva Twp, Nalasopara East, Vasai-Virar, Maharashtra 401209",
+    "area": "Shiv Chaya Chawl, Yashvant Viva Township, Nalasopara East",
+    "latitude": 19.410282,
+    "longitude": 72.8246376,
+    "place_id": "ChIJl1UpzKyp5zsRlX6G9WcXE0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1UpzKyp5zsRlX6G9WcXE0U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:54"
+  },
+  {
+    "business_name": "Taxi Yatri - Taxi Service in Varanasi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "209738",
+    "phone_number": "+91 98180 22467",
+    "website": "https://www.taxiyatri.com/varanasi",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Dashashwamedh Plaza, L-2/53, Dashashwamedh Ghat Rd, Near Dashaswmedh Ghat, Bangali Tola, Varanasi, Uttar Pradesh 221001",
+    "area": "Near Dashaswmedh Ghat, Bangali Tola",
+    "latitude": 25.3062364,
+    "longitude": 83.00989179999999,
+    "place_id": "ChIJacDt23UxjjkRp2nta2cZTOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacDt23UxjjkRp2nta2cZTOo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:54"
+  }
+]

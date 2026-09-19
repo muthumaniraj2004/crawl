@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shopping Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209865",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 7,
+    "address": "7FW7+RHF, Kanpur - Allahabad Hwy, Phuphuwarsuithok, Uttar Pradesh 209402",
+    "area": "209865",
+    "latitude": 26.2970509,
+    "longitude": 80.4639316,
+    "place_id": "ChIJuflizwVonDkRSHhvuoJcWd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuflizwVonDkRSHhvuoJcWd8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:12"
+  },
+  {
+    "business_name": "Toolika gas repairing and disposal centre",
+    "search_category": "Commercial Complex",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store",
+    "pincode": "209865",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9JW2+54V, Sikanderpur Karan, Akbarpur, Uttar Pradesh 209860",
+    "area": "209865",
+    "latitude": 26.3954927,
+    "longitude": 80.60029779999999,
+    "place_id": "ChIJW--lDQBtnDkRd_d-ack8cDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW--lDQBtnDkRd_d-ack8cDs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:13"
+  }
+]

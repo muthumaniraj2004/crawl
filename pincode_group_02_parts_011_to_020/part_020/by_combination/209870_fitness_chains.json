@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE HUNK GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "209870",
+    "phone_number": "+91 91251 13631",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Zuber market Qila, Sandila, Uttar Pradesh 241204",
+    "area": "209870",
+    "latitude": 27.0699577,
+    "longitude": 80.51416259999999,
+    "place_id": "ChIJ8zDCi729njkRrJ5NogJAi84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zDCi729njkRrJ5NogJAi84",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:51:18"
+  },
+  {
+    "business_name": "king chasme wale",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "209870",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "RFFX+7VV, Haiderabad, Uttar Pradesh 209870",
+    "area": "209870",
+    "latitude": 26.8232406,
+    "longitude": 80.4996781,
+    "place_id": "ChIJm93Ps0wenDkRXPFHXgYhxro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm93Ps0wenDkRXPFHXgYhxro",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:51:20"
+  }
+]

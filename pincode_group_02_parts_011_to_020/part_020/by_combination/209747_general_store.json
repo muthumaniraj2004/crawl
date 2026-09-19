@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba ji ki dukan",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "209747",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sakrawa, Sharifabad, Uttar Pradesh 209747",
+    "area": "209747",
+    "latitude": 26.9601875,
+    "longitude": 79.3829375,
+    "place_id": "ChIJTfwKYQAdnjkR7CsUyfQFKgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfwKYQAdnjkR7CsUyfQFKgM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:18:48"
+  },
+  {
+    "business_name": "पतंजलि ग्रामीण आरोग्य केंद्र",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "209747",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "X73R+X76, Usrahar, Uttar Pradesh 206123",
+    "area": "209747",
+    "latitude": 26.954918199999998,
+    "longitude": 79.29064029999999,
+    "place_id": "ChIJG-OrHgD3dTkR0Ch76I7VS1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-OrHgD3dTkR0Ch76I7VS1o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:18:48"
+  }
+]

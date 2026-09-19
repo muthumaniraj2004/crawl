@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food ON Fire",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209869",
+    "phone_number": "+91 78004 20009",
+    "website": "https://www.instagram.com/foodonfiremallawan?igsh=MTV3cGthMmYwaHpiMw==",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "FOOD ON FIRE, Unnao - Hardoi Rd, Mallawan, Uttar Pradesh 241303",
+    "area": "209869",
+    "latitude": 27.0404619,
+    "longitude": 80.1526647,
+    "place_id": "ChIJb8O2Y8CJnjkRMjfWrcuDQ7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8O2Y8CJnjkRMjfWrcuDQ7I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:49:17"
+  },
+  {
+    "business_name": "Dk Pizza Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Restaurant",
+    "pincode": "209869",
+    "phone_number": "+91 99564 07087",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Unnao - Hardoi Rd, opposite government hospital, nearby sudheer mishthan bhandar, Mallawan, Uttar Pradesh 241303",
+    "area": "209869",
+    "latitude": 27.0333828,
+    "longitude": 80.15241619999999,
+    "place_id": "ChIJ80stb0qJnjkRVUPqIKtqIog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80stb0qJnjkRVUPqIKtqIog",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:49:17"
+  }
+]

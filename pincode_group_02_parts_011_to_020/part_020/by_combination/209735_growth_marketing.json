@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marketing Sarthi",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Computer support and services",
+    "pincode": "209735",
+    "phone_number": "+91 77848 89695",
+    "website": "https://marketingsarthi.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tomar Tower, D-26, near Ola Office, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8625942,
+    "longitude": 80.9973864,
+    "place_id": "ChIJb3F8PZjjmzkR4Mn4ZATS-78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3F8PZjjmzkR4Mn4ZATS-78",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:10:31"
+  },
+  {
+    "business_name": "Growth Technos",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Business development service, E-commerce service, Internet marketing service, Software company, Web hosting company, Website designer",
+    "pincode": "209735",
+    "phone_number": "+91 98979 21038",
+    "website": "https://growthtechnos.com/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "H-72, H Block, Sector 63, Noida, Uttar Pradesh 201301",
+    "area": "H Block, Sector 63",
+    "latitude": 28.6283867,
+    "longitude": 77.3767479,
+    "place_id": "ChIJu-TK6y5lNgsRZc7yWAnwx-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-TK6y5lNgsRZc7yWAnwx-o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:10:32"
+  }
+]

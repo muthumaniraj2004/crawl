@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homoeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "209743",
+    "phone_number": "+91 79797 57092",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mamura, Sector 66, Noida, Uttar Pradesh 201309",
+    "area": "Mamura, Sector 66",
+    "latitude": 28.6044059,
+    "longitude": 77.37531729999999,
+    "place_id": "ChIJSYoIKWPlDDkR4EeOFfPS0i0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYoIKWPlDDkR4EeOFfPS0i0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:52"
+  },
+  {
+    "business_name": "Homeopathy Center",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "209743",
+    "phone_number": "+91 81097 84471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Irrigation Colony, Nainpur, Madhya Pradesh 481776",
+    "area": "Irrigation Colony",
+    "latitude": 22.424116899999998,
+    "longitude": 80.0983559,
+    "place_id": "ChIJJQVRM1yHgDkRferghz-dDR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQVRM1yHgDkRferghz-dDR0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:52"
+  }
+]

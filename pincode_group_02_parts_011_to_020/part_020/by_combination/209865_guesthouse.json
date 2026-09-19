@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asquare India",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "209865",
+    "phone_number": "+91 78387 25979",
+    "website": "https://www.asquare.buzz/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 4, H. No. 126, Nageshwar Road, Bighapur, Bighapur Kalan, Uttar Pradesh 209865",
+    "area": "209865",
+    "latitude": 26.3487996,
+    "longitude": 80.6553775,
+    "place_id": "ChIJZ7OCcWBxnDkRoYMY6Zz4v8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7OCcWBxnDkRoYMY6Zz4v8o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:43:35"
+  },
+  {
+    "business_name": "Shiv Palace",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "209865",
+    "phone_number": "+91 91402 48310",
+    "website": "https://sites.google.com/view/shiv-palace-guest-house/home",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Humara Pump Ke Samne, Shiv Palace, near Murkati Chauraha, Ghatampur, Ghatampur Khurd, Uttar Pradesh 209865",
+    "area": "209865",
+    "latitude": 26.3357258,
+    "longitude": 80.64270049999999,
+    "place_id": "ChIJ7WDWoo9xnDkRbAtmPl0X1y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WDWoo9xnDkRbAtmPl0X1y0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:43:36"
+  }
+]

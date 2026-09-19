@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shuvanshu",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "209745",
+    "phone_number": "+91 63072 14557",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "03, Road, near Shiv Nagar, Santoshpur, Chilsara, Farrukhabad, Uttar Pradesh 209745",
+    "area": "Santoshpur",
+    "latitude": 27.4527409,
+    "longitude": 79.5191755,
+    "place_id": "ChIJwRUWT7ItnjkRTXCVpCxzgPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRUWT7ItnjkRTXCVpCxzgPQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:55"
+  },
+  {
+    "business_name": "Sukendra Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "209745",
+    "phone_number": "+91 73553 79176",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chilsara, Uttar Pradesh 209745",
+    "area": "209745",
+    "latitude": 27.488324,
+    "longitude": 79.5113363,
+    "place_id": "ChIJz7nFQmYtnjkRwyaJs0G3km4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7nFQmYtnjkRwyaJs0G3km4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:17:57"
+  }
+]

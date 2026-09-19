@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Industries",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier",
+    "pincode": "209722",
+    "phone_number": "+91 88306 54042",
+    "website": "https://www.arihantindustries.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot No F-61, near Zambad Chowk, MIDC, Ranjangaon Shenpunji, Waluj, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "MIDC, Ranjangaon Shenpunji, Waluj",
+    "latitude": 19.8544931,
+    "longitude": 75.2255526,
+    "place_id": "ChIJp3wIDiqb2zsRpRX5LK7iIjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3wIDiqb2zsRpRX5LK7iIjE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:50:58"
+  },
+  {
+    "business_name": "Uni spot",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "209722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near district hospital, Gajipurwa, Saraimeera, Kannauj, Uttar Pradesh 209727",
+    "area": "Gajipurwa, Saraimeera",
+    "latitude": 27.028673299999998,
+    "longitude": 79.9255881,
+    "place_id": "ChIJDavkGQBlnjkRTRBhgkkyprE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDavkGQBlnjkRTRBhgkkyprE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:50:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "209733",
+    "phone_number": "+91 84190 00011",
+    "website": "https://www.lucknowcabs.com/",
+    "rating": 4.7,
+    "reviews_count": 82,
+    "address": "Shop No M-36, Apna Bazaar, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8608515,
+    "longitude": 81.00960789999999,
+    "place_id": "ChIJb5wYHJQ6A6ERYya85pJWkn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5wYHJQ6A6ERYya85pJWkn0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:06:19"
+  },
+  {
+    "business_name": "Kuldeep Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car leasing service, Taxi service",
+    "pincode": "209733",
+    "phone_number": "+91 99364 08109",
+    "website": "https://www.kuldeeptravels.in/",
+    "rating": 4.9,
+    "reviews_count": 807,
+    "address": "Bagh Number 2, Transport Nagar, Lucknow, Uttar Pradesh 226023",
+    "area": "Transport Nagar",
+    "latitude": 26.7788456,
+    "longitude": 80.8826243,
+    "place_id": "ChIJ4S_Zygr5mzkRMvhim4q9ihQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4S_Zygr5mzkRMvhim4q9ihQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:06:19"
+  }
+]

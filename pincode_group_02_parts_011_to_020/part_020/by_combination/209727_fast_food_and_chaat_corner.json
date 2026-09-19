@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harishchandra Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209727",
+    "phone_number": "+91 63881 60616",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "00 00, Kannauj, Tahsipur Kan, Uttar Pradesh 209727",
+    "area": "209727",
+    "latitude": 27.1100832,
+    "longitude": 79.88196359999999,
+    "place_id": "ChIJEUD5SydpnjkRft_hm5-IPNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUD5SydpnjkRft_hm5-IPNU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:57:46"
+  },
+  {
+    "business_name": "Om Prakash Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "209727",
+    "phone_number": "+91 91989 89423",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Majhigawan Gt Road, Bahadur Pur, Bahadurpur M, Uttar Pradesh 209728",
+    "area": "209727",
+    "latitude": 27.024916899999997,
+    "longitude": 79.5165616,
+    "place_id": "ChIJUde2XGhlnjkRnr0fXnl3cMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUde2XGhlnjkRnr0fXnl3cMI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:57:46"
+  }
+]

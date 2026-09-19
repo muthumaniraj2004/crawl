@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Balloons",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store, Home goods store, Sporting goods store, Stationery store",
+    "pincode": "209862",
+    "phone_number": "+91 512 230 0748",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No. 33/82, Meston Rd, Topi Bazar,Chowk,Bada Chauraha, Parade, Kanpur, Uttar Pradesh 208001",
+    "area": "Topi Bazar,Chowk,Bada Chauraha, Parade",
+    "latitude": 26.468244,
+    "longitude": 80.34838429999999,
+    "place_id": "ChIJD_CGRV9HnDkRV0lBoFcdBRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_CGRV9HnDkRV0lBoFcdBRA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:38:34"
+  },
+  {
+    "business_name": "Celebration express",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "209862",
+    "phone_number": "+91 93360 36326",
+    "website": "https://www.celebrationexpress.com/",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Phase-1, Naksh city, Lodhi market yojna road, Lucknow, Uttar Pradesh 226002",
+    "area": "209862",
+    "latitude": 26.752905,
+    "longitude": 80.9172796,
+    "place_id": "ChIJ7Y-ifdT7mzkRxnZen0DFzVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Y-ifdT7mzkRxnZen0DFzVM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:38:37"
+  }
+]

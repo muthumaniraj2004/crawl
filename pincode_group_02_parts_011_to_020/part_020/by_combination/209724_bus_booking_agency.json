@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranu Tour and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Tour operator, Travel agency",
+    "pincode": "209724",
+    "phone_number": "+91 82728 12503",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Red light signal, Namner Rd, Katlupur, Rakabganj, Agra, Uttar Pradesh 282001",
+    "area": "Katlupur, Rakabganj",
+    "latitude": 27.167735699999998,
+    "longitude": 78.0062505,
+    "place_id": "ChIJU5A7idl2dDkRQCMs6-c9NYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5A7idl2dDkRQCMs6-c9NYU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:53:26"
+  },
+  {
+    "business_name": "Fouji travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209724",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "sanata dharm mandir, 27A, VIP Rd, Singar Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Singar Nagar, Alambagh",
+    "latitude": 26.8028095,
+    "longitude": 80.89463769999999,
+    "place_id": "ChIJ5-N0LbL_mzkRWHZreUuROt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-N0LbL_mzkRWHZreUuROt0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:53:26"
+  }
+]

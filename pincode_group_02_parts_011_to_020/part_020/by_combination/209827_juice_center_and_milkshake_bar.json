@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Juice Cafe",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "209827",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XQ3M+5WM, Anand Theatre Rd, Mishrana, Khaprel Bazar, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Mishrana, Khaprel Bazar",
+    "latitude": 27.9529532,
+    "longitude": 80.78459459999999,
+    "place_id": "ChIJUcwEdYE1nzkRpey0KTCczXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcwEdYE1nzkRpey0KTCczXE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:22"
+  },
+  {
+    "business_name": "JUICE UP",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "209827",
+    "phone_number": "+91 90254 00991",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Radhakrishnan St, Palaniappa Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+    "area": "Palaniappa Nagar, Valasaravakkam",
+    "latitude": 13.0445254,
+    "longitude": 80.182057,
+    "place_id": "ChIJz3_7pg9hUjoRze_svdundBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3_7pg9hUjoRze_svdundBw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:22"
+  }
+]

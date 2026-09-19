@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "209881",
+    "phone_number": "+91 96063 69009",
+    "website": "https://luxuryproperties.in/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "No.677, 1st Floor, Suite #1095, 27th Main, 13th Cross Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "1st Sector, HSR Layout",
+    "latitude": 12.9159466,
+    "longitude": 77.6502137,
+    "place_id": "ChIJh3mLOkI_rjsRCWTOS_-RpQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3mLOkI_rjsRCWTOS_-RpQE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:55:36"
+  },
+  {
+    "business_name": "Noida Luxury",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Condominium rental agency, Holiday apartment rental, Industrial real estate agency, Property investment company, Property management company, Real estate consultant, Real estate rental agency",
+    "pincode": "209881",
+    "phone_number": "+91 97172 88533",
+    "website": "http://noidaluxury.com/",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "11th Floor, Astralis Supernova, Astralis, Sector 94, Noida, Uttar Pradesh 201303",
+    "area": "Astralis, Sector 94",
+    "latitude": 28.551318199999997,
+    "longitude": 77.3234992,
+    "place_id": "ChIJEbBobu-spQsRzpks4JVkmtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbBobu-spQsRzpks4JVkmtA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:55:38"
+  }
+]

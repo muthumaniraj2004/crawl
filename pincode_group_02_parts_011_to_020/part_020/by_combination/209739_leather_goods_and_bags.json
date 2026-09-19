@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kargha India",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Bag shop, E-commerce service, Handbags shop, Leather goods store",
+    "pincode": "209739",
+    "phone_number": "+91 70078 48262",
+    "website": "https://karghaindia.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1/ 718, near Gurudwara Gali, In Gurudwara Gali, Chowk, Ramnagar, Uttar Pradesh 221008",
+    "area": "In Gurudwara Gali, Chowk",
+    "latitude": 25.269227599999997,
+    "longitude": 83.0292364,
+    "place_id": "ChIJKQCzv64xjjkRtMxZ8epHsPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQCzv64xjjkRtMxZ8epHsPw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:14:13"
+  },
+  {
+    "business_name": "Cabrini Luxury Goods",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "209739",
+    "phone_number": "+91 95551 64486",
+    "website": "http://cabrini.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop 001, Jay Ganga CHS, 707-708, opp. Sai Aashirwad Hospital, Bharti Nagar, Mira Road East, Mira Bhayandar, Maharashtra 401107",
+    "area": "Bharti Nagar, Mira Road East",
+    "latitude": 19.2849991,
+    "longitude": 72.8630414,
+    "place_id": "ChIJx9u7ewCx5zsRORZPqc-s3xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9u7ewCx5zsRORZPqc-s3xI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:14:14"
+  }
+]

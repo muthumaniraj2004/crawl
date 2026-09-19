@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PANDIT BAKERS AND FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "209859",
+    "phone_number": "+91 93078 10555",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Kanpur - Lucknow Rd, near Ramada hotel, Junab Ganj, Lucknow, Uttar Pradesh 226401",
+    "area": "209859",
+    "latitude": 26.697481,
+    "longitude": 80.8313658,
+    "place_id": "ChIJY5ShWgD3mzkRQxqQdLgiEgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5ShWgD3mzkRQxqQdLgiEgU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:32:32"
+  },
+  {
+    "business_name": "J.M.S family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "209859",
+    "phone_number": "+91 99561 81747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MRRH+HF6, Banthra Sikander Pur, Uttar Pradesh 226401",
+    "area": "209859",
+    "latitude": 26.691425,
+    "longitude": 80.8286392,
+    "place_id": "ChIJod9zRwD5mzkRgXSl3T2LoP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJod9zRwD5mzkRgXSl3T2LoP8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:32:33"
+  }
+]

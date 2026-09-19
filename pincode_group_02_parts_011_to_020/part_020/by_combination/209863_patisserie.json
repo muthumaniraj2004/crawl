@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "American Baker's",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "209863",
+    "phone_number": "+91 84006 40094",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Buxsar road, Manikapur, Narharpur, Uttar Pradesh 209866",
+    "area": "209863",
+    "latitude": 26.2550344,
+    "longitude": 80.78360789999999,
+    "place_id": "ChIJUSvSyTJ5nDkRkJ9y4gk2VeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSvSyTJ5nDkRkJ9y4gk2VeU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:26"
+  },
+  {
+    "business_name": "Harry Sweets & Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209863",
+    "phone_number": "+91 88532 68636",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "2HMH+FX9, Rd Lalauli Marg, Azad Nagar, Bindki, Uttar Pradesh 212635",
+    "area": "Azad Nagar",
+    "latitude": 26.033662999999997,
+    "longitude": 80.5799753,
+    "place_id": "ChIJ87Iw3UeJnDkR7lASwriB6yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87Iw3UeJnDkR7lASwriB6yk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:27"
+  }
+]

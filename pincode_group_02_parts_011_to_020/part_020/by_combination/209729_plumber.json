@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GAGU PLUMBER",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209729",
+    "phone_number": "+91 77196 93900",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Samrala, Punjab 141114",
+    "area": "209729",
+    "latitude": 30.8356748,
+    "longitude": 76.1972706,
+    "place_id": "ChIJ90Y3FgQJEDkRkWfRpOBYcUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90Y3FgQJEDkRkWfRpOBYcUM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:37"
+  },
+  {
+    "business_name": "Pal Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209729",
+    "phone_number": "+91 99918 23571",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "vpo.Anchla, Karnal, Haryana 132001",
+    "area": "Sector 8",
+    "latitude": 29.6953183,
+    "longitude": 77.0115268,
+    "place_id": "ChIJV9uqzA17DjkR-_jaaX5L4Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9uqzA17DjkR-_jaaX5L4Aw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:37"
+  }
+]

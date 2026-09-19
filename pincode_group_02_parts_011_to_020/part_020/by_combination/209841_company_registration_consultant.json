@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Web Online CA",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Income tax help association, Tax collector's office, Tax consultant, Tax preparation service",
+    "pincode": "209841",
+    "phone_number": "+91 74138 26826",
+    "website": "https://www.webonlineca.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "IInd Floor, Web Plaza, Nadi ka Phatak Benar Rd, Shyam Nagar, Nirmal Vihar, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Shyam Nagar, Nirmal Vihar, Jhotwara",
+    "latitude": 26.9791325,
+    "longitude": 75.7459652,
+    "place_id": "ChIJhdaHcO2ybTkRHjx3JMyW368",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdaHcO2ybTkRHjx3JMyW368",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:31:58"
+  },
+  {
+    "business_name": "RegisterKaro",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Accountant, Accounting firm, Bookkeeping service, Business development service, Chartered accountant, Financial consultant, Lawyer",
+    "pincode": "209841",
+    "phone_number": "+91 92173 26570",
+    "website": "https://www.registerkaro.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Unit 101, OXFORD TOWERS, 139, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560008",
+    "area": "Kodihalli",
+    "latitude": 12.959199499999999,
+    "longitude": 77.64690929999999,
+    "place_id": "ChIJS34nY8UgvqkRaSUNFJ96Of0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS34nY8UgvqkRaSUNFJ96Of0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:31:58"
+  }
+]

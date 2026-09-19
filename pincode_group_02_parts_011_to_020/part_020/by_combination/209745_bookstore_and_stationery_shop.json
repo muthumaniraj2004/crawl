@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "209745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Railway Road, Jakhal St, near aggarwal dharmshala, Jakhal Mandi, Haryana 125133",
+    "area": "209745",
+    "latitude": 29.804372299999997,
+    "longitude": 75.8225412,
+    "place_id": "ChIJHWTTgdejETkRt-w0U31NrFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWTTgdejETkRt-w0U31NrFA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:18:14"
+  },
+  {
+    "business_name": "Harsh Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "209745",
+    "phone_number": "+91 70800 12157",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 19,
+    "address": "Opp Union Bank of India, Under Nokia Centre, Kutchery Road, Dr BN Varma Rd, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Maulviganj, Aminabad",
+    "latitude": 26.852207,
+    "longitude": 80.925376,
+    "place_id": "ChIJs4k9Ybn9mzkRczjHxgOaGCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4k9Ybn9mzkRczjHxgOaGCk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:18:14"
+  }
+]

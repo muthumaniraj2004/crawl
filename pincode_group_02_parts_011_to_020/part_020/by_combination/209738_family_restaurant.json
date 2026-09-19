@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raunak dhaba and family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209738",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "WP4P+HWG, Liluiya, Umarda, Uttar Pradesh 209738",
+    "area": "209738",
+    "latitude": 26.9064433,
+    "longitude": 79.7373233,
+    "place_id": "ChIJ1bTSWNANnjkRSaByqFjc62k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bTSWNANnjkRSaByqFjc62k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:27"
+  },
+  {
+    "business_name": "Gaur Traders & Supermart",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209738",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bannapur, Bela - Bidhuna Road, Baranpur, Kahinjari Kanpur, Uttar Pradesh 209204",
+    "area": "209738",
+    "latitude": 26.8203993,
+    "longitude": 79.56936619999999,
+    "place_id": "ChIJ9frnOT0JnjkRhAPhSeHYi6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9frnOT0JnjkRhAPhSeHYi6I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:12:30"
+  }
+]

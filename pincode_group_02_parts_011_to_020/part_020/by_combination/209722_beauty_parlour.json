@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neha Beauty parlour Makeup Artist",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "209722",
+    "phone_number": "+91 82993 75546",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samdhan Thakur Duara Kannauj Farrukhabad Road Samdhan Thakur, Samdhan, Uttar Pradesh 209722",
+    "area": "209722",
+    "latitude": 27.1394366,
+    "longitude": 79.7008852,
+    "place_id": "ChIJw535S7MVnjkR12zujQ0pDX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw535S7MVnjkR12zujQ0pDX4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:50:24"
+  },
+  {
+    "business_name": "Ehsaas Fragrances",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Perfume store",
+    "pincode": "209722",
+    "phone_number": "+91 92142 31838",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Laxmi Niwas Keeratpur, 111, Chandapur Banger, Uttar Pradesh 209733",
+    "area": "Chandapur Banger",
+    "latitude": 27.139523999999998,
+    "longitude": 79.8405389,
+    "place_id": "ChIJ8x_gZ8FpnjkRJPBx43UsnAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8x_gZ8FpnjkRJPBx43UsnAE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:50:26"
+  }
+]

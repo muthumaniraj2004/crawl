@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIC sewa kendra",
+    "search_category": "Offices",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "209867",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9PGX+8RG, Unnamed Road, Bhatmau, Uttar Pradesh 209867",
+    "area": "209867",
+    "latitude": 26.3758204,
+    "longitude": 80.7495631,
+    "place_id": "ChIJ5WJUWKZ3nDkRiTgD_mQQFu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WJUWKZ3nDkRiTgD_mQQFu8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:47:31"
+  },
+  {
+    "business_name": "Post Office",
+    "search_category": "Offices",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "209867",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8PJ6+97F, Akwabad, Uttar Pradesh 209867",
+    "area": "209867",
+    "latitude": 26.330949,
+    "longitude": 80.7106843,
+    "place_id": "ChIJm7OjcABxnDkRQlZacD0M5Vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7OjcABxnDkRQlZacD0M5Vw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:47:31"
+  }
+]

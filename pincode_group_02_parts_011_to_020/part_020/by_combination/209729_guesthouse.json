@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "209729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4HMW+V2V, Sikanderpur, Uttar Pradesh 209729",
+    "area": "209729",
+    "latitude": 27.1347454,
+    "longitude": 79.59505879999999,
+    "place_id": "ChIJOx-QbrcXnjkR4X5I-0F1Tx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOx-QbrcXnjkR4X5I-0F1Tx0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:50"
+  },
+  {
+    "business_name": "N.R. Nirmala & Ramsingh Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "209729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "4JG5+F76, Sikanderpur, Uttar Pradesh 209729",
+    "area": "209729",
+    "latitude": 27.126152899999997,
+    "longitude": 79.6081509,
+    "place_id": "ChIJEcHhqD0XnjkRafbZV_LAxmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcHhqD0XnjkRafbZV_LAxmE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:50"
+  }
+]

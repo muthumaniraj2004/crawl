@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mansi Cab Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Air taxi, Car leasing service, Car rental agency, Minibus taxi service, Tour agency, Tour operator, Travel agency",
+    "pincode": "209871",
+    "phone_number": "+91 85858 57798",
+    "website": "http://www.mansicab.com/",
+    "rating": 4.7,
+    "reviews_count": 736,
+    "address": "Plot no.9, Amrutdham, Link Road, Bidi Kamgar Colony, Nashik, Maharashtra 422003",
+    "area": "Bidi Kamgar Colony",
+    "latitude": 20.009809399999998,
+    "longitude": 73.8261843,
+    "place_id": "ChIJaWYEfK7r3TsR3_tXjZ2xQtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWYEfK7r3TsR3_tXjZ2xQtE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:53:10"
+  },
+  {
+    "business_name": "Golden cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "209871",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H7MP+CH9, Rautapur, New Kanpur City, Uttar Pradesh 209217",
+    "area": "209871",
+    "latitude": 26.583530699999997,
+    "longitude": 80.2864862,
+    "place_id": "ChIJ2TUFYgA7nDkRZrrU1xJVQqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TUFYgA7nDkRZrrU1xJVQqk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:53:11"
+  }
+]

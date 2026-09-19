@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Treat at Naveen Market",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe",
+    "pincode": "209861",
+    "phone_number": "+91 86010 66050",
+    "website": "http://statusclub.co.in/",
+    "rating": 4,
+    "reviews_count": 960,
+    "address": "chauraha, Navin Market Lane Naveen Market, Parade, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.4749603,
+    "longitude": 80.3452659,
+    "place_id": "ChIJvfSOGys5nDkRnssihnDD7Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfSOGys5nDkRnssihnDD7Lk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:35:55"
+  },
+  {
+    "business_name": "Santosh Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209861",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 19,
+    "address": "118, 489, Hardoi - Kanpur Road, Chamanlal Market, Gumti No.5, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Chamanlal Market, Gumti No.5, Kaushalpuri, Darshan Purwa",
+    "latitude": 26.465522999999997,
+    "longitude": 80.31254,
+    "place_id": "ChIJdXn3d4dHnDkRSaSKYrFDfVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXn3d4dHnDkRSaSKYrFDfVg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:35:57"
+  }
+]

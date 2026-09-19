@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shaurya Resort",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "209825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GM2X+W4R, Mangat Khera, Uttar Pradesh 209825",
+    "area": "209825",
+    "latitude": 26.5023584,
+    "longitude": 80.6977521,
+    "place_id": "ChIJdzwxJwANnDkRf7R7TvfGn5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzwxJwANnDkRf7R7TvfGn5c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:28"
+  },
+  {
+    "business_name": "Viraj Banquet hall & Rooms",
+    "search_category": "Banquet Hall",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "209825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JMG7+86J, Nawabganj, Uttar Pradesh 209859",
+    "area": "209825",
+    "latitude": 26.6258838,
+    "longitude": 80.6629523,
+    "place_id": "ChIJfRMvOwAPnDkRFdrCN4Wz3rI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRMvOwAPnDkRFdrCN4Wz3rI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:28"
+  }
+]

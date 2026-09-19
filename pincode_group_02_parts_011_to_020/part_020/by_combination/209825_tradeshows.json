@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ITPO Exhibition Hall",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "209825",
+    "phone_number": "+91 11 2348 9659",
+    "website": "https://www.indiatradefair.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "J67V+HMJ, Pragati Maidan, New Delhi, Delhi 110001",
+    "area": "Pragati Maidan",
+    "latitude": 28.613990299999998,
+    "longitude": 77.2441089,
+    "place_id": "ChIJ-15fzsXjDDkRXwACJBJz8lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-15fzsXjDDkRXwACJBJz8lg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:04"
+  },
+  {
+    "business_name": "Durgesh Trading Company",
+    "search_category": "Tradeshows",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "209825",
+    "phone_number": "+91 98385 57071",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "GFCM+V6M, Unnao - Raebareli Rd, Sector D, Nirala Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Sector D, Nirala Nagar",
+    "latitude": 26.5222229,
+    "longitude": 80.4830494,
+    "place_id": "ChIJfycsKgEVnDkRVAtJi9gundQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfycsKgEVnDkRVAtJi9gundQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:27:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DOCTORS MEDICAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209732",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XQ5Q+PHW, Bela Rd, Durga Nagar, Tirwaganj, Uttar Pradesh 209732",
+    "area": "Durga Nagar",
+    "latitude": 26.9593696,
+    "longitude": 79.7889648,
+    "place_id": "ChIJIbzV7qBznjkRbQCrItLcToY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbzV7qBznjkRbQCrItLcToY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:04:27"
+  },
+  {
+    "business_name": "Peetambara Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209732",
+    "phone_number": "+91 75184 00910",
+    "website": "http://www.peetambarapharmacy.com/",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "XRH6+63J, government medical college, Uttar Pradesh 209732",
+    "area": "209732",
+    "latitude": 26.97808,
+    "longitude": 79.8101533,
+    "place_id": "ChIJVYM1XxJynjkRmzVtOLmpDPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYM1XxJynjkRmzVtOLmpDPA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:04:28"
+  }
+]

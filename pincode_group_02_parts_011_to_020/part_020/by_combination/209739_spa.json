@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New look mans parlor",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "209739",
+    "phone_number": "+91 72199 39791",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Phool Mandi phool Mandi, Fatehgarh, Uttar Pradesh 209749",
+    "area": "209739",
+    "latitude": 27.338451799999998,
+    "longitude": 79.6226255,
+    "place_id": "ChIJj6Gdt2w7njkRofnoUSTLqjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6Gdt2w7njkRofnoUSTLqjk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:14:43"
+  },
+  {
+    "business_name": "Mahak Medical store",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "209739",
+    "phone_number": "+91 98392 34971",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ke samne, Railway station, balipur road, Yaqut Ganj, Uttar Pradesh 209749",
+    "area": "209739",
+    "latitude": 27.328807599999998,
+    "longitude": 79.6188027,
+    "place_id": "ChIJa3VP_Ew7njkRBzETw5uA11o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3VP_Ew7njkRBzETw5uA11o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:14:44"
+  }
+]

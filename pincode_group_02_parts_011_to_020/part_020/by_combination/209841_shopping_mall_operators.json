@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Express Avenue",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209841",
+    "phone_number": "N/A",
+    "website": "https://expressavenue.in/",
+    "rating": 4.4,
+    "reviews_count": 106260,
+    "address": "17, Pattullos Rd, Express Estate, Thousand Lights, Chennai, Tamil Nadu 600014",
+    "area": "Express Estate, Thousand Lights",
+    "latitude": 13.0584546,
+    "longitude": 80.26418439999999,
+    "place_id": "ChIJcUUknJpdUjoRS1Okt6ChlYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUUknJpdUjoRS1Okt6ChlYc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:32:16"
+  },
+  {
+    "business_name": "Chemeshwar General Store",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209841",
+    "phone_number": "+91 94159 35598",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "713, DSN College Rd, Ab Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Ab Nagar",
+    "latitude": 26.537555299999998,
+    "longitude": 80.481895,
+    "place_id": "ChIJ_chpsLwVnDkROL8lz_YmbI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_chpsLwVnDkROL8lz_YmbI8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:32:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jumbo Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop, Office services",
+    "pincode": "209736",
+    "phone_number": "+91 98661 54443",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "FF3X+M72, Wellington Rd, near Nanking Chinese Restaurant Vikrampuri, Vikrampuri Colony, Karkhana, Secunderabad, Telangana 500009",
+    "area": "Vikrampuri Colony, Karkhana",
+    "latitude": 17.4541471,
+    "longitude": 78.4981323,
+    "place_id": "ChIJSV3lJUCayzsRAKT15vnk3WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSV3lJUCayzsRAKT15vnk3WE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:11:46"
+  },
+  {
+    "business_name": "Shiva Photocopy",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop, Print shop",
+    "pincode": "209736",
+    "phone_number": "+91 98102 05508",
+    "website": "https://shivaphotocopy-rdc.web.app/",
+    "rating": 5,
+    "reviews_count": 83,
+    "address": "RKB-10, near Collectrate Gate No 2, RDC, Sector 15, Sector 10, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "RDC, Sector 15, Sector 10, Raj Nagar",
+    "latitude": 28.674123299999998,
+    "longitude": 77.4442502,
+    "place_id": "ChIJB-3HlzrxDDkRPj1uxgBW5xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-3HlzrxDDkRPj1uxgBW5xs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:11:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rupesh kirana store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209734",
+    "phone_number": "+91 95552 07694",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Agra - Lucknow Expy, sursi, Thathiya, Uttar Pradesh 209734",
+    "area": "sursi",
+    "latitude": 26.9025787,
+    "longitude": 79.90302799999999,
+    "place_id": "ChIJp2MimJx3njkRDRq6M1yIWOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2MimJx3njkRDRq6M1yIWOk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:41"
+  },
+  {
+    "business_name": "R.K. फुटवियर",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209734",
+    "phone_number": "+91 73553 51452",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Makanpur, Uttar Pradesh 209202",
+    "area": "209734",
+    "latitude": 26.9011133,
+    "longitude": 79.98059219999999,
+    "place_id": "ChIJP5ba2WV5njkRPk4MvDxKtNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5ba2WV5njkRPk4MvDxKtNI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:07:41"
+  }
+]

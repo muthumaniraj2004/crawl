@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.S. Trading Company",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Beauty Products Wholesaler, Handbags shop, Jewelry store, Underwear store",
+    "pincode": "209743",
+    "phone_number": "+91 90449 81712",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pachraha, Sabzi Mandi Rd, Sadar Bazar, Bahadurganj, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Sadar Bazar",
+    "latitude": 27.8821533,
+    "longitude": 79.9114913,
+    "place_id": "ChIJAX8mKNa8nzkRgaNSNFQulGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAX8mKNa8nzkRgaNSNFQulGo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:16:20"
+  },
+  {
+    "business_name": "Beauty Center Saifabad",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler",
+    "pincode": "209743",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Beauty Centre, Saifabad, Saifabad Bazaar, Uttar Pradesh 230138",
+    "area": "209743",
+    "latitude": 26.018456099999998,
+    "longitude": 82.27082949999999,
+    "place_id": "ChIJUSUAdfB3kDkR1ycnDZ4IpIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSUAdfB3kDkR1ycnDZ4IpIo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:16:20"
+  }
+]

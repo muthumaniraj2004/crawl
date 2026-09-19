@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "209881",
+    "phone_number": "+91 90369 99299",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "834 Post, Hosa Rd, Chennakeshava Nagar, CK Nagar, Pragathi Nagar, Electronic City, Bengaluru, Karnataka 560100",
+    "area": "Chennakeshava Nagar, CK Nagar, Pragathi Nagar, Electronic City",
+    "latitude": 12.8705451,
+    "longitude": 77.65483069999999,
+    "place_id": "ChIJrwR9N6hsrjsRq8Wh9uyLINk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwR9N6hsrjsRq8Wh9uyLINk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:54:55"
+  },
+  {
+    "business_name": "Kalra Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electrical appliance wholesaler, Light bulb supplier, Lighting store, Lighting products wholesaler",
+    "pincode": "209881",
+    "phone_number": "+91 88515 24422",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Block B, Dayanand Colony, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Block B, Dayanand Colony, Lajpat Nagar",
+    "latitude": 28.5635953,
+    "longitude": 77.24715929999999,
+    "place_id": "ChIJdSnSmLPjDDkRbOS_w1d2pvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSnSmLPjDDkRbOS_w1d2pvg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:54:56"
+  }
+]

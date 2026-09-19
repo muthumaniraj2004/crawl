@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Subhash Chandra Dubey Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "209722",
+    "phone_number": "+91 99567 45656",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4P7M+JCV, Gursahaiganj, Uttar Pradesh 209722",
+    "area": "209722",
+    "latitude": 27.114119,
+    "longitude": 79.733556,
+    "place_id": "ChIJiVUccdEUnjkRIP_PGTldfSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVUccdEUnjkRIP_PGTldfSU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:59"
+  },
+  {
+    "business_name": "Sparsh Hospital, Kannauj",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre",
+    "pincode": "209722",
+    "phone_number": "+91 98391 23489",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 37,
+    "address": "SH 21, Mulayam Nagar, Ahamadpur Ra, Uttar Pradesh 209727",
+    "area": "Mulayam Nagar",
+    "latitude": 27.0272386,
+    "longitude": 79.91136139999999,
+    "place_id": "ChIJmVjEKIxvnjkROowKEo1bH4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVjEKIxvnjkROowKEo1bH4g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:59"
+  }
+]

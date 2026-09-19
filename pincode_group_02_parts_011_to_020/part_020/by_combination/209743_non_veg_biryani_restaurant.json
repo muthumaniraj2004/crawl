@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House Of Biryan",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian takeaway",
+    "all_categories": "Indian takeaway",
+    "pincode": "209743",
+    "phone_number": "+91 82828 25325",
+    "website": "http://www.houseofbiryan.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Dr. Charatsingh Colony, S B Singh Colony, J B Nagar, Sakinaka, Mumbai, Maharashtra 400093",
+    "area": "Dr. Charatsingh Colony, S B Singh Colony, J B Nagar, Sakinaka",
+    "latitude": 19.1138796,
+    "longitude": 72.8623427,
+    "place_id": "ChIJo2LXpXfJ5zsRUuVRDLJYt1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2LXpXfJ5zsRUuVRDLJYt1Q",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:37"
+  },
+  {
+    "business_name": "Sahil nonveg hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "209743",
+    "phone_number": "+91 81156 55340",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bewar - Mohammadabad Rd, Mohammadabad, Uttar Pradesh 209651",
+    "area": "209743",
+    "latitude": 27.3049799,
+    "longitude": 79.43312639999999,
+    "place_id": "ChIJR9jIGu4nnjkRNOe_dOOzU5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9jIGu4nnjkRNOe_dOOzU5c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:39"
+  }
+]

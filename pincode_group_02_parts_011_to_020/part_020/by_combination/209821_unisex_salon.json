@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhar Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "209821",
+    "phone_number": "+91 84001 20215",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vill Gulab Kheda Majre Jeegon Post Tilenda, Road Jeegon, Samaspur Halor, Uttar Pradesh 229301",
+    "area": "209821",
+    "latitude": 26.4890705,
+    "longitude": 81.1507876,
+    "place_id": "ChIJF_SZvOSVmzkRqmYmoponPlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_SZvOSVmzkRqmYmoponPlQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:24:42"
+  },
+  {
+    "business_name": "Beauty Planet",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Beauty Products Wholesaler, Cosmetics store, Furniture wholesaler",
+    "pincode": "209821",
+    "phone_number": "+91 98199 64790",
+    "website": "http://www.beautyplanetindia.com/",
+    "rating": 4.3,
+    "reviews_count": 196,
+    "address": "Laxmi Industrial Estate, Besides Shiva's Salon, Off Link Rd, behind Axis Bank, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Laxmi Industrial Estate, Suresh Nagar, Andheri West",
+    "latitude": 19.135483,
+    "longitude": 72.83153899999999,
+    "place_id": "ChIJxfzehSK25zsRiQWfISq1w-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfzehSK25zsRiQWfISq1w-g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:24:44"
+  }
+]

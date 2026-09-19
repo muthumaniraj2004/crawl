@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Beej Bhandar",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "209729",
+    "phone_number": "+91 63073 12993",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Salempur, GT Rd, Chhibramau, Uttar Pradesh 209729",
+    "area": "209729",
+    "latitude": 27.1382826,
+    "longitude": 79.562478,
+    "place_id": "ChIJ0ZtwfAAXnjkRl4_9TmR_Nng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZtwfAAXnjkRl4_9TmR_Nng",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:41"
+  },
+  {
+    "business_name": "Abhishek Clinic",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "209729",
+    "phone_number": "+91 95696 23784",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "63, Aon, Unnao, Kasawa, Uttar Pradesh 209721",
+    "area": "Aon",
+    "latitude": 27.0792728,
+    "longitude": 79.5477674,
+    "place_id": "ChIJoaBfaGMZnjkRZnCJKAXdnDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaBfaGMZnjkRZnCJKAXdnDw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC(Jansewa Kendra)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Financial consultant, Insurance agency, Tax preparation service",
+    "pincode": "209825",
+    "phone_number": "N/A",
+    "website": "https://digitalseva.csc.gov.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanpur - Lucknow Rd, Barabirwa, Sector B, Bargawan, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Barabirwa, Sector B, Bargawan, LDA Colony",
+    "latitude": 26.7988932,
+    "longitude": 80.894442,
+    "place_id": "ChIJzdCUFab-mzkRqOEuvlVXIl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdCUFab-mzkRqOEuvlVXIl4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:47"
+  },
+  {
+    "business_name": "CSC CHANDRIKA PORAI JIO POINT",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "8Q4V+258, PORAI, Kundanpur, Patan, Uttar Pradesh 209866",
+    "area": "PORAI",
+    "latitude": 26.305038399999997,
+    "longitude": 80.79296049999999,
+    "place_id": "ChIJl6PxmOx5nDkRmI9XZRbkjb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6PxmOx5nDkRmI9XZRbkjb4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:47"
+  }
+]

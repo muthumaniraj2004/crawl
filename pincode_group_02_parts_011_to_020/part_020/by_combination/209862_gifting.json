@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hey Prints & Gift Store",
+    "search_category": "Gifting",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "209862",
+    "phone_number": "+91 99363 64157",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No. 449 Gotakhor, Champapurwa, Shuklaganj, Uttar Pradesh 209861",
+    "area": "Shuklaganj",
+    "latitude": 26.4747584,
+    "longitude": 80.3818459,
+    "place_id": "ChIJHxP91kk_nDkRZkMaUwQSKXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxP91kk_nDkRZkMaUwQSKXQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:38:42"
+  },
+  {
+    "business_name": "Crafty Artist by Ishika",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Service establishment",
+    "pincode": "209862",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/crafty_.artist05?igsh=dWJsazIxbml5NWpj",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Crafty Artist by Ishika, 209862, India",
+    "area": "209862",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJcUIML6UFpGwRvTNHgRmeV04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUIML6UFpGwRvTNHgRmeV04",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:38:42"
+  }
+]

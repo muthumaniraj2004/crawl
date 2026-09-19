@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivanya Telecom",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "209739",
+    "phone_number": "+91 88083 41843",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "7H23+JJ9, Farrukhabad Chivramau Road Choaraha, Jahanganj - Sarfabad Rd, Kadhra Pur, Uttar Pradesh 209739",
+    "area": "209739",
+    "latitude": 27.2515467,
+    "longitude": 79.5541125,
+    "place_id": "ChIJ8eA7A1YjnjkRX2O73ZtSbxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eA7A1YjnjkRX2O73ZtSbxc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:14:08"
+  },
+  {
+    "business_name": "DA FOOD AFFAIR",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "209739",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7J5J+JQF, Kamalganj, Uttar Pradesh 209724",
+    "area": "209739",
+    "latitude": 27.259069,
+    "longitude": 79.6319214,
+    "place_id": "ChIJiYtlCAA7njkRfGsDUyt1Pw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYtlCAA7njkRfGsDUyt1Pw0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:14:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Hero Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "209749",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nitganja, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Nitganja",
+    "latitude": 27.3887184,
+    "longitude": 79.5821022,
+    "place_id": "ChIJrdtZHOcxnjkR4jdmYQSPZDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdtZHOcxnjkR4jdmYQSPZDQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:40"
+  },
+  {
+    "business_name": "Kamal Tailor's & Fashion",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor, Men's clothing store",
+    "pincode": "209749",
+    "phone_number": "+91 90344 10128",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Kanipla - Sirsala - Kurukshetra Rd, Mohan Nagar, Kurukshetra, Haryana 136118",
+    "area": "Mohan Nagar",
+    "latitude": 29.9737241,
+    "longitude": 76.855268,
+    "place_id": "ChIJ35sdzvdHDjkRuOhlNbpnfys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35sdzvdHDjkRuOhlNbpnfys",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:20:42"
+  }
+]

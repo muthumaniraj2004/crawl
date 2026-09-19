@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Dish sarvesh",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "209864",
+    "phone_number": "+91 788 052 4667",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lalpur, Bhagwantnagar, Uttar Pradesh 209864",
+    "area": "Lalpur",
+    "latitude": 26.2214168,
+    "longitude": 80.7549453,
+    "place_id": "ChIJ_QAfEQB5nDkRbNcE8C9R9C0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QAfEQB5nDkRbNcE8C9R9C0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:42:36"
+  },
+  {
+    "business_name": "Siddhi electronic",
+    "search_category": "Shops",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "209864",
+    "phone_number": "+91 93367 27607",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "opposite police chowki, chauraha, Bhagwantnagar, Uttar Pradesh 209864",
+    "area": "chauraha",
+    "latitude": 26.2260395,
+    "longitude": 80.7560834,
+    "place_id": "ChIJ6ylUGgF5nDkROxejCIpeiYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ylUGgF5nDkROxejCIpeiYk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:42:36"
+  }
+]

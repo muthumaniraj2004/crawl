@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Party Caart",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Party store, Balloon store, Event management company, Event planner, Party planner, Wedding planner",
+    "pincode": "209861",
+    "phone_number": "+91 98390 89225",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Swarup Education Center, 120, near Dr. Virendra, N Block, Juhi Kala, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "N Block, Juhi Kala, Kidwai Nagar",
+    "latitude": 26.434886,
+    "longitude": 80.32467969999999,
+    "place_id": "ChIJK4hAO_z7mzkRKlLyEgrDhiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4hAO_z7mzkRKlLyEgrDhiE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:36:47"
+  },
+  {
+    "business_name": "Mamta Sports",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store, Seasonal Goods Store, Sports complex, Toy store, Trophy shop",
+    "pincode": "209861",
+    "phone_number": "+91 98390 65768",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "33/79, Meston Rd, Bade Chauraha, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Bade Chauraha, General Ganj",
+    "latitude": 26.468671399999998,
+    "longitude": 80.34875509999999,
+    "place_id": "ChIJb94TT19HnDkREHDCIuNthqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb94TT19HnDkREHDCIuNthqY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:36:50"
+  }
+]

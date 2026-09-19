@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kushwaha car bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Auto auction",
+    "all_categories": "Auto auction",
+    "pincode": "209863",
+    "phone_number": "+91 99352 17896",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 13,
+    "address": "Kanpur - Allahabad Hwy, Uttar Pradesh 209402",
+    "area": "209863",
+    "latitude": 26.2752721,
+    "longitude": 80.49115669999999,
+    "place_id": "ChIJ1a9_V-NnnDkRgreRsjqcE2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1a9_V-NnnDkRgreRsjqcE2c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:53"
+  },
+  {
+    "business_name": "Sahu ji",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "209863",
+    "phone_number": "+91 80098 72862",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "Souil Bhevli, Kanpur, Bara Gaon, Uttar Pradesh 209402",
+    "area": "209863",
+    "latitude": 26.2612314,
+    "longitude": 80.4811436,
+    "place_id": "ChIJF3fAfbZnnDkR2jcpi-YnC1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3fAfbZnnDkR2jcpi-YnC1Q",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:39:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahu Khan Chand Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "209726",
+    "phone_number": "+91 99270 50365",
+    "website": "http://sahufresh.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3, Km Milestone, Budaun Rd, Chandausi, Faizganj, Uttar Pradesh 243632",
+    "area": "209726",
+    "latitude": 28.386700299999998,
+    "longitude": 78.8451735,
+    "place_id": "ChIJl3B2k-TPCjkR8QiJmYXLvqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3B2k-TPCjkR8QiJmYXLvqU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:05"
+  },
+  {
+    "business_name": "Frozen Fresh Marketing Company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "209726",
+    "phone_number": "+91 93070 12415",
+    "website": "https://www.frozenfresh.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1140 D- BLOCK, D Block, B Block, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "D Block, B Block, Indira Nagar",
+    "latitude": 26.880329999999997,
+    "longitude": 80.98198719999999,
+    "place_id": "ChIJJz0r5ZP9mzkRhFDam-CLhFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJz0r5ZP9mzkRhFDam-CLhFw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:56:05"
+  }
+]

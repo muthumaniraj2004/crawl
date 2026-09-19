@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foji General Store, Nagla kothi",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "209743",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Nagla Kothi, Nagla Devi, Uttar Pradesh 205301",
+    "area": "209743",
+    "latitude": 27.200768999999998,
+    "longitude": 79.3479325,
+    "place_id": "ChIJbcIbYACLdTkRUgcntfX4-ZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcIbYACLdTkRUgcntfX4-ZE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:32"
+  },
+  {
+    "business_name": "Pranshu pal general store",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209743",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7CH4+H8G, Gajiyanpur maohamdabaf, Nadsa, Uttar Pradesh 209743",
+    "area": "209743",
+    "latitude": 27.278930199999998,
+    "longitude": 79.4058333,
+    "place_id": "ChIJr_j0AwAnnjkRGf3_NXJ4DNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_j0AwAnnjkRGf3_NXJ4DNQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:15:32"
+  }
+]

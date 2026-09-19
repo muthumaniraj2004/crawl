@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R. S. CAFE AND FAST FOOD",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "209725",
+    "phone_number": "+91 99969 56027",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "RAJKIYA ENGINEERING COLLEGE, Bela Road, Aher, Uttar Pradesh 209732",
+    "area": "209725",
+    "latitude": 26.9390087,
+    "longitude": 79.7579671,
+    "place_id": "ChIJ5znlcnFznjkRORpLVG5T4Pc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5znlcnFznjkRORpLVG5T4Pc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:54:35"
+  },
+  {
+    "business_name": "Cafe Coffee Day",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee store",
+    "all_categories": "Coffee store",
+    "pincode": "209725",
+    "phone_number": "N/A",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 3.8,
+    "reviews_count": 10,
+    "address": "50, near rajshree takies, Uttar Pradesh 209725",
+    "area": "Safdarganj",
+    "latitude": 27.054018199999998,
+    "longitude": 79.9166896,
+    "place_id": "ChIJr4qDazdvnjkRyZB4p5jRsIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4qDazdvnjkRyZB4p5jRsIg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:54:36"
+  }
+]

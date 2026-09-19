@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHUKLA CHAT HOUSE",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209722",
+    "phone_number": "+91 94555 67417",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Mandir Ke Pass, Gursahaiganj, Uttar Pradesh 209722",
+    "area": "209722",
+    "latitude": 27.1195442,
+    "longitude": 79.7290811,
+    "place_id": "ChIJQzk23sIVnjkR-HiPBV423iQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzk23sIVnjkR-HiPBV423iQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:46"
+  },
+  {
+    "business_name": "Punjabi Chaap Corner | Best Chaap in Kannauj",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "209722",
+    "phone_number": "+91 83038 34848",
+    "website": "https://punjabichaapcorner.com/",
+    "rating": 4.6,
+    "reviews_count": 66,
+    "address": "Infront of Bajaj Auto Mobile, Makrand Nagar, GT Rd, Kannauj, Uttar Pradesh 209725",
+    "area": "209722",
+    "latitude": 27.040453,
+    "longitude": 79.9083977,
+    "place_id": "ChIJd1l1jM5vnjkRWIHTnw1aQuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1l1jM5vnjkRWIHTnw1aQuI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:46"
+  }
+]

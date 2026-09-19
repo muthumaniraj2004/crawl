@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209866",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 17, near nager Palika market, Nagar Palika Market, Chaudrana, Unnao, Uttar Pradesh 209801",
+    "area": "Nagar Palika Market, Chaudrana",
+    "latitude": 26.5474775,
+    "longitude": 80.48940259999999,
+    "place_id": "ChIJubHQVQAVnDkRPz-amzfrNoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubHQVQAVnDkRPz-amzfrNoE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:51"
+  },
+  {
+    "business_name": "Bookingnear.com Tours and Holidays",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator, Tourist information center",
+    "pincode": "209866",
+    "phone_number": "+91 80095 22992",
+    "website": "https://www.bookingnear.com/",
+    "rating": 5,
+    "reviews_count": 314,
+    "address": "LGF 35, Kahlon Emporium 1, Sector 16, Vrindavan Colony, Lucknow, Uttar Pradesh 226029",
+    "area": "Sector 16, Vrindavan Colony",
+    "latitude": 26.750822,
+    "longitude": 80.954433,
+    "place_id": "ChIJByDYXVj7mzkRUd3hC88lQ0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByDYXVj7mzkRUd3hC88lQ0Y",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:44:52"
+  }
+]

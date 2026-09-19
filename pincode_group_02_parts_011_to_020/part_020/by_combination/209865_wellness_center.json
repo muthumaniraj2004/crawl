@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayushman Arogya Kendra",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "209865",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9H4M+P85, Bichhiya, Uttar Pradesh 209860",
+    "area": "209865",
+    "latitude": 26.356753299999998,
+    "longitude": 80.58336589999999,
+    "place_id": "ChIJP4-rEABvnDkR6dwZbDrvg1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4-rEABvnDkR6dwZbDrvg1c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:43:32"
+  },
+  {
+    "business_name": "EAW TECHNOLOGIES PVT LTD",
+    "search_category": "Wellness Center",
+    "primary_category": "Environmental health service",
+    "all_categories": "Environmental health service",
+    "pincode": "209865",
+    "phone_number": "+91 96213 67585",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward 7, House 7, Bighapur, Bighapur Kalan, Uttar Pradesh 209865",
+    "area": "209865",
+    "latitude": 26.347579,
+    "longitude": 80.65821609999999,
+    "place_id": "ChIJo4Q0W3txnDkRfCRXQxQG4Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4Q0W3txnDkRfCRXQxQG4Ho",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:43:32"
+  }
+]

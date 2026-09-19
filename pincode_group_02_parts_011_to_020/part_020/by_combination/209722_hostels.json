@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puran lal (Suraj)",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "209722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4PC4+87J, Ismailpur, Uttar Pradesh 209722",
+    "area": "209722",
+    "latitude": 27.120829699999998,
+    "longitude": 79.7056442,
+    "place_id": "ChIJQ4V5cwAVnjkRPUGFTB25-6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4V5cwAVnjkRPUGFTB25-6U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:50:33"
+  },
+  {
+    "business_name": "Shri Gopal Ji Guest House",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209722",
+    "phone_number": "+91 98386 89030",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 15,
+    "address": "East Crossing, near J.P Petrole Pump, Gursahaiganj, Uttar Pradesh 209722",
+    "area": "209722",
+    "latitude": 27.115500899999997,
+    "longitude": 79.7379065,
+    "place_id": "ChIJK_ClquQVnjkRd2etZFuFlC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_ClquQVnjkRd2etZFuFlC8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:50:33"
+  }
+]

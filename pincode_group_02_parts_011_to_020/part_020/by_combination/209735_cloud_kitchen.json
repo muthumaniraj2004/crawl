@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food bank",
+    "all_categories": "Food bank",
+    "pincode": "209735",
+    "phone_number": "+91 94138 40604",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "48/61Rajat Path, New Sanganer Rd, Ganpatpura, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ganpatpura, Mansarovar",
+    "latitude": 26.8634256,
+    "longitude": 75.7536653,
+    "place_id": "ChIJrZjtb9y1bTkROrwwOpKrw1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZjtb9y1bTkROrwwOpKrw1Y",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:09:11"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209735",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Shop Number 8, 4, 100 Feet Rd, KHB Block Koramangala, Ganigarapalya, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Block Koramangala, Ganigarapalya, 5th Block, Koramangala",
+    "latitude": 12.934161099999999,
+    "longitude": 77.62337839999999,
+    "place_id": "ChIJs4cFECcVrjsREszHnnpGPzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4cFECcVrjsREszHnnpGPzw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:09:11"
+  }
+]

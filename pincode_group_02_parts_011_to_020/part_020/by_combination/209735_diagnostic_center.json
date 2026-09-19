@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.L. Medical Store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "209735",
+    "phone_number": "+91 89573 57758",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GT Rd, ismilepur, Kannauj, Uttar Pradesh 209722",
+    "area": "ismilepur",
+    "latitude": 27.120359099999998,
+    "longitude": 79.7063033,
+    "place_id": "ChIJBUHcA6wVnjkRJXl2hWcCiUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUHcA6wVnjkRJXl2hWcCiUI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:09:25"
+  },
+  {
+    "business_name": "बाबा जी मेडिकल स्टोर",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "209735",
+    "phone_number": "+91 79053 46277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Lalpur, Kannauj, Uttar Pradesh 209735",
+    "area": "209735",
+    "latitude": 27.205448999999998,
+    "longitude": 79.7274786,
+    "place_id": "ChIJ1XVXKWY_njkR9BrD6k0z028",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XVXKWY_njkR9BrD6k0z028",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:09:28"
+  }
+]

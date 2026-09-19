@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Tales Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "209841",
+    "phone_number": "+91 99994 41310",
+    "website": "https://www.foodtalescatering.com/",
+    "rating": 5,
+    "reviews_count": 89,
+    "address": "Khasra No. 369, Plot No.18, A-6/2, Asola, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Asola Homes, Asola, Chhatarpur",
+    "latitude": 28.4590221,
+    "longitude": 77.1921624,
+    "place_id": "ChIJlYGLGkwfDTkRbSJ85DUKPMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYGLGkwfDTkRbSJ85DUKPMg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:31:38"
+  },
+  {
+    "business_name": "Royal Spoon Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Buffet restaurant, Food products supplier, Restaurant supply store",
+    "pincode": "209841",
+    "phone_number": "+91 97112 43666",
+    "website": "https://bestcateringservices.in/",
+    "rating": 4.8,
+    "reviews_count": 128,
+    "address": "AR Market Part-2, F-3, near MetroMoney Bazar, Rampur, Block C, Gamma 1, Greater Noida, Uttar Pradesh 201310",
+    "area": "Rampur, Block C, Gamma 1",
+    "latitude": 28.4836907,
+    "longitude": 77.50570689999999,
+    "place_id": "ChIJdwGEcGbqDDkRf-eirj_tYVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwGEcGbqDDkRf-eirj_tYVw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:31:38"
+  }
+]

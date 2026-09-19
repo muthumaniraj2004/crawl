@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209722",
+    "phone_number": "+91 73481 24190",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GT Rd, Makrand Nagar, Kannauj, Kutalupur Kutlupur, Uttar Pradesh 209726",
+    "area": "Makrand Nagar",
+    "latitude": 27.0420362,
+    "longitude": 79.9070158,
+    "place_id": "ChIJQfxrGwBvnjkRjW7K1nCAgSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfxrGwBvnjkRjW7K1nCAgSM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:57"
+  },
+  {
+    "business_name": "krishna pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "tiraha, indergarh, tirwa, Uttar Pradesh 209732",
+    "area": "209722",
+    "latitude": 26.951284299999998,
+    "longitude": 79.77726729999999,
+    "place_id": "ChIJZSbQ80xznjkRe4Tl-3lzXd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSbQ80xznjkRe4Tl-3lzXd0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:49:58"
+  }
+]

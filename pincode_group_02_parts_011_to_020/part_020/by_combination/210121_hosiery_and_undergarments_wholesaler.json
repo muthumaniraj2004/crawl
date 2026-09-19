@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daily Touch",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Lingerie store",
+    "pincode": "210121",
+    "phone_number": "+91 97446 33268",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V.A.I Pady, Amritha Hospital Road, Edappally North, AIMS P.O, Edappally, Ernakulam, Keralam 682041",
+    "area": "Edappally North, AIMS P.O, Edappally",
+    "latitude": 10.0393485,
+    "longitude": 76.2992767,
+    "place_id": "ChIJVzGyMFcNCDsRP86TcG2l2Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzGyMFcNCDsRP86TcG2l2Oc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:59:47"
+  },
+  {
+    "business_name": "Shree Shyam Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "210121",
+    "phone_number": "+91 86699 66830",
+    "website": "http://www.shyamgrouppune.com/",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "2nd floor, 201, Mahalaxmi Market, 1482, Shukrawar Peth, Pune, Maharashtra 411002",
+    "area": "Mandai, Shukrawar Peth",
+    "latitude": 18.5131609,
+    "longitude": 73.8543115,
+    "place_id": "ChIJVVVVJW_AwjsRQB5KekmaJhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVJW_AwjsRQB5KekmaJhE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:59:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fauji Pathology",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa, Pathologist",
+    "pincode": "209725",
+    "phone_number": "+91 92500 00324",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Golkuaa road, Shivajinagar, near Vinod Dixit Hospital, Makrand Nagar, Allauddianpur, Kannauj, Uttar Pradesh 209725",
+    "area": "Mohalla Kazi Tola, Makrand Nagar",
+    "latitude": 27.0503502,
+    "longitude": 79.9143509,
+    "place_id": "ChIJXWUmawBvnjkRPhqGoMbYDJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWUmawBvnjkRPhqGoMbYDJY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:55:13"
+  },
+  {
+    "business_name": "Shiv Pathology",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "209725",
+    "phone_number": "+91 91693 75300",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 23, Vinod Dixit Hospital, Karanpur Choraha, MakraNear, Makrand Nagar, Karanpur, Kannauj, Uttar Pradesh 209725",
+    "area": "Mohalla Kazi Tola, Makrand Nagar",
+    "latitude": 27.050755799999997,
+    "longitude": 79.91478149999999,
+    "place_id": "ChIJfdtSYyZvnjkRfC6ubeNZmWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdtSYyZvnjkRfC6ubeNZmWs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:55:15"
+  }
+]

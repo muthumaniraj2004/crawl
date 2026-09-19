@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S R Shhoping Mart",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209729",
+    "phone_number": "+91 90642 14644",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sikanderpur, Uttar Pradesh 209729",
+    "area": "209729",
+    "latitude": 27.136393899999998,
+    "longitude": 79.5958375,
+    "place_id": "ChIJibHyqq0XnjkRprFPLNlW0P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibHyqq0XnjkRprFPLNlW0P4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:08"
+  },
+  {
+    "business_name": "Ali Ji",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209729",
+    "phone_number": "+91 96959 35784",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ali Ji, Sikanderpur, Aseh, Uttar Pradesh 209729",
+    "area": "209729",
+    "latitude": 27.096932,
+    "longitude": 79.5880987,
+    "place_id": "ChIJG_plv4MXnjkRSy_q6n1HPFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_plv4MXnjkRSy_q6n1HPFY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:01:08"
+  }
+]

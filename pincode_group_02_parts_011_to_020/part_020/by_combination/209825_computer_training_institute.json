@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RIOCS Computer Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Computer consultant",
+    "pincode": "209825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Post, Vill, Ajgain, Baruwa, Uttar Pradesh 209831",
+    "area": "Vill",
+    "latitude": 26.6156263,
+    "longitude": 80.6237798,
+    "place_id": "ChIJVR-ruWgRnDkRYZgL9XCNYrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVR-ruWgRnDkRYZgL9XCNYrI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:42"
+  },
+  {
+    "business_name": "IT Computer Tech",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "209825",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Benthar Bethar, Uttar Pradesh 209860",
+    "area": "209825",
+    "latitude": 26.4237316,
+    "longitude": 80.56057969999999,
+    "place_id": "ChIJ-QJSutRtnDkR9oVLCmtKcgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-QJSutRtnDkR9oVLCmtKcgc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:26:42"
+  }
+]

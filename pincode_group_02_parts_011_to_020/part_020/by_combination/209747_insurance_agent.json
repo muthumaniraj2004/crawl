@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam yadav",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "209747",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W97F+CR, Kukarkat, Uttar Pradesh 206252",
+    "area": "209747",
+    "latitude": 26.9136249,
+    "longitude": 79.3745916,
+    "place_id": "ChIJtzC7PgD5dTkRzL4cyFeuB2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzC7PgD5dTkRzL4cyFeuB2k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:59"
+  },
+  {
+    "business_name": "(ठाकुर) रामवीर सिंह राजावत गैलवार",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "209747",
+    "phone_number": "+91 94506 38346",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "W8H9+2F3, गैलवार हरकुंजलपुर, Usrahar, Kudrail, Uttar Pradesh 206123",
+    "area": "209747",
+    "latitude": 26.927508999999997,
+    "longitude": 79.318685,
+    "place_id": "ChIJ5VKAUwD5dTkRhCzVBM_Cpvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VKAUwD5dTkRhCzVBM_Cpvg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:19:59"
+  }
+]

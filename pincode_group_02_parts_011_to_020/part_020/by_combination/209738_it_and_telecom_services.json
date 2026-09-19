@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "209738",
+    "phone_number": "+91 94571 54061",
+    "website": "https://bsnl.co.in/",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "HARIOM VILLAGE SHIVRA, MAU, Bela, Uttar Pradesh 206251",
+    "area": "209738",
+    "latitude": 26.83,
+    "longitude": 79.675,
+    "place_id": "ChIJc_zmwUcLnjkRu3q9kAUVVzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_zmwUcLnjkRu3q9kAUVVzU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:13:27"
+  },
+  {
+    "business_name": "BSNL Exchange And Office",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "209738",
+    "phone_number": "+91 1800 345 1500",
+    "website": "http://www.bsnl.co.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Bhootnath Mandir Market, Faizabad Rd, Sector 5, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Sector 5, Indira Nagar",
+    "latitude": 26.8735717,
+    "longitude": 80.9837038,
+    "place_id": "ChIJkUOigE39mzkRSKnS3euJ1dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUOigE39mzkRSKnS3euJ1dk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 07:13:28"
+  }
+]
