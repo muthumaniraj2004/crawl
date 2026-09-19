@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Bakers",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "174303",
+    "phone_number": "+91 98054 49551",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 36,
+    "address": "Main Bazaar Rd, Basdehra, Mehatpur, Himachal Pradesh 174315",
+    "area": "Basdehra",
+    "latitude": 31.4056513,
+    "longitude": 76.342894,
+    "place_id": "ChIJKx0woXXPGjkRLFWwb3Z29hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKx0woXXPGjkRLFWwb3Z29hw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:36:50"
+  },
+  {
+    "business_name": "Annu Mobile Paan Bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Tobacco shop",
+    "pincode": "174303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4062,
+    "address": "Shop 28, Madhyam Marg, Meera Marg, Ward Number 43, Sector 101, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ward Number 43, Sector 101, Mansarovar",
+    "latitude": 26.8500639,
+    "longitude": 75.7680949,
+    "place_id": "ChIJPUpSsaO1bTkR7bM1WiKIle4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUpSsaO1bTkR7bM1WiKIle4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:36:51"
+  }
+]

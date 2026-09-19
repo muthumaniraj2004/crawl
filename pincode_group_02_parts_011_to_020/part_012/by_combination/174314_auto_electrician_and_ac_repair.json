@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhey Engineering Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Agricultural machinery manufacturer, Metal fabricator, Welding supply store",
+    "pincode": "174314",
+    "phone_number": "+91 94183 14176",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Radhey engineering Works, Railway pull, Dilwa, Amb, Himachal Pradesh 177211",
+    "area": "Dilwa",
+    "latitude": 31.598733,
+    "longitude": 76.166988,
+    "place_id": "ChIJa65WXVQhGzkRN50szY16qH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa65WXVQhGzkRN50szY16qH4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:56:04"
+  },
+  {
+    "business_name": "Lucky choudhary Ecm electrical automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Auto air conditioning service, Auto parts store",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Teh amb, Nandpur, Himachal Pradesh 177211",
+    "area": "174314",
+    "latitude": 31.613403299999998,
+    "longitude": 76.1410709,
+    "place_id": "ChIJVda8JUohGzkRq27iyWSrOsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVda8JUohGzkRq27iyWSrOsk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:56:05"
+  }
+]

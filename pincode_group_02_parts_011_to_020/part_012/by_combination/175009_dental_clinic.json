@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAUL DENTAL CLINIC",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175009",
+    "phone_number": "+91 94180 45197",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "96J5+R42, Karsog, Himachal Pradesh 175011",
+    "area": "175009",
+    "latitude": 31.3820053,
+    "longitude": 77.20776409999999,
+    "place_id": "ChIJq6qak2-gBTkR4ErsPJB90LM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qak2-gBTkR4ErsPJB90LM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:31"
+  },
+  {
+    "business_name": "Devbhumi Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "175009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st floor, Verma complex, Main bazaar, opposite to Gupta sweets, Karsog, Himachal Pradesh 175011",
+    "area": "175009",
+    "latitude": 31.381540899999997,
+    "longitude": 77.20429419999999,
+    "place_id": "ChIJiYxlLayhBTkR7aBSW0gkKYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYxlLayhBTkR7aBSW0gkKYE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:31"
+  }
+]

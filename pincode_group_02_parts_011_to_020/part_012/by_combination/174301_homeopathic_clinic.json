@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Mahesh's homoeopathy clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "174301",
+    "phone_number": "+91 98789 34432",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shivalik Avenue, Phase -2, Shiwalik Avenue Phase 1, Naya Nangal, Rampur Sahni, Punjab 140126",
+    "area": "Phase -2, Shiwalik Avenue Phase 1",
+    "latitude": 31.385203299999997,
+    "longitude": 76.3422889,
+    "place_id": "ChIJeWn9G43OGjkRP1tUCv8QbQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWn9G43OGjkRP1tUCv8QbQM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:33:26"
+  },
+  {
+    "business_name": "Brahmachaitanya Homoeopathic Clinic in Kole - Dr. Mansing Raje",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "174301",
+    "phone_number": "N/A",
+    "website": "https://omsom.in/drmansingraje",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "At post, main road, Kole, Maharashtra 415103",
+    "area": "174301",
+    "latitude": 17.246094499999998,
+    "longitude": 74.07173259999999,
+    "place_id": "ChIJCwM2eACFwTsRYnFNryDLb7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwM2eACFwTsRYnFNryDLb7Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:33:28"
+  }
+]

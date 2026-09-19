@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blitzblank Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "175019",
+    "phone_number": "+91 99109 91705",
+    "website": "https://www.blitzblank.biz/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gate No. 1, BR-05, near Sector 116 Main Road, Sector 116, Noida, Uttar Pradesh 201301",
+    "area": "Sector 116",
+    "latitude": 28.567368899999998,
+    "longitude": 77.39658539999999,
+    "place_id": "ChIJzyGXWb3vDDkR5TQtaghXMMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyGXWb3vDDkR5TQtaghXMMc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:51:20"
+  },
+  {
+    "business_name": "Maid Liz Cleaning Services LLC",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "175019",
+    "phone_number": "N/A",
+    "website": "https://maidliz.com/?utm_source=gbp",
+    "rating": 4.9,
+    "reviews_count": 142,
+    "address": "Maid Liz Cleaning Services LLC, 175019, India",
+    "area": "175019",
+    "latitude": 40.0398529,
+    "longitude": -76.3000395,
+    "place_id": "ChIJ3atCwpRuFa0ROvXQgtSrmx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3atCwpRuFa0ROvXQgtSrmx0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:51:22"
+  }
+]

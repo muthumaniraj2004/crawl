@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaswal Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "174201",
+    "phone_number": "+91 94182 97399",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Jambal, bassi road, Badhal, Himachal Pradesh 177105",
+    "area": "174201",
+    "latitude": 31.8773719,
+    "longitude": 76.1423181,
+    "place_id": "ChIJqxFsv30_GzkRQ4S3cOCsKjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxFsv30_GzkRQ4S3cOCsKjE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:28"
+  },
+  {
+    "business_name": "DURGA JEWELERS",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "174201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bali Chowki, Himachal Pradesh 175106",
+    "area": "174201",
+    "latitude": 31.6909213,
+    "longitude": 77.278919,
+    "place_id": "ChIJkTaMg3erBTkRj-D_bBa6gjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTaMg3erBTkRj-D_bBa6gjE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:31"
+  }
+]

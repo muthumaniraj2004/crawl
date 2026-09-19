@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spark Automotive",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto bodywork mechanic, Auto painting, Auto restoration service, Car repair and maintenance service",
+    "pincode": "174011",
+    "phone_number": "+91 91450 77003",
+    "website": "https://sparkautomotivecar.com/",
+    "rating": 4.6,
+    "reviews_count": 149,
+    "address": "Nr.Govind garden, 27, Seven Star Ln, Shri Ram Colony, Pimple Saudagar, Pune, Pimpri-Chinchwad, Maharashtra 411027",
+    "area": "Shri Ram Colony, Pimple Saudagar",
+    "latitude": 18.5985579,
+    "longitude": 73.8014199,
+    "place_id": "ChIJF53X9565wjsRTbTG6d09Z-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF53X9565wjsRTbTG6d09Z-w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:51:10"
+  },
+  {
+    "business_name": "FASTFIX AUTOMOTIVE I Car Service Centre I Car Garage I Car Repair",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto air conditioning service, Auto Dent Removal Service Station, Auto electrical service, Auto glass repair service, Auto painting, Auto parts store, Auto restoration service, Car battery store, Car wash",
+    "pincode": "174011",
+    "phone_number": "+91 82495 91441",
+    "website": "http://www.fastfixautomotive.in/",
+    "rating": 4.1,
+    "reviews_count": 168,
+    "address": "Plot No- 350/464, near DN Regalia Mall, in front of Utkal Cement Products, Tamando, Bhubaneswar, Odisha 751028",
+    "area": "Tamando",
+    "latitude": 20.2394852,
+    "longitude": 85.7503473,
+    "place_id": "ChIJazD8HU-pGToRutYivsX2Pno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazD8HU-pGToRutYivsX2Pno",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:51:10"
+  }
+]

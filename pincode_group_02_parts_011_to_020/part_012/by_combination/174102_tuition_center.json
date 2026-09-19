@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jashan tuition centre",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "174102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3MW6+864, Bhanglan, Himachal Pradesh 174101",
+    "area": "174102",
+    "latitude": 31.095769599999997,
+    "longitude": 76.6605766,
+    "place_id": "ChIJMbOgTABbBTkRYwCawslpw8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbOgTABbBTkRYwCawslpw8M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:28:38"
+  },
+  {
+    "business_name": "Career Coaching Center",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "174102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Phase Number 1, Nalagarh, New Nalagarh, Himachal Pradesh 174101",
+    "area": "Phase Number 1",
+    "latitude": 31.037418,
+    "longitude": 76.7039492,
+    "place_id": "ChIJvZQmaNtbBTkRQtWGLTyU-es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZQmaNtbBTkRQtWGLTyU-es",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:28:38"
+  }
+]

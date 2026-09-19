@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skill Hub",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "174017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Building no.93, Area, Lag, Bharoli Kalan, Himachal Pradesh 174035",
+    "area": "Area",
+    "latitude": 31.357758999999998,
+    "longitude": 76.59649999999999,
+    "place_id": "ChIJze1hTDA3BTkRgkPAG1qcKuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJze1hTDA3BTkRgkPAG1qcKuM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:59:04"
+  },
+  {
+    "business_name": "Employability Skills",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "174017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9JHJ+25G, Thapper Balghar, Jhanduta, Himachal Pradesh 174031",
+    "area": "174017",
+    "latitude": 31.3775725,
+    "longitude": 76.63045439999999,
+    "place_id": "ChIJ9XBybv83BTkR-8aN_E-q9YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XBybv83BTkR-8aN_E-q9YU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:59:04"
+  }
+]

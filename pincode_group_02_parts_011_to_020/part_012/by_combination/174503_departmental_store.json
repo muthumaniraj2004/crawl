@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Trading co.",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "174503",
+    "phone_number": "+91 70182 05453",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, post office Dulehar, Village, Dulehar, Himachal Pradesh 176601",
+    "area": "Village",
+    "latitude": 31.3370599,
+    "longitude": 76.2128949,
+    "place_id": "ChIJZeeLGPrFGjkR_-wQI3GiKbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeeLGPrFGjkR_-wQI3GiKbk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:20"
+  },
+  {
+    "business_name": "WAIYA TRADER",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "174503",
+    "phone_number": "+91 98762 07337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Main Road, Jaijon Doaba, Punjab 144530",
+    "area": "174503",
+    "latitude": 31.3450061,
+    "longitude": 76.1463864,
+    "place_id": "ChIJ29nNUoXDGjkRjW9HXXsc9F8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29nNUoXDGjkRjW9HXXsc9F8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:20"
+  }
+]

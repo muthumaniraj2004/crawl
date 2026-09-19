@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRM Hotel & Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "174027",
+    "phone_number": "+91 98055 91420",
+    "website": "http://www.krmindia.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bhareri, Hamirpur, Himachal Pradesh 177024",
+    "area": "174027",
+    "latitude": 31.643755799999997,
+    "longitude": 76.6876029,
+    "place_id": "ChIJP33oAHgnBTkR0r9hDtWY4zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP33oAHgnBTkR0r9hDtWY4zo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:08:13"
+  },
+  {
+    "business_name": "Silent Valley Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Home Stay, Restaurant",
+    "pincode": "174027",
+    "phone_number": "+91 98823 51106",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Vpo tikkeri, minhasan, Tehsil, Bhoranj, Himachal Pradesh 176045",
+    "area": "Tehsil",
+    "latitude": 31.6333095,
+    "longitude": 76.6487878,
+    "place_id": "ChIJK9KEIbwnBTkRvyAfbgsPYWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9KEIbwnBTkRvyAfbgsPYWA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:08:13"
+  }
+]

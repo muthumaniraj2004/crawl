@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surinder Kariyana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Shopping mall",
+    "pincode": "174306",
+    "phone_number": "+91 88946 24510",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Peer nigah road, near, railway underpass, Una, Himachal Pradesh 174303",
+    "area": "174306",
+    "latitude": 31.4694635,
+    "longitude": 76.2832073,
+    "place_id": "ChIJ32ToyGTQGjkRKSJx6dudRuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32ToyGTQGjkRKSJx6dudRuI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:21"
+  },
+  {
+    "business_name": "Menon General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "174306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Una, Himachal Pradesh 174306",
+    "area": "174306",
+    "latitude": 31.421757,
+    "longitude": 76.32757,
+    "place_id": "ChIJJ1nJlDDOGjkRYf-24o7ZY3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1nJlDDOGjkRYf-24o7ZY3w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:23"
+  }
+]

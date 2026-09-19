@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "174021",
+    "phone_number": "+91 98167 02424",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rana Fish Shop, Sunhani-Berthin Rd, Sunhani, Himachal Pradesh 174029",
+    "area": "174021",
+    "latitude": 31.4054385,
+    "longitude": 76.6655517,
+    "place_id": "ChIJ6TrWx3Y7BTkRE_1s8vRTiEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TrWx3Y7BTkRE_1s8vRTiEg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:59:43"
+  },
+  {
+    "business_name": "Devbhoomi Fresh & Frozens",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, General store",
+    "pincode": "174021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "OLD, BUS STAND ROAD, near SBI ATM, Ghumarwin, Himachal Pradesh 174021",
+    "area": "174021",
+    "latitude": 31.4491451,
+    "longitude": 76.7047904,
+    "place_id": "ChIJryiDfAA7BTkRf-j4VuJjaVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryiDfAA7BTkRf-j4VuJjaVU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:59:43"
+  }
+]

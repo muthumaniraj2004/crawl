@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "174503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C6FC+JJ7, Haroli, Himachal Pradesh 177220",
+    "area": "174503",
+    "latitude": 31.4240364,
+    "longitude": 76.22153689999999,
+    "place_id": "ChIJdYkoRQDFGjkRlwe--8FPI6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYkoRQDFGjkRlwe--8FPI6I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:58"
+  },
+  {
+    "business_name": "Sonu Tyre Work",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "174503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sri Sai Villa, Lalluwal to Dulehar Village Road, Himachal Pradesh 176601",
+    "area": "174503",
+    "latitude": 31.344692,
+    "longitude": 76.2133333,
+    "place_id": "ChIJ99n1KwDFGjkRmt5y7bjVCBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99n1KwDFGjkRmt5y7bjVCBk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Super Bazar",
+    "search_category": "Shops",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "174405",
+    "phone_number": "+91 98163 85188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kangoo Rd, Ropa, Galore, Himachal Pradesh 177026",
+    "area": "174405",
+    "latitude": 31.631232899999997,
+    "longitude": 76.4559921,
+    "place_id": "ChIJIdAn8sorGzkRw1bgcCoQhAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdAn8sorGzkRw1bgcCoQhAI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:20"
+  },
+  {
+    "business_name": "Ganga Traders",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "174405",
+    "phone_number": "+91 78766 54611",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Ganga Traders, Main Market Jiana, near Galore, Up Mahal Panyali, Himachal Pradesh 177040",
+    "area": "174405",
+    "latitude": 31.6479014,
+    "longitude": 76.43784699999999,
+    "place_id": "ChIJz_ljYXgrGzkRh0Vu0MYnsKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_ljYXgrGzkRh0Vu0MYnsKw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:21"
+  }
+]

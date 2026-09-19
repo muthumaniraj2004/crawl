@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahindra Showroom commercial",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "175020",
+    "phone_number": "+91 75674 56456",
+    "website": "http://www.vvcmahindra.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "P, 43/PART, Gandhi Nagar Rd, Nanda Nagar, RR Nagar, Hyderabad, Telangana 500037",
+    "area": "Nanda Nagar, RR Nagar",
+    "latitude": 17.4890224,
+    "longitude": 78.44554,
+    "place_id": "ChIJVXvriImSyzsRGa1Z5iLaMm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXvriImSyzsRGa1Z5iLaMm8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:52:17"
+  },
+  {
+    "business_name": "Powertrac Tractor - Shiva Balaji Enterprises",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "175020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ghanpur(Station, Telangana 506144",
+    "area": "175020",
+    "latitude": 17.866636,
+    "longitude": 79.3819613,
+    "place_id": "ChIJlQGsALRTMzoR2a3MdjKNiCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQGsALRTMzoR2a3MdjKNiCQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:52:17"
+  }
+]

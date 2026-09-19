@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NHPC Ltd.",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hydroelectric power plant",
+    "all_categories": "Hydroelectric power plant",
+    "pincode": "175005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "National Highway 21, Nagwain, Mandi, Himachal Pradesh 175121",
+    "area": "175005",
+    "latitude": 31.821589699999997,
+    "longitude": 77.1733715,
+    "place_id": "ChIJBd_X-5T4BDkR-YKpOxkQUnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBd_X-5T4BDkR-YKpOxkQUnE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:25:23"
+  },
+  {
+    "business_name": "Koria LED TV Service Centre H.P.",
+    "search_category": "Commercial Complex",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "175005",
+    "phone_number": "+91 92187 04800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "KK Complex, Mahajan Bazar, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Mahajan Bazar, Samkhetar",
+    "latitude": 31.7094433,
+    "longitude": 76.93132489999999,
+    "place_id": "ChIJ_ctGEgDjBDkRQ8SQnu6876M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ctGEgDjBDkRQ8SQnu6876M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:25:25"
+  }
+]

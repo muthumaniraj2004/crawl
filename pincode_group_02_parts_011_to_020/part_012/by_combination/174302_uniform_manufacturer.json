@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Colleague & Company",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer",
+    "pincode": "174302",
+    "phone_number": "+91 98058 24375",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no. 1, Panoh-I, Himachal Pradesh 174303",
+    "area": "174302",
+    "latitude": 31.535148999999997,
+    "longitude": 76.2015515,
+    "place_id": "ChIJ1T7HmGfZGjkRt62OMuy1jz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1T7HmGfZGjkRt62OMuy1jz4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:35:13"
+  },
+  {
+    "business_name": "Avni boutique & ladies tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "174302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H59X+3RM, dhusara, Himachal Pradesh 174302",
+    "area": "dhusara",
+    "latitude": 31.5676971,
+    "longitude": 76.19951069999999,
+    "place_id": "ChIJl21pFwDZGjkRunmrK-fq23o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl21pFwDZGjkRunmrK-fq23o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:35:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uchit Mulya Shop",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "174017",
+    "phone_number": "+91 94593 19268",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uchit Mulya Shop, Bohar, Himachal Pradesh 174017",
+    "area": "174017",
+    "latitude": 31.3105864,
+    "longitude": 76.63172709999999,
+    "place_id": "ChIJ2_UNDA43BTkRRlr-iCkCIPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_UNDA43BTkRRlr-iCkCIPk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:47"
+  },
+  {
+    "business_name": "ANAND TRADERS",
+    "search_category": "Supermarket",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "174017",
+    "phone_number": "+91 94181 77448",
+    "website": "http://www.anandtraders.com/kumar",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "Tehsil Rd, opposite army canteen, Jhanduta Awal, Himachal Pradesh 174031",
+    "area": "174017",
+    "latitude": 31.374496299999997,
+    "longitude": 76.63986,
+    "place_id": "ChIJl2F81VU3BTkR9vSctdb2ESI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2F81VU3BTkR9vSctdb2ESI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:48"
+  }
+]

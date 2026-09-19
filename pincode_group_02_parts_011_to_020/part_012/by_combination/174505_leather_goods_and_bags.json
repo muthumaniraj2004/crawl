@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palem Leathers",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Leather coats store",
+    "pincode": "174505",
+    "phone_number": "+91 91215 21111",
+    "website": "https://www.amazon.in/stores/page/D4EAED1D-60A4-45A8-9054-7EBA83E89B14?ingress=0&visitId=ca5a2992-6a2d-42c0-8d2e-e1435275e24a",
+    "rating": 4.2,
+    "reviews_count": 752,
+    "address": "Plot 391 6-3-354/2, beside Kasat showroom, Mothi Nagar, Hindi Nagar, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Mothi Nagar, Hindi Nagar, Dwarakapuri, Punjagutta",
+    "latitude": 17.425850699999998,
+    "longitude": 78.451348,
+    "place_id": "ChIJMe64TiKayzsRbs6anvrMvps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMe64TiKayzsRbs6anvrMvps",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:34"
+  },
+  {
+    "business_name": "The Leather Gallery",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "174505",
+    "phone_number": "+91 99491 95503",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 270,
+    "address": "Shop No.25, Nizamia Commercial Complex, Gun Foundry, Abids, Hyderabad, Telangana 500001",
+    "area": "Gun Foundry, Basheer Bagh",
+    "latitude": 17.3950505,
+    "longitude": 78.4758398,
+    "place_id": "ChIJtWnd9diZyzsRU_8tUI7MmJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWnd9diZyzsRU_8tUI7MmJg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:34"
+  }
+]

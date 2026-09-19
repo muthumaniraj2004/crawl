@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cake & Bake cafe",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175003",
+    "phone_number": "+91 94189 35185",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "Major District Road, 24 Luhakhar, Thona - Durgapur Road, Himachal Pradesh 175049",
+    "area": "175003",
+    "latitude": 31.7121709,
+    "longitude": 76.81285299999999,
+    "place_id": "ChIJuabCId8HBTkRPMsaF9zd1j8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuabCId8HBTkRPMsaF9zd1j8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:19:54"
+  },
+  {
+    "business_name": "Monu Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "175003",
+    "phone_number": "+91 70184 20659",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "QV2V+58Q, Vill. Saigaloo, PO Saigaloo, Teh, Himachal Pradesh 175052",
+    "area": "175003",
+    "latitude": 31.750474599999997,
+    "longitude": 76.8933693,
+    "place_id": "ChIJtWHVEgDhBDkR7eXndZqEncU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWHVEgDhBDkR7eXndZqEncU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:19:54"
+  }
+]

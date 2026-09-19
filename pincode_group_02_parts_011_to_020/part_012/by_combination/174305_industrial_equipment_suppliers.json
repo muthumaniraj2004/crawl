@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delight India",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Appliance parts supplier",
+    "all_categories": "Appliance parts supplier",
+    "pincode": "174305",
+    "phone_number": "+91 98175 40444",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PO, Teh, Nara, Barsar, Himachal Pradesh 174305",
+    "area": "174305",
+    "latitude": 31.5255129,
+    "longitude": 76.46064679999999,
+    "place_id": "ChIJLxVZ2MEtBTkRzcH3A2PWoYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxVZ2MEtBTkRzcH3A2PWoYY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:09"
+  },
+  {
+    "business_name": "Maa Jwala Tarders",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Aluminium Supplier",
+    "all_categories": "Aluminium Supplier",
+    "pincode": "174305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GFJG+R5R, Seri, Himachal Pradesh 174304",
+    "area": "174305",
+    "latitude": 31.532102499999997,
+    "longitude": 76.475403,
+    "place_id": "ChIJKwIlaFEtBTkRyRvxHTXQRh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwIlaFEtBTkRyRvxHTXQRh4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:11"
+  }
+]

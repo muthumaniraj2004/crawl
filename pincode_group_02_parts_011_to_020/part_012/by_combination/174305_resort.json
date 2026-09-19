@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basant resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "174305",
+    "phone_number": "+91 98166 11700",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MGM6+QPC, By Pass, Housing Board Colony, Galore, Hamirpur, Himachal Pradesh 177001",
+    "area": "Housing Board Colony, Galore",
+    "latitude": 31.6844321,
+    "longitude": 76.5117776,
+    "place_id": "ChIJL5VEb1HUBDkRpCpM5TeBpuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5VEb1HUBDkRpCpM5TeBpuU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:41:38"
+  },
+  {
+    "business_name": "Satluj View Home Stay",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "174305",
+    "phone_number": "+91 78767 51775",
+    "website": "https://call.whatsapp.com/voice/FnRjDc4onQZAGrPyQubej3",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Satluj View Home Stay, near Tapri-Urni Road, Tapri, chagaon, Himachal Pradesh 172104",
+    "area": "174305",
+    "latitude": 31.520215699999998,
+    "longitude": 78.1012923,
+    "place_id": "ChIJbaL5XQBzBjkRCrFkCZBiOnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbaL5XQBzBjkRCrFkCZBiOnc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:41:38"
+  }
+]

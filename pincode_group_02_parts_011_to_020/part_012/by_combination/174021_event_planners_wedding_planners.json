@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Love To Meet",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "174021",
+    "phone_number": "+91 88722 61941",
+    "website": "http://www.lovetomeet.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malagan Tehsil, 12, Distt, Malari, Himachal Pradesh 174031",
+    "area": "174021",
+    "latitude": 31.37625,
+    "longitude": 76.6559594,
+    "place_id": "ChIJx2ShgrA5BTkR8tyZMAPiIOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2ShgrA5BTkR8tyZMAPiIOI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:44"
+  },
+  {
+    "business_name": "Gautam Tent House",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Tent House Supplier",
+    "pincode": "174021",
+    "phone_number": "+91 98166 66461",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Teh Jhandutta, Main, market, Berthin, Himachal Pradesh 174029",
+    "area": "174021",
+    "latitude": 31.418825,
+    "longitude": 76.64225449999999,
+    "place_id": "ChIJs0gzbl07BTkRbzNlA_xvWpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0gzbl07BTkRbzNlA_xvWpA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:46"
+  }
+]

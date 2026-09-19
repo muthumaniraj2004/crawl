@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prudential Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Coworking space, Leasing service, Office space rental agency, Property investment company, Real estate rental agency, Retail space rental agency",
+    "pincode": "175020",
+    "phone_number": "+91 99086 22295",
+    "website": "https://www.prudentialrealty.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Raheja IT Park, SBR Pearl, 301 & 302 Huda Techno Enclave Ph -II Hitec City, opp. Mindspace, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Phase 2, Madhapur",
+    "latitude": 17.441681199999998,
+    "longitude": 78.37686479999999,
+    "place_id": "ChIJq6qq2h-UyzsRJKSO5uo39I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2h-UyzsRJKSO5uo39I4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:14"
+  },
+  {
+    "business_name": "RE/MAX Jubilee Property services",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real Estate Builders & Construction Company",
+    "pincode": "175020",
+    "phone_number": "+91 90000 93739",
+    "website": "http://www.remaxjubilee.com/",
+    "rating": 4.8,
+    "reviews_count": 99,
+    "address": "Hi Tech city, 3-225, Kavuri Hills Rd, CBI Colony, Madhapur, Hyderabad, Telangana 500033",
+    "area": "CBI Colony, Madhapur",
+    "latitude": 17.4359031,
+    "longitude": 78.3943664,
+    "place_id": "ChIJ93w2XOWRyzsRfvaUAxWWTkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93w2XOWRyzsRfvaUAxWWTkw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:14"
+  }
+]

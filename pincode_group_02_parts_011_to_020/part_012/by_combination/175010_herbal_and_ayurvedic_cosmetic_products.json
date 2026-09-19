@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Herb Shoppe - Ayurvedic Medicine Store",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store, Cosmetics store",
+    "pincode": "175010",
+    "phone_number": "+91 70149 95732",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 295,
+    "address": "Shop no 1, 43 /62 / 1, Varun Path, Mansarovar Sector 31, Swarn Path, Mansarovar Sector 4, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 31, Swarn Path, Mansarovar Sector 4, Mansarovar",
+    "latitude": 26.868700399999998,
+    "longitude": 75.7555101,
+    "place_id": "ChIJK-KwOde1bTkRuJEdAlo_2UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-KwOde1bTkRuJEdAlo_2UY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:33:50"
+  },
+  {
+    "business_name": "Ayurveda Indian",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Vitamin & supplements store",
+    "all_categories": "Vitamin & supplements store",
+    "pincode": "175010",
+    "phone_number": "+91 76268 82488",
+    "website": "https://ayurvedaindian.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Booth No. 1, Landran Rd, opposite Ambika Devi Mandir, Sector 127, Main Bazar, Kharar, Sahibzada Ajit Singh Nagar, Punjab 140301",
+    "area": "Sector 127, Main Bazar",
+    "latitude": 30.7413374,
+    "longitude": 76.6457898,
+    "place_id": "ChIJGYAXcMsXYi0RiPf30sE5XxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYAXcMsXYi0RiPf30sE5XxE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:33:50"
+  }
+]

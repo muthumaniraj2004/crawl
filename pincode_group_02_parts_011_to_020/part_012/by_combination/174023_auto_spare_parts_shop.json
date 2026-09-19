@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badwal Anu Auto Care Centre",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "174023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Village.Bharari ,Tehshil, Ladraur - Ghumarwin Link Rd, Ghumarwin, Himachal Pradesh 174027",
+    "area": "174023",
+    "latitude": 31.5372442,
+    "longitude": 76.66481449999999,
+    "place_id": "ChIJgadEuwElBTkRvMA51OT7HSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgadEuwElBTkRvMA51OT7HSw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:02:10"
+  },
+  {
+    "business_name": "Arman Auto Care Center",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "174023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lower Bharari, near Police Station, Ghumarwin, Himachal Pradesh 174029",
+    "area": "174023",
+    "latitude": 31.460136799999997,
+    "longitude": 76.6763345,
+    "place_id": "ChIJkdtGokE7BTkR8GFlY6Js2ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdtGokE7BTkR8GFlY6Js2ok",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:02:10"
+  }
+]

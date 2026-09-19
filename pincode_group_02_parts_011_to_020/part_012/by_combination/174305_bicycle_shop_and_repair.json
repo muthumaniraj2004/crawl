@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Bike Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Auto repair shop",
+    "pincode": "174305",
+    "phone_number": "+91 75596 70042",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Industrial Area, Ratti, Galma, Himachal Pradesh 175008",
+    "area": "Industrial Area",
+    "latitude": 31.601111999999997,
+    "longitude": 76.8989972,
+    "place_id": "ChIJWTlRv9wfBTkRpS2SL1aipUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTlRv9wfBTkRpS2SL1aipUI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:41:13"
+  },
+  {
+    "business_name": "Sachin bike care centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "174305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "GFF2+GWX, Deotsidh Rd, Barsar, Himachal Pradesh 174305",
+    "area": "174305",
+    "latitude": 31.523851099999998,
+    "longitude": 76.4523463,
+    "place_id": "ChIJ8_XV5IzTGjkR1LBUOB1Jv6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_XV5IzTGjkR1LBUOB1Jv6s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:41:13"
+  }
+]

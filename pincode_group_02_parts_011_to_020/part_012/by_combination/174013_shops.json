@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza Story Alsu",
+    "search_category": "Shops",
+    "primary_category": "Italian grocery store",
+    "all_categories": "Italian grocery store, Italian restaurant",
+    "pincode": "174013",
+    "phone_number": "+91 62300 48393",
+    "website": "https://www.pizza-story.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kiratpur - Nerchowk Hwy, near Barista, HW, Manali, Dehar, Himachal Pradesh 175030",
+    "area": "HW, Manali",
+    "latitude": 31.4266233,
+    "longitude": 76.8233109,
+    "place_id": "ChIJl2po5ok9BTkRxImCeuSa_FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2po5ok9BTkRxImCeuSa_FU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:53"
+  },
+  {
+    "business_name": "Jalpa photo house",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "174013",
+    "phone_number": "+91 98165 68150",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "ACC Colony, Khatehr, Barmana, Himachal Pradesh 174013",
+    "area": "ACC Colony",
+    "latitude": 31.415609999999997,
+    "longitude": 76.8306139,
+    "place_id": "ChIJzblRCgAXBTkR9ZIpT5O_d10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzblRCgAXBTkR9ZIpT5O_d10",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:55"
+  }
+]

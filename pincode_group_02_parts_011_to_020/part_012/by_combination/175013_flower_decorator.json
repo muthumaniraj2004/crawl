@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehta Flower Nursery",
+    "search_category": "Flower Decorator",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery, Balloon store",
+    "pincode": "175013",
+    "phone_number": "+91 98054 80328",
+    "website": "https://www.facebook.com/share/1AECCojz56/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Mehta flower nursery, Pandol Rd, near Canara bank, Baijnath, Himachal Pradesh 176125",
+    "area": "175013",
+    "latitude": 32.0488053,
+    "longitude": 76.6481713,
+    "place_id": "ChIJ32saTm-5BDkRhXiEQ6aPQ4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32saTm-5BDkRhXiEQ6aPQ4Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:39:30"
+  },
+  {
+    "business_name": "EVERGREEN FLORISTS & GIFT CENTRE",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "175013",
+    "phone_number": "+91 94180 86893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.2168409,
+    "longitude": 76.3183054,
+    "place_id": "ChIJI1Em7x9RGzkRhG2JGTU03Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1Em7x9RGzkRhG2JGTU03Qg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:39:32"
+  }
+]

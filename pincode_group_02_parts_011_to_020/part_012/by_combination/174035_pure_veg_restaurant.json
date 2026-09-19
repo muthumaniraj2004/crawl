@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The happy uncle",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "174035",
+    "phone_number": "+91 98173 29767",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 382,
+    "address": "Shop no 2, challal road, next to main bus stand, Kasol, Sosan, Himachal Pradesh 175105",
+    "area": "174035",
+    "latitude": 32.0109133,
+    "longitude": 77.31602529999999,
+    "place_id": "ChIJJ7HGAJ1dBDkRnW6-YhfYibk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7HGAJ1dBDkRnW6-YhfYibk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:22:00"
+  },
+  {
+    "business_name": "HARI OM PURE VEG CAFE",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "174035",
+    "phone_number": "+91 70235 11833",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 381,
+    "address": "Bus stend, near the atm, Kasol, Himachal Pradesh 175105",
+    "area": "174035",
+    "latitude": 32.010522099999996,
+    "longitude": 77.3161782,
+    "place_id": "ChIJZ8ba1vZdBDkRj6-JLmgJwcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8ba1vZdBDkRj6-JLmgJwcI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:22:00"
+  }
+]

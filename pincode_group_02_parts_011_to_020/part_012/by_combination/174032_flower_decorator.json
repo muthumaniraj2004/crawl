@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankita Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "174032",
+    "phone_number": "+91 81090 41419",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ankita Florist, Gaurav Path, Bilaspur, Chhattisgarh 495001",
+    "area": "174032",
+    "latitude": 22.087784799999998,
+    "longitude": 82.12567829999999,
+    "place_id": "ChIJ7QjOZncNKDoRgw4oaepafnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QjOZncNKDoRgw4oaepafnM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:17:22"
+  },
+  {
+    "business_name": "FNP- Flowers, Cakes And Gift Hampers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Cake shop, Flower delivery, Gift basket store, Gift shop",
+    "pincode": "174032",
+    "phone_number": "+91 8071 325 670",
+    "website": "https://www.fnpstores.com/fnp-ferns-n-petals/bilaspur/agrasen-chowk/fnp-flowers-cakes-and-gift-hampers-in-agrasen-chowk-bilaspur--6QwXar/home",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No B3, Ground Floor, Super Market, Agrasen Chowk, opposite IDBI Bank, Ambedkar Nagar, Bilaspur, Telipara, Chhattisgarh 495001",
+    "area": "Ambedkar Nagar",
+    "latitude": 22.0775059,
+    "longitude": 82.1516006,
+    "place_id": "ChIJdaeVzmkLKDoRic9iACK3U7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaeVzmkLKDoRic9iACK3U7E",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:17:23"
+  }
+]

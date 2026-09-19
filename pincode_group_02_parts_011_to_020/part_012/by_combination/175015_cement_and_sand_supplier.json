@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Trading Company",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "175015",
+    "phone_number": "+91 98053 91401",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sandhol, Lasrana, Himachal Pradesh 176090",
+    "area": "175015",
+    "latitude": 31.8545408,
+    "longitude": 76.652852,
+    "place_id": "ChIJ37EFeGjFBDkRBDoV25syMec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37EFeGjFBDkRBDoV25syMec",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:43:04"
+  },
+  {
+    "business_name": "Tata Tiscon Dealer",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Steel distributor",
+    "all_categories": "Steel distributor",
+    "pincode": "175015",
+    "phone_number": "+91 98172 80390",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Petrol pump, Sandhol, Takrer, Himachal Pradesh 176090",
+    "area": "175015",
+    "latitude": 31.866115599999997,
+    "longitude": 76.6568175,
+    "place_id": "ChIJHVa1L6fFBDkRcgPZKiO2LlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVa1L6fFBDkRcgPZKiO2LlM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:43:06"
+  }
+]

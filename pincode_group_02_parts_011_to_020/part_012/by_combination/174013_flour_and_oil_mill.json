@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vitthal Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "174013",
+    "phone_number": "N/A",
+    "website": "http://vitthalindustries.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Vitthal Oil Mill, Shevgaon, Maharashtra 414502",
+    "area": "174013",
+    "latitude": 19.372909999999997,
+    "longitude": 75.201591,
+    "place_id": "ChIJgfHYiPtp2zsRAL1aHpEwGd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfHYiPtp2zsRAL1aHpEwGd0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:42"
+  },
+  {
+    "business_name": "GOPAL OIL MILLS",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "174013",
+    "phone_number": "+91 98720 33503",
+    "website": "https://gopaloilmills.wordpress.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "813, Industrial Area Phase II, Chandigarh, 160002",
+    "area": "Industrial Area Phase II",
+    "latitude": 30.6948276,
+    "longitude": 76.78007,
+    "place_id": "ChIJ83GYh4rsDzkRrjcko20kibk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83GYh4rsDzkRrjcko20kibk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:42"
+  }
+]

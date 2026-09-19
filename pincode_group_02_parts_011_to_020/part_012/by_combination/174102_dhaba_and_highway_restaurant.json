@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "174102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "6QXF+GQH, near uco bank chharol, Bahl Karainta, Himachal Pradesh 174001",
+    "area": "174102",
+    "latitude": 31.2488228,
+    "longitude": 76.7744936,
+    "place_id": "ChIJZ1ixxrpBBTkR3nIDtZ75ups",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1ixxrpBBTkR3nIDtZ75ups",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:35"
+  },
+  {
+    "business_name": "Thakur onkar dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "174102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "nadaun road, Patehar, Amb, Himachal Pradesh 177210",
+    "area": "174102",
+    "latitude": 31.7178692,
+    "longitude": 76.17195819999999,
+    "place_id": "ChIJ17KHLLAjGzkR2qM2G8CrjC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17KHLLAjGzkR2qM2G8CrjC8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:36"
+  }
+]

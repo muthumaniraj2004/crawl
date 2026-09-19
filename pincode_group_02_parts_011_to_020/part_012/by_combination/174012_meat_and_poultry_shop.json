@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meat Fresh",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Meat products store",
+    "pincode": "174012",
+    "phone_number": "+91 79747 34743",
+    "website": "https://meatfresh.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gubbara Phatak Jinsi Nala no 2 Lohiya Bazar, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "area": "Lashkar",
+    "latitude": 26.200201999999997,
+    "longitude": 78.1567683,
+    "place_id": "ChIJJ9G0-yvFdjkRUyiEI0hdws8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9G0-yvFdjkRUyiEI0hdws8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:52:20"
+  },
+  {
+    "business_name": "Bali Meat Junction",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "174012",
+    "phone_number": "+91 79721 62101",
+    "website": "https://balimeatjunction.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Anna Bhau Sathe Business Complex, Lenin Chowk, Fashi Pool, Navnath Nager, Dhule, Maharashtra 424001",
+    "area": "Fashi Pool, Navnath Nager",
+    "latitude": 20.8945836,
+    "longitude": 74.766824,
+    "place_id": "ChIJ_U9mMyfF3jsRLxnW4rLejYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_U9mMyfF3jsRLxnW4rLejYc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:52:20"
+  }
+]

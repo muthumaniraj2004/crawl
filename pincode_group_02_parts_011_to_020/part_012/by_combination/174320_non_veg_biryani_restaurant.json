@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "the autumn bistro",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "174320",
+    "phone_number": "+91 97361 06699",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Tanda Hospital Rd, Pushp Vihar Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Pushp Vihar Colony",
+    "latitude": 32.0996459,
+    "longitude": 76.28841,
+    "place_id": "ChIJXwGWP6JPGzkRLBYz3pbsF4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwGWP6JPGzkRLBYz3pbsF4Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:04:47"
+  },
+  {
+    "business_name": "Mayur Mount Heaven Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "174320",
+    "phone_number": "+91 98163 16365",
+    "website": "https://mayurmountheavenrestaurant.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "The Mall, Old mission Rd, Model Town, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Model Town, Siyal",
+    "latitude": 32.2446099,
+    "longitude": 77.18926019999999,
+    "place_id": "ChIJMy87bf6HBDkRjg2wAzDeIEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMy87bf6HBDkRjg2wAzDeIEY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:04:48"
+  }
+]

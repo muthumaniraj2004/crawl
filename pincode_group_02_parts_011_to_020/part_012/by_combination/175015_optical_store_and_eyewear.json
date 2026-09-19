@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "175015",
+    "phone_number": "+91 94184 29066",
+    "website": "https://garg-optical.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand Gali, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.9906762,
+    "longitude": 76.7899329,
+    "place_id": "ChIJY50deYnBBDkRUr6eSNBbtnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY50deYnBBDkRUr6eSNBbtnM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:38"
+  },
+  {
+    "business_name": "Bestvision Eye Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "175015",
+    "phone_number": "+91 94941 75143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palakollu, Andhra Pradesh 534260",
+    "area": "175015",
+    "latitude": 16.514244599999998,
+    "longitude": 81.72411319999999,
+    "place_id": "ChIJGQXHJ_jaNzoRTjocXLjkrrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQXHJ_jaNzoRTjocXLjkrrU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:39"
+  }
+]

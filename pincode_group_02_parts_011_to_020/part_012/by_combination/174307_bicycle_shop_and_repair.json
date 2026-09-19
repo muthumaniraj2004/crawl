@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bunty cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "174307",
+    "phone_number": "+91 94187 33819",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MGJF+XJ9, Shimla - Kangra Rd, Kohta, Hamirpur, Himachal Pradesh 177001",
+    "area": "Kohta",
+    "latitude": 31.682421899999998,
+    "longitude": 76.5241204,
+    "place_id": "ChIJfSRF933VBDkRyEsW_y2ejUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSRF933VBDkRyEsW_y2ejUI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:44:56"
+  },
+  {
+    "business_name": "Dev bike and All Cycle Repair and Spare parts",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "174307",
+    "phone_number": "+91 85807 88902",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chogwan no 3, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5573057,
+    "longitude": 76.1232793,
+    "place_id": "ChIJH90fyI-9HDkREkaV7tkmaew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH90fyI-9HDkREkaV7tkmaew",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:44:56"
+  }
+]

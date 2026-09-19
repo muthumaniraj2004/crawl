@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ORIENT EXPRESS",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "174036",
+    "phone_number": "+91 98242 13861",
+    "website": "http://www.orientexpindia.com/",
+    "rating": 4.7,
+    "reviews_count": 123,
+    "address": "ORIENT HOUSE, 15, Street Number 10, opp. JAIN DERASAR, Panchnath Plot, Sadar, Rajkot, Gujarat 360001",
+    "area": "Panchnath Plot, Sadar",
+    "latitude": 22.2976809,
+    "longitude": 70.798203,
+    "place_id": "ChIJhdrSL_hG_xMRpFn_Q8b0b4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdrSL_hG_xMRpFn_Q8b0b4s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:25:10"
+  },
+  {
+    "business_name": "One Point Logistics Solution",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Currency exchange service",
+    "pincode": "174036",
+    "phone_number": "+91 97813 37070",
+    "website": "https://onepointsolution.com/",
+    "rating": 4.5,
+    "reviews_count": 32,
+    "address": "Prestige Chamber, 105, Garha Rd, next to Wimpy, Near Narinder Cinema, Jawahar Nagar, Jalandhar, Punjab 144001",
+    "area": "Near Narinder Cinema, Jawahar Nagar",
+    "latitude": 31.3147225,
+    "longitude": 75.5905483,
+    "place_id": "ChIJVVVVlYBaGjkRRTd4ZcUzy2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlYBaGjkRRTd4ZcUzy2k",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:25:10"
+  }
+]

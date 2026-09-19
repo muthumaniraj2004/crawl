@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Sanjeev:ASRA Health Care(Multi Health Care Centre)",
+    "search_category": "Doctors",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "174017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "8J7V+6PG, Jejwin-Himachal-, Dohg, Himachal Pradesh 174017",
+    "area": "174017",
+    "latitude": 31.3130743,
+    "longitude": 76.6443254,
+    "place_id": "ChIJsy9eG1Q5BTkRGQQly7VuTcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsy9eG1Q5BTkRGQQly7VuTcg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:58:14"
+  },
+  {
+    "business_name": "Adarsh Pharmaceuticals",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Hospital",
+    "pincode": "174017",
+    "phone_number": "+91 70186 21079",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "10, Jejwin, Himachal Pradesh 174017",
+    "area": "Jejwin",
+    "latitude": 31.312388799999997,
+    "longitude": 76.64497089999999,
+    "place_id": "ChIJRSyWbB84BTkRrCJBId7I5LM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSyWbB84BTkRrCJBId7I5LM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:58:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "174314",
+    "phone_number": "+91 70824 85609",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Naya Mohalla, Ludhiana, Punjab 141008",
+    "area": "Naya Mohalla",
+    "latitude": 30.911801599999997,
+    "longitude": 75.8536712,
+    "place_id": "ChIJ8cS_ngqDGjkRf1eCqu48JZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cS_ngqDGjkRf1eCqu48JZQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:56:06"
+  },
+  {
+    "business_name": "Great India Transport Co.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Industrial Area, Jalandhar, Punjab 144008",
+    "area": "Industrial Area",
+    "latitude": 31.350010599999997,
+    "longitude": 75.56997009999999,
+    "place_id": "ChIJ4_vJoYFaGjkRWeMkZliRSI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_vJoYFaGjkRWeMkZliRSI4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:56:06"
+  }
+]

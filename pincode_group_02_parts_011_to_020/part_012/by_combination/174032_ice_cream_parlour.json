@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Celesty Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "174032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 30,
+    "address": "Shop no 4, old bus stand, Shiv Talkies Road, near city center, Bilaspur, Telipara, Chhattisgarh 495001",
+    "area": "174032",
+    "latitude": 22.0742066,
+    "longitude": 82.1610773,
+    "place_id": "ChIJ07YJPZALKDoRn5gPBs-j92I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07YJPZALKDoRn5gPBs-j92I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:35"
+  },
+  {
+    "business_name": "Himcream kulfi",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "174032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35W2+5M5 mukti dham, Rd, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "area": "Sarkanda",
+    "latitude": 22.095342,
+    "longitude": 82.15175599999999,
+    "place_id": "ChIJr8wzDgALKDoRBcQOm9mnZd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8wzDgALKDoRBcQOm9mnZd0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:35"
+  }
+]

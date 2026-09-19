@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shere punjab dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "174102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Kaulanwala, Himachal Pradesh 173237",
+    "area": "174102",
+    "latitude": 31.123982299999998,
+    "longitude": 76.669338,
+    "place_id": "ChIJl2JAbyVFBTkRXI8WYObXi1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2JAbyVFBTkRXI8WYObXi1I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:38"
+  },
+  {
+    "business_name": "Pizza Point Ramshehar",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Gift shop",
+    "pincode": "174102",
+    "phone_number": "+91 82194 61162",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shimla Rd, opposite New, Sharma Market, Ramshehar, Himachal Pradesh 174102",
+    "area": "Sharma Market",
+    "latitude": 31.089786,
+    "longitude": 76.7945861,
+    "place_id": "ChIJUwLomhZdBTkRT7T2t0v-Lw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwLomhZdBTkRT7T2t0v-Lw4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:38"
+  }
+]

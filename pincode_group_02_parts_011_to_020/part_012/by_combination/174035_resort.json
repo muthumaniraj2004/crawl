@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A Nature Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174035",
+    "phone_number": "+91 88001 72960",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "By-pass, near Malna, Dhunkhara, VPO, Jari, Himachal Pradesh 175105",
+    "area": "Dhunkhara, VPO",
+    "latitude": 32.0011304,
+    "longitude": 77.2483259,
+    "place_id": "ChIJoXf9WJxfBDkRIolD8XbhRN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXf9WJxfBDkRIolD8XbhRN4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:23:01"
+  },
+  {
+    "business_name": "Baragarh Resort & Spa, Manali- IHCL SeleQtions",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "174035",
+    "phone_number": "+91 98828 11115",
+    "website": "https://www.seleqtionshotels.com/en-in/hotels/baragarh-resort-manali?utm_source=google&utm_medium=local&utm_campaign=baragarh-resort-manali-cla&utm_content=baragarh-resort-manali-cla-gmb",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Baragarh Resort & Spa, Village Ghordour , PO Larankelo, Manali, Himachal Pradesh 175104",
+    "area": "174035",
+    "latitude": 32.1023582,
+    "longitude": 77.1506162,
+    "place_id": "ChIJHxPpzf2KBDkRs8Q2adqBOPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxPpzf2KBDkRs8Q2adqBOPY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:23:01"
+  }
+]

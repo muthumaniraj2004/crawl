@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pick Up Point, Cycle Culture",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle rental service",
+    "all_categories": "Bicycle rental service",
+    "pincode": "175015",
+    "phone_number": "+91 78079 07890",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bir Colony, Road, Chaugan, Bir, Himachal Pradesh 176077",
+    "area": "Bir Colony, Road",
+    "latitude": 32.034442,
+    "longitude": 76.7166245,
+    "place_id": "ChIJgV3K46W5BDkRhuR31zScyks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV3K46W5BDkRhuR31zScyks",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:57"
+  },
+  {
+    "business_name": "Eco Explorer Enterprises",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle rental service",
+    "all_categories": "Bicycle rental service, Adventure Sports Center",
+    "pincode": "175015",
+    "phone_number": "+91 98211 44488",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "Near, Bir Colony Rd, Suja, Himachal Pradesh 176077",
+    "area": "175015",
+    "latitude": 32.040655799999996,
+    "longitude": 76.7113341,
+    "place_id": "ChIJB0T3y8G4BDkR-7a7li92YMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0T3y8G4BDkR-7a7li92YMg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:59"
+  }
+]

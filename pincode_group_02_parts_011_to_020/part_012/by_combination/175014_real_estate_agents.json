@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THANA",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "175014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VR66+5W, Pipli, Himachal Pradesh 175014",
+    "area": "175014",
+    "latitude": 31.8604292,
+    "longitude": 76.8123217,
+    "place_id": "ChIJ1Z5qDQDDBDkR_SMYpisSXfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Z5qDQDDBDkR_SMYpisSXfA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:41:53"
+  },
+  {
+    "business_name": "Minturn home",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "175014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RRPC+4MC, Kunkar, Himachal Pradesh 175014",
+    "area": "175014",
+    "latitude": 31.835303399999997,
+    "longitude": 76.8216396,
+    "place_id": "ChIJf1OkfADdBDkR5w4i5agXA98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1OkfADdBDkR5w4i5agXA98",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:41:53"
+  }
+]

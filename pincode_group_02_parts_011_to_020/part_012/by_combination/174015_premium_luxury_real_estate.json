@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Property Dealers",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Property management company, Real estate consultant, Real estate rental agency",
+    "pincode": "174015",
+    "phone_number": "+91 98217 27288",
+    "website": "https://primepropertydealers.com/",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "Bldg No.4, Shop No.5, Takshila Society,, Off Mahakali Caves Rd, Andheri(East), Mumbai, Maharashtra 400093",
+    "area": "Takshila Colony, Indira Nagar, Andheri East",
+    "latitude": 19.1315092,
+    "longitude": 72.8690342,
+    "place_id": "ChIJXWjWsNi35zsRSj-hC9jHQsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWjWsNi35zsRSj-hC9jHQsM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:29"
+  },
+  {
+    "business_name": "Propzilla Infratech Pvt. Ltd.",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "174015",
+    "phone_number": "+91 80105 00900",
+    "website": "https://www.propzilla.in/",
+    "rating": 4.7,
+    "reviews_count": 70,
+    "address": "2nd Floor, Suncity Success Tower, Unit no 226, 227 & 228, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122101",
+    "area": "Sector 65",
+    "latitude": 28.4088797,
+    "longitude": 77.0706202,
+    "place_id": "ChIJnRrD2NIjDTkRBipWZ5KjGSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRrD2NIjDTkRBipWZ5KjGSI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:29"
+  }
+]

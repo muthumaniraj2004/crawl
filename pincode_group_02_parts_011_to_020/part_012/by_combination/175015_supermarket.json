@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Smart Point",
+    "search_category": "Supermarket",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "XQQV+M3F In State Bank of India Branch, Mandi - Pathankot Rd, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.989227399999997,
+    "longitude": 76.7927461,
+    "place_id": "ChIJXSykMxvBBDkRsqYrdMSUJmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSykMxvBBDkRsqYrdMSUJmU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:14"
+  },
+  {
+    "business_name": "AKHIL CONFECTIONERY",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175015",
+    "phone_number": "+91 78073 09904",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "SHOP NO 3, MAIN MARKET ROAD, opposite Bus Stand Gali, BAIJNATH, Makdena, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.9872397,
+    "longitude": 76.7876536,
+    "place_id": "ChIJjVwCURPBBDkRqYYKC6FL9cM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVwCURPBBDkRqYYKC6FL9cM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:16"
+  }
+]

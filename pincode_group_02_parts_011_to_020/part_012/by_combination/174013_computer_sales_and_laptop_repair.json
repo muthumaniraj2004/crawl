@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laptop Mart",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer Hardware Company, Computer networking service, Computer Rental Agency, Computer Wholesaler, Used computer store",
+    "pincode": "174013",
+    "phone_number": "+91 70666 27951",
+    "website": "https://laptopmarts.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Office No 107, 1st, Commercial Complex, PURVARANG, Bhavadi Rd, opp. MSEB Office, Wagholi, Pune, Maharashtra 412207",
+    "area": "Wagholi",
+    "latitude": 18.586304,
+    "longitude": 73.98839559999999,
+    "place_id": "ChIJ473tppnDwjsRCtnpnwpvfkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ473tppnDwjsRCtnpnwpvfkQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:25"
+  },
+  {
+    "business_name": "NEXT GEN COMPUTER | Laptop & Computer Shop, Repairing & Accessories in Patna",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store",
+    "pincode": "174013",
+    "phone_number": "+91 98352 91073",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "207, 2nd Floor, Hariniwas Complex, New Dak Bunglow Rd, Bander Bagicha, Fraser Road Area, Patna, Bihar 800001",
+    "area": "Bander Bagicha, Fraser Road Area",
+    "latitude": 25.609928999999998,
+    "longitude": 85.1360071,
+    "place_id": "ChIJfRPFFkNY7TkRB3LQPA4RRXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRPFFkNY7TkRB3LQPA4RRXM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:26"
+  }
+]

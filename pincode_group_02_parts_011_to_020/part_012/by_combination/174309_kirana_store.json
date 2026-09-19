@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh general store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "FGQP+5Q2, Vill dalchera po, teh, Nain, dhatwal, Himachal Pradesh 176039",
+    "area": "174309",
+    "latitude": 31.487897999999998,
+    "longitude": 76.53690019999999,
+    "place_id": "ChIJnSnvMgAtBTkRZCGFXxdA4G8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSnvMgAtBTkRZCGFXxdA4G8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:47:59"
+  },
+  {
+    "business_name": "Aavya general store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174309",
+    "phone_number": "+91 70189 56172",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bijhri, Himachal Pradesh 176040",
+    "area": "174309",
+    "latitude": 31.5235982,
+    "longitude": 76.5343721,
+    "place_id": "ChIJj_qgVIgtBTkRumAhc9TMv-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_qgVIgtBTkRumAhc9TMv-w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:00"
+  }
+]

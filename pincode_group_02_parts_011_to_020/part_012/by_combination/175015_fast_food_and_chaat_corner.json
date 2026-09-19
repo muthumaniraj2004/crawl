@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175015",
+    "phone_number": "+91 98821 86449",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 114,
+    "address": "Bhawana tah SunderNagar, Himachal Pradesh 175018",
+    "area": "175015",
+    "latitude": 31.44388,
+    "longitude": 76.855034,
+    "place_id": "ChIJH-r4_0sWBTkRfoM3QXa_o5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-r4_0sWBTkRfoM3QXa_o5Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:27"
+  },
+  {
+    "business_name": "Momo point",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Bus Stand, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.989381599999998,
+    "longitude": 76.7900693,
+    "place_id": "ChIJN67wDFDABDkRcuY891atReE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN67wDFDABDkRcuY891atReE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:27"
+  }
+]

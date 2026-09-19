@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIWAN BAR & RESTAURANT",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant",
+    "pincode": "175018",
+    "phone_number": "+91 98160 55200",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Pragati Nagar, Shimla, SH-10, Theog Hatkoti Rohru Road, Kotkhai, Kotkhai, Himachal Pradesh 171202",
+    "area": "175018",
+    "latitude": 31.120199999999997,
+    "longitude": 77.48649999999999,
+    "place_id": "ChIJ6SKHkBGMBTkRp0fy2e0FUko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SKHkBGMBTkRp0fy2e0FUko",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:14"
+  },
+  {
+    "business_name": "Roshan lal devinder kumar bartan store",
+    "search_category": "Bar and Pub",
+    "primary_category": "Iron & Steel Store",
+    "all_categories": "Iron & Steel Store",
+    "pincode": "175018",
+    "phone_number": "+91 94590 46716",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bhojpur bazar, opposite to uppal cloth house, Bhojpur, bazar, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur, bazar",
+    "latitude": 31.5319088,
+    "longitude": 76.8894191,
+    "place_id": "ChIJS9mjBDYZBTkRNs-oFDuzmXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9mjBDYZBTkRNs-oFDuzmXU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:15"
+  }
+]

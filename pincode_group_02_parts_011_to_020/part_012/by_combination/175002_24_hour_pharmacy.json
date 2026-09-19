@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rikesh Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "HWRM+5H9, Tawan, Himachal Pradesh 175027",
+    "area": "175002",
+    "latitude": 31.590411999999997,
+    "longitude": 76.9339856,
+    "place_id": "ChIJ6_1vea0bBTkRT1l5Wi_ukrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_1vea0bBTkRT1l5Wi_ukrM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:18:23"
+  },
+  {
+    "business_name": "Krishna medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175002",
+    "phone_number": "+91 98827 04808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Medical college, Bhangrotu, Ner, Himachal Pradesh 175021",
+    "area": "175002",
+    "latitude": 31.609869699999997,
+    "longitude": 76.91875399999999,
+    "place_id": "ChIJ3SIvsGwfBTkRDGArjnnKR4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SIvsGwfBTkRDGArjnnKR4Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:18:23"
+  }
+]

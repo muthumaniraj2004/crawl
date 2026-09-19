@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Bazar Arla",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "174028",
+    "phone_number": "+91 98054 42323",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "3GM2+RF7 Villange and post offce, Oppsite of high school, Arla, Raipur Tea Estate, Himachal Pradesh 176102",
+    "area": "174028",
+    "latitude": 32.0845643,
+    "longitude": 76.50122379999999,
+    "place_id": "ChIJKb1CKZmzBDkREtfnFf05pgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKb1CKZmzBDkREtfnFf05pgQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:34"
+  },
+  {
+    "business_name": "Auto World",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "174028",
+    "phone_number": "+91 92184 03149",
+    "website": "http://www.autoworld.com/",
+    "rating": 4,
+    "reviews_count": 55,
+    "address": "478X+C6M, Mandi - Pathankot Rd, Sunehr, Himachal Pradesh 176001",
+    "area": "174028",
+    "latitude": 32.1160937,
+    "longitude": 76.2980479,
+    "place_id": "ChIJWXB_xbxPGzkRRSfzSb2n42c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXB_xbxPGzkRRSfzSb2n42c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:38"
+  }
+]

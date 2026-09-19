@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Rashtriya Dairy",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier",
+    "pincode": "175013",
+    "phone_number": "+91 70181 52160",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Chobin Chowk, New Rashtriya Dairy, near HDFC Bank, Baijnath, Himachal Pradesh 176125",
+    "area": "175013",
+    "latitude": 32.0503614,
+    "longitude": 76.6426362,
+    "place_id": "ChIJB-PQTvC5BDkRwSKWUKGFdSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-PQTvC5BDkRwSKWUKGFdSE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:38:34"
+  },
+  {
+    "business_name": "Sharma Fresh N Frozen",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "175013",
+    "phone_number": "+91 86298 01203",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "behind kaali baadi mata tample, Ghuggar, Palampur, Himachal Pradesh 176061",
+    "area": "Ghuggar",
+    "latitude": 32.115074,
+    "longitude": 76.53010379999999,
+    "place_id": "ChIJvTn1Jp6zBDkRKLtcS9zx_WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTn1Jp6zBDkRKLtcS9zx_WQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:38:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahajan Bhojnalaya",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant",
+    "pincode": "175009",
+    "phone_number": "+91 94593 86500",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "1, Alsindi, Himachal Pradesh 175009",
+    "area": "175009",
+    "latitude": 31.2951303,
+    "longitude": 77.1275562,
+    "place_id": "ChIJhWhNXNx1BTkRznFDbvhy9Yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWhNXNx1BTkRznFDbvhy9Yo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:16"
+  },
+  {
+    "business_name": "Boca Mario Restaurant - The Manor",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Bed & breakfast, Italian restaurant",
+    "pincode": "175009",
+    "phone_number": "+91 70189 20003",
+    "website": "https://www.themanornaldehra.com/",
+    "rating": 4.4,
+    "reviews_count": 251,
+    "address": "The Manor, Auramah Valley Rd, Naldehra, Himachal Pradesh 171007",
+    "area": "175009",
+    "latitude": 31.1671564,
+    "longitude": 77.1819721,
+    "place_id": "ChIJs2MUVY13BTkRoJjQu3jyC2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2MUVY13BTkRoJjQu3jyC2U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:16"
+  }
+]

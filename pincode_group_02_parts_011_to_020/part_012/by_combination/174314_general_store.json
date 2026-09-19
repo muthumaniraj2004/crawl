@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhushan general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174314",
+    "phone_number": "+91 82195 79310",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Diyara, Himachal Pradesh 174316",
+    "area": "174314",
+    "latitude": 31.566059,
+    "longitude": 76.1962813,
+    "place_id": "ChIJgxblBzDZGjkROwdsk573wCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxblBzDZGjkROwdsk573wCY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:27"
+  },
+  {
+    "business_name": "Shalu General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "XQRW+P42, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "174314",
+    "latitude": 31.991773499999997,
+    "longitude": 76.7952638,
+    "place_id": "ChIJbVail0XABDkRcbGoDx4rubI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVail0XABDkRcbGoDx4rubI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:30"
+  }
+]

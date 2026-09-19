@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghagus",
+    "search_category": "Fish Market",
+    "primary_category": "Traditional market",
+    "all_categories": "Traditional market",
+    "pincode": "174013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "9RG3+8VV, NH 103, Ghaghas, Kudi, Himachal Pradesh 174001",
+    "area": "174013",
+    "latitude": 31.375866199999997,
+    "longitude": 76.8046813,
+    "place_id": "ChIJrRGfZhU-BTkR3Rt6ohH36Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRGfZhU-BTkR3Rt6ohH36Z8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:08"
+  },
+  {
+    "business_name": "Bunty fish fry",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "174013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CR9H+WWJ, Dehar-Kandrour Rd, Bhatehr Uparli, Barmana, Himachal Pradesh 174013",
+    "area": "174013",
+    "latitude": 31.4198269,
+    "longitude": 76.8297529,
+    "place_id": "ChIJMzVdBgAXBTkRgst64FXIixk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzVdBgAXBTkRgst64FXIixk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:08"
+  }
+]

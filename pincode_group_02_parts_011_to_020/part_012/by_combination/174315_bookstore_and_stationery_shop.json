@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NANDA STATIONARY",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Pen store",
+    "pincode": "174315",
+    "phone_number": "+91 98166 74873",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "SHOP NO 1, Main Market Rd, near BANK OF MAHARASHTRA, Professor Colony, Mullanpur Garibdass, Una, Punjab 140603",
+    "area": "Professor Colony",
+    "latitude": 31.4627494,
+    "longitude": 76.28003819999999,
+    "place_id": "ChIJc3u_VXDQGjkRETQyUdKo-os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3u_VXDQGjkRETQyUdKo-os",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:58:33"
+  },
+  {
+    "business_name": "Kumar book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery wholesaler",
+    "all_categories": "Stationery wholesaler",
+    "pincode": "174315",
+    "phone_number": "+91 188 722 3112",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "22,mainmarket, Nangal, Punjab 140124",
+    "area": "DD block",
+    "latitude": 31.387719599999997,
+    "longitude": 76.3761753,
+    "place_id": "ChIJ2Yj_NiXMGjkR0HC6A0LPDOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Yj_NiXMGjkR0HC6A0LPDOg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:58:33"
+  }
+]

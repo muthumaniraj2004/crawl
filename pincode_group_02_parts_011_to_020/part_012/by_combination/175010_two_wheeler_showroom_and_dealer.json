@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "honda Showroom",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "175010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "C643+2VC, Karsog - Mnadi - Rampur - Kinnour, Karsog, Sanarli, Himachal Pradesh 175011",
+    "area": "175010",
+    "latitude": 31.405055599999997,
+    "longitude": 77.20464539999999,
+    "place_id": "ChIJoQJFSoWgBTkRGB0LREft8Pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQJFSoWgBTkRGB0LREft8Pk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:33:27"
+  },
+  {
+    "business_name": "Suzuki showroom",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "175010",
+    "phone_number": "+91 85806 91043",
+    "website": "https://www.suzukimotorcycle.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "teh, near sanskrit college, p.o, Sanarli, Karsog, Himachal Pradesh 175011",
+    "area": "p.o",
+    "latitude": 31.399362099999998,
+    "longitude": 77.202424,
+    "place_id": "ChIJ6zNxec-hBTkRQANEcd4KOYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zNxec-hBTkRQANEcd4KOYE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:33:29"
+  }
+]

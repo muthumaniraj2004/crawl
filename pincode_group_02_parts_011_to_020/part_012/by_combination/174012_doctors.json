@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Bhavna Arora M.D medicine (ALT)",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Alternative medicine practitioner, Medical clinic",
+    "pincode": "174012",
+    "phone_number": "+91 85588 77874",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "E577, Gumtala Sub Urban, E-Block, Ranjit Avenue, Amritsar, Punjab 143001",
+    "area": "Gumtala Sub Urban, E-Block, Ranjit Avenue",
+    "latitude": 31.660099,
+    "longitude": 74.861418,
+    "place_id": "ChIJv3XS_pNlGTkR1Tm3dspeOWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3XS_pNlGTkR1Tm3dspeOWk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:52:45"
+  },
+  {
+    "business_name": "DocIndia",
+    "search_category": "Doctors",
+    "primary_category": "Physician referral service",
+    "all_categories": "Physician referral service, Medical group",
+    "pincode": "174012",
+    "phone_number": "+91 11 4123 6000",
+    "website": "https://www.docindia.org/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "m38, ini infotect, Govindpuri Extension, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Govindpuri Extension, Kalkaji",
+    "latitude": 28.5349559,
+    "longitude": 77.2592299,
+    "place_id": "ChIJ3Sz_4bbhDDkRu3YN8r3iynY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Sz_4bbhDDkRu3YN8r3iynY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:52:46"
+  }
+]

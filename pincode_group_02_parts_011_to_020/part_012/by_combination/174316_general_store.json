@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhushan general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vpo, hamboli amb road, Himachal Pradesh 174302",
+    "area": "174316",
+    "latitude": 31.560497199999997,
+    "longitude": 76.1924973,
+    "place_id": "ChIJDdTLWgDZGjkRcR-v5tHVehc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdTLWgDZGjkRcR-v5tHVehc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:59:13"
+  },
+  {
+    "business_name": "Sheru General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "JV7V+9QP, Mundroo, Bushaihr, Himachal Pradesh 175008",
+    "area": "174316",
+    "latitude": 31.613453699999997,
+    "longitude": 76.89446219999999,
+    "place_id": "ChIJO9oL-6kfBTkRy0-wtVC-yic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9oL-6kfBTkRy0-wtVC-yic",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:59:14"
+  }
+]

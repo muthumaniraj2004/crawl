@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Empleado First Services Pvt. LTD",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Service establishment",
+    "pincode": "174011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Empleado First Services Pvt. LTD, 174011, India",
+    "area": "174011",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJu0285bzD5zsRzbjH822Gigg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0285bzD5zsRzbjH822Gigg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:52:10"
+  },
+  {
+    "business_name": "Call cab",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Call center",
+    "all_categories": "Call center, Service establishment",
+    "pincode": "174011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Call cab, 174011, India",
+    "area": "174011",
+    "latitude": 17.474387999999998,
+    "longitude": 78.315029,
+    "place_id": "ChIJtf3UQGOTyzsRlFTLw3W4YC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtf3UQGOTyzsRlFTLw3W4YC0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:52:10"
+  }
+]

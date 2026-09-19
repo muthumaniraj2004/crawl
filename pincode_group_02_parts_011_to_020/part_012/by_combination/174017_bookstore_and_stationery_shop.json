@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "174017",
+    "phone_number": "+91 82198 38960",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "VPO, Tehsil, Aweri, Baijnath, Himachal Pradesh 176081",
+    "area": "Tehsil",
+    "latitude": 32.073104,
+    "longitude": 76.601613,
+    "place_id": "ChIJg95HzSO3BDkRuW3axPUUHYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg95HzSO3BDkRuW3axPUUHYQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:59:04"
+  },
+  {
+    "business_name": "R.k Traders",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "174017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Old Bus Stand, Ghumarwin, Himachal Pradesh 174021",
+    "area": "174017",
+    "latitude": 31.4432078,
+    "longitude": 76.70793309999999,
+    "place_id": "ChIJ-5samZ47BTkRWps_Qa7hqE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5samZ47BTkRWps_Qa7hqE8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:59:07"
+  }
+]

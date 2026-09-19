@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Turban Bistro",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Asian restaurant, Bar, Mughlai restaurant, North Indian restaurant",
+    "pincode": "174036",
+    "phone_number": "+91 84492 84487",
+    "website": "https://easysearch.co.in/listing/urban-turban-bistro/",
+    "rating": 4.3,
+    "reviews_count": 1375,
+    "address": "1st Floor, Kulri, opposite Canara Bank, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "The Mall Road",
+    "latitude": 30.455709199999998,
+    "longitude": 78.0804335,
+    "place_id": "ChIJAyBncMTQCDkR97zceVuV_D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyBncMTQCDkR97zceVuV_D0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:23:54"
+  },
+  {
+    "business_name": "Himalayan dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 173,
+    "address": "NH21, Barmana, Kudani, Himachal Pradesh 174013",
+    "area": "174036",
+    "latitude": 31.410317,
+    "longitude": 76.826717,
+    "place_id": "ChIJYZUm54cXBTkRllbjlur-Y8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZUm54cXBTkRllbjlur-Y8Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:23:56"
+  }
+]

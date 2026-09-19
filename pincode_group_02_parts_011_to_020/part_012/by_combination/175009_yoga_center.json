@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Answer is Fittness",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "175009",
+    "phone_number": "+91 78764 38050",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Karsog - Mamel - Kao Rd, Kao, Himachal Pradesh 175011",
+    "area": "175009",
+    "latitude": 31.3817028,
+    "longitude": 77.21504039999999,
+    "place_id": "ChIJpSI3msChBTkR3hri8wmiRwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSI3msChBTkR3hri8wmiRwE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:38"
+  },
+  {
+    "business_name": "Ekansh Yoga Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "175009",
+    "phone_number": "N/A",
+    "website": "http://www.instagram.com/yogacharyamanoj",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Top Floor, Nirmal Niwas, Rest House Rd, near PWD, opposite Gurudwara, Suni, Himachal Pradesh 171301",
+    "area": "175009",
+    "latitude": 31.237329199999998,
+    "longitude": 77.1214117,
+    "place_id": "ChIJJ8XsOWN3BTkRCEmL44sOlNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8XsOWN3BTkRCEmL44sOlNY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:38"
+  }
+]

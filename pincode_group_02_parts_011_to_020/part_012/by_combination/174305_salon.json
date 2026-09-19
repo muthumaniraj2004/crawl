@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hollywood saloon",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "174305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vpo Barsar teh barsar distt hamirpur himachal pardesh, Himachal Pradesh 174305",
+    "area": "174305",
+    "latitude": 31.494881799999998,
+    "longitude": 76.50868369999999,
+    "place_id": "ChIJNy9iN8EtBTkRANAvmM2Lz9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNy9iN8EtBTkRANAvmM2Lz9Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:41:25"
+  },
+  {
+    "business_name": "Music Salon - Unisex Salon in Mandi",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Nail salon, Hairdresser",
+    "pincode": "174305",
+    "phone_number": "+91 98055 59899",
+    "website": "http://musicsalon.in/",
+    "rating": 4.6,
+    "reviews_count": 63,
+    "address": "Music salon, near Gun Factory, in, Mangvayin, Mandi, Himachal Pradesh 175001",
+    "area": "in, Mangvayin",
+    "latitude": 31.7039944,
+    "longitude": 76.9338629,
+    "place_id": "ChIJpcMDgdHjBDkRHsxh-SR64MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcMDgdHjBDkRHsxh-SR64MQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:41:25"
+  }
+]

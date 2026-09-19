@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAI SPOT TELANGANA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "175008",
+    "phone_number": "+91 96185 94894",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kondamadugu, Telangana 501301",
+    "area": "175008",
+    "latitude": 17.4685074,
+    "longitude": 78.75742369999999,
+    "place_id": "ChIJ7VKzWwBxyzsReIRmCxhwfxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VKzWwBxyzsReIRmCxhwfxA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:21"
+  },
+  {
+    "business_name": "Cafe Chai Lovers",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Tea store",
+    "pincode": "175008",
+    "phone_number": "+91 98668 84001",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sri Laxmi Nagar Colony, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Sri Laxmi Nagar Colony",
+    "latitude": 17.4063114,
+    "longitude": 78.3730746,
+    "place_id": "ChIJb17d8V-VyzsRBL9T9IPTdvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb17d8V-VyzsRBL9T9IPTdvQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:21"
+  }
+]

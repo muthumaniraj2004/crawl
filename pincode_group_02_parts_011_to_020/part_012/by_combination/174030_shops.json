@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electronics Shop",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "174030",
+    "phone_number": "+91 98058 60880",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "CG5Q+MJ8, Unnamed Road, Gharann, Himachal Pradesh 174030",
+    "area": "174030",
+    "latitude": 31.409173499999998,
+    "longitude": 76.5390707,
+    "place_id": "ChIJSRVfJ9IzBTkRDZktL0J-kXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRVfJ9IzBTkRDZktL0J-kXA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:28"
+  },
+  {
+    "business_name": "Shri Shyam Baba Dairy&sweets",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "174030",
+    "phone_number": "+91 80917 29875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vpo, Jhabola, Himachal Pradesh 174030",
+    "area": "Vpo",
+    "latitude": 31.4246341,
+    "longitude": 76.546429,
+    "place_id": "ChIJOZ8Q-NEzBTkR-XWfgG4M_uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZ8Q-NEzBTkR-XWfgG4M_uA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:30"
+  }
+]

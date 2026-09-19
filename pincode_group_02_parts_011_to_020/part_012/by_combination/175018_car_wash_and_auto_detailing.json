@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivansh Car Washing Point",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "175018",
+    "phone_number": "+91 70185 00346",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Mahadev Petrol Pump, Sundar Nagar, Mahadev, Himachal Pradesh 175018",
+    "area": "175018",
+    "latitude": 31.547569199999998,
+    "longitude": 76.9043957,
+    "place_id": "ChIJ803oy4AZBTkRMKBxa4tNaYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ803oy4AZBTkRMKBxa4tNaYY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:37"
+  },
+  {
+    "business_name": "Sai car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "175018",
+    "phone_number": "+91 98829 09438",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill.bhour p.o.kanaid teh, distt, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "BHOOR",
+    "latitude": 31.5856487,
+    "longitude": 76.918692,
+    "place_id": "ChIJcZ184ywZBTkRSDUjvUIh8mA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZ184ywZBTkRSDUjvUIh8mA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:37"
+  }
+]

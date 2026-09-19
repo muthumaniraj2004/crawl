@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purana Bazar",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping Mall Operators",
+    "all_categories": "Shopping Mall Operators",
+    "pincode": "175019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sundar Nagar, Himachal Pradesh",
+    "area": "Purana Bazar",
+    "latitude": 31.5378947,
+    "longitude": 76.8965961,
+    "place_id": "ChIJLVt_15sZBTkRlpe6p53LPN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVt_15sZBTkRlpe6p53LPN0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:51:38"
+  },
+  {
+    "business_name": "Narulla store",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "GV6Q+C2R, Chaterokhri, Himachal Pradesh 175018",
+    "area": "175019",
+    "latitude": 31.5111198,
+    "longitude": 76.88752819999999,
+    "place_id": "ChIJFdPHc6sZBTkRGlzK_vrH-2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdPHc6sZBTkRGlzK_vrH-2c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:51:38"
+  }
+]

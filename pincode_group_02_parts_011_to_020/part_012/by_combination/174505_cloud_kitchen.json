@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kitchen On cloud",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "174505",
+    "phone_number": "+91 98993 08380",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sahastradhara Rd, Raipur, Dehradun, Khalanga, Uttarakhand 248001",
+    "area": "Raipur",
+    "latitude": 30.3406898,
+    "longitude": 78.078931,
+    "place_id": "ChIJNxvGEcMpCTkR5bChzDLJkXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxvGEcMpCTkR5bChzDLJkXg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:26"
+  },
+  {
+    "business_name": "Cloud kitchen exchange",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Media company",
+    "all_categories": "Media company, Consultant, Information services, Market researcher",
+    "pincode": "174505",
+    "phone_number": "+91 93100 19923",
+    "website": "https://www.cloudkitchenexchange.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Preet Vihar G block Rd, G-Block, Preet Vihar, Delhi, 110092",
+    "area": "G-Block, Preet Vihar",
+    "latitude": 28.641293299999997,
+    "longitude": 77.29859189999999,
+    "place_id": "ChIJ91Y-1I39DDkR3j0N3zt6eKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91Y-1I39DDkR3j0N3zt6eKM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:27"
+  }
+]

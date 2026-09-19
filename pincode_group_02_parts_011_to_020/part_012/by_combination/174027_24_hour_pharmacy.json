@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "174027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "RQ35+2C8, Near CHC Hospital Tehsil Dharampur Distt, Dharampur, Himachal Pradesh 175040",
+    "area": "174027",
+    "latitude": 31.802532999999997,
+    "longitude": 76.7585936,
+    "place_id": "ChIJ46cXZPPcBDkRINL6YuDF0Y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46cXZPPcBDkRINL6YuDF0Y4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:31"
+  },
+  {
+    "business_name": "Care Medical Hall",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "174027",
+    "phone_number": "+91 98053 94590",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 58,
+    "address": "478J+4WG, opp. big bazar, near Fortis hospital, Adarsh Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.1153125,
+    "longitude": 76.2823125,
+    "place_id": "ChIJCWyWsS9PGzkRwplPD7fowVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWyWsS9PGzkRwplPD7fowVk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:33"
+  }
+]

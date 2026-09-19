@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh tour and travels bir billing",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "174312",
+    "phone_number": "+91 78760 65161",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Tibetan colony ,chaugan, Bir, Baijnath, Himachal Pradesh 176077",
+    "area": "Bir Colony",
+    "latitude": 32.0375079,
+    "longitude": 76.7154206,
+    "place_id": "ChIJfWelFle5BDkRzJwmTiAT5L0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWelFle5BDkRzJwmTiAT5L0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:54:12"
+  },
+  {
+    "business_name": "Kaushal Travel Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "174312",
+    "phone_number": "+91 98160 20725",
+    "website": "https://kaushaltravelservices.com/",
+    "rating": 4.5,
+    "reviews_count": 65,
+    "address": "# Shop No. 41, New Bus Stand Complex, Dharamsala Rd, opp. Hotel Grand Raj, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.1106121,
+    "longitude": 76.2780597,
+    "place_id": "ChIJs9qJE4BFGzkR1LfB-tfD3kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9qJE4BFGzkR1LfB-tfD3kU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:54:12"
+  }
+]

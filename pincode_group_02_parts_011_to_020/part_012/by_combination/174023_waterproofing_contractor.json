@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AquaMart Enterprises",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Construction Material Wholesaler",
+    "all_categories": "Construction Material Wholesaler, Hardware store",
+    "pincode": "174023",
+    "phone_number": "+91 85805 26689",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Main road, near Shiv mandir, Sihunta, Chalera, Himachal Pradesh 176207",
+    "area": "174023",
+    "latitude": 32.300441,
+    "longitude": 76.09281589999999,
+    "place_id": "ChIJj38Dvc1fGzkRd60wB2kZhf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj38Dvc1fGzkRd60wB2kZhf4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:02:30"
+  },
+  {
+    "business_name": "Contractor Suresh Patial",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor",
+    "pincode": "174023",
+    "phone_number": "N/A",
+    "website": "http://sureshpatial.blogspot.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House No. 12, V.P.O, near G.S.S.S Gallian, Karloti, Himachal Pradesh 174029",
+    "area": "174023",
+    "latitude": 31.4713779,
+    "longitude": 76.6219728,
+    "place_id": "ChIJSSKAE7gvBTkRXAhD5GYQRPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSKAE7gvBTkRXAhD5GYQRPg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:02:31"
+  }
+]

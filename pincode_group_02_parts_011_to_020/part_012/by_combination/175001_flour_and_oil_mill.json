@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAL OIL AND FLOUR MILL",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store, Flour mill",
+    "pincode": "175001",
+    "phone_number": "+91 73095 12341",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Rahimapur, Sherdeeh, Uttar Pradesh 211019",
+    "area": "175001",
+    "latitude": 25.4480339,
+    "longitude": 81.9518853,
+    "place_id": "ChIJOZuCnFO1mjkRDC7Ao9zmKco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZuCnFO1mjkRDC7Ao9zmKco",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:17:42"
+  },
+  {
+    "business_name": "Flour and mustard oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "175001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bahorikpur, Uttar Pradesh 232104",
+    "area": "175001",
+    "latitude": 25.294279799999998,
+    "longitude": 83.2783182,
+    "place_id": "ChIJA3VBe2gXjjkRxUX_JAiyghE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3VBe2gXjjkRxUX_JAiyghE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:17:42"
+  }
+]

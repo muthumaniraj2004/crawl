@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snow Valley Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "174028",
+    "phone_number": "+91 93185 13788",
+    "website": "https://www.snowvalleyresorts.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "The Mall, Dalhousie, Himachal Pradesh 176304",
+    "area": "The Mall",
+    "latitude": 32.5383296,
+    "longitude": 75.9697922,
+    "place_id": "ChIJ1c3MvHyRHDkRnSOx59Cb6KQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1c3MvHyRHDkRnSOx59Cb6KQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:10:04"
+  },
+  {
+    "business_name": "River Side Resort & Adventures | Tirthan Valley",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "174028",
+    "phone_number": "+91 98100 08808",
+    "website": "http://www.tirthanvalley.net/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Tirthan Valley, Banjar, Pekhri, Himachal Pradesh 175123",
+    "area": "174028",
+    "latitude": 31.641761499999998,
+    "longitude": 77.384304,
+    "place_id": "ChIJbdiq_QOyBTkRXtqsbpXZFRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdiq_QOyBTkRXtqsbpXZFRo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:10:04"
+  }
+]

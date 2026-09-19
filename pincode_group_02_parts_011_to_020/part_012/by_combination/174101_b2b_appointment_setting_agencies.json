@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dial A Job",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency, Service establishment",
+    "pincode": "174101",
+    "phone_number": "N/A",
+    "website": "http://dialajob.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dial A Job, 174101, India",
+    "area": "174101",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJvRFYoSbvVA4R01OSemykiuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRFYoSbvVA4R01OSemykiuY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:19"
+  },
+  {
+    "business_name": "My Job Referrals",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Service establishment",
+    "pincode": "174101",
+    "phone_number": "N/A",
+    "website": "https://t.me/indeed_jobs_dubai",
+    "rating": null,
+    "reviews_count": null,
+    "address": "My Job Referrals, 174101, India",
+    "area": "174101",
+    "latitude": 35.282874299999996,
+    "longitude": -3.3907303,
+    "place_id": "ChIJ7f7JyYYJrm4RRo0ExoRXSFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7f7JyYYJrm4RRo0ExoRXSFw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KBR Realtors",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real Estate Builders & Construction Company, Real estate developer",
+    "pincode": "175007",
+    "phone_number": "+91 99082 96357",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 62,
+    "address": "3-126/6, BC Colony, Yadagirigutta, Telangana 508115",
+    "area": "BC Colony",
+    "latitude": 17.5820354,
+    "longitude": 78.95038749999999,
+    "place_id": "ChIJgSCxEmRnyzsR05aRmwmcJ6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSCxEmRnyzsR05aRmwmcJ6E",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:28:55"
+  },
+  {
+    "business_name": "Diane Kneis Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "175007",
+    "phone_number": "N/A",
+    "website": "http://www.dianekneis.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Diane Kneis Real Estate, 175007, India",
+    "area": "175007",
+    "latitude": 37.428877,
+    "longitude": -122.1861294,
+    "place_id": "ChIJm4liMzq7j4ARxVnh66qVPfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4liMzq7j4ARxVnh66qVPfY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:28:56"
+  }
+]

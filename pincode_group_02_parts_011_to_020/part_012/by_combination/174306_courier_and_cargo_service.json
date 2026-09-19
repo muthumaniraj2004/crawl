@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Enrolment",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "174306",
+    "phone_number": "N/A",
+    "website": "http://indiapost.gov.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "C84V+CCJ, Mehatpur, Himachal Pradesh 174315",
+    "area": "174306",
+    "latitude": 31.406092899999997,
+    "longitude": 76.3435224,
+    "place_id": "ChIJH_f5YWjOGjkRMC2zt2gGtGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_f5YWjOGjkRMC2zt2gGtGA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:43:52"
+  },
+  {
+    "business_name": "DTDC Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "174306",
+    "phone_number": "+91 97366 49919",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Upper, Dehlan, Himachal Pradesh 174306",
+    "area": "174306",
+    "latitude": 31.4273131,
+    "longitude": 76.32878269999999,
+    "place_id": "ChIJgQPZHBHPGjkRfRZzNBx8CgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQPZHBHPGjkRfRZzNBx8CgA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:43:54"
+  }
+]

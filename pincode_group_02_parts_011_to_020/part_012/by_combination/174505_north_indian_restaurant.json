@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "174505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "MG9P+QQ2, Dugha, NH 103, Hamirpur, Himachal Pradesh 177001",
+    "area": "174505",
+    "latitude": 31.669385899999998,
+    "longitude": 76.5368924,
+    "place_id": "ChIJc3hArHvVBDkRgUfIsvxYzIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3hArHvVBDkRgUfIsvxYzIk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:23"
+  },
+  {
+    "business_name": "Hoshiyarpuri",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, North Indian restaurant",
+    "pincode": "174505",
+    "phone_number": "+91 81261 90095",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 3604,
+    "address": "A.S. Foods, Khanna Nagar, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Khanna Nagar",
+    "latitude": 29.9317235,
+    "longitude": 78.13127539999999,
+    "place_id": "ChIJK_04KThGCTkR7Z0M85jJkvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_04KThGCTkR7Z0M85jJkvg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Ghar Home Stay",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "174021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "near Sharma Complex, Berthin, Himachal Pradesh 174029",
+    "area": "174021",
+    "latitude": 31.4181925,
+    "longitude": 76.6426006,
+    "place_id": "ChIJq8pD4lc7BTkRldnKGtmVtpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8pD4lc7BTkRldnKGtmVtpE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:49"
+  },
+  {
+    "business_name": "Madona Hotels",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "174021",
+    "phone_number": "+91 70874 17607",
+    "website": "https://himalayanhospitality.weebly.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "188/3 SARYUN, KHASH, Ghumarwin, BILASPUR, Himachal Pradesh 174003",
+    "area": "174021",
+    "latitude": 31.4735001,
+    "longitude": 76.7643794,
+    "place_id": "ChIJozOFoTE9BTkRyTYvrcHPDCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozOFoTE9BTkRyTYvrcHPDCg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:51"
+  }
+]

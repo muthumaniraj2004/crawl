@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect choice",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier",
+    "pincode": "174021",
+    "phone_number": "+91 87258 00072",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near PNB bAnk, Jhanduta, Himachal Pradesh 174031",
+    "area": "174021",
+    "latitude": 31.370458,
+    "longitude": 76.646669,
+    "place_id": "ChIJuXl-Dnw5BTkRY8BOHUelxPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXl-Dnw5BTkRY8BOHUelxPY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:02"
+  },
+  {
+    "business_name": "New Star Sohana Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "174021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "bus stand, Main, Ghumarwin, Himachal Pradesh 174021",
+    "area": "174021",
+    "latitude": 31.4410882,
+    "longitude": 76.7090505,
+    "place_id": "ChIJKQmfGAA7BTkRj880rRWkWpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQmfGAA7BTkRj880rRWkWpM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASR TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "174013",
+    "phone_number": "+91 70181 00309",
+    "website": "https://asrtravels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 5, VPO, near BDTS PUKAR HALL, Barmana, Himachal Pradesh 174013",
+    "area": "174013",
+    "latitude": 31.4193207,
+    "longitude": 76.8352242,
+    "place_id": "ChIJ_____xoWBTkRHcQbwYE4Wv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____xoWBTkRHcQbwYE4Wv4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:45"
+  },
+  {
+    "business_name": "Jai Maa Murari Tours and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Travel agency",
+    "pincode": "174013",
+    "phone_number": "+91 98054 17500",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NH154, Jarol, Himachal Pradesh 175018",
+    "area": "174013",
+    "latitude": 31.4657576,
+    "longitude": 76.86510109999999,
+    "place_id": "ChIJqQ9RCqQXBTkRN-TkN4jjrg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQ9RCqQXBTkRN-TkN4jjrg0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:45"
+  }
+]

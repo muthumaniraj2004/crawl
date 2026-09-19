@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Point Quality Confectionery",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, General store",
+    "pincode": "175012",
+    "phone_number": "+91 82620 77775",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ward Number 5 Village Seri, Post Office Rd, opposite Veterinary Hospital, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175012",
+    "latitude": 31.991273999999997,
+    "longitude": 76.7949067,
+    "place_id": "ChIJC8dWmkXABDkRHrOr8MvSxn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8dWmkXABDkRHrOr8MvSxn0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:36:46"
+  },
+  {
+    "business_name": "Jitender Daily Need Store",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "175012",
+    "phone_number": "+91 94186 43339",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mohardhar, Mandi - Pathankot Rd, Narla, Himachal Pradesh 175012",
+    "area": "175012",
+    "latitude": 31.8531418,
+    "longitude": 76.9269157,
+    "place_id": "ChIJ9yYyK_rlBDkRClmlx6SLfFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yYyK_rlBDkRClmlx6SLfFE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:36:46"
+  }
+]

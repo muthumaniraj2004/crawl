@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nerbudda Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Scrapbooking store",
+    "pincode": "174312",
+    "phone_number": "+91 98277 76646",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1105, Andherdeo, Ganjipura, Jabalpur, Madhya Pradesh 482002",
+    "area": "Andherdeo, Ganjipura",
+    "latitude": 23.1736053,
+    "longitude": 79.9340422,
+    "place_id": "ChIJQZKOwhaugTkRJO22awAa7_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZKOwhaugTkRJO22awAa7_I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:54:53"
+  },
+  {
+    "business_name": "Peekay Books & Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "174312",
+    "phone_number": "+91 94251 51903",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Moti Building, Sadar Main Road, Jabalpur, Madhya Pradesh 482001",
+    "area": "Sadar",
+    "latitude": 23.1544649,
+    "longitude": 79.947603,
+    "place_id": "ChIJ4yknstitgTkR9KeiMKfTi6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yknstitgTkR9KeiMKfTi6M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:54:53"
+  }
+]

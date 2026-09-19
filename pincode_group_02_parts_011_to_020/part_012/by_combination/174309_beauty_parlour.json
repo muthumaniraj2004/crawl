@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay cosmetic",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "174309",
+    "phone_number": "+91 78766 32739",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Barsar, Himachal Pradesh 174304",
+    "area": "174309",
+    "latitude": 31.5429355,
+    "longitude": 76.47841079999999,
+    "place_id": "ChIJAzFLZwArBTkRNOArqtURsWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzFLZwArBTkRNOArqtURsWI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:57"
+  },
+  {
+    "business_name": "Sapna beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Bangle Shop, Cosmetics store, General store, Spa",
+    "pincode": "174309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Bhareri, Himachal Pradesh 177024",
+    "area": "174309",
+    "latitude": 31.6526356,
+    "longitude": 76.6884567,
+    "place_id": "ChIJy2miSAAnBTkRuLTVe6EcODk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2miSAAnBTkRuLTVe6EcODk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:57"
+  }
+]

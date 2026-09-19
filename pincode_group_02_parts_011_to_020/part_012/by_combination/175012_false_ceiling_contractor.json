@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tradesman Drywall",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Dry wall contractor",
+    "all_categories": "Dry wall contractor",
+    "pincode": "175012",
+    "phone_number": "N/A",
+    "website": "http://www.tradesmandrywall.com/",
+    "rating": 4.9,
+    "reviews_count": 99,
+    "address": "8 Mountain Rd Ste 103, New Bloomfield, PA 17068, United States",
+    "area": "175012",
+    "latitude": 40.4094991,
+    "longitude": -77.106944,
+    "place_id": "ChIJRZujFz7ByIkRNVej86gdCGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZujFz7ByIkRNVej86gdCGw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:37:27"
+  },
+  {
+    "business_name": "Heifer Drywall Inc",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Dry wall contractor",
+    "all_categories": "Dry wall contractor",
+    "pincode": "175012",
+    "phone_number": "N/A",
+    "website": "http://heiferdrywallinc.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "91 Heidel Rd, Robesonia, PA 19551, United States",
+    "area": "175012",
+    "latitude": 40.3827162,
+    "longitude": -76.1233828,
+    "place_id": "ChIJNfLc7QwLxokRGWpgacskifA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfLc7QwLxokRGWpgacskifA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:37:29"
+  }
+]

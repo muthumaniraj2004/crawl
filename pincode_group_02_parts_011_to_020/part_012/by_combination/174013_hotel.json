@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Suvidha Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174013",
+    "phone_number": "+91 78077 55501",
+    "website": "https://hotelsuvidhapalace.com/",
+    "rating": 4,
+    "reviews_count": 1444,
+    "address": "Hamirpur Road, near Bus Stand, Una, Himachal Pradesh 174303",
+    "area": "174013",
+    "latitude": 31.4707194,
+    "longitude": 76.27192869999999,
+    "place_id": "ChIJR9EmUH_QGjkR4oNkKtMXaDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9EmUH_QGjkR4oNkKtMXaDc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:12"
+  },
+  {
+    "business_name": "The Himachal Inn",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174013",
+    "phone_number": "+91 62300 33550",
+    "website": "https://manalihoteliers.com/mha-hotels/hotels/the-himachal-inn",
+    "rating": 4.1,
+    "reviews_count": 292,
+    "address": "NH-21, West, Rangri, Simsa Village, Manali, Himachal Pradesh 175131",
+    "area": "Rangri, Simsa Village",
+    "latitude": 32.223013699999996,
+    "longitude": 77.1905788,
+    "place_id": "ChIJ2Yp2Ex-IBDkRIMqbjvhmPH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Yp2Ex-IBDkRIMqbjvhmPH8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:12"
+  }
+]

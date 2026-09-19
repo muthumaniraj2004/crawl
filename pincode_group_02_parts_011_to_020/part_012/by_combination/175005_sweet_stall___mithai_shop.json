@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma sweets & dhaba",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "175005",
+    "phone_number": "+91 80910 24006",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kataula, Himachal Pradesh 175005",
+    "area": "175005",
+    "latitude": 31.798101199999998,
+    "longitude": 77.01517539999999,
+    "place_id": "ChIJwdooksf7BDkRFFongNJVJjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdooksf7BDkRFFongNJVJjU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:23:37"
+  },
+  {
+    "business_name": "PANDIT SWEETS",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "175005",
+    "phone_number": "+91 80911 30226",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "PANDIT SWEETS MANDI, KULLU ROAD, Kataula, Himachal Pradesh 175005",
+    "area": "175005",
+    "latitude": 31.7980257,
+    "longitude": 77.015289,
+    "place_id": "ChIJOW74Lbj7BDkRNxP1D_FtFYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOW74Lbj7BDkRNxP1D_FtFYI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:23:40"
+  }
+]

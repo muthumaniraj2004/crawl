@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sardhan hira",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "174309",
+    "phone_number": "+91 98824 17410",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Govt ayurvedic health centre, SardhanHira, Hamirpur, Himachal Pradesh 176108",
+    "area": "SardhanHira",
+    "latitude": 31.7894328,
+    "longitude": 76.4964816,
+    "place_id": "ChIJv_PmT_DTBDkRLd-Rz27_4bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_PmT_DTBDkRLd-Rz27_4bY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:26"
+  },
+  {
+    "business_name": "Sri Harihar Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Emergency room, Private hospital",
+    "pincode": "174309",
+    "phone_number": "+91 94596 36391",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.9562349,
+    "longitude": 77.1130027,
+    "place_id": "ChIJiWUbO5j3BDkRU8ld8b4lwro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWUbO5j3BDkRU8ld8b4lwro",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:27"
+  }
+]

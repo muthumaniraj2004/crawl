@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agro Care Products",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service, Cricket ground, American football field, Garden center, Lawn care service, Lawn irrigation equipment supplier, Lawn mower store, Agricultural Product Wholesaler, Turf supplier",
+    "pincode": "174405",
+    "phone_number": "+91 98200 50816",
+    "website": "https://www.agrocareproducts.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, 758, Neel Kiran CHS, Swami Vivekanand Rd, Khar, Ram Krishna Nagar, Khar West, Mumbai, Maharashtra 400052",
+    "area": "Khar, Ram Krishna Nagar, Khar West",
+    "latitude": 19.0684049,
+    "longitude": 72.8375664,
+    "place_id": "ChIJqTvhNxDJ5zsR76-5lbsXlao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTvhNxDJ5zsR76-5lbsXlao",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:10"
+  },
+  {
+    "business_name": "Agro Agency Fertilizer",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "174405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8XRH+QCH, Kodit Bk., Maharashtra 412301",
+    "area": "174405",
+    "latitude": 18.341898099999998,
+    "longitude": 73.97849029999999,
+    "place_id": "ChIJW4wtsCDvwjsRcJLb-f7Gf2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4wtsCDvwjsRcJLb-f7Gf2s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:11"
+  }
+]

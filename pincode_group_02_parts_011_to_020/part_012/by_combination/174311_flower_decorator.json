@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayana Flower house",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Gift shop",
+    "pincode": "174311",
+    "phone_number": "+91 78330 43957",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main chonk tarkwari, Tarkwari, Himachal Pradesh 176045",
+    "area": "174311",
+    "latitude": 31.656440099999998,
+    "longitude": 76.63817759999999,
+    "place_id": "ChIJKxo0--3XBDkRaqOKrZn3ut0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxo0--3XBDkRaqOKrZn3ut0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:52:42"
+  },
+  {
+    "business_name": "Fresh Blooms Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "174311",
+    "phone_number": "+91 99995 59080",
+    "website": "http://www.freshbloomsflorist.com/",
+    "rating": 4.9,
+    "reviews_count": 316,
+    "address": "Near Archies Galery, SCF-51, near Police chokwi, Sector 15, Faridabad, Haryana 121007",
+    "area": "Sector 15",
+    "latitude": 28.3952352,
+    "longitude": 77.3232518,
+    "place_id": "ChIJCwbKWCjdDDkRzyj2Bf78gjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwbKWCjdDDkRzyj2Bf78gjA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:52:45"
+  }
+]

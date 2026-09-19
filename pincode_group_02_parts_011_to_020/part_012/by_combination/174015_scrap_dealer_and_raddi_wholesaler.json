@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CRUSH CARS",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Recycling center",
+    "all_categories": "Recycling center",
+    "pincode": "174015",
+    "phone_number": "+91 98730 00573",
+    "website": "http://crushcars.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PP Tower, 8th, 2, Netaji Subhash Place, Pitampura, Delhi 110034",
+    "area": "Netaji Subhash Place, Pitampura",
+    "latitude": 28.6932847,
+    "longitude": 77.1517999,
+    "place_id": "ChIJq6r6TjMCDTkRJT5cI1Csaq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6r6TjMCDTkRJT5cI1Csaq4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:25"
+  },
+  {
+    "business_name": "Plastic scrap",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Telephone company",
+    "all_categories": "Telephone company",
+    "pincode": "174015",
+    "phone_number": "N/A",
+    "website": "https://abplastics.tradeindia.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Tikri kala, Tikri border, Dekhi, Delhi, 110041",
+    "area": "Tikri border, Dekhi",
+    "latitude": 28.671279799999997,
+    "longitude": 76.9644593,
+    "place_id": "ChIJMZlukV4PDTkRHzyLqFg_eDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZlukV4PDTkRHzyLqFg_eDc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:25"
+  }
+]

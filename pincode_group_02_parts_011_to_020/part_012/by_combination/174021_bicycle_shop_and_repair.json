@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramdev Cycle Sales & Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "174021",
+    "phone_number": "+91 97837 81002",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 41,
+    "address": "Sr. No. 209, Nali Road, opp. Ajit Auto Care, Bhagirathi Nagar, Sadhunana Tupe Vasti, Sade Satra Nali, Hadapsar, Pune, Maharashtra 411028",
+    "area": "Bhagirathi Nagar, Sadhunana Tupe Vasti, Sade Satra Nali, Hadapsar",
+    "latitude": 18.5079377,
+    "longitude": 73.9426431,
+    "place_id": "ChIJLT3w-xvCwjsRnCTD1F8DCnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLT3w-xvCwjsRnCTD1F8DCnk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:23"
+  },
+  {
+    "business_name": "Harsh bike repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "174021",
+    "phone_number": "+91 80913 80429",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naswal, Ghumarwin, Himachal Pradesh 174021",
+    "area": "174021",
+    "latitude": 31.472901,
+    "longitude": 76.6843045,
+    "place_id": "ChIJVdMYTOs7BTkReHarrHi-GcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdMYTOs7BTkReHarrHi-GcA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:25"
+  }
+]

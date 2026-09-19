@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sushil plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "175013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Kais Himachal Pradesh india kullu 175101, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.959238799999998,
+    "longitude": 77.10895699999999,
+    "place_id": "ChIJERTXrsX3BDkRogHMWek1fIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERTXrsX3BDkRogHMWek1fIo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:39:18"
+  },
+  {
+    "business_name": "Rahul Rokku Plumbing Service",
+    "search_category": "Plumber",
+    "primary_category": "Serviced accommodation",
+    "all_categories": "Serviced accommodation",
+    "pincode": "175013",
+    "phone_number": "+91 98160 62961",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village pantehar Post office Ghirtholi, tehsil, Baijnath, Himachal Pradesh 176125",
+    "area": "tehsil",
+    "latitude": 32.0369726,
+    "longitude": 76.6468707,
+    "place_id": "ChIJw5Yz4La5BDkR1Wf0Nx8s_jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5Yz4La5BDkR1Wf0Nx8s_jk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:39:19"
+  }
+]

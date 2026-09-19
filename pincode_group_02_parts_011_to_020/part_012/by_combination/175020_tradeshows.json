@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gifts World Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center, Event management company, Event venue, Exhibition planner",
+    "pincode": "175020",
+    "phone_number": "+91 11 4646 4848",
+    "website": "https://www.giftsworldexpo.com/",
+    "rating": 4.1,
+    "reviews_count": 17,
+    "address": "9 LGF, Sant Nagar, East of Kailash, New Delhi, Delhi 110065",
+    "area": "Sant Nagar, East of Kailash",
+    "latitude": 28.554177499999998,
+    "longitude": 77.2512917,
+    "place_id": "ChIJE13ZYfzjDDkRfwd1CRudNWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE13ZYfzjDDkRfwd1CRudNWE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:23"
+  },
+  {
+    "business_name": "Exhibition Stall Designer",
+    "search_category": "Tradeshows",
+    "primary_category": "Trade fair construction company",
+    "all_categories": "Trade fair construction company, Design agency, Exhibition and trade center, Kiosk, Stall installation service",
+    "pincode": "175020",
+    "phone_number": "+91 70458 35386",
+    "website": "https://exhibitionstalldesigner.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Police Ground, 4B, New BDD Building, Ground floor, Room No. 2 (office), Dahivalkar Bhuva Marg, Naigaon, Dadar East, Mumbai, Maharashtra 400014",
+    "area": "Police Colony, Dadar East",
+    "latitude": 19.0089276,
+    "longitude": 72.8457478,
+    "place_id": "ChIJd43MS-HO5zsRKDD_Mli814g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd43MS-HO5zsRKDD_Mli814g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:24"
+  }
+]

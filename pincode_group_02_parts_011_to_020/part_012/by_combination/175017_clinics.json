@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "175017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GW2X+Q85, Jai Devi, Himachal Pradesh 175031",
+    "area": "175017",
+    "latitude": 31.501893199999998,
+    "longitude": 76.9483587,
+    "place_id": "ChIJjTo1BegRBTkRmwPsTcrfcEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTo1BegRBTkRmwPsTcrfcEg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:46:31"
+  },
+  {
+    "business_name": "ULTRATECH OHS CENTRE",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8VMC+V64, D.P.F.Sagan, Himachal Pradesh 171102",
+    "area": "175017",
+    "latitude": 31.334646499999998,
+    "longitude": 76.8705662,
+    "place_id": "ChIJSdangT8VBTkROiPV4HuFq9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdangT8VBTkROiPV4HuFq9s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:46:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Gaurav Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "174505",
+    "phone_number": "+91 93226 67589",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gala No. 1, KKK Compound, Hari Masjid, B 4/A, Khairani Rd, Andheri, Yadav Nagar, Chandivali, Saki Naka, Mumbai, Maharashtra 400072",
+    "area": "Andheri, Yadav Nagar, Chandivali, Saki Naka",
+    "latitude": 19.1074914,
+    "longitude": 72.89312819999999,
+    "place_id": "ChIJK_cThHnI5zsR9ZpW7oulzxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_cThHnI5zsR9ZpW7oulzxE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:13:21"
+  },
+  {
+    "business_name": "Om Event Planner & Catering Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "174505",
+    "phone_number": "N/A",
+    "website": "https://omeventplanner.in/",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "Om Event Planner & Catering Services, 174505, India",
+    "area": "174505",
+    "latitude": 26.4243566,
+    "longitude": 80.3275349,
+    "place_id": "ChIJG27JHom5OKcRjCpiqVy-KNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG27JHom5OKcRjCpiqVy-KNQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:13:23"
+  }
+]

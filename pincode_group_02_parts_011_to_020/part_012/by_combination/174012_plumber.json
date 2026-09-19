@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Plumber Dehradun",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "174012",
+    "phone_number": "+91 96393 85930",
+    "website": "https://royalplumber2.netlify.app/",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "GMS Rd, Baliwala chowk, Kaonli, Dehradun, Uttarakhand 248001",
+    "area": "Baliwala chowk, Kaonli",
+    "latitude": 30.322844,
+    "longitude": 78.01339209999999,
+    "place_id": "ChIJTwp24Z4rCTkRMXfin-BeUYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTwp24Z4rCTkRMXfin-BeUYA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:53:07"
+  },
+  {
+    "business_name": "Malik Plumber services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "174012",
+    "phone_number": "+91 94129 09423",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 249,
+    "address": "Chaudhary medical store, Pilikothi, Mukhani, Haldwani, Uttarakhand 263139",
+    "area": "Pilikothi",
+    "latitude": 29.218263999999998,
+    "longitude": 79.51297699999999,
+    "place_id": "ChIJFXx4do2boDkR2-4LSShKa4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXx4do2boDkR2-4LSShKa4g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:53:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "175003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QV4F+R72, Kotli, Himachal Pradesh 175003",
+    "area": "175003",
+    "latitude": 31.757017599999998,
+    "longitude": 76.8731395,
+    "place_id": "ChIJ9T_-LwDhBDkRSY29ap795lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9T_-LwDhBDkRSY29ap795lQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:20:08"
+  },
+  {
+    "business_name": "Shiva jewellers anku soni",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "175003",
+    "phone_number": "+91 98571 06278",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "p.o, Vill, Chhatter Rd, Brang, Himachal Pradesh 175024",
+    "area": "175003",
+    "latitude": 31.749567,
+    "longitude": 76.7901971,
+    "place_id": "ChIJfebLkT3fBDkRoS5612DbqUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfebLkT3fBDkRoS5612DbqUM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:20:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay Financial Services",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Insurance agency, Insurance broker, Investment service, Financial planner",
+    "pincode": "174024",
+    "phone_number": "+91 94997 56942",
+    "website": "https://shivayfinancial.com/",
+    "rating": 4.9,
+    "reviews_count": 185,
+    "address": "5th, Shyam, Raiya Rd, near Ambika Park Society, Hanuman Madhi Chowk, Nagrik Bank Society, Gulab Nagar, Rajkot, Gujarat 360007",
+    "area": "Hanuman Madhi Chowk, Nagrik Bank Society, Gulab Nagar",
+    "latitude": 22.299723399999998,
+    "longitude": 70.7771116,
+    "place_id": "ChIJqZ3GRf3JWTkRvtfnKDlhnBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZ3GRf3JWTkRvtfnKDlhnBU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:04:51"
+  },
+  {
+    "business_name": "StockAnts",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "174024",
+    "phone_number": "+91 93217 65323",
+    "website": "https://www.stockants.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "407, On, Runwal Square, Lal Bahadur Shastri Marg, Vardhman Nagar, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Vardhman Nagar, Mulund West",
+    "latitude": 19.1819627,
+    "longitude": 72.94702,
+    "place_id": "ChIJu2Sk78q55zsRuAjgquGK4ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2Sk78q55zsRuAjgquGK4ZM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:04:54"
+  }
+]

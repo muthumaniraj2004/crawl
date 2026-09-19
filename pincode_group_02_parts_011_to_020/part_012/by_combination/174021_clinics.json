@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vashisht Medical Center",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "174021",
+    "phone_number": "+91 98162 23593",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Padyalag, Bilaspur, NH-88, Shimla Kangra Road, Ghumarwin, Ghumarwin, Himachal Pradesh 174023",
+    "area": "174021",
+    "latitude": 31.4981878,
+    "longitude": 76.6625682,
+    "place_id": "ChIJbz3EHGslBTkRVfm-J6hfw2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbz3EHGslBTkRVfm-J6hfw2U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:09"
+  },
+  {
+    "business_name": "Swastik Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174021",
+    "phone_number": "+91 94182 55445",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Padyalag, Bilaspur, NH-88, Shimla Kangra Road, Ghumarwin, Ghumarwin, Himachal Pradesh 174023",
+    "area": "174021",
+    "latitude": 31.4983486,
+    "longitude": 76.6628597,
+    "place_id": "ChIJVSDXHmslBTkR2GkY2i_1Dfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSDXHmslBTkR2GkY2i_1Dfc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:11"
+  }
+]

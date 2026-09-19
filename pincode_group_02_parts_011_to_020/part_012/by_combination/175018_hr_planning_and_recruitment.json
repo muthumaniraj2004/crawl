@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Corporate Care",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "175018",
+    "phone_number": "+91 85805 70421",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35MC+94W, Sector 2, New Shimla, Shimla, Himachal Pradesh 171009",
+    "area": "Sector 2, New Shimla",
+    "latitude": 31.083479099999998,
+    "longitude": 77.1703394,
+    "place_id": "ChIJzbf3RgB5BTkRpsqzvf3km0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbf3RgB5BTkRpsqzvf3km0g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:49:31"
+  },
+  {
+    "business_name": "Himachal Pradesh Power Transmission Corporation Limited",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "State government office",
+    "all_categories": "State government office",
+    "pincode": "175018",
+    "phone_number": "+91 177 283 1283",
+    "website": "http://www.hpptcl.com/",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "Near, Shimla Bypass (below Old MLA Quarters, Tutikandi, Panjari, Himachal Pradesh 171004",
+    "area": "Tutikandi",
+    "latitude": 31.1002758,
+    "longitude": 77.1450251,
+    "place_id": "ChIJU5aWgLh4BTkRfXbocoq7x14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5aWgLh4BTkRfXbocoq7x14",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:49:31"
+  }
+]

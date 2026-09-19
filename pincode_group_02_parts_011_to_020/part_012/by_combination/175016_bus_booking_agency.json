@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev mannutaxi service,taramat,himachal pardesh",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "175016",
+    "phone_number": "+91 80767 09310",
+    "website": "http://manutaxiservice.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "village post office, vpo, teh, Joginder Nagar, Taramat, Himachal Pradesh 175032",
+    "area": "Joginder Nagar",
+    "latitude": 32.0053124,
+    "longitude": 76.706141,
+    "place_id": "ChIJZQ5HQg_HBDkRpsXGlE4l2W0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQ5HQg_HBDkRpsXGlE4l2W0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:44:50"
+  },
+  {
+    "business_name": "keshav tour and travel",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service, Tour operator",
+    "pincode": "175016",
+    "phone_number": "+91 98163 24941",
+    "website": "http://keshavtourandtravel.in/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "post office Himmer, Tehsil, Panjot, Tauni Devi, Himachal Pradesh 177023",
+    "area": "Tehsil",
+    "latitude": 31.708026,
+    "longitude": 76.6402013,
+    "place_id": "ChIJG42TYQLXBDkRWN_P5gOCbb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG42TYQLXBDkRWN_P5gOCbb0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:44:51"
+  }
+]

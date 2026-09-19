@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The style zone salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Hair salon",
+    "pincode": "174103",
+    "phone_number": "+91 82951 37648",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pinjore-Baddi-Nalagarh Rd, near by government senior secondary school, near Gurudwara tej general store, Karanpur, Haryana 134102",
+    "area": "174103",
+    "latitude": 30.8657716,
+    "longitude": 76.8662161,
+    "place_id": "ChIJtaMEHQCLDzkRgl5jhE2kOV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtaMEHQCLDzkRgl5jhE2kOV8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:16"
+  },
+  {
+    "business_name": "Top Touch Makeover By Alka",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "174103",
+    "phone_number": "+91 62396 17599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House no 69, basanti bagh, Baddi, Himachal Pradesh 173205",
+    "area": "basanti bagh",
+    "latitude": 30.942017,
+    "longitude": 76.80477119999999,
+    "place_id": "ChIJR_8AfRpfBTkRA5xX9wya4Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_8AfRpfBTkRA5xX9wya4Vs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:17"
+  }
+]

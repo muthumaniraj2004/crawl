@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cab Service in mandi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "174013",
+    "phone_number": "+91 98051 06100",
+    "website": "https://cab-service-in.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "bus stand, Kartarpur, Mandi, Himachal Pradesh 175001",
+    "area": "Kartarpur",
+    "latitude": 31.7063703,
+    "longitude": 76.9345237,
+    "place_id": "ChIJHYUCW6_jBDkRFbw2ApZAIPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYUCW6_jBDkRFbw2ApZAIPg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:46"
+  },
+  {
+    "business_name": "Aryan travel's",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "174013",
+    "phone_number": "+91 98055 81987",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VPO, Teh, Jarol, Sundar Nagar, Himachal Pradesh 175018",
+    "area": "174013",
+    "latitude": 31.459207,
+    "longitude": 76.861188,
+    "place_id": "ChIJ8chr8rsXBTkRL7oj91wb6EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8chr8rsXBTkRL7oj91wb6EA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:47"
+  }
+]

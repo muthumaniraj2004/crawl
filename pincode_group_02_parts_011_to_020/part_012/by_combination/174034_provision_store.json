@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "99 Store Gehrwin",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174034",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Salasi Road, Gehrwin, Khirsi, Himachal Pradesh 174034",
+    "area": "174034",
+    "latitude": 31.352612699999998,
+    "longitude": 76.6962527,
+    "place_id": "ChIJ22VtawA5BTkRZU_tflbBC7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22VtawA5BTkRZU_tflbBC7E",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:20:00"
+  },
+  {
+    "business_name": "Ravinder general Store",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store, General store",
+    "pincode": "174034",
+    "phone_number": "+91 88945 16083",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samoh, Teh. Jhandutta, Dist, Himachal Pradesh 174021",
+    "area": "174034",
+    "latitude": 31.3958536,
+    "longitude": 76.6896028,
+    "place_id": "ChIJ7XnqQQA7BTkRxVhZBdOHFHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XnqQQA7BTkRxVhZBdOHFHM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:20:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAMBARDAR TEURI",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "174302",
+    "phone_number": "+91 88941 28400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Himachal Pradesh 174303",
+    "area": "174302",
+    "latitude": 31.535383099999997,
+    "longitude": 76.21768089999999,
+    "place_id": "ChIJsR9cg-jZGjkRpCqwYJzEvwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsR9cg-jZGjkRpCqwYJzEvwo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:36:25"
+  },
+  {
+    "business_name": "KC HOUSE",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Condominium rental agency",
+    "all_categories": "Condominium rental agency",
+    "pincode": "174302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H6G9+753, Dhusara Awal, Himachal Pradesh 174302",
+    "area": "174302",
+    "latitude": 31.5756397,
+    "longitude": 76.2179178,
+    "place_id": "ChIJt9gIAwDZGjkRHXd9fX_KsJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9gIAwDZGjkRHXd9fX_KsJA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:36:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehra Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "174304",
+    "phone_number": "+91 70188 79290",
+    "website": "https://sites.google.com/view/mehra-bag-house",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V.P.O, Kangra Rd, Ghurkari, Kangra, Himachal Pradesh 176001",
+    "area": "174304",
+    "latitude": 32.1267008,
+    "longitude": 76.2905837,
+    "place_id": "ChIJzVuETI5PGzkRyuYd8BJAulM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVuETI5PGzkRyuYd8BJAulM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:38:59"
+  },
+  {
+    "business_name": "Rahul Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "174304",
+    "phone_number": "+91 86289 01200",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhauladhar Colony, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "Dhauladhar Colony",
+    "latitude": 32.108058,
+    "longitude": 76.38033779999999,
+    "place_id": "ChIJJQH09K5NGzkRb-KCVy5n8yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQH09K5NGzkRb-KCVy5n8yI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:38:59"
+  }
+]

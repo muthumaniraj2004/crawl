@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raajveer Event Planner",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist",
+    "pincode": "174021",
+    "phone_number": "+91 96916 05732",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Civil Line Rd, Tilak Nagar, Bilaspur, Chhattisgarh 495001",
+    "area": "174021",
+    "latitude": 22.0887975,
+    "longitude": 82.1466961,
+    "place_id": "ChIJL0tcQhYLKDoRMSldJIosglw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0tcQhYLKDoRMSldJIosglw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:45"
+  },
+  {
+    "business_name": "Balloons Art Party Shop",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Party store, Balloon store, Event management company, Gift shop, Helium gas supplier, Party equipment rental service, Party planner",
+    "pincode": "174021",
+    "phone_number": "+91 83095 06429",
+    "website": "https://balloonsartevents.com/",
+    "rating": 5,
+    "reviews_count": 537,
+    "address": "Shutter No.1, Pillar No 41, Kondapur, Hanuman Nagar, Prashanth Nagar Colony, Kondapur, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Hanuman Nagar, Prashanth Nagar Colony, Kondapur",
+    "latitude": 17.463497399999998,
+    "longitude": 78.36701819999999,
+    "place_id": "ChIJrULA-DyTyzsRACFJ7G-RwQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrULA-DyTyzsRACFJ7G-RwQ4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:00:47"
+  }
+]

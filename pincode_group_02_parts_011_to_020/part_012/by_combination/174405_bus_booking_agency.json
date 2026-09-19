@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhawani Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Bus charter, Bus ticket agency, Bus tour agency, Railway Ticket Agent",
+    "pincode": "174405",
+    "phone_number": "+91 92160 60002",
+    "website": "http://www.bhawanibus.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Hall Gate Cir, Pink Plaza Market, Hathi Gate, Katra Ahluwalia, Amritsar, Punjab 143001",
+    "area": "Pink Plaza Market, Hathi Gate, Katra Ahluwalia",
+    "latitude": 31.631704499999998,
+    "longitude": 74.8737964,
+    "place_id": "ChIJJYxUDapkGTkRY6eVkdDttSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYxUDapkGTkRY6eVkdDttSg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:09:12"
+  },
+  {
+    "business_name": "Samay Shatabdi Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "174405",
+    "phone_number": "+91 84004 94222",
+    "website": "http://www.bookshatabdibus.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ground Floor, F865+5W5 Hotel Khanjan Building, Fazalganj Chauraha, Fazalganj Industrial Estate, Fazalganj, Shastri Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Fazalganj Industrial Estate, Fazalganj, Shastri Nagar",
+    "latitude": 26.460591599999997,
+    "longitude": 80.30703,
+    "place_id": "ChIJOUgvv4hHnDkRp6PSEnDZREQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUgvv4hHnDkRp6PSEnDZREQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:09:12"
+  }
+]

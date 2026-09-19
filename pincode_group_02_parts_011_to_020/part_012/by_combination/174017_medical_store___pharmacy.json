@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sharma Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "174017",
+    "phone_number": "+91 83510 91511",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Poli road Thuran Poli road Thuran Poli, road, Thuran, Himachal Pradesh 174034",
+    "area": "174017",
+    "latitude": 31.319888199999998,
+    "longitude": 76.7171394,
+    "place_id": "ChIJ2aTMJpA5BTkRg6U9ghm30qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aTMJpA5BTkRg6U9ghm30qk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:58:11"
+  },
+  {
+    "business_name": "Shri Gurudev Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "174017",
+    "phone_number": "+91 70185 01899",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "18/4, Hospital Rd, Palace Colony, Mandi, Himachal Pradesh 175001",
+    "area": "Palace Colony",
+    "latitude": 31.710225899999998,
+    "longitude": 76.9278683,
+    "place_id": "ChIJ2wFyLVbjBDkRGYKJ3e_c4MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wFyLVbjBDkRGYKJ3e_c4MY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:58:11"
+  }
+]

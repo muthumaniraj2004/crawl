@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Whoopers Boutique Resort",
+    "search_category": "Guesthouse",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Boutique, Hotel",
+    "pincode": "175017",
+    "phone_number": "+91 85807 91218",
+    "website": "https://www.whoopers.in/jibhi",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jibhi, Bini, Himachal Pradesh 175123",
+    "area": "175017",
+    "latitude": 31.597781899999998,
+    "longitude": 77.3502511,
+    "place_id": "ChIJld9XWF-vBTkRsP7pHwBDEww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJld9XWF-vBTkRsP7pHwBDEww",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:47:13"
+  },
+  {
+    "business_name": "IndianOil",
+    "search_category": "Guesthouse",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump, Compressed natural gas station, Diesel fuel supplier, Fuel supplier",
+    "pincode": "175017",
+    "phone_number": "+91 98160 70065",
+    "website": "https://locator.iocl.com/indianoil-nikhil-filling-station-petrol-pump-slapper-mandi-238485/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ground Floor, Sunder Nagar, Slapper - Khurahal Rd, near Mid Way Hotel, Himachal Pradesh 175017",
+    "area": "175017",
+    "latitude": 31.4151842,
+    "longitude": 76.8535009,
+    "place_id": "ChIJ8y2rlG0WBTkRMtcHlfFw9R0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y2rlG0WBTkRMtcHlfFw9R0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:47:16"
+  }
+]

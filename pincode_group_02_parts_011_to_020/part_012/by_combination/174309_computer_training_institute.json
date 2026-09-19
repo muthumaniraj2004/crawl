@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "World Computer Zone",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Camera repair shop, Repair service",
+    "pincode": "174309",
+    "phone_number": "+91 98163 73382",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 18,
+    "address": "Jassur, Jasur Khas, Himachal Pradesh 176201",
+    "area": "174309",
+    "latitude": 32.2824392,
+    "longitude": 75.8501125,
+    "place_id": "ChIJZQXp6CKDHDkRVyPsjiEk9es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQXp6CKDHDkRVyPsjiEk9es",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:49:14"
+  },
+  {
+    "business_name": "Computer Zone",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer Wholesaler",
+    "all_categories": "Computer Wholesaler",
+    "pincode": "174309",
+    "phone_number": "+91 98051 08851",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VPO, teh, sadar, Barmana, Himachal Pradesh 174013",
+    "area": "sadar",
+    "latitude": 31.415886999999998,
+    "longitude": 76.83023589999999,
+    "place_id": "ChIJNwM7DWUXBTkRUp-1am1dLKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwM7DWUXBTkRUp-1am1dLKI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:49:14"
+  }
+]

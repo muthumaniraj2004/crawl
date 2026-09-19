@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Physiolight Infinity",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "174312",
+    "phone_number": "+91 82193 55171",
+    "website": "http://physiolightinfinity.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Physiolight clinic, near Sai Library, Dari, Jhikli Barol, Dharamshala, Himachal Pradesh 176215",
+    "area": "Dari",
+    "latitude": 32.2013707,
+    "longitude": 76.333316,
+    "place_id": "ChIJhXg6B71TGzkRI7KSHg0BxbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXg6B71TGzkRI7KSHg0BxbY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:54:01"
+  },
+  {
+    "business_name": "Care Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "174312",
+    "phone_number": "+91 94597 06337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NH-05 Kochari ( New Jeori, Teh, Rampur Bushahr, Shimla, Himachal Pradesh 172101",
+    "area": "174312",
+    "latitude": 31.5234894,
+    "longitude": 77.7713775,
+    "place_id": "ChIJb2VWWhPbBTkRkLiemZYVcko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2VWWhPbBTkRkLiemZYVcko",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:54:03"
+  }
+]

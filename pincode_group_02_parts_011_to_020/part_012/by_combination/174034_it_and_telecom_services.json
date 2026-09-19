@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "174034",
+    "phone_number": "+91 94590 30467",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VILL. MEKHWIN P.O. GEHARWIN TEH, DISTT, JHANDUTTA, HAMIRPUR, Himachal Pradesh 174034",
+    "area": "JHANDUTTA",
+    "latitude": 31.352137,
+    "longitude": 76.694602,
+    "place_id": "ChIJzxaGOQ05BTkR0aqu7a3obXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxaGOQ05BTkR0aqu7a3obXw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:21:22"
+  },
+  {
+    "business_name": "CSC Jabloo",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "174034",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8MPF+565, Tikri, Himachal Pradesh 174034",
+    "area": "174034",
+    "latitude": 31.335294299999997,
+    "longitude": 76.6733433,
+    "place_id": "ChIJe9qgT4o5BTkReClI640KzXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9qgT4o5BTkReClI640KzXU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:21:23"
+  }
+]

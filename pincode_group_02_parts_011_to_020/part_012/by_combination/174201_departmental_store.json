@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "raj Daily Needs Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "174201",
+    "phone_number": "+91 75085 75065",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "m.p Kothi Nangal, Distt, p.o, Partap Nagar, vill, Kathera, Ropar, Punjab 140125",
+    "area": "p.o, Partap Nagar, vill",
+    "latitude": 31.3592861,
+    "longitude": 76.3796394,
+    "place_id": "ChIJH-qRkvbNGjkRFEqycV4C4zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-qRkvbNGjkRFEqycV4C4zo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:09"
+  },
+  {
+    "business_name": "RCM Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "174201",
+    "phone_number": "+91 99141 99331",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badyal RCM PUC, Main Road, Brahmpur, Punjab 140125",
+    "area": "174201",
+    "latitude": 31.3320382,
+    "longitude": 76.4033108,
+    "place_id": "ChIJg6PPAgDLGjkRSz_zm8euZ08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6PPAgDLGjkRSz_zm8euZ08",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One way taxi services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "174032",
+    "phone_number": "+91 79996 95570",
+    "website": "https://onewaytaxiservices.net/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sipat chock, New Sarkanda, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "area": "New Sarkanda, Sarkanda",
+    "latitude": 22.0955104,
+    "longitude": 82.1446579,
+    "place_id": "ChIJefpFPy4LKDoRhRYFKn90oVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefpFPy4LKDoRhRYFKn90oVQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:17:02"
+  },
+  {
+    "business_name": "Himachali Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "174032",
+    "phone_number": "+91 98171 04372",
+    "website": "http://www.alfatravelblog.com/2025/12/best-car-taxi-in-bilaspur-hp-india.html",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Deoth, Himachal Pradesh 174001",
+    "area": "174032",
+    "latitude": 31.245347,
+    "longitude": 76.8112677,
+    "place_id": "ChIJwcELEa9BBTkRNbZ8NnMFvsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcELEa9BBTkRNbZ8NnMFvsI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:17:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandel Homes Jajri",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "174029",
+    "phone_number": "+91 98168 50899",
+    "website": "http://travelwithanki.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CJC8+93W, Jajri , Post Office Raili-Jajri, Tehsil, Himachal Pradesh 176039",
+    "area": "174029",
+    "latitude": 31.420995299999998,
+    "longitude": 76.6152039,
+    "place_id": "ChIJuy2icwAxBTkROeCTPdrMab8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuy2icwAxBTkROeCTPdrMab8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:17"
+  },
+  {
+    "business_name": "Vikas bhawan",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "174029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vikas bhawan, Amroha, Jhanduta, Himachal Pradesh 174031",
+    "area": "174029",
+    "latitude": 31.3711347,
+    "longitude": 76.6427171,
+    "place_id": "ChIJxUIAHwA5BTkRAL3vYZ8SNIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUIAHwA5BTkRAL3vYZ8SNIA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:19"
+  }
+]

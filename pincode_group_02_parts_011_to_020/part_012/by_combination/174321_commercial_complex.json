@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Market complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "174321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Green Avenue Rakkar, Himachal Pradesh 174306",
+    "area": "Green Avenue Rakkar",
+    "latitude": 31.458321899999998,
+    "longitude": 76.3111126,
+    "place_id": "ChIJGapniPHRGjkR5mkkBghXX8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGapniPHRGjkR5mkkBghXX8w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:08:27"
+  },
+  {
+    "business_name": "Er. Raj Kumar (Consulting Engineers & Contractors)",
+    "search_category": "Commercial Complex",
+    "primary_category": "Civil engineering company",
+    "all_categories": "Civil engineering company",
+    "pincode": "174321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, CD Shopping Complex, Mohalla Khad par along HDFC Bank, Nangal Rd, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.463048899999997,
+    "longitude": 76.2799263,
+    "place_id": "ChIJJde6aMXRGjkRUG77yGlrKHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJde6aMXRGjkRUG77yGlrKHU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:08:27"
+  }
+]

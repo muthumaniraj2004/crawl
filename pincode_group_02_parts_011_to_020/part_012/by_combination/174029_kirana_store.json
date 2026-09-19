@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhatwalia Ganral Shop",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174029",
+    "phone_number": "+91 98058 08695",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhatwalia Ganral Store, Road, Halipad, Malangan, Himachal Pradesh 174029",
+    "area": "Halipad",
+    "latitude": 31.3885024,
+    "longitude": 76.6108907,
+    "place_id": "ChIJ3fHQRn8xBTkRGQKMZp2pcdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fHQRn8xBTkRGQKMZp2pcdQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:10:48"
+  },
+  {
+    "business_name": "Jai baba balak nath kirana Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "GH68+9F4, Hari Talyangar, Himachal Pradesh 176040",
+    "area": "174029",
+    "latitude": 31.5104799,
+    "longitude": 76.56555159999999,
+    "place_id": "ChIJpQPaIjUvBTkRTVr3K2Y9SzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQPaIjUvBTkRTVr3K2Y9SzU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:10:49"
+  }
+]

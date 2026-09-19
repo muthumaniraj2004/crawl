@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HPPWD Rest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "175004",
+    "phone_number": "+91 1905 230 034",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "JQ23+WGG, Bhambla Trifalghat Kalkhar Rd, Bhamla, Himachal Pradesh 175004",
+    "area": "175004",
+    "latitude": 31.602319599999998,
+    "longitude": 76.75384199999999,
+    "place_id": "ChIJS-HLUjwhBTkRghtv_o3j3rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-HLUjwhBTkRghtv_o3j3rc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:22:46"
+  },
+  {
+    "business_name": "Prashar valley mud house",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "175004",
+    "phone_number": "+91 94593 20833",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Village teel post shegli tesel, sadar, Himachal Pradesh 175005",
+    "area": "sadar",
+    "latitude": 31.771618099999998,
+    "longitude": 77.0633297,
+    "place_id": "ChIJN3QtSgD9BDkRw30L2-DNkoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3QtSgD9BDkRw30L2-DNkoM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:22:47"
+  }
+]

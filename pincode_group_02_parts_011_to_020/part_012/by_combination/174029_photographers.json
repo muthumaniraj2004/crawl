@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "174029",
+    "phone_number": "N/A",
+    "website": "http://www.vishalphotography.com/",
+    "rating": 4.5,
+    "reviews_count": 20,
+    "address": "FGJX+XQ2, Bijhari - Deotsidh Rd, Himachal Pradesh 176039",
+    "area": "174029",
+    "latitude": 31.4823956,
+    "longitude": 76.5493949,
+    "place_id": "ChIJ88RhgaovBTkRXR4YD7XcsXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88RhgaovBTkRXR4YD7XcsXQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:11:52"
+  },
+  {
+    "business_name": "Jai Ambay Digital Studio Dhangota",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "174029",
+    "phone_number": "+91 98167 26078",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VPO dhangota, teh, dhatwal, Himachal Pradesh 176040",
+    "area": "dhatwal",
+    "latitude": 31.5382827,
+    "longitude": 76.5756641,
+    "place_id": "ChIJZfNBsT4vBTkRa7csAwuOfbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfNBsT4vBTkRa7csAwuOfbo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:11:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ujjwal Sweet Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174031",
+    "phone_number": "+91 82194 76548",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jhandutta Rd, opposite Bus stand, Jhanduta, Himachal Pradesh 174031",
+    "area": "174031",
+    "latitude": 31.370094299999998,
+    "longitude": 76.6450486,
+    "place_id": "ChIJmcAiMJ45BTkR3d0c-hfXeKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcAiMJ45BTkR3d0c-hfXeKo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:44"
+  },
+  {
+    "business_name": "krishna ice creame and ice",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "174031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CM83+64W, doon, Sargal, Himachal Pradesh 174029",
+    "area": "174031",
+    "latitude": 31.4156193,
+    "longitude": 76.6528225,
+    "place_id": "ChIJbVjxXQA7BTkRhx0wsaPlx_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVjxXQA7BTkRhx0wsaPlx_E",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:44"
+  }
+]

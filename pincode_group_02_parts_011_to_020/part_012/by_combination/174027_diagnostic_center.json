@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub centre badi chowk",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "174027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HJGX+3W3, Ghandalwin, Himachal Pradesh 174027",
+    "area": "174027",
+    "latitude": 31.5751426,
+    "longitude": 76.6498086,
+    "place_id": "ChIJ2VKpLwAnBTkR61FVIrAwWaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VKpLwAnBTkR61FVIrAwWaA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:37"
+  },
+  {
+    "business_name": "PHC Saned",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "174027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "HJG7+Q9Q, Unnamed Road, Saned, Himachal Pradesh 176043",
+    "area": "174027",
+    "latitude": 31.576950699999998,
+    "longitude": 76.6134737,
+    "place_id": "ChIJTch5VxgpBTkRncM56ExLujI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTch5VxgpBTkRncM56ExLujI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:37"
+  }
+]

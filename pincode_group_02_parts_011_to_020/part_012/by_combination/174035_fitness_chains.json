@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay fitness club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "174035",
+    "phone_number": "+91 70189 54550",
+    "website": "http://vijayfitnessclub.my.canva.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground, Shangri Complex, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.957941899999998,
+    "longitude": 77.10809189999999,
+    "place_id": "ChIJKRyTStT3BDkRSYddYwVdy8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRyTStT3BDkRSYddYwVdy8Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:22:27"
+  },
+  {
+    "business_name": "Ignite (The Fitness Era)",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Gymnasium school",
+    "pincode": "174035",
+    "phone_number": "+91 94184 37109",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mohal Rd, Mohal, Himachal Pradesh 175126",
+    "area": "174035",
+    "latitude": 31.9148806,
+    "longitude": 77.1269705,
+    "place_id": "ChIJsxhWoiL3BDkRyC6rQhNHBlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxhWoiL3BDkRyC6rQhNHBlo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:22:27"
+  }
+]

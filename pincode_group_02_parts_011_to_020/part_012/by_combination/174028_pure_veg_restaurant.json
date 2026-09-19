@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hill Top Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174028",
+    "phone_number": "+91 90548 50000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Upper Bhambla, Una - Jahu - Ner Chowk Rd, Himachal Pradesh 175004",
+    "area": "174028",
+    "latitude": 31.594330999999997,
+    "longitude": 76.75973599999999,
+    "place_id": "ChIJUzA_KGshBTkRTPrU1j70mFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzA_KGshBTkRTPrU1j70mFg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:05"
+  },
+  {
+    "business_name": "New Himalayan Heights Hotel and Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "174028",
+    "phone_number": "+91 98168 09009",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "P25H+7X, Sambal, Himachal Pradesh 175124",
+    "area": "174028",
+    "latitude": 31.7089528,
+    "longitude": 77.0298942,
+    "place_id": "ChIJGyYTR0r9BDkRLpfQAQ2EQFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyYTR0r9BDkRLpfQAQ2EQFY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:06"
+  }
+]

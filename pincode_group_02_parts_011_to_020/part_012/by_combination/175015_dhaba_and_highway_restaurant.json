@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Near, Bus Stand Gali, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.9906263,
+    "longitude": 76.7899607,
+    "place_id": "ChIJ32BuSADBBDkRaA9m66ot6lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32BuSADBBDkRaA9m66ot6lc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:24"
+  },
+  {
+    "business_name": "Vinod Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2Q2F+MXX, National Highway 20, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 32.0017482,
+    "longitude": 76.7749929,
+    "place_id": "ChIJT6sacYvABDkRcr0zimZ-N4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6sacYvABDkRcr0zimZ-N4U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:27"
+  }
+]

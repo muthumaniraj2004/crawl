@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chinna Dosaz",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175010",
+    "phone_number": "+91 99152 02835",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 942,
+    "address": "Ground Floor, SCO 143, Sector 28 D, Sector 28, Chandigarh, 160002",
+    "area": "Sector 28 D, Sector 28",
+    "latitude": 30.7187494,
+    "longitude": 76.8017165,
+    "place_id": "ChIJqZwCzojtDzkRD5kCAO9Vv6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZwCzojtDzkRD5kCAO9Vv6c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:33:03"
+  },
+  {
+    "business_name": "Chennai Maratha",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Maharashtrian Restaurant",
+    "pincode": "175010",
+    "phone_number": "+91 98155 85802",
+    "website": "http://www.chennaimaratha.com/",
+    "rating": 4.3,
+    "reviews_count": 153,
+    "address": "Booth no, 171, MCM DAV College Rd, Sector 36-D, Sector 36, Chandigarh, 160036",
+    "area": "Sector 36-D, Sector 36",
+    "latitude": 30.7340324,
+    "longitude": 76.7533217,
+    "place_id": "ChIJ4aZ69prtDzkRlCFHq5YfKlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aZ69prtDzkRlCFHq5YfKlc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:33:03"
+  }
+]

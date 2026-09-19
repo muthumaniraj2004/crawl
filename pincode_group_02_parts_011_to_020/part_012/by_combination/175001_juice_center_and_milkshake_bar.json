@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Treat",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Fast food restaurant, Restaurant",
+    "pincode": "175001",
+    "phone_number": "+91 94180 80937",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 268,
+    "address": "PW5J+PVV, Bangala Muhalla, Bhagwan Muhalla, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Bangala Muhalla, Bhagwan Muhalla, Samkhetar",
+    "latitude": 31.7093611,
+    "longitude": 76.9321623,
+    "place_id": "ChIJH2RgcTviBDkRD2QakcBtZGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2RgcTviBDkRD2QakcBtZGY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:08"
+  },
+  {
+    "business_name": "Delhi Juice & Ice Cream Milk Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "175001",
+    "phone_number": "+91 90731 31252",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 530,
+    "address": "Gate no-5, Quest Mall, 72, Beck Bagan Row, Park Circus, Ballygunge, Kolkata, West Bengal 700017",
+    "area": "Park Circus, Ballygunge",
+    "latitude": 22.5379027,
+    "longitude": 88.3676203,
+    "place_id": "ChIJUw7r1912AjoRpODjkMfEVQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUw7r1912AjoRpODjkMfEVQw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:09"
+  }
+]

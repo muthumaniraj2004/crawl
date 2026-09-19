@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nav Fashion Boutique",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Clothing store",
+    "pincode": "174503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaijon, Jaijon Doaba, Punjab 144530",
+    "area": "174503",
+    "latitude": 31.3466657,
+    "longitude": 76.1483232,
+    "place_id": "ChIJaY9R28bDGjkRLodH6RVvLNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY9R28bDGjkRLodH6RVvLNY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:37"
+  },
+  {
+    "business_name": "Kids Korner",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Cosmetics store, Clothing Accessories Store, Household goods wholesaler, Shoe store, Stationery store, Uniform store",
+    "pincode": "174503",
+    "phone_number": "+91 96252 86001",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "MDR45, Chari, Himachal Pradesh 176217",
+    "area": "174503",
+    "latitude": 32.205509,
+    "longitude": 76.2599103,
+    "place_id": "ChIJ75Br-XFaGzkR4hYWUOrsm_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75Br-XFaGzkR4hYWUOrsm_o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:40"
+  }
+]

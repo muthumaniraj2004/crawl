@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K. Auto Spares",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "175018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naresh Chowk, BBMB LAKE, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "BBMB LAKE",
+    "latitude": 31.5408935,
+    "longitude": 76.89677429999999,
+    "place_id": "ChIJRayqwZ8ZBTkRRSToToDhJMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRayqwZ8ZBTkRRSToToDhJMs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:46"
+  },
+  {
+    "business_name": "BABA SERVICE STATION MAHINDRA AUTHORIZED SERVICE CENTER",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "175018",
+    "phone_number": "N/A",
+    "website": "http://www.mahindra.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "MG8Q+CC3, Shimla - Kangra Rd, Hamirpur, Himachal Pradesh 177001",
+    "area": "175018",
+    "latitude": 31.666022499999997,
+    "longitude": 76.53854919999999,
+    "place_id": "ChIJgWMio9zVBDkRBksCdxhQiNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWMio9zVBDkRBksCdxhQiNY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:46"
+  }
+]

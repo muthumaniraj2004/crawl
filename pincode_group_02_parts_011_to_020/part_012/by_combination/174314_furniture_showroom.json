@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VASHIST FURNITURE HOUSE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "174314",
+    "phone_number": "+91 78760 05504",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "CHOWKI ROAD, Baruhi, Himachal Pradesh 177211",
+    "area": "174314",
+    "latitude": 31.6026967,
+    "longitude": 76.1843928,
+    "place_id": "ChIJY3nOWiknGzkREFYdBg7Vk7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3nOWiknGzkREFYdBg7Vk7M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:56:18"
+  },
+  {
+    "business_name": "Bairian",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J67F+78Q, Bairian, Chauki Maniar, Himachal Pradesh 174314",
+    "area": "174314",
+    "latitude": 31.613222099999998,
+    "longitude": 76.2233504,
+    "place_id": "ChIJg5h6UgAnGzkRSUPKyrhQiuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5h6UgAnGzkRSUPKyrhQiuY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:56:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana garments",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "175007",
+    "phone_number": "+91 97361 51516",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "Sulgwan - Bhareri Rd, Bhareri, Himachal Pradesh 177024",
+    "area": "175007",
+    "latitude": 31.651285599999998,
+    "longitude": 76.68837169999999,
+    "place_id": "ChIJr4XKb38nBTkR4gIqBi4Ypi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4XKb38nBTkR4gIqBi4Ypi4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:27:43"
+  },
+  {
+    "business_name": "Mudavanas Fashion Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "175007",
+    "phone_number": "+91 94463 33853",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Keecheripady road,Market, po, Muvattupuzha, Kerala 686673",
+    "area": "175007",
+    "latitude": 9.992213699999999,
+    "longitude": 76.58470299999999,
+    "place_id": "ChIJW1WZQ3vnBzsRtI5P0AC9_Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1WZQ3vnBzsRtI5P0AC9_Zc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:27:45"
+  }
+]

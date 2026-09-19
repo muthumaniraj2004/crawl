@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "175006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kummi Near PNB Kummi Teh Balh, Distt, Mandi, Himachal Pradesh 175006",
+    "area": "175006",
+    "latitude": 31.605574899999997,
+    "longitude": 76.9490229,
+    "place_id": "ChIJ7_w-bz8dBTkRbQJuVnCNQJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_w-bz8dBTkRbQJuVnCNQJY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:25:44"
+  },
+  {
+    "business_name": "Ujjwal Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "175006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HXW9+FJC, Khiuridom, Himachal Pradesh 175027",
+    "area": "175006",
+    "latitude": 31.596179,
+    "longitude": 76.969002,
+    "place_id": "ChIJe9mLt4YdBTkRdoDHrHSycq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9mLt4YdBTkRdoDHrHSycq0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:25:45"
+  }
+]

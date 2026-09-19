@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EstartIndia",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business management consultant, Certification agency, Financial consultant, Tax consultant",
+    "pincode": "174405",
+    "phone_number": "+91 97171 09099",
+    "website": "https://www.estartindia.com/",
+    "rating": 4.7,
+    "reviews_count": 70,
+    "address": "Westend Mall, 712 A, Janakpuri District Center, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Janakpuri District Center, Janakpuri",
+    "latitude": 28.6298177,
+    "longitude": 77.0784734,
+    "place_id": "ChIJX-_klsMEDTkRqe1kZ_AvudE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-_klsMEDTkRqe1kZ_AvudE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:00"
+  },
+  {
+    "business_name": "Return Filings Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service, Accounting firm, Service establishment",
+    "pincode": "174405",
+    "phone_number": "+91 81170 19951",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Return Filings Services, 174405, India",
+    "area": "174405",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJISMC7P_Nnq4RhdzLWLwDlSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISMC7P_Nnq4RhdzLWLwDlSQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagota Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "174201",
+    "phone_number": "+91 99884 98678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pahari Market Rd, near Mohinder Pal Gautam Clinic, Nangal Town Ship, Nangal, Punjab 140124",
+    "area": "Nangal Town Ship",
+    "latitude": 31.3869893,
+    "longitude": 76.3806202,
+    "place_id": "ChIJmSP8gQ3NGjkRAtAmU7xkphk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSP8gQ3NGjkRAtAmU7xkphk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:25"
+  },
+  {
+    "business_name": "Cheap Cloth House",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174201",
+    "phone_number": "+91 98555 23389",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop No. 19, Nangal, Punjab 140124",
+    "area": "174201",
+    "latitude": 31.3872619,
+    "longitude": 76.3773501,
+    "place_id": "ChIJT1IqbzDMGjkR0YEVdzOPH88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1IqbzDMGjkR0YEVdzOPH88",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:27"
+  }
+]

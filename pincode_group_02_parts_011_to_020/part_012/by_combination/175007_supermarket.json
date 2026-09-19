@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Daily Needs",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "PP2P+GG2, Hospital Rd, Sarkaghat, Himachal Pradesh 175024",
+    "area": "175007",
+    "latitude": 31.701258,
+    "longitude": 76.7362639,
+    "place_id": "ChIJSxBoBivfBDkRjNoAck0-AB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxBoBivfBDkRjNoAck0-AB0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:27:19"
+  },
+  {
+    "business_name": "Om traders",
+    "search_category": "Supermarket",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "175007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Om traders, near govt school, Bhareri, Himachal Pradesh 177024",
+    "area": "175007",
+    "latitude": 31.650002699999998,
+    "longitude": 76.6879897,
+    "place_id": "ChIJZ_g95ponBTkR-J8o3T8hpP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_g95ponBTkR-J8o3T8hpP4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:27:21"
+  }
+]

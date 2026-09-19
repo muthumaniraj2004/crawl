@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taak Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174306",
+    "phone_number": "+91 94590 03537",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "F79C+7CX, Chandigarh-Chintapurni-Dharamshala Rd, Ram Nagar, Ajnoli, Una, Himachal Pradesh 174303",
+    "area": "Ram Nagar, Ajnoli",
+    "latitude": 31.468243299999997,
+    "longitude": 76.27110619999999,
+    "place_id": "ChIJ8YRvnnjQGjkRGdkpg0gnVe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YRvnnjQGjkRGdkpg0gnVe4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:43:32"
+  },
+  {
+    "business_name": "HPPWD Rest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "174306",
+    "phone_number": "N/A",
+    "website": "http://himatithi.nic.in/",
+    "rating": 4.1,
+    "reviews_count": 82,
+    "address": "J8MR+5WW, Bangana - Hatli Rd, Himachal Pradesh 174307",
+    "area": "174306",
+    "latitude": 31.6329902,
+    "longitude": 76.3423258,
+    "place_id": "ChIJdQpvvukpGzkRmueDhvC_F2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQpvvukpGzkRmueDhvC_F2c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:43:34"
+  }
+]

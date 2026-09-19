@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna residency",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "175008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No.57, near Dhouli Piyau, Mayur Vihar, Mathura, Uttar Pradesh 281001",
+    "area": "Natwar Nagar, Dhauli Pyau, Mayur Vihar",
+    "latitude": 27.469958799999997,
+    "longitude": 77.67562699999999,
+    "place_id": "ChIJSbrTL3hxczkRXs8tLJvZv24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbrTL3hxczkRXs8tLJvZv24",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:24"
+  },
+  {
+    "business_name": "Punjabi Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175008",
+    "phone_number": "+91 76920 12000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "6MH2+FRV, Shailendra Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Shailendra Nagar",
+    "latitude": 21.228735699999998,
+    "longitude": 81.6520566,
+    "place_id": "ChIJVfn3TwDdKDoRdX3KvfB_1iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfn3TwDdKDoRdX3KvfB_1iU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:24"
+  }
+]

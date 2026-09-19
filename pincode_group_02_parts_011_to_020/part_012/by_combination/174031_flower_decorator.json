@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saini Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "174031",
+    "phone_number": "+91 62399 60060",
+    "website": "https://www.floristindia.in/Florists/sainiflorist",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Premgarh Rd, Manavta Nagar, Hoshiarpur, Punjab 146001",
+    "area": "Manavta Nagar",
+    "latitude": 31.5317372,
+    "longitude": 75.9057461,
+    "place_id": "ChIJXdohWdHiGjkRxfakkujgOgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdohWdHiGjkRxfakkujgOgw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:15:34"
+  },
+  {
+    "business_name": "Prince Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Bakery and Cake Shop, Balloon store, Cake shop, Fireworks store, Flower delivery, Flower designer, Flower market, Party planner, Wedding planner",
+    "pincode": "174031",
+    "phone_number": "+91 88726 51111",
+    "website": "https://zomato.onelink.me/xqzv/co24pct6",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "704,shop number, 1, Mall Rd, Model Town, Jalandhar, Punjab 144001",
+    "area": "Model Town",
+    "latitude": 31.3091537,
+    "longitude": 75.5848317,
+    "place_id": "ChIJZSU1Sa1bGjkR0BLRbj4ojh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSU1Sa1bGjkR0BLRbj4ojh8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:15:34"
+  }
+]

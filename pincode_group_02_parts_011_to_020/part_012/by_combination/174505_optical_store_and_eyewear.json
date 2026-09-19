@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lenskart",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center, Optometrist, Repair service, Sunglasses store",
+    "pincode": "174505",
+    "phone_number": "+91 80 4713 6417",
+    "website": "https://stores.lenskart.com/lenskart-com-sufiganj-road-hamirpur-sufiganj-road-hamirpur-164065/Home#book",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Park, Paras Hotel, adjoining Smart Point, near Rani Laxmi Bai Street, Sachan Town RLB Hamirpur, Hamirpur, Uttar Pradesh 210301",
+    "area": "Sachan Town RLB Hamirpur",
+    "latitude": 25.9482943,
+    "longitude": 80.157755,
+    "place_id": "ChIJM5IktHH9nDkRVFru45cu5XU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5IktHH9nDkRVFru45cu5XU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:36"
+  },
+  {
+    "business_name": "Permanently closed",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Sunglasses store",
+    "all_categories": "Sunglasses store, Eye care center, Optician, Optometrist, Repair service",
+    "pincode": "174505",
+    "phone_number": "+91 98210 80310",
+    "website": "https://www.lenskart.com/stores/lenskart-com-hamirpur-optometrists-main-bazar-hamirpur-77745/Home",
+    "rating": 4.8,
+    "reviews_count": 414,
+    "address": "Ward No 5, Main Bazar, Hamirpur, Himachal Pradesh 177001",
+    "area": "Ward No 5, Main Bazar",
+    "latitude": 31.6824446,
+    "longitude": 76.5250173,
+    "place_id": "ChIJqeyOlXbVBDkRpMMWwi3fapo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeyOlXbVBDkRpMMWwi3fapo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal General Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "174308",
+    "phone_number": "+91 97366 91574",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JG34+H5W, chowk salouni, Nadaun, Himachal Pradesh 174311",
+    "area": "174308",
+    "latitude": 31.603984999999998,
+    "longitude": 76.5054443,
+    "place_id": "ChIJOyTUUlgqBTkRikCUtZkG8LA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyTUUlgqBTkRikCUtZkG8LA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:47:05"
+  },
+  {
+    "business_name": "Forever living products Distributor",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "174308",
+    "phone_number": "+91 82185 12486",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tehsil Barsar, 40/2, VPO, near Lucky Sweets Shop, Salouni, Himachal Pradesh 174311",
+    "area": "174308",
+    "latitude": 31.5777653,
+    "longitude": 76.51702879999999,
+    "place_id": "ChIJhVac74orBTkRrgN4QsiVu54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVac74orBTkRrgN4QsiVu54",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:47:06"
+  }
+]

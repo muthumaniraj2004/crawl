@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Enterprises",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "174027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Patta, teh, Bhoranj, Himachal Pradesh 176041",
+    "area": "174027",
+    "latitude": 31.601325,
+    "longitude": 76.6184116,
+    "place_id": "ChIJOeWstYooBTkRAdjMMvLjl1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeWstYooBTkRAdjMMvLjl1U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:08:16"
+  },
+  {
+    "business_name": "Lok mitra kendra CSC Centre",
+    "search_category": "Gifting",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "174027",
+    "phone_number": "+91 82619 19673",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "ten bhoranj, VPO, Karohta, Himachal Pradesh 176044",
+    "area": "VPO",
+    "latitude": 31.599483799999998,
+    "longitude": 76.66525299999999,
+    "place_id": "ChIJwbB-41AnBTkR7_wA17uIy_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbB-41AnBTkR7_wA17uIy_Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:08:19"
+  }
+]

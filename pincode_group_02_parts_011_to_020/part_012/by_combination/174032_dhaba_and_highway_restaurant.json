@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Dhaba and Sweet shop",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "174032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "7W38+QQR, NH205, Kothi, Himachal Pradesh 171102",
+    "area": "174032",
+    "latitude": 31.2544161,
+    "longitude": 76.91697889999999,
+    "place_id": "ChIJ_bLlgWdrBTkRdtGCjADTRSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bLlgWdrBTkRdtGCjADTRSo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:31"
+  },
+  {
+    "business_name": "Jungle Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "545F+VQ, Sendri, Bilaspur, Chhattisgarh 495003",
+    "area": "Sendri",
+    "latitude": 22.1596632,
+    "longitude": 82.1243899,
+    "place_id": "ChIJD2WlhQwPKDoRDfLAbBLhlc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2WlhQwPKDoRDfLAbBLhlc8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:33"
+  }
+]

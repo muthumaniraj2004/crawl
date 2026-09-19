@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sankalp General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175001",
+    "phone_number": "+91 86278 18321",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sankalp General Store, opposite Anganvadi Kendra, Mundroo, Balt, Bushaihr, Himachal Pradesh 175008",
+    "area": "Mundroo",
+    "latitude": 31.6155339,
+    "longitude": 76.89369769999999,
+    "place_id": "ChIJB0X3uUEfBTkREapPkeKyU7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0X3uUEfBTkREapPkeKyU7Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:01"
+  },
+  {
+    "business_name": "Madame Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "175001",
+    "phone_number": "N/A",
+    "website": "https://madameonline.com/?utm_source=gmb-store&utm_medium=referral&utm_campaign=gmb-store",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Seri Bazar, Bhagwan Muhalla, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Seri Bazar, Bhagwan Muhalla, Samkhetar",
+    "latitude": 31.7069041,
+    "longitude": 76.9331206,
+    "place_id": "ChIJwdBDxTXjBDkRoBVhnIzg8Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdBDxTXjBDkRoBVhnIzg8Xs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:03"
+  }
+]

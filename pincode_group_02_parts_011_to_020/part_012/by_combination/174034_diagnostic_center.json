@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dummy.vishal",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "174034",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gehrwin, Jamoi, Himachal Pradesh 174034",
+    "area": "174034",
+    "latitude": 31.3525501,
+    "longitude": 76.69487649999999,
+    "place_id": "ChIJUQXOOhI5BTkRvTHUc2oJMFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQXOOhI5BTkRvTHUc2oJMFg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:20:29"
+  },
+  {
+    "business_name": "Sharda medical store auhar",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "174034",
+    "phone_number": "+91 94595 74247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9PGC+8QP, Sharda medical store V p o auhar tehsil ghumarwin, distt, Bilaspur, Himachal Pradesh 174024",
+    "area": "174034",
+    "latitude": 31.3758473,
+    "longitude": 76.721961,
+    "place_id": "ChIJ-YEceOg5BTkRWTTedW-TRyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YEceOg5BTkRWTTedW-TRyo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:20:33"
+  }
+]

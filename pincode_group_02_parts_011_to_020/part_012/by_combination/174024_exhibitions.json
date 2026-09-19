@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tao Art Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "174024",
+    "phone_number": "+91 22 3574 1809",
+    "website": "http://www.taoartgallery.com/",
+    "rating": 4.4,
+    "reviews_count": 234,
+    "address": "165, The View, Dr Annie Besant Rd, Worli, Mumbai, Maharashtra 400018",
+    "area": "Lotus Colony, Worli",
+    "latitude": 18.9876848,
+    "longitude": 72.81408019999999,
+    "place_id": "ChIJdfBkjofO5zsR-NpA2Lvtmkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfBkjofO5zsR-NpA2Lvtmkg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:05:04"
+  },
+  {
+    "business_name": "Shrine Empire Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "174024",
+    "phone_number": "+91 11 4132 7630",
+    "website": "http://www.shrineempiregallery.com/",
+    "rating": 4.3,
+    "reviews_count": 63,
+    "address": "B24, Main Rd, Block B, Defence Colony, New Delhi, Delhi 110024",
+    "area": "Block B, Defence Colony",
+    "latitude": 28.572373,
+    "longitude": 77.228083,
+    "place_id": "ChIJ99pFirzjDDkRViai3KvVZps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99pFirzjDDkRViai3KvVZps",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:05:04"
+  }
+]

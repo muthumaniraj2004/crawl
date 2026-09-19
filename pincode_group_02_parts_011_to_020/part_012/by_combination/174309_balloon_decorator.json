@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Balloons Decorator",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "174309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 104,
+    "address": "Dev Balloons Decorator, 174309, India",
+    "area": "174309",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJFZHcyudJCTkRShmnEeidDQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZHcyudJCTkRShmnEeidDQY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:49:01"
+  },
+  {
+    "business_name": "Dara Singh balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "174309",
+    "phone_number": "+91 97790 93982",
+    "website": "https://darasingballoondecoration.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2532/2 new, Maloya, Chandigarh, 160025",
+    "area": "Maloya",
+    "latitude": 30.756090399999998,
+    "longitude": 76.7213553,
+    "place_id": "ChIJvzYiNFrvDzkRZTHu3Ai5zbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzYiNFrvDzkRZTHu3Ai5zbE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:49:02"
+  }
+]

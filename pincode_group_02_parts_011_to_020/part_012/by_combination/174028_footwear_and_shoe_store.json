@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Shoe Store Jahu",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "174028",
+    "phone_number": "+91 98170 66557",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Sbi bank, Jahu, Himachal Pradesh 176048",
+    "area": "174028",
+    "latitude": 31.5900814,
+    "longitude": 76.7230199,
+    "place_id": "ChIJk4wTNiQnBTkRFnh9ximOUes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4wTNiQnBTkRFnh9ximOUes",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:17"
+  },
+  {
+    "business_name": "Anand Enterprises",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "174028",
+    "phone_number": "+91 75800 78700",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Main market Jahu, Jahu, Himachal Pradesh 176048",
+    "area": "174028",
+    "latitude": 31.590074899999998,
+    "longitude": 76.72216999999999,
+    "place_id": "ChIJa3Dr63snBTkRYNvNOVP7xb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3Dr63snBTkRYNvNOVP7xb8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Chai Ghar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Juice shop, Tea store",
+    "pincode": "175012",
+    "phone_number": "+91 82198 22952",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "Distt, Dharampur, Chhapanu, Himachal Pradesh 175040",
+    "area": "175012",
+    "latitude": 31.803811699999997,
+    "longitude": 76.760733,
+    "place_id": "ChIJJ3XuuWbdBDkRBGU149XMb_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3XuuWbdBDkRBGU149XMb_E",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:36:40"
+  },
+  {
+    "business_name": "Snow Valley Bhojanalaya &Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Health food restaurant",
+    "all_categories": "Health food restaurant, Breakfast restaurant",
+    "pincode": "175012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 156,
+    "address": "Snow valley bhaojnalya, Gawalan, Himachal Pradesh 175020",
+    "area": "175012",
+    "latitude": 31.9411442,
+    "longitude": 76.8766076,
+    "place_id": "ChIJwUIEZn7pBDkRXKo7UUJg8rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUIEZn7pBDkRXKo7UUJg8rQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:36:44"
+  }
+]

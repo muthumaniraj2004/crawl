@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Tape",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Shoe store, Belt shop, Boot store, Clothing store, Dress store, Men's clothing store, Outlet store, Sporting goods store, Sportswear store",
+    "pincode": "175002",
+    "phone_number": "N/A",
+    "website": "https://redtape.com/",
+    "rating": 3.2,
+    "reviews_count": 21,
+    "address": "260 9, Bhojpur Rd, Bhojpur, Purana Bazar, Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur, Purana Bazar",
+    "latitude": 31.532861999999998,
+    "longitude": 76.8889516,
+    "place_id": "ChIJN3f-DjsZBTkRusxTIdxW2Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3f-DjsZBTkRusxTIdxW2Gg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:18:16"
+  },
+  {
+    "business_name": "BRAND LEATHER",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "175002",
+    "phone_number": "+91 89106 65531",
+    "website": "http://www.brandleather.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "28, Alimuddin St, Jora Girja, Taltala, Kolkata, West Bengal 700016",
+    "area": "Jora Girja, Taltala",
+    "latitude": 22.5545769,
+    "longitude": 88.3630699,
+    "place_id": "ChIJE4AfZ5p3AjoR1o8r8UBraFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4AfZ5p3AjoR1o8r8UBraFo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:18:16"
+  }
+]

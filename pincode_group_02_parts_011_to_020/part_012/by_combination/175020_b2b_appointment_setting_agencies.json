@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LevelUp Leads",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Business development service, Business to business service, Internet marketing service, Market researcher, Marketing consultant",
+    "pincode": "175020",
+    "phone_number": "N/A",
+    "website": "https://levelupleads.io/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "3595 Powell Dr, Lafayette, CA 94549, United States",
+    "area": "175020",
+    "latitude": 37.878969999999995,
+    "longitude": -122.1234209,
+    "place_id": "ChIJ6-HI0M1jhYARd0p8kctzOm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-HI0M1jhYARd0p8kctzOm4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:26"
+  },
+  {
+    "business_name": "Webmobilez Inc",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Service establishment",
+    "pincode": "175020",
+    "phone_number": "+91 96424 64660",
+    "website": "http://webmobilez.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Webmobilez Inc, 175020, India",
+    "area": "175020",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ1_wj78WQyzsRrzbgc8i6BYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_wj78WQyzsRrzbgc8i6BYE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:28"
+  }
+]

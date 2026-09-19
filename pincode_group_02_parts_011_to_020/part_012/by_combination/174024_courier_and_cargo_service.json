@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home delivery",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "174024",
+    "phone_number": "+91 78761 69265",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Market Rd, gurudwara hotspot, Bilaspur, Himachal Pradesh 174001",
+    "area": "gurudwara hotspot",
+    "latitude": 31.3408922,
+    "longitude": 76.76281449999999,
+    "place_id": "ChIJI1psSnA_BTkRAiWpvJVpzZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1psSnA_BTkRAiWpvJVpzZM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:04:51"
+  },
+  {
+    "business_name": "Your Cargo",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency",
+    "pincode": "174024",
+    "phone_number": "+91 81431 78391",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "T-Hub 4th floor, IIIT-H Campus Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Gachibowli",
+    "latitude": 17.447156,
+    "longitude": 78.34876,
+    "place_id": "ChIJg4q_PaOTyzsR3acMTNmiP-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4q_PaOTyzsR3acMTNmiP-c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:04:53"
+  }
+]

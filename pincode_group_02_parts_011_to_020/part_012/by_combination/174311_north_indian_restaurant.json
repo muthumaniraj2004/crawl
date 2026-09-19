@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRIME LOCATION",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "174311",
+    "phone_number": "+91 94183 37635",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "opp. Govt.degree college, Anu, Hamirpur, Himachal Pradesh 177005",
+    "area": "Anu",
+    "latitude": 31.7004053,
+    "longitude": 76.5212203,
+    "place_id": "ChIJNcFcdh7VBDkRKujpPSwSfBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcFcdh7VBDkRKujpPSwSfBc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:51:49"
+  },
+  {
+    "business_name": "Suraj Sweets",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174311",
+    "phone_number": "+91 94189 07111",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "MGGR+685, Baru, Gahalian, Himachal Pradesh 177001",
+    "area": "174311",
+    "latitude": 31.6755219,
+    "longitude": 76.5409817,
+    "place_id": "ChIJs7pX-OrVBDkRLy0y8SpZCX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7pX-OrVBDkRLy0y8SpZCX4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:51:51"
+  }
+]

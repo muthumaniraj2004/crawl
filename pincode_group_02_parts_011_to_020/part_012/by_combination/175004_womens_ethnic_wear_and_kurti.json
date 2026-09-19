@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India fashion",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "175004",
+    "phone_number": "+91 99353 94765",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "ke samane, ghat pakka pul, Media, Muinuddinpur, Uttar Pradesh 231304",
+    "area": "175004",
+    "latitude": 25.1350937,
+    "longitude": 82.87025609999999,
+    "place_id": "ChIJN0iqh-rLjzkRU7VVyB7sDjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0iqh-rLjzkRU7VVyB7sDjE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:21:57"
+  },
+  {
+    "business_name": "Senorita's Wardrobe",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Designer Clothing Store, Dress store, Clothing Accessories Store, Plus Size Clothing Store, Clothing store",
+    "pincode": "175004",
+    "phone_number": "+91 73000 12100",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C-121, Vidyut Nagar, Chitrakoot, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Vidyut Nagar, Chitrakoot",
+    "latitude": 26.9036947,
+    "longitude": 75.7391057,
+    "place_id": "ChIJM1_pr061bTkRIHx2Mq8ptoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1_pr061bTkRIHx2Mq8ptoo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:21:58"
+  }
+]

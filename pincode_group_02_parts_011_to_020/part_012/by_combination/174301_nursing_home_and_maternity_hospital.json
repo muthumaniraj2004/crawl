@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit Hospital and Maternity Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174301",
+    "phone_number": "+91 181 227 1634",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "66, Guru Ravidass Nagar, Abadpura, New Model Town, Jalandhar, Punjab 144001",
+    "area": "Guru Ravidass Nagar, Abadpura, New Model Town",
+    "latitude": 31.308224199999998,
+    "longitude": 75.56923789999999,
+    "place_id": "ChIJA6ciG_5aGjkRdOLtEdWDywQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6ciG_5aGjkRdOLtEdWDywQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:33:31"
+  },
+  {
+    "business_name": "Aadya IVF",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "174301",
+    "phone_number": "+91 73408 88652",
+    "website": "https://www.aadyaivf.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shree Krishna Complex, opposite Vishal Eye Hospital, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.465322699999998,
+    "longitude": 76.27868,
+    "place_id": "ChIJEyWaK2vRGjkRa_i2uGgQ6eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyWaK2vRGjkRa_i2uGgQ6eQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:33:32"
+  }
+]

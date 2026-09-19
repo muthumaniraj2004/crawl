@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Top Solution",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Repair service, Used computer store",
+    "pincode": "174317",
+    "phone_number": "+91 99209 21251",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 140,Ground, Floor, Vashi Plaza, B wing, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "Liberty Housing Society, Sector 17, Vashi",
+    "latitude": 19.069214,
+    "longitude": 72.998151,
+    "place_id": "ChIJhYUPThXB5zsR61FO-M8oUqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYUPThXB5zsR61FO-M8oUqQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:02:19"
+  },
+  {
+    "business_name": "Techtop Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer service, Screen repair service",
+    "pincode": "174317",
+    "phone_number": "+91 98205 72211",
+    "website": "https://techtopcomputers.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Building no-29, near Mahananda, Bimbisar Nagar, Goregaon East, Mumbai, Maharashtra 400065",
+    "area": "Bimbisar Nagar, Goregaon East",
+    "latitude": 19.147895899999998,
+    "longitude": 72.85711309999999,
+    "place_id": "ChIJYanqKw3K0IYRiPy-TCbn5tA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYanqKw3K0IYRiPy-TCbn5tA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:02:19"
+  }
+]

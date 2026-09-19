@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sugandha beauty parlour",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "174311",
+    "phone_number": "+91 94183 50087",
+    "website": "http://sugandhabeauty.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "main bazar, near deep & comapny, Kohta, Hamirpur, Himachal Pradesh 177001",
+    "area": "Kohta",
+    "latitude": 31.6863383,
+    "longitude": 76.5226934,
+    "place_id": "ChIJs8oOKPLVBDkRlB_J5SyxOEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8oOKPLVBDkRlB_J5SyxOEI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:52:37"
+  },
+  {
+    "business_name": "Darshana's Makeup Studio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Hairdresser",
+    "pincode": "174311",
+    "phone_number": "+91 87799 18607",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NUEVO B, 301 Golflinks, Palava City, Casa Bella Gold, Kalyan, Maharashtra 421204",
+    "area": "Palava City, Casa Bella Gold",
+    "latitude": 19.1695063,
+    "longitude": 73.0717738,
+    "place_id": "ChIJV7EiDoS_5zsRJXe_-tiHjN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7EiDoS_5zsRJXe_-tiHjN0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:52:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.kalia dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "174405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main road, opposite axis bank, above jio store, Galore, Hamirpur, Himachal Pradesh 177001",
+    "area": "Galore",
+    "latitude": 31.6842679,
+    "longitude": 76.52248689999999,
+    "place_id": "ChIJWQudGz7VBDkRZxS5Fmqs580",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQudGz7VBDkRZxS5Fmqs580",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:08:54"
+  },
+  {
+    "business_name": "Dental Arena",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental supply store",
+    "all_categories": "Dental supply store, Surgical supply store",
+    "pincode": "174405",
+    "phone_number": "+91 90486 15223",
+    "website": "https://www.instagram.com/dental_arena_tvm?igsh=ZGQyOGc4bjU5MG93",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "opposite Aramada CSI Church, Trikkannapuram, Thirumala, Thiruvananthapuram, Keralam 695032",
+    "area": "Trikkannapuram, Thirumala",
+    "latitude": 8.483729,
+    "longitude": 77.000188,
+    "place_id": "ChIJSWDZ9TK7BTsRC63MEzdWhAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWDZ9TK7BTsRC63MEzdWhAg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:08:56"
+  }
+]

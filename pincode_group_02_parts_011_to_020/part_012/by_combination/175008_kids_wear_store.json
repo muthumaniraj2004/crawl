@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vastra",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "175008",
+    "phone_number": "+91 94187 00085",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rana Market, Ner Chowk, Ner, Himachal Pradesh 175008",
+    "area": "175008",
+    "latitude": 31.608655,
+    "longitude": 76.9131465,
+    "place_id": "ChIJl9_gKAAfBTkReThNwUQZyfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9_gKAAfBTkReThNwUQZyfc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:30"
+  },
+  {
+    "business_name": "Pacific sports outlet",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "175008",
+    "phone_number": "+91 94185 82904",
+    "website": "https://amazon.in/s?me=A1SJFPWPXNGUT2&ref=sf_seller_app_share_new",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "SH 13, Dhnotu, Mahadev, Himachal Pradesh 175018",
+    "area": "Dhnotu",
+    "latitude": 31.5532804,
+    "longitude": 76.90106349999999,
+    "place_id": "ChIJE43ngGMZBTkRTMVi0ROYmGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE43ngGMZBTkRTMVi0ROYmGE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:31"
+  }
+]

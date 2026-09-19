@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "174024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8PGR+38X, Dhamli, Himachal Pradesh 174024",
+    "area": "174024",
+    "latitude": 31.3252357,
+    "longitude": 76.74086659999999,
+    "place_id": "ChIJ35JKGE8_BTkRtf88c-n2OuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35JKGE8_BTkRtf88c-n2OuE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:04:09"
+  },
+  {
+    "business_name": "Anurag Motor Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "174024",
+    "phone_number": "+91 96694 48305",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bajrang Chowk, Seepat Rd, Chhattisgarh 495006",
+    "area": "Rajiv Vihar Colony",
+    "latitude": 22.0864799,
+    "longitude": 82.1816465,
+    "place_id": "ChIJYe3sEasLKDoR-5E9qyRUg9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYe3sEasLKDoR-5E9qyRUg9k",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:04:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivalik Homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174307",
+    "phone_number": "+91 98163 60730",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 23,
+    "address": "Dhaneta - Una Rd, Housing Board Colony, Bangana, Himachal Pradesh 174307",
+    "area": "Housing Board Colony",
+    "latitude": 31.6310152,
+    "longitude": 76.3442989,
+    "place_id": "ChIJLzyH7ugpGzkRpAiPtNhLORY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzyH7ugpGzkRpAiPtNhLORY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:45:23"
+  },
+  {
+    "business_name": "Ajay Steel Mfr Co",
+    "search_category": "Guesthouse",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "174307",
+    "phone_number": "+91 98170 32883",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Hamirpur Road, opp. Shivalik Hotel, Bangana, Himachal Pradesh 174307",
+    "area": "174307",
+    "latitude": 31.623897499999998,
+    "longitude": 76.3507236,
+    "place_id": "ChIJAbCg_JcpGzkRDZ5og40EBAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbCg_JcpGzkRDZ5og40EBAQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:45:24"
+  }
+]

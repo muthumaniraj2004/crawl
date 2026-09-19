@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baauz cafe & bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175013",
+    "phone_number": "+91 98342 14933",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Baauz cafe & bakers, Bir Colony Rd, Bir, Suja, Himachal Pradesh 176077",
+    "area": "175013",
+    "latitude": 32.0406969,
+    "longitude": 76.71061089999999,
+    "place_id": "ChIJe3PV9L65BDkRl7ypG4TV3KQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3PV9L65BDkRl7ypG4TV3KQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:38:33"
+  },
+  {
+    "business_name": "Griffon's Cottage, Cafe and Campsite",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Cottage, Campground",
+    "pincode": "175013",
+    "phone_number": "+91 77100 92628",
+    "website": "https://griffonscafe.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Take, off Site, Billing, Bir, Biling, Himachal Pradesh 176077",
+    "area": "Billing",
+    "latitude": 32.056838,
+    "longitude": 76.7452864,
+    "place_id": "ChIJ7RFnrd2_BDkRPWkN_th_RMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RFnrd2_BDkRPWkN_th_RMo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:38:35"
+  }
+]

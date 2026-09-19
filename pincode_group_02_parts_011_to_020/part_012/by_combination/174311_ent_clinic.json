@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ludhiana Hospital Bhota",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174311",
+    "phone_number": "+91 94180 55321",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "main bazar oppsite po. bhota, Bhota, Himachal Pradesh 176041",
+    "area": "174311",
+    "latitude": 31.6075058,
+    "longitude": 76.56167049999999,
+    "place_id": "ChIJQ4-DhPopBTkR4F5zFvce12Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4-DhPopBTkR4F5zFvce12Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:52:11"
+  },
+  {
+    "business_name": "Dr. Rajat Rastogi (Surya ENT Hospital Aliganj Lucknow)",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174311",
+    "phone_number": "+91 93369 27008",
+    "website": "https://suryaenthospital.com/",
+    "rating": 4.8,
+    "reviews_count": 362,
+    "address": "118, Chandralok Colony, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Chandralok Colony, Aliganj",
+    "latitude": 26.8869452,
+    "longitude": 80.9461762,
+    "place_id": "ChIJm_L_XNRXmTkR3exuL_eBlwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_L_XNRXmTkR3exuL_eBlwM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:52:13"
+  }
+]

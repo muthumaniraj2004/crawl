@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mandi flavour cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "174309",
+    "phone_number": "+91 98571 63033",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "House no. #81/4, PO, vill, Chadyara, Gutkar, Himachal Pradesh 175021",
+    "area": "PO, vill",
+    "latitude": 31.6825083,
+    "longitude": 76.9398195,
+    "place_id": "ChIJBYnzVOnjBDkRW0gnOVSUlQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYnzVOnjBDkRW0gnOVSUlQU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:12"
+  },
+  {
+    "business_name": "Sagar's best cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174309",
+    "phone_number": "+91 77459 87575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "naka ward, Purohit Gali, Moti Nagar, Naryauli, Sagar, Madhya Pradesh 470002",
+    "area": "Moti Nagar",
+    "latitude": 23.8388515,
+    "longitude": 78.7315,
+    "place_id": "ChIJE_VlWK_XeDkR9kfRS31xbtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_VlWK_XeDkR9kfRS31xbtA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:12"
+  }
+]

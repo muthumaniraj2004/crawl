@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh general store and book shop",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174310",
+    "phone_number": "+91 98160 95057",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stair No. 232 T.P.O Sh. Naina devi ji distt, Naina Devi, Himachal Pradesh 174310",
+    "area": "174310",
+    "latitude": 31.3049096,
+    "longitude": 76.535913,
+    "place_id": "ChIJB-xhAuY1BTkRzd2MPrT22uY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-xhAuY1BTkRzd2MPrT22uY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:49:47"
+  },
+  {
+    "business_name": "Shiv shakti karyana store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Tax collector's office",
+    "pincode": "174310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kiratpur Manali Road, Gara, Himachal Pradesh 174310",
+    "area": "174310",
+    "latitude": 31.2167304,
+    "longitude": 76.6535627,
+    "place_id": "ChIJUdALuMlHBTkRxyLZT_BhHTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdALuMlHBTkRxyLZT_BhHTA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:49:48"
+  }
+]

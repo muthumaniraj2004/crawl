@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj enterprises repair service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service",
+    "pincode": "174030",
+    "phone_number": "+91 82191 94220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Petrol pump, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.9056179,
+    "longitude": 77.1082679,
+    "place_id": "ChIJGfmJN0eBDzkRmmZRi9CoCLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfmJN0eBDzkRmmZRi9CoCLw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:13:28"
+  },
+  {
+    "business_name": "Markandey Refrigeration (Rahul Singh)",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "174030",
+    "phone_number": "+91 99910 07143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 84,
+    "address": "Sector Number 4, Bilaspur, Haryana 135102",
+    "area": "Sector Number 4",
+    "latitude": 30.305507499999997,
+    "longitude": 77.3066393,
+    "place_id": "ChIJdVvSTEMDDzkR-fbNj6R-wMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVvSTEMDDzkR-fbNj6R-wMc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:13:30"
+  }
+]

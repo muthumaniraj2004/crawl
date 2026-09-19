@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Kumar",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "174309",
+    "phone_number": "+91 98160 65812",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mehre Road Khurpari, Garli - Bijhri, Karha, Himachal Pradesh 176040",
+    "area": "174309",
+    "latitude": 31.520903599999997,
+    "longitude": 76.5352776,
+    "place_id": "ChIJYRuDHa8tBTkRCqbvLnvF_LU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRuDHa8tBTkRCqbvLnvF_LU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:37"
+  },
+  {
+    "business_name": "chota baghar wala",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "174309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GG23+2H7, Usnar Khurd, Himachal Pradesh 174309",
+    "area": "174309",
+    "latitude": 31.5000258,
+    "longitude": 76.50390809999999,
+    "place_id": "ChIJKStq6dQtBTkR3DP9DGxCIL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKStq6dQtBTkR3DP9DGxCIL4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:37"
+  }
+]

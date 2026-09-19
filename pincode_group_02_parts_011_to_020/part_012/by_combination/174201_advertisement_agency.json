@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ant Graphics",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer, Service establishment",
+    "pincode": "174201",
+    "phone_number": "N/A",
+    "website": "http://antgraphics.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ant Graphics, 174201, India",
+    "area": "174201",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJTbzz7HZ9VUMRiTbveehJjOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbzz7HZ9VUMRiTbveehJjOA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:32:54"
+  },
+  {
+    "business_name": "Tarsem Lal And Sons",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "174201",
+    "phone_number": "+91 92167 88944",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "237 barari, dam, Nangal, Punjab 140125",
+    "area": "174201",
+    "latitude": 31.3619372,
+    "longitude": 76.3747413,
+    "place_id": "ChIJQUewQSrNGjkRKZgCXZ4t1yM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUewQSrNGjkRKZgCXZ4t1yM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:32:54"
+  }
+]

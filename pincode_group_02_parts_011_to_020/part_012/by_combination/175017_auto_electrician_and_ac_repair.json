@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himachal Motor's",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "175017",
+    "phone_number": "+91 83509 02400",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "NH154, Harabaag, Mandi, Himachal Pradesh 175018",
+    "area": "175017",
+    "latitude": 31.490789099999997,
+    "longitude": 76.8747088,
+    "place_id": "ChIJ9weu5-AXBTkRi84wDRS1UMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9weu5-AXBTkRi84wDRS1UMw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:46:45"
+  },
+  {
+    "business_name": "Car ac service",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "175017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naulakha, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "175017",
+    "latitude": 31.5696341,
+    "longitude": 76.905242,
+    "place_id": "ChIJxdZNvpUZBTkR6JhTwCH0Zx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdZNvpUZBTkR6JhTwCH0Zx4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:46:47"
+  }
+]

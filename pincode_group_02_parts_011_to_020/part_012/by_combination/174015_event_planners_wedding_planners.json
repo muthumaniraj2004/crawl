@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VRJ Eventz",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company",
+    "pincode": "174015",
+    "phone_number": "+91 98113 64210",
+    "website": "https://vrj-eventz.onlynearme.com/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "UG-16, HRC Shopping Complex, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.635372699999998,
+    "longitude": 77.3652369,
+    "place_id": "ChIJVULLGLrlDDkRRzYJHKn9q1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVULLGLrlDDkRRzYJHKn9q1I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:56:59"
+  },
+  {
+    "business_name": "Gugan Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "174015",
+    "phone_number": "+91 90030 92505",
+    "website": "http://www.guganevents.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rainbow Graden, MIG 71, near thayyappa madapam, GKD Nagar, Hosur, Tamil Nadu 635109",
+    "area": "GKD Nagar",
+    "latitude": 12.7379879,
+    "longitude": 77.8336927,
+    "place_id": "ChIJS81cDdt3rjsRcxHN6yVgioI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS81cDdt3rjsRcxHN6yVgioI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hans Autoworks",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "174201",
+    "phone_number": "+91 98175 10402",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhatehr Uparli, Bilaspur, NH-21, Mandi Tunnel Road, Barmana, Barmana, Himachal Pradesh 174013",
+    "area": "174201",
+    "latitude": 31.419899899999997,
+    "longitude": 76.8344019,
+    "place_id": "ChIJ1XODCBkWBTkR1mLejrT-cyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XODCBkWBTkR1mLejrT-cyU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:46"
+  },
+  {
+    "business_name": "Vishwakarma Auto Works",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "174201",
+    "phone_number": "+91 82619 38700",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bilaspur, NH-88, Bamta Kandrour Road, Kandrour, Kandrour, Himachal Pradesh 174004",
+    "area": "174201",
+    "latitude": 31.390836099999998,
+    "longitude": 76.7557125,
+    "place_id": "ChIJrcfOO6A-BTkRc4BKKZQeXB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcfOO6A-BTkRc4BKKZQeXB0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:46"
+  }
+]

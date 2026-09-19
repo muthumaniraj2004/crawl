@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barnwal Medical Agency",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "174201",
+    "phone_number": "+91 77524 04923",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Telipara Rd, Bharti Nagar, Telipara, Chhattisgarh 495001",
+    "area": "Bharti Nagar",
+    "latitude": 22.081443999999998,
+    "longitude": 82.1581534,
+    "place_id": "ChIJV2Ho3RALKDoRXilW_mP5JB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2Ho3RALKDoRXilW_mP5JB0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:39"
+  },
+  {
+    "business_name": "Bhambri Hospital & Maternity Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174201",
+    "phone_number": "+91 98148 22424",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Road, Lapran, Bilaspur, Punjab 141421",
+    "area": "174201",
+    "latitude": 30.7578522,
+    "longitude": 75.9495488,
+    "place_id": "ChIJfZeEOMZxEDkRb3UtX3CHs3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZeEOMZxEDkRb3UtX3CHs3Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:39"
+  }
+]

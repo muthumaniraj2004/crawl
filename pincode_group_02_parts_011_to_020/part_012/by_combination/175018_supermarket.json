@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India fresh fruits & vegetables",
+    "search_category": "Supermarket",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "175018",
+    "phone_number": "+91 70180 16309",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MLSM College Rd, near traffic light, Chatrokhari, Chauk, Sundar Nagar, Himachal Pradesh 175018",
+    "area": "Chatrokhari",
+    "latitude": 31.5122215,
+    "longitude": 76.8841568,
+    "place_id": "ChIJ5T_crBoZBTkRB8pW18Q2ZOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5T_crBoZBTkRB8pW18Q2ZOU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:47:57"
+  },
+  {
+    "business_name": "Gupta Sales",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "175018",
+    "phone_number": "N/A",
+    "website": "https://mydukaan.io/guptasales5",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chunahan, Salwahan, Himachal Pradesh 175027",
+    "area": "Chunahan",
+    "latitude": 31.5600916,
+    "longitude": 76.9484624,
+    "place_id": "ChIJnzq4f7AbBTkROElhHhvV5A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzq4f7AbBTkROElhHhvV5A4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:00"
+  }
+]

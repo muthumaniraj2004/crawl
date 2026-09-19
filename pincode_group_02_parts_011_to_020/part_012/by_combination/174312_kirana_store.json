@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Karyana store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Badaran - Mehre Rd, Kohlwin, Gahli, Himachal Pradesh 174405",
+    "area": "174312",
+    "latitude": 31.589712,
+    "longitude": 76.4592741,
+    "place_id": "ChIJG1WiPc8rBTkRo0aNknqWKlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1WiPc8rBTkRo0aNknqWKlg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:53:30"
+  },
+  {
+    "business_name": "मंडयाणी उपरली।। शर्मा ब्रदर शाप",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "174312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JFF9+VX, Mandhiani Uparli, Mandhiani, Himachal Pradesh 177026",
+    "area": "Mandhiani Uparli",
+    "latitude": 31.6246875,
+    "longitude": 76.4699375,
+    "place_id": "ChIJIYIvXwArBTkRkIM5L5kqHq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYIvXwArBTkRkIM5L5kqHq8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:53:31"
+  }
+]

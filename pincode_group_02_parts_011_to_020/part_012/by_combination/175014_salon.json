@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky hair specialist",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "175014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VRF2+9W, Suan, Himachal Pradesh 175015",
+    "area": "175014",
+    "latitude": 31.873447499999997,
+    "longitude": 76.8022385,
+    "place_id": "ChIJEc9rRgDDBDkR2u_1sTOqqCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEc9rRgDDBDkR2u_1sTOqqCs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:41:17"
+  },
+  {
+    "business_name": "Reeta beauty & cosmetics",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "175014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "post office, Village manaru, Nauhli - Kotli Rd, Tehsil, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "Tehsil",
+    "latitude": 31.845398399999997,
+    "longitude": 76.8419684,
+    "place_id": "ChIJzT7CIADnBDkRJ15dQ1M5Vl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzT7CIADnBDkRJ15dQ1M5Vl4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:41:17"
+  }
+]

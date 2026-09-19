@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "eximkart.com",
+    "search_category": "EXIMS",
+    "primary_category": "Importer",
+    "all_categories": "Importer, Service establishment",
+    "pincode": "174405",
+    "phone_number": "N/A",
+    "website": "https://eximkart.com/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "eximkart.com, 174405, India",
+    "area": "174405",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJPZws4oK-nqkRvlaiG9fpnWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZws4oK-nqkRvlaiG9fpnWs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:10"
+  },
+  {
+    "business_name": "Exportal India",
+    "search_category": "EXIMS",
+    "primary_category": "Foreign Trade Consultant",
+    "all_categories": "Foreign Trade Consultant",
+    "pincode": "174405",
+    "phone_number": "+91 93553 21675",
+    "website": "https://www.ximpex.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lower Ground, HUDA Market, SCF 138, Huda Market, Sector 37, Faridabad, Haryana 121007",
+    "area": "Huda Market, Sector 37",
+    "latitude": 28.479847699999997,
+    "longitude": 77.3117786,
+    "place_id": "ChIJMdukjFjnDDkRP3hxiO_VWCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdukjFjnDDkRP3hxiO_VWCg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:11"
+  }
+]

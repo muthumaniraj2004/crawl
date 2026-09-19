@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapil Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "174013",
+    "phone_number": "+91 98173 25663",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mandrighat Rd, Gwal Muthani, Himachal Pradesh 174013",
+    "area": "174013",
+    "latitude": 31.4419081,
+    "longitude": 76.7919417,
+    "place_id": "ChIJGQFj1gk9BTkRgMcgVM9CIIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQFj1gk9BTkRgMcgVM9CIIA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:59"
+  },
+  {
+    "business_name": "Walk n trim ladies salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "174013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 40,
+    "address": "Purnam mall, chock, near college, Cinema Colony, Kosrian Sector, Bilaspur, Himachal Pradesh 174001",
+    "area": "Cinema Colony, Kosrian Sector",
+    "latitude": 31.3399166,
+    "longitude": 76.7648002,
+    "place_id": "ChIJp3oBbTI_BTkR8dJaDIJUCzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3oBbTI_BTkR8dJaDIJUCzI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:01"
+  }
+]

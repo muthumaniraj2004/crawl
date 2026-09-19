@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hungry Point - Joginder Nagar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Continental restaurant, Family restaurant, Italian restaurant, Pizza restaurant, Restaurant",
+    "pincode": "175006",
+    "phone_number": "+91 98084 27777",
+    "website": "https://hungrypoint.in/outlet/Hungry-Point-Joginder-Nagar-Adjoining-HP-Petrol-Pump-Joginder-Nagar-Himachal-Pradesh",
+    "rating": 3.5,
+    "reviews_count": 445,
+    "address": "opp. Bhartiya Public School, adjoining Petrol Pump, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175006",
+    "latitude": 31.988924899999997,
+    "longitude": 76.79128089999999,
+    "place_id": "ChIJMeR-ZwDBBDkRD42pLwHb64M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeR-ZwDBBDkRD42pLwHb64M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:25:40"
+  },
+  {
+    "business_name": "Hungry Point - Sanjauli Shimla",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Family restaurant, Pasta shop, Pizza restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "175006",
+    "phone_number": "+91 94091 37777",
+    "website": "http://hungrypoint.in/",
+    "rating": 3.5,
+    "reviews_count": 269,
+    "address": "453W+5QF, Sanjauli Engine Ghar Rd, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Housing Board Colony, Sanjauli",
+    "latitude": 31.1029615,
+    "longitude": 77.1970472,
+    "place_id": "ChIJmYFwdd-DBTkRlmybshfR4Mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYFwdd-DBTkRlmybshfR4Mw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:25:40"
+  }
+]

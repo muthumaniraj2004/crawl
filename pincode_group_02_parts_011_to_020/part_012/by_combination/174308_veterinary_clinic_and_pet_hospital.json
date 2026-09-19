@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "174308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "8, MDR39, Santokhgarh, Himachal Pradesh 174301",
+    "area": "174308",
+    "latitude": 31.3560305,
+    "longitude": 76.3162432,
+    "place_id": "ChIJAc3SFSjPGjkRX96INd1MJnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAc3SFSjPGjkRX96INd1MJnQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:46:37"
+  },
+  {
+    "business_name": "Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "174308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XG52+77V, Dhati, Baun, Himachal Pradesh 176093",
+    "area": "174308",
+    "latitude": 31.958243799999998,
+    "longitude": 76.5006636,
+    "place_id": "ChIJFTywurLLBDkRSjcOlf_wcpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTywurLLBDkRSjcOlf_wcpo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:46:37"
+  }
+]

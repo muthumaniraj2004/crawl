@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TL AND SON",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175019",
+    "phone_number": "+91 98161 80026",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No 02, BHOOR, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "BHOOR",
+    "latitude": 31.5849959,
+    "longitude": 76.9178551,
+    "place_id": "ChIJLcPfkWoZBTkRIvRPXWvbx7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcPfkWoZBTkRIvRPXWvbx7U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:49:57"
+  },
+  {
+    "business_name": "Sharma General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175019",
+    "phone_number": "+91 80917 12480",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "Dhaban, Himachal Pradesh 175027",
+    "area": "175019",
+    "latitude": 31.5792449,
+    "longitude": 76.9301333,
+    "place_id": "ChIJ7ZNV6VwbBTkRtYqTAbp2UCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZNV6VwbBTkRtYqTAbp2UCk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:49:59"
+  }
+]

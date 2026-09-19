@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue dart office",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "175013",
+    "phone_number": "+91 98825 69900",
+    "website": "https://www.bluedart.com/",
+    "rating": 3.8,
+    "reviews_count": 20,
+    "address": "Bir Colony Rd, Bir Colony, Chaugan, Himachal Pradesh 176077",
+    "area": "Bir Colony",
+    "latitude": 32.0372524,
+    "longitude": 76.7135784,
+    "place_id": "ChIJHT1JJSO5BDkRvxHK3mcMVjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHT1JJSO5BDkRvxHK3mcMVjw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:39:09"
+  },
+  {
+    "business_name": "BAIJNATH BUS STAND",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Bus depot",
+    "all_categories": "Bus depot",
+    "pincode": "175013",
+    "phone_number": "N/A",
+    "website": "https://hrtchp.com/",
+    "rating": 4,
+    "reviews_count": 1399,
+    "address": "z, Baijnath, Himachal Pradesh 176125",
+    "area": "175013",
+    "latitude": 32.0498974,
+    "longitude": 76.6467381,
+    "place_id": "ChIJ68EJWrG5BDkRiQfM1vjj2Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68EJWrG5BDkRiQfM1vjj2Lw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:39:10"
+  }
+]

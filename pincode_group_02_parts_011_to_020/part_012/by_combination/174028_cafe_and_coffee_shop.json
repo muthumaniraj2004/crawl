@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Mylo's",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "174028",
+    "phone_number": "+91 98828 23963",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Durgapur, Himachal Pradesh 175023",
+    "area": "174028",
+    "latitude": 31.658278399999997,
+    "longitude": 76.8259281,
+    "place_id": "ChIJM6gCoB0hBTkRBDTnHZX7b1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6gCoB0hBTkRBDTnHZX7b1M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:09"
+  },
+  {
+    "business_name": "Meeza Cafe - Rooftop Restaurant Shimla",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Continental restaurant, North Indian restaurant, Pizza restaurant, Pizza takeaway, Restaurant",
+    "pincode": "174028",
+    "phone_number": "+91 80912 91210",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "top floor, Nh5 Meraki, Ghora Chowki, Shimla, Himachal Pradesh 171004",
+    "area": "Ghora Chowki",
+    "latitude": 31.0943342,
+    "longitude": 77.13938739999999,
+    "place_id": "ChIJYdOrI2Z5BTkR-Xo3wLL6sqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdOrI2Z5BTkR-Xo3wLL6sqI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudra Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175021",
+    "phone_number": "+91 98160 29503",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "JW6C+F3X, National Highway 21, Ner Chowk, Ner, Himachal Pradesh 175021",
+    "area": "175021",
+    "latitude": 31.6112424,
+    "longitude": 76.920234,
+    "place_id": "ChIJ-ze4jx8cBTkRyGQR9HcALt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ze4jx8cBTkRyGQR9HcALt8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:56"
+  },
+  {
+    "business_name": "Pradhan Mantri Bhartiya Janaushadhi Kendra",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175021",
+    "phone_number": "+91 78769 39003",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "Near Slbsgmc and H Nerchowk Nerchowk, Balh, Himachal Pradesh 175021",
+    "area": "175021",
+    "latitude": 31.6095471,
+    "longitude": 76.91865779999999,
+    "place_id": "ChIJn7VukygdBTkRe9XysKOASu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7VukygdBTkRe9XysKOASu4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:59"
+  }
+]

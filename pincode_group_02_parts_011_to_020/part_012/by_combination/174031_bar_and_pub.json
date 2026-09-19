@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wine shop",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "174031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9M2J+5CV, Khudai, Himachal Pradesh 174034",
+    "area": "174031",
+    "latitude": 31.3505349,
+    "longitude": 76.68265889999999,
+    "place_id": "ChIJY48WVDI5BTkRzZG_oKnbB2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY48WVDI5BTkRzZG_oKnbB2M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:44"
+  },
+  {
+    "business_name": "The Royal House",
+    "search_category": "Bar and Pub",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Family restaurant",
+    "pincode": "174031",
+    "phone_number": "+91 98162 70141",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "VPO & Teh, near IPH Office, Jhanduta, Himachal Pradesh 174031",
+    "area": "174031",
+    "latitude": 31.3708942,
+    "longitude": 76.6443487,
+    "place_id": "ChIJ198SFGU5BTkR4x1drytlfH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ198SFGU5BTkR4x1drytlfH8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:44"
+  }
+]

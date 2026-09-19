@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grammy Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics manufacturer",
+    "all_categories": "Electronics manufacturer, Manufacturer",
+    "pincode": "174315",
+    "phone_number": "+91 1975 293 038",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 7,
+    "address": "122, Industrial Area, Mehatpur, Himachal Pradesh 174315",
+    "area": "Industrial Area",
+    "latitude": 31.4119021,
+    "longitude": 76.3470176,
+    "place_id": "ChIJpckRnE7PGjkRAGkSNKcULjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpckRnE7PGjkRAGkSNKcULjk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:58:01"
+  },
+  {
+    "business_name": "Krishna Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "174315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Friends Colony, Lal Singhi, Una, Himachal Pradesh 174303",
+    "area": "Friends Colony",
+    "latitude": 31.4740705,
+    "longitude": 76.25354209999999,
+    "place_id": "ChIJW06jtnjbGjkROacEeQDYHIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW06jtnjbGjkROacEeQDYHIU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:58:02"
+  }
+]

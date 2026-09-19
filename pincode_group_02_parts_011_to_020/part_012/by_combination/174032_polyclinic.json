@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "174032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop- A5, Harsh Heavence, DLS College Rd, Ashok Nagar, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "area": "Ashok Nagar, Sarkanda",
+    "latitude": 22.0996357,
+    "longitude": 82.1588027,
+    "place_id": "ChIJi3eesnELKDoRuXBoZVwUWxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3eesnELKDoRuXBoZVwUWxM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:51"
+  },
+  {
+    "business_name": "Dr. Sandeep Gupta",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "174032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "03, Near By C Mart Nehru Chowk Bilaspur Nehru Chowk, To, Rajiv Gandhi Chowk, Civil Lines, Masanganj, Chhattisgarh 495001",
+    "area": "Civil Lines",
+    "latitude": 22.083448999999998,
+    "longitude": 82.14176189999999,
+    "place_id": "ChIJocOvUQALKDoRdQLTAeBropM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocOvUQALKDoRdQLTAeBropM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:52"
+  }
+]

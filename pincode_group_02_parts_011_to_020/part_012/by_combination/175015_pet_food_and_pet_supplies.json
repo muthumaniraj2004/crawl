@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hamster pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balh, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.9440177,
+    "longitude": 76.7810731,
+    "place_id": "ChIJCVZcsOPBBDkR07XLM1vE4iM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVZcsOPBBDkR07XLM1vE4iM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:21"
+  },
+  {
+    "business_name": "Himalayan pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mandi pathankot highway, Chauntra, Village, sukhbag, Himachal Pradesh 176056",
+    "area": "175015",
+    "latitude": 32.0924264,
+    "longitude": 76.33896779999999,
+    "place_id": "ChIJ5aenm9BPGzkRSGukqXlSSbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5aenm9BPGzkRSGukqXlSSbI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:22"
+  }
+]

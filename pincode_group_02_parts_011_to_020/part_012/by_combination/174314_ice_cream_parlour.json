@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Dev ice-cream And faluda",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Ice cream equipment supplier",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baruhi, Himachal Pradesh 177211",
+    "area": "174314",
+    "latitude": 31.6011566,
+    "longitude": 76.1778087,
+    "place_id": "ChIJG8la9hQhGzkR71KEHkdU7bU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8la9hQhGzkR71KEHkdU7bU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:36"
+  },
+  {
+    "business_name": "देसी Ice Cream Bar",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Panjawar Rd, Panjawar, Himachal Pradesh 177208",
+    "area": "174314",
+    "latitude": 31.5498996,
+    "longitude": 76.1527859,
+    "place_id": "ChIJk1P3TRLfGjkR33EZ1NP-kB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1P3TRLfGjkR33EZ1NP-kB4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:38"
+  }
+]

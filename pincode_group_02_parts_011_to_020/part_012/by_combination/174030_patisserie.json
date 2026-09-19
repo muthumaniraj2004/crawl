@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Creamy spicy",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "174030",
+    "phone_number": "+91 82699 20747",
+    "website": "http://www.creamyspicyindia.com/",
+    "rating": 4.3,
+    "reviews_count": 89,
+    "address": "Na, Mahamaya chowk, New Sarkanda, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "area": "New Sarkanda, Sarkanda",
+    "latitude": 22.0951329,
+    "longitude": 82.14417689999999,
+    "place_id": "ChIJrRggdnYLKDoRlI_Z2mzqUJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRggdnYLKDoRlI_Z2mzqUJ0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:44"
+  },
+  {
+    "business_name": "Friends Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "174030",
+    "phone_number": "+91 88940 81701",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "GFG6+FMW, Daya Mehre Rd, near petrol pump, Barsar, Himachal Pradesh 174305",
+    "area": "174030",
+    "latitude": 31.526239399999998,
+    "longitude": 76.461705,
+    "place_id": "ChIJP5q8q4ctBTkR67192WUicLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5q8q4ctBTkR67192WUicLw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:45"
+  }
+]

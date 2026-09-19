@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Solang Valley Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Conference center, Event venue, Hotel, Wedding venue",
+    "pincode": "174013",
+    "phone_number": "+91 98100 36692",
+    "website": "http://www.solangvalleyresorts.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Solang Valley, Manali, Burwa, VPO, Palchan, Himachal Pradesh 175103",
+    "area": "VPO",
+    "latitude": 32.312519099999996,
+    "longitude": 77.1678913,
+    "place_id": "ChIJA3662D6HBDkRW9SmEgB9tks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3662D6HBDkRW9SmEgB9tks",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:13"
+  },
+  {
+    "business_name": "ASIA SPA RESORT",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Massage spa, Spa",
+    "pincode": "174013",
+    "phone_number": "N/A",
+    "website": "https://asiasparesort.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Strawberry Hills, near Dal Lake-Mcleod Ganj, Village Stovari, Dharamshala, Dhial, Himachal Pradesh 176216",
+    "area": "Village Stovari",
+    "latitude": 32.246795299999995,
+    "longitude": 76.3011519,
+    "place_id": "ChIJw5O0nzpXGzkRE_6e23YxmPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5O0nzpXGzkRE_6e23YxmPk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:55:13"
+  }
+]

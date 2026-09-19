@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asian pharmacy 24/7",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "174405",
+    "phone_number": "+91 70380 89191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "55GF+MVH, Pathardi, Maharashtra 414102",
+    "area": "174405",
+    "latitude": 19.1766918,
+    "longitude": 75.1747384,
+    "place_id": "ChIJRXZuIABF2zsRkwlVlSxXhgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXZuIABF2zsRkwlVlSxXhgk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:08:52"
+  },
+  {
+    "business_name": "Pharmacy27",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "174405",
+    "phone_number": "+91 77580 55427",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "F2QC+J7X Vaishnavi Clinic, Pune - Solapur Rd, Kadam Wasti, Kadamwak Wasti, Maharashtra 412201",
+    "area": "Kadam Wasti",
+    "latitude": 18.489117,
+    "longitude": 74.020743,
+    "place_id": "ChIJr0nZj67pwjsR12TC4XrEgTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0nZj67pwjsR12TC4XrEgTg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:08:54"
+  }
+]

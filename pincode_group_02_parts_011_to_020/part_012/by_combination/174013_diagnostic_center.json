@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheetla medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "174013",
+    "phone_number": "+91 94596 85006",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPO and SUB Tehsil, Dehar, Himachal Pradesh 175030",
+    "area": "174013",
+    "latitude": 31.4239376,
+    "longitude": 76.81182419999999,
+    "place_id": "ChIJ-ckzHgA9BTkReWI17wzBwtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ckzHgA9BTkReWI17wzBwtM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:34"
+  },
+  {
+    "business_name": "Chamunda Ayurved Medical Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174013",
+    "phone_number": "+91 98171 11900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhantrehar, Bilaspur, NH-21, Mandi Tunnel Road, Barmana, Barmana, Himachal Pradesh 174013",
+    "area": "174013",
+    "latitude": 31.415467699999997,
+    "longitude": 76.830231,
+    "place_id": "ChIJiQOLQhwWBTkRIAiPIJnM954",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQOLQhwWBTkRIAiPIJnM954",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:34"
+  }
+]

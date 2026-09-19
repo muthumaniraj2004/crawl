@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sambar House Una",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "174301",
+    "phone_number": "+91 98052 79763",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 84,
+    "address": "CD Complex, College Road, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.4663699,
+    "longitude": 76.2762322,
+    "place_id": "ChIJH7IEzVnRGjkRd-QNyHW9AIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7IEzVnRGjkRd-QNyHW9AIU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:33:12"
+  },
+  {
+    "business_name": "Dosa Gali",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "174301",
+    "phone_number": "+91 62398 34142",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "near New Panchayat Ghar, Tehsil Haroli, Bathu, Himachal Pradesh 174507",
+    "area": "Tehsil Haroli",
+    "latitude": 31.327157,
+    "longitude": 76.2732927,
+    "place_id": "ChIJZ3Cij9nJGjkRfaVdj7W_yZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3Cij9nJGjkRfaVdj7W_yZI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:33:12"
+  }
+]

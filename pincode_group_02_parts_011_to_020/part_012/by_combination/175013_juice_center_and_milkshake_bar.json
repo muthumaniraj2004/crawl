@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soul Mantra",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Store",
+    "all_categories": "Store, Restaurant, Cafe",
+    "pincode": "175013",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/soulmantra_bir/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bir Colony Rd, Bir Colony, Chaugan, Bir, Himachal Pradesh 176077",
+    "area": "Bir Colony",
+    "latitude": 32.038727099999996,
+    "longitude": 76.7121786,
+    "place_id": "ChIJx2R3_t-5BDkRhjUoGEuD0mQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2R3_t-5BDkRhjUoGEuD0mQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:38:34"
+  },
+  {
+    "business_name": "Blue Umbrella - Cafe/Canteen",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cafe",
+    "pincode": "175013",
+    "phone_number": "+91 98165 25205",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Tibetan medicine center, Opposite to Bir Mentseekhang, Bir Colony, Himachal Pradesh 176077",
+    "area": "Bir Colony",
+    "latitude": 32.038341599999995,
+    "longitude": 76.7123672,
+    "place_id": "ChIJwbYGO9W5BDkRhMGtlV3CXAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbYGO9W5BDkRhMGtlV3CXAc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:38:34"
+  }
+]

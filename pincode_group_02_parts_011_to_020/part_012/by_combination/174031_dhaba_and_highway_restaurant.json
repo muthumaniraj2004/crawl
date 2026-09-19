@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Punjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "174031",
+    "phone_number": "+91 98161 80583",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shimla - Kangra Rd, Ranital, Rasuh, Himachal Pradesh 176029",
+    "area": "174031",
+    "latitude": 32.0189482,
+    "longitude": 76.2293893,
+    "place_id": "ChIJDTj54VlGGzkRSAmfBv82jFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTj54VlGGzkRSAmfBv82jFE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:42"
+  },
+  {
+    "business_name": "Green Valley Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "174031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "68VM+83Q, Bhagsu Nag, Dharamshala, Himachal Pradesh 176216",
+    "area": "Bhagsu Nag",
+    "latitude": 32.2433496,
+    "longitude": 76.3327455,
+    "place_id": "ChIJPX3D6MxWGzkR__YTHy768d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPX3D6MxWGzkR__YTHy768d0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:44"
+  }
+]

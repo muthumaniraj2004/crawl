@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajaj Capital",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner",
+    "pincode": "174303",
+    "phone_number": "+91 1800 212 123 123",
+    "website": "https://www.bajajcapitalinsurance.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Adjoing, Vishal Mega Mart, 1st Floor, Ajit Tower, Old Hoshiarpur Rd, Una, Himachal Pradesh 174303",
+    "area": "174303",
+    "latitude": 31.4678133,
+    "longitude": 76.2491905,
+    "place_id": "ChIJ8d-M0FDbGjkRdWjpMjqq4uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8d-M0FDbGjkRdWjpMjqq4uM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:38:18"
+  },
+  {
+    "business_name": "RelaxTax",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Service establishment",
+    "pincode": "174303",
+    "phone_number": "N/A",
+    "website": "https://www.relaxtax.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RelaxTax, 174303, India",
+    "area": "174303",
+    "latitude": 30.830546899999998,
+    "longitude": 77.3017548,
+    "place_id": "ChIJVyiLC3u4oa0ROdz17JG2qTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyiLC3u4oa0ROdz17JG2qTc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:38:18"
+  }
+]

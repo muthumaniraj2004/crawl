@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soul Spa",
+    "search_category": "Spa",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "174015",
+    "phone_number": "+91 97819 73665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2F, Spring Valley Resorts Bhagsunag, Distt, Upper, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",
+    "area": "Upper, McLeod Ganj",
+    "latitude": 32.2430229,
+    "longitude": 76.3318953,
+    "place_id": "ChIJZQm43ApXGzkRN37BmqbfHCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQm43ApXGzkRN37BmqbfHCA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:56:53"
+  },
+  {
+    "business_name": "Arushi Beauty Parlour & Beutic",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "174015",
+    "phone_number": "+91 83605 73440",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "On Road Vpo Kotla Power House, Punjab 140116",
+    "area": "174015",
+    "latitude": 31.209791199999998,
+    "longitude": 76.54711259999999,
+    "place_id": "ChIJZazilzJLBTkRDPq-L4TvDaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZazilzJLBTkRDPq-L4TvDaE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:56:53"
+  }
+]

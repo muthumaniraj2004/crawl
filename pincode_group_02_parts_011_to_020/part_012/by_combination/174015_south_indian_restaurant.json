@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Monal Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Bengali restaurant, Breakfast restaurant, Chinese restaurant, Continental restaurant, Fast food restaurant, Gujarati restaurant, South Indian restaurant",
+    "pincode": "174015",
+    "phone_number": "+91 94180 54500",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Kotwali Bazar Rd, Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.2196287,
+    "longitude": 76.3183301,
+    "place_id": "ChIJtSGqFCBRGzkR1dAx3jYjECo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSGqFCBRGzkR1dAx3jYjECo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:56:06"
+  },
+  {
+    "business_name": "Great Indian masala dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "174015",
+    "phone_number": "+91 74703 64973",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "G7PV+55M, Narendra Nagar, Amaiya Colony, Rewa, Madhya Pradesh 486001",
+    "area": "Narendra Nagar, Amaiya Colony",
+    "latitude": 24.535460099999998,
+    "longitude": 81.292936,
+    "place_id": "ChIJWYqx_s1bhDkRgP1qPCXlBgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYqx_s1bhDkRgP1qPCXlBgE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:56:07"
+  }
+]

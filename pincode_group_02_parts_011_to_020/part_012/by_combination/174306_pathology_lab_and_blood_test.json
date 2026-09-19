@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Polo Labs Una",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Laboratory",
+    "pincode": "174306",
+    "phone_number": "N/A",
+    "website": "http://www.pololabs.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Ward No. 4, Adarsh Nagar, Polo Labs, Una - Hamirpur Rd, near Zonal Hospital, Una, Himachal Pradesh 174303",
+    "area": "174306",
+    "latitude": 31.477107699999998,
+    "longitude": 76.27289929999999,
+    "place_id": "ChIJfd1T-e_RGjkReI2GKv6t8dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfd1T-e_RGjkReI2GKv6t8dQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:52"
+  },
+  {
+    "business_name": "Bassi laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "174306",
+    "phone_number": "+91 86279 94466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhabour Sahib, Naya Nangal, Bhabhaur, Punjab 140126",
+    "area": "Bhabour Sahib",
+    "latitude": 31.4021738,
+    "longitude": 76.3616172,
+    "place_id": "ChIJf5UlxmfPGjkR8pR_IU7Mdx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5UlxmfPGjkR8pR_IU7Mdx4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice cafe",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "175003",
+    "phone_number": "+91 73861 67922",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 59,
+    "address": "North Extension, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "North Extension, Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.741344899999998,
+    "longitude": 83.3076753,
+    "place_id": "ChIJXUfs85NDOToRzYG09YxbZtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUfs85NDOToRzYG09YxbZtA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:19:55"
+  },
+  {
+    "business_name": "Just chill 2.0",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "175003",
+    "phone_number": "+91 88927 60713",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077",
+    "area": "BDS Nagar, Narayanapura",
+    "latitude": 13.0658997,
+    "longitude": 77.6430127,
+    "place_id": "ChIJ2cYefagZrjsRi6Zpodbj9NA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cYefagZrjsRi6Zpodbj9NA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:19:58"
+  }
+]

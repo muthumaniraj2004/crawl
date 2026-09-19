@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "parmar meat shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "174319",
+    "phone_number": "+91 98721 00365",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dsuya road, Dharampur, Chamuhi, Punjab 144224",
+    "area": "174319",
+    "latitude": 31.8372466,
+    "longitude": 75.9062709,
+    "place_id": "ChIJxQAUocYTGzkR0fuB8NpEAVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQAUocYTGzkR0fuB8NpEAVU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:02:52"
+  },
+  {
+    "business_name": "Desi Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "174319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R37P+64V, Badhmana - Nari - Gulerian Rd, Badhmana, Himachal Pradesh 177110",
+    "area": "174319",
+    "latitude": 31.813101999999997,
+    "longitude": 76.0852998,
+    "place_id": "ChIJkZeZrykXGzkRIPUuJDdnMXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZeZrykXGzkRIPUuJDdnMXM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:02:54"
+  }
+]

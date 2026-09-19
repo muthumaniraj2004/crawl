@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bilaspur Mela",
+    "search_category": "Exhibitions",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization",
+    "pincode": "174032",
+    "phone_number": "+91 77522 52199",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "व्यापर, Abhishek Vihar Rd, व्यापर विहार, Chhattisgarh 495004",
+    "area": "व्यापर विहार",
+    "latitude": 22.0651561,
+    "longitude": 82.1505189,
+    "place_id": "ChIJTXi7hUcLKDoRT1hy7US8rBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXi7hUcLKDoRT1hy7US8rBc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:17:59"
+  },
+  {
+    "business_name": "River view",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "174032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "44R9+3W, Koni, Bilaspur, Chhattisgarh 495009",
+    "area": "Koni",
+    "latitude": 22.1401875,
+    "longitude": 82.1198125,
+    "place_id": "ChIJ596ODgANKDoRqeM27o2XliM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ596ODgANKDoRqeM27o2XliM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:17:59"
+  }
+]

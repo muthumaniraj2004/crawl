@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joginder",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "XQRQ+FXV, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.991249699999997,
+    "longitude": 76.7899214,
+    "place_id": "ChIJVdq-0v7BBDkRNooWBhcPjVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdq-0v7BBDkRNooWBhcPjVU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:53"
+  },
+  {
+    "business_name": "Service station",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "TEHSIL SANDHOLE, Sandhol, Takrer, Himachal Pradesh 176090",
+    "area": "175015",
+    "latitude": 31.866062499999998,
+    "longitude": 76.6605283,
+    "place_id": "ChIJxbv_lkPFBDkRvYL9NFdfMRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbv_lkPFBDkRvYL9NFdfMRc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:54"
+  }
+]

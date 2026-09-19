@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BookDreamWedding",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment, Photography service, Wedding service",
+    "pincode": "175019",
+    "phone_number": "+91 89992 62421",
+    "website": "https://bookdreamwedding.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BookDreamWedding, 175019, India",
+    "area": "175019",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJkRdMKl0v8AER3UkBGLoFo9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRdMKl0v8AER3UkBGLoFo9U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:50:56"
+  },
+  {
+    "business_name": "Haldi Mehndi Decoration",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "175019",
+    "phone_number": "N/A",
+    "website": "https://haldimehndidecoration.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "B-440, Second, near Sai mandir, Balmiki Kunj, Sector 7, Pocket B, Patel Nagar 2nd, Patel Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Balmiki Kunj, Sector 7, Pocket B, Patel Nagar 2nd, Patel Nagar",
+    "latitude": 28.6737431,
+    "longitude": 77.4184436,
+    "place_id": "ChIJk7SlMEjxDDkRKp89QnnpmA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7SlMEjxDDkRKp89QnnpmA8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:50:56"
+  }
+]

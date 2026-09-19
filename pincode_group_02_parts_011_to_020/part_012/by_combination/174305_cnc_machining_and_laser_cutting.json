@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lathe Machine Shop",
+    "search_category": "CNC Machining and Laser Cutting",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "174305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GCFW+VR4, Barsar, Himachal Pradesh 174305",
+    "area": "174305",
+    "latitude": 31.5245869,
+    "longitude": 76.4462308,
+    "place_id": "ChIJYcwEVQDTGjkRNP03GzVGB30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcwEVQDTGjkRNP03GzVGB30",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:03"
+  },
+  {
+    "business_name": "Ganesh Engineer Works",
+    "search_category": "CNC Machining and Laser Cutting",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "174305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "F737+55W, Una, Himachal Pradesh 174303",
+    "area": "174305",
+    "latitude": 31.4529829,
+    "longitude": 76.2629523,
+    "place_id": "ChIJLXXjsB3bGjkRF5c0LzagGgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXXjsB3bGjkRF5c0LzagGgw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manhas Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "174031",
+    "phone_number": "+91 82194 36761",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Jhanduta, Himachal Pradesh 174031",
+    "area": "174031",
+    "latitude": 31.369425399999997,
+    "longitude": 76.64514679999999,
+    "place_id": "ChIJ92Ik1to5BTkR1C4rV-kkqpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92Ik1to5BTkR1C4rV-kkqpo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:58"
+  },
+  {
+    "business_name": "Bharol dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "174031",
+    "phone_number": "+91 70189 35655",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "174031, opposite PNB bank, Jhanduta, Himachal Pradesh 174031",
+    "area": "174031",
+    "latitude": 31.3705283,
+    "longitude": 76.64647169999999,
+    "place_id": "ChIJz0Ou6WM5BTkRdIRuItldlEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0Ou6WM5BTkRdIRuItldlEI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:58"
+  }
+]

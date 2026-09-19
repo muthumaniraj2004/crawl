@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "175011",
+    "phone_number": "+91 70181 79274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "near Primary Health centre Showad, Showad, Anni, Shilhi, Himachal Pradesh 172026",
+    "area": "Showad",
+    "latitude": 31.4449744,
+    "longitude": 77.351509,
+    "place_id": "ChIJ87VKLwC9BTkRO7fMyC2kOKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87VKLwC9BTkRO7fMyC2kOKE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:35:11"
+  },
+  {
+    "business_name": "Krishna dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "175011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "V.P.O, SHOWAD, Shilhi, Himachal Pradesh 172026",
+    "area": "SHOWAD",
+    "latitude": 31.4450097,
+    "longitude": 77.3514981,
+    "place_id": "ChIJSWPBO9CjBTkRVuB6exP45Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWPBO9CjBTkRVuB6exP45Z8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:35:11"
+  }
+]

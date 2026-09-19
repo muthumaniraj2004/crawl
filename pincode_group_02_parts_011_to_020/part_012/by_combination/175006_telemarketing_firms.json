@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloveode Technologies",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services, Software Training Institute, Website designer",
+    "pincode": "175006",
+    "phone_number": "+91 86288 92998",
+    "website": "https://www.cloveode.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Housing Board Colony, Tarna, Sanyard, Mandi, Himachal Pradesh 175001",
+    "area": "Tarna",
+    "latitude": 31.6987834,
+    "longitude": 76.9278502,
+    "place_id": "ChIJvxZXckjjBDkR-Ng9Gap7BuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxZXckjjBDkR-Ng9Gap7BuA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:27:14"
+  },
+  {
+    "business_name": "Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Service establishment",
+    "pincode": "175006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Marketing, 175006, India",
+    "area": "175006",
+    "latitude": 31.660137799999998,
+    "longitude": 76.94429389999999,
+    "place_id": "ChIJIVSNxIcdBTkRUASCs5NyHsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVSNxIcdBTkRUASCs5NyHsc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:27:14"
+  }
+]

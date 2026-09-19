@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CallingGo",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company, Service establishment",
+    "pincode": "174505",
+    "phone_number": "N/A",
+    "website": "https://www.callinggo.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CallingGo, 174505, India",
+    "area": "174505",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJ--lJ_uZ_biIRvwgJk6eQaIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--lJ_uZ_biIRvwgJk6eQaIY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:14:02"
+  },
+  {
+    "business_name": "Direct Appoint",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "174505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Direct Appoint, 174505, India",
+    "area": "174505",
+    "latitude": 20.946480599999997,
+    "longitude": 80.6183267,
+    "place_id": "ChIJRz3-OazLB6YR9tw17LYcbKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRz3-OazLB6YR9tw17LYcbKY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:14:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gremin Media",
+    "search_category": "Media and Event",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Entertainment agency, Music management and promotion",
+    "pincode": "175007",
+    "phone_number": "+91 85568 00091",
+    "website": "https://greminmedia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, C-205, Phase 8B, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Phase 8B, Industrial Area, Sector 74",
+    "latitude": 30.7069463,
+    "longitude": 76.68503539999999,
+    "place_id": "ChIJ9zT9OYPuDzkRB9DvLfE6zM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zT9OYPuDzkRB9DvLfE6zM8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:28:33"
+  },
+  {
+    "business_name": "Muskan Studio",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service",
+    "pincode": "175007",
+    "phone_number": "+91 98051 43909",
+    "website": "https://muskan-studio.ueniweb.com/?utm_campaign=gmb",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Teh, Bhoranj, Vpo, Chandruhi, Himachal Pradesh 177024",
+    "area": "Bhoranj, Vpo",
+    "latitude": 31.645452799999997,
+    "longitude": 76.7147174,
+    "place_id": "ChIJHb_wXWknBTkRzkQJ2tLOnGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHb_wXWknBTkRzkQJ2tLOnGM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:28:34"
+  }
+]

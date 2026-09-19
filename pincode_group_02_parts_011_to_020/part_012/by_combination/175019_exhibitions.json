@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nalwadi Mela ground",
+    "search_category": "Exhibitions",
+    "primary_category": "Fairground",
+    "all_categories": "Fairground",
+    "pincode": "175019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GVPX+FHG, Purana Bazar, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "Purana Bazar",
+    "latitude": 31.5361861,
+    "longitude": 76.8989449,
+    "place_id": "ChIJffCrirsZBTkROVTx5A80cws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffCrirsZBTkROVTx5A80cws",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:51:30"
+  },
+  {
+    "business_name": "Rampur",
+    "search_category": "Exhibitions",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "175019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HWF7+4CH, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "175019",
+    "latitude": 31.572821299999998,
+    "longitude": 76.9136137,
+    "place_id": "ChIJj9waRjsZBTkRFuzsHXBCCXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9waRjsZBTkRFuzsHXBCCXA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:51:30"
+  }
+]

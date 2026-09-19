@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sethi Emporium",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174317",
+    "phone_number": "+91 99155 00624",
+    "website": "http://sethiemporium.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Railway Rd, opp. Government senior secondary school ( co ed, Jagat Pura, Hoshiarpur, Punjab 146001",
+    "area": "Jagat Pura",
+    "latitude": 31.5342773,
+    "longitude": 75.91046209999999,
+    "place_id": "ChIJq8E_a9DiGjkR-_SDsAa7-b0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8E_a9DiGjkR-_SDsAa7-b0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:01:19"
+  },
+  {
+    "business_name": "Renu's Attire",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Boutique, Clothing Accessories Store, Formal Clothing Store, Plus Size Clothing Store, Western apparel store, Women's clothing store",
+    "pincode": "174317",
+    "phone_number": "+91 98717 71948",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FF 28, Plot No 9 to 11, Sector 7C, Siddharth Vihar, Pratap Vihar, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Sector 7C, Siddharth Vihar, Pratap Vihar",
+    "latitude": 28.6540432,
+    "longitude": 77.4009731,
+    "place_id": "ChIJ-bj9ieXxDDkRUtUzvddCit8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bj9ieXxDDkRUtUzvddCit8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:01:19"
+  }
+]

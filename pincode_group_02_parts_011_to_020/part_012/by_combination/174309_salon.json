@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE SHAGUNS",
+    "search_category": "Salon",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "174309",
+    "phone_number": "+91 98765 56423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 3, UNA ROAD, near RTO BARIERE, Mehatpur, Punjab 174315",
+    "area": "174309",
+    "latitude": 31.4036649,
+    "longitude": 76.3438518,
+    "place_id": "ChIJ4zOKKQDPGjkR8-nti16ZwM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zOKKQDPGjkR8-nti16ZwM4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:56"
+  },
+  {
+    "business_name": "Barbar shop",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "174309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, Main Bajaar, Bijhari, near Ajay Dental and Kuber Shoe House, Bijhri, Himachal Pradesh 176040",
+    "area": "174309",
+    "latitude": 31.5236716,
+    "longitude": 76.5393783,
+    "place_id": "ChIJKd3eKmwtBTkRgwYIFGFXBss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKd3eKmwtBTkRgwYIFGFXBss",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub Health Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bani, Hamirpur, SH-32, Una Jahu Nerchowk Road, Barsar, Barsar, Himachal Pradesh 174304",
+    "area": "174305",
+    "latitude": 31.543567999999997,
+    "longitude": 76.4776448,
+    "place_id": "ChIJaU4Skl8rBTkRHhBOJgUvejs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaU4Skl8rBTkRHhBOJgUvejs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:41:30"
+  },
+  {
+    "business_name": "Hamirpur supplement foods",
+    "search_category": "Wellness Center",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "174305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 66,
+    "address": "tehsil, Vpo karer, Barsar, Himachal Pradesh 174311",
+    "area": "174305",
+    "latitude": 31.5919326,
+    "longitude": 76.5225145,
+    "place_id": "ChIJL-tGPOwrBTkRegUEt8UP1hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-tGPOwrBTkRegUEt8UP1hc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:41:32"
+  }
+]

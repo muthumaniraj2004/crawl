@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "174031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPO, Jhanduta, Himachal Pradesh 174031",
+    "area": "174031",
+    "latitude": 31.3711348,
+    "longitude": 76.64271719999999,
+    "place_id": "ChIJyZlx_Tc5BTkRGZARnGaNRtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZlx_Tc5BTkRGZARnGaNRtE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:15:50"
+  },
+  {
+    "business_name": "Kabir Digital Sewa Kendre",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Computer support and services",
+    "pincode": "174031",
+    "phone_number": "+91 82195 56871",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kabir Digital Sewa Kendre, Jhanduta, Jhanduta Awal, Himachal Pradesh 174031",
+    "area": "174031",
+    "latitude": 31.3748889,
+    "longitude": 76.6388692,
+    "place_id": "ChIJbSLHHQA3BTkRgfXJSgXoqWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSLHHQA3BTkRgfXJSgXoqWQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:15:50"
+  }
+]

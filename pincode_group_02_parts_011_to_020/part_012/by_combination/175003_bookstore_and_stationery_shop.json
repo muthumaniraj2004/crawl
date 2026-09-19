@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARV STATIONERS",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "175003",
+    "phone_number": "+91 70186 49140",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near GSSS, Kataula, Himachal Pradesh 175005",
+    "area": "175003",
+    "latitude": 31.7973204,
+    "longitude": 77.0179162,
+    "place_id": "ChIJG6nJB_n7BDkRhLk8vJTvSAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6nJB_n7BDkRhLk8vJTvSAc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:21:06"
+  },
+  {
+    "business_name": "SHIV BOOK DEPOT",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "175003",
+    "phone_number": "+91 96465 08981",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 217,
+    "address": "Lane No. 3, Batala Rd, Vijay Nagar, Amritsar, Punjab 143001",
+    "area": "Vijay Nagar",
+    "latitude": 31.643030999999997,
+    "longitude": 74.895161,
+    "place_id": "ChIJmaX6yEdjGTkR5CweCtb2t9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaX6yEdjGTkR5CweCtb2t9g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:21:07"
+  }
+]

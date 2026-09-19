@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vani holidays",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service, Tour operator",
+    "pincode": "174027",
+    "phone_number": "+91 80 4840 4565",
+    "website": "https://vaniholidays.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhira, Ladraur, Himachal Pradesh 176043",
+    "area": "174027",
+    "latitude": 31.5826674,
+    "longitude": 76.64316529999999,
+    "place_id": "ChIJIZFiDB4nBTkRXPUj9XC1NF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZFiDB4nBTkRXPUj9XC1NF8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:48"
+  },
+  {
+    "business_name": "Thakur Tour & Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "174027",
+    "phone_number": "+91 98053 77233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Thakur Tour & Travels, 174027, India",
+    "area": "174027",
+    "latitude": 31.5891615,
+    "longitude": 76.580812,
+    "place_id": "ChIJ77gcvZXLDqQRYObbkW2uaOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77gcvZXLDqQRYObbkW2uaOU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:51"
+  }
+]

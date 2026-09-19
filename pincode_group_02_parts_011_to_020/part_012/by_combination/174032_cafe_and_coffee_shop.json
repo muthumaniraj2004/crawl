@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Gupshup",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "174032",
+    "phone_number": "+91 98937 02971",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "18, Vyapar Vihar Rd, Bilaspur, Chhattisgarh 495004",
+    "area": "174032",
+    "latitude": 22.064358799999997,
+    "longitude": 82.1531562,
+    "place_id": "ChIJpZohpTkLKDoRzit_WKrtTkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZohpTkLKDoRzit_WKrtTkw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:36"
+  },
+  {
+    "business_name": "Cup Shup Cafe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174032",
+    "phone_number": "+91 85447 84919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite JNV, Kothipura, Himachal Pradesh 174037",
+    "area": "174032",
+    "latitude": 31.2909266,
+    "longitude": 76.7831878,
+    "place_id": "ChIJrS-4wJJBBTkRTNqUb-qzvMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrS-4wJJBBTkRTNqUb-qzvMY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:36"
+  }
+]

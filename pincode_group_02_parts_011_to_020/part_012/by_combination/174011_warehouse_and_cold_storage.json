@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pakistan Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse, Cold storage facility, Storage facility",
+    "pincode": "174011",
+    "phone_number": "0330 8251111",
+    "website": "http://www.pakistanfruit.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot No. A33، Al Hadi، Textile St، opposite SITE Polie Station, Metroville Sindh Industrial Trading Estate, Karachi, 75700, Pakistan",
+    "area": "Metroville Sindh Industrial Trading Estate",
+    "latitude": 24.905963999999997,
+    "longitude": 66.997586,
+    "place_id": "ChIJtfni9WEVsz4RVYM_3uYz9WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfni9WEVsz4RVYM_3uYz9WI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:52:02"
+  },
+  {
+    "business_name": "Lingraj Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "174011",
+    "phone_number": "+91 77122 25489",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 30,
+    "address": "No 2, Ring Road, Gondwara, Gondwara, Raipur, Chhattisgarh 493221",
+    "area": "Urla Industrial Complex, Birgoan",
+    "latitude": 21.2916217,
+    "longitude": 81.6213537,
+    "place_id": "ChIJVVVVlUnnKDoR2ikL_F8jcpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlUnnKDoR2ikL_F8jcpk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:52:03"
+  }
+]

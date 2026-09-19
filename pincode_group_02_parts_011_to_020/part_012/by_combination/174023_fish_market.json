@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bara da ghat",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "174023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "GMW9+FJ6, Bauni Dhalyani, Himachal Pradesh 174027",
+    "area": "174023",
+    "latitude": 31.5461562,
+    "longitude": 76.6690012,
+    "place_id": "ChIJM3QzF_AlBTkRY9yYEjk104A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3QzF_AlBTkRY9yYEjk104A",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:01:36"
+  },
+  {
+    "business_name": "Sethi General Store",
+    "search_category": "Fish Market",
+    "primary_category": "General store",
+    "all_categories": "General store, Produce market, Vegetable wholesale market",
+    "pincode": "174023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Center point of Shimla Dharmshala, NH 103, Dangar, Himachal Pradesh 174023",
+    "area": "174023",
+    "latitude": 31.519574799999997,
+    "longitude": 76.63218499999999,
+    "place_id": "ChIJjTdr3u4vBTkRUDYKVfPsorY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTdr3u4vBTkRUDYKVfPsorY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:01:36"
+  }
+]

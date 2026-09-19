@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sidiksha Stationery Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "175016",
+    "phone_number": "+91 99884 85403",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Giora, Himachal Pradesh 176201",
+    "area": "175016",
+    "latitude": 32.26051,
+    "longitude": 75.8324236,
+    "place_id": "ChIJw3aOUwB9GzkRo4I8FfKokDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3aOUwB9GzkRo4I8FfKokDY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:45:27"
+  },
+  {
+    "business_name": "Sharma Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "175016",
+    "phone_number": "+91 85804 05785",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 55,
+    "address": "Rehan, Teh- Nurpur, Post office - Lahroon, Rehan Khas, Himachal Pradesh 176022",
+    "area": "175016",
+    "latitude": 32.1608848,
+    "longitude": 75.9073028,
+    "place_id": "ChIJgbj0IM5kGzkRGgxqy-uENcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbj0IM5kGzkRGgxqy-uENcA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:45:28"
+  }
+]

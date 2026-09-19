@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAI LOVERS",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "174312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MQ57+FC5, Lingampally, Telangana 502321",
+    "area": "174312",
+    "latitude": 17.657602,
+    "longitude": 77.76346339999999,
+    "place_id": "ChIJGSz18mdTyTsR-QKp6_tNdhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSz18mdTyTsR-QKp6_tNdhI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:53:41"
+  },
+  {
+    "business_name": "Kulhad tea cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "174312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nirwana square one, Kharar - Kurali Rd, Kharar, Punjab 140301",
+    "area": "174312",
+    "latitude": 30.766128199999997,
+    "longitude": 76.6254479,
+    "place_id": "ChIJsw-IcQD7DzkRP1m-6WDzxRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsw-IcQD7DzkRP1m-6WDzxRE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:53:41"
+  }
+]

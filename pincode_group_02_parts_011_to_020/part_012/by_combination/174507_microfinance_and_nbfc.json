@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DMI Housing Finance",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "174507",
+    "phone_number": "+91 11 6610 7107",
+    "website": "https://www.dmihousingfinance.in/",
+    "rating": 4.4,
+    "reviews_count": 97,
+    "address": "403-A, 4th-floor Riddhi Sidhi complex plot no 4 C, near ICICI Bank, Madhuban, Udaipur, Rajasthan 313001",
+    "area": "Madhuban",
+    "latitude": 24.5933191,
+    "longitude": 73.6927274,
+    "place_id": "ChIJo1nOzLflZzkR7PDU_ybzwuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1nOzLflZzkR7PDU_ybzwuU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:15:35"
+  },
+  {
+    "business_name": "SK Finance Limited",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "174507",
+    "phone_number": "+91 1800 103 9039",
+    "website": "https://www.skfin.in/locate-us/GOGUNDA",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GROUND FLOOR, BYE PASS CHOURAHA, ROAD, Udaipur, Gogunda, Rajasthan 313705",
+    "area": "174507",
+    "latitude": 24.7501724,
+    "longitude": 73.5360099,
+    "place_id": "ChIJWY738O4BaDkRvn-1NrXT3I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWY738O4BaDkRvn-1NrXT3I8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:15:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "T R Enterprises",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "175013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bithal, NH-5, Bithal, Rampur Road, Rampur Bushahr, Himachal Pradesh 172030",
+    "area": "175013",
+    "latitude": 31.3519768,
+    "longitude": 77.4934925,
+    "place_id": "ChIJy8_u-x2VBTkRbdo9Admo6lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8_u-x2VBTkRbdo9Admo6lU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:39:05"
+  },
+  {
+    "business_name": "Maa Sukrala Motors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "175013",
+    "phone_number": "+91 86290 06565",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "10, near Rana Hardware, Bhatu Palam, Palampur, Himachal Pradesh 176064",
+    "area": "175013",
+    "latitude": 32.0821414,
+    "longitude": 76.48772939999999,
+    "place_id": "ChIJWS_-V-ezBDkRAFNmVSg1CpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWS_-V-ezBDkRAFNmVSg1CpE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:39:06"
+  }
+]

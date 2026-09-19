@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Man Pasand Dhaba",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175018",
+    "phone_number": "+91 98163 91892",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01, Sunder Mandi Road, Maloh, Himachal Pradesh 175018",
+    "area": "175018",
+    "latitude": 31.5195261,
+    "longitude": 76.8762914,
+    "place_id": "ChIJ20t8Y2gZBTkRwciU6MXKOAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20t8Y2gZBTkRwciU6MXKOAU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:47:59"
+  },
+  {
+    "business_name": "Babu Ram General Store & Confectionery",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Dessert shop",
+    "pincode": "175018",
+    "phone_number": "+91 96251 75339",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Village Wah Ki, Tehsil, Post Office Ghanghnoo, Sunder Nagar, Dhar, Himachal Pradesh 175018",
+    "area": "Sunder Nagar",
+    "latitude": 31.4959897,
+    "longitude": 76.83466,
+    "place_id": "ChIJVxTpeAMYBTkRg6DWT5cyQHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxTpeAMYBTkRg6DWT5cyQHs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:47:59"
+  }
+]

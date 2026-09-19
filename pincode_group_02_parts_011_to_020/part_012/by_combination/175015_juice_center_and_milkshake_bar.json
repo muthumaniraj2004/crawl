@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mick café",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 16,
+    "address": "Shop no. 99, Billing Complex, Distt, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.9916664,
+    "longitude": 76.7894178,
+    "place_id": "ChIJBX39IbDBBDkR1OHfwoNnaM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBX39IbDBBDkR1OHfwoNnaM4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:25"
+  },
+  {
+    "business_name": "Juicy Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "175015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Pakistan, Karachi, P.E.C.H.S. Block 2, タリク・ロード",
+    "area": "Block 2 P.E.C.H.S.",
+    "latitude": 24.8685364,
+    "longitude": 67.0576868,
+    "place_id": "ChIJSa2eLY4-sz4RSvRQbGt1Wz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSa2eLY4-sz4RSvRQbGt1Wz8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:25"
+  }
+]

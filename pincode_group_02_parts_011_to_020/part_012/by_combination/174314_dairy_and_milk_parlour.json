@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAND BABA DAIRY",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nagwain, Himachal Pradesh 175121",
+    "area": "174314",
+    "latitude": 31.8129885,
+    "longitude": 77.1789277,
+    "place_id": "ChIJ83hf3D35BDkRhd0_Xz11de4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83hf3D35BDkRhd0_Xz11de4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:25"
+  },
+  {
+    "business_name": "Todo farms",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JR84+FGG, Gobarta, Himachal Pradesh 175023",
+    "area": "174314",
+    "latitude": 31.6161894,
+    "longitude": 76.8063433,
+    "place_id": "ChIJ5yQzj2YhBTkRxJK3fyMkGRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yQzj2YhBTkRxJK3fyMkGRE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:25"
+  }
+]

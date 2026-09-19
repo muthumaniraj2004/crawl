@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school, Coaching Center, Computer networking service, Educational institution",
+    "pincode": "174023",
+    "phone_number": "+91 85808 03265",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "Near Govind Sweet, Ward No. - 3 House No - 212, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1095758,
+    "longitude": 76.5358213,
+    "place_id": "ChIJnZS0NfazBDkRNWqamydVTHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZS0NfazBDkRNWqamydVTHs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:02:48"
+  },
+  {
+    "business_name": "Computer Hub",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Cell phone store, Computer store, Game store, Gift shop",
+    "pincode": "174023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 19,
+    "address": "near old employment exchange, Nurpur, Himachal Pradesh 176202",
+    "area": "174023",
+    "latitude": 32.3012303,
+    "longitude": 75.8895977,
+    "place_id": "ChIJ11onmLeCHDkRRlENYdH0Vp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11onmLeCHDkRRlENYdH0Vp0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:02:48"
+  }
+]

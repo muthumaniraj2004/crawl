@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fashion Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174314",
+    "phone_number": "+91 83609 68427",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Partap Singhwala, Punjab 141008",
+    "area": "Partap Singhwala",
+    "latitude": 30.920318799999997,
+    "longitude": 75.78047409999999,
+    "place_id": "ChIJ8wbQ9jaBGjkRYIVs_WlqV0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wbQ9jaBGjkRYIVs_WlqV0k",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:40"
+  },
+  {
+    "business_name": "Neelam Creations",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Boutique, Clothing alteration service, Designer Clothing Store, Dress store, Tailor, Youth clothing store",
+    "pincode": "174314",
+    "phone_number": "+91 80879 60700",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "Shop 02 Laxsmi, Narayan Complex, Markandi, Chiplun, Maharashtra 415605",
+    "area": "Markandi",
+    "latitude": 17.526607,
+    "longitude": 73.525508,
+    "place_id": "ChIJAcylSToHwjsRR3vwgEGXxuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcylSToHwjsRR3vwgEGXxuU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:41"
+  }
+]

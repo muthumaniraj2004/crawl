@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAPPY PET VETERINARY CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "175012",
+    "phone_number": "+91 79862 47646",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near bajaj motors, Joginder Nagar, Dhelu, Himachal Pradesh 175015",
+    "area": "175012",
+    "latitude": 31.991770499999998,
+    "longitude": 76.7842582,
+    "place_id": "ChIJhwVuHMrBBDkRxPSxMEkSXNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwVuHMrBBDkRxPSxMEkSXNo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:37:04"
+  },
+  {
+    "business_name": "Angel Pet Care - Boarding Spa And Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "175012",
+    "phone_number": "+91 98424 53136",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 69,
+    "address": "West Extension, 14, Ramlinga Nagar, Woraiyur, Tiruchirappalli, Tamil Nadu 620003",
+    "area": "Ramlinga Nagar, Woraiyur",
+    "latitude": 10.8204055,
+    "longitude": 78.668568,
+    "place_id": "ChIJ_X5nJDv1qjsRZuUWC0XlpYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_X5nJDv1qjsRZuUWC0XlpYo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:37:06"
+  }
+]

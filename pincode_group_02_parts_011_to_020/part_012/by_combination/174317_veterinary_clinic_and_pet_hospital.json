@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govt Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "174317",
+    "phone_number": "N/A",
+    "website": "http://dev-acahdvpchiplun.pantheonsite.io/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "GGH9+676, Shivaji Nagar, Chiplun, Maharashtra 415605",
+    "area": "Shivaji Nagar",
+    "latitude": 17.5280499,
+    "longitude": 73.51813059999999,
+    "place_id": "ChIJf7fmAAAHwjsRaZJjFgrZFgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7fmAAAHwjsRaZJjFgrZFgE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:01:27"
+  },
+  {
+    "business_name": "Vetic Pet Clinic Yelahanka",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Diagnostic center, Emergency veterinarian service, Pet groomer, Pet supply store, Veterinary pharmacy",
+    "pincode": "174317",
+    "phone_number": "+91 70427 45333",
+    "website": "https://vetic.in/clinics/bengaluru/yelahanka-bengaluru?utm_source=organic",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "MIG, 1st Phase, 283, 15th A Cross Rd, near Yelahanka, Sector A, Yelahanka Satellite Town, Yelahanka New Town, Bengaluru, Karnataka 560064",
+    "area": "Sector A, Yelahanka Satellite Town, Yelahanka New Town",
+    "latitude": 13.0932002,
+    "longitude": 77.583861,
+    "place_id": "ChIJO6btAZ4ZrjsRp3txEMBW6ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6btAZ4ZrjsRp3txEMBW6ks",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:01:29"
+  }
+]

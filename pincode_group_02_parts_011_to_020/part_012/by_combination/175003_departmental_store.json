@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSD Canteen Kotli",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "175003",
+    "phone_number": "N/A",
+    "website": "https://csdindia.gov.in/",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "QV4F+M3M, QV4G+24P Madhusudan Complex, NH 3, near new busstand, Kotli, Himachal Pradesh 175003",
+    "area": "175003",
+    "latitude": 31.755059799999998,
+    "longitude": 76.8752986,
+    "place_id": "ChIJGd7roQDhBDkROmyu1r0cdOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGd7roQDhBDkROmyu1r0cdOQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:19:47"
+  },
+  {
+    "business_name": "Amartex Family Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "175003",
+    "phone_number": "+91 1902 226 353",
+    "website": "https://amartex.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "AT, near Atal Sadan, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.957911099999997,
+    "longitude": 77.1078393,
+    "place_id": "ChIJscu-4Bz3BDkRQ2_9mwB3T88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscu-4Bz3BDkRQ2_9mwB3T88",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:19:49"
+  }
+]

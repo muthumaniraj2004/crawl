@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DOWN TOWN FITNESS",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "174201",
+    "phone_number": "+91 90150 13433",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "8QG7+PP3, Bilaspur Sadar, Lakhanpur, Bilaspur, Himachal Pradesh 174001",
+    "area": "Bilaspur Sadar",
+    "latitude": 31.326765199999997,
+    "longitude": 76.7642943,
+    "place_id": "ChIJeycQeAA_BTkRRPR9B0-z86M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeycQeAA_BTkRRPR9B0-z86M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:43"
+  },
+  {
+    "business_name": "Rajput fitness chakarbhata",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "174201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near panchdevi petrol pump, camp, Chakarbhatha, Bilaspur, Chhattisgarh 495220",
+    "area": "camp",
+    "latitude": 22.0110888,
+    "longitude": 82.0995674,
+    "place_id": "ChIJ9fDWc7xzKDoRJU5jxI2pIgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fDWc7xzKDoRJU5jxI2pIgA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RANA GENERAL STORE MARH",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, General store",
+    "pincode": "175016",
+    "phone_number": "+91 96250 22211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VPO MARH, Chobin, Himachal Pradesh 176128",
+    "area": "175016",
+    "latitude": 31.9797998,
+    "longitude": 76.6725972,
+    "place_id": "ChIJaURXIgDHBDkRTwA5IuXEuDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaURXIgDHBDkRTwA5IuXEuDc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:44:08"
+  },
+  {
+    "business_name": "Arman Trading Company",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "175016",
+    "phone_number": "+91 86269 22162",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main bazaar Front of civil Hospital, Chadhiar - Jaisinghpur Rd, Chadhiar Khas, Ropehr, Himachal Pradesh 176088",
+    "area": "175016",
+    "latitude": 31.941695799999998,
+    "longitude": 76.6469087,
+    "place_id": "ChIJ79S-vxPHBDkRcULt7Ap4rfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79S-vxPHBDkRcULt7Ap4rfo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:44:10"
+  }
+]

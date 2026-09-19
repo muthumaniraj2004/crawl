@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The White House Stay",
+    "search_category": "Guesthouse",
+    "primary_category": "Serviced accommodation",
+    "all_categories": "Serviced accommodation, Home Stay",
+    "pincode": "175021",
+    "phone_number": "+91 93187 38353",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "above Lok Mitra Kendra, VPO, Nagchala, Majhethal, Himachal Pradesh 175021",
+    "area": "VPO",
+    "latitude": 31.623373599999997,
+    "longitude": 76.9369384,
+    "place_id": "ChIJ93t7XDMdBTkRUaRmn1477k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93t7XDMdBTkRUaRmn1477k8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:54:41"
+  },
+  {
+    "business_name": "Balh Valley Homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Home Stay",
+    "pincode": "175021",
+    "phone_number": "+91 82198 26700",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bagla, Himachal Pradesh 175021",
+    "area": "175021",
+    "latitude": 31.637418099999998,
+    "longitude": 76.9413251,
+    "place_id": "ChIJnd0cIIYdBTkRuukSilXdwXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnd0cIIYdBTkRuukSilXdwXw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:54:41"
+  }
+]

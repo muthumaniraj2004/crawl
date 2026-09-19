@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gk agency",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen dessert supplier",
+    "all_categories": "Frozen dessert supplier",
+    "pincode": "175001",
+    "phone_number": "+91 94189 40129",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sain Mohalla, Mandi, Himachal Pradesh 175001",
+    "area": "Sain Mohalla",
+    "latitude": 31.714243999999997,
+    "longitude": 76.92808509999999,
+    "place_id": "ChIJO7DhUl_jBDkRQ7a4OC_MTfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7DhUl_jBDkRQ7a4OC_MTfM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:06"
+  },
+  {
+    "business_name": "Kartik Trader",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "175001",
+    "phone_number": "+91 70181 74813",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main bazar, near Taxi stand, Rewalsar, Himachal Pradesh 175023",
+    "area": "175001",
+    "latitude": 31.633569599999998,
+    "longitude": 76.83451509999999,
+    "place_id": "ChIJcxLxfPIfBTkRMeP33gnw7lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxLxfPIfBTkRMeP33gnw7lI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:06"
+  }
+]

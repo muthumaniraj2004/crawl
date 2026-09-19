@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri sai multi store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "174101",
+    "phone_number": "+91 70185 04103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "SH NO.5/6, New Nalagarh, opposite Anand ITI, near Shiv Mandir, Phase2, Nalagarh, Himachal Pradesh 174101",
+    "area": "Phase2",
+    "latitude": 31.036697699999998,
+    "longitude": 76.70018379999999,
+    "place_id": "ChIJ81Z0Re9bBTkR8LH9rtx5atw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81Z0Re9bBTkR8LH9rtx5atw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:23"
+  },
+  {
+    "business_name": "Kailash chand Confectionery And Mobile Care",
+    "search_category": "Shops",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "174101",
+    "phone_number": "+91 80912 00755",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near mittal eyes Hospital, Nalagarh, Himachal Pradesh 174101",
+    "area": "174101",
+    "latitude": 31.0351055,
+    "longitude": 76.70856669999999,
+    "place_id": "ChIJW421bPdbBTkRwy5GtR3zBWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW421bPdbBTkRwy5GtR3zBWg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:25"
+  }
+]

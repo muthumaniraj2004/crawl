@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUBHAM GRAND MULTICUISINE FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant, Chinese restaurant, Continental restaurant, Family restaurant, Indian restaurant, Meal delivery, Takeout restaurant, North Indian restaurant, Food court",
+    "pincode": "174505",
+    "phone_number": "+91 93464 45748",
+    "website": "https://subham-grand.grexa.site/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "First floor, 6-3-902/3, Raj Bhavan Rd, beside Pratul Honda, Durga Nagar Colony, Somajiguda, Hyderabad, Telangana 500082",
+    "area": "Durga Nagar Colony, Somajiguda",
+    "latitude": 17.426171399999998,
+    "longitude": 78.4570067,
+    "place_id": "ChIJI0_OcVyXyzsRj6NkaYIae68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0_OcVyXyzsRj6NkaYIae68",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:28"
+  },
+  {
+    "business_name": "Pinaka Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "174505",
+    "phone_number": "+91 73075 99355",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ganga Bairaj Road, Mandhana, Kanpur, Uttar Pradesh 209217",
+    "area": "174505",
+    "latitude": 26.5625944,
+    "longitude": 80.23744669999999,
+    "place_id": "ChIJfU1GxBsxnDkRozCc2zITjb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfU1GxBsxnDkRozCc2zITjb4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:28"
+  }
+]

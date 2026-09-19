@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma Wodden Works",
+    "search_category": "Civil Contractor and Builder",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "174321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G7GC+5G8, Kuriala, Himachal Pradesh 174303",
+    "area": "174321",
+    "latitude": 31.5254168,
+    "longitude": 76.27131609999999,
+    "place_id": "ChIJFQmmPADXGjkRPI_iyKilmZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQmmPADXGjkRPI_iyKilmZc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:07:28"
+  },
+  {
+    "business_name": "Saini saw mill",
+    "search_category": "Civil Contractor and Builder",
+    "primary_category": "Woodworker",
+    "all_categories": "Woodworker",
+    "pincode": "174321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "Vill, Barnoh, Himachal Pradesh 174303",
+    "area": "Vill",
+    "latitude": 31.501756699999998,
+    "longitude": 76.27934669999999,
+    "place_id": "ChIJ7w2uFITRGjkRDw8a12THxvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7w2uFITRGjkRDw8a12THxvs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:07:30"
+  }
+]

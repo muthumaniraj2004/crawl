@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Fruits & Vegetables Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "174317",
+    "phone_number": "+91 75600 61462",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "jajon more, Jaijon Rd, more, Saloh, Bhadsali Har, Himachal Pradesh 174317",
+    "area": "more, Saloh",
+    "latitude": 31.4848276,
+    "longitude": 76.19800889999999,
+    "place_id": "ChIJlz6mlk7bGjkRI0tuWejH6bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlz6mlk7bGjkRI0tuWejH6bw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:00:56"
+  },
+  {
+    "business_name": "Maa charchika fruits (MCF)",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "174317",
+    "phone_number": "+91 63719 76862",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Loknath vending zone, CRPF Colony, Gopabandhu Nagar, Bhubaneswar, Odisha 751003",
+    "area": "CRPF Colony, Gopabandhu Nagar",
+    "latitude": 20.2831898,
+    "longitude": 85.8091453,
+    "place_id": "ChIJ7SO_U9oJGToR29caqlS_nB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SO_U9oJGToR29caqlS_nB8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:00:58"
+  }
+]

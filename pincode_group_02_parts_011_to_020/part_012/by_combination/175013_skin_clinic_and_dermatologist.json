@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Sanjay Acharya",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Corporate office",
+    "pincode": "175013",
+    "phone_number": "+91 98053 85483",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bejnath, Kangra, NH-20, Mandi - Pathankot Rd, Baijnath, Himachal Pradesh 176125",
+    "area": "175013",
+    "latitude": 32.0504104,
+    "longitude": 76.64652269999999,
+    "place_id": "ChIJuaioZCu4BDkRYkziicslfy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaioZCu4BDkRYkziicslfy4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:38:55"
+  },
+  {
+    "business_name": "Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4H5G+Q45, sadak, dhraman, Dharman, Kandbari, Himachal Pradesh 176061",
+    "area": "dhraman",
+    "latitude": 32.1093963,
+    "longitude": 76.5753569,
+    "place_id": "ChIJ82TMnh-xBDkROnWg9XuPHCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82TMnh-xBDkROnWg9XuPHCI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:38:56"
+  }
+]

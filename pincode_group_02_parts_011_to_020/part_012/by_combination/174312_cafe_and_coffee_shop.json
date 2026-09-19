@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMAN cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "174312",
+    "phone_number": "+91 89889 53616",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "vill. kot p.o balh bihal, bijhari, Himachal Pradesh 176040",
+    "area": "174312",
+    "latitude": 31.7027407,
+    "longitude": 76.5238447,
+    "place_id": "ChIJU-bdH6TVBDkRj2yHTxE3DF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-bdH6TVBDkRj2yHTxE3DF4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:53:43"
+  },
+  {
+    "business_name": "OG Cafe - Olive Green Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "174312",
+    "phone_number": "+91 89888 81043",
+    "website": "http://www.thebunkerhostel.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "The Bunker, Bir-Billing Rd, Bir, Kotli, Himachal Pradesh 176077",
+    "area": "174312",
+    "latitude": 32.038299699999996,
+    "longitude": 76.7264055,
+    "place_id": "ChIJdW8eDnW5BDkRGtALKvW3dmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdW8eDnW5BDkRGtALKvW3dmI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:53:44"
+  }
+]

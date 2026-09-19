@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Artico boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Boutique, Clothing wholesaler, Craft store",
+    "pincode": "174013",
+    "phone_number": "+91 84008 55480",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Manglam Tower UGF 29-30, Uttar Pradesh 273001",
+    "area": "Bilandpur",
+    "latitude": 26.7522193,
+    "longitude": 83.3713729,
+    "place_id": "ChIJoQ6uLYRFkTkRcr8njuZFx6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQ6uLYRFkTkRcr8njuZFx6M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:29"
+  },
+  {
+    "business_name": "Style Villa",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Handbags shop, Shoe store",
+    "pincode": "174013",
+    "phone_number": "+91 99911 11861",
+    "website": "https://www.instagram.com/stylevillaofficial",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4F/11,MITC Colony, Next to Padma City Mall, Kaithal, Haryana 136027",
+    "area": "Rishi Nagar",
+    "latitude": 29.800749999999997,
+    "longitude": 76.41530809999999,
+    "place_id": "ChIJ47v-zmDgETkRDV8MrqIZYvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47v-zmDgETkRDV8MrqIZYvU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:29"
+  }
+]

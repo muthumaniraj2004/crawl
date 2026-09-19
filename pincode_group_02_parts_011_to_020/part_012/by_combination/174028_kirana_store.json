@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pramila Kiryana Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174028",
+    "phone_number": "+91 98052 78537",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "1, Ghumarwin, Jahu, Himachal Pradesh 176048",
+    "area": "174028",
+    "latitude": 31.5895564,
+    "longitude": 76.7241674,
+    "place_id": "ChIJCSaw-WonBTkR8yApz_8CLYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSaw-WonBTkR8yApz_8CLYw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:08:56"
+  },
+  {
+    "business_name": "Promila General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174028",
+    "phone_number": "+91 98826 00903",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Mundkhar, Himachal Pradesh 176044",
+    "area": "174028",
+    "latitude": 31.6025107,
+    "longitude": 76.6932573,
+    "place_id": "ChIJBWM4rTInBTkR6MRXJOSWoSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWM4rTInBTkR6MRXJOSWoSE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:08:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HPTDC Shiwalik Hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174103",
+    "phone_number": "+91 1792 232 295",
+    "website": "http://hptdc.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sector 1, Kalka, Orian, Himachal Pradesh 173220",
+    "area": "Sector 1",
+    "latitude": 30.8408986,
+    "longitude": 76.94838299999999,
+    "place_id": "ChIJFQd2aO6ODzkRpy64DA47nQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQd2aO6ODzkRpy64DA47nQc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:25"
+  },
+  {
+    "business_name": "Rose Chalet",
+    "search_category": "Resort",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "174103",
+    "phone_number": "+91 99145 13737",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Jagjit Nagar, Kasauli, Himachal Pradesh 173233",
+    "area": "Jagjit Nagar",
+    "latitude": 30.955887099999998,
+    "longitude": 76.94825759999999,
+    "place_id": "ChIJZc05wPaIDzkRVR30VECOieY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZc05wPaIDzkRVR30VECOieY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:25"
+  }
+]

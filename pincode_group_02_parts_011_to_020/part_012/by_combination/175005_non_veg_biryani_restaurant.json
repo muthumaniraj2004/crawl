@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tasty Bite",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "175005",
+    "phone_number": "+91 1905 222 396",
+    "website": "https://www.tastybite.co.in/",
+    "rating": 4.1,
+    "reviews_count": 320,
+    "address": "Mangvayin Rd, Tarna, Mandi, Himachal Pradesh 175001",
+    "area": "Tarna",
+    "latitude": 31.700099199999997,
+    "longitude": 76.9354757,
+    "place_id": "ChIJ82twKhTiBDkRMtjy9wMXixM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82twKhTiBDkRMtjy9wMXixM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:23:44"
+  },
+  {
+    "business_name": "The Bamboo Hut Bhojnalaya",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "175005",
+    "phone_number": "+91 98163 25850",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 363,
+    "address": "Mandi, NH-154, Mandi - Pathankot Rd, Bijani, Himachal Pradesh 175001",
+    "area": "175005",
+    "latitude": 31.74526,
+    "longitude": 76.94139489999999,
+    "place_id": "ChIJCYKBfL_jBDkRb15fDAZ59c0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYKBfL_jBDkRb15fDAZ59c0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:23:44"
+  }
+]

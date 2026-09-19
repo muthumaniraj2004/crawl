@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divyansh Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Camera store",
+    "pincode": "174306",
+    "phone_number": "+91 78888 90435",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Govt. School, near Ramleela Ground, Bhabour Sahib, Nangal, Bhabhaur, Punjab 140126",
+    "area": "Bhabour Sahib",
+    "latitude": 31.401799299999997,
+    "longitude": 76.3617955,
+    "place_id": "ChIJzaz2rPvPGjkRTfYnFJWtWVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaz2rPvPGjkRTfYnFJWtWVc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:43:46"
+  },
+  {
+    "business_name": "Him IT Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer networking service, Computer service, Computer Wholesaler, Printer repair service",
+    "pincode": "174306",
+    "phone_number": "+91 62305 00705",
+    "website": "https://himitsolutions.odoo.com/",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "kuthera kherla, Una Rd, near Krishna nursery, tehsil, Amb, Himachal Pradesh 177203",
+    "area": "tehsil",
+    "latitude": 31.6715679,
+    "longitude": 76.1181873,
+    "place_id": "ChIJV4iFNyIhGzkR6OxVvcpBkZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4iFNyIhGzkR6OxVvcpBkZA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:43:47"
+  }
+]

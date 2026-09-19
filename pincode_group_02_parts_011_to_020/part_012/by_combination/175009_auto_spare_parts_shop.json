@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEELAM ENTERPRISES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "175009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "VILL KUTTI TEHSIL AND P.O, Karsog, Himachal Pradesh 175011",
+    "area": "175009",
+    "latitude": 31.393145699999998,
+    "longitude": 77.20134949999999,
+    "place_id": "ChIJC3mkpn-hBTkRV8hZZahmj6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3mkpn-hBTkRV8hZZahmj6o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:41"
+  },
+  {
+    "business_name": "Thakur ji automobile",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto machine shop",
+    "all_categories": "Auto machine shop",
+    "pincode": "175009",
+    "phone_number": "+91 98166 55595",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "p.o&teh, Vill, Gharyana, Suni, Himachal Pradesh 171301",
+    "area": "p.o&teh, Vill",
+    "latitude": 31.2446065,
+    "longitude": 77.1062109,
+    "place_id": "ChIJ_UmO9tB3BTkR6hJYgrC5yBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UmO9tB3BTkR6hJYgrC5yBg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:41"
+  }
+]

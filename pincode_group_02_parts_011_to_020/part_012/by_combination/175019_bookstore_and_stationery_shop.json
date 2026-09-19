@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "175019",
+    "phone_number": "+91 94180 35622",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tehsil Sunder Nagar, PO, Vill, Kanaid, Himachal Pradesh 175019",
+    "area": "PO, Vill",
+    "latitude": 31.5789516,
+    "longitude": 76.913889,
+    "place_id": "ChIJJ41e24QZBTkR3Mooe5ucb0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ41e24QZBTkR3Mooe5ucb0I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:51:07"
+  },
+  {
+    "business_name": "Hansu Di Hatti & Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "175019",
+    "phone_number": "+91 94175 49098",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 26,
+    "address": "WVHF+3FC, Main Rd, Near Subhash Vaishno Dhaba, Baba Bhag Singh Gurudwara, Basti Jodhewal, Sunder Nagar, Ludhiana, Punjab 141007",
+    "area": "Near Subhash Vaishno Dhaba, Baba Bhag Singh Gurudwara, Basti Jodhewal, Sunder Nagar",
+    "latitude": 30.9276827,
+    "longitude": 75.87363669999999,
+    "place_id": "ChIJE4y3MmaDGjkR-W2YcbP79P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4y3MmaDGjkR-W2YcbP79P4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:51:08"
+  }
+]

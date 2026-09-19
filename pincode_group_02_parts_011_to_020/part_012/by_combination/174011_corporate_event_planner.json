@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MRG Evennts",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Party planner",
+    "pincode": "174011",
+    "phone_number": "+91 98215 13544",
+    "website": "https://mrgevennts.com/",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "2nd floor, Idea Square, B42, Off New Link Rd, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Veera Desai Industrial Estate, Andheri West",
+    "latitude": 19.138939999999998,
+    "longitude": 72.8325748,
+    "place_id": "ChIJx9xMjBm35zsRwezxCUj4BoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9xMjBm35zsRwezxCUj4BoI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:51:35"
+  },
+  {
+    "business_name": "Life Wedding & Event Management Company Kolhapur",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "174011",
+    "phone_number": "+91 91684 08480",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Labbaik Heights, Plot No. 94, B-Ward, Subash Nagar, Kolhapur, Maharashtra 416012",
+    "area": "Subash Nagar, Datta Colony",
+    "latitude": 16.6770393,
+    "longitude": 74.23630849999999,
+    "place_id": "ChIJwQ2YMCoBwTsRTHL8Mfpyazg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQ2YMCoBwTsRTHL8Mfpyazg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:51:38"
+  }
+]

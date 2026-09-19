@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amita Dresses",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "175001",
+    "phone_number": "+91 94180 87744",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Khatri Sabha, 148/7, Street, Bhootnath Bazar, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Bhootnath Bazar, Samkhetar",
+    "latitude": 31.7101877,
+    "longitude": 76.9317765,
+    "place_id": "ChIJ84oxG_zjBDkRB6XojW70RDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84oxG_zjBDkRB6XojW70RDE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:25"
+  },
+  {
+    "business_name": "Sports villa",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store",
+    "pincode": "175001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mandi bus stand shop no 11, Himachal Pradesh 175001",
+    "area": "Motipur, Kartarpur",
+    "latitude": 31.705033999999998,
+    "longitude": 76.93720789999999,
+    "place_id": "ChIJlbKZc5DjBDkRSzTeDyrGK7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbKZc5DjBDkRSzTeDyrGK7c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:26"
+  }
+]

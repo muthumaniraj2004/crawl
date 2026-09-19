@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IT Zone Star Academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "174027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 68,
+    "address": "Ladraur, road, Jahu, Himachal Pradesh 176043",
+    "area": "174027",
+    "latitude": 31.5826927,
+    "longitude": 76.6410351,
+    "place_id": "ChIJRUuz1m8nBTkRDNIz1eFBxZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUuz1m8nBTkRDNIz1eFBxZ0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:08:19"
+  },
+  {
+    "business_name": "Angel Computer Education Center Ladrour",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center, School",
+    "pincode": "174027",
+    "phone_number": "+91 94186 04187",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "vpo, Ladraur, Himachal Pradesh 176043",
+    "area": "vpo",
+    "latitude": 31.5824142,
+    "longitude": 76.6417835,
+    "place_id": "ChIJeWYdS2wpBTkRYkx5TUChfDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWYdS2wpBTkRYkx5TUChfDY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:08:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "East York Veterinary Center",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Kennel, Animal hospital",
+    "pincode": "174013",
+    "phone_number": "N/A",
+    "website": "https://eastyorkvet.com/?utm_source=gbp&utm_medium=organic",
+    "rating": 4.4,
+    "reviews_count": 653,
+    "address": "1997 Industrial Hwy, York, PA 17402, United States",
+    "area": "174013",
+    "latitude": 39.9782539,
+    "longitude": -76.6890597,
+    "place_id": "ChIJnWf5Df2OyIkRkLDeH2MCpmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWf5Df2OyIkRkLDeH2MCpmg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:36"
+  },
+  {
+    "business_name": "Top Vet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Emergency veterinarian service, Pet groomer, Veterans hospital, Veterinary pharmacy",
+    "pincode": "174013",
+    "phone_number": "N/A",
+    "website": "https://topvet.ae/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "68CF+MP2 - Al Jadaf - Dubai - United Arab Emirates",
+    "area": "Al Jadaf",
+    "latitude": 25.2215059,
+    "longitude": 55.324296499999996,
+    "place_id": "ChIJlTBpfJNdXz4RTp7VXj1Ugl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTBpfJNdXz4RTp7VXj1Ugl0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:37"
+  }
+]

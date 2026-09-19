@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HPTDC Tourist Inn",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174026",
+    "phone_number": "+91 1905 240 252",
+    "website": "https://hptdc.in/index.php/the-tourist-inn-rewalsar/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kalkhar - Rewalsar Rd, Rewalsar, Himachal Pradesh 175023",
+    "area": "174026",
+    "latitude": 31.632621999999998,
+    "longitude": 76.8335579,
+    "place_id": "ChIJD8RxRIQfBTkRIHdKMpaSzaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8RxRIQfBTkRIHdKMpaSzaE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:06:22"
+  },
+  {
+    "business_name": "CG Home Stay family home rewalsar",
+    "search_category": "Resort",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "174026",
+    "phone_number": "+91 98827 44092",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "geeta thakur (nurse, near post office, Rewalsar, Himachal Pradesh 175023",
+    "area": "174026",
+    "latitude": 31.6308443,
+    "longitude": 76.8323218,
+    "place_id": "ChIJJ-dbUYQfBTkRn0yTXtPAEQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-dbUYQfBTkRn0yTXtPAEQQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:06:22"
+  }
+]

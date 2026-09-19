@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashi Trading Company",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "174030",
+    "phone_number": "+91 88946 69028",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "Bijhari-Berthin Rd, Maharal, Himachal Pradesh 176049",
+    "area": "174030",
+    "latitude": 31.490465099999998,
+    "longitude": 76.5875434,
+    "place_id": "ChIJkWI3DEkuBTkRIxfrNJLMYh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWI3DEkuBTkRIxfrNJLMYh8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:28"
+  },
+  {
+    "business_name": "Chakmoh",
+    "search_category": "Commercial Complex",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "174030",
+    "phone_number": "+91 98167 64171",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "V.p.o, Chakmoh - Berthin Rd, teh, Dhatwal, Himachal Pradesh 176039",
+    "area": "teh",
+    "latitude": 31.472197599999998,
+    "longitude": 76.5508273,
+    "place_id": "ChIJJdfcYgAvBTkR9xpz7HqDJbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdfcYgAvBTkR9xpz7HqDJbA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:14:30"
+  }
+]

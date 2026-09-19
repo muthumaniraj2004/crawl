@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Taxi And Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "174011",
+    "phone_number": "+91 78698 44004",
+    "website": "https://sonutravel.in/",
+    "rating": 5,
+    "reviews_count": 322,
+    "address": "Nutan chowk, opp. Govt Kanya Shala, Indira Vihar Colony, Sarkanda, Bilaspur, Chhattisgarh 495001",
+    "area": "Indira Vihar Colony, Sarkanda",
+    "latitude": 22.101176499999998,
+    "longitude": 82.148021,
+    "place_id": "ChIJB4l3EZ8LKDoRb_NZSdntICU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4l3EZ8LKDoRb_NZSdntICU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:51:06"
+  },
+  {
+    "business_name": "Datar Taxi Service & Car Rental in Bilaspur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency",
+    "pincode": "174011",
+    "phone_number": "+91 98263 14786",
+    "website": "https://datartaxibilaspur.com/",
+    "rating": 4.6,
+    "reviews_count": 70,
+    "address": "Chantideeh, Bilaspur, Fadahakhar, Chhattisgarh 495006",
+    "area": "Chantideeh",
+    "latitude": 22.0926549,
+    "longitude": 82.158445,
+    "place_id": "ChIJfXXAcUkLKDoRtc6PoLvZ_fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXXAcUkLKDoRtc6PoLvZ_fo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:51:06"
+  }
+]

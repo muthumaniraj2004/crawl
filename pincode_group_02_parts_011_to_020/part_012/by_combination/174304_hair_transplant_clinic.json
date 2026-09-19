@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Olivia Skin & Hair Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "174304",
+    "phone_number": "+91 82194 33049",
+    "website": "https://oliviaskinclinic.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vidyut building, Kangra Rd, above Redtape showroom, New Kangra, Kangra, Himachal Pradesh 176001",
+    "area": "New Kangra",
+    "latitude": 32.104616799999995,
+    "longitude": 76.27377229999999,
+    "place_id": "ChIJvUeJaXxPGzkR0p2cA1DDLN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUeJaXxPGzkR0p2cA1DDLN4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:39:36"
+  },
+  {
+    "business_name": "Dermawave Skin, Laser, Aesthetic & Hair Transplant Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Cosmetic surgeon, Hair removal service, Hair replacement service, Dermatologist, Laser hair removal service, Medical Center, Skin care clinic, Tattoo removal service",
+    "pincode": "174304",
+    "phone_number": "+91 99912 21909",
+    "website": "https://www.dermawave.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "H.NO. 436-A, opp. Dusshera Ground, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.6977044,
+    "longitude": 74.8586787,
+    "place_id": "ChIJ1VOXFLGEHjkRuB7VZDjLWLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VOXFLGEHjkRuB7VZDjLWLc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:39:37"
+  }
+]

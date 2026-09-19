@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaat saab nibash",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "174028",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HHGH+5QM, Barsar, Himachal Pradesh 176041",
+    "area": "174028",
+    "latitude": 31.575461699999998,
+    "longitude": 76.5794224,
+    "place_id": "ChIJ7wqXYAApBTkRhIh12b2NlcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wqXYAApBTkRhIh12b2NlcQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:11"
+  },
+  {
+    "business_name": "Tyalu Bar and Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar & grill",
+    "all_categories": "Bar & grill",
+    "pincode": "174028",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "68QF+2G, Dalai Lama, Temple Rd, McLeod Ganj, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.237562499999996,
+    "longitude": 76.3238125,
+    "place_id": "ChIJa80YFYlRGzkRUgMO9iITmqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa80YFYlRGzkRUgMO9iITmqc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:09:12"
+  }
+]

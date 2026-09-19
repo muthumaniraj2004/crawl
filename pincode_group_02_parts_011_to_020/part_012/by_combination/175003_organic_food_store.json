@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhargaon food hub",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175003",
+    "phone_number": "+91 86797 23849",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vpo, tehsil, Bhargaon, Kotli, Himachal Pradesh 175003",
+    "area": "tehsil",
+    "latitude": 31.788509899999998,
+    "longitude": 76.8656448,
+    "place_id": "ChIJpdq1v1XnBDkRjpFFaQf1eus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdq1v1XnBDkRjpFFaQf1eus",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:19:48"
+  },
+  {
+    "business_name": "Maa Bhekhali Flower Nursery & Organic Khaad Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery, Organic shop",
+    "pincode": "175003",
+    "phone_number": "+91 94590 43929",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MWJ7+QRX, Vill. Tawambra, P.O Talyahar, Teh. Sadar, Himachal Pradesh 175001",
+    "area": "175003",
+    "latitude": 31.6819924,
+    "longitude": 76.91460769999999,
+    "place_id": "ChIJCcTS5KjhBDkR2GRpYMVYmK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcTS5KjhBDkR2GRpYMVYmK8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:19:49"
+  }
+]

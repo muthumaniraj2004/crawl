@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivani pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "174316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Dhusara (sathothar, near Shiv mandir, Una, Himachal Pradesh 174302",
+    "area": "174316",
+    "latitude": 31.5643139,
+    "longitude": 76.20964049999999,
+    "place_id": "ChIJw_KGYvnZGjkR7Z4avaQdcj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_KGYvnZGjkR7Z4avaQdcj4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:59:12"
+  },
+  {
+    "business_name": "Lakha pet house",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "174316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J534+QJQ, Dhanderi Rd, Himachal Pradesh 177211",
+    "area": "174316",
+    "latitude": 31.6044681,
+    "longitude": 76.1566003,
+    "place_id": "ChIJ3YOz__IhGzkRmSQYjxv7CnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YOz__IhGzkRmSQYjxv7CnA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:59:12"
+  }
+]

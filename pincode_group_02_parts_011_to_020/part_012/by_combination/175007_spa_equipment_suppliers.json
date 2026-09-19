@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Possible",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Hot tub store",
+    "pincode": "175007",
+    "phone_number": "+91 80 4603 9971",
+    "website": "http://steambathindia.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "No. 34, Sethulakshmi Ave, Parthasarathy Nagar, Manapakkam, Chennai, Tamil Nadu 600089",
+    "area": "Parthasarathy Nagar, Manapakkam",
+    "latitude": 13.019665,
+    "longitude": 80.18266849999999,
+    "place_id": "ChIJT55JO2pmUjoRXuxb5_lVoWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT55JO2pmUjoRXuxb5_lVoWE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:28:23"
+  },
+  {
+    "business_name": "Bath Systems",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Manufacturer",
+    "pincode": "175007",
+    "phone_number": "+91 98116 54021",
+    "website": "https://bathsystems.in/",
+    "rating": 4.7,
+    "reviews_count": 73,
+    "address": "Block B, 39, DDA Shed, Block A, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "DDA Shed, Block A, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5303087,
+    "longitude": 77.2720365,
+    "place_id": "ChIJK-spflfhDDkRBTL8vDfNKK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-spflfhDDkRBTL8vDfNKK8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:28:23"
+  }
+]

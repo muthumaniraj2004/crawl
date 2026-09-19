@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMART Point",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "174308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 219,
+    "address": "Chopra Complex Chopra Hardware Nalti, Road, Hamirpur, Himachal Pradesh 177001",
+    "area": "Galore",
+    "latitude": 31.686930699999998,
+    "longitude": 76.5076729,
+    "place_id": "ChIJlUM5W-fVBDkRBdpmsiIYwec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUM5W-fVBDkRBdpmsiIYwec",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:47:58"
+  },
+  {
+    "business_name": "Reliance SMART Bazaar",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "174308",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-hypermarket-palampur-dharamshala-road-kangra-279856/Home",
+    "rating": 3.7,
+    "reviews_count": 145,
+    "address": "Mahesh Raj Towers, Fortis Building, Dharamsala Rd, Adarsh Colony, Palampur, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.115664599999995,
+    "longitude": 76.28223919999999,
+    "place_id": "ChIJHQCRvwxPGzkRo3ETkZFv-8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQCRvwxPGzkRo3ETkZFv-8c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:47:58"
+  }
+]

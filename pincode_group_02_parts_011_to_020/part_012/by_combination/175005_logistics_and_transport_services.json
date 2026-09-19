@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK transport co",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "175005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V4RX+FFM, Hathithan, Bhuntar, Himachal Pradesh 175125",
+    "area": "Hathithan",
+    "latitude": 31.8912768,
+    "longitude": 77.1486287,
+    "place_id": "ChIJ-0o7sqv3BDkRXQb6Y8j6jmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0o7sqv3BDkRXQb6Y8j6jmw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:24:16"
+  },
+  {
+    "business_name": "lal transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "175005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "PW9Q+M8F, ghat, near Tanisha infotech Sara, Khaliar, Mandi, Himachal Pradesh 175001",
+    "area": "Khaliar",
+    "latitude": 31.7191846,
+    "longitude": 76.9382941,
+    "place_id": "ChIJwbOsjpfjBDkRnrjc8ymIDD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbOsjpfjBDkRnrjc8ymIDD8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:24:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orion Event Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "175012",
+    "phone_number": "+91 82195 54050",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chauntra, Himachal Pradesh 175032",
+    "area": "175012",
+    "latitude": 32.013829099999995,
+    "longitude": 76.7495083,
+    "place_id": "ChIJg7IqcwDBBDkRMzLrwoBvkh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7IqcwDBBDkRMzLrwoBvkh8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:37:43"
+  },
+  {
+    "business_name": "TripMaking.in - Travel Planner Himachal hotel & Resort booking",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "175012",
+    "phone_number": "+91 89882 24422",
+    "website": "http://www.tripmaking.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "TripMaking.in - Travel Planner Himachal hotel & Resort booking, 175012, India",
+    "area": "175012",
+    "latitude": 31.816881,
+    "longitude": 77.3017548,
+    "place_id": "ChIJE73qz6LBBDkRLd-W3j2fWHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE73qz6LBBDkRLd-W3j2fWHk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:37:43"
+  }
+]

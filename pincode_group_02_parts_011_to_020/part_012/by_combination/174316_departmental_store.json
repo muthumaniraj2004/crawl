@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tinku Di Hatti",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "174316",
+    "phone_number": "+91 98161 99664",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 19,
+    "address": "1, Amlehar, near Govt.Sen.Sec.School Bhanjal, Sunkali, Mubarikpur, Nakroh, Himachal Pradesh 177213",
+    "area": "Sunkali",
+    "latitude": 31.7395139,
+    "longitude": 76.0735493,
+    "place_id": "ChIJMwIN_G0YGzkR689Rue1piC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwIN_G0YGzkR689Rue1piC4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:59:07"
+  },
+  {
+    "business_name": "Sai Super store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "174316",
+    "phone_number": "+91 85283 52002",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Panjawar, Himachal Pradesh 177208",
+    "area": "174316",
+    "latitude": 31.5455625,
+    "longitude": 76.1500107,
+    "place_id": "ChIJFf78RlXfGjkRGY_uDDY9VX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFf78RlXfGjkRGY_uDDY9VX8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:59:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ahluwalia General STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JW59+J4H, Ner Chowk, Ner, Himachal Pradesh 175021",
+    "area": "175008",
+    "latitude": 31.609061899999997,
+    "longitude": 76.9178539,
+    "place_id": "ChIJ-WNjHQAfBTkR6iCfMXX1UEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WNjHQAfBTkR6iCfMXX1UEM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:17"
+  },
+  {
+    "business_name": "Verma General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No-1, Gajnoha, Natned, Himachal Pradesh 175001",
+    "area": "175008",
+    "latitude": 31.6475516,
+    "longitude": 76.8881299,
+    "place_id": "ChIJv6Gv3_wfBTkRyoOkkmsOEYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6Gv3_wfBTkRyoOkkmsOEYs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Computer Laluwal",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "174503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 20,
+    "address": "86X8+M58, MDR39, Himachal Pradesh 176601",
+    "area": "174503",
+    "latitude": 31.349172999999997,
+    "longitude": 76.21544399999999,
+    "place_id": "ChIJHRya8B_FGjkR7IYMGFyg8GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRya8B_FGjkR7IYMGFyg8GI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:08"
+  },
+  {
+    "business_name": "Guru Roop Kriyana Store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "174503",
+    "phone_number": "+91 81469 43720",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main Bazar, Jaijon Doaba, Punjab 144530",
+    "area": "Main Bazar",
+    "latitude": 31.3466238,
+    "longitude": 76.1486566,
+    "place_id": "ChIJa3FGxcbDGjkRMKb72TKpUvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3FGxcbDGjkRMKb72TKpUvY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:12:09"
+  }
+]

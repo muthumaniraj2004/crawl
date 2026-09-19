@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sondaryam Beauty Store",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Beauty product supplier, Beauty Products Wholesaler, Cosmetics store, Cosmetics industry, Cosmetics wholesaler, Make-up artist",
+    "pincode": "174015",
+    "phone_number": "+91 98280 53507",
+    "website": "http://www.sondaryam.in/",
+    "rating": 4.2,
+    "reviews_count": 577,
+    "address": "78-B, Taneja Block, Saket Colony, Adarsh Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Taneja Block, Saket Colony, Adarsh Nagar",
+    "latitude": 26.9014176,
+    "longitude": 75.8321521,
+    "place_id": "ChIJp5iFRMC2bTkRkkAv5xFQpok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5iFRMC2bTkRkkAv5xFQpok",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:56:55"
+  },
+  {
+    "business_name": "R.G. Gallery",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier, Beauty Products Wholesaler, Cosmetics store, Cosmetics wholesaler",
+    "pincode": "174015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 39,
+    "address": "737/a, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.697131399999996,
+    "longitude": 74.8554254,
+    "place_id": "ChIJPygjXLOEHjkRW9F1t8AO4bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPygjXLOEHjkRW9F1t8AO4bo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:56:55"
+  }
+]

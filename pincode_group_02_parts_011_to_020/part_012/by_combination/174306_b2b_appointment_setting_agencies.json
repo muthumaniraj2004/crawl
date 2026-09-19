@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "All Online Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "174306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "All Online Services, 174306, India",
+    "area": "174306",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJZzdvbMvV1G8RDQK6txutI1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzdvbMvV1G8RDQK6txutI1E",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:44:12"
+  },
+  {
+    "business_name": "india advertisment service",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "174306",
+    "phone_number": "+91 88946 59655",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F79C+J86, Una - Hamirpur Rd, Ajnoli, Una, Himachal Pradesh 174303",
+    "area": "Ajnoli",
+    "latitude": 31.4690251,
+    "longitude": 76.270774,
+    "place_id": "ChIJCRt3XsjbGjkRxMwXJJwOquw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRt3XsjbGjkRxMwXJJwOquw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:44:13"
+  }
+]

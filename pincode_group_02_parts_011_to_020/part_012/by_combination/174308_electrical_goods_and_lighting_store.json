@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "174308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 28,
+    "address": "kinnu,Bharwain,una,Himachal Pardesh, Una, Himachal Pradesh 177109",
+    "area": "174308",
+    "latitude": 31.766585199999998,
+    "longitude": 76.10801479999999,
+    "place_id": "ChIJQ8DtDdUjGzkRhj7OusKbGf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8DtDdUjGzkRhj7OusKbGf4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:46:51"
+  },
+  {
+    "business_name": "Rajesh Electrical and tent house",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "174308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Joli devi, Himachal Pradesh 174312",
+    "area": "174308",
+    "latitude": 31.5648098,
+    "longitude": 76.4348002,
+    "place_id": "ChIJD6okmADVGjkRqObO0DOMGYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6okmADVGjkRqObO0DOMGYk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:46:51"
+  }
+]

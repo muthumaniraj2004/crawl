@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mandavia Children Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "174303",
+    "phone_number": "+91 87995 07707",
+    "website": "http://mandaviahospital.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Lane, opposite Shishu Bharti High School, opposite ST Bus Station, St Colony, Una, Gujarat 362560",
+    "area": "Saint Colony",
+    "latitude": 20.8275441,
+    "longitude": 71.0423093,
+    "place_id": "ChIJAQBAvfv84jsRT9vOQenJJzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBAvfv84jsRT9vOQenJJzY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:37:14"
+  },
+  {
+    "business_name": "Dr Atul Gupta's Clinic, Barsar , Hamirpur (H.P.)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center",
+    "pincode": "174303",
+    "phone_number": "+91 88947 24093",
+    "website": "http://www.dratulgupta.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Near Sanju Medical store, opposite to Govt Hospital, Barsar, Himachal Pradesh 174305",
+    "area": "174303",
+    "latitude": 31.5244647,
+    "longitude": 76.455778,
+    "place_id": "ChIJ3atqcNYtBTkRhb3QTGr2G3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3atqcNYtBTkRhb3QTGr2G3Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:37:17"
+  }
+]

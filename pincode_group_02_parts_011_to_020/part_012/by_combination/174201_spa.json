@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tamanna Beauty parlour&Lehnga house",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "174201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Mera ghar, 188, Kilan Area, Nangal, Punjab 140124",
+    "area": "Kilan Area",
+    "latitude": 31.3860724,
+    "longitude": 76.38014559999999,
+    "place_id": "ChIJpxXiwa_NGjkRfO-gpMbsDQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxXiwa_NGjkRfO-gpMbsDQc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:32:08"
+  },
+  {
+    "business_name": "Amarjeet Singh",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "174201",
+    "phone_number": "+91 70091 02707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "medical shop, Nangal, Punjab 140124",
+    "area": "174201",
+    "latitude": 31.380107499999998,
+    "longitude": 76.38774769999999,
+    "place_id": "ChIJi5_cr0DNGjkRrv9SCCSKcSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5_cr0DNGjkRrv9SCCSKcSU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:32:08"
+  }
+]

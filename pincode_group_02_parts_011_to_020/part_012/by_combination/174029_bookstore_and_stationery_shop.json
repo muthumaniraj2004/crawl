@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Stationers & sports",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "174029",
+    "phone_number": "+91 97367 00219",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite to post office, Berthin, Himachal Pradesh 174029",
+    "area": "174029",
+    "latitude": 31.4174938,
+    "longitude": 76.639096,
+    "place_id": "ChIJb7YMF9cxBTkRs3mzavQ9bJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7YMF9cxBTkRs3mzavQ9bJ0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:03"
+  },
+  {
+    "business_name": "Anmol Bag House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "174029",
+    "phone_number": "+91 88949 37970",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FJ99+JCH, Road, Chhat, Karloti, Himachal Pradesh 174029",
+    "area": "174029",
+    "latitude": 31.469053799999998,
+    "longitude": 76.6185971,
+    "place_id": "ChIJc1JMBeAvBTkRAAAAcDpXYmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1JMBeAvBTkRAAAAcDpXYmw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:03"
+  }
+]

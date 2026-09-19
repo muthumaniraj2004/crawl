@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajni Herbals",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "174101",
+    "phone_number": "+91 76529 47655",
+    "website": "https://www.rajniherbal.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "P.O, Vill Tapal Majra, Malikpur, Punjab 140113",
+    "area": "174101",
+    "latitude": 30.997223299999998,
+    "longitude": 76.5568605,
+    "place_id": "ChIJwRfxWqRWBTkR9dHhldN7GUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRfxWqRWBTkR9dHhldN7GUE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:26:31"
+  },
+  {
+    "business_name": "Hope Herbal Leaf",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Herbal medicine store",
+    "pincode": "174101",
+    "phone_number": "+91 79827 56916",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "SaleTax barrier, Distt, vill, Ghanauli, Thali, Punjab 140113",
+    "area": "vill",
+    "latitude": 31.020682899999997,
+    "longitude": 76.5911407,
+    "place_id": "ChIJpUNGFxlRBTkRTHnwBDpU9Tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUNGFxlRBTkRTHnwBDpU9Tc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:26:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baijnath Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "174309",
+    "phone_number": "+91 79820 45200",
+    "website": "https://baijnathtravels.com/",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "Kharanal, Himachal Pradesh 176115",
+    "area": "174309",
+    "latitude": 32.0713593,
+    "longitude": 76.63829779999999,
+    "place_id": "ChIJSxCsAtQ4pI4RzCJnRGL27WY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxCsAtQ4pI4RzCJnRGL27WY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:41"
+  },
+  {
+    "business_name": "Himachal Tour Packages",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "174309",
+    "phone_number": "N/A",
+    "website": "http://shimlamanalitourpackages.in.mybusinesslistingprofile.com/",
+    "rating": 4.6,
+    "reviews_count": 48,
+    "address": "Near, Cart Rd to AG Office, The Mall, Shimla, Himachal Pradesh 171003",
+    "area": "The Mall",
+    "latitude": 31.1047895,
+    "longitude": 77.1626527,
+    "place_id": "ChIJqarqHO94BTkRVX_EjIMIPYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqarqHO94BTkRVX_EjIMIPYk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:48:42"
+  }
+]

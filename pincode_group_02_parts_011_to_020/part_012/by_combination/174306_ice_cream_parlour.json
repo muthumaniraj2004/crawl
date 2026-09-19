@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hungry Point - Una",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Italian restaurant, Pasta shop, Pizza restaurant, Vegetarian restaurant",
+    "pincode": "174306",
+    "phone_number": "+91 80548 37777",
+    "website": "https://hungrypoint.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Nangal Rd, opp. Palika Bazaar, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.464191999999997,
+    "longitude": 76.278866,
+    "place_id": "ChIJt2f2MS_RGjkRT65Hk-GRtns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2f2MS_RGjkRT65Hk-GRtns",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:35"
+  },
+  {
+    "business_name": "CITY HEART PIZZA UNA",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant",
+    "pincode": "174306",
+    "phone_number": "+91 82838 77417",
+    "website": "http://cityheartpizza.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SH 25, Rakkar Colony, Himachal Pradesh 174303",
+    "area": "Rakkar Colony",
+    "latitude": 31.462730899999997,
+    "longitude": 76.3021831,
+    "place_id": "ChIJ7_o3BTfRGjkRO70kK-9lZ10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_o3BTfRGjkRO70kK-9lZ10",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:36"
+  }
+]

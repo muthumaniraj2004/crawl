@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kunjahal",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "174103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WRFW+9J6, Barotiwala, Himachal Pradesh 173205",
+    "area": "174103",
+    "latitude": 30.923259199999997,
+    "longitude": 76.8467369,
+    "place_id": "ChIJLc7OaACLDzkR0LOg06ncYs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLc7OaACLDzkR0LOg06ncYs8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:21"
+  },
+  {
+    "business_name": "Thakur marriage palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service",
+    "pincode": "174103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "WV34+232, Kalka Road, Barotiwala, Himachal Pradesh 174103",
+    "area": "174103",
+    "latitude": 30.902995999999998,
+    "longitude": 76.854636,
+    "place_id": "ChIJp3wiGgCLDzkRmnTb8wcJUqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3wiGgCLDzkRmnTb8wcJUqI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:21"
+  }
+]

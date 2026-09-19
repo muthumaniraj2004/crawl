@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIQUE COLLECTION",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174024",
+    "phone_number": "+91 98151 11473",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 235,
+    "address": "Leela Bhawan, Bank Colony, Patiala, Punjab 147001",
+    "area": "Leela Bhawan, Bank Colony",
+    "latitude": 30.3348879,
+    "longitude": 76.3835138,
+    "place_id": "ChIJXwbmYbkpEDkRNvL4qEVL3I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwbmYbkpEDkRNvL4qEVL3I8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:03:42"
+  },
+  {
+    "business_name": "TRENDS",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Outlet mall, Store",
+    "pincode": "174024",
+    "phone_number": "+91 93172 06049",
+    "website": "https://reliancetrends.com/page/trends-purnam-mall-bilaspur",
+    "rating": 4.3,
+    "reviews_count": 19,
+    "address": "Purnam Mall, Cinema Colony, Kosrian Sector, Bilaspur, Himachal Pradesh 174001",
+    "area": "Cinema Colony, Kosrian Sector",
+    "latitude": 31.3401277,
+    "longitude": 76.7646539,
+    "place_id": "ChIJ15dyIeQ_BTkR2HSYMf4Z13I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15dyIeQ_BTkR2HSYMf4Z13I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:03:43"
+  }
+]

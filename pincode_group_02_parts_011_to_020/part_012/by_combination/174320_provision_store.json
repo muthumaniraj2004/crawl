@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174320",
+    "phone_number": "+91 82796 54115",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pilli kothi, Chowk, Balawala Road, Balawala, Dehradun, Miyawala, Uttarakhand 248001",
+    "area": "Balawala",
+    "latitude": 30.263408499999997,
+    "longitude": 78.0975235,
+    "place_id": "ChIJWQEZq_0pCTkRkmeNZerXkTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQEZq_0pCTkRkmeNZerXkTA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:04:39"
+  },
+  {
+    "business_name": "Shri Balaji Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174320",
+    "phone_number": "+91 99979 70781",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 3,
+    "address": "212, Tilak Nagar, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Tilak Nagar, Khurbura Mohalla",
+    "latitude": 30.320757399999998,
+    "longitude": 78.0281244,
+    "place_id": "ChIJe0pPIQApCTkRpwDS99pbQjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0pPIQApCTkRpwDS99pbQjA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:04:39"
+  }
+]

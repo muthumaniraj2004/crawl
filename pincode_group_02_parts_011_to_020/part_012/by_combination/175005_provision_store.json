@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175005",
+    "phone_number": "+91 82788 96802",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 65, near Rain Salter, Mandi, Bijani, Himachal Pradesh 175001",
+    "area": "175005",
+    "latitude": 31.7416707,
+    "longitude": 76.9440606,
+    "place_id": "ChIJXSv-IyLjBDkRgZW-_r4orhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSv-IyLjBDkRgZW-_r4orhc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:23:31"
+  },
+  {
+    "business_name": "Ram Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Dry Fruit Store",
+    "pincode": "175005",
+    "phone_number": "+91 98160 59969",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Provision Store, Shamshi, Himachal Pradesh 175126",
+    "area": "175005",
+    "latitude": 31.9020926,
+    "longitude": 77.1357266,
+    "place_id": "ChIJkzUe49f3BDkRphOImTqISVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzUe49f3BDkRphOImTqISVY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:23:32"
+  }
+]

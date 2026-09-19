@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pahadi Swad Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175006",
+    "phone_number": "+91 98820 71000",
+    "website": "https://www.pahadiswad.in/",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "VPO Kot, Tehsil Chachyot, Himachal Pradesh 175028",
+    "area": "175006",
+    "latitude": 31.548319799999998,
+    "longitude": 77.0280286,
+    "place_id": "ChIJWQzyOroFBTkROPbN9JU_ybw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQzyOroFBTkROPbN9JU_ybw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:25:38"
+  },
+  {
+    "business_name": "chi2jiOfficial",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "175006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "J232+RX, Tikkari, Himachal Pradesh 175029",
+    "area": "175006",
+    "latitude": 31.6045052,
+    "longitude": 77.00246299999999,
+    "place_id": "ChIJ9Tmg-aMdBTkR3iHBBsPGWu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Tmg-aMdBTkR3iHBBsPGWu4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:25:42"
+  }
+]

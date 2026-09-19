@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Das properties management",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "174201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "H.no 112, mandir wali gali, Swamipur, Punjab 140126",
+    "area": "174201",
+    "latitude": 31.4227769,
+    "longitude": 76.3781984,
+    "place_id": "ChIJyUP5lqzNGjkRbhnsjgVY6Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUP5lqzNGjkRbhnsjgVY6Jc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:32:41"
+  },
+  {
+    "business_name": "Ricky Takhar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "174201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pahari Market Rd, Nangal Town Ship, dem, nagal, Nagagal, Punjab 140124",
+    "area": "Nangal Town Ship, dem",
+    "latitude": 31.3870418,
+    "longitude": 76.3796715,
+    "place_id": "ChIJ2YHptMHNGjkRCF7l1fx9VFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YHptMHNGjkRCF7l1fx9VFA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:32:41"
+  }
+]

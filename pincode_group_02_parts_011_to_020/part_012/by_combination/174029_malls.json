@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krish Trading Compani",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "174029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CJCV+8WJ, near sargal, chok, Berthin, Himachal Pradesh 174029",
+    "area": "chok",
+    "latitude": 31.4208401,
+    "longitude": 76.64476359999999,
+    "place_id": "ChIJjZ6K1G07BTkRDuQAc9SGs48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZ6K1G07BTkRDuQAc9SGs48",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:32"
+  },
+  {
+    "business_name": "Diwan chand and sons",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "174029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "FHMR+MFM, Maharal, Himachal Pradesh 176049",
+    "area": "174029",
+    "latitude": 31.484217299999997,
+    "longitude": 76.59117839999999,
+    "place_id": "ChIJ32_7imwvBTkROUtHKNnLrUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32_7imwvBTkROUtHKNnLrUc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:33"
+  }
+]

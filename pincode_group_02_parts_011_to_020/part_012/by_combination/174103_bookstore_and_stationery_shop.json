@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sundaram stationery and general Mart",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "174103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WRFM+M78, near SBI Bank, Jhar Majri, Barotiwala, Himachal Pradesh 174103",
+    "area": "174103",
+    "latitude": 30.924166,
+    "longitude": 76.8332132,
+    "place_id": "ChIJj2eWVHyLDzkRVbGyOMvFmkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2eWVHyLDzkRVbGyOMvFmkM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:35"
+  },
+  {
+    "business_name": "Munjal Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "174103",
+    "phone_number": "+91 98974 00390",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "SH 57, Haqikatnagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Haqikatnagar",
+    "latitude": 29.949751499999998,
+    "longitude": 77.54769,
+    "place_id": "ChIJH2vGCbvqDjkRP1M-dCluJv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2vGCbvqDjkRP1M-dCluJv4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:35"
+  }
+]

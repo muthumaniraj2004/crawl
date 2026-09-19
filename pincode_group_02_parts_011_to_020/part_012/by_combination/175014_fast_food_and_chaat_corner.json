@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaatwich, Sector 11, CBD Belapur",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Ice cream shop, Takeout restaurant, Panipuri shop, Pizza restaurant, Sandwich shop, Vegetarian restaurant",
+    "pincode": "175014",
+    "phone_number": "+91 89768 01717",
+    "website": "http://www.chaatwich.com/",
+    "rating": 4.3,
+    "reviews_count": 1520,
+    "address": "Shop no 6, next to Axis Bank, Sector 11, CBD Belapur, Navi Mumbai, Maharashtra 400614",
+    "area": "Sector 11, CBD Belapur",
+    "latitude": 19.0177738,
+    "longitude": 73.0410751,
+    "place_id": "ChIJd6eq31LC5zsRUC4EoFU7AXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6eq31LC5zsRUC4EoFU7AXI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:40:34"
+  },
+  {
+    "business_name": "Hungry Point - Bhawarna",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court",
+    "pincode": "175014",
+    "phone_number": "+91 81039 47777",
+    "website": "https://www.hungrypoint.in/",
+    "rating": 2.8,
+    "reviews_count": 37,
+    "address": "Reliance smart point, Near, Palampur Sujanpur Road, Bhawarna, Himachal Pradesh 176083",
+    "area": "175014",
+    "latitude": 32.0452434,
+    "longitude": 76.4972815,
+    "place_id": "ChIJJ3RWOgC1BDkRV2UBuDD8rsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3RWOgC1BDkRV2UBuDD8rsI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:40:35"
+  }
+]

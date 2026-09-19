@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Securities - Barsar",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "174309",
+    "phone_number": "+91 92402 37953",
+    "website": "https://www.hdfcsec.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Garli Chowk, Mehre Barsar Link Rd, Barsar, Himachal Pradesh 174305",
+    "area": "174309",
+    "latitude": 31.528240099999998,
+    "longitude": 76.467657,
+    "place_id": "ChIJv27RTVMtBTkR6zgeCfql6sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv27RTVMtBTkR6zgeCfql6sw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:49:25"
+  },
+  {
+    "business_name": "TR Capital - Stock Broker, Mutual Funds & Insurance",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial planner, Investment service",
+    "pincode": "174309",
+    "phone_number": "+91 98124 52905",
+    "website": "http://www.trcapital.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st FLOOR, Ravee Arcade, 95-97 Green Square Market, Hisar, Haryana 125001",
+    "area": "Bhamashah Nagar",
+    "latitude": 29.1587303,
+    "longitude": 75.7201128,
+    "place_id": "ChIJr4geetYyEjkRYzTVwIlJHBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4geetYyEjkRYzTVwIlJHBA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:49:26"
+  }
+]

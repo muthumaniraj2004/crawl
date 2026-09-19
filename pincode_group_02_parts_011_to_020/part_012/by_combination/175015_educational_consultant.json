@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AT Ignou Solutions",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "175015",
+    "phone_number": "+91 86289 10278",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VILL Patku, PO, Chauntra, Joginder Nagar, Himachal Pradesh 175032",
+    "area": "175015",
+    "latitude": 32.0087372,
+    "longitude": 76.76798629999999,
+    "place_id": "ChIJoSAeUYfBBDkRqt0f9Lo1jxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSAeUYfBBDkRqt0f9Lo1jxk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:43:32"
+  },
+  {
+    "business_name": "KS Digital Services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "175015",
+    "phone_number": "+91 98163 57802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lad Bharol, Bharan, Himachal Pradesh 175016",
+    "area": "Lad Bharol",
+    "latitude": 31.9032874,
+    "longitude": 76.68458319999999,
+    "place_id": "ChIJCbUStkTFBDkRtahfFLXNp_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCbUStkTFBDkRtahfFLXNp_U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:43:35"
+  }
+]

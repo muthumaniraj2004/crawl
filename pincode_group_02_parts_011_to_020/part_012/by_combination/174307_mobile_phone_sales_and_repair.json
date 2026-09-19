@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Cell phone store, Computer repair service, Computer store, Mobile phone repair shop",
+    "pincode": "174307",
+    "phone_number": "+91 98172 04399",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Near Post Office Kangoo Teh Nadaun Sub Teh, Kangoo, Himachal Pradesh 177040",
+    "area": "174307",
+    "latitude": 31.692656099999997,
+    "longitude": 76.416102,
+    "place_id": "ChIJzb6eqwwrGzkRcMsz28jtTVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzb6eqwwrGzkRcMsz28jtTVg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:45:35"
+  },
+  {
+    "business_name": "Him Tech Mobile Solutions",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store, Mobile phone repair shop, Security system installation service",
+    "pincode": "174307",
+    "phone_number": "+91 83604 34273",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 116,
+    "address": "Lower Bazar, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "Lower Bazar",
+    "latitude": 32.1060369,
+    "longitude": 76.3750003,
+    "place_id": "ChIJrTRSBTFMGzkRF-oCEgy_y7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTRSBTFMGzkRF-oCEgy_y7s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:45:36"
+  }
+]

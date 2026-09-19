@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nation style 3",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174103",
+    "phone_number": "+91 92180 45730",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WR5M+VHC, Bated, Barotiwala, Himachal Pradesh 174103",
+    "area": "Bated",
+    "latitude": 30.9096773,
+    "longitude": 76.83388839999999,
+    "place_id": "ChIJB0J_cQCLDzkRasQ6Z79MpQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0J_cQCLDzkRasQ6Z79MpQk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:08"
+  },
+  {
+    "business_name": "Shri Ram Traders",
+    "search_category": "Shops",
+    "primary_category": "Store equipment supplier",
+    "all_categories": "Store equipment supplier",
+    "pincode": "174103",
+    "phone_number": "+91 78078 89388",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "shop no.4, koushal complex, Sai Rd, Baddi, Himachal Pradesh 173205",
+    "area": "174103",
+    "latitude": 30.9443578,
+    "longitude": 76.8037283,
+    "place_id": "ChIJTZAyI171DzkRy3ePpmYWVAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZAyI171DzkRy3ePpmYWVAw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:10"
+  }
+]

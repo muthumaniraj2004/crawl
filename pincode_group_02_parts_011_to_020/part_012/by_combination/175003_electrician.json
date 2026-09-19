@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanya electrical shop",
+    "search_category": "Electrician",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "175003",
+    "phone_number": "+91 94187 24148",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Baloh, Tarayasal, Himachal Pradesh 175052",
+    "area": "175003",
+    "latitude": 31.7012897,
+    "longitude": 76.8954995,
+    "place_id": "ChIJHTYUA9bhBDkRYRqx5YCkdds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTYUA9bhBDkRYRqx5YCkdds",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:20:40"
+  },
+  {
+    "business_name": "Saru Electronics & Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "175003",
+    "phone_number": "+91 98168 33743",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "NH 3, Malaun, Langerh, Himachal Pradesh 175040",
+    "area": "175003",
+    "latitude": 31.7846312,
+    "longitude": 76.78145119999999,
+    "place_id": "ChIJL1OPHrPdBDkRSKls551fp-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1OPHrPdBDkRSKls551fp-o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:20:42"
+  }
+]

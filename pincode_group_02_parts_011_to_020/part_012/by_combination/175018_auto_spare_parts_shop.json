@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoolin spare parts nalsar",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Auto repair shop, Auto Accessories Store",
+    "pincode": "175018",
+    "phone_number": "+91 94182 41941",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Major District Rd 24, Nalsar, Darbathu, Himachal Pradesh 175027",
+    "area": "175018",
+    "latitude": 31.579293,
+    "longitude": 76.961365,
+    "place_id": "ChIJLXuDHv8bBTkRNCKMQ9sDUbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXuDHv8bBTkRNCKMQ9sDUbs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:36"
+  },
+  {
+    "business_name": "Car Music World",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Car stereo store, Electronics repair shop",
+    "pincode": "175018",
+    "phone_number": "+91 88945 11223",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Dhanotu, Mahadev, Sundar Nagar, Himachal Pradesh 175018",
+    "area": "Dhnotu",
+    "latitude": 31.552986999999998,
+    "longitude": 76.9006687,
+    "place_id": "ChIJSXHLOS4ZBTkRW9kMEwE3ceA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXHLOS4ZBTkRW9kMEwE3ceA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:48:36"
+  }
+]

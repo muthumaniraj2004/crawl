@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Hub Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "175003",
+    "phone_number": "+91 70092 76923",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Gram Panchyat, Rakhota, Himachal Pradesh 175049",
+    "area": "175003",
+    "latitude": 31.668476199999997,
+    "longitude": 76.7885178,
+    "place_id": "ChIJ7ffmAaLfBDkR_o15QdCN-BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ffmAaLfBDkR_o15QdCN-BQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:20:23"
+  },
+  {
+    "business_name": "RADHE FITNESS 27",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "175003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 128,
+    "address": "Food Plaza, Taklech, Himachal Pradesh 172022",
+    "area": "175003",
+    "latitude": 31.3761345,
+    "longitude": 77.7302907,
+    "place_id": "ChIJe2cQ58bpBTkRQ0YuBi_f6fI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2cQ58bpBTkRQ0YuBi_f6fI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:20:25"
+  }
+]

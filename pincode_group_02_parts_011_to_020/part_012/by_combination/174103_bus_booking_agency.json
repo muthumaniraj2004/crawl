@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh choudhary Tour & travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "174103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H.n 110, near bdo office, Tagra, Haryana 133302",
+    "area": "174103",
+    "latitude": 30.8639135,
+    "longitude": 76.9169572,
+    "place_id": "ChIJkSBa6zmNDzkRQXxGTs_pTgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSBa6zmNDzkRQXxGTs_pTgo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:00"
+  },
+  {
+    "business_name": "Abhijeet Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "174103",
+    "phone_number": "+91 98819 98792",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bombay restaurant, Aditya Nagari, Godoli East, Maharashtra 415004",
+    "area": "Aditya Nagari",
+    "latitude": 17.6843753,
+    "longitude": 74.02382879999999,
+    "place_id": "ChIJqcduhHM3wjsR0_zea7OGD64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcduhHM3wjsR0_zea7OGD64",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:01"
+  }
+]

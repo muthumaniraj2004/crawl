@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sos MRI centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "174306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Swami Ram Tirth school, Mehatpur, Himachal Pradesh 174315",
+    "area": "174306",
+    "latitude": 31.4108044,
+    "longitude": 76.3408496,
+    "place_id": "ChIJYcRTnEPPGjkRhtBFWqd3YGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcRTnEPPGjkRhtBFWqd3YGk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:52"
+  },
+  {
+    "business_name": "General Diagnostics-Arogyam Panchkarma Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174306",
+    "phone_number": "+91 98050 38733",
+    "website": "https://www.gd-lab.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Una-Nangal Highway, Mehatpur, Himachal Pradesh 174306",
+    "area": "174306",
+    "latitude": 31.419136299999998,
+    "longitude": 76.33798019999999,
+    "place_id": "ChIJMbrf4EvPGjkRv19PJzKY6FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbrf4EvPGjkRv19PJzKY6FI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:42:52"
+  }
+]

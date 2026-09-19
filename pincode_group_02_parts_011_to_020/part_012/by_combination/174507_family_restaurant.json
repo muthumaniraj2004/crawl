@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza town",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "174507",
+    "phone_number": "+91 88946 64799",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tahliwal, Himachal Pradesh 174507",
+    "area": "174507",
+    "latitude": 31.3576078,
+    "longitude": 76.2734467,
+    "place_id": "ChIJd-dDRbnPGjkRcSvBcRUaQ68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-dDRbnPGjkRcSvBcRUaQ68",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:14:21"
+  },
+  {
+    "business_name": "Bharadwaj fast food",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "174507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "9937+56F, Shivalik College Rd, Naya Nangal, Maujowal, Punjab 140126",
+    "area": "174507",
+    "latitude": 31.3528587,
+    "longitude": 76.3630526,
+    "place_id": "ChIJPxfKm4PPGjkRcviyAkTB8x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxfKm4PPGjkRcviyAkTB8x0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:14:21"
+  }
+]

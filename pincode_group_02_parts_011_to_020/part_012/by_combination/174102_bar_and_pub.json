@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel GS Palace",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "174102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "3M4P 3GF, Sanerh, Himachal Pradesh 174101",
+    "area": "174102",
+    "latitude": 31.055456099999997,
+    "longitude": 76.6854209,
+    "place_id": "ChIJs1u9aPVbBTkRHuhUFnoxmes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1u9aPVbBTkRHuhUFnoxmes",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:38"
+  },
+  {
+    "business_name": "My",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "174102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nalagarh, Himachal Pradesh 174101",
+    "area": "174102",
+    "latitude": 31.046068499999997,
+    "longitude": 76.7025709,
+    "place_id": "ChIJl1DVYOVbBTkRzvL4SM0kf_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1DVYOVbBTkRzvL4SM0kf_c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:27:38"
+  }
+]

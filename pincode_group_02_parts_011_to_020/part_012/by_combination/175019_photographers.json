@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imperial Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "175019",
+    "phone_number": "+91 98164 55889",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhanotu Nh21 Nh21, Himachal Pradesh 175018",
+    "area": "Dhnotu",
+    "latitude": 31.5510102,
+    "longitude": 76.8995317,
+    "place_id": "ChIJd8WEvdsZBTkRR2GU52S8u4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8WEvdsZBTkRR2GU52S8u4U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:50:56"
+  },
+  {
+    "business_name": "Gopal Movies Studio",
+    "search_category": "Photographers",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Movie studio, Photo shop",
+    "pincode": "175019",
+    "phone_number": "+91 98171 20430",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "SH 13, Tatrot, Kanaid, Naulakha, Himachal Pradesh 175019",
+    "area": "Tatrot",
+    "latitude": 31.5681077,
+    "longitude": 76.9069241,
+    "place_id": "ChIJlWBxVFoZBTkR5m2JCWAKCwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWBxVFoZBTkR5m2JCWAKCwI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:50:56"
+  }
+]

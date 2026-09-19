@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cheers Cafe Magic Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Indian restaurant, Restaurant",
+    "pincode": "175005",
+    "phone_number": "+91 97367 09496",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 412,
+    "address": "W47H+4MF, NH21, near Indian Overseas Bank, Mohal, Himachal Pradesh 175126",
+    "area": "175005",
+    "latitude": 31.9128217,
+    "longitude": 77.12917589999999,
+    "place_id": "ChIJD9PGNV34BDkRhavQNNO3t3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9PGNV34BDkRhavQNNO3t3M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:23:44"
+  },
+  {
+    "business_name": "Flavour Bite",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "175005",
+    "phone_number": "+91 98168 41545",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite District Library, near Court Complex, Seri Bazar, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Seri Bazar, Samkhetar",
+    "latitude": 31.708956999999998,
+    "longitude": 76.9321081,
+    "place_id": "ChIJLwRv82LjBDkRv26C1WqLKto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwRv82LjBDkRv26C1WqLKto",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:23:45"
+  }
+]

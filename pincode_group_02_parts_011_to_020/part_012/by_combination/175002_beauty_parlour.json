@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Shagun Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "175002",
+    "phone_number": "+91 98168 28330",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near HDFC bank, in front of kharbanda book store, Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur",
+    "latitude": 31.5308995,
+    "longitude": 76.8880494,
+    "place_id": "ChIJXfc6et4ZBTkRvcAIAYKYWYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfc6et4ZBTkRvcAIAYKYWYw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:18:52"
+  },
+  {
+    "business_name": "Minakshi beauty salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "175002",
+    "phone_number": "+91 90151 39839",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 37,
+    "address": "Suhin, Link Rd, buhla, Garli, Aloh, Himachal Pradesh 177108",
+    "area": "buhla",
+    "latitude": 31.812172099999998,
+    "longitude": 76.2452686,
+    "place_id": "ChIJI-Zq_i47GzkR1aU-ohy2nbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-Zq_i47GzkR1aU-ohy2nbo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:18:54"
+  }
+]

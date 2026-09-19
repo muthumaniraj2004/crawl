@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Tree",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "174027",
+    "phone_number": "+91 94186 63488",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "beside petrol pump, Ladraur, Himachal Pradesh 176043",
+    "area": "174027",
+    "latitude": 31.583285,
+    "longitude": 76.63912599999999,
+    "place_id": "ChIJsQWYsY8pBTkR9v9DjchK-9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQWYsY8pBTkR9v9DjchK-9o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:21"
+  },
+  {
+    "business_name": "Hotel Barot Inn & Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "174027",
+    "phone_number": "+91 97368 01800",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near school market, Barot, Himachal Pradesh 175013",
+    "area": "174027",
+    "latitude": 32.0367476,
+    "longitude": 76.8442147,
+    "place_id": "ChIJ049aJUmVBDkRTv_M7gHXIZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ049aJUmVBDkRTv_M7gHXIZo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GK Computers Academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Education center, Tutoring service",
+    "pincode": "174015",
+    "phone_number": "+91 70959 95536",
+    "website": "https://gkcomputersacademy.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd floor, mahboob complex, above madina gallery, Tolichowki Rd, beside mohamed cap mart, Hyderabad, Telangana 500008",
+    "area": "Owaisi colony, MD Lines, Toli Chowki",
+    "latitude": 17.3982682,
+    "longitude": 78.41817759999999,
+    "place_id": "ChIJ7ZUrf-iWyzsRkSS4NofYd8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZUrf-iWyzsRkSS4NofYd8g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:11"
+  },
+  {
+    "business_name": "Premier Tech Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Educational institution",
+    "pincode": "174015",
+    "phone_number": "+91 86882 21907",
+    "website": "https://premiertecheducation.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "First floor, Opp:, Fortune Toyota Service Centre, H.No. 9-4-133/A/7, 7 Tombs Rd, Raghava Colony, Neeraj Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "area": "Raghava Colony, Neeraj Colony, Toli Chowki",
+    "latitude": 17.3986689,
+    "longitude": 78.4111238,
+    "place_id": "ChIJ_Q6-fsWXyzsRKJIuuKl0D1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Q6-fsWXyzsRKJIuuKl0D1M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:11"
+  }
+]

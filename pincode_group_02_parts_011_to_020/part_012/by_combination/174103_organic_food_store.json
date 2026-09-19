@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KhetVet - Organic food products!",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "174103",
+    "phone_number": "+91 77175 12382",
+    "website": "http://khetvet.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ekta Market, Sector 45C, Sector 45, Chandigarh, 160047",
+    "area": "Ekta Market, Sector 45C, Sector 45",
+    "latitude": 30.7046688,
+    "longitude": 76.7585623,
+    "place_id": "ChIJAc_xYTvtDzkRcDaYdSYGNFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAc_xYTvtDzkRcDaYdSYGNFo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:29:18"
+  },
+  {
+    "business_name": "Ronam Healthcare Pvt. Ltd",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Manufacturer",
+    "pincode": "174103",
+    "phone_number": "+91 98050 55587",
+    "website": "https://ronamhealth.com/3rd-party-manufacturing/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "VVH8+PP Tehsil, Kalu Jhanda, Baddi, Himachal Pradesh 174103",
+    "area": "Tehsil",
+    "latitude": 30.879312499999997,
+    "longitude": 76.8668125,
+    "place_id": "ChIJZZJIUzGLDzkRNeXiGIpJlck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZJIUzGLDzkRNeXiGIpJlck",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:29:22"
+  }
+]

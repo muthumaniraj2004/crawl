@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MSPC Fixer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "174405",
+    "phone_number": "+91 96488 85410",
+    "website": "https://mspcfixer.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Metro Gate 2, Shop No.1 Basement, Faridi Building, Maqbara Rd, opp. Hazratganj, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Hazratganj",
+    "latitude": 26.8496065,
+    "longitude": 80.94122039999999,
+    "place_id": "ChIJtcAHP_79mzkRL22MfJdVYw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcAHP_79mzkRL22MfJdVYw4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:09:50"
+  },
+  {
+    "business_name": "SYSBOOST INFOTECH",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer accessories store, Computer software store, Computer store",
+    "pincode": "174405",
+    "phone_number": "+91 91123 44345",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "107- Nr Rajendra High School, Kothi Rd, Mahal, Nagpur, Maharashtra 440032",
+    "area": "Mahal",
+    "latitude": 21.1445647,
+    "longitude": 79.1044134,
+    "place_id": "ChIJfw1k57XA1DsRU7rQ4mdgcTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfw1k57XA1DsRU7rQ4mdgcTk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:09:54"
+  }
+]

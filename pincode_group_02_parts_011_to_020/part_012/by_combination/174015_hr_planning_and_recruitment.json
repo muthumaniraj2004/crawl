@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Headstrong HR Consulting Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "174015",
+    "phone_number": "+91 98672 72399",
+    "website": "https://www.headstronghr.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Headstrong HR Consulting Services, 174015, India",
+    "area": "174015",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJH3UB8pADaoIRYaV4SwAP7ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3UB8pADaoIRYaV4SwAP7ao",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:24"
+  },
+  {
+    "business_name": "HR Co",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Service establishment",
+    "pincode": "174015",
+    "phone_number": "N/A",
+    "website": "http://www.hrco.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR Co, 174015, India",
+    "area": "174015",
+    "latitude": 16.270409,
+    "longitude": 78.76851979999999,
+    "place_id": "ChIJszHh3SmxxigRtkXBeSQFDtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszHh3SmxxigRtkXBeSQFDtk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:57:26"
+  }
+]

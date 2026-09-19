@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaanya opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "174302",
+    "phone_number": "+91 62801 94564",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "road, near electricity board, opposite Bajaj agency, Bharwain, Gagret, Himachal Pradesh 177201",
+    "area": "174302",
+    "latitude": 31.668336,
+    "longitude": 76.06524689999999,
+    "place_id": "ChIJ1cVz2o8fGzkRHQdOl4I5xes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cVz2o8fGzkRHQdOl4I5xes",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:35:15"
+  },
+  {
+    "business_name": "Nand Optical Store",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "174302",
+    "phone_number": "+91 188 222 9599",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 55,
+    "address": "Railway Rd, near Post Office, Hari Nagar, Hoshiarpur, Punjab 146001",
+    "area": "Hari Nagar",
+    "latitude": 31.5319279,
+    "longitude": 75.912128,
+    "place_id": "ChIJR3d3997iGjkR7qEeNXZXvPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3d3997iGjkR7qEeNXZXvPQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:35:15"
+  }
+]

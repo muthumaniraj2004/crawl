@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hero Cycles & Suncross Bikes",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Grocery store, Moving supply store",
+    "pincode": "175004",
+    "phone_number": "+91 1902 222 704",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "X488+99V, inner bazzar, Akhara, Kullu, Himachal Pradesh 175101",
+    "area": "Akhara",
+    "latitude": 31.9659907,
+    "longitude": 77.1159358,
+    "place_id": "ChIJAeW6u6f2BDkRzmSuprsmifg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeW6u6f2BDkRzmSuprsmifg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:22:24"
+  },
+  {
+    "business_name": "Googly Bikes",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "175004",
+    "phone_number": "+91 98161 17126",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "V4PW+F73, Bhuntar, Himachal Pradesh 175125",
+    "area": "175004",
+    "latitude": 31.886142699999997,
+    "longitude": 77.1456789,
+    "place_id": "ChIJARVlJ3_3BDkRc3Bx518d-9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARVlJ3_3BDkRc3Bx518d-9Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:22:24"
+  }
+]

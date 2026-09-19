@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174503",
+    "phone_number": "N/A",
+    "website": "http://www.tiffincenterjaipur.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 110, Ganpati Tower, Sector 2, Central Spine, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Central Spine, Vidyadhar Nagar",
+    "latitude": 26.957407,
+    "longitude": 75.777824,
+    "place_id": "ChIJV1SJ_7OzbTkRNJ89sD-YedI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1SJ_7OzbTkRNJ89sD-YedI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:33"
+  },
+  {
+    "business_name": "Tiffin services",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "174503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near IIT, Saloh, Bhadsali Har, Himachal Pradesh 174317",
+    "area": "Saloh",
+    "latitude": 31.479928299999997,
+    "longitude": 76.2004943,
+    "place_id": "ChIJoUIYqLzbGjkRYnfeYUs-BNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUIYqLzbGjkRYnfeYUs-BNk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:10:34"
+  }
+]

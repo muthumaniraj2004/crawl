@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174032",
+    "phone_number": "+91 94180 85261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Tepra, Himachal Pradesh 174032",
+    "area": "174032",
+    "latitude": 31.229229099999998,
+    "longitude": 76.8735336,
+    "place_id": "ChIJh8uxCVVrBTkRwlM5srH0O00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8uxCVVrBTkRwlM5srH0O00",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:26"
+  },
+  {
+    "business_name": "Mahajan General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "174032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "7WR5+GQ4, MDR34, Charahu, Kothi Harari, Himachal Pradesh 174001",
+    "area": "174032",
+    "latitude": 31.287694799999997,
+    "longitude": 76.9117064,
+    "place_id": "ChIJJ53d3j5rBTkRLH_oo5-Cjsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ53d3j5rBTkRLH_oo5-Cjsc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:16:28"
+  }
+]

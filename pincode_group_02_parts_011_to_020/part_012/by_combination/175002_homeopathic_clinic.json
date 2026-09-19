@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirpal Uttam Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "175002",
+    "phone_number": "+91 99993 42688",
+    "website": "http://www.drshantaoberoi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "14 north 2ndfloor Rievera appts mall road, F14/26, and, near Vishwavidhyalya Metro Station, Model Town Phase 2, Delhi, 110054",
+    "area": "Model Town Phase 2, Model Town Phase I, Model Town",
+    "latitude": 28.706243999999998,
+    "longitude": 77.191191,
+    "place_id": "ChIJT6-2kgcCDTkRq9Fv7AqMbtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6-2kgcCDTkRq9Fv7AqMbtc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:18:21"
+  },
+  {
+    "business_name": "Bharat Medical Store",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "175002",
+    "phone_number": "+91 1907 266 359",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "National Highway 21, Pungh, Himachal Pradesh 175018",
+    "area": "175002",
+    "latitude": 31.5175305,
+    "longitude": 76.88345819999999,
+    "place_id": "ChIJW4V6CMgZBTkRpTjakaOoiaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4V6CMgZBTkRpTjakaOoiaM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:18:23"
+  }
+]

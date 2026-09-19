@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chief Medical Office",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175001",
+    "phone_number": "+91 1905 222 177",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "PW6G+GRH ZH, Mandi, Palace Colony, Maswari, Mandi, Himachal Pradesh 175001",
+    "area": "Palace Colony",
+    "latitude": 31.7113078,
+    "longitude": 76.92710799999999,
+    "place_id": "ChIJ9fSeCCXiBDkRhYUvv7-AesM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fSeCCXiBDkRhYUvv7-AesM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:36"
+  },
+  {
+    "business_name": "Thukral Medical Agencies",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175001",
+    "phone_number": "+91 62307 10870",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "152/11, Tarna Road, School Bazar, Tarna, Mandi, Himachal Pradesh 175001",
+    "area": "School Bazar, Tarna",
+    "latitude": 31.707315599999998,
+    "longitude": 76.92917059999999,
+    "place_id": "ChIJVy8nUCPiBDkR6o-lz9GHYIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVy8nUCPiBDkR6o-lz9GHYIQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:38"
+  }
+]

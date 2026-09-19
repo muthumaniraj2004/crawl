@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Computer accessories store, Computer Hardware Company, Computer store",
+    "pincode": "174026",
+    "phone_number": "+91 78763 00677",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "near Govt Sr Sec School, Baldwara, Himachal Pradesh 175033",
+    "area": "174026",
+    "latitude": 31.556659399999997,
+    "longitude": 76.7656351,
+    "place_id": "ChIJnVNmpdAjBTkR1TWk3pIWyxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVNmpdAjBTkR1TWk3pIWyxA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:06:34"
+  },
+  {
+    "business_name": "Gautam Brothers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "174026",
+    "phone_number": "+91 94180 16277",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 24,
+    "address": "near Town Hall, Main Bazar, Hamirpur, Himachal Pradesh 177001",
+    "area": "Main Bazar",
+    "latitude": 31.6862937,
+    "longitude": 76.52277889999999,
+    "place_id": "ChIJ3Q8nS0XVBDkRi2F_rVN2Beg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Q8nS0XVBDkRi2F_rVN2Beg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:06:34"
+  }
+]

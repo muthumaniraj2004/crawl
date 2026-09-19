@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "174033",
+    "phone_number": "+91 78761 16807",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "gassour shop no.2, road, gagus, Brahmpukhar, Gasaur, Himachal Pradesh 174033",
+    "area": "gagus",
+    "latitude": 31.3123121,
+    "longitude": 76.8157602,
+    "place_id": "ChIJCZcpmiU_BTkRPcg5j1vL-1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZcpmiU_BTkRPcg5j1vL-1c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:18:33"
+  },
+  {
+    "business_name": "Drishti Garments",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174033",
+    "phone_number": "+91 75061 35985",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Beri Kharsi Navgaon Rd, Kharsi Kanaitan, Himachal Pradesh 174001",
+    "area": "174033",
+    "latitude": 31.3172428,
+    "longitude": 76.8787296,
+    "place_id": "ChIJ7XaMiqIVBTkRXHFYsDnn5O0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XaMiqIVBTkRXHFYsDnn5O0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:18:33"
+  }
+]

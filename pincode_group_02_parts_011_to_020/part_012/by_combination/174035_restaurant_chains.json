@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Icaros Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bar, Cocktail bar, Israeli restaurant, Italian restaurant, Mediterranean restaurant, Modern Indian restaurant, Pizza restaurant, Cafe",
+    "pincode": "174035",
+    "phone_number": "+91 82787 12186",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Icaros Restaurant Chojh village, Kasol, P.O, Manikaran, Himachal Pradesh 175105",
+    "area": "P.O",
+    "latitude": 32.0174844,
+    "longitude": 77.32752909999999,
+    "place_id": "ChIJibCBXYxdBDkRxvQk4NCgX1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibCBXYxdBDkRxvQk4NCgX1w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:22:06"
+  },
+  {
+    "business_name": "The Lalit's Kitchen",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174035",
+    "phone_number": "+91 85804 41514",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Step in hotel, river view, Kasol, Himachal Pradesh 175105",
+    "area": "174035",
+    "latitude": 32.009030599999996,
+    "longitude": 77.3098622,
+    "place_id": "ChIJp7DyT8ZdBDkRPA_i-9_O2Pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7DyT8ZdBDkRPA_i-9_O2Pk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:22:06"
+  }
+]

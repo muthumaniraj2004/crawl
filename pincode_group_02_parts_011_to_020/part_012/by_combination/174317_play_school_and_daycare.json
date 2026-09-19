@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of Toddler",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "174317",
+    "phone_number": "+91 96522 28509",
+    "website": "https://www.houseoftoddler.in/",
+    "rating": 4.7,
+    "reviews_count": 55,
+    "address": "BHEL HIG - 119, Phase 2, Ushodaya Enclave, Madinaguda, Miyapur, Hyderabad, Telangana 500049",
+    "area": "BHEL HIG Phase 2, Ushodaya Enclave, Indra Reddy Allwyn Colony, Hafeezpet",
+    "latitude": 17.4897725,
+    "longitude": 78.34782919999999,
+    "place_id": "ChIJnVmFYV2SyzsRoaPpit-ir04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVmFYV2SyzsRoaPpit-ir04",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:02:11"
+  },
+  {
+    "business_name": "Kool Kids Kindergarten & Day Care",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Kindergarten School",
+    "all_categories": "Kindergarten School, Day care center, Preschool",
+    "pincode": "174317",
+    "phone_number": "+91 97460 95000",
+    "website": "https://koolkids.in/",
+    "rating": 4.9,
+    "reviews_count": 177,
+    "address": "Medical College, PRRA 64, Pazhaya Rd, opp. Green Heights Apartments, near Neerali Restaurant, Chalakkuzhi, Thiruvananthapuram, Keralam 695011",
+    "area": "Chalakkuzhi",
+    "latitude": 8.5197816,
+    "longitude": 76.93089479999999,
+    "place_id": "ChIJrUhofOe7BTsRWKN_RkSqarQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUhofOe7BTsRWKN_RkSqarQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:02:11"
+  }
+]

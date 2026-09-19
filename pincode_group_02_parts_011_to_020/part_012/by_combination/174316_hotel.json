@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO 70204 Hotel City Heart",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174316",
+    "phone_number": "+91 124 620 1184",
+    "website": "https://www.oyorooms.com/96848",
+    "rating": 3.4,
+    "reviews_count": 78,
+    "address": "Katohar Khurd, Amb, Himachal Pradesh 177203",
+    "area": "174316",
+    "latitude": 31.660426299999997,
+    "longitude": 76.1171632,
+    "place_id": "ChIJN8qZ2YghGzkRGUoVyoOdXXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8qZ2YghGzkRGUoVyoOdXXs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:00:11"
+  },
+  {
+    "business_name": "Hotel The Ashoka and Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174316",
+    "phone_number": "+91 90150 40836",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 80,
+    "address": "Gagret NH-03,Chintpurni, Road, Gagret, Himachal Pradesh 177201",
+    "area": "174316",
+    "latitude": 31.6706331,
+    "longitude": 76.0664815,
+    "place_id": "ChIJB6MdZkkfGzkRnOhffz74rMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6MdZkkfGzkRnOhffz74rMM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:00:12"
+  }
+]

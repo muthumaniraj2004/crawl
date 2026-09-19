@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Beespoke Honey",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175015",
+    "phone_number": "+91 98183 39422",
+    "website": "https://www.thebeespokehoney.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Ground Floor, Surya Classic Hotel Chogan, Bhattu Link Road, P.O, Tehsil, Bir, Baijnath, Himachal Pradesh 176077",
+    "area": "Bir Colony, P.O, Tehsil",
+    "latitude": 32.035621299999995,
+    "longitude": 76.71548109999999,
+    "place_id": "ChIJN3L9r8-5BDkRiRq4DsCTOpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3L9r8-5BDkRiRq4DsCTOpo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:16"
+  },
+  {
+    "business_name": "Addishakti Medical Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "175015",
+    "phone_number": "+91 82199 10534",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "ward no.5, Upper Seri, near gurudwara, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "175015",
+    "latitude": 31.992213999999997,
+    "longitude": 76.7961787,
+    "place_id": "ChIJO6CWhiHBBDkRBpFGuPjr_kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6CWhiHBBDkRBpFGuPjr_kQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:16"
+  }
+]

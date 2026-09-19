@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "174201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "99MG+7JP, Contractors Colony, Nangal, Punjab 140124",
+    "area": "Contractors Colony",
+    "latitude": 31.3832213,
+    "longitude": 76.3765753,
+    "place_id": "ChIJR09nSADNGjkRe6nKzuPxef8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR09nSADNGjkRe6nKzuPxef8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:39"
+  },
+  {
+    "business_name": "Sunny Oberoi Clinical Lab & Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic Center",
+    "all_categories": "Diagnostic Center",
+    "pincode": "174201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "99PH+H48, Bhakra Rd, Nangal, Punjab 140124",
+    "area": "174201",
+    "latitude": 31.386423399999998,
+    "longitude": 76.3778182,
+    "place_id": "ChIJZfbNeDDMGjkRsO4BCjeSWcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfbNeDDMGjkRsO4BCjeSWcc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:31:39"
+  }
+]

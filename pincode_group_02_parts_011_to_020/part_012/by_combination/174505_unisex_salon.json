@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Next Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "174505",
+    "phone_number": "+91 99888 39749",
+    "website": "http://thenextsalon.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Opp. Prem Nagar Ashram ranipur Mor Colony, above Red chief showroom, Haridwar, Uttarakhand 249407",
+    "area": "Model Colony",
+    "latitude": 29.932772399999998,
+    "longitude": 78.1327044,
+    "place_id": "ChIJ0bkxeBtHCTkRDvz_d5V3ZDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bkxeBtHCTkRDvz_d5V3ZDg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:13:14"
+  },
+  {
+    "business_name": "Shivi Professional Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "174505",
+    "phone_number": "+91 78768 51212",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3rd Floor, opposite Roshan jawellers, Pratap Nagar, Hamirpur, Himachal Pradesh 177001",
+    "area": "Pratap Nagar",
+    "latitude": 31.6894119,
+    "longitude": 76.5197321,
+    "place_id": "ChIJKSdy61rVBDkRGD6TYK10nJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSdy61rVBDkRGD6TYK10nJo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:13:15"
+  }
+]

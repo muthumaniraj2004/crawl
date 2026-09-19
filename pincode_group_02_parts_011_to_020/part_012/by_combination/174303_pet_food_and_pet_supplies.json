@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pets Hub",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "174303",
+    "phone_number": "+91 85804 95954",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "Arvind Market, Ram Nagar, Una, Himachal Pradesh 174303",
+    "area": "Ram Nagar",
+    "latitude": 31.4679383,
+    "longitude": 76.2720183,
+    "place_id": "ChIJhV-CCwDbGjkRZFa4ZATooAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhV-CCwDbGjkRZFa4ZATooAQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:36:51"
+  },
+  {
+    "business_name": "PETVET Pet Shop And Grooming",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "174303",
+    "phone_number": "+91 85807 55408",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Jal Gran, Himachal Pradesh 174306",
+    "area": "174303",
+    "latitude": 31.452328299999998,
+    "longitude": 76.3102657,
+    "place_id": "ChIJKaTxE6nRGjkRaPn92Qucs74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKaTxE6nRGjkRaPn92Qucs74",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:36:51"
+  }
+]

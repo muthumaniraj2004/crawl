@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KFC",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chicken restaurant, Fast food restaurant, Fried chicken takeaway, Non Vegetarian Restaurant",
+    "pincode": "174101",
+    "phone_number": "+91 79 4272 7177",
+    "website": "https://restaurants.kfc.co.in/kfc-kfc-sapphire-foods-india-ltd-restaurants-barapind-rupnagar-384601/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.3,
+    "reviews_count": 704,
+    "address": "Kh No 35, Unit No 4, Marine Food Chain HB No 326, 8/2/6/5, Bara Pind, Punjab 140114",
+    "area": "174101",
+    "latitude": 31.110571,
+    "longitude": 76.596561,
+    "place_id": "ChIJv9EBLgBPBTkRmuxu0_LISAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9EBLgBPBTkRmuxu0_LISAM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:25:46"
+  },
+  {
+    "business_name": "Haveli Bharatgarh, Old Rao Hotel",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174101",
+    "phone_number": "+91 98883 75050",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Khasra no. 877/2, Art Haveli Bharatgarh Alowal, Alowal, Punjab 140113",
+    "area": "174101",
+    "latitude": 31.077628599999997,
+    "longitude": 76.6000603,
+    "place_id": "ChIJ_6AseyJRBTkRjJE3FzQDqpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6AseyJRBTkRjJE3FzQDqpc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:25:49"
+  }
+]

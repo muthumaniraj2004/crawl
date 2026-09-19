@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "7 Gold Enterprises",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service, Service establishment",
+    "pincode": "174303",
+    "phone_number": "+91 98080 00082",
+    "website": "https://7goldenterprises.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7 Gold Enterprises, 174303, India",
+    "area": "174303",
+    "latitude": 31.816881,
+    "longitude": 77.3017548,
+    "place_id": "ChIJxyGEMT3N-WcRljRlVWdL8KA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyGEMT3N-WcRljRlVWdL8KA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:37:41"
+  },
+  {
+    "business_name": "Sunrise Infratech",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor, Building consultant, Building materials supplier, Interior Decorator",
+    "pincode": "174303",
+    "phone_number": "+91 82650 65000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kalsera, Naya Nangal, Punjab 140126",
+    "area": "174303",
+    "latitude": 31.4016558,
+    "longitude": 76.3451212,
+    "place_id": "ChIJL3PRmJ7PGjkRQSAPEef8gDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3PRmJ7PGjkRQSAPEef8gDE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:37:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambition pharmaceutical agency",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Oriental medicine store",
+    "all_categories": "Oriental medicine store",
+    "pincode": "174316",
+    "phone_number": "+91 98822 79004",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhera, Himachal Pradesh 174316",
+    "area": "174316",
+    "latitude": 31.587891499999998,
+    "longitude": 76.1885193,
+    "place_id": "ChIJV0wwi3PZGjkRwr5-pY9j8gY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0wwi3PZGjkRwr5-pY9j8gY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:59:30"
+  },
+  {
+    "business_name": "Indian medical hall",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "174316",
+    "phone_number": "+91 98168 14333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Una - Amb Rd, Baruhi, Himachal Pradesh 177211",
+    "area": "174316",
+    "latitude": 31.601759899999998,
+    "longitude": 76.1800679,
+    "place_id": "ChIJo5zzuwQnGzkRtmv0FPf6Awk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5zzuwQnGzkRtmv0FPf6Awk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:59:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Caterers",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant",
+    "pincode": "174507",
+    "phone_number": "+91 99204 56113",
+    "website": "https://luckycaterers.lokal.in/",
+    "rating": 4.2,
+    "reviews_count": 52,
+    "address": "Shop no. 5, Mayuresh Apartment, Sector 9, Airoli, Navi Mumbai, Maharashtra 400708",
+    "area": "Sector 9, Airoli",
+    "latitude": 19.1438496,
+    "longitude": 72.9927242,
+    "place_id": "ChIJxfYJV5O55zsRDWb7RfQ3L8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfYJV5O55zsRDWb7RfQ3L8Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:14:18"
+  },
+  {
+    "business_name": "Narayana Tifin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "174507",
+    "phone_number": "+91 63755 19733",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Opp. Pan Studio, Goner Rd, near Old Managlam Hospital, Jaipur, Rajasthan 302031",
+    "area": "Saraswati Colony, Kareem Nagar Vistar",
+    "latitude": 26.8828823,
+    "longitude": 75.8761236,
+    "place_id": "ChIJ5X9n_mG3bTkR4piTIOhSpX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5X9n_mG3bTkR4piTIOhSpX4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:14:19"
+  }
+]

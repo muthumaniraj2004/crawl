@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aalma computer centre",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "175008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JRJM+WJQ, Rewalsar, Himachal Pradesh 175023",
+    "area": "175008",
+    "latitude": 31.632344999999997,
+    "longitude": 76.8341061,
+    "place_id": "ChIJzTYlON4fBTkRu-KCsZhQdVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTYlON4fBTkRu-KCsZhQdVk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:30:26"
+  },
+  {
+    "business_name": "SIRDA Group of Institutions",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College, Computers",
+    "pincode": "175008",
+    "phone_number": "+91 88947 78912",
+    "website": "http://www.sirda.in/",
+    "rating": 3.9,
+    "reviews_count": 177,
+    "address": "SIRDA Group of Institutes P.O. Kanaid, SH 13, near Sirda college, Tatrot, Naulakha, Himachal Pradesh 175019",
+    "area": "Tatrot",
+    "latitude": 31.5689651,
+    "longitude": 76.9083952,
+    "place_id": "ChIJW180njziBDkR07Zkz97ZTRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW180njziBDkR07Zkz97ZTRc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:30:26"
+  }
+]

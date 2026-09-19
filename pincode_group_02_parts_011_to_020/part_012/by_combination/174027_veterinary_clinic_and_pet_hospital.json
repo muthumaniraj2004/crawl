@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vetnary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "174027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 26,
+    "address": "HJW9+JMV, Hamirpur, Patta, Himachal Pradesh 176041",
+    "area": "174027",
+    "latitude": 31.596601,
+    "longitude": 76.61918349999999,
+    "place_id": "ChIJG9ERpYwoBTkRknklyayxWe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9ERpYwoBTkRknklyayxWe0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:39"
+  },
+  {
+    "business_name": "Veterinary Hospital Karohta",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JM29+G6P, Hamirpur, Himachal Pradesh 176044",
+    "area": "174027",
+    "latitude": 31.601332199999998,
+    "longitude": 76.6680791,
+    "place_id": "ChIJ95NJbkkmBTkRsWIszcNYfXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95NJbkkmBTkRsWIszcNYfXg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:07:41"
+  }
+]

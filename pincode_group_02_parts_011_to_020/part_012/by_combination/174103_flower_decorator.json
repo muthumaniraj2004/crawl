@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uday Flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Dried flower shop, Flower delivery, Flower market",
+    "pincode": "174103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Old Railway Rd, nearby chintapurni mata mandir, Sector 5, Gurugram, Haryana 122001",
+    "area": "Sector 5",
+    "latitude": 28.4779144,
+    "longitude": 77.0168635,
+    "place_id": "ChIJC1h0_PwZDTkREfLOyxDmeS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1h0_PwZDTkREfLOyxDmeS8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:22"
+  },
+  {
+    "business_name": "Kelivana",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower delivery, Flower designer",
+    "pincode": "174103",
+    "phone_number": "+91 98992 66106",
+    "website": "https://www.kelivana.com/",
+    "rating": 4.9,
+    "reviews_count": 75,
+    "address": "1/6996, near Arya Samaj Mandir, Shivaji Park, Shahdara, Delhi, 110032",
+    "area": "Shivaji Park, Shahdara",
+    "latitude": 28.6820454,
+    "longitude": 77.287151,
+    "place_id": "ChIJ2wmKZXn8DDkRcAihIxlu_bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wmKZXn8DDkRcAihIxlu_bw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:30:22"
+  }
+]

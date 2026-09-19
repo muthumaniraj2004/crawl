@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurvedic Health Centre Mahadev",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GWW4+9P8, Mahadev, Himachal Pradesh 175018",
+    "area": "175019",
+    "latitude": 31.545911999999998,
+    "longitude": 76.90683159999999,
+    "place_id": "ChIJj9hRu8EZBTkRFz6frdWCbkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9hRu8EZBTkRFz6frdWCbkI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:50:51"
+  },
+  {
+    "business_name": "Govt. Ayurvedic Health Centre Upper Behli",
+    "search_category": "Wellness Center",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "175019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "GWX8+VC8, Behli, Himachal Pradesh 175018",
+    "area": "Behli",
+    "latitude": 31.549650699999997,
+    "longitude": 76.9160924,
+    "place_id": "ChIJv7z-_wAZBTkRqs5yJLmLDsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7z-_wAZBTkRqs5yJLmLDsM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:50:51"
+  }
+]

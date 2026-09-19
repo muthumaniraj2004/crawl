@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bake House",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "175001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Ward No.5, Main Lane, Rewalsar, Himachal Pradesh 175023",
+    "area": "175001",
+    "latitude": 31.631721,
+    "longitude": 76.8322601,
+    "place_id": "ChIJ09ZdJwAfBTkRN3-PloeivZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09ZdJwAfBTkRN3-PloeivZY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:08"
+  },
+  {
+    "business_name": "Olli Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "175001",
+    "phone_number": "+91 82198 07626",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "VWH8 G7W, Padhar, Himachal Pradesh 175012",
+    "area": "175001",
+    "latitude": 31.8788549,
+    "longitude": 76.9158138,
+    "place_id": "ChIJMf3uYsPpBDkROtBH4zXca5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMf3uYsPpBDkROtBH4zXca5g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:16:08"
+  }
+]

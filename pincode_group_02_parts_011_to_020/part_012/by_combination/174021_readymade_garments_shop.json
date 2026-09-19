@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Cloth House",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174021",
+    "phone_number": "+91 98173 74007",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Berthin, Himachal Pradesh 174029",
+    "area": "174021",
+    "latitude": 31.4181079,
+    "longitude": 76.6420928,
+    "place_id": "ChIJaSNMkXg6BTkRImD_1LeTC4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSNMkXg6BTkRImD_1LeTC4s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:59:54"
+  },
+  {
+    "business_name": "ISHU CLOTH HOUSE",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9JCW+888, Jhanduta, Jhanduta Doam, Himachal Pradesh 174031",
+    "area": "174021",
+    "latitude": 31.3707124,
+    "longitude": 76.6457629,
+    "place_id": "ChIJk8BGIgA5BTkR-ouUunVbc1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8BGIgA5BTkR-ouUunVbc1I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:59:58"
+  }
+]

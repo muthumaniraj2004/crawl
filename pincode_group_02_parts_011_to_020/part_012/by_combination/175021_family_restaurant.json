@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe the mood lift",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 28,
+    "address": "Nh21 mandi manali road ranibai 2km from mai bus stant, Himachal Pradesh 175021",
+    "area": "175021",
+    "latitude": 31.674622399999997,
+    "longitude": 76.9473584,
+    "place_id": "ChIJqV2WFPcdBTkRhAPnKcG0yzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqV2WFPcdBTkRhAPnKcG0yzw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:46"
+  },
+  {
+    "business_name": "Gumma lunapani",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "175021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "JW9Q+7VG Anpurna bhojanalay Gumma, Lunapani, Majhethal, Himachal Pradesh 175021",
+    "area": "175021",
+    "latitude": 31.6181855,
+    "longitude": 76.93969469999999,
+    "place_id": "ChIJu18SMgAdBTkRpRDQmgrxulM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu18SMgAdBTkRpRDQmgrxulM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:53:46"
+  }
+]

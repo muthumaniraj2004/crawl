@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paradise Woodland Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "174301",
+    "phone_number": "+91 98054 62283",
+    "website": "http://www.paradisewoodlandresort.com/",
+    "rating": 4.8,
+    "reviews_count": 292,
+    "address": "R48W+X5, Sukahr, Himachal Pradesh 177103",
+    "area": "174301",
+    "latitude": 31.816997999999998,
+    "longitude": 76.147446,
+    "place_id": "ChIJyeNrEAA9GzkROJBsTuoTw4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeNrEAA9GzkROJBsTuoTw4s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:34:11"
+  },
+  {
+    "business_name": "KD Resort",
+    "search_category": "Resort",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Catering food and drink supplier, Marriage celebrant, Wedding venue",
+    "pincode": "174301",
+    "phone_number": "+91 88944 26411",
+    "website": "https://www.facebook.com/profile.php?id=100093670182554&mibextid=9R9pXO",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "Teh, Ambota, Himachal Pradesh 177212",
+    "area": "174301",
+    "latitude": 31.687572,
+    "longitude": 76.047518,
+    "place_id": "ChIJSWU2JkMZGzkRzigUgKkxzMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWU2JkMZGzkRzigUgKkxzMU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:34:11"
+  }
+]

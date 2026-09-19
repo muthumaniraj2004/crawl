@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hill's Aroma Food Corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174013",
+    "phone_number": "+91 88948 22322",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vill. Jakhol, Teh, P.O, Kangoo, Sundar Nagar, Himachal Pradesh 175030",
+    "area": "P.O",
+    "latitude": 31.4391179,
+    "longitude": 76.8359145,
+    "place_id": "ChIJ5dX31KAXBTkRdrAhVm9Us_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dX31KAXBTkRdrAhVm9Us_4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:13"
+  },
+  {
+    "business_name": "The Lime Wood Cafe & Restro",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "174013",
+    "phone_number": "+91 98164 85561",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 69,
+    "address": "Dehvi, Tehsil, Sundar Nagar, Himachal Pradesh 175030",
+    "area": "174013",
+    "latitude": 31.439118299999997,
+    "longitude": 76.8359148,
+    "place_id": "ChIJfSlonMcXBTkRPT7Jl0dI7IM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSlonMcXBTkRPT7Jl0dI7IM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:54:14"
+  }
+]

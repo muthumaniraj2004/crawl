@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friendly Cab Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Bus tour agency, Car leasing service, Handicapped transportation service, Minibus taxi service, Sightseeing Tour Operator, Tour operator, Travel agency, Van rental agency",
+    "pincode": "174317",
+    "phone_number": "+91 70216 12167",
+    "website": "https://friendlycabrentals.in/",
+    "rating": 4.8,
+    "reviews_count": 127,
+    "address": "Unit No 08, Gopal House, IB Patel Rd, Jay Prakash Nagar, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "Jay Prakash Nagar, Goregaon East",
+    "latitude": 19.161448999999998,
+    "longitude": 72.854754,
+    "place_id": "ChIJ5fehh9C35zsR2NKTg6jIVFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fehh9C35zsR2NKTg6jIVFM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:01:39"
+  },
+  {
+    "business_name": "Kartik Cab - Tempo Traveller Hire in Jaipur on Rent",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Bus company, Bus tour agency, Car rental agency, Minibus taxi service, Taxi service, Transportation service, Travel agency",
+    "pincode": "174317",
+    "phone_number": "+91 99821 10003",
+    "website": "http://www.kartikcab.com/",
+    "rating": 4.9,
+    "reviews_count": 113,
+    "address": "CGS-21, NEHRU PLACE, Tonk Rd, Jaipur, Rajasthan 302015",
+    "area": "Sanganer, Pratap Nagar",
+    "latitude": 26.8054033,
+    "longitude": 75.8075028,
+    "place_id": "ChIJiTLdspXJbTkRa-q4tf9DW7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTLdspXJbTkRa-q4tf9DW7Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:01:40"
+  }
+]

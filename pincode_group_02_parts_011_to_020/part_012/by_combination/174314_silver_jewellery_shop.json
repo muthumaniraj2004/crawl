@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gogna Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "174314",
+    "phone_number": "+91 85447 01274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Baruhi, Himachal Pradesh 177211",
+    "area": "174314",
+    "latitude": 31.6018136,
+    "longitude": 76.17990619999999,
+    "place_id": "ChIJnxs_9wgnGzkR5hitspYl3oA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxs_9wgnGzkR5hitspYl3oA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:41"
+  },
+  {
+    "business_name": "Ganpati Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "174314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ganpati Jewellers, Keori, Himachal Pradesh 177208",
+    "area": "174314",
+    "latitude": 31.579187299999997,
+    "longitude": 76.1349658,
+    "place_id": "ChIJl58cuOnfGjkR-zd7GWx6MLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl58cuOnfGjkR-zd7GWx6MLs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:55:41"
+  }
+]

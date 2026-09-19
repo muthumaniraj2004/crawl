@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fisheries Rest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "174308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GCW4+37C, Lathiani, Himachal Pradesh 174308",
+    "area": "174308",
+    "latitude": 31.5451774,
+    "longitude": 76.405633,
+    "place_id": "ChIJy3riBgDVGjkR04E_Xrcc3mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3riBgDVGjkR04E_Xrcc3mk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:47:15"
+  },
+  {
+    "business_name": "Teja HomeStay Shangarh",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "174308",
+    "phone_number": "+91 96543 88388",
+    "website": "http://www.tejahomestayshanghar.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dhara Pathra, Shangarh, 82, Sainj, Himachal Pradesh 175134",
+    "area": "174308",
+    "latitude": 31.7582454,
+    "longitude": 77.380444,
+    "place_id": "ChIJCZxnA2NNBDkRVQ6w2vCaHX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZxnA2NNBDkRVQ6w2vCaHX4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:47:16"
+  }
+]

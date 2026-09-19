@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "174030",
+    "phone_number": "+91 1800 258 3333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FG29+PR5, Baba Balak Nath Mandir Rd, Shahtalai, Talai, Himachal Pradesh 174030",
+    "area": "174030",
+    "latitude": 31.451773699999997,
+    "longitude": 76.51960369999999,
+    "place_id": "ChIJcwbw-IEzBTkR6w4y4d7sCGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwbw-IEzBTkR6w4y4d7sCGQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:49"
+  },
+  {
+    "business_name": "Mehfil ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "174030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baba balak nath, garuna jhari road, Shahtalai, Himachal Pradesh 174030",
+    "area": "174030",
+    "latitude": 31.4503474,
+    "longitude": 76.5207696,
+    "place_id": "ChIJjVXKCMAzBTkRvaywj7_nVbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVXKCMAzBTkRvaywj7_nVbQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:12:49"
+  }
+]

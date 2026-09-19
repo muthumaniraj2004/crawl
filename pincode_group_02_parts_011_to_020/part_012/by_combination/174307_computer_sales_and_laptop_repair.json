@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Camera store, Electronics store",
+    "pincode": "174307",
+    "phone_number": "+91 98821 72753",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "thakur computer's, distt, near Sdm office, Housing Board Colony, Bangana, Himachal Pradesh 174307",
+    "area": "Housing Board Colony",
+    "latitude": 31.631566999999997,
+    "longitude": 76.3441376,
+    "place_id": "ChIJM5el_OgpGzkRSqjOK__swr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5el_OgpGzkRSqjOK__swr0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:45:34"
+  },
+  {
+    "business_name": "Jai Ambey Electronics",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "174307",
+    "phone_number": "+91 98161 55884",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 27,
+    "address": "J8HW+CF9, Main Bazaar Rd, Bangana, Himachal Pradesh 174307",
+    "area": "174307",
+    "latitude": 31.628542999999997,
+    "longitude": 76.3462443,
+    "place_id": "ChIJM-xZCOYpGzkRK95t4ytHK_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-xZCOYpGzkRK95t4ytHK_4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 07:45:34"
+  }
+]

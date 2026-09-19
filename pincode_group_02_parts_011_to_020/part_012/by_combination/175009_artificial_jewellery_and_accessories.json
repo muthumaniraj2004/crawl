@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PP Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "175009",
+    "phone_number": "+91 78767 44432",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Main bazar, near PNB bank, Karsog, Himachal Pradesh 175011",
+    "area": "175009",
+    "latitude": 31.381889299999997,
+    "longitude": 77.2033166,
+    "place_id": "ChIJ1QWCibqhBTkRpzWs80GvySo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QWCibqhBTkRpzWs80GvySo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:24"
+  },
+  {
+    "business_name": "Shree Krishna jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "175009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "96J3+GPH, Karsog, Himachal Pradesh 175011",
+    "area": "175009",
+    "latitude": 31.3813045,
+    "longitude": 77.204359,
+    "place_id": "ChIJS9EITAChBTkR-RhfxazJgKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9EITAChBTkR-RhfxazJgKo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:31:24"
+  }
+]

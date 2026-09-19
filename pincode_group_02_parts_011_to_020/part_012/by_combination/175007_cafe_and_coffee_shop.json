@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aliens vs Pizza",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175007",
+    "phone_number": "+91 93179 04802",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 34,
+    "address": "Near bus stop.sarkaghat tehsil sarkaghat dist, Sarkaghat, Himachal Pradesh 175024",
+    "area": "175007",
+    "latitude": 31.6981802,
+    "longitude": 76.73577879999999,
+    "place_id": "ChIJUR2x7jzfBDkRdKmPzyz0TUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUR2x7jzfBDkRdKmPzyz0TUA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:27:35"
+  },
+  {
+    "business_name": "MANDI VAASI",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "175007",
+    "phone_number": "+91 70188 10813",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bhanwar, Himachal Pradesh 175049",
+    "area": "175007",
+    "latitude": 31.6571434,
+    "longitude": 76.7945857,
+    "place_id": "ChIJRxXtWrghBTkRqxqpJp36GlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxXtWrghBTkRqxqpJp36GlI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:27:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshita Mobile House",
+    "search_category": "Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "175014",
+    "phone_number": "+91 70184 57506",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Market, Neri, Road, Tehsil. Joginder Nagar, Baijnath, Langna, Himachal Pradesh 175015",
+    "area": "Khalardu",
+    "latitude": 31.840542399999997,
+    "longitude": 76.7651865,
+    "place_id": "ChIJKxMNelzdBDkRBcKLyE2GV8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxMNelzdBDkRBcKLyE2GV8o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:13"
+  },
+  {
+    "business_name": "Langna Market",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "175014",
+    "phone_number": "+91 98167 28922",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 61,
+    "address": "RQR8+38V, Neri - Langna Rd, Khalardu, Langna, Himachal Pradesh 175015",
+    "area": "Khalardu",
+    "latitude": 31.840232,
+    "longitude": 76.7657831,
+    "place_id": "ChIJUSn8G83cBDkRyslOnzMCsOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSn8G83cBDkRyslOnzMCsOs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:42:13"
+  }
+]

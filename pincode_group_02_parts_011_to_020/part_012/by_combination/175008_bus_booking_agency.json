@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashiana holidays",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "175008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "post office, Tawan, Pairi, Himachal Pradesh 175008",
+    "area": "175008",
+    "latitude": 31.5906162,
+    "longitude": 76.8778612,
+    "place_id": "ChIJe7EaVNkfBTkRyCxaIOHHcng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7EaVNkfBTkRyCxaIOHHcng",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:55"
+  },
+  {
+    "business_name": "Rewalsar Taxi Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "175008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus stand, Rewalsar, Himachal Pradesh 175023",
+    "area": "175008",
+    "latitude": 31.6333962,
+    "longitude": 76.8344927,
+    "place_id": "ChIJmz1SR-4fBTkRzbVP2Y6Xyjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmz1SR-4fBTkRzbVP2Y6Xyjk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:29:56"
+  }
+]

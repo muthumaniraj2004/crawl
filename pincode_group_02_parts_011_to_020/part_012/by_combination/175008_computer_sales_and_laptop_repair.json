@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer World",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "175008",
+    "phone_number": "+91 93189 23458",
+    "website": "http://www.lenovo.com/in/en/",
+    "rating": 3.5,
+    "reviews_count": 26,
+    "address": "Shaheed Naresh Chowk, Sundernagar Dist. 0, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "175008",
+    "latitude": 31.5433849,
+    "longitude": 76.8973956,
+    "place_id": "ChIJa1c26ZoZBTkRKbxGBO4u71E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1c26ZoZBTkRKbxGBO4u71E",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:30:32"
+  },
+  {
+    "business_name": "CSC Center Ratti",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "175008",
+    "phone_number": "+91 94183 13842",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Csc Center, Ratti, Maltehr, Himachal Pradesh 175008",
+    "area": "175008",
+    "latitude": 31.6003868,
+    "longitude": 76.90201979999999,
+    "place_id": "ChIJfQhJyGwfBTkRQaHS_cGh4IM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQhJyGwfBTkRQaHS_cGh4IM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 08:30:32"
+  }
+]
