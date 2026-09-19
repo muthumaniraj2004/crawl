@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manali Strays",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal rescue service",
+    "all_categories": "Animal rescue service, Veterinarian",
+    "pincode": "174003",
+    "phone_number": "+91 94187 04924",
+    "website": "https://www.manalistrays.org/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "554H+46G, Mansari, Manali, Haripur, Soil, Himachal Pradesh 175136",
+    "area": "Mansari, Manali",
+    "latitude": 32.1553847,
+    "longitude": 77.1780314,
+    "place_id": "ChIJMUry1iWHBDkR822o9oIxid0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUry1iWHBDkR822o9oIxid0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:45:03"
+  },
+  {
+    "business_name": "Animal hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "174003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "61/1, Bhulswai, Himachal Pradesh 174026",
+    "area": "174003",
+    "latitude": 31.5043185,
+    "longitude": 76.7415005,
+    "place_id": "ChIJmQCwRE0jBTkRQmNaEl2uO0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQCwRE0jBTkRQmNaEl2uO0Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:45:06"
+  }
+]

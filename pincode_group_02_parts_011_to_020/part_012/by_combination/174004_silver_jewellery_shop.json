@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gamya",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry manufacturer",
+    "pincode": "174004",
+    "phone_number": "+91 92542 94542",
+    "website": "https://gamya.co/",
+    "rating": 4.8,
+    "reviews_count": 184,
+    "address": "Shop No, 1, near Gandhi Chowk Road, Sector 14, Sonipat, Haryana 131001",
+    "area": "Sector 14",
+    "latitude": 28.995979199999997,
+    "longitude": 77.02874539999999,
+    "place_id": "ChIJszZ6MkuxDTkRSIdnlyHkrXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszZ6MkuxDTkRSIdnlyHkrXc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:44"
+  },
+  {
+    "business_name": "SAI JEWELLER",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "174004",
+    "phone_number": "+91 90152 36518",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "SHOP NO 3, Main Market, near Bus Stand, Ghumarwin, Himachal Pradesh 174021",
+    "area": "174004",
+    "latitude": 31.441603899999997,
+    "longitude": 76.7090132,
+    "place_id": "ChIJebNOz2IjBTkRVOEgI7ze1FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebNOz2IjBTkRVOEgI7ze1FU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Center Manjhu",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "173208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manjhu (107, Arki, Himachal Pradesh 173208",
+    "area": "173208",
+    "latitude": 31.134091299999998,
+    "longitude": 76.988494,
+    "place_id": "ChIJY3wRlEJlBTkRAJ7GQSbJ5_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3wRlEJlBTkRAJ7GQSbJ5_4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:01:04"
+  },
+  {
+    "business_name": "Care Diagnostic and Fetal Medicine Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Mammography service, Medical diagnostic imaging center, Medical laboratory, Women's health clinic, Perinatal center, Pregnancy care center, Radiologist, X-ray lab",
+    "pincode": "173208",
+    "phone_number": "+91 1762 530 901",
+    "website": "https://carediagnostic.in/",
+    "rating": 4.9,
+    "reviews_count": 6334,
+    "address": "NH 5, Defence Colony, Zirakpur, Punjab 140604",
+    "area": "Defence Colony",
+    "latitude": 30.6610548,
+    "longitude": 76.8303942,
+    "place_id": "ChIJ2YxiOLSUDzkRnnvpK9q2eaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YxiOLSUDzkRnnvpK9q2eaU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:01:04"
+  }
+]

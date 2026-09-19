@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishi Bhumi",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "173225",
+    "phone_number": "+91 92679 89027",
+    "website": "https://rishibhumi.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sadhna Dham, Village, Kullu - Naggar - Manali Rd, Himachal Pradesh 175104",
+    "area": "173225",
+    "latitude": 32.1045151,
+    "longitude": 77.1544778,
+    "place_id": "ChIJYQd1MwCLBDkRXpyZJQtmKI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQd1MwCLBDkRXpyZJQtmKI8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:28:21"
+  },
+  {
+    "business_name": "KAYAKALP",
+    "search_category": "Wellness Center",
+    "primary_category": "Health resort",
+    "all_categories": "Health resort",
+    "pincode": "173225",
+    "phone_number": "+91 88941 55676",
+    "website": "http://www.kayakalppalampur.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "VMRT, Holta, Palampur, Banuri, Himachal Pradesh 176062",
+    "area": "VMRT, Holta",
+    "latitude": 32.108184699999995,
+    "longitude": 76.5496928,
+    "place_id": "ChIJ26Ke6l-xBDkRsze3XYHgeDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26Ke6l-xBDkRsze3XYHgeDQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:28:21"
+  }
+]

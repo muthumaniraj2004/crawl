@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Katoch Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "173234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35CV+46R, Mehli, Shimla, Himachal Pradesh 171013",
+    "area": "Mehli",
+    "latitude": 31.070366399999997,
+    "longitude": 77.1930184,
+    "place_id": "ChIJh8zKzyV_BTkREm1tZfERTHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8zKzyV_BTkREm1tZfERTHA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:33"
+  },
+  {
+    "business_name": "Shree Medical Agencies",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "173234",
+    "phone_number": "+91 98160 52540",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "F79C+VFP, near Una Bus Stand Road, Una (hp, Una, Himachal Pradesh 174303",
+    "area": "173234",
+    "latitude": 31.469706,
+    "longitude": 76.2712171,
+    "place_id": "ChIJuc2MqXjQGjkR2XRjj29c6F4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuc2MqXjQGjkR2XRjj29c6F4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:34"
+  }
+]

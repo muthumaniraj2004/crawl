@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "dynamic enterprises",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental supply store",
+    "all_categories": "Dental supply store",
+    "pincode": "173212",
+    "phone_number": "+91 89191 13377",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "16-7-799, Gowliguda North, Gowliguda, Hyderabad, Telangana 500024",
+    "area": "Gowliguda North, Gowliguda",
+    "latitude": 17.3773906,
+    "longitude": 78.4920523,
+    "place_id": "ChIJRfQUTteZyzsRSiFM_2rRsGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfQUTteZyzsRSiFM_2rRsGg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:44"
+  },
+  {
+    "business_name": "Dr Mohindru Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173212",
+    "phone_number": "+91 1792 222 705",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "45 Mall Rd Lower Bazar Ram Bazar, Mall Rd, Lower Bazar, Ram Bazar, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ram Bazar",
+    "latitude": 30.9091176,
+    "longitude": 77.1003167,
+    "place_id": "ChIJDZSocrWGDzkRu3O2XTcgeRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZSocrWGDzkRu3O2XTcgeRw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:44"
+  }
+]

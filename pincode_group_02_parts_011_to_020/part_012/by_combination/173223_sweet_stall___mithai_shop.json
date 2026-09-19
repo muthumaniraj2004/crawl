@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "173223",
+    "phone_number": "+91 70189 25337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Main Bazar, Oachghat, Ochghat, Himachal Pradesh 173223",
+    "area": "Main Bazar, Oachghat",
+    "latitude": 30.868237399999998,
+    "longitude": 77.1453894,
+    "place_id": "ChIJxS8CobWDDzkRJ8mVVtANwYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxS8CobWDDzkRJ8mVVtANwYI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:25:30"
+  },
+  {
+    "business_name": "Himachal Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "173223",
+    "phone_number": "+91 98781 56211",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "QQJ4+MP8, Sarangpur, Chandigarh, 140901",
+    "area": "Sarangpur",
+    "latitude": 30.7816668,
+    "longitude": 76.7568301,
+    "place_id": "ChIJZV5EjXvzDzkRsvoeUBp3sCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZV5EjXvzDzkRsvoeUBp3sCI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:25:33"
+  }
+]

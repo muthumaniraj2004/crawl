@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chail Main Market",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "173217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bus Stop, Main, Kufri Rd, Chail, Kandaghat, Himachal Pradesh 173217",
+    "area": "173217",
+    "latitude": 30.969028599999998,
+    "longitude": 77.1981194,
+    "place_id": "ChIJY_eeU9d_DzkRuSa2kTV0p8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_eeU9d_DzkRuSa2kTV0p8Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:17:43"
+  },
+  {
+    "business_name": "Chail Chowk",
+    "search_category": "Malls",
+    "primary_category": "Malls",
+    "all_categories": "Malls",
+    "pincode": "173217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kandaghat-Chail-Kufri Rd, Chail, Himachal Pradesh 173217",
+    "area": "173217",
+    "latitude": 30.9698601,
+    "longitude": 77.1980712,
+    "place_id": "ChIJc4V3N_R_DzkRw5hoR9s3PJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4V3N_R_DzkRw5hoR9s3PJc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:17:43"
+  }
+]

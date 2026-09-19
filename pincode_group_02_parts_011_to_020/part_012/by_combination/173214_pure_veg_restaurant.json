@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Momo Magic Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Fast food restaurant",
+    "pincode": "173214",
+    "phone_number": "+91 88949 01013",
+    "website": "https://momomagiccafe.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "OPPOSIT MC PARKING, Rajgarh Rd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.907579499999997,
+    "longitude": 77.1031931,
+    "place_id": "ChIJRUzkg7yDDzkR9UuS8V4JhK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUzkg7yDDzkR9UuS8V4JhK8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:16"
+  },
+  {
+    "business_name": "Hungry Panther fast food corner ‍",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "173214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rana niwas, Upper Surya Vihar, Rajgarh Rd, near degree college, Kathiala, Solan, Himachal Pradesh 173211",
+    "area": "Kathiala",
+    "latitude": 30.89774,
+    "longitude": 77.104382,
+    "place_id": "ChIJh7gS1MuBDzkRWeyb8KRJOig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7gS1MuBDzkRWeyb8KRJOig",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:19"
+  }
+]

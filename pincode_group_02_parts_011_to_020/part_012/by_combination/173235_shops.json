@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishan General Store",
+    "search_category": "Shops",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "173235",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "249, near JCCB Shimla, Harda, Bharari Ghat, Himachal Pradesh 173235",
+    "area": "173235",
+    "latitude": 31.2478512,
+    "longitude": 76.8863965,
+    "place_id": "ChIJJSZ2lf9rBTkRJq_vi7O3LC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSZ2lf9rBTkRJq_vi7O3LC8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:46"
+  },
+  {
+    "business_name": "Swastik Outfits",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "173235",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Darla More Darla, More, Pansora, Himachal Pradesh 171102",
+    "area": "173235",
+    "latitude": 31.261636399999997,
+    "longitude": 76.9125711,
+    "place_id": "ChIJz0cQlrlrBTkRuRoDbBX2Iks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0cQlrlrBTkRuRoDbBX2Iks",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:47"
+  }
+]

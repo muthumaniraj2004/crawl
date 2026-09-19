@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Rajesh Kashyap MD Medicine",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "173213",
+    "phone_number": "N/A",
+    "website": "http://www.drrajeshkashyap.webflow.io/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Murari market, Mall Road, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Mall Road, Bajoral Khurd",
+    "latitude": 30.909540999999997,
+    "longitude": 77.1014112,
+    "place_id": "ChIJz1bRkYyHDzkRauV1QG8g_Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1bRkYyHDzkRauV1QG8g_Bw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:10:37"
+  },
+  {
+    "business_name": "PhysioBloom by Dr. Bhumika",
+    "search_category": "Doctors",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "173213",
+    "phone_number": "+91 82193 49027",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "1st floor, above Venus medicos, near esi dispensary, Chambaghat, Himachal Pradesh 173213",
+    "area": "Chambaghat",
+    "latitude": 30.9246084,
+    "longitude": 77.0976889,
+    "place_id": "ChIJ-dSLw4mHDzkRn8upKo1HiBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dSLw4mHDzkRn8upKo1HiBA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:10:39"
+  }
+]

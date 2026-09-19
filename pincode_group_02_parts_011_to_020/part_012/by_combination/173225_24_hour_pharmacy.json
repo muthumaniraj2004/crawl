@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Care Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "173225",
+    "phone_number": "+91 94180 07396",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nangal Chowk - Balwal Bassi Rd, VPO, Tehsil, Jambal, Dadasiba, Himachal Pradesh 177113",
+    "area": "Tehsil",
+    "latitude": 31.9029025,
+    "longitude": 76.1538386,
+    "place_id": "ChIJ9-o9mng_GzkRKD1LJ1T-l5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-o9mng_GzkRKD1LJ1T-l5o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:46"
+  },
+  {
+    "business_name": "Sharma Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "173225",
+    "phone_number": "+91 89883 30026",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Zero Point, Sidhwan, Himachal Pradesh 175123",
+    "area": "173225",
+    "latitude": 31.650309,
+    "longitude": 77.339818,
+    "place_id": "ChIJSc7hsimtBTkRjDGp3L4ApbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSc7hsimtBTkRjDGp3L4ApbE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:46"
+  }
+]

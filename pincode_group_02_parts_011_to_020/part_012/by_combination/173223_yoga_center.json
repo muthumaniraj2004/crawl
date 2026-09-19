@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atmabodh",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Mediation service",
+    "pincode": "173223",
+    "phone_number": "N/A",
+    "website": "http://atmabodh.net/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JBT Rd, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.9061997,
+    "longitude": 77.10700299999999,
+    "place_id": "ChIJ-8RZkMKBDzkRXcxKym5vag0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8RZkMKBDzkRXcxKym5vag0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:26:01"
+  },
+  {
+    "business_name": "योग भारती Himachal",
+    "search_category": "Yoga Center",
+    "primary_category": "Self service restaurant",
+    "all_categories": "Self service restaurant",
+    "pincode": "173223",
+    "phone_number": "+91 70198 58641",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "W473+V75 सरस्वती विद्या मंदिर, Mall Road, Solan, Himachal Pradesh 173213",
+    "area": "Mall Road",
+    "latitude": 30.9146477,
+    "longitude": 77.1032371,
+    "place_id": "ChIJK18pwKuBDzkRHEoazYvzYsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK18pwKuBDzkRHEoazYvzYsQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:26:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Opticart",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "173218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Madhyapur Thimi, Bagmati Province 44600, Nepal",
+    "area": "Balkot",
+    "latitude": 27.669848599999998,
+    "longitude": 85.3857774,
+    "place_id": "ChIJcbcRFQAb6zkRInBjtGKa_uY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbcRFQAb6zkRInBjtGKa_uY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:18:10"
+  },
+  {
+    "business_name": "Better Vision Eye Care",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "173218",
+    "phone_number": "+91 94170 66919",
+    "website": "https://www.facebook.com/Bettervision/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "36, behind main post office, Sector 3C, Mandi Gobindgarh, Punjab 147301",
+    "area": "Sector 3C",
+    "latitude": 30.6667386,
+    "longitude": 76.2906618,
+    "place_id": "ChIJNeDQuWEaEDkRxQcNF8aqNxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeDQuWEaEDkRxQcNF8aqNxY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:18:10"
+  }
+]

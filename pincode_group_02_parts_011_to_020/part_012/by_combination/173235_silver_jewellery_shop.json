@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju jeweller",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Jewelry store",
+    "pincode": "173235",
+    "phone_number": "+91 70187 18639",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Himachal Pradesh teh arki, near SBI ATM, Darla, Himachal Pradesh 171102",
+    "area": "173235",
+    "latitude": 31.2612013,
+    "longitude": 76.9127235,
+    "place_id": "ChIJT_WrXwVrBTkRKc1EpCunGRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_WrXwVrBTkRKc1EpCunGRs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:37:11"
+  },
+  {
+    "business_name": "Narindera Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "173235",
+    "phone_number": "+91 70180 14142",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Darla, Darlaghat, Himachal Pradesh 171102",
+    "area": "173235",
+    "latitude": 31.232667399999997,
+    "longitude": 76.9349472,
+    "place_id": "ChIJfdroY9BtBTkRYIBdjiToUM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdroY9BtBTkRYIBdjiToUM8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:37:13"
+  }
+]

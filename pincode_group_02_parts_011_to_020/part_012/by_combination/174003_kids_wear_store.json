@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanha Fashion Mart",
+    "search_category": "Kids Wear Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Cosmetics store, Internet cafe, Shoe store, Toy store",
+    "pincode": "174003",
+    "phone_number": "+91 97250 95137",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mandrighat Rd, Nanawan, Ninawa, Himachal Pradesh 174013",
+    "area": "174003",
+    "latitude": 31.4394091,
+    "longitude": 76.7961464,
+    "place_id": "ChIJtwPjiNs9BTkRr3-qsGNisVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwPjiNs9BTkRr3-qsGNisVA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:47"
+  },
+  {
+    "business_name": "Mom's Gift",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Toy store, Shoe store",
+    "pincode": "174003",
+    "phone_number": "+91 82199 51988",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "moms gift nearmaharastra, bankc/o, Palace Colony, Mandi, Himachal Pradesh 175001",
+    "area": "bankc/o, Palace Colony",
+    "latitude": 31.7078094,
+    "longitude": 76.9284818,
+    "place_id": "ChIJEeOaTADjBDkRzVHpM1tb5N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeOaTADjBDkRzVHpM1tb5N0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:48"
+  }
+]

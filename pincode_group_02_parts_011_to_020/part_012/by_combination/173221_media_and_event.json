@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D-Booking Zone",
+    "search_category": "Media and Event",
+    "primary_category": "Business broker",
+    "all_categories": "Business broker, Construction Material Wholesaler, Make-up artist, Painter, Plumber, Video camera repair service, Wedding planner",
+    "pincode": "173221",
+    "phone_number": "+91 62309 87347",
+    "website": "http://dbookingzone.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J975+G5G, Bangana, Himachal Pradesh 174307",
+    "area": "173221",
+    "latitude": 31.613823999999997,
+    "longitude": 76.3579401,
+    "place_id": "ChIJkWYh5lMpGzkRoTAsr0ddCK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWYh5lMpGzkRoTAsr0ddCK0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:51"
+  },
+  {
+    "business_name": "RK Events",
+    "search_category": "Media and Event",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "173221",
+    "phone_number": "+91 78078 42000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baggi - Gohar Rd, Dadour, Himachal Pradesh 175027",
+    "area": "173221",
+    "latitude": 31.593450899999997,
+    "longitude": 76.92895709999999,
+    "place_id": "ChIJJS00yeQdBTkR_NVJmR5Plks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJS00yeQdBTkR_NVJmR5Plks",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:51"
+  }
+]

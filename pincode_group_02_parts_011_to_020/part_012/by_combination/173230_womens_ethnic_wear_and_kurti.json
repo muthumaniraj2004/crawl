@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S3 Fashions",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Tailor",
+    "pincode": "173230",
+    "phone_number": "+91 78092 45678",
+    "website": "https://www.s3fashions.in/",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "Shop No.3, Alluri Seetha Ramaraju Statue, DK Enclave, Alluri Seetha Ramaraju Nagar, Miyapur, Hyderabad, Telangana 500049",
+    "area": "DK Enclave, Alluri Seetha Ramaraju Nagar",
+    "latitude": 17.5050854,
+    "longitude": 78.35671099999999,
+    "place_id": "ChIJRcmwMguTyzsRYmrs-PY4pik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcmwMguTyzsRYmrs-PY4pik",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:31:21"
+  },
+  {
+    "business_name": "Ethnicity - Seasons Mall, Pune",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "173230",
+    "phone_number": "+91 94296 92401",
+    "website": "https://store.ethnicity.in/ethnicity/stores-in-pune/stores-in-magarpatta/ethnicity-in-magarpatta-pune--b152732b-843c-41cf-b4b2-150626db9aac/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ground floor, Seasons Mall, Unit No G13, 14/15, nearby Reliance Digital, Magarpatta, Pune, Maharashtra 411013",
+    "area": "Magarpatta, Hadapsar",
+    "latitude": 18.519149499999997,
+    "longitude": 73.931798,
+    "place_id": "ChIJ0Uh42jjBwjsRU03mSpCL3P8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Uh42jjBwjsRU03mSpCL3P8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:31:22"
+  }
+]

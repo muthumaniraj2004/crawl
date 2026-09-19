@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zion Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Business management consultant",
+    "pincode": "173204",
+    "phone_number": "+91 98106 61014",
+    "website": "http://www.zhc.in/",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "New Mahavir Nagar, Tilak Nagar, Delhi, 110018",
+    "area": "New Mahavir Nagar, Tilak Nagar",
+    "latitude": 28.633719199999998,
+    "longitude": 77.08483749999999,
+    "place_id": "ChIJl8nZ3e0CDTkR25QvasTgxsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8nZ3e0CDTkR25QvasTgxsU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:52:56"
+  },
+  {
+    "business_name": "AR Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "173204",
+    "phone_number": "N/A",
+    "website": "https://arjor24.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AR Hospitality Consultants, 173204, India",
+    "area": "173204",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJkemJ722ORmcR6RKkhUphp5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkemJ722ORmcR6RKkhUphp5w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:52:59"
+  }
+]

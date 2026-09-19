@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivraj Auto Service Center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "173211",
+    "phone_number": "+91 98822 00669",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Rajgarh Main Road, near Wildcraft India Private Limited, Oachghat, Solan, Himachal Pradesh 173223",
+    "area": "Oachghat",
+    "latitude": 30.870611699999998,
+    "longitude": 77.140135,
+    "place_id": "ChIJD3Rwa6mDDzkRiITxvGreyKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3Rwa6mDDzkRiITxvGreyKk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:54"
+  },
+  {
+    "business_name": "Mounts Kustom",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop, Automation company, Motoring club",
+    "pincode": "173211",
+    "phone_number": "+91 88946 00378",
+    "website": "https://www.instagram.com/mounts_kustom?igsh=OTZvcHJieTJzcjMx",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rajgarh Rd, near Triptin, Jatoli, Solan, Himachal Pradesh 173223",
+    "area": "173211",
+    "latitude": 30.8785873,
+    "longitude": 77.1281463,
+    "place_id": "ChIJtwyNReuDDzkR2ZLU1A6qpb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwyNReuDDzkR2ZLU1A6qpb8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair Master",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "173221",
+    "phone_number": "+91 86280 90757",
+    "website": "https://hairmaster.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Paradise mall, Nangal Rd, near Indra STD, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.463727,
+    "longitude": 76.2792145,
+    "place_id": "ChIJjXwVVnDQGjkR_EGopQPhdEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXwVVnDQGjkR_EGopQPhdEM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:34"
+  },
+  {
+    "business_name": "WALK N TRIM UNISEX SALON & SPA",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "173221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 78,
+    "address": "CPQ6+RFR, opposite mahajan dental clinic, Ghumarwin, Himachal Pradesh 174021",
+    "area": "173221",
+    "latitude": 31.4396235,
+    "longitude": 76.7111496,
+    "place_id": "ChIJfYytIKo7BTkRp79c1bBimQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfYytIKo7BTkRp79c1bBimQA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:35"
+  }
+]

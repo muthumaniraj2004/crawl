@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeet Leather Store",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "173225",
+    "phone_number": "+91 98161 10393",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand Bridge, Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur",
+    "latitude": 31.5318747,
+    "longitude": 76.88872649999999,
+    "place_id": "ChIJoSIAYG0ZBTkRWAM-r25RtI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSIAYG0ZBTkRWAM-r25RtI4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:39"
+  },
+  {
+    "business_name": "Vimal Industries (Regd.)",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "173225",
+    "phone_number": "+91 98120 21535",
+    "website": "http://rajshreefabrics.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VPO Rampur Jattan, Trilokpur Road, Kala Amb, Himachal Pradesh 173030",
+    "area": "173225",
+    "latitude": 30.5140268,
+    "longitude": 77.2099276,
+    "place_id": "ChIJ54TOD6sJDzkRtGBdqi5fa8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54TOD6sJDzkRtGBdqi5fa8M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:41"
+  }
+]

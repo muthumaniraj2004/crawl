@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRS SOUTH INDIAN RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "173236",
+    "phone_number": "+91 78276 06332",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sanjauli Cemetery Rd, Cemetery, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Cemetery, Sanjauli",
+    "latitude": 31.1017744,
+    "longitude": 77.2026951,
+    "place_id": "ChIJQbXRrCKDBTkReEGU0EO6sAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbXRrCKDBTkReEGU0EO6sAY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:59"
+  },
+  {
+    "business_name": "Sanjauli Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "173236",
+    "phone_number": "+91 96256 35269",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 152,
+    "address": "Sanjauli Chowk, North Oak, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "North Oak, Sanjauli",
+    "latitude": 31.1036951,
+    "longitude": 77.1938181,
+    "place_id": "ChIJUQGdPgB5BTkRCbE17Wya9aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQGdPgB5BTkRCbE17Wya9aY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Civil Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "173217",
+    "phone_number": "+91 1799 221 042",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 19,
+    "address": "V72X+XVH, Hospital Rd, Rajgarh, Himachal Pradesh 173101",
+    "area": "173217",
+    "latitude": 30.8523671,
+    "longitude": 77.29981839999999,
+    "place_id": "ChIJ46obbDB6DzkR3BREJ_AFB7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46obbDB6DzkR3BREJ_AFB7U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:19"
+  },
+  {
+    "business_name": "Civil Hospital Junga",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173217",
+    "phone_number": "+91 177 275 2032",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 18,
+    "address": "25FP+6R6, MDR13, Junga, Himachal Pradesh 171218",
+    "area": "173217",
+    "latitude": 31.0230334,
+    "longitude": 77.1870151,
+    "place_id": "ChIJfWxxt4V_BTkRtgmXi4917Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWxxt4V_BTkRtgmXi4917Zs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:22"
+  }
+]

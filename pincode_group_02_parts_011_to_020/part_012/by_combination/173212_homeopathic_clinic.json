@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Suri Homeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "173212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "29, Mall Rd, near Mohan Park, Lower Bazar, Ram Bazar, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ram Bazar",
+    "latitude": 30.910701699999997,
+    "longitude": 77.1044232,
+    "place_id": "ChIJuSPhNgCBDzkRfskeoJsVQ2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSPhNgCBDzkRfskeoJsVQ2o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:38"
+  },
+  {
+    "business_name": "Gupta Homoeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "173212",
+    "phone_number": "+91 88944 94528",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagnal Complex, Rajgarh Rd, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.904553,
+    "longitude": 77.107209,
+    "place_id": "ChIJga5cEUyBDzkR1oaqKR14aUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJga5cEUyBDzkR1oaqKR14aUI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:41"
+  }
+]

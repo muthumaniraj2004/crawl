@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suket Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "174003",
+    "phone_number": "+91 1907 267 144",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 77,
+    "address": "Pungh, Himachal Pradesh 175018",
+    "area": "174003",
+    "latitude": 31.5161497,
+    "longitude": 76.8827554,
+    "place_id": "ChIJr3NQD8gZBTkR1WQ6wCcczPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3NQD8gZBTkR1WQ6wCcczPw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:58"
+  },
+  {
+    "business_name": "Glodha Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "174003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Agriculture Colony, Hamirpur, Himachal Pradesh 177001",
+    "area": "Agriculture Colony",
+    "latitude": 31.6775907,
+    "longitude": 76.5251633,
+    "place_id": "ChIJxw128bXVBDkRHi8LXCU2YpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxw128bXVBDkRHi8LXCU2YpI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:59"
+  }
+]

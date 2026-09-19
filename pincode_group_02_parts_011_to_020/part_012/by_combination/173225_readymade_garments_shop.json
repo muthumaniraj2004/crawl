@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloth House",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Fabric store",
+    "pincode": "173225",
+    "phone_number": "+91 1792 220 526",
+    "website": "https://m.facebook.com/premclothhousesolan",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "15 56, Sector, Kasauli, Himachal Pradesh 173233",
+    "area": "Sector",
+    "latitude": 30.9478868,
+    "longitude": 76.9454098,
+    "place_id": "ChIJ22Bdi0qBDzkR-9zg_D6VkFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22Bdi0qBDzkR-9zg_D6VkFs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:34"
+  },
+  {
+    "business_name": "Readymade garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothes market",
+    "all_categories": "Clothes market",
+    "pincode": "173225",
+    "phone_number": "+91 70181 84078",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambika collection, market, Barotiwala, Himachal Pradesh 174103",
+    "area": "market",
+    "latitude": 30.9225523,
+    "longitude": 76.8317325,
+    "place_id": "ChIJx0meNpKLDzkR3exzJmtYcXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0meNpKLDzkR3exzJmtYcXY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:34"
+  }
+]

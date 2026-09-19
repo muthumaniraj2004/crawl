@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Juice Bar",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "173215",
+    "phone_number": "+91 98168 01337",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "X467+G78, Kandaghat, Himachal Pradesh 173215",
+    "area": "173215",
+    "latitude": 30.961296899999997,
+    "longitude": 77.1132034,
+    "place_id": "ChIJe5LeQreADzkRz9hmc-H0ZeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5LeQreADzkRz9hmc-H0ZeM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:12"
+  },
+  {
+    "business_name": "The Shimla view",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "173215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X5G6+698 Vill cheonth, Sadhupul, Himachal Pradesh 173215",
+    "area": "173215",
+    "latitude": 30.975545699999998,
+    "longitude": 77.1609474,
+    "place_id": "ChIJ-88cXgCBDzkRXSvtSsgYrgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-88cXgCBDzkRXSvtSsgYrgg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:12"
+  }
+]

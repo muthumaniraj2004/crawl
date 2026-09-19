@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Gyaneshwar Sharma",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Education center",
+    "pincode": "173207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "32Q8+Q6F, Hiwan Kalan, Himachal Pradesh 173207",
+    "area": "173207",
+    "latitude": 31.089446,
+    "longitude": 77.0155391,
+    "place_id": "ChIJa5d4ZPh7BTkRjWbtl80xnDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5d4ZPh7BTkRjWbtl80xnDA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:59:02"
+  },
+  {
+    "business_name": "Redcliffe Labs - Collection Center",
+    "search_category": "Doctors",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Medical diagnostic imaging center, Medical laboratory, Pathologist",
+    "pincode": "173207",
+    "phone_number": "+91 79 6928 5603",
+    "website": "https://redcliffelabs.com/centre/redcliffe-labs-collection-center-viraat-healthcare-diagnostic-centre-kunihar-solan-293945",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Amar Complex, Near Pnb Bank, Kunihar, Himachal Pradesh 173207",
+    "area": "173207",
+    "latitude": 31.080185,
+    "longitude": 76.9659583,
+    "place_id": "ChIJhUsyB-VlBTkRFGLDRXa1vhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUsyB-VlBTkRFGLDRXa1vhA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:59:02"
+  }
+]

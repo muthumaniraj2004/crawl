@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kitchen king",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "173214",
+    "phone_number": "+91 93185 55557",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 407,
+    "address": "National highway 5, distt, soalan, Salogra, Himachal Pradesh 173214",
+    "area": "soalan",
+    "latitude": 30.9311503,
+    "longitude": 77.1296339,
+    "place_id": "ChIJJToSqA-BDzkRj4zz77BX_rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJToSqA-BDzkRj4zz77BX_rs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:19"
+  },
+  {
+    "business_name": "Kitchen King Dhaba",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "173214",
+    "phone_number": "+91 85809 53771",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 8,
+    "address": "W435+G5G, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.9038112,
+    "longitude": 77.1079424,
+    "place_id": "ChIJHYSwJkyBDzkRAAAAMIdnICM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYSwJkyBDzkRAAAAMIdnICM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:19"
+  }
+]

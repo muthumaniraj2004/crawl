@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shop sweet sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "173217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "W559+7G3, Panog Damkri, Himachal Pradesh 173212",
+    "area": "173217",
+    "latitude": 30.908132499999997,
+    "longitude": 77.16879279999999,
+    "place_id": "ChIJv-kmBhGBDzkRz5rak6wdDPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-kmBhGBDzkRz5rak6wdDPA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:15:59"
+  },
+  {
+    "business_name": "Mehru's Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Chinese noodle restaurant",
+    "pincode": "173217",
+    "phone_number": "+91 62300 16661",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 227,
+    "address": "NH22, Kachi Ghatti, Shimla, Himachal Pradesh 171004",
+    "area": "Kachi Ghatti",
+    "latitude": 31.090008299999997,
+    "longitude": 77.1390644,
+    "place_id": "ChIJt5PByJB5BTkR8iOGMCxyIsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5PByJB5BTkR8iOGMCxyIsQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:00"
+  }
+]

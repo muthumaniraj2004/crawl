@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink Lotus beauty salon",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Bridal shop, Hair extension technician, Nail salon, Skin care clinic",
+    "pincode": "173215",
+    "phone_number": "+91 70188 19275",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pink lotus Beauty salon, Arvind Marg, opp. rajindra book store, Una, Himachal Pradesh 174303",
+    "area": "173215",
+    "latitude": 31.4674277,
+    "longitude": 76.2705776,
+    "place_id": "ChIJmS-SQNzbGjkRLTqjeJJNPOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmS-SQNzbGjkRLTqjeJJNPOo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:56"
+  },
+  {
+    "business_name": "GK Mehandi Arts in shimla",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Artist",
+    "all_categories": "Artist",
+    "pincode": "173215",
+    "phone_number": "+91 96345 43259",
+    "website": "http://www.gkmehandiarts.com/",
+    "rating": 5,
+    "reviews_count": 65,
+    "address": "Sanjauli Chowk, Navbhahar, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Navbhahar, Sanjauli",
+    "latitude": 31.092010199999997,
+    "longitude": 77.1871412,
+    "place_id": "ChIJNcbIRFx5BTkR7gR7L2974oQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcbIRFx5BTkR7gR7L2974oQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:58"
+  }
+]

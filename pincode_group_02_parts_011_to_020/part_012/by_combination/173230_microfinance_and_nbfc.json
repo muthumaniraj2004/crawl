@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Toyota Financial Services India Limited",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Financial consultant",
+    "pincode": "173230",
+    "phone_number": "+91 1800 309 9778",
+    "website": "https://www.toyotafinance.co.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "7th Floor, Tower-C, Sattva Global City, Mysore Rd, RV Vidyaniketan, Kengeri, Bengaluru, Karnataka 560059",
+    "area": "RV Vidyaniketan, Kengeri",
+    "latitude": 12.920581499999999,
+    "longitude": 77.50161829999999,
+    "place_id": "ChIJWXqBKtcVrjsRaW0AaVX5Y9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXqBKtcVrjsRaW0AaVX5Y9A",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:32:34"
+  },
+  {
+    "business_name": "HDB FINANCIAL SERVICES LTD",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "173230",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Third Floor, 301, UPA Complex, Arya Kumar Rd, Rajendra Nagar, Patna, Bihar 800016",
+    "area": "Rajendra Nagar",
+    "latitude": 25.6086864,
+    "longitude": 85.1588826,
+    "place_id": "ChIJKzTAKgNZ7TkRPu2PaG3YR0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzTAKgNZ7TkRPu2PaG3YR0o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:32:34"
+  }
+]

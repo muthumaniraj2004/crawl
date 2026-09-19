@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Fruit Shope",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173229",
+    "phone_number": "+91 98175 47684",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Naina Tikker, Solan, Himachal Pradesh 173229",
+    "area": "173229",
+    "latitude": 30.8057824,
+    "longitude": 77.11717329999999,
+    "place_id": "ChIJRf09ix2DDzkRtjfbfORmORE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRf09ix2DDzkRtjfbfORmORE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:31:02"
+  },
+  {
+    "business_name": "The Gaming zone",
+    "search_category": "Shops",
+    "primary_category": "Game store",
+    "all_categories": "Game store",
+    "pincode": "173229",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "V3FJ+5F5, SH 6, Laddo, Anji, Solan, Himachal Pradesh 173229",
+    "area": "Laddo",
+    "latitude": 30.872881399999997,
+    "longitude": 77.08123859999999,
+    "place_id": "ChIJtTUDNwCFDzkRrYBYabRzIMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTUDNwCFDzkRrYBYabRzIMI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:31:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mall, Shimla",
+    "search_category": "Malls",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "173208",
+    "phone_number": "+91 78072 07408",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ground Floor, Shop No 37, Louis Philippe, The Mall, Shimla, Himachal Pradesh 171001",
+    "area": "The Mall",
+    "latitude": 31.1071,
+    "longitude": 77.170799,
+    "place_id": "ChIJmfBxZ3t5BTkRxvq5rKfXU-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfBxZ3t5BTkRxvq5rKfXU-0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:02:21"
+  },
+  {
+    "business_name": "Silver Arc Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "173208",
+    "phone_number": "+91 161 536 0001",
+    "website": "https://www.silverarcmall.com/",
+    "rating": 4.3,
+    "reviews_count": 11479,
+    "address": "622, Ferozepur Rd, Gurdev Nagar, Ludhiana, Punjab 141001",
+    "area": "Gurdev Nagar",
+    "latitude": 30.9004616,
+    "longitude": 75.8292513,
+    "place_id": "ChIJld2o7seDGjkRQ_PfKzjv_AI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJld2o7seDGjkRQ_PfKzjv_AI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:02:21"
+  }
+]

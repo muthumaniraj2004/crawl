@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eventica",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "173211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "PO Shamti, Rajgarh Rd, Solan, Himachal Pradesh 173212",
+    "area": "173211",
+    "latitude": 30.8823767,
+    "longitude": 77.1197181,
+    "place_id": "ChIJIZ5ax4yDDzkR3HfDPrTC6zQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZ5ax4yDDzkR3HfDPrTC6zQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:07:19"
+  },
+  {
+    "business_name": "Wedding Wonder",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "173211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Kathiala, Dehun, Solan, Himachal Pradesh 173211",
+    "area": "Kathiala",
+    "latitude": 30.8993547,
+    "longitude": 77.1058773,
+    "place_id": "ChIJN-v6WwCBDzkR4ejoign20L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-v6WwCBDzkR4ejoign20L8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:07:19"
+  }
+]

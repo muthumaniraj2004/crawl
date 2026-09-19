@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Confectionery store, Snack bar",
+    "pincode": "173217",
+    "phone_number": "+91 94183 88006",
+    "website": "https://www.instagram.com/happy_bakery_nadaun/",
+    "rating": 4.5,
+    "reviews_count": 256,
+    "address": "Jwalaji Road, Nadaun, Himachal Pradesh 177033",
+    "area": "173217",
+    "latitude": 31.785515099999998,
+    "longitude": 76.345553,
+    "place_id": "ChIJMSAkIWovGzkRdd6VDcCDEAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSAkIWovGzkRdd6VDcCDEAE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:03"
+  },
+  {
+    "business_name": "Datyal Baker's",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cafe",
+    "pincode": "173217",
+    "phone_number": "+91 93065 72701",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 20,
+    "address": "Una - Hamirpur Rd, Bhota, Himachal Pradesh 176041",
+    "area": "173217",
+    "latitude": 31.605424399999997,
+    "longitude": 76.5569737,
+    "place_id": "ChIJmRXP2u0pBTkRPh6p1jN6ipQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRXP2u0pBTkRPh6p1jN6ipQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen Enterprises",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, General store",
+    "pincode": "173213",
+    "phone_number": "+91 70182 46235",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Post Office Rd, Saproon, Solan, Himachal Pradesh 173213",
+    "area": "Saproon",
+    "latitude": 30.915574499999998,
+    "longitude": 77.0911959,
+    "place_id": "ChIJSaaDVs-GDzkRAAAAMCWhenI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaaDVs-GDzkRAAAAMCWhenI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:10:08"
+  },
+  {
+    "business_name": "Ansha Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "173213",
+    "phone_number": "+91 83530 63503",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lawi Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Lawi Khurd",
+    "latitude": 30.908462399999998,
+    "longitude": 77.0998352,
+    "place_id": "ChIJVUwQcCuHDzkR4P4RQAr0mVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUwQcCuHDzkR4P4RQAr0mVU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:10:11"
+  }
+]

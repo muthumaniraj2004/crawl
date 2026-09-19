@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ExTravelMoney",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Financial consultant, Software company",
+    "pincode": "173235",
+    "phone_number": "+91 484 288 6900",
+    "website": "https://www.extravelmoney.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "TBC-2, Carnival Infopark Phase I, 8th floor, Room No: 7, Vismaya Building, Kakkanad, Kochi, Keralam 682042",
+    "area": "Infopark Campus",
+    "latitude": 10.0141908,
+    "longitude": 76.3634881,
+    "place_id": "ChIJy2M7c0ENCDsRNOEJCiED2uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2M7c0ENCDsRNOEJCiED2uo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:21"
+  },
+  {
+    "business_name": "GlobalPay by WSFx",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Money order service, Currency exchange service",
+    "pincode": "173235",
+    "phone_number": "+91 72081 14566",
+    "website": "https://www.wsfxglobalpay.com/currency-exchange/goa",
+    "rating": 5,
+    "reviews_count": 363,
+    "address": "Dr Rafael Barretto Plaza, Shop No-7, Margao, Goa 403601",
+    "area": "Pajifond",
+    "latitude": 15.2750098,
+    "longitude": 73.9579057,
+    "place_id": "ChIJp6hDwemzvzsR1RAmoRgwLHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6hDwemzvzsR1RAmoRgwLHE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:22"
+  }
+]

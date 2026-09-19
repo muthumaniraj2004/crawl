@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxmi Engineering Works",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Steel fabricator",
+    "pincode": "173225",
+    "phone_number": "+91 70717 10001",
+    "website": "http://luxmiengineeringworks.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "EPIP Road,Industrial Area Jharmajri, Kunjahal, Baddi, Himachal Pradesh 174103",
+    "area": "173225",
+    "latitude": 30.9220631,
+    "longitude": 76.83027969999999,
+    "place_id": "ChIJ-X8FTlyLDzkRLBheMoZLu7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-X8FTlyLDzkRLBheMoZLu7k",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:29:00"
+  },
+  {
+    "business_name": "Royal Industries",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "173225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "99, Industrial Area, Mehatpur, Himachal Pradesh 174315",
+    "area": "Industrial Area",
+    "latitude": 31.4111913,
+    "longitude": 76.3459148,
+    "place_id": "ChIJpSJxpsfPGjkRli2B-aGTBGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSJxpsfPGjkRli2B-aGTBGw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:29:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Bilaspuri Dham",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "174001",
+    "phone_number": "+91 85807 32329",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "9PQJ+MFX, Palthin, Himachal Pradesh 174024",
+    "area": "174001",
+    "latitude": 31.3892375,
+    "longitude": 76.73123439999999,
+    "place_id": "ChIJDSX5WwA5BTkRLozDUzNXIfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSX5WwA5BTkRLozDUzNXIfk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:41:02"
+  },
+  {
+    "business_name": "Vista Dine By The Satluj Vista",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "174001",
+    "phone_number": "+91 1978 292 097",
+    "website": "https://thesatlujvista.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NH-205, chowk, near New HRTC bustand, Bharari, Himachal Pradesh 174005",
+    "area": "174001",
+    "latitude": 31.299016599999998,
+    "longitude": 76.74678759999999,
+    "place_id": "ChIJizEw_NBBBTkRqIfRL3qzjG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizEw_NBBBTkRqIfRL3qzjG8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:41:05"
+  }
+]

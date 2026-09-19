@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor home",
+    "search_category": "Doctors",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "173217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V5XH+9G6, Gatol, Himachal Pradesh 173212",
+    "area": "173217",
+    "latitude": 30.8984202,
+    "longitude": 77.1787796,
+    "place_id": "ChIJp2XwagCBDzkR2cWfkP_QpTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2XwagCBDzkR2cWfkP_QpTo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:20"
+  },
+  {
+    "business_name": "Medical Inspection Room",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Hospital",
+    "pincode": "173217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X682+F6R, Kandaghat-Chail-Kufri Rd, Chail, Himachal Pradesh 173217",
+    "area": "173217",
+    "latitude": 30.966238299999997,
+    "longitude": 77.20051649999999,
+    "place_id": "ChIJdeT3VvN_DzkREvCY2aOnb08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdeT3VvN_DzkREvCY2aOnb08",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:23"
+  }
+]

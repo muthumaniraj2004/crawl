@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taran Dj",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "173229",
+    "phone_number": "+91 97362 44422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sanjeev book seller, Sarahan Kalan, Sarahan Khurd, Himachal Pradesh 173024",
+    "area": "173229",
+    "latitude": 30.7168232,
+    "longitude": 77.1919632,
+    "place_id": "ChIJGRpCe4mdDzkR8r67ku2wDds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRpCe4mdDzkR8r67ku2wDds",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:30:16"
+  },
+  {
+    "business_name": "Dev Brijeshwer decorators",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "173229",
+    "phone_number": "+91 82197 08005",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill. Bohli, SH 2, Solan, Himachal Pradesh 173229",
+    "area": "173229",
+    "latitude": 30.8541685,
+    "longitude": 77.0820985,
+    "place_id": "ChIJgcV7BG6FDzkRyZC-gqUs2EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcV7BG6FDzkRyZC-gqUs2EQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:30:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nomadic World Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "173213",
+    "phone_number": "+91 93173 98803",
+    "website": "https://www.nomadicworldtravel.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nomadic World Travel, Near HFCL, Chambaghat, Himachal Pradesh 173213",
+    "area": "Chambaghat",
+    "latitude": 30.9247691,
+    "longitude": 77.0949017,
+    "place_id": "ChIJ1RN3PyKHDzkRX5Zslbi6-6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RN3PyKHDzkRX5Zslbi6-6M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:10:52"
+  },
+  {
+    "business_name": "Nxt adventure tours",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "173213",
+    "phone_number": "+91 98824 20004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "KATHER BYE PASS, near CM MEGA STORE, Bhanat, Solan, Himachal Pradesh 173213",
+    "area": "Bhanat",
+    "latitude": 30.912266499999998,
+    "longitude": 77.0952295,
+    "place_id": "ChIJ96jH-Q2HDzkRy-PLEMIdJt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96jH-Q2HDzkRy-PLEMIdJt8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:10:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Logistic Services",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Trucking company",
+    "all_categories": "Trucking company",
+    "pincode": "174003",
+    "phone_number": "+91 161 501 3262",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot No.80, Near IndianOil, Transport Nagar, Industrial Area- A, Ludhiana, Punjab 141003",
+    "area": "Transport Nagar, Industrial Area- A",
+    "latitude": 30.9028802,
+    "longitude": 75.8801464,
+    "place_id": "ChIJ8_KhBSODGjkRYeuHRmBlrTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_KhBSODGjkRYeuHRmBlrTA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:45:16"
+  },
+  {
+    "business_name": "NOIDA HIMACHAL ROADLINES",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "174003",
+    "phone_number": "+91 97101 06200",
+    "website": "http://www.noidahimachalroadlines.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "himachal roadlines, A 329, Sector 69, Noida, Uttar Pradesh 201309",
+    "area": "Sector 69",
+    "latitude": 28.6126228,
+    "longitude": 77.39093559999999,
+    "place_id": "ChIJUQFPueLvDDkRIAlwpKDdI50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQFPueLvDDkRIAlwpKDdI50",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:45:18"
+  }
+]

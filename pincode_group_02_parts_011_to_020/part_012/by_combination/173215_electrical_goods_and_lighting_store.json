@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electro Plaza",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "173215",
+    "phone_number": "+91 96256 55000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop no 1, Old DC office, Red cross road, Bajoral Khurd, Solan, Himachal Pradesh 173211",
+    "area": "Bajoral Khurd",
+    "latitude": 30.9052795,
+    "longitude": 77.0958994,
+    "place_id": "ChIJ4x-U7eKDDzkRAAAA0L9o_AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4x-U7eKDDzkRAAAA0L9o_AA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:44"
+  },
+  {
+    "business_name": "Schneider Electric - Shree Jayanti Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electrical equipment supplier",
+    "pincode": "173215",
+    "phone_number": "+91 8071 331 279",
+    "website": "https://retailpavilion-in.se.com/in/en/store/schneider-electric-shree-jayanti-electricals-electrical-store-asansol-west-bengal-713301-100261",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "M L, 5, Raha Lane, M L, Pathak Bari, Asansol, West Bengal 713301",
+    "area": "M L, Pathak Bari",
+    "latitude": 23.6835247,
+    "longitude": 86.9773551,
+    "place_id": "ChIJX8gtESgf9zkR_mbaiz6tJco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8gtESgf9zkR_mbaiz6tJco",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:46"
+  }
+]

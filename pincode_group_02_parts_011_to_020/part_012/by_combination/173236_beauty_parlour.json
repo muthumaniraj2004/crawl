@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshita's Beauty Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "173236",
+    "phone_number": "+91 82198 50689",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Malyana, Shimla, Himachal Pradesh 171006",
+    "area": "Malyana",
+    "latitude": 31.085070199999997,
+    "longitude": 77.1903839,
+    "place_id": "ChIJmfOsd_l5BTkRsufbkxttLbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfOsd_l5BTkRsufbkxttLbk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:39:47"
+  },
+  {
+    "business_name": "Blessed unisex saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "173236",
+    "phone_number": "+91 78070 97010",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rahighat, Raighat, Theog, Himachal Pradesh 171201",
+    "area": "Rahighat, Raighat",
+    "latitude": 31.127407899999998,
+    "longitude": 77.34927449999999,
+    "place_id": "ChIJRW5bJfCFBTkR8dw1KybXqPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRW5bJfCFBTkR8dw1KybXqPM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:39:47"
+  }
+]

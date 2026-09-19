@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "uncle harrie's cafe and lounge",
+    "search_category": "Bar and Pub",
+    "primary_category": "Lounge bar",
+    "all_categories": "Lounge bar",
+    "pincode": "173233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 13,
+    "address": "VVJP+G2V, Unnamed Road, Pandits Basti, Banoi Khuda Bax, Haryana 133302",
+    "area": "Pandits Basti",
+    "latitude": 30.8813534,
+    "longitude": 76.8850391,
+    "place_id": "ChIJM_Mxu9uLDzkRM6k7ifVhLm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_Mxu9uLDzkRM6k7ifVhLm0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:33:14"
+  },
+  {
+    "business_name": "Drinks & Co.",
+    "search_category": "Bar and Pub",
+    "primary_category": "Liquor Shop",
+    "all_categories": "Liquor Shop",
+    "pincode": "173233",
+    "phone_number": "+91 80548 00786",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "inner market, SCF 12, 8B, Sector 8, Chandigarh, 160009",
+    "area": "8B, Sector 8",
+    "latitude": 30.740331899999997,
+    "longitude": 76.7974785,
+    "place_id": "ChIJz_bge6LtDzkRrCrkGGHfmeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_bge6LtDzkRrCrkGGHfmeo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:33:17"
+  }
+]

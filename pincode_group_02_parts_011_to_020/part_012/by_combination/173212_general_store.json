@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M N General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173212",
+    "phone_number": "+91 88946 79947",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Panwar Hermitage, K.S, Sharma Niwas Hospital Rd, opp. Dinesh Banking, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.902497399999998,
+    "longitude": 77.1064359,
+    "place_id": "ChIJl93VHAaBDzkREQEYz63Vev8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl93VHAaBDzkREQEYz63Vev8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:17"
+  },
+  {
+    "business_name": "Kamal General Store",
+    "search_category": "General Store",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "173212",
+    "phone_number": "+91 78079 10696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sunny Side Rd, near Parking, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.9058696,
+    "longitude": 77.0979656,
+    "place_id": "ChIJLSiRLV6HDzkRYu8iBFyy40w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSiRLV6HDzkRYu8iBFyy40w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:17"
+  }
+]

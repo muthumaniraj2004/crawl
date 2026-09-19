@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premjeet plumbing works",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "174003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Kartik garments and cosmetics kuthera, Ghumarwin, Himachal Pradesh 174026",
+    "area": "174003",
+    "latitude": 31.508205699999998,
+    "longitude": 76.7292105,
+    "place_id": "ChIJOdFPH8wlBTkRy0f3Lft1dLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdFPH8wlBTkRy0f3Lft1dLY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:45:23"
+  },
+  {
+    "business_name": "KVS Distributor",
+    "search_category": "Plumber",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Building materials supplier, Hardware store",
+    "pincode": "174003",
+    "phone_number": "+91 98826 84100",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "v.p.o, Ajouli, Punjab 174301",
+    "area": "174003",
+    "latitude": 31.3765073,
+    "longitude": 76.3377861,
+    "place_id": "ChIJ2QZST-rOGjkRH2Ts5GQd80c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QZST-rOGjkRH2Ts5GQd80c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:45:25"
+  }
+]

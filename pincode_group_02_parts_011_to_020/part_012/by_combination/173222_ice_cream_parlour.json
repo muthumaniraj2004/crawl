@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best milk parlor",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "173222",
+    "phone_number": "+91 78921 99100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "98XX+MVV, Sulepeth, Karnataka 585324",
+    "area": "173222",
+    "latitude": 17.3992343,
+    "longitude": 77.3496708,
+    "place_id": "ChIJ_3O4OgAlyTsRNEL3i5q5yXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3O4OgAlyTsRNEL3i5q5yXE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:45"
+  },
+  {
+    "business_name": "Nathu Ram Fresh Juice&ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "173222",
+    "phone_number": "+91 95714 86424",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 402,
+    "address": "fort Parking, Dhibba Para, Jaisalmer, Rajasthan 345001",
+    "area": "Dhibba Para, Amar Sagar Pol",
+    "latitude": 26.9119237,
+    "longitude": 70.9151665,
+    "place_id": "ChIJTWRIiCW8RzkROIfjoZoXtkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWRIiCW8RzkROIfjoZoXtkk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:46"
+  }
+]

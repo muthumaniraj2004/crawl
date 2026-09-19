@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Styler Beauty Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Jewelry store",
+    "pincode": "173234",
+    "phone_number": "+91 98057 88386",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market, NH-22, Shoghi, Shimla, Himachal Pradesh 171219",
+    "area": "173234",
+    "latitude": 31.0415289,
+    "longitude": 77.1253906,
+    "place_id": "ChIJCSFE2JJ-BTkRvPAdaLOdyww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSFE2JJ-BTkRvPAdaLOdyww",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:57"
+  },
+  {
+    "business_name": "Glam Beauty & Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "173234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "near by vrinda home stay, Mehli, Shimla, Himachal Pradesh 171013",
+    "area": "Mehli",
+    "latitude": 31.0670301,
+    "longitude": 77.19371819999999,
+    "place_id": "ChIJY69-AAB_BTkRd3caEQR6v9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY69-AAB_BTkRd3caEQR6v9w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:36:00"
+  }
+]

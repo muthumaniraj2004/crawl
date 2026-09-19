@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PropertyWala",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "174003",
+    "phone_number": "+91 120 433 1078",
+    "website": "http://www.propertywala.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A-8, A Block, Sector 9, Noida, Uttar Pradesh 201301",
+    "area": "A Block, Sector 9",
+    "latitude": 28.5844319,
+    "longitude": 77.3276728,
+    "place_id": "ChIJAQAAAFP6DDkRep8oz1P5MrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAFP6DDkRep8oz1P5MrY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:07"
+  },
+  {
+    "business_name": "Aakriti Associates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "174003",
+    "phone_number": "+91 94184 75821",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Rajpur, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "Rajpur",
+    "latitude": 31.4494309,
+    "longitude": 77.6295631,
+    "place_id": "ChIJfcLSxRLBBTkRjynEgx7zTq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcLSxRLBBTkRjynEgx7zTq0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:07"
+  }
+]

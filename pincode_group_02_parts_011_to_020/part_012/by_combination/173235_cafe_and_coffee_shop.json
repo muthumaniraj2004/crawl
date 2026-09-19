@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukoon cafe Bahadurpur",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "173235",
+    "phone_number": "+91 82193 27259",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "Sukoon cafe, Bahadurpur, Sahlon, Himachal Pradesh 174032",
+    "area": "Bahadurpur",
+    "latitude": 31.231676699999998,
+    "longitude": 76.86853169999999,
+    "place_id": "ChIJHV5KEwBrBTkRZJ7gJii2TQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHV5KEwBrBTkRZJ7gJii2TQk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:37:05"
+  },
+  {
+    "business_name": "Lost coffee.burger",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "173235",
+    "phone_number": "N/A",
+    "website": "https://lostburger.coffee/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shikroha post office, shikroha, Sakroha, Galor, Himachal Pradesh 174032",
+    "area": "shikroha",
+    "latitude": 31.274378799999997,
+    "longitude": 76.87646649999999,
+    "place_id": "ChIJoyr2XTBrBTkRVLM2Th52s_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyr2XTBrBTkRVLM2Th52s_A",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:37:09"
+  }
+]

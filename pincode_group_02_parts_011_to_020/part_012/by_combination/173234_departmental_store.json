@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harish Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "173234",
+    "phone_number": "+91 177 286 0761",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Main Bazar, Shoghi Main Market, Shoghi, Himachal Pradesh 171219",
+    "area": "173234",
+    "latitude": 31.040074999999998,
+    "longitude": 77.125305,
+    "place_id": "ChIJyTapK5N-BTkREUpSsvGl2xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTapK5N-BTkREUpSsvGl2xk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:00"
+  },
+  {
+    "business_name": "RCM Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "173234",
+    "phone_number": "+91 92187 74787",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "L.D, Sharma Building, Vikas Enterprises, JUIT-Waknaghat Rd, near Electricity Office, University Road, Waknaghat, Himachal Pradesh 173234",
+    "area": "University Road",
+    "latitude": 31.011040299999998,
+    "longitude": 77.09017,
+    "place_id": "ChIJB9qyf2V9BTkR6SQQzGjavIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9qyf2V9BTkR6SQQzGjavIA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:01"
+  }
+]

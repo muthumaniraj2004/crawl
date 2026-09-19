@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "174003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gatol, Ghumarwin, Himachal Pradesh 174021",
+    "area": "174003",
+    "latitude": 31.481682199999998,
+    "longitude": 76.7141712,
+    "place_id": "ChIJz4JsAy0lBTkRYAzzQZq91Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4JsAy0lBTkRYAzzQZq91Zo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:18"
+  },
+  {
+    "business_name": "Clickfury",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "174003",
+    "phone_number": "N/A",
+    "website": "https://www.clickfury.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Kyari Post office, Tehsil, Takrera, Ghumarwin, Himachal Pradesh 174021",
+    "area": "Tehsil",
+    "latitude": 31.430048699999997,
+    "longitude": 76.7177059,
+    "place_id": "ChIJ7bVmnDc7BTkRkx8436sZ2qA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bVmnDc7BTkRkx8436sZ2qA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:20"
+  }
+]

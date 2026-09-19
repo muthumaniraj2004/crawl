@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Logistics Solutions",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Transportation service",
+    "pincode": "174004",
+    "phone_number": "N/A",
+    "website": "http://www.bestlogistics.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2nd Floor, 47A/81, Arcot Rd, United India Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+    "area": "United India Colony, Kodambakkam",
+    "latitude": 13.0532214,
+    "longitude": 80.22428839999999,
+    "place_id": "ChIJK5wsyPNmUjoRzdFrZnyL4Ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5wsyPNmUjoRzdFrZnyL4Ag",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:47:09"
+  },
+  {
+    "business_name": "Easyport Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "174004",
+    "phone_number": "+91 94038 90090",
+    "website": "http://easyport.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "QWM3+PJ3, Dewas Naka, Lasudia Mori, Indore, Madhya Pradesh 452010",
+    "area": "Dewas Naka, Lasudia Mori",
+    "latitude": 22.784371099999998,
+    "longitude": 75.9041184,
+    "place_id": "ChIJsx8YmDMdYzkRIXbRxMqHRoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsx8YmDMdYzkRIXbRxMqHRoI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:47:10"
+  }
+]

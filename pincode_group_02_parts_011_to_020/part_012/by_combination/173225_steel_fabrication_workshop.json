@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurdeep Welding Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "173225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H74V+WG9, Ramkundi, Nahan, Himachal Pradesh 173001",
+    "area": "Ramkundi",
+    "latitude": 30.5572894,
+    "longitude": 77.2938552,
+    "place_id": "ChIJR01xCAANDzkRLcRZFmeva84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR01xCAANDzkRLcRZFmeva84",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:28:54"
+  },
+  {
+    "business_name": "Verma Steel Industry",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel industry",
+    "all_categories": "Steel industry",
+    "pincode": "173225",
+    "phone_number": "+91 98051 64770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Muhalkar Khas, Himachal Pradesh 176047",
+    "area": "173225",
+    "latitude": 32.1321375,
+    "longitude": 76.39477029999999,
+    "place_id": "ChIJhUo5cLxNGzkRIhKhzvLpb4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUo5cLxNGzkRIhKhzvLpb4Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:28:55"
+  }
+]

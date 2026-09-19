@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti Jeneral Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "173212",
+    "phone_number": "+91 80910 33310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "raj telecom, Rajgarh Rd, near chefs planet hotel, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.906105699999998,
+    "longitude": 77.0999052,
+    "place_id": "ChIJgXKfLFKHDzkRcKZLVdE6UOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXKfLFKHDzkRcKZLVdE6UOY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:09:37"
+  },
+  {
+    "business_name": "Himachal-IT Solutions",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Information & Referral Services Agency",
+    "all_categories": "Information & Referral Services Agency",
+    "pincode": "173212",
+    "phone_number": "+91 97976 73665",
+    "website": "https://www.himitsol.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V.P.O, tehsil baroh (849, Aerla, Ghan, Himachal Pradesh 176054",
+    "area": "Aerla",
+    "latitude": 31.9785155,
+    "longitude": 76.3398496,
+    "place_id": "ChIJM02se0tJGzkR4gDJBroyOXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM02se0tJGzkR4gDJBroyOXk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:09:38"
+  }
+]

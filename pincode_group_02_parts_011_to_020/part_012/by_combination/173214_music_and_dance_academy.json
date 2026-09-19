@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star maker music and dance school",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school, Dance school",
+    "pincode": "173214",
+    "phone_number": "+91 95013 39118",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "55 a Sector 123, Sunny Enclave, Kharar, Sihanpur, Punjab 140301",
+    "area": "Sunny Enclave",
+    "latitude": 30.755101,
+    "longitude": 76.67579289999999,
+    "place_id": "ChIJCRhC8ifwDzkR0iTIXOBpXkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRhC8ifwDzkR0iTIXOBpXkE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:13:24"
+  },
+  {
+    "business_name": "Tansen Sangeet Mahavidyalaya",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Art school, Guitar instructor, Music college, Music school, Performing arts group, Piano instructor, Vocal Instructor",
+    "pincode": "173214",
+    "phone_number": "+91 11 4579 6860",
+    "website": "http://www.tansenkalkaji.in/",
+    "rating": 4.7,
+    "reviews_count": 371,
+    "address": "Third Floor, F-14, Main Rd, Block F, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Block F, Kalkaji",
+    "latitude": 28.541724499999997,
+    "longitude": 77.2545217,
+    "place_id": "ChIJtS5ZLdrjDDkRC7YuCu-77fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtS5ZLdrjDDkRC7YuCu-77fs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:13:24"
+  }
+]

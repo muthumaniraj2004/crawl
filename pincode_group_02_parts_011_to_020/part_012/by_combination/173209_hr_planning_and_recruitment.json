@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acme Hr Consulting",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "173209",
+    "phone_number": "+91 98729 88774",
+    "website": "http://www.acmehr.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Trenquil Villa, near Villa Mountain Crest, Gandhi Gram, Himachal Pradesh 173229",
+    "area": "173209",
+    "latitude": 30.859527,
+    "longitude": 77.07418679999999,
+    "place_id": "ChIJdytGmrGFDzkRuJWJusSE7gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdytGmrGFDzkRuJWJusSE7gk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:03:54"
+  },
+  {
+    "business_name": "Shivalik Placement Consultancy",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "173209",
+    "phone_number": "+91 94180 30300",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sankat Mochan ( Chamrod, Flat No No 4 Sunrise Home, Shimla, Himachal Pradesh 171012",
+    "area": "173209",
+    "latitude": 31.072328199999998,
+    "longitude": 77.25201009999999,
+    "place_id": "ChIJq6qqqnqBBTkRMZ66a8cUZZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqnqBBTkRMZ66a8cUZZU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:03:54"
+  }
+]

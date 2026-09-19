@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YR Software Services",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "173206",
+    "phone_number": "+91 76968 94399",
+    "website": "https://yrsoftwareservices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "YR Software Services, 173206, India",
+    "area": "173206",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJaXGf5KYQUg4Rz3KJN7shOZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXGf5KYQUg4Rz3KJN7shOZk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:57:55"
+  },
+  {
+    "business_name": "PCSNP Tech",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Website designer",
+    "pincode": "173206",
+    "phone_number": "N/A",
+    "website": "https://pcsnptech.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gali No. 20, B Block, First Floor, Kh. No. 8/18, Plot No. 41, near Nitin Dairy, Kamal Vihar, Kamal Pur, Burari, Delhi, 110084",
+    "area": "Kamal Vihar, Kamal Pur, Burari",
+    "latitude": 28.7481381,
+    "longitude": 77.1900845,
+    "place_id": "ChIJU4SV8UT_DDkRLaFnrT77MjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4SV8UT_DDkRLaFnrT77MjA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:57:57"
+  }
+]

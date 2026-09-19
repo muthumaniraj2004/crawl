@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Management Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Service establishment",
+    "pincode": "173217",
+    "phone_number": "N/A",
+    "website": "http://www.hrmsindia.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR Management Solutions, 173217, India",
+    "area": "173217",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJaTozJ5IS4UUR_6yrdeLgbDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTozJ5IS4UUR_6yrdeLgbDg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:17:25"
+  },
+  {
+    "business_name": "Job Provider",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "173217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sharma Niwas, 72/1, Frood, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Frood, Sanjauli",
+    "latitude": 31.0977236,
+    "longitude": 77.2003993,
+    "place_id": "ChIJ6XPLv3ODBTkRGmAqrcNmR30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XPLv3ODBTkRGmAqrcNmR30",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:17:25"
+  }
+]

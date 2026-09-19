@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Store",
+    "pincode": "173212",
+    "phone_number": "+91 78072 66870",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Anand Vihar, Bye Pass, near genius global school, Solan, Himachal Pradesh 173212",
+    "area": "Lawi Khurd",
+    "latitude": 30.906167,
+    "longitude": 77.092083,
+    "place_id": "ChIJ7UpoMgCHDzkRIUNLPbi_Who",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UpoMgCHDzkRIUNLPbi_Who",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:13"
+  },
+  {
+    "business_name": "Samir Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173212",
+    "phone_number": "+91 98161 63478",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Sunny Side Rd, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.9076272,
+    "longitude": 77.0961576,
+    "place_id": "ChIJB9Fte7aGDzkR9UfW4SD135k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9Fte7aGDzkR9UfW4SD135k",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:13"
+  }
+]

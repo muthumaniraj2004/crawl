@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Miniso solan",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "173213",
+    "phone_number": "+91 86289 12240",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Shop 14 (GF) Centre Prime Mall Shimla Byepass NH-5, Solan, Himachal Pradesh 173213",
+    "area": "173213",
+    "latitude": 30.919954599999997,
+    "longitude": 77.09586929999999,
+    "place_id": "ChIJYx-Ro8-HDzkRhSkh1sGf0nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYx-Ro8-HDzkRhSkh1sGf0nE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:02"
+  },
+  {
+    "business_name": "Carnival Gaming Zone",
+    "search_category": "Malls",
+    "primary_category": "Video arcade",
+    "all_categories": "Video arcade",
+    "pincode": "173213",
+    "phone_number": "+91 75600 80800",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "W39W+Q7R, Kalka - Shimla Rd, Solan, Himachal Pradesh 173213",
+    "area": "173213",
+    "latitude": 30.9194872,
+    "longitude": 77.0957418,
+    "place_id": "ChIJRc-1dgCHDzkRqkI5IbTJ4lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRc-1dgCHDzkRqkI5IbTJ4lE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:03"
+  }
+]

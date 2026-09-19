@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Bakery and Fast food Darlaghat",
+    "search_category": "Patisserie",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "173235",
+    "phone_number": "+91 86280 83855",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "police station, With, Darlaghat, Himachal Pradesh 171102",
+    "area": "173235",
+    "latitude": 31.233793,
+    "longitude": 76.9377945,
+    "place_id": "ChIJswiR-X9rBTkRLo0iX9uZGC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswiR-X9rBTkRLo0iX9uZGC8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:37:01"
+  },
+  {
+    "business_name": "Balajee Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Restaurant",
+    "pincode": "173235",
+    "phone_number": "+91 97173 28205",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Darla, Darlaghat, Himachal Pradesh 171102",
+    "area": "173235",
+    "latitude": 31.232457999999998,
+    "longitude": 76.9422706,
+    "place_id": "ChIJkVWXCSBsBTkRAAAAsGod4hU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVWXCSBsBTkRAAAAsGod4hU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:37:03"
+  }
+]

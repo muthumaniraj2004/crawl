@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "173211",
+    "phone_number": "+91 98166 20015",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chowk Bazar, Ganj Bazar, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Ganj Bazar, Bajoral Khurd",
+    "latitude": 30.908842099999998,
+    "longitude": 77.106276,
+    "place_id": "ChIJ04IKT0qBDzkRsOAdEtYpBUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04IKT0qBDzkRsOAdEtYpBUE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:26"
+  },
+  {
+    "business_name": "Anita Enterprises",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "173211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rajgarh Rd, near Thodo Ground Road, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.9075043,
+    "longitude": 77.105998,
+    "place_id": "ChIJmxM47LuBDzkR2jLyOMrxzUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxM47LuBDzkR2jLyOMrxzUc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:26"
+  }
+]

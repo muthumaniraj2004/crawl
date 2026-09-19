@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurvedic Health Centre Shoghi",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "24WG+3HP, Shadyala, GAHC, Shoghi, Himachal Pradesh 171219",
+    "area": "Shadyala",
+    "latitude": 31.045202099999997,
+    "longitude": 77.1264516,
+    "place_id": "ChIJOWo6JOt-BTkRg-lgSzKjZjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWo6JOt-BTkRg-lgSzKjZjM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:36:01"
+  },
+  {
+    "business_name": "Pranav ji ka room",
+    "search_category": "Wellness Center",
+    "primary_category": "Chiropractor",
+    "all_categories": "Chiropractor",
+    "pincode": "173234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H-11, JUIT-Waknaghat Rd, Himachal Pradesh 173234",
+    "area": "173234",
+    "latitude": 31.0160263,
+    "longitude": 77.0705085,
+    "place_id": "ChIJXU8RGAB9BTkR1AcR4mo5oZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXU8RGAB9BTkR1AcR4mo5oZY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:36:01"
+  }
+]

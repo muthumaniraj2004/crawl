@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chester Hills",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "173212",
+    "phone_number": "+91 88942 11000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chester Hills Sales Office, near Cliff Hotel, Solan, Himachal Pradesh 173213",
+    "area": "173212",
+    "latitude": 30.9157551,
+    "longitude": 77.1037484,
+    "place_id": "ChIJm7-RIz2BDzkR539eelHCBI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7-RIz2BDzkR539eelHCBI4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:09:46"
+  },
+  {
+    "business_name": "Bhawani Bhandar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "General store",
+    "all_categories": "General store, Confectionery store, Department store, Real estate consultant",
+    "pincode": "173212",
+    "phone_number": "+91 98160 74733",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2, Anand Complex, Rajgarh Rd, Ward Number 7, Solan, Himachal Pradesh 173212",
+    "area": "Ward Number 7",
+    "latitude": 30.906888,
+    "longitude": 77.102428,
+    "place_id": "ChIJx-C7zLSGDzkRas3CH3YGf2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-C7zLSGDzkRas3CH3YGf2A",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:09:48"
+  }
+]

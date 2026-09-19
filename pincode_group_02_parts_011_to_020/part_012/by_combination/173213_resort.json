@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Chail Village Retreat",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "173213",
+    "phone_number": "+91 82620 00058",
+    "website": "http://www.chailvillageretreat.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shilru,sadhupul, Kandaghat, Himachal Pradesh 173215",
+    "area": "173213",
+    "latitude": 30.9792487,
+    "longitude": 77.16604459999999,
+    "place_id": "ChIJC8PkFfWBDzkRdI7zdb__QEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8PkFfWBDzkRdI7zdb__QEc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:11:18"
+  },
+  {
+    "business_name": "OYO 26861 Heaven's Retreat",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "173213",
+    "phone_number": "+91 124 620 1206",
+    "website": "https://www.oyorooms.com/48009/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "DHARON KI DHAR FORT, Himachal Pradesh 173212",
+    "area": "173213",
+    "latitude": 30.886748599999997,
+    "longitude": 77.1608931,
+    "place_id": "ChIJH6wWiyWCDzkRzTZ84CSC0lY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6wWiyWCDzkRzTZ84CSC0lY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:11:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Niwas",
+    "search_category": "Businesses",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "173222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "323F+GRP, Vill chanor, Teh, PO, Mamligh, Kandaghat, Himachal Pradesh 173222",
+    "area": "PO",
+    "latitude": 31.053828,
+    "longitude": 77.02456819999999,
+    "place_id": "ChIJpW7wAwB9BTkRB_THYrhJlj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW7wAwB9BTkRB_THYrhJlj4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:25:22"
+  },
+  {
+    "business_name": "Lok Mitra Kendra Mamligh",
+    "search_category": "Businesses",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "173222",
+    "phone_number": "+91 89882 05076",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Reliable Computer Enterprises, Mamligh, Himachal Pradesh 173222",
+    "area": "173222",
+    "latitude": 31.0543019,
+    "longitude": 77.0245856,
+    "place_id": "ChIJT90XViF9BTkRSNMGyIRb01U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT90XViF9BTkRSNMGyIRb01U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:25:25"
+  }
+]

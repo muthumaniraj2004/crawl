@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehta sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "173217",
+    "phone_number": "+91 85808 04712",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground floor, shiv Dharshan Building, Sanjauli Cemetery Rd, Cemetery, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Cemetery, Sanjauli",
+    "latitude": 31.1017257,
+    "longitude": 77.2026553,
+    "place_id": "ChIJkbcW_jiDBTkRzELE4JwlxuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbcW_jiDBTkRzELE4JwlxuM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:30"
+  },
+  {
+    "business_name": "Exalt Fitness Gym and Cafe",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "173217",
+    "phone_number": "+91 70183 10295",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "chakrera road, near shri sai hospital, Chakreda, Nahan, Himachal Pradesh 173001",
+    "area": "Chakreda",
+    "latitude": 30.556924199999997,
+    "longitude": 77.2875907,
+    "place_id": "ChIJU4tewVcNDzkRcAZs3DV5P84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4tewVcNDzkRcAZs3DV5P84",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:31"
+  }
+]

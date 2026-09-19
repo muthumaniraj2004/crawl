@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoolini Bites",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "173212",
+    "phone_number": "+91 80917 42241",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Dr. Y.S. Parmar university main gate, Rajgarh road, Nauni, Solan, Himachal Pradesh 173223",
+    "area": "Nauni",
+    "latitude": 30.8652514,
+    "longitude": 77.1690448,
+    "place_id": "ChIJGdbqyMCDDzkRsPkFpKLj5JY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdbqyMCDDzkRsPkFpKLj5JY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:24"
+  },
+  {
+    "business_name": "AM 2 PM RESTAURANT & HARMONY INN",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Extended stay hotel",
+    "pincode": "173212",
+    "phone_number": "+91 62306 41550",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kathiala, Solan, Himachal Pradesh 173211",
+    "area": "Kathiala",
+    "latitude": 30.893944899999997,
+    "longitude": 77.1041322,
+    "place_id": "ChIJjc3vGP6BDzkRa4vX42omcOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjc3vGP6BDzkRa4vX42omcOQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:24"
+  }
+]

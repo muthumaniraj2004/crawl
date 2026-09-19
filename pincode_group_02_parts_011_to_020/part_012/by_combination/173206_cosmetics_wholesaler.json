@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunshine Agencies",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Confectionery wholesaler",
+    "pincode": "173206",
+    "phone_number": "+91 86288 67536",
+    "website": "https://www.smartbiz.in/SunshineAgencies",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Amar building, near Railway Crossing, Chambaghat, Himachal Pradesh 173213",
+    "area": "Chambaghat",
+    "latitude": 30.9276636,
+    "longitude": 77.0970755,
+    "place_id": "ChIJPaAxSv6HDzkR2aEBVxC66jY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPaAxSv6HDzkR2aEBVxC66jY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:57:08"
+  },
+  {
+    "business_name": "Aditya Cosmetics & Undergarments",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Clothing store, Jeweler, Jewelry store, Lingerie store",
+    "pincode": "173206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Main Bazar, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "Main Bazar, Kasumpti",
+    "latitude": 31.0768155,
+    "longitude": 77.18363579999999,
+    "place_id": "ChIJhf_BUq14BTkR04cgFltrQ2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhf_BUq14BTkR04cgFltrQ2o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:57:10"
+  }
+]

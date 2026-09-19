@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Medical store",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "174004",
+    "phone_number": "+91 88940 21464",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gsss, near me, Chandpur, Himachal Pradesh 174004",
+    "area": "174004",
+    "latitude": 31.367441,
+    "longitude": 76.7484819,
+    "place_id": "ChIJ4ZVEBkQ_BTkRpBxD_gpibc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZVEBkQ_BTkRpBxD_gpibc0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:52"
+  },
+  {
+    "business_name": "PRABHUKRIPA AYURVEDIC CLINIC",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "174004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Shimla Dharamshala, NH, near Delag, Vill, Bhadrog, Ghumarwin, Himachal Pradesh 174021",
+    "area": "Vill",
+    "latitude": 31.4621502,
+    "longitude": 76.6895811,
+    "place_id": "ChIJIUq0a5k7BTkRCjIeVqNw_kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUq0a5k7BTkRCjIeVqNw_kk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Fitness Gym Pro",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "173215",
+    "phone_number": "+91 91093 72369",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kandaghat Chail Road, Kandaghat, Himachal Pradesh 173215",
+    "area": "173215",
+    "latitude": 30.967349199999997,
+    "longitude": 77.1074764,
+    "place_id": "ChIJ38vD-4SBDzkRdVLoxeEBg4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38vD-4SBDzkRdVLoxeEBg4c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:32"
+  },
+  {
+    "business_name": "Fitness Centre Kandaghat",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "173215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "X465+WW6, Kandaghat, Himachal Pradesh 173215",
+    "area": "173215",
+    "latitude": 30.9622779,
+    "longitude": 77.10975909999999,
+    "place_id": "ChIJb1hbNbGADzkRaZHaGDm5Ri0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1hbNbGADzkRaZHaGDm5Ri0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:32"
+  }
+]

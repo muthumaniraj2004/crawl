@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laziz pizza Solan",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "173211",
+    "phone_number": "+91 90159 08886",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bay pass road, near PNB bank, near gurukul School, Bhanat, Solan, Himachal Pradesh 173212",
+    "area": "Bhanat",
+    "latitude": 30.9130102,
+    "longitude": 77.0969614,
+    "place_id": "ChIJjaxxxUOHDzkRK3bY-FT7zoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjaxxxUOHDzkRK3bY-FT7zoc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:28"
+  },
+  {
+    "business_name": "Hunger'z Solan",
+    "search_category": "Family Restaurant",
+    "primary_category": "Italian restaurant",
+    "all_categories": "Italian restaurant",
+    "pincode": "173211",
+    "phone_number": "+91 97368 37000",
+    "website": "http://www.hungerzindia.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Rajgarh Rd, opp. Reliance Trends, Ward Number 7, Solan, Himachal Pradesh 173212",
+    "area": "Ward Number 7",
+    "latitude": 30.907595899999997,
+    "longitude": 77.1013159,
+    "place_id": "ChIJdREjiNiBDzkR64HNZZk_2qY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdREjiNiBDzkR64HNZZk_2qY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:30"
+  }
+]

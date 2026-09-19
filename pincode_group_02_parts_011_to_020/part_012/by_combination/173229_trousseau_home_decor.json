@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Headway Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "173229",
+    "phone_number": "+91 94664 08757",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 5, Second floor Cosmo plaza, Zirakpur, Punjab 140603",
+    "area": "173229",
+    "latitude": 30.637463,
+    "longitude": 76.82182,
+    "place_id": "ChIJEb7UpozrDzkRZ4-_1stSp58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEb7UpozrDzkRZ4-_1stSp58",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:30:22"
+  },
+  {
+    "business_name": "Rideaux Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store, Furniture store",
+    "pincode": "173229",
+    "phone_number": "+91 99150 17264",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SCF- 40, Phase 11, Sector 65, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 11, Sector 65",
+    "latitude": 30.6815309,
+    "longitude": 76.7443229,
+    "place_id": "ChIJjTAwWwXsDzkR65mP0E0HC4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTAwWwXsDzkR65mP0E0HC4o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:30:22"
+  }
+]

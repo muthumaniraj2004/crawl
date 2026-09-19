@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B-RAJ HAIR STUDIO",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "174004",
+    "phone_number": "+91 80910 18001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 60,
+    "address": "Gandhi chowk, distt, Ghumarwin, Himachal Pradesh 174021",
+    "area": "174004",
+    "latitude": 31.440590699999998,
+    "longitude": 76.7098104,
+    "place_id": "ChIJ_5uLxJ07BTkRIsF9oKiQ0Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5uLxJ07BTkRIsF9oKiQ0Zs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:47:22"
+  },
+  {
+    "business_name": "Angel's Collection",
+    "search_category": "Salon",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Jeweler, Lingerie store",
+    "pincode": "174004",
+    "phone_number": "+91 70184 56247",
+    "website": "http://angelsushop.in/",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "Near, Cinema Chowk, Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur",
+    "latitude": 31.5296748,
+    "longitude": 76.88897639999999,
+    "place_id": "ChIJpxGkfgQZBTkROcKfLQXEo-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxGkfgQZBTkROcKfLQXEo-Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:47:23"
+  }
+]

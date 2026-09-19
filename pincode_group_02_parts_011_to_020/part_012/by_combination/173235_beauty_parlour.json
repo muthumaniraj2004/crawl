@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yashu Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "173235",
+    "phone_number": "+91 98168 44110",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6WPQ+5RC, Darlaghat, Himachal Pradesh 171102",
+    "area": "173235",
+    "latitude": 31.2354427,
+    "longitude": 76.93952349999999,
+    "place_id": "ChIJRT8x8ZVtBTkRrxf5jh_rMp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRT8x8ZVtBTkRrxf5jh_rMp8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:37:52"
+  },
+  {
+    "business_name": "Sonal Beauty clinic",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "173235",
+    "phone_number": "+91 94188 52681",
+    "website": "http://zestimawellness.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghumarwin, Himachal Pradesh 171102",
+    "area": "173235",
+    "latitude": 31.2380064,
+    "longitude": 76.9426266,
+    "place_id": "ChIJ1y3hHyJsBTkRAAAAsEC1wRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1y3hHyJsBTkRAAAAsEC1wRA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:37:52"
+  }
+]

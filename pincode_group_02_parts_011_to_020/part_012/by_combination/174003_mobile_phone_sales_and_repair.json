@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Archiez Park",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Shopping mall, Store",
+    "pincode": "174003",
+    "phone_number": "+91 98160 87513",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nurpur, Himachal Pradesh 176202",
+    "area": "174003",
+    "latitude": 32.301243299999996,
+    "longitude": 75.8893138,
+    "place_id": "ChIJicfhmbeCHDkRq_6Xtvs6pIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicfhmbeCHDkRq_6Xtvs6pIQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:45:57"
+  },
+  {
+    "business_name": "Bodh Mobile Phone Workshop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "174003",
+    "phone_number": "+91 98165 26666",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop number A1, tibti market, Sarvari, Kullu, Himachal Pradesh 175101",
+    "area": "Sarvari",
+    "latitude": 31.9599196,
+    "longitude": 77.11415319999999,
+    "place_id": "ChIJveKxWjv3BDkRq4HSe0J9RCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveKxWjv3BDkRq4HSe0J9RCg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:45:58"
+  }
+]

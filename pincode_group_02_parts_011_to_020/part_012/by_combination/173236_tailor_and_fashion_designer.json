@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Novelty Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing alteration service",
+    "pincode": "173236",
+    "phone_number": "+91 70187 61393",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 9, Sood Complex, near Diamond, B.C.S., BCS Market, New Shimla, Shimla, Himachal Pradesh 171009",
+    "area": "B.C.S., BCS Market, New Shimla",
+    "latitude": 31.0848189,
+    "longitude": 77.1718166,
+    "place_id": "ChIJwS0d2rd4BTkRq_vmlmJxGEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS0d2rd4BTkRq_vmlmJxGEM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:39:07"
+  },
+  {
+    "business_name": "Ali Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "173236",
+    "phone_number": "+91 94180 90429",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 7,
+    "address": "BCS Main Road, New Shimla, Shimla, Himachal Pradesh 171009",
+    "area": "New Shimla",
+    "latitude": 31.0856605,
+    "longitude": 77.1722861,
+    "place_id": "ChIJ_5tu6Ld4BTkR5WC0Gh6w34o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5tu6Ld4BTkR5WC0Gh6w34o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:39:08"
+  }
+]

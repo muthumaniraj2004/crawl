@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apsara Dream Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Cosmetics store",
+    "pincode": "174003",
+    "phone_number": "+91 94180 00705",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Govt Ayurvedic Hospital Road, Bridge, Kandrour, Himachal Pradesh 174004",
+    "area": "174003",
+    "latitude": 31.392751399999998,
+    "longitude": 76.75327279999999,
+    "place_id": "ChIJfZstRII9BTkR1L6ZTPToipY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZstRII9BTkR1L6ZTPToipY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:54"
+  },
+  {
+    "business_name": "Riya Emporium",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "174003",
+    "phone_number": "+91 62833 21316",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "parking area, Log Huts Rd, near green forests cafe, Old Manali, Manali, Himachal Pradesh 175131",
+    "area": "Old Manali",
+    "latitude": 32.2495824,
+    "longitude": 77.18017739999999,
+    "place_id": "ChIJwfpiBDqHBDkRmUExJ4D5nGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfpiBDqHBDkRmUExJ4D5nGg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:54"
+  }
+]

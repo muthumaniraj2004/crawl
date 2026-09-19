@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dil se FoodishQ",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "173212",
+    "phone_number": "+91 78765 64549",
+    "website": "http://www.facebook.com/foodishqofficial",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nauni, Solan, Himachal Pradesh 173230",
+    "area": "Nauni",
+    "latitude": 30.8656093,
+    "longitude": 77.1690849,
+    "place_id": "ChIJm99qONJvBTkRWWSVyFdbcow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm99qONJvBTkRWWSVyFdbcow",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:22"
+  },
+  {
+    "business_name": "Gokul dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "173212",
+    "phone_number": "+91 78760 02802",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gokul dhaba, Kalka - Shimla Rd, near falcon hotel, Kandaghat, Himachal Pradesh 173215",
+    "area": "173212",
+    "latitude": 30.978984899999997,
+    "longitude": 77.1115634,
+    "place_id": "ChIJCzxrIzGBDzkR5l7vEsLtwjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzxrIzGBDzkR5l7vEsLtwjw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma brother",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "173214",
+    "phone_number": "+91 98163 40598",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "rameah cheog, 16, Solan, Himachal Pradesh 173217",
+    "area": "173214",
+    "latitude": 30.967393899999998,
+    "longitude": 77.2175223,
+    "place_id": "ChIJm140bJN_DzkRIYZqRKj_1a4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm140bJN_DzkRIYZqRKj_1a4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:20"
+  },
+  {
+    "business_name": "Himachal pradesh",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "173214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RXV2+7GG, Sector 2, Parwanoo, Himachal Pradesh 173220",
+    "area": "Sector 2",
+    "latitude": 30.8431882,
+    "longitude": 76.9513432,
+    "place_id": "ChIJc1YZZwCPDzkRfegw0RKqpZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1YZZwCPDzkRfegw0RKqpZE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:23"
+  }
+]

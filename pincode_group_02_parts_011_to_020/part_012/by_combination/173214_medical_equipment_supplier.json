@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Right aid Medicos",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "173214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 8, thakur Niwas, Jaunaji Rd, near Prem Ara, Ram Bazar, Solan, Himachal Pradesh 173212",
+    "area": "Ram Bazar",
+    "latitude": 30.9105308,
+    "longitude": 77.1069113,
+    "place_id": "ChIJowmjipOBDzkRHitqhN9_WXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowmjipOBDzkRHitqhN9_WXk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:40"
+  },
+  {
+    "business_name": "AlifecareFormulation",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "173214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DIC Industrial area, Plot No 147, Baddi, Himachal Pradesh 173205",
+    "area": "173214",
+    "latitude": 30.932589699999998,
+    "longitude": 76.8053305,
+    "place_id": "ChIJc2piRgD1DzkRBmGLpJ0magQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2piRgD1DzkRBmGLpJ0magQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:41"
+  }
+]

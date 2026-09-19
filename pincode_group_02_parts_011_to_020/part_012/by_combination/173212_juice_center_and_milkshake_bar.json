@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cool Point Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "173212",
+    "phone_number": "+91 87588 01497",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No.2, Soham Complex, Gurudwara Rd, Patrakar Colony, Jamnagar, Gujarat 361006",
+    "area": "Patrakar Colony",
+    "latitude": 22.4723498,
+    "longitude": 70.06555469999999,
+    "place_id": "ChIJ7YR0HKVqVzkRN_esSe7uVmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YR0HKVqVzkRN_esSe7uVmg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:21"
+  },
+  {
+    "business_name": "Rafi International fruit juice centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "173212",
+    "phone_number": "+91 98493 37782",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 299,
+    "address": "shop no 02, Noor arcade, street no 05, 7 Tombs Rd, opposite Chabra Enclave Road, Surya Nagar, Toli Chowki, Telangana 500008",
+    "area": "Aditya Nagar Colony, Surya Nagar, Toli Chowki",
+    "latitude": 17.3988598,
+    "longitude": 78.4115631,
+    "place_id": "ChIJe0nZKweXyzsRNzN4GxNSaZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0nZKweXyzsRNzN4GxNSaZ8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:23"
+  }
+]

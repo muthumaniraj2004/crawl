@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mani Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "173215",
+    "phone_number": "+91 98169 00427",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "C84V+F5H, SH 25, Mehatpur, Himachal Pradesh 174315",
+    "area": "173215",
+    "latitude": 31.406184,
+    "longitude": 76.34299589999999,
+    "place_id": "ChIJAUrkZmjOGjkR7t5_PJiX6Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUrkZmjOGjkR7t5_PJiX6Lw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:15:17"
+  },
+  {
+    "business_name": "Rajan Rai",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "173215",
+    "phone_number": "+91 93185 89003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main, Vikasnagar, Shimla, Himachal Pradesh 171009",
+    "area": "Vikasnagar",
+    "latitude": 31.080333,
+    "longitude": 77.1795277,
+    "place_id": "ChIJ8eFij855BTkRRQAJVm62gDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eFij855BTkRRQAJVm62gDs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:15:17"
+  }
+]

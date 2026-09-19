@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Medical Hall",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "173215",
+    "phone_number": "+91 98163 34325",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "NH21, opp. Shiv Mandir, Ner Chowk, Ner, Himachal Pradesh 175008",
+    "area": "173215",
+    "latitude": 31.608456099999998,
+    "longitude": 76.9133028,
+    "place_id": "ChIJAQBQg6EeBTkRyn4TlBGmWzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBQg6EeBTkRyn4TlBGmWzg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:25"
+  },
+  {
+    "business_name": "District Ayurvedic Hospital Una",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "2B-1/1005, Una - Amb Rd, Ram Nagar, Una, Himachal Pradesh 174303",
+    "area": "Ram Nagar",
+    "latitude": 31.467617599999997,
+    "longitude": 76.2654032,
+    "place_id": "ChIJ9YoScYHbGjkRyaRYm6OiQhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YoScYHbGjkRyaRYm6OiQhA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:14:26"
+  }
+]

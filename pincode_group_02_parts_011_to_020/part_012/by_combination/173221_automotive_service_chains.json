@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Automotive solutions",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "173221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7XGR+297, Mandi - Pathankot Rd, Palion, Guliana, Himachal Pradesh 176200",
+    "area": "173221",
+    "latitude": 32.275035599999995,
+    "longitude": 75.99091279999999,
+    "place_id": "ChIJp8aregBjGzkRx1Y6igR4dP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8aregBjGzkRx1Y6igR4dP8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:24"
+  },
+  {
+    "business_name": "All Car Machanic",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "173221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6PRQ+7MV, Nal, Himachal Pradesh 174011",
+    "area": "173221",
+    "latitude": 31.240749899999997,
+    "longitude": 76.7391779,
+    "place_id": "ChIJD6j4UrhBBTkRrc8IV3ISN7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6j4UrhBBTkRrc8IV3ISN7g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:24"
+  }
+]

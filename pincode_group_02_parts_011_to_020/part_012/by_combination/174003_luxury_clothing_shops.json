@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aurelia",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Children's clothing store, Women's clothing store",
+    "pincode": "174003",
+    "phone_number": "+91 189 222 6391",
+    "website": "https://shopforaurelia.com/",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "Shop 08, Maximus Mall, Dharamsala Rd, Chilgari, Dharamshala, Himachal Pradesh 176215",
+    "area": "Chilgari",
+    "latitude": 32.2042321,
+    "longitude": 76.3249237,
+    "place_id": "ChIJaTxh1-FQGzkRNQdHP6IWYjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTxh1-FQGzkRNQdHP6IWYjQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:54"
+  },
+  {
+    "business_name": "Ambe cloth house",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "174003",
+    "phone_number": "+91 98179 01691",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Berthin, Himachal Pradesh 174029",
+    "area": "174003",
+    "latitude": 31.4176221,
+    "longitude": 76.63846389999999,
+    "place_id": "ChIJPSdroe4xBTkR9Rlol0s3x9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSdroe4xBTkR9Rlol0s3x9U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:54"
+  }
+]

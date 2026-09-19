@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Enterprises",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie wholesaler",
+    "all_categories": "Lingerie wholesaler, Clothing store, Fabric wholesaler, Underwear store",
+    "pincode": "173222",
+    "phone_number": "+91 91331 12557",
+    "website": "https://www.youtube.com/@vijayaent",
+    "rating": 4.9,
+    "reviews_count": 137,
+    "address": "Nagari Market, 15-6-538/2, Begum Bazar, Ghansi Bazaar, Hyderabad, Telangana 500012",
+    "area": "Begum Bazar, Ghansi Bazaar",
+    "latitude": 17.374589099999998,
+    "longitude": 78.47295679999999,
+    "place_id": "ChIJPaEVIIeXyzsRNuBn5GnuaZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPaEVIIeXyzsRNuBn5GnuaZM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:54"
+  },
+  {
+    "business_name": "M.P. oswal",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, School supply store, Manufacturer",
+    "pincode": "173222",
+    "phone_number": "+91 79759 46619",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "147, Ragipet, Kumbarpet, Mamulpet, Chickpet, Bengaluru, Karnataka 560053",
+    "area": "Ragipet, Kumbarpet, Mamulpet, Chickpet",
+    "latitude": 12.967459199999999,
+    "longitude": 77.5781323,
+    "place_id": "ChIJ32ir7gkWrjsRRf5pSXjwbs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32ir7gkWrjsRRf5pSXjwbs4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradhan Enterprise",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "173223",
+    "phone_number": "+91 98305 78155",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 7,
+    "address": "R-Gopalpur, Rajarhat Main Rd, Gopalpur I, Dashadrone, Kolkata, West Bengal 700136",
+    "area": "Gopalpur I, Dashadrone, Kaikhali",
+    "latitude": 22.6295112,
+    "longitude": 88.4470731,
+    "place_id": "ChIJVby42s6f-DkRyQoLGaV5wQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVby42s6f-DkRyQoLGaV5wQA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:26:14"
+  },
+  {
+    "business_name": "Mittal Trading Company",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Adhesives & Glue Supplier, Brick Manufacturer, Building materials market, Chemical Manufacturer, Contractor, Pipe Manufacturer, Waterproofing service, Wire and cable supplier",
+    "pincode": "173223",
+    "phone_number": "N/A",
+    "website": "https://mittaltradingco.in/",
+    "rating": 4.3,
+    "reviews_count": 15,
+    "address": "F-33, Roorkee Rd, Irrigation Colony, Pallavpuram, Meerut, Uttar Pradesh 250110",
+    "area": "Irrigation Colony, Pallavpuram",
+    "latitude": 29.0559907,
+    "longitude": 77.71306489999999,
+    "place_id": "ChIJ4_JH23BlDDkRViZ3IVpfG80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_JH23BlDDkRViZ3IVpfG80",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:26:15"
+  }
+]

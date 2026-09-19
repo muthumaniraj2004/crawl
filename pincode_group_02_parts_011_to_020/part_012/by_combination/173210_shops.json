@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coindealer",
+    "search_category": "Shops",
+    "primary_category": "Coin dealer",
+    "all_categories": "Coin dealer",
+    "pincode": "173210",
+    "phone_number": "+91 98163 93113",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "H.NO 254, SADAR BAZAR, Dagshai, Solan, Himachal Pradesh 173210",
+    "area": "SADAR BAZAR",
+    "latitude": 30.884461499999997,
+    "longitude": 77.0521289,
+    "place_id": "ChIJP4CbElqHDzkRr2hlvdi6FlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4CbElqHDzkRr2hlvdi6FlM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:13"
+  },
+  {
+    "business_name": "MG SOLAN",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "173210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Mauza, Khali, Kumarhatti, Himachal Pradesh 173229",
+    "area": "Mauza",
+    "latitude": 30.888510399999998,
+    "longitude": 77.0571729,
+    "place_id": "ChIJh5_bSneBDzkRW395neDRyVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5_bSneBDzkRW395neDRyVc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:14"
+  }
+]

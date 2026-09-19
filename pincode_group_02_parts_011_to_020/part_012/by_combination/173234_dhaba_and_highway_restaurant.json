@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sherpa Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "173234",
+    "phone_number": "+91 94180 65822",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "24VH+J5V, National Highway 22, The Mall, Shimla, Shoghi, Himachal Pradesh 171219",
+    "area": "The Mall",
+    "latitude": 31.0441221,
+    "longitude": 77.1279144,
+    "place_id": "ChIJ6xG8c-t-BTkRWXrxaSu2IjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xG8c-t-BTkRWXrxaSu2IjY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:10"
+  },
+  {
+    "business_name": "Hotel Dilli Gate",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Guest house",
+    "pincode": "173234",
+    "phone_number": "+91 78075 41772",
+    "website": "https://kdilligate.wixsite.com/mysite-1",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kalka - Shimla Rd, near Bahara University, Waknaghat, Bani, Himachal Pradesh 173234",
+    "area": "173234",
+    "latitude": 30.999404199999997,
+    "longitude": 77.0906195,
+    "place_id": "ChIJ_XFBAuh9BTkRXXaD5A0IjI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XFBAuh9BTkRXXaD5A0IjI0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari Om Trading Company",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Wholesale Food Store",
+    "pincode": "173221",
+    "phone_number": "+91 98170 68451",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH3, Main chowk, Patlikuhal, Himachal Pradesh 175129",
+    "area": "173221",
+    "latitude": 32.1148387,
+    "longitude": 77.146979,
+    "place_id": "ChIJaVE5gxGLBDkR0dnmXCas-rY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVE5gxGLBDkR0dnmXCas-rY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:21:39"
+  },
+  {
+    "business_name": "Deepak Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Confectionery wholesaler",
+    "all_categories": "Confectionery wholesaler, Confectionery store",
+    "pincode": "173221",
+    "phone_number": "+91 78318 30376",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "181/6, Bhagani - Sahib Rd, opposite Ekta Colony, Bagran Road, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "Bagran Road",
+    "latitude": 30.441499999999998,
+    "longitude": 77.62193599999999,
+    "place_id": "ChIJo3R-gKcjDzkRbcuxRTsdjvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3R-gKcjDzkRbcuxRTsdjvk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:21:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parag Resort Kasauli",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Extended stay hotel, Resort hotel",
+    "pincode": "173229",
+    "phone_number": "N/A",
+    "website": "https://www.paragresortkasauli.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SH 2, Gandhi Gram, Himachal Pradesh 173229",
+    "area": "173229",
+    "latitude": 30.8667464,
+    "longitude": 77.0746534,
+    "place_id": "ChIJYYf8cQCFDzkRVquBcsyrL9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYf8cQCFDzkRVquBcsyrL9Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:30:19"
+  },
+  {
+    "business_name": "The Tribe Village",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "173229",
+    "phone_number": "+91 89688 83438",
+    "website": "http://www.thetribevillage.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sky High Hospitality Village Jabal, NH 907A, Kumarhatti, Himachal Pradesh 173229",
+    "area": "173229",
+    "latitude": 30.852726599999997,
+    "longitude": 77.0849234,
+    "place_id": "ChIJj1AEp7OFDzkReYlzi5soxJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1AEp7OFDzkReYlzi5soxJ4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:30:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karishma Saree Sale",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "173213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "173212, Upper Bazar, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.9104384,
+    "longitude": 77.10426199999999,
+    "place_id": "ChIJDX5GmUqBDzkRCkuJLLRaqFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDX5GmUqBDzkRCkuJLLRaqFM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:10:23"
+  },
+  {
+    "business_name": "Black dolphin",
+    "search_category": "Saree Showroom",
+    "primary_category": "Camping store",
+    "all_categories": "Camping store, Clothing store",
+    "pincode": "173213",
+    "phone_number": "+91 82196 09922",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Rajgarh Rd, opp. Palak saree, Bajoral Khurd, Solan, Himachal Pradesh 173211",
+    "area": "Bajoral Khurd",
+    "latitude": 30.9080826,
+    "longitude": 77.10131419999999,
+    "place_id": "ChIJCbJ0Fp2DDzkRuJiqRHV75a0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCbJ0Fp2DDzkRuJiqRHV75a0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:10:25"
+  }
+]

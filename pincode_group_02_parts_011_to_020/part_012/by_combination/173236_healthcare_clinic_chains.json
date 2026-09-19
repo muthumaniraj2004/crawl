@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Central Government Health Scheme ( CGHS)",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173236",
+    "phone_number": "+91 177 263 3984",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "443W+8W6, Chaura Maidan, Shimla, Himachal Pradesh 171004",
+    "area": "Chaura Maidan",
+    "latitude": 31.103287499999997,
+    "longitude": 77.1472587,
+    "place_id": "ChIJWfZ1lx15BTkRIv8ApSufStE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfZ1lx15BTkRIv8ApSufStE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:39:25"
+  },
+  {
+    "business_name": "SHIMLA HOME AND HOSPITAL PATIENT CARE SERVICES",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "173236",
+    "phone_number": "+91 85805 26416",
+    "website": "https://shimlapatientcare.nextincart.in/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Shop No. 5, Geeta Bhawan, Middle Bazar, Vikas Nagar, Gunj Bazar, Shimla, Himachal Pradesh 171009",
+    "area": "Middle Bazar, Vikas Nagar, Gunj Bazar",
+    "latitude": 31.1047762,
+    "longitude": 77.1723466,
+    "place_id": "ChIJv9q0IbZ5BTkRVj_r7u-IsQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9q0IbZ5BTkRVj_r7u-IsQY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:39:27"
+  }
+]

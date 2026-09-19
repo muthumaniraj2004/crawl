@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hills Edge Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Continental restaurant",
+    "all_categories": "Continental restaurant",
+    "pincode": "173222",
+    "phone_number": "+91 177 265 9801",
+    "website": "http://www.marinashimla.com/drink-dine/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "In Marina Hotel, Mall Rd, Shimla, Himachal Pradesh 171001",
+    "area": "Bemloi",
+    "latitude": 31.097351399999997,
+    "longitude": 77.17676759999999,
+    "place_id": "ChIJQZhYDL54BTkRG-AAXkKDdSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZhYDL54BTkRG-AAXkKDdSI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:45"
+  },
+  {
+    "business_name": "Essence Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Chinese takeaway, Indian restaurant, Indian takeaway, Thai restaurant",
+    "pincode": "173222",
+    "phone_number": "+91 82888 00038",
+    "website": "http://www.parkplaza.com/mohali-hotel-pb-140603/indpkzr/hotel/dining/detail",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Park Plaza, Ambala - Chandigarh, National Highway, Zirakpur, Punjab 140603",
+    "area": "173222",
+    "latitude": 30.637919999999998,
+    "longitude": 76.8222885,
+    "place_id": "ChIJ8UA4oyvrDzkRQhBE1CWJiqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UA4oyvrDzkRQhBE1CWJiqY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:45"
+  }
+]

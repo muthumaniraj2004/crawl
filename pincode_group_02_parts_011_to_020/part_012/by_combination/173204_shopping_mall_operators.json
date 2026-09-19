@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarath City Capital Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "173204",
+    "phone_number": "+91 40 6821 8333",
+    "website": "https://sarathcitycapitalmall.com/",
+    "rating": 4.5,
+    "reviews_count": 88512,
+    "address": "Gachibowli - Miyapur Rd, Kondapur, Whitefields, HITEC City, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Whitefields, HITEC City",
+    "latitude": 17.4575952,
+    "longitude": 78.3639493,
+    "place_id": "ChIJiRQq9MiTyzsRsgFp-ydO_Fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRQq9MiTyzsRsgFp-ydO_Fc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:53:39"
+  },
+  {
+    "business_name": "Global Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "173204",
+    "phone_number": "+91 11 4823 4444",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "MVX3+X6F, Sector 5, Panchkula, Haryana 134109",
+    "area": "Sector 5",
+    "latitude": 30.699943899999997,
+    "longitude": 76.853056,
+    "place_id": "ChIJ8S9xw2uTDzkRAOOSTXpgGs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8S9xw2uTDzkRAOOSTXpgGs4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 05:53:41"
+  }
+]

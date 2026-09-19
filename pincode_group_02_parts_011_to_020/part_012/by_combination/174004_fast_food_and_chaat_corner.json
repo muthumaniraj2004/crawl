@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaats & More",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "174004",
+    "phone_number": "+91 96626 62622",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No. 1, Gera's Park View, EON Free Zone, Kharadi, Pune, Maharashtra 411014",
+    "area": "EON Free Zone, Kharadi",
+    "latitude": 18.554315199999998,
+    "longitude": 73.9534657,
+    "place_id": "ChIJ3U0vrGPDwjsRgLHrGyQCu_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3U0vrGPDwjsRgLHrGyQCu_M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:38"
+  },
+  {
+    "business_name": "Jayaka Delhi chaatwala",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "174004",
+    "phone_number": "+91 93078 50501",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Gandhi Nagar, Vishrambag, Sangli Miraj Kupwad, Maharashtra 416415",
+    "area": "Gandhi Nagar, Vishrambag",
+    "latitude": 16.8470075,
+    "longitude": 74.59333409999999,
+    "place_id": "ChIJZ_xiCEQYwTsRLJf9YwVntrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_xiCEQYwTsRLJf9YwVntrs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:46:38"
+  }
+]

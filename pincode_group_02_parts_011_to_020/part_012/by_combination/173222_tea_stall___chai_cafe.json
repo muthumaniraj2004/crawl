@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kutty's Chai kada",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "173222",
+    "phone_number": "+91 81235 13993",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "XRR5+C3R, Krishnapura, Surathkal, Mangaluru, Karnataka 575014",
+    "area": "Krishnapura, Surathkal",
+    "latitude": 12.991102099999999,
+    "longitude": 74.80765559999999,
+    "place_id": "ChIJozLOn_RRozsRVBkWWOwYVXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozLOn_RRozsRVBkWWOwYVXc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:42"
+  },
+  {
+    "business_name": "Truptee Tea Suppliers",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "173222",
+    "phone_number": "+91 84590 96615",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Vaibhav Heritage-1, near New Krishna Mai Karyalay, Chawadi Chowk, Somwar Peth, Karad, Maharashtra 415110",
+    "area": "Chawadi Chowk, Somwar Peth",
+    "latitude": 17.2929745,
+    "longitude": 74.17985759999999,
+    "place_id": "ChIJbS0S4_yDwTsRGAQMADm4m90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbS0S4_yDwTsRGAQMADm4m90",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:43"
+  }
+]

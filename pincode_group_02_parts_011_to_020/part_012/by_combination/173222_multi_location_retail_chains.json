@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TopMart Supermarket",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "173222",
+    "phone_number": "+91 72044 47111",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Devasandra Main Rd, Priyadarshini Layout, Krishnarajapuram, Bengaluru, Karnataka 560036",
+    "area": "Priyadarshini Layout, Krishnarajapuram",
+    "latitude": 13.00438,
+    "longitude": 77.7084862,
+    "place_id": "ChIJ3_rABaURrjsRUR1XG6FsS_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_rABaURrjsRUR1XG6FsS_Q",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:25:20"
+  },
+  {
+    "business_name": "Reliance SMART Bazaar",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "173222",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-hypermarket-kandivali-mumbai-280355/Home",
+    "rating": 4,
+    "reviews_count": 10021,
+    "address": "Ground floor, Growels 101 Mall, Akurli Rd, near HT Interiors by HomeTown, Kandivali, Akurli Industry Estate, Kandivali East, Mumbai, Maharashtra 400101",
+    "area": "Kandivali, Akurli Industry Estate, Kandivali East",
+    "latitude": 19.2024485,
+    "longitude": 72.8601229,
+    "place_id": "ChIJd1VVVeW55zsRE8k0GSYPYNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1VVVeW55zsRE8k0GSYPYNM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:25:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Designers Rajanil",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Interior designer, Vastu consultant",
+    "pincode": "173221",
+    "phone_number": "+91 94180 15316",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 71,
+    "address": "Amb Road, near Rotary Chowk, Una, Himachal Pradesh 174303",
+    "area": "173221",
+    "latitude": 31.467022399999998,
+    "longitude": 76.263931,
+    "place_id": "ChIJCUDPprvbGjkR5iOQrDvhQJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUDPprvbGjkR5iOQrDvhQJw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:32"
+  },
+  {
+    "business_name": "Kataria Architect's",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "173221",
+    "phone_number": "+91 86996 42171",
+    "website": "http://katariaarchitects.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kalsera Nangal, Punjab 140126",
+    "area": "173221",
+    "latitude": 31.401381599999997,
+    "longitude": 76.3449157,
+    "place_id": "ChIJnZQA7_PPGjkRxantvX7GYwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZQA7_PPGjkRxantvX7GYwI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:32"
+  }
+]

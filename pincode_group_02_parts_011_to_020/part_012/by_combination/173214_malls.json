@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayaan Cinemas",
+    "search_category": "Malls",
+    "primary_category": "Movie theater",
+    "all_categories": "Movie theater",
+    "pincode": "173214",
+    "phone_number": "+91 94185 31520",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 67,
+    "address": "2nd floor G, 2 Mall, ayaan cinemas, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.9058125,
+    "longitude": 77.1070625,
+    "place_id": "ChIJWRFyIwCBDzkRB0KpDjBv5qY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRFyIwCBDzkRB0KpDjBv5qY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:13:54"
+  },
+  {
+    "business_name": "Om provisional store",
+    "search_category": "Malls",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "173214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village and post office, Near Panchayat Ghar, Salogra, Himachal Pradesh 173214",
+    "area": "173214",
+    "latitude": 30.932550199999998,
+    "longitude": 77.13193729999999,
+    "place_id": "ChIJN3RB90SBDzkRC7NO3a5dTsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3RB90SBDzkRC7NO3a5dTsE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:13:54"
+  }
+]

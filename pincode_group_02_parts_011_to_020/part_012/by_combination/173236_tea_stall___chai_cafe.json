@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "173236",
+    "phone_number": "+91 98056 99727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, near Apg Univarisity, Shimla, Himachal Pradesh 171219",
+    "area": "173236",
+    "latitude": 31.0549023,
+    "longitude": 77.1551726,
+    "place_id": "ChIJ0a3Lsxl_BTkRMAkjQiHdwaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a3Lsxl_BTkRMAkjQiHdwaM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:59"
+  },
+  {
+    "business_name": "Himachal Queen Tea Trader & M/f Co.",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Manufacturer",
+    "all_categories": "Tea Manufacturer",
+    "pincode": "173236",
+    "phone_number": "+91 94181 80452",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "177001, Main Bazaar Rd, Una, Himachal Pradesh 177001",
+    "area": "Kohta",
+    "latitude": 31.684139899999998,
+    "longitude": 76.5246039,
+    "place_id": "ChIJ3WEgkkrUBDkR2iALjlw-WlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3WEgkkrUBDkR2iALjlw-WlU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:59"
+  }
+]

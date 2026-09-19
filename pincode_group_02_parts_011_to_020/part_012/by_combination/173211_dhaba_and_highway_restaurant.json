@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "173211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kalka - Shimla Rd, Kandaghat, Himachal Pradesh 173215",
+    "area": "173211",
+    "latitude": 30.957792899999998,
+    "longitude": 77.10989529999999,
+    "place_id": "ChIJr_-sY3OBDzkRCF3No0TQdmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_-sY3OBDzkRCF3No0TQdmA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:24"
+  },
+  {
+    "business_name": "Saket Restaurant & Guest House",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Guest house",
+    "pincode": "173211",
+    "phone_number": "+91 98163 26413",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near gandhi gram, nahan rd , State Highway 2, Himachal Pradesh 173229",
+    "area": "173211",
+    "latitude": 30.8590642,
+    "longitude": 77.0771603,
+    "place_id": "ChIJ27s3lEGEDzkRIUIJ5RA6cdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27s3lEGEDzkRIUIJ5RA6cdo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:24"
+  }
+]

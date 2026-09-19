@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "174001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "opposite dev bhoomi hyundai, Bilaspur, Tihri, Himachal Pradesh 174001",
+    "area": "174001",
+    "latitude": 31.3580549,
+    "longitude": 76.7481147,
+    "place_id": "ChIJ0_GZt6U_BTkR3lLYbyMxUA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_GZt6U_BTkR3lLYbyMxUA0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:41:33"
+  },
+  {
+    "business_name": "Sanju Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "174001",
+    "phone_number": "+91 82198 80091",
+    "website": "https://sanjucraneservice.com/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "No 34, Neat HP Petrol Pump, Chowk Bamta, Nauni, Parangal, Himachal Pradesh 174001",
+    "area": "Chowk Bamta",
+    "latitude": 31.29328,
+    "longitude": 76.7731769,
+    "place_id": "ChIJD4na9LlBBTkRYU2zk2kx0ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4na9LlBBTkRYU2zk2kx0ZY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:41:35"
+  }
+]

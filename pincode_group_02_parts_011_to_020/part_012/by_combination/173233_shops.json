@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta sweet shop",
+    "search_category": "Shops",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, General store",
+    "pincode": "173233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Patta Mehlog, 252, Himachal Pradesh 173233",
+    "area": "173233",
+    "latitude": 30.9577171,
+    "longitude": 76.91020639999999,
+    "place_id": "ChIJTQ510BqLDzkRKi29U2zMwgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQ510BqLDzkRKi29U2zMwgQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:34:57"
+  },
+  {
+    "business_name": "Gupta Shop",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WWRF+X54, Nali, Himachal Pradesh 173233",
+    "area": "173233",
+    "latitude": 30.9423632,
+    "longitude": 76.92295299999999,
+    "place_id": "ChIJxW8eUACJDzkREandwm10d48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxW8eUACJDzkREandwm10d48",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:34:57"
+  }
+]

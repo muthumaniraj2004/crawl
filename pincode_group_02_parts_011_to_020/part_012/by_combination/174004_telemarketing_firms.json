@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SGT Infotech",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "174004",
+    "phone_number": "N/A",
+    "website": "https://sgtinfotech.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SGT Infotech, 174004, India",
+    "area": "174004",
+    "latitude": -1.8252372,
+    "longitude": 30.7641855,
+    "place_id": "ChIJGVbIkDExy2ARc-Y0wwNlgg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVbIkDExy2ARc-Y0wwNlgg4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:48:12"
+  },
+  {
+    "business_name": "Squadvoice",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Business center",
+    "all_categories": "Business center, Accounting firm",
+    "pincode": "174004",
+    "phone_number": "+91 90191 74025",
+    "website": "N/A",
+    "rating": 2.2,
+    "reviews_count": null,
+    "address": "Krishna Nagar, Deorikhurd, Torwa, Bilaspur, Chhattisgarh 495004",
+    "area": "Deorikhurd, Torwa",
+    "latitude": 22.0580864,
+    "longitude": 82.2010676,
+    "place_id": "ChIJQwOKH86rgmURoZLBkb-MZF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwOKH86rgmURoZLBkb-MZF4",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:48:13"
+  }
+]

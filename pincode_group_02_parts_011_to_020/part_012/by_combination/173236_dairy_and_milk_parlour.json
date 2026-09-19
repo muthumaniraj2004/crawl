@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "173236",
+    "phone_number": "+91 82192 15441",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Tanda Hospital Rd, Pushp Vihar Colony, Kangra, Bodar Balla, Himachal Pradesh 176001",
+    "area": "Pushp Vihar Colony",
+    "latitude": 32.1029698,
+    "longitude": 76.3005278,
+    "place_id": "ChIJT4DC63RPGzkRmW-vOJKFXdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4DC63RPGzkRmW-vOJKFXdw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:50"
+  },
+  {
+    "business_name": "Himachal Pradesh 173236",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "173236",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Himachal Pradesh",
+    "area": "173236",
+    "latitude": 31.0147876,
+    "longitude": 76.90668289999999,
+    "place_id": "ChIJI3kDAIBhBTkRIiiQRqex9Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3kDAIBhBTkRIiiQRqex9Ac",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:38:52"
+  }
+]

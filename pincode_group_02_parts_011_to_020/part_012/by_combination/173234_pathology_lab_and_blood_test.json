@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Lab - Atulaya Healthcare",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "173234",
+    "phone_number": "+91 93186 70077",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Shop No. 2, Saraj Sadan, near IAS Colony, Lower, Panthaghati, Shimla, Himachal Pradesh 171009",
+    "area": "Lower, Panthaghati",
+    "latitude": 31.065924199999998,
+    "longitude": 77.1779547,
+    "place_id": "ChIJFxcfQIx_BTkRIg5cgswo_kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxcfQIx_BTkRIg5cgswo_kg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:30"
+  },
+  {
+    "business_name": "Dr. Lal Path Labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "173234",
+    "phone_number": "N/A",
+    "website": "https://www.lalpathlabs.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35FJ+JVX, Kasumpti Colony, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "Kasumpti Colony, Kasumpti",
+    "latitude": 31.074121899999998,
+    "longitude": 77.1822498,
+    "place_id": "ChIJG7NNd01_BTkRL41_ilj3ugM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7NNd01_BTkRL41_ilj3ugM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:35:33"
+  }
+]

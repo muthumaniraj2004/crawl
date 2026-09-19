@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Look Changer",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "173236",
+    "phone_number": "+91 62809 64480",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VXHV+7WQ, natuonal highway 22, near Hotel Saakar & Restaurant, Jabli, Himachal Pradesh 173209",
+    "area": "173236",
+    "latitude": 30.878120799999998,
+    "longitude": 76.9948814,
+    "place_id": "ChIJBwtuDaaJDzkRB1u3zH2RK-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwtuDaaJDzkRB1u3zH2RK-g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:40:45"
+  },
+  {
+    "business_name": "Kalra Commercial Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Townhouse complex",
+    "all_categories": "Townhouse complex",
+    "pincode": "173236",
+    "phone_number": "+91 98163 52225",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "The Mall, Shimla, Himachal Pradesh 171001",
+    "area": "The Mall",
+    "latitude": 31.1069741,
+    "longitude": 77.1706744,
+    "place_id": "ChIJP83rcu14BTkRnE7cJej2xhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP83rcu14BTkRnE7cJej2xhE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:40:48"
+  }
+]

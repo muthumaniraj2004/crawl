@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Namami Chail Resort & Spa",
+    "search_category": "Spa",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "173214",
+    "phone_number": "+91 97190 61669",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Namami Chail Resorts & Spa, Tehsil, Village Dunno, Kandaghat, Chail, Himachal Pradesh 173217",
+    "area": "173214",
+    "latitude": 30.973809499999998,
+    "longitude": 77.17567,
+    "place_id": "ChIJqUeWJ0OBDzkRaZZnerSSLV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUeWJ0OBDzkRaZZnerSSLV8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:13:03"
+  },
+  {
+    "business_name": "Palak makeover",
+    "search_category": "Spa",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "173214",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/palakmakeovers17?igsh=Nzc0bGx1N2t5cXQz",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Circular Rd, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.9079342,
+    "longitude": 77.10415189999999,
+    "place_id": "ChIJV1jstO-BDzkRES9XAYK_JtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1jstO-BDzkRES9XAYK_JtA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:13:06"
+  }
+]

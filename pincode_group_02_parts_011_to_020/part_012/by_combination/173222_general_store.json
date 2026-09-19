@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parihar General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173222",
+    "phone_number": "+91 86270 11510",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Balagghat, Solan, Sairi, Himachal Pradesh 173207",
+    "area": "Balagghat",
+    "latitude": 31.072342,
+    "longitude": 77.0455115,
+    "place_id": "ChIJPWe8OEh7BTkRX8FUrhKpXPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWe8OEh7BTkRX8FUrhKpXPc",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:36"
+  },
+  {
+    "business_name": "THAKUR DAILY NEEDS",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173222",
+    "phone_number": "+91 94188 59956",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Thakur daily needs shop, Thakur Niwas, near Sharma Niwas Hospital Road, thakur niwas, Solan, Himachal Pradesh 173212",
+    "area": "thakur niwas",
+    "latitude": 30.9068954,
+    "longitude": 77.1074228,
+    "place_id": "ChIJzcr2XlWBDzkReXIvK09BxuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcr2XlWBDzkReXIvK09BxuQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:38"
+  }
+]

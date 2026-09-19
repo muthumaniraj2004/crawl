@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anantara Solan Homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "173213",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/anantarahs",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Anantara #338 Level 3, Amit Apartment, Mall Rd, opp. Railway Station Road, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.907301999999998,
+    "longitude": 77.0979,
+    "place_id": "ChIJSTP0hGeHDzkRpdlja9F-RkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTP0hGeHDzkRpdlja9F-RkA",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:11:19"
+  },
+  {
+    "business_name": "The Nest",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "173213",
+    "phone_number": "+91 94182 28826",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Subathu Rd, Deoghat, Solan, Himachal Pradesh 173211",
+    "area": "Deoghat",
+    "latitude": 30.9060885,
+    "longitude": 77.0874685,
+    "place_id": "ChIJK2BVaeeHDzkRp6Kfid3-VGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2BVaeeHDzkRp6Kfid3-VGg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:11:19"
+  }
+]

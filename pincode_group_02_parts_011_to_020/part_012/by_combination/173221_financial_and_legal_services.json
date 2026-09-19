@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jasleen Associate (Head Office)",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Accountant, Auditor, Tax consultant",
+    "pincode": "173221",
+    "phone_number": "+91 89680 62369",
+    "website": "http://www.ashubhardwaj.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Village Dohb, Post Office Dohb, Tehsil, Shahpur, Himachal Pradesh 176206",
+    "area": "Tehsil",
+    "latitude": 32.1990859,
+    "longitude": 76.181608,
+    "place_id": "ChIJy98En-NbGzkRYtfVL7nwioI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy98En-NbGzkRYtfVL7nwioI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:11"
+  },
+  {
+    "business_name": "Alpha Accounts Consultancy",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Business management consultant, Payroll Service Provider, Tax consultant",
+    "pincode": "173221",
+    "phone_number": "+91 80917 08922",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "01st Floor, Rawat Building, near Telephone Exchange, Manali, Himachal Pradesh 175131",
+    "area": "Manali",
+    "latitude": 32.244934,
+    "longitude": 77.1878725,
+    "place_id": "ChIJp9dlwpeHBDkRfgo536MolWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9dlwpeHBDkRfgo536MolWw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:23:11"
+  }
+]

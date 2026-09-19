@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homoeo Cares",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "173233",
+    "phone_number": "+91 98961 02480",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "260 MIG Housing Board Colony Kalka, Panchkula, Haryana 133302",
+    "area": "Housing Board Colony",
+    "latitude": 30.826657599999997,
+    "longitude": 76.9261989,
+    "place_id": "ChIJ_Y6wq-uPDzkRftA4-npQkV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Y6wq-uPDzkRftA4-npQkV0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:33:26"
+  },
+  {
+    "business_name": "Dr Sabharwal's Wound Care",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer, Cosmetic Products Manufacturer, Pharmaceuticals Exporter, Pharmaceutical company",
+    "pincode": "173233",
+    "phone_number": "+91 90567 70088",
+    "website": "https://www.drsabharwal.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "137, Village Buranwala, Barotiwala, Himachal Pradesh 174103",
+    "area": "173233",
+    "latitude": 30.915169199999998,
+    "longitude": 76.8347277,
+    "place_id": "ChIJ43SAUtCKDzkRGpgsTlT3pbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43SAUtCKDzkRGpgsTlT3pbg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:33:28"
+  }
+]

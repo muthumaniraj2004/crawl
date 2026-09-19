@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NU-VIBE",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "173233",
+    "phone_number": "+91 79735 49347",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NU-VIBE, 173233, India",
+    "area": "173233",
+    "latitude": 30.768190399999998,
+    "longitude": 75.8631332,
+    "place_id": "ChIJiQTdWhiPDzkReDqzws1aIRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQTdWhiPDzkReDqzws1aIRM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:34:09"
+  },
+  {
+    "business_name": "Eternal Weddingz",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event venue, Wedding service",
+    "pincode": "173233",
+    "phone_number": "+91 98926 20339",
+    "website": "https://www.eternalweddingz.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mittal Commercia, A-301, Mittal Industrial Estate, Marol, Saki Naka, Mumbai, Maharashtra 400059",
+    "area": "Mittal Industrial Estate, Marol, Saki Naka",
+    "latitude": 19.1044592,
+    "longitude": 72.8807628,
+    "place_id": "ChIJZab1KVCx5zsR1xEWmSioAIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZab1KVCx5zsR1xEWmSioAIo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:34:11"
+  }
+]

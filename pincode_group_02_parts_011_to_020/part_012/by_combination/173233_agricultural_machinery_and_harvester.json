@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajson Agro Engineers",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer, Agricultural Product Wholesaler, Agricultural service, Exporter, Importer, Manufacturer",
+    "pincode": "173233",
+    "phone_number": "+91 98151 50389",
+    "website": "https://sprayman.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rajson Agro Engineers, Jagera Rd, Sukhdev Nagar, Ahmedgarh, Punjab 148021",
+    "area": "Sukhdev Nagar",
+    "latitude": 30.680025999999998,
+    "longitude": 75.835284,
+    "place_id": "ChIJ7WGfWjl7EDkRrha2hZC9Evg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WGfWjl7EDkRrha2hZC9Evg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:34:47"
+  },
+  {
+    "business_name": "Krishi Vibhag Himachal Pradesh",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "173233",
+    "phone_number": "+91 129 241 3985",
+    "website": "https://agriculture.hp.gov.in/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "near Panchayat Bhawan, Waknaghat, Shimla, Himachal Pradesh 173234",
+    "area": "173233",
+    "latitude": 31.008955999999998,
+    "longitude": 77.090069,
+    "place_id": "ChIJi_scO8V9BTkRQqiz_mR-E1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_scO8V9BTkRQqiz_mR-E1A",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:34:48"
+  }
+]

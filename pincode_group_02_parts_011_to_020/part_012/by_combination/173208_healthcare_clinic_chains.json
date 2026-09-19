@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HillCrew Mediclinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "173208",
+    "phone_number": "+91 76819 89402",
+    "website": "https://www.hillcrew.in/about-us/",
+    "rating": 4.7,
+    "reviews_count": 228,
+    "address": "F7MC+JM7, Ajnoli, Una, Himachal Pradesh 174303",
+    "area": "Ajnoli",
+    "latitude": 31.483836999999998,
+    "longitude": 76.2717935,
+    "place_id": "ChIJq88JRgXRGjkRZR1AB0jGLWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq88JRgXRGjkRZR1AB0jGLWU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:01:10"
+  },
+  {
+    "business_name": "Kaalinga Healthcare",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "173208",
+    "phone_number": "+91 70188 11206",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 8,
+    "address": "Vill, Judi Kalan, Baddi, Himachal Pradesh 173205",
+    "area": "Vill",
+    "latitude": 30.9320384,
+    "longitude": 76.8146127,
+    "place_id": "ChIJgymwcQD1DzkRZIzN8Z81UlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgymwcQD1DzkRZIzN8Z81UlQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:01:10"
+  }
+]

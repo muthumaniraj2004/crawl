@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gautam Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "173223",
+    "phone_number": "+91 94184 61564",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stop, SH 6, Ochghat, Himachal Pradesh 173223",
+    "area": "173223",
+    "latitude": 30.8685792,
+    "longitude": 77.1454395,
+    "place_id": "ChIJ25BAQkODDzkRiZjyTSLcSao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25BAQkODDzkRiZjyTSLcSao",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:26:09"
+  },
+  {
+    "business_name": "Haridhima driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "173223",
+    "phone_number": "+91 82787 15087",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Village shakrala Po, Malyana, Shimla, Himachal Pradesh 171013",
+    "area": "Malyana",
+    "latitude": 31.0728361,
+    "longitude": 77.1924243,
+    "place_id": "ChIJ7c_vD5Z_BTkRm0RAtAP2lWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7c_vD5Z_BTkRm0RAtAP2lWw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:26:10"
+  }
+]

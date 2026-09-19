@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanghaik Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "173223",
+    "phone_number": "+91 98165 10382",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "1 Badaspull, Himachal Pradesh 171226",
+    "area": "173223",
+    "latitude": 30.9672892,
+    "longitude": 77.4432157,
+    "place_id": "ChIJpX2UDdFjDzkRhP00XbrPiIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpX2UDdFjDzkRhP00XbrPiIs",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:02"
+  },
+  {
+    "business_name": "Himachal Petro chemical",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "173223",
+    "phone_number": "+91 94173 34819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kapurthala Rd, Basti Bawa Khel, Jalandhar, Punjab 144002",
+    "area": "Basti Bawa Khel",
+    "latitude": 31.339187499999998,
+    "longitude": 75.5306875,
+    "place_id": "ChIJewmzoJtbGjkRglc9uG7K98I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewmzoJtbGjkRglc9uG7K98I",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:03"
+  }
+]

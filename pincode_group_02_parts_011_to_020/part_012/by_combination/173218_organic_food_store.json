@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "safely organic store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "173218",
+    "phone_number": "N/A",
+    "website": "http://safelyorganic.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Gurdev Cement Store, near Mahal Electric Store, City, Shri Hargobindpur, Punjab 143515",
+    "area": "City",
+    "latitude": 31.6869339,
+    "longitude": 75.46650439999999,
+    "place_id": "ChIJdRjcKf2xGzkRB6FZCUNzQrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRjcKf2xGzkRB6FZCUNzQrE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:17:47"
+  },
+  {
+    "business_name": "Grooveat",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Cosmetics store, Dairy store, Plastic Products Supplier",
+    "pincode": "173218",
+    "phone_number": "+91 78076 18394",
+    "website": "https://www.grooveat.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Narnhoon khas, Himachal Pradesh 176022",
+    "area": "173218",
+    "latitude": 32.1456537,
+    "longitude": 75.9180342,
+    "place_id": "ChIJFcc9XcxlGzkRORp76v6P0CI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcc9XcxlGzkRORp76v6P0CI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:17:48"
+  }
+]

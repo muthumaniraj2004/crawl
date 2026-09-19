@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sector 6 Market",
+    "search_category": "Shops",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "173220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "RXP9+X74, Sector-6, Parwanoo, Himachal Pradesh 173220",
+    "area": "Sector-6",
+    "latitude": 30.837381099999998,
+    "longitude": 76.9681827,
+    "place_id": "ChIJkbdppAOPDzkRtumKWgQ4ibY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbdppAOPDzkRtumKWgQ4ibY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:21:34"
+  },
+  {
+    "business_name": "Game zone",
+    "search_category": "Shops",
+    "primary_category": "Game store",
+    "all_categories": "Game store",
+    "pincode": "173220",
+    "phone_number": "+91 98059 45525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "1st Floor, near RD Stationery, Sector 1, Parwanoo, Himachal Pradesh 173220",
+    "area": "Sector 1",
+    "latitude": 30.8405752,
+    "longitude": 76.9583881,
+    "place_id": "ChIJHRRAHACPDzkRRGnt5bF-Qsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRRAHACPDzkRRGnt5bF-Qsk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:21:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Tulasi TVS Service Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Auto parts store, Motorcycle parts store, Scooter repair shop",
+    "pincode": "173230",
+    "phone_number": "+91 70952 20000",
+    "website": "https://sreetulasitvs.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "P, 51, Hi-Tension Rd, Naya Kranthi Nagar, Kapra, Secunderabad, Telangana 500062",
+    "area": "Naya Kranthi Nagar, Kapra",
+    "latitude": 17.484199999999998,
+    "longitude": 78.557525,
+    "place_id": "ChIJuYMS6mWbyzsRl_CSi5RCCvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYMS6mWbyzsRl_CSi5RCCvY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:31:43"
+  },
+  {
+    "business_name": "Bike Repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "173230",
+    "phone_number": "+91 62056 97667",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "near Pani Tanki, Purana Bazar, Dhanbad, Jharkhand 826007",
+    "area": "Purana Bazar",
+    "latitude": 23.7865033,
+    "longitude": 86.42377019999999,
+    "place_id": "ChIJbb0TFVO99jkRnLg6xTil88c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbb0TFVO99jkRnLg6xTil88c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:31:43"
+  }
+]

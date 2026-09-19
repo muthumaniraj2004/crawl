@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himachal Rides- Tour and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service, Tour agency",
+    "pincode": "173212",
+    "phone_number": "+91 98160 23118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12/5, Gan Ki Ser, Salogra, Himachal Pradesh 173214",
+    "area": "173212",
+    "latitude": 30.930447899999997,
+    "longitude": 77.128587,
+    "place_id": "ChIJjZv49BVLVG4R5DDgNHdvFXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZv49BVLVG4R5DDgNHdvFXU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:56"
+  },
+  {
+    "business_name": "Mohit tour & travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "173212",
+    "phone_number": "+91 82193 79409",
+    "website": "https://route-2784-travels.grexa.site/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "old, near by old bus stand, Lower Bazar, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Solan",
+    "latitude": 30.9107444,
+    "longitude": 77.1043643,
+    "place_id": "ChIJH7FQ8Q6HDzkRvsO-0SwnAbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7FQ8Q6HDzkRvsO-0SwnAbU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:08:57"
+  }
+]

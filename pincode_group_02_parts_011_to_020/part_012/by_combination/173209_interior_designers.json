@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandel Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "173209",
+    "phone_number": "+91 97368 31066",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bye paas, congress bhawan, Near, Dehunghat road, Deoghat, Solan, Himachal Pradesh 173212",
+    "area": "Deoghat",
+    "latitude": 30.9061666,
+    "longitude": 77.0885004,
+    "place_id": "ChIJmQO_4s6BDzkRDWHrW5Opu9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQO_4s6BDzkRDWHrW5Opu9M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:03:17"
+  },
+  {
+    "business_name": "Mansaayan Villas by Aurella Hospitality, Dharampur, Kasauli",
+    "search_category": "Interior Designers",
+    "primary_category": "Villa",
+    "all_categories": "Villa, Hotel, Home Stay, Resort hotel",
+    "pincode": "173209",
+    "phone_number": "N/A",
+    "website": "https://mansaayanvillas.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dharampur, Himachal Pradesh 173209",
+    "area": "173209",
+    "latitude": 30.891394899999998,
+    "longitude": 77.02849479999999,
+    "place_id": "ChIJ6bfrJDWHDzkRnVYMvqzizPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bfrJDWHDzkRnVYMvqzizPo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:03:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wellness 4",
+    "search_category": "Wellness Center",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "173222",
+    "phone_number": "+91 90827 73382",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 48,
+    "address": "3 floor, wellness 4 therapy center in, GNP ARCADIA MALL, near Pendharkar College burger King, Dombivli, Dombivli East, Maharashtra 421203",
+    "area": "Dombivli, Sudarshan Nagar, Dombivli East",
+    "latitude": 19.2131591,
+    "longitude": 73.1052854,
+    "place_id": "ChIJXVIwwqCV5zsRNnVBNg2ihsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVIwwqCV5zsRNnVBNg2ihsQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:24:33"
+  },
+  {
+    "business_name": "Health & wellness center",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "173222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Jeur tal.karmala, Maharashtra 413202",
+    "area": "173222",
+    "latitude": 17.7118741,
+    "longitude": 75.4551345,
+    "place_id": "ChIJSaO1gF47xDsRSXbGL8TOUlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaO1gF47xDsRSXbGL8TOUlU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:24:33"
+  }
+]

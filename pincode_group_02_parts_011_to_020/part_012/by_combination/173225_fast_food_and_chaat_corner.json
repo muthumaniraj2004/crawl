@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "173225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "96, Bara Bazar Rd, Mallital, Nainital, Uttarakhand 263001",
+    "area": "Mallital",
+    "latitude": 29.3925014,
+    "longitude": 79.4522187,
+    "place_id": "ChIJoV1hbAChoDkR0jcbOkUd9Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoV1hbAChoDkR0jcbOkUd9Z8",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:32"
+  },
+  {
+    "business_name": "Pappi Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Catering, Dessert shop, Snack bar, Grocery store",
+    "pincode": "173225",
+    "phone_number": "+91 95014 79981",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 96,
+    "address": "B-I-483, Bindraban Rd, Near Kundanpuri, Park Lane, Guru Nanak Pura, Kundan Puri, Civil Lines, Ludhiana, Punjab 141001",
+    "area": "Near Kundanpuri, Park Lane, Guru Nanak Pura, Kundan Puri, Civil Lines",
+    "latitude": 30.920306,
+    "longitude": 75.839159,
+    "place_id": "ChIJyZ3CVJCDGjkRm4ZKUcheRfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZ3CVJCDGjkRm4ZKUcheRfQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:32"
+  }
+]

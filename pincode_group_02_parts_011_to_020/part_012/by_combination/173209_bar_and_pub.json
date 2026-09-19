@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tandoori Night",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "173209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 32,
+    "address": "WX3J+7J8, MDR10, Kasauli, Garkhal, Himachal Pradesh 173201",
+    "area": "173209",
+    "latitude": 30.9031624,
+    "longitude": 76.9815723,
+    "place_id": "ChIJRZ2GGgOJDzkRVB7BtFJgS8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZ2GGgOJDzkRVB7BtFJgS8w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:02:41"
+  },
+  {
+    "business_name": "Ravi",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "173209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V3Q4+CV3, Kumarhatti, Himachal Pradesh 173229",
+    "area": "173209",
+    "latitude": 30.888510399999998,
+    "longitude": 77.0571729,
+    "place_id": "ChIJBfWWLgCHDzkRb0CuhQE3o5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfWWLgCHDzkRb0CuhQE3o5c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:02:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varun Beverages Ltd, Unit-I",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "174005",
+    "phone_number": "+91 95232 55623",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 38,
+    "address": "2, Gate No. 1, Ecotech-II, Udyog Vihar, Greater Noida, Uttar Pradesh 201306",
+    "area": "Ecotech-II, Udyog Vihar",
+    "latitude": 28.4948366,
+    "longitude": 77.4860831,
+    "place_id": "ChIJm2_R5TvqDDkRc83bBxoNKWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2_R5TvqDDkRc83bBxoNKWg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:48:23"
+  },
+  {
+    "business_name": "Far Way General Trading LLC",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Cosmetics wholesaler, Supplier, Food & Beverage Exporter, Food products supplier, Import export company, Wholesale grocer",
+    "pincode": "174005",
+    "phone_number": "N/A",
+    "website": "https://www.farwaycompany.com/",
+    "rating": 4.7,
+    "reviews_count": 87,
+    "address": "Metro Exit 2, New Century City Tower - 504 - near Deira City Centre - Dubai - United Arab Emirates",
+    "area": "Port Saeed - Deira",
+    "latitude": 25.254607099999998,
+    "longitude": 55.329668899999994,
+    "place_id": "ChIJI4DR0klDXz4RJ54Qh6UMdTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4DR0klDXz4RJ54Qh6UMdTY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:48:25"
+  }
+]

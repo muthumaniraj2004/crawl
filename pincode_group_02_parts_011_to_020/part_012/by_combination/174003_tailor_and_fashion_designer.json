@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New fashion Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "174003",
+    "phone_number": "+91 98163 25414",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kuthera-Smaila Rd, Smaila, Himachal Pradesh 175034",
+    "area": "174003",
+    "latitude": 31.519566599999997,
+    "longitude": 76.7644153,
+    "place_id": "ChIJB6Qw9SwjBTkRArh_fhH7WFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6Qw9SwjBTkRArh_fhH7WFg",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:47"
+  },
+  {
+    "business_name": "Deepak Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing store",
+    "pincode": "174003",
+    "phone_number": "+91 98828 70555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "X456+M2Q, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.9592879,
+    "longitude": 77.1102248,
+    "place_id": "ChIJ64k6NQX3BDkRyIIoeTQWCgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64k6NQX3BDkRyIIoeTQWCgw",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:44:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Chicken Centre",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "173225",
+    "phone_number": "+91 98780 84455",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 95,
+    "address": "Shop Number 1, Dugri Rd, Opposite Grand Marian Hotel, D-Block, Atam Nagar, Model Town, Ludhiana, Punjab 141002",
+    "area": "D-Block, Atam Nagar, Model Town",
+    "latitude": 30.880132999999997,
+    "longitude": 75.847674,
+    "place_id": "ChIJKRugTFeCGjkRwFrsODPQy0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRugTFeCGjkRwFrsODPQy0U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:24"
+  },
+  {
+    "business_name": "Meat Ustaad",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "173225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 14,
+    "address": "Booth no.20, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 10, Sector 64",
+    "latitude": 30.688218,
+    "longitude": 76.7441429,
+    "place_id": "ChIJvfEAWMbtDzkRszCqUFgPjfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfEAWMbtDzkRszCqUFgPjfE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:24"
+  }
+]

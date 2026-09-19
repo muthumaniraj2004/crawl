@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "173214",
+    "phone_number": "+91 98965 15358",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bazar, 2005 B-2, near Dharamandal, Pinjore, Haryana 134102",
+    "area": "173214",
+    "latitude": 30.797250599999998,
+    "longitude": 76.9165646,
+    "place_id": "ChIJY6zlF3ONDzkRJB8oUUJ12DU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6zlF3ONDzkRJB8oUUJ12DU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:33"
+  },
+  {
+    "business_name": "ELCURA OPD'S & LAB'S",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173214",
+    "phone_number": "N/A",
+    "website": "https://www.elcurahealthcare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaunaji Rd, Ram Bazar, Solan, Himachal Pradesh 173212",
+    "area": "Ram Bazar",
+    "latitude": 30.910445499999998,
+    "longitude": 77.1070505,
+    "place_id": "ChIJL3DSQu-BDzkR1LjKvmJzcOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3DSQu-BDzkR1LjKvmJzcOU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:34"
+  }
+]

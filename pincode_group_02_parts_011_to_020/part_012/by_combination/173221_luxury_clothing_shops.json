@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Absolute fashion hub",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "173221",
+    "phone_number": "+91 85808 10874",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V. P. O, tehsil, Nagwain, aut, Himachal Pradesh 175121",
+    "area": "tehsil",
+    "latitude": 31.8150275,
+    "longitude": 77.180149,
+    "place_id": "ChIJtUKPcQD5BDkRaGi3y77yf6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUKPcQD5BDkRaGi3y77yf6c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:02"
+  },
+  {
+    "business_name": "Royal Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "173221",
+    "phone_number": "+91 90151 60890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village and post office, Patlikuhal, Himachal Pradesh 175129",
+    "area": "173221",
+    "latitude": 32.116431999999996,
+    "longitude": 77.14653,
+    "place_id": "ChIJY_RyYQCLBDkRSRJUVHJ8LKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_RyYQCLBDkRSRJUVHJ8LKI",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:22:02"
+  }
+]

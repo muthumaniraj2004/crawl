@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IK ONKAR DESIGN",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "173208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tehsil, 120, Arki, Himachal Pradesh 173208",
+    "area": "173208",
+    "latitude": 31.151868399999998,
+    "longitude": 76.968627,
+    "place_id": "ChIJ09ZmpOVvBTkRT4jt53YmXZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09ZmpOVvBTkRT4jt53YmXZk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:01:26"
+  },
+  {
+    "business_name": "Kalia Engineering Group",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "173208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Bus Stand, Arki, Himachal Pradesh 173208",
+    "area": "173208",
+    "latitude": 31.154247899999998,
+    "longitude": 76.9693143,
+    "place_id": "ChIJL9ELquNvBTkROgRqWzLdDus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9ELquNvBTkROgRqWzLdDus",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:01:27"
+  }
+]

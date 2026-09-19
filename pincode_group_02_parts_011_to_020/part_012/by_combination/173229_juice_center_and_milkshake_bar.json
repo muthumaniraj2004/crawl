@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Galaxy",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Juice shop",
+    "pincode": "173229",
+    "phone_number": "+91 217 359 0591",
+    "website": "http://www.juicegalaxy.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Laxmi Villa 7, Sanjay Gandhi Nagar Rd, near LFC School, Chowk, Solapur, Maharashtra 413003",
+    "area": "Chowk",
+    "latitude": 17.653783999999998,
+    "longitude": 75.9092368,
+    "place_id": "ChIJFQnkMQ3axTsRqcxarnaIZoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQnkMQ3axTsRqcxarnaIZoE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:29:21"
+  },
+  {
+    "business_name": "Haji Ali Fresh Fruit Juices",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "173229",
+    "phone_number": "+91 70349 99004",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Road No : 3, 8-2, 277/12, UBI Colony, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills",
+    "latitude": 17.424686599999998,
+    "longitude": 78.4375646,
+    "place_id": "ChIJSVF3EDeXyzsRER1hCWZO5OM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVF3EDeXyzsRER1hCWZO5OM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:29:21"
+  }
+]

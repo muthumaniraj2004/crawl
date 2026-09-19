@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Enterprises",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "173225",
+    "phone_number": "+91 97369 40253",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 52,
+    "address": "Opposite Industrial Area Main Gate, Bhutti Colony, Himachal Pradesh 175126",
+    "area": "Bhutti Colony",
+    "latitude": 31.9082789,
+    "longitude": 77.13187549999999,
+    "place_id": "ChIJv7br2vr3BDkR2WMs4E1wyZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7br2vr3BDkR2WMs4E1wyZk",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:22"
+  },
+  {
+    "business_name": "Jai Lakshmi trading company",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "173225",
+    "phone_number": "+91 98054 42952",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "WWWC+9X5, Himachal Pradesh 173233",
+    "area": "173225",
+    "latitude": 30.9458977,
+    "longitude": 76.92249919999999,
+    "place_id": "ChIJ760-n8yJDzkRYj9X9Xeh6QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ760-n8yJDzkRYj9X9Xeh6QU",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:27:23"
+  }
+]

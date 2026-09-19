@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dinesh Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "173223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, New, Rajgarh, Himachal Pradesh 173101",
+    "area": "173223",
+    "latitude": 30.850014899999998,
+    "longitude": 77.2993899,
+    "place_id": "ChIJEyWqnOt7DzkRGDfJXAFHNvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyWqnOt7DzkRGDfJXAFHNvY",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:26:05"
+  },
+  {
+    "business_name": "Spiti Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "173223",
+    "phone_number": "+91 70181 78956",
+    "website": "https://spititaxiservicewebsite.vercel.app/#tours",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Zero point Oachghat, Himachal Pradesh 173223",
+    "area": "173223",
+    "latitude": 30.867972599999998,
+    "longitude": 77.1407394,
+    "place_id": "ChIJU7Z7m_CDDzkR6UprS5zGY8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7Z7m_CDDzkR6UprS5zGY8o",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:26:09"
+  }
+]

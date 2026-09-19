@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Express Cargo Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Freight Forwarding Agency",
+    "pincode": "174004",
+    "phone_number": "+91 22 6615 3357",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Shop No.4 67/69, Mohammed Ali Road, Dada Manzil, Ground Floor, Opp. H. D. F. C. Bank,, Mumbai, Maharashtra 400003",
+    "area": "Nakhuda Mohalla, Masjid Bandar West, Masjid Bandar",
+    "latitude": 18.9525349,
+    "longitude": 72.834293,
+    "place_id": "ChIJTQFOmSTO5zsRgMNwpNBVZQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQFOmSTO5zsRgMNwpNBVZQo",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:47:56"
+  },
+  {
+    "business_name": "Andhra Cargo Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "174004",
+    "phone_number": "+91 40 5646 0934",
+    "website": "http://andhracargoservice.com/",
+    "rating": 3.6,
+    "reviews_count": 23,
+    "address": "No.5-8, 332/10, Medwin Lane, near Shalimar Garden, near Medwin Lane, Mahesh Nagar Colony, Nampally, Hyderabad, Telangana 500001",
+    "area": "Mahesh Nagar Colony, Nampally",
+    "latitude": 17.393418,
+    "longitude": 78.4709936,
+    "place_id": "ChIJLZBwP2OXyzsRCCV60oN9b5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZBwP2OXyzsRCCV60oN9b5k",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:47:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE LAND FINDER",
+    "search_category": "Market Research Firms",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "173213",
+    "phone_number": "+91 93173 60077",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kw substation, Co walia niwas, near 33, New Kather, Solan, Himachal Pradesh 173213",
+    "area": "New Kather",
+    "latitude": 30.9209008,
+    "longitude": 77.0951814,
+    "place_id": "ChIJAWcUmxWHDzkRfASJQWNFfAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWcUmxWHDzkRfASJQWNFfAM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:02"
+  },
+  {
+    "business_name": "HT Techno Riders",
+    "search_category": "Market Research Firms",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "173213",
+    "phone_number": "+91 82197 29384",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Thari, near Range Office, Subathu, Himachal Pradesh 173213",
+    "area": "Chambaghat",
+    "latitude": 30.9208237,
+    "longitude": 77.09880369999999,
+    "place_id": "ChIJe5TknMyHDzkRSHgWG0m4jXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5TknMyHDzkRSHgWG0m4jXE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:12:03"
+  }
+]

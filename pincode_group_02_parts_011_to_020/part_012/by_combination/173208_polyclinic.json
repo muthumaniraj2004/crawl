@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghu Oral Rehablitation Center",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173208",
+    "phone_number": "+91 94182 91642",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Showroom no 9, Nalagarh Bypass Rd, near Hanuman mandirPhase, Phase Number 1, Nalagarh, Himachal Pradesh 174101",
+    "area": "Phase Number 1",
+    "latitude": 31.038828,
+    "longitude": 76.70326399999999,
+    "place_id": "ChIJuwRDYNtbBTkReuiaEAX-e6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwRDYNtbBTkReuiaEAX-e6c",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:01:05"
+  },
+  {
+    "business_name": "ARION HEALTHCARE (BADDI)",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "173208",
+    "phone_number": "+91 98160 05029",
+    "website": "https://arionhealthcare.in/",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "XQG6+MG9, Kishan Pura, Baddi, Himachal Pradesh 174101",
+    "area": "173208",
+    "latitude": 30.976654999999997,
+    "longitude": 76.76136699999999,
+    "place_id": "ChIJ6TKfDwBfBTkRieLMI0xJjoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TKfDwBfBTkRieLMI0xJjoE",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:01:06"
+  }
+]

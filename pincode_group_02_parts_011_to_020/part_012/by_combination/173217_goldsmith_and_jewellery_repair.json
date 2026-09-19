@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AM Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry manufacturer",
+    "all_categories": "Jewelry manufacturer",
+    "pincode": "173217",
+    "phone_number": "+91 86792 83352",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bus stand, near by Nerchowk, SBI bank, Ner Chowk, Ner, Himachal Pradesh 175008",
+    "area": "SBI bank",
+    "latitude": 31.6075126,
+    "longitude": 76.91277509999999,
+    "place_id": "ChIJiyKGaJ8fBTkRcMiy2n6AVe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyKGaJ8fBTkRcMiy2n6AVe0",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:12"
+  },
+  {
+    "business_name": "Thakur Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "173217",
+    "phone_number": "+91 177 265 8088",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "Shop No, 72 & 40/3, Middle Bazar, near Shiv Mandir, Middle Bazar, Lower Bazar, Shimla, Himachal Pradesh 171001",
+    "area": "Middle Bazar, Lower Bazar",
+    "latitude": 31.1042983,
+    "longitude": 77.1740063,
+    "place_id": "ChIJYVYGZ5N4BTkRyy5SYVednoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVYGZ5N4BTkRyy5SYVednoM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:16:14"
+  }
+]

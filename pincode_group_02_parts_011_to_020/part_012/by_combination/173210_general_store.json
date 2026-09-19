@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shraddha Super Store",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "173210",
+    "phone_number": "+91 70166 70418",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 170,
+    "address": "B305, Sri Nagar Society, Junagadh, Gujarat 362001",
+    "area": "Sri Nagar Society",
+    "latitude": 21.504979799999997,
+    "longitude": 70.4287762,
+    "place_id": "ChIJG1X4uTL_VzkRPaTvzTa6W8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1X4uTL_VzkRPaTvzTa6W8s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:04:22"
+  },
+  {
+    "business_name": "Ram Krishan & Sons",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery delivery service, Supermarket",
+    "pincode": "173210",
+    "phone_number": "+91 98056 59777",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main Chowk, Panthaghati, Shimla, Himachal Pradesh 171009",
+    "area": "Panthaghati",
+    "latitude": 31.070850999999998,
+    "longitude": 77.1800169,
+    "place_id": "ChIJqfztKkx_BTkRpmI7vS9LR5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfztKkx_BTkRpmI7vS9LR5Y",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:04:24"
+  }
+]

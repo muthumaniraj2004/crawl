@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Twinkle Daily Needs Shop",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "173225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "WX2J+C67, MDR10, Kasauli, Garkhal, Himachal Pradesh 173201",
+    "area": "173225",
+    "latitude": 30.90103,
+    "longitude": 76.980539,
+    "place_id": "ChIJjXnanemIDzkRBH_Cc95ft94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXnanemIDzkRBH_Cc95ft94",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:29:07"
+  },
+  {
+    "business_name": "Venus Gift Shop Centre",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "173225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 15,
+    "address": "36V3+VGJ, Bhattakufer, Shimla, Himachal Pradesh 171006",
+    "area": "Bhattakufer",
+    "latitude": 31.094716799999997,
+    "longitude": 77.2037766,
+    "place_id": "ChIJxxi-ZQ6CBTkRUKu1gOKu4_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxi-ZQ6CBTkRUKu1gOKu4_w",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:29:08"
+  }
+]

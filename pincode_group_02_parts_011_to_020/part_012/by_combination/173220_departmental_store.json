@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajpal Departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173220",
+    "phone_number": "+91 79880 93138",
+    "website": "https://www.instagram.com/pratham_rajpal?igsh=MTdhNmRjY2p4bnp6aA%3D%3D&utm_source=qr",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Pinjore-Baddi-Nalagarh Rd, Anchal Vihar Colony, Lohgarh, Pinjore, Basdevpura, Haryana 134102",
+    "area": "Anchal Vihar Colony, Lohgarh, Pinjore",
+    "latitude": 30.8065167,
+    "longitude": 76.8968683,
+    "place_id": "ChIJy2w1336NDzkR81ouhuSHEiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2w1336NDzkR81ouhuSHEiQ",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:19:38"
+  },
+  {
+    "business_name": "SHRI BALAJI DEPARTMENT STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "173220",
+    "phone_number": "+91 89506 95304",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vpo. Chunna Bhatti, Chandi Mandir, Haryana 134107",
+    "area": "Jagatpur",
+    "latitude": 30.7427273,
+    "longitude": 76.9040964,
+    "place_id": "ChIJD6NEYTCSDzkRAAAA0LGm00g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6NEYTCSDzkRAAAA0LGm00g",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:19:39"
+  }
+]

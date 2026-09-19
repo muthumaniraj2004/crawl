@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Electronic",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "173214",
+    "phone_number": "+91 94180 61333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mall Rd, Mall Road, Lawi Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Mall Road, Lawi Khurd",
+    "latitude": 30.9099412,
+    "longitude": 77.102948,
+    "place_id": "ChIJLXscPweBDzkRFzDlbwowiuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXscPweBDzkRFzDlbwowiuM",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:13:27"
+  },
+  {
+    "business_name": "Vivo Service center Solan",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "173214",
+    "phone_number": "+91 1800 208 3388",
+    "website": "http://vivo.com/in/support",
+    "rating": 4.3,
+    "reviews_count": 46,
+    "address": "Hall No. 501, Second Floor, Commercial Block Chester Hill, Mall Rd, Solan, Himachal Pradesh 173213",
+    "area": "173214",
+    "latitude": 30.9155296,
+    "longitude": 77.1038914,
+    "place_id": "ChIJ8zA12LSGDzkRkALK9SPYf6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zA12LSGDzkRkALK9SPYf6s",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:13:28"
+  }
+]

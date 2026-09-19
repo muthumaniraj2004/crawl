@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitya Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "173211",
+    "phone_number": "+91 88947 37024",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Chowk Bazar, Lower Bazar, Ganj Bazar, Ram Bazar, Shimla, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ganj Bazar, Ram Bazar",
+    "latitude": 30.908896,
+    "longitude": 77.106319,
+    "place_id": "ChIJKRZtT0qBDzkRz60YtB51b_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRZtT0qBDzkRz60YtB51b_U",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:33"
+  },
+  {
+    "business_name": "Shanker Enterprise",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, General store",
+    "pincode": "173211",
+    "phone_number": "+91 94180 23741",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Upper Bazar, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Upper Bazar, Bajoral Khurd",
+    "latitude": 30.909869099999998,
+    "longitude": 77.104759,
+    "place_id": "ChIJyQSihkqBDzkRqUuJDdt878M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQSihkqBDzkRqUuJDdt878M",
+    "part_id": "part_012",
+    "crawled_at": "2026-09-19 06:06:33"
+  }
+]
