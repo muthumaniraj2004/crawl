@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayak shoe garden",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "182311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Reasi Station Rd, Reasi, Jammu and Kashmir 182311",
+    "area": "182311",
+    "latitude": 33.0829727,
+    "longitude": 74.85276569999999,
+    "place_id": "ChIJu4pVP5FxHjkRZrSMvmg4kQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4pVP5FxHjkRZrSMvmg4kQo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:26:21"
+  },
+  {
+    "business_name": "Zero Point",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "182311",
+    "phone_number": "+91 97967 57575",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "Zero Point, Lal Chowk, Srinagar, Jammu and Kashmir 190001",
+    "area": "Lal Chowk",
+    "latitude": 34.071053899999995,
+    "longitude": 74.8103697,
+    "place_id": "ChIJJ9ADHmiP4TgRrZp77Htaq9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9ADHmiP4TgRrZp77Htaq9I",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:26:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Victoria Estate Office",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "184101",
+    "phone_number": "+91 98552 14555",
+    "website": "http://www.sbrealtech.com/",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "8M6G+8JG, Defence Rd, Pangoli, Punjab 145001",
+    "area": "184101",
+    "latitude": 32.310812399999996,
+    "longitude": 75.6765901,
+    "place_id": "ChIJNUVUXFB-HDkRF_auMArLaj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUVUXFB-HDkRF_auMArLaj4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:09"
+  },
+  {
+    "business_name": "Sant Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Townhouse complex",
+    "all_categories": "Townhouse complex",
+    "pincode": "184101",
+    "phone_number": "+91 98144 44254",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 53,
+    "address": "Unnamed Road, Gandran Lahri, Punjab 145023",
+    "area": "184101",
+    "latitude": 32.296962,
+    "longitude": 75.6363978,
+    "place_id": "ChIJ4drBqpV_HDkRgNduGyv47zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4drBqpV_HDkRgNduGyv47zA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:09"
+  }
+]

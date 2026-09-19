@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asraria animal care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Veterinary pharmacy",
+    "pincode": "182203",
+    "phone_number": "+91 80823 14764",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Faridiya road, near SFC office, Kishtwar, Jammu and Kashmir 182204",
+    "area": "182203",
+    "latitude": 33.3151151,
+    "longitude": 75.76306559999999,
+    "place_id": "ChIJPw3ZvMALHTkRcjMbDwHiNXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPw3ZvMALHTkRcjMbDwHiNXY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:12:28"
+  },
+  {
+    "business_name": "The Dog Guy",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "182203",
+    "phone_number": "+91 88998 08088",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 80,
+    "address": "Sudhowala, Uttarakhand 248015",
+    "area": "182203",
+    "latitude": 30.3451748,
+    "longitude": 77.9361346,
+    "place_id": "ChIJ7zrYkxHVCDkR-E7jokNa1j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zrYkxHVCDkR-E7jokNa1j4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:12:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRTC Booking Office",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "184102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9HMX+3CX, Lakhanpur, Rakh Jahfar, 184152",
+    "area": "184102",
+    "latitude": 32.3827456,
+    "longitude": 75.59861599999999,
+    "place_id": "ChIJ-xT4O3V7HDkRkdauw2NeLEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xT4O3V7HDkRkdauw2NeLEo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:37:04"
+  },
+  {
+    "business_name": "Gupta Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "184102",
+    "phone_number": "+91 98145 75486",
+    "website": "N/A",
+    "rating": 2.2,
+    "reviews_count": 16,
+    "address": "Gurdaspur road, Pathankot, Punjab 145001",
+    "area": "184102",
+    "latitude": 32.2731709,
+    "longitude": 75.64281059999999,
+    "place_id": "ChIJy6m0JEB_HDkR1OhhYbRTJlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6m0JEB_HDkR1OhhYbRTJlg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:37:06"
+  }
+]

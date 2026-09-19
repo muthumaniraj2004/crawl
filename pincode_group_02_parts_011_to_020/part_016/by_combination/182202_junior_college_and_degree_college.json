@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "College entrance area",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "182202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4HV3+W68, Thalanga, Doda, Jammu and Kashmir 182221",
+    "area": "Thalanga",
+    "latitude": 33.1448199,
+    "longitude": 75.5531665,
+    "place_id": "ChIJs9S_0WylHTkR8A7t9FTgnS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9S_0WylHTkR8A7t9FTgnS4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:11:43"
+  },
+  {
+    "business_name": "Govt Degree College Majalta",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "182202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P4HX+2W2, Mansar Udhampur Rd, Buttal, Thalora, Jammu and Kashmir 182127",
+    "area": "182202",
+    "latitude": 32.7281293,
+    "longitude": 75.1495575,
+    "place_id": "ChIJhebh-oUvHDkRr5035ljqr90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhebh-oUvHDkRr5035ljqr90",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:11:45"
+  }
+]

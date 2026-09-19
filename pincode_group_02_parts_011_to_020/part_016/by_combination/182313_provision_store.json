@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "182313",
+    "phone_number": "+91 94191 12130",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Laxmipura Jammu Jammu and Kashmir, 180001",
+    "area": "Chinore",
+    "latitude": 32.7763448,
+    "longitude": 74.8291744,
+    "place_id": "ChIJg3HMdIKHHjkR8oErXvnGaJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3HMdIKHHjkR8oErXvnGaJQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:29:34"
+  },
+  {
+    "business_name": "Modern Karyana Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182313",
+    "phone_number": "+91 97962 91095",
+    "website": "https://m.facebook.com/modernkaryanastore/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Birpur Sidco, Industrial Complex, Bari Brahmana, Samba, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.644934899999996,
+    "longitude": 74.89958759999999,
+    "place_id": "ChIJHea-xl2cHjkR3uIM8sDrjl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHea-xl2cHjkR3uIM8sDrjl8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:29:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HUSTLER",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "182142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NEW PALACE HOTEL, Batote, Jammu and Kashmir 182143",
+    "area": "182142",
+    "latitude": 33.1229789,
+    "longitude": 75.3216585,
+    "place_id": "ChIJxaxkff3HHTkRSLeUYDamoE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaxkff3HHTkRSLeUYDamoE4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:56:12"
+  },
+  {
+    "business_name": "goSTOPS Plus Katra",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Student dormitory, Hotel",
+    "pincode": "182142",
+    "phone_number": "N/A",
+    "website": "https://gostops.com/stay/Katra/katra-hostel/?utm_source=gmb",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "XWRG+3W, Jammu Rd, Katra, Jammu and Kashmir 182301",
+    "area": "182142",
+    "latitude": 32.989906999999995,
+    "longitude": 74.9270001,
+    "place_id": "ChIJXUuFlzV5HjkRAz-GIYEkTXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUuFlzV5HjkRAz-GIYEkTXE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:56:13"
+  }
+]

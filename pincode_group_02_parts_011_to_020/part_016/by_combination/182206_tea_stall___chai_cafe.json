@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "182206",
+    "phone_number": "+91 99483 61950",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "NH44, Bhiknoor, Telangana 503101",
+    "area": "182206",
+    "latitude": 18.1698701,
+    "longitude": 78.40226009999999,
+    "place_id": "ChIJ09pNpT1FzDsRdCLDUozDid0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09pNpT1FzDsRdCLDUozDid0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:17:31"
+  },
+  {
+    "business_name": "TEA HOUSE",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop",
+    "pincode": "182206",
+    "phone_number": "+91 99635 93733",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sh No 1-2, opp. Zphs School, Dharmaram (B), Telangana 503230",
+    "area": "182206",
+    "latitude": 18.6444013,
+    "longitude": 78.1723786,
+    "place_id": "ChIJW_SkpifFzTsREj1MT2r6uPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_SkpifFzTsREj1MT2r6uPw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:17:33"
+  }
+]

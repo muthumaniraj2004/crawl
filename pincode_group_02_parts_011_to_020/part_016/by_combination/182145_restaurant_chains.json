@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parsa's Zainhal",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "182145",
+    "phone_number": "N/A",
+    "website": "https://parsafoods.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "C5XQ+6QP, Railway Chowk, Banihal, Jammu and Kashmir 182146",
+    "area": "182145",
+    "latitude": 33.448095699999996,
+    "longitude": 75.1894563,
+    "place_id": "ChIJNZdxWGrxHTkR5eKtx0CzmJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZdxWGrxHTkR5eKtx0CzmJc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:00:36"
+  },
+  {
+    "business_name": "The Local Masala Restaurant & Caterers",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "182145",
+    "phone_number": "+91 91039 08115",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 50,
+    "address": "1st Floor, opposite State Bank of India, Thalanga, Doda, Jammu and Kashmir 182221",
+    "area": "Thalanga",
+    "latitude": 33.1438692,
+    "longitude": 75.5447077,
+    "place_id": "ChIJ58ikSIulHTkR05xLBbUH4Ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58ikSIulHTkR05xLBbUH4Ew",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:00:38"
+  }
+]

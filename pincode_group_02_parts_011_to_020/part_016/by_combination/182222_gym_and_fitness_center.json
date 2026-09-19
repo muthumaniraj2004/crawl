@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OxiFit Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Aerobics Class, Fitness center",
+    "pincode": "182222",
+    "phone_number": "+91 91499 01667",
+    "website": "http://oxifit.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Barian Adda NH1, National Highway, Vijaypur, Jammu and Kashmir 184120",
+    "area": "182222",
+    "latitude": 32.5557363,
+    "longitude": 75.05655329999999,
+    "place_id": "ChIJGRwDkZUhHDkR1GiZYr4i_AE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRwDkZUhHDkR1GiZYr4i_AE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:23:05"
+  },
+  {
+    "business_name": "fitness connection the gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "182222",
+    "phone_number": "+91 87170 57444",
+    "website": "http://www.facebook.com/Fitnessconnectionthegym",
+    "rating": 4.2,
+    "reviews_count": 100,
+    "address": "anand street, ambphalla, Jammu, Jammu and Kashmir 180005",
+    "area": "Ambphalla",
+    "latitude": 32.7458464,
+    "longitude": 74.86333499999999,
+    "place_id": "ChIJ8b3YpHqEHjkRxmHlScIAHIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8b3YpHqEHjkRxmHlScIAHIQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:23:06"
+  }
+]

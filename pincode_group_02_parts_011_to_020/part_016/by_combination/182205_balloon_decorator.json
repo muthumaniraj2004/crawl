@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "182205",
+    "phone_number": "+91 88301 80801",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Balloon, 182205, India",
+    "area": "182205",
+    "latitude": 18.553112799999997,
+    "longitude": 73.8645074,
+    "place_id": "ChIJK-sLbcm4wjsRJQbch6d57Ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-sLbcm4wjsRJQbch6d57Ao",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:38"
+  },
+  {
+    "business_name": "Blushing Balloons",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "182205",
+    "phone_number": "+91 84464 89860",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Blushing Balloons, 182205, India",
+    "area": "182205",
+    "latitude": 12.9714152,
+    "longitude": 77.7382578,
+    "place_id": "ChIJA65gJ__ibKQRBUC7TEvLlgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA65gJ__ibKQRBUC7TEvLlgA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:41"
+  }
+]

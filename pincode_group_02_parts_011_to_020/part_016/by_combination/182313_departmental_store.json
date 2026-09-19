@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Y Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Home goods store",
+    "pincode": "182313",
+    "phone_number": "+91 95963 84592",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Faisalabad, Ashajipora, Anantnag, Jammu and Kashmir 192101",
+    "area": "Faisalabad, Ashajipora",
+    "latitude": 33.7159081,
+    "longitude": 75.150908,
+    "place_id": "ChIJB7m9PosF4jgRtG897s6cjaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7m9PosF4jgRtG897s6cjaQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:29:34"
+  },
+  {
+    "business_name": "Round About Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "182313",
+    "phone_number": "+91 78893 14902",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Lal Chowk, Anantnag, Jammu and Kashmir 192101",
+    "area": "Lal Chowk",
+    "latitude": 33.7311161,
+    "longitude": 75.1494651,
+    "place_id": "ChIJSeYur2EF4jgRTZHYAgcTb8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeYur2EF4jgRTZHYAgcTb8A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:29:34"
+  }
+]

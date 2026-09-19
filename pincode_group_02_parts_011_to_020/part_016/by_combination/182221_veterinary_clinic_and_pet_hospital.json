@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Gandhi's Dog Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Veterinary care",
+    "pincode": "182221",
+    "phone_number": "+91 98146 75355",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "63-A, Rani Ka Bagh, Amritsar Cantonment, Amritsar, Punjab 143001",
+    "area": "Rani Ka Bagh, Amritsar Cantonment",
+    "latitude": 31.6391802,
+    "longitude": 74.85777039999999,
+    "place_id": "ChIJAQAAQLpkGTkRDnD8cVRS6K0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQLpkGTkRDnD8cVRS6K0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:21:20"
+  },
+  {
+    "business_name": "Dr. Vet & Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "182221",
+    "phone_number": "+91 79977 37137",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Manjulapur - Dharmasagar Road, Adharsha Nagar, Nirmal, Telangana 504106",
+    "area": "Adharsha Nagar",
+    "latitude": 19.0882643,
+    "longitude": 78.33169219999999,
+    "place_id": "ChIJl_r9Qx-NzTsRS7cSKNEHgms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_r9Qx-NzTsRS7cSKNEHgms",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:21:20"
+  }
+]

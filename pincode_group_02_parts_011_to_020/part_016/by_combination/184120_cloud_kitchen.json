@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TASTE OF HOME (CLOUD KITCHEN)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "184120",
+    "phone_number": "+91 91497 66237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhyansar, Bari Brahmana, Kartholi, Jammu, Jammu and Kashmir 181133",
+    "area": "Dhyansar, Bari Brahmana",
+    "latitude": 32.624441499999996,
+    "longitude": 74.9134675,
+    "place_id": "ChIJpc07qt-dHjkRW8_6cDkOEjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpc07qt-dHjkRW8_6cDkOEjE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:39:57"
+  },
+  {
+    "business_name": "Bramhandnayak Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "184120",
+    "phone_number": "+91 92091 08943",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jagdamba Bhawan Marg, near BloomField School, Shree Siddhivinayak Meera, Pisoli, Pune, Maharashtra 411060",
+    "area": "Shree Siddhivinayak Meera, Pisoli",
+    "latitude": 18.4395612,
+    "longitude": 73.9096091,
+    "place_id": "ChIJC3uOV2HrwjsR_YoD50R9JMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3uOV2HrwjsR_YoD50R9JMo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:39:59"
+  }
+]

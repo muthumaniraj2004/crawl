@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Computer Work",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "182148",
+    "phone_number": "+91 90867 87135",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Upper Bazar, Upper Bazaar, Ramban, Jammu and Kashmir 182144",
+    "area": "Upper Bazaar",
+    "latitude": 33.2410249,
+    "longitude": 75.2390723,
+    "place_id": "ChIJJ9zfnnzDHTkRNvBqguueczA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9zfnnzDHTkRNvBqguueczA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:06:19"
+  },
+  {
+    "business_name": "Unique Electraction",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electronics repair shop",
+    "pincode": "182148",
+    "phone_number": "+91 78899 65452",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Upper Bazaar, Ramban, Jammu and Kashmir 182144",
+    "area": "Upper Bazaar",
+    "latitude": 33.241437499999996,
+    "longitude": 75.2400625,
+    "place_id": "ChIJpzDk4YnDHTkRAJyzrReswcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzDk4YnDHTkRAJyzrReswcs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:06:21"
+  }
+]

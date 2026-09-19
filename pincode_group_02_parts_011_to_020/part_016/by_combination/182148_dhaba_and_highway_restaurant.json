@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gian Vaishno Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "182148",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "NH 44, Anand Vihar, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Anand Vihar, Bari Brahmana",
+    "latitude": 32.6426008,
+    "longitude": 74.9108693,
+    "place_id": "ChIJzV9wBFycHjkRPml8_lVKSRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzV9wBFycHjkRPml8_lVKSRI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:05:41"
+  },
+  {
+    "business_name": "Jk Vaishno Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "182148",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bus stand, Ranbir Singh Pura, Jammu and Kashmir 181102",
+    "area": "182148",
+    "latitude": 32.6069563,
+    "longitude": 74.7356908,
+    "place_id": "ChIJSdgBNX6RHjkR-Jv-FYIV2UI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdgBNX6RHjkR-Jv-FYIV2UI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:05:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ak Healthcare",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "182148",
+    "phone_number": "+91 60061 14051",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Guru Nanak Complex, Sector 3, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Sector 3, Channi Himat",
+    "latitude": 32.6898485,
+    "longitude": 74.8859382,
+    "place_id": "ChIJ62Usk4-dHjkRxANHnAFIwwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62Usk4-dHjkRxANHnAFIwwE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:06:04"
+  },
+  {
+    "business_name": "Sudan Heart Care Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Heart hospital",
+    "all_categories": "Heart hospital, Cardiologist",
+    "pincode": "182148",
+    "phone_number": "+91 191 226 2296",
+    "website": "http://sudanheart.in/?utm_source=gmb&utm_medium=referral",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "MR4M+FC3, Satwari-R S Pura Road, Rohi, Morh, Lower Gadigarh, Jammu, Jammu and Kashmir 181101",
+    "area": "Lower Gadigarh",
+    "latitude": 32.655674999999995,
+    "longitude": 74.833736,
+    "place_id": "ChIJE7xjXhubHjkRZa8svvQVXUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7xjXhubHjkRZa8svvQVXUs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:06:04"
+  }
+]

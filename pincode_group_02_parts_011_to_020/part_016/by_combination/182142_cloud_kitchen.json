@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BEST CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "182142",
+    "phone_number": "+91 99906 80799",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A 268 K No 48-49, near by Walia Advocate, Desu Colony, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Desu Colony, Chhatarpur",
+    "latitude": 28.506853399999997,
+    "longitude": 77.1780055,
+    "place_id": "ChIJw7K97yMfDTkRjGftHz1k1WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7K97yMfDTkRjGftHz1k1WE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:22"
+  },
+  {
+    "business_name": "Kitchen Cloud",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Chinese takeaway",
+    "all_categories": "Chinese takeaway",
+    "pincode": "182142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 5, Om Jai Galaxy Complex CHS Ltd, BP Rd, behind Shivsena Office, near Dhanesh Wine Shop, Bhayandar, Khari Gaon, Bhayandar East, Thane, Mira Bhayandar, Maharashtra 401105",
+    "area": "Bhayandar, Khari Gaon, Bhayandar East",
+    "latitude": 19.3069941,
+    "longitude": 72.8565453,
+    "place_id": "ChIJgch6aLux5zsRTQGKiHPRowo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgch6aLux5zsRTQGKiHPRowo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:22"
+  }
+]

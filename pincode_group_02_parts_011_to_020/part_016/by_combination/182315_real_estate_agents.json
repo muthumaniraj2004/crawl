@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "369acres",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company, Service establishment",
+    "pincode": "182315",
+    "phone_number": "N/A",
+    "website": "https://www.369acres.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "369acres, 182315, India",
+    "area": "182315",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ1z-TdJPKI6cRNTGxaCFGiiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1z-TdJPKI6cRNTGxaCFGiiE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:32:44"
+  },
+  {
+    "business_name": "Valley Realty Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "182315",
+    "phone_number": "+91 84940 08358",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "36/37, Noor Complex, Jammu and Kashmir, Gogji Bagh, Srinagar, 190008",
+    "area": "Gogji Bagh, Jawahar Nagar",
+    "latitude": 34.0609016,
+    "longitude": 74.8083078,
+    "place_id": "ChIJq6qq6r6P4TgRcdjlI-kM8DA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6r6P4TgRcdjlI-kM8DA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:32:44"
+  }
+]

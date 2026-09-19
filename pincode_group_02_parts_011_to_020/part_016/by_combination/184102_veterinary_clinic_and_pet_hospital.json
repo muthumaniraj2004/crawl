@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sabari Pet Care",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Pet supply store",
+    "pincode": "184102",
+    "phone_number": "+91 77083 86874",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "9, Rajaram Street, Pudhunagar, Tirumangalam, Tamil Nadu 625706",
+    "area": "Pudhunagar",
+    "latitude": 9.8305318,
+    "longitude": 77.9929049,
+    "place_id": "ChIJaVX0K1zTADsRV-QJ-KfIm-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVX0K1zTADsRV-QJ-KfIm-c",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:58"
+  },
+  {
+    "business_name": "Sonia Pet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet care, Pet store",
+    "pincode": "184102",
+    "phone_number": "+91 98426 34811",
+    "website": "http://www.petjodi.com/",
+    "rating": 4,
+    "reviews_count": 313,
+    "address": "New HIG Colony, B/140, 80 Feet Rd, Opposite PNB, Anna Nagar, Sathamangalam, Tamil Nadu 625020",
+    "area": "Anna Nagar",
+    "latitude": 9.9254199,
+    "longitude": 78.1488245,
+    "place_id": "ChIJ-9tO2rHFADsR9EWcxoTQofs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9tO2rHFADsR9EWcxoTQofs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:58"
+  }
+]

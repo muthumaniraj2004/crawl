@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalsotra Medical clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "182311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gran more Reasi Station Road, near peer baba, 182311",
+    "area": "182311",
+    "latitude": 33.085098099999996,
+    "longitude": 74.86662609999999,
+    "place_id": "ChIJw09M3Z1xHjkRx3TiTtmqZbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw09M3Z1xHjkRx3TiTtmqZbc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:26:28"
+  },
+  {
+    "business_name": "u like car clinic",
+    "search_category": "Clinics",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "182311",
+    "phone_number": "+91 70060 83550",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Reasi Station Rd, Reasi, Jammu and Kashmir 182311",
+    "area": "182311",
+    "latitude": 33.0838183,
+    "longitude": 74.8563877,
+    "place_id": "ChIJPQSrDslxHjkR5JhpUSnd2xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQSrDslxHjkR5JhpUSnd2xc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:26:29"
+  }
+]

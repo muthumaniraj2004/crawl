@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fun Bytes Sunderbani",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "182147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Near ITI Sunderbani NH144 A Jammu - Rajouri Poonch, Road, Sunderbani, Jammu and Kashmir 185153",
+    "area": "182147",
+    "latitude": 33.054924199999995,
+    "longitude": 74.4939416,
+    "place_id": "ChIJkVoEGQJFHjkR4PNI5B8hLg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVoEGQJFHjkR4PNI5B8hLg8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:00"
+  },
+  {
+    "business_name": "Annpurna Chaat Cafe.",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Cafe",
+    "pincode": "182147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "829W+W6X, Subhash Rd, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Race Course",
+    "latitude": 30.319854999999997,
+    "longitude": 78.0456224,
+    "place_id": "ChIJ8craA78pCTkRjsyle2L_hao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8craA78pCTkRjsyle2L_hao",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:01"
+  }
+]

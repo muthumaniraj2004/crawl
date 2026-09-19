@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "182221",
+    "phone_number": "+91 99062 57643",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Road, Thalanga, Nagri, Doda, Jammu and Kashmir 182221",
+    "area": "Thalanga",
+    "latitude": 33.1446531,
+    "longitude": 75.5515111,
+    "place_id": "ChIJB-7nRiulHTkRXyLwVz0-dng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-7nRiulHTkRXyLwVz0-dng",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:22:04"
+  },
+  {
+    "business_name": "TOPTECH COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer desk store, Computer Hardware Company, Computer service, Health insurance agency, Security system installation service, Website designer",
+    "pincode": "182221",
+    "phone_number": "+91 98413 71813",
+    "website": "http://www.toptechcomputers.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NO.134,, Main Rd, I Block, Arumbakkam, Chennai, Tamil Nadu 600106",
+    "area": "I Block, SIDCO Industrial Estate, MMDA Colony, Arumbakkam",
+    "latitude": 13.0636964,
+    "longitude": 80.2120709,
+    "place_id": "ChIJPQiEb5ZmUjoRwuF9ofQU2MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQiEb5ZmUjoRwuF9ofQU2MI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:22:05"
+  }
+]

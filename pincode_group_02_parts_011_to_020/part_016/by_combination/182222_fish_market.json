@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kulbhushan Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "182222",
+    "phone_number": "+91 95969 69501",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near Chandal, Bani, Kathua, Jammu and Kashmir 184206",
+    "area": "182222",
+    "latitude": 32.749189,
+    "longitude": 75.8076291,
+    "place_id": "ChIJ50fbjcXxHDkRvSczZfr1PVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50fbjcXxHDkRvSczZfr1PVk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:22:36"
+  },
+  {
+    "business_name": "Fish Hatchery Farm",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "182222",
+    "phone_number": "+91 95870 09235",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 166,
+    "address": "Forest Block 182222",
+    "area": "182222",
+    "latitude": 33.0009302,
+    "longitude": 75.7025063,
+    "place_id": "ChIJtQBsqZqqHTkR7PchoFvfk48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQBsqZqqHTkR7PchoFvfk48",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:22:38"
+  }
+]

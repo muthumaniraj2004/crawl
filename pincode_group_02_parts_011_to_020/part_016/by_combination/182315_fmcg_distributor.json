@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fortune Agency",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Supplier",
+    "pincode": "182315",
+    "phone_number": "+91 96217 12840",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Handia, Uttar Pradesh 221503",
+    "area": "182315",
+    "latitude": 25.363642799999997,
+    "longitude": 82.185851,
+    "place_id": "ChIJBaMbHNlVhTkR8D62jHGriqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaMbHNlVhTkR8D62jHGriqk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:31:23"
+  },
+  {
+    "business_name": "VK Foods Products",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer, Supplier",
+    "pincode": "182315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "6X66+5P9 V K Foods, Kashipur, Uttarakhand 244713",
+    "area": "182315",
+    "latitude": 29.210400099999998,
+    "longitude": 78.9618699,
+    "place_id": "ChIJ9SJLYtFDCjkRHMN2DzhfLiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SJLYtFDCjkRHMN2DzhfLiE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:31:24"
+  }
+]

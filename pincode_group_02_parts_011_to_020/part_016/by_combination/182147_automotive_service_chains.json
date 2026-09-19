@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devi Singh Automobile",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "182147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Bazar, Dhalli, Shimla, Himachal Pradesh 171012",
+    "area": "Dhalli",
+    "latitude": 31.1074947,
+    "longitude": 77.2117624,
+    "place_id": "ChIJ-4JV4fSDBTkR5sYOaoJTFhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4JV4fSDBTkR5sYOaoJTFhU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:31"
+  },
+  {
+    "business_name": "Rajvir Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto parts store, Car Dealers",
+    "pincode": "182147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shimla Bypass, Milsington Estate, Parasdass Garden, Shimla, Himachal Pradesh 171001",
+    "area": "Milsington Estate, Parasdass Garden",
+    "latitude": 31.0952278,
+    "longitude": 77.1701499,
+    "place_id": "ChIJCSQHZLp4BTkRBjhZ1y9NFy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSQHZLp4BTkRBjhZ1y9NFy8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:31"
+  }
+]

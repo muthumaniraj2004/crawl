@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "182202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6J8Q+FH9, Bhal Wana, Jammu and Kashmir 182201",
+    "area": "182202",
+    "latitude": 33.216165499999995,
+    "longitude": 75.6389865,
+    "place_id": "ChIJvbVrX2mnHTkREmMqxcj6TT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbVrX2mnHTkREmMqxcj6TT4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:11:03"
+  },
+  {
+    "business_name": "ITNT DENTAL CARE",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "182202",
+    "phone_number": "+91 70511 01048",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opp. Old District Hospital, Kishtwar, Jammu and Kashmir 182204",
+    "area": "182202",
+    "latitude": 33.3136422,
+    "longitude": 75.7681553,
+    "place_id": "ChIJeRNABD4LHTkRHx0dqdX7pPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRNABD4LHTkRHx0dqdX7pPA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:11:04"
+  }
+]

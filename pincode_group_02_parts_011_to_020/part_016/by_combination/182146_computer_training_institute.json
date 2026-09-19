@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj computer's and Education Centre L640",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "182146",
+    "phone_number": "+91 99065 72499",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near masjid noor, Sadi Wara, Verinag, Jammu and Kashmir 192212",
+    "area": "182146",
+    "latitude": 33.5470933,
+    "longitude": 75.22366269999999,
+    "place_id": "ChIJURrdYhD3HTkREpOccAwoOUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURrdYhD3HTkREpOccAwoOUw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:03:14"
+  },
+  {
+    "business_name": "Mart Infotech Computer Education Qzd",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "182146",
+    "phone_number": "+91 97965 09275",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Umer Colony, Qazigund, Jammu and Kashmir 192221",
+    "area": "Umer Colony",
+    "latitude": 33.5952256,
+    "longitude": 75.1636786,
+    "place_id": "ChIJda7Ocsj3HTkRR1FxyyLTEmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJda7Ocsj3HTkRR1FxyyLTEmI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:03:14"
+  }
+]

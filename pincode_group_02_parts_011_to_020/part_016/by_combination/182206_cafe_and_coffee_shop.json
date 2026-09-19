@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe VIC",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "182206",
+    "phone_number": "+91 91861 21843",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "Ramgarh Rd, Vijaypur, Jammu and Kashmir 184120",
+    "area": "182206",
+    "latitude": 32.5583975,
+    "longitude": 75.0124247,
+    "place_id": "ChIJKRYzsNohHDkRppsK3pzgwGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRYzsNohHDkRppsK3pzgwGs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:17:36"
+  },
+  {
+    "business_name": "Olistan Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "182206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "PVW6+VW6, Amphalla Road, Ambphalla, Karan Nagar, Jammu, Jammu and Kashmir 180005",
+    "area": "Ambphalla, Karan Nagar",
+    "latitude": 32.7471695,
+    "longitude": 74.8622675,
+    "place_id": "ChIJd8cDTgCFHjkREvcMLCv1j-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8cDTgCFHjkREvcMLCv1j-Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:17:36"
+  }
+]

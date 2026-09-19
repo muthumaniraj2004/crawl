@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen 🍽",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "182311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "RQP9+VXM, Basti, Sonarjot, Uttar Pradesh 272001",
+    "area": "182311",
+    "latitude": 26.8372094,
+    "longitude": 82.7699098,
+    "place_id": "ChIJdXOwPADRkDkRVvJSqp-eBW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXOwPADRkDkRVvJSqp-eBW4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:26:16"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food bank",
+    "all_categories": "Food bank",
+    "pincode": "182311",
+    "phone_number": "+91 95821 77663",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "B, 91, Street No. 5, Bhajanpura, main market, Delhi, 110092",
+    "area": "Bhajanpura, main market",
+    "latitude": 28.633756899999998,
+    "longitude": 77.2758606,
+    "place_id": "ChIJKyyqlz39DDkRQzyEtemsDng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyyqlz39DDkRQzyEtemsDng",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:26:16"
+  }
+]

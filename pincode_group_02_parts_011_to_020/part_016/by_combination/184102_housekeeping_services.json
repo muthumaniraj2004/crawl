@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Royal Facilities Management",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Carpet cleaning service, Drainage service, Dry cleaner, House cleaning service, Pool cleaning service, Water Tank Cleaners, Window cleaning service",
+    "pincode": "184102",
+    "phone_number": "+91 78376 63477",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "370-R, Model Town, Jalandhar, Punjab 144001",
+    "area": "Model Town",
+    "latitude": 31.3070904,
+    "longitude": 75.57570199999999,
+    "place_id": "ChIJAQAAwKpbGjkR2_B4-OZLv78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwKpbGjkR2_B4-OZLv78",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:37:46"
+  },
+  {
+    "business_name": "Bobby Dryclean",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "184102",
+    "phone_number": "+91 98147 65263",
+    "website": "https://wa.me/+919814765263",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nihal singh wala road, jalebia wali gali, near subashandi Billu, Bagha Purana, Punjab 142038",
+    "area": "184102",
+    "latitude": 30.683977,
+    "longitude": 75.0988583,
+    "place_id": "ChIJYTU4Xy6pEDkRnGPKavYKlvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTU4Xy6pEDkRnGPKavYKlvk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:37:46"
+  }
+]

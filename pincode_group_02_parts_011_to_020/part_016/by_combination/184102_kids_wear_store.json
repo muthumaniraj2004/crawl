@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailas Fashion Studio",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "184102",
+    "phone_number": "+91 88993 33806",
+    "website": "https://www.facebook.com/kailas001/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "National Highway Distt, near Arora Super market, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.6462521,
+    "longitude": 74.900899,
+    "place_id": "ChIJJT8-o2mdHjkRtLidndZV7sA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJT8-o2mdHjkRtLidndZV7sA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:43"
+  },
+  {
+    "business_name": "Madhav Mishra",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "184102",
+    "phone_number": "+91 95414 21767",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Complex. Baba Huose, Lakhenpur, Rakh Jahfar, Jammu and Kashmir 184152",
+    "area": "184102",
+    "latitude": 32.3826185,
+    "longitude": 75.5944813,
+    "place_id": "ChIJ_TEukDF7HDkRcqHyH8-RieI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TEukDF7HDkRcqHyH8-RieI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:43"
+  }
+]

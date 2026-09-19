@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baker's Super Mart",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Baking supply store",
+    "all_categories": "Baking supply store, Bakery equipment",
+    "pincode": "182222",
+    "phone_number": "+91 89770 13257",
+    "website": "https://www.lohiyaagro.com/contact-us-jaipur",
+    "rating": 4.8,
+    "reviews_count": 358,
+    "address": "H.No.104, Ground Floor, Metro Station, New Sanganer Rd, opp. Metro Piller No.123, near Shyam Nagar, Ved-Vatika, Ashok Pura, Shyam Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Ved-Vatika, Ashok Pura, Shyam Nagar",
+    "latitude": 26.8984442,
+    "longitude": 75.7716126,
+    "place_id": "ChIJTxCmhHe1bTkRGW4rUboMpHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxCmhHe1bTkRGW4rUboMpHs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:22:41"
+  },
+  {
+    "business_name": "The Baker's Treat",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "182222",
+    "phone_number": "+91 77961 19900",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Vasmat Rd, near Shivshakti Appartment, Vaibhav Nagar, Parbhani, Maharashtra 431401",
+    "area": "Vaibhav Nagar",
+    "latitude": 19.2548915,
+    "longitude": 76.78840509999999,
+    "place_id": "ChIJX26Ad74Z0DsRoIrvFfwNrtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX26Ad74Z0DsRoIrvFfwNrtA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:22:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EAT 2 FIT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pasta shop",
+    "all_categories": "Pasta shop",
+    "pincode": "182315",
+    "phone_number": "+91 91494 03417",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 109,
+    "address": "ward no 2, near Sbi life insurance Domail, Indra Nagar, Udhampur, Ladan, Jammu and Kashmir 182101",
+    "area": "Indra Nagar",
+    "latitude": 32.931757,
+    "longitude": 75.1435135,
+    "place_id": "ChIJQZYPDenTHTkRxk_jmvqkr9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZYPDenTHTkRxk_jmvqkr9Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:31:32"
+  },
+  {
+    "business_name": "Mehfill",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "182315",
+    "phone_number": "+91 70069 03540",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Venus chowk, opposite Gupta Sales, Dina Nagar, Jammu and Kashmir 182101",
+    "area": "Dina Nagar",
+    "latitude": 32.916269199999995,
+    "longitude": 75.1300981,
+    "place_id": "ChIJi7V9utXTHTkRazgKp4839NY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7V9utXTHTkRazgKp4839NY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:31:33"
+  }
+]

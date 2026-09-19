@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avengers Facility services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, House cleaning service, Security service",
+    "pincode": "182206",
+    "phone_number": "+91 77994 22970",
+    "website": "http://avengersfacilityservices.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Branch Office :19, 1-180, Mochi Colony, Tar Bund, Bowenpally, Hyderabad, Telangana 500009",
+    "area": "Mochi Colony, Tar Bund, Bowenpally",
+    "latitude": 17.455289,
+    "longitude": 78.4830063,
+    "place_id": "ChIJyaWKOs2byzsRSjBt5VxgOL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaWKOs2byzsRSjBt5VxgOL0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:18:46"
+  },
+  {
+    "business_name": "Shivams Security Private Agency",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "182206",
+    "phone_number": "+91 77029 23842",
+    "website": "http://www.shivamssecurityprivateagency.com/",
+    "rating": 4.9,
+    "reviews_count": 43,
+    "address": "H.No. 11-7-123, Huda Complex, Saroornagar Road, Opp. : Sai Teja Hospital, Hyderabad, Telangana 500035",
+    "area": "C-Type, Huda Colony, Kothapet",
+    "latitude": 17.3614629,
+    "longitude": 78.5386245,
+    "place_id": "ChIJqS8WPxaZyzsRY8Hg8fmfjNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqS8WPxaZyzsRY8Hg8fmfjNw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:18:47"
+  }
+]

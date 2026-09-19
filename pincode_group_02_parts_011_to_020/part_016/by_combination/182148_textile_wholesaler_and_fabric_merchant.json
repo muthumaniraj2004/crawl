@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Textiles",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing manufacturer, Clothing wholesaler, Wholesale market, Women's clothing store",
+    "pincode": "182148",
+    "phone_number": "+91 98715 99196",
+    "website": "http://www.devtextiles.com/",
+    "rating": 4.4,
+    "reviews_count": 130,
+    "address": "439, Mehendi Wali Galli, Old Delhi, Manohar Market, Katra Neel, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Manohar Market, Katra Neel, Chandni Chowk",
+    "latitude": 28.6571088,
+    "longitude": 77.22539809999999,
+    "place_id": "ChIJAQAANBD9DDkRegP6qDdTyPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAANBD9DDkRegP6qDdTyPE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:05:48"
+  },
+  {
+    "business_name": "National Fabrics",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store",
+    "pincode": "182148",
+    "phone_number": "+91 80808 27452",
+    "website": "https://www.instagram.com/nationalfabrics/?hl=en",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No. 8/9, Clover Center, B137/138-S8/9, Clover Centre, 7 Moledina Road, Opp SGS Mall, 7, Moledina Rd, Gawaliwada, Camp, Pune, Maharashtra 411001",
+    "area": "Gawaliwada, Camp",
+    "latitude": 18.518081,
+    "longitude": 73.8782421,
+    "place_id": "ChIJmb74mU_AwjsRt_ItcDmZwhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmb74mU_AwjsRt_ItcDmZwhQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:05:50"
+  }
+]

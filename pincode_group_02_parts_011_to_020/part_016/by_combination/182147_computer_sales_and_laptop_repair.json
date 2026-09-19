@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Computer Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "182147",
+    "phone_number": "+91 99061 45163",
+    "website": "https://thecomputerservices-jakh.web.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village Chandla Jakh, near New JK Furniture, Tehsil, Vijaypur, Samba, Jammu and Kashmir 181143",
+    "area": "Tehsil",
+    "latitude": 32.5928641,
+    "longitude": 74.9634713,
+    "place_id": "ChIJFbNk9NSfHjkRs8pZlpzJ3mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbNk9NSfHjkRs8pZlpzJ3mo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:05:02"
+  },
+  {
+    "business_name": "Mayatech Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer software store",
+    "all_categories": "Computer software store",
+    "pincode": "182147",
+    "phone_number": "+91 95554 20011",
+    "website": "http://www.mayatechcscacademy.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Near Govt. Higher Secondary School Line, Khellani, Doda, Jammu and Kashmir 182201",
+    "area": "Khellani",
+    "latitude": 33.1393199,
+    "longitude": 75.51050099999999,
+    "place_id": "ChIJuzTY2fK7HTkRdr3xL8rUycg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzTY2fK7HTkRdr3xL8rUycg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:05:02"
+  }
+]

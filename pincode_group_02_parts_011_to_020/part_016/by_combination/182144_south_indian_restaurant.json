@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Pink Door",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "182144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 60,
+    "address": "3RMP+792, Reasi, 182311",
+    "area": "182144",
+    "latitude": 33.0831472,
+    "longitude": 74.8358792,
+    "place_id": "ChIJ1aKEHNpxHjkR6BtbEpKurYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aKEHNpxHjkR6BtbEpKurYo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:58:51"
+  },
+  {
+    "business_name": "Udipi Shree Krishna",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "182144",
+    "phone_number": "+91 83699 18306",
+    "website": "https://www.zomato.com/mumbai/udipi-shree-krishna-malad-west",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near N, L. High School, Bhadran Nagar RD, 1, Swami Vivekanand Rd, opposite Sapna Hotel, Malad, Daruwala Compound, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Daruwala Compound, Malad West",
+    "latitude": 19.1923286,
+    "longitude": 72.8471563,
+    "place_id": "ChIJuWyZAQC35zsRYLQEcFa8Bw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWyZAQC35zsRYLQEcFa8Bw4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:58:52"
+  }
+]

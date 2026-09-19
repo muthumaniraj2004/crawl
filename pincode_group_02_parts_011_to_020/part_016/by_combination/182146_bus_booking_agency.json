@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PK VAID TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "182146",
+    "phone_number": "+91 94191 92776",
+    "website": "http://www.pkvaidtravels.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "32 RANBIR MARKET Jammu City, Jammu and Kashmir 180001",
+    "area": "Shalamar, Resham Ghar Colony",
+    "latitude": 32.7302642,
+    "longitude": 74.8608995,
+    "place_id": "ChIJT8Tnho6EHjkRHN0ReWBOT5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8Tnho6EHjkRHN0ReWBOT5Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:02:46"
+  },
+  {
+    "business_name": "Banihal",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Train station",
+    "all_categories": "Train station",
+    "pincode": "182146",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 601,
+    "address": "Banihal, Jammu and Kashmir 182146",
+    "area": "182146",
+    "latitude": 33.4509336,
+    "longitude": 75.18899139999999,
+    "place_id": "ChIJN3mMCDrwHTkREcUmt8FHUwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3mMCDrwHTkREcUmt8FHUwc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:02:47"
+  }
+]

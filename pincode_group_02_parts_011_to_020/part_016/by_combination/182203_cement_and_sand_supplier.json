@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mintoo Cement store",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Sand & gravel supplier",
+    "all_categories": "Sand & gravel supplier, Iron & Steel Store, Cement Supplier",
+    "pincode": "182203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8Q68+JFQ, New Busstand, near New zaika, Kishtwar, Jammu and Kashmir 182206",
+    "area": "182203",
+    "latitude": 33.3106581,
+    "longitude": 75.77047449999999,
+    "place_id": "ChIJGygPcVgLHTkR5AcBMZ8AXPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGygPcVgLHTkR5AcBMZ8AXPc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:13:05"
+  },
+  {
+    "business_name": "Singh Cement Store",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "182203",
+    "phone_number": "+91 88032 16580",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 15,
+    "address": "Swankha Morh, Vijaypur, Jammu and Kashmir 184120",
+    "area": "182203",
+    "latitude": 32.5702779,
+    "longitude": 75.0014669,
+    "place_id": "ChIJHaaShKYhHDkR9yxZEYTBSXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaaShKYhHDkR9yxZEYTBSXE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:13:05"
+  }
+]

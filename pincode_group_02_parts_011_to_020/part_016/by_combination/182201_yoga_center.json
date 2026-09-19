@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogshala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "182201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XPP8+4PQ, Link Road, Bhaderwah, Jammu and Kashmir 182222",
+    "area": "182201",
+    "latitude": 32.9851848,
+    "longitude": 75.7168779,
+    "place_id": "ChIJfXIvXgABHTkR2M4FECcPlAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXIvXgABHTkR2M4FECcPlAg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:30"
+  },
+  {
+    "business_name": "The doctor fitness gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "182201",
+    "phone_number": "+91 78893 48369",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near gmc ghat, Doda, Jammu and Kashmir 182202",
+    "area": "182201",
+    "latitude": 33.1415141,
+    "longitude": 75.5831384,
+    "place_id": "ChIJF31BT9ulHTkRiWnNtgXH17M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF31BT9ulHTkRiWnNtgXH17M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:30"
+  }
+]

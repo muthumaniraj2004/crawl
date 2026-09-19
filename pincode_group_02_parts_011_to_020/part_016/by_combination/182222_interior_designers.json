@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pardesi Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "182222",
+    "phone_number": "+91 91033 77827",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pardesi Interiors, Police Station Road, Kathua, Gatti, Jammu and Kashmir 184206",
+    "area": "182222",
+    "latitude": 32.7065802,
+    "longitude": 75.8146216,
+    "place_id": "ChIJLTcaps7zHDkR8-JNfSL80ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTcaps7zHDkR8-JNfSL80ww",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:23:20"
+  },
+  {
+    "business_name": "The Design Hub",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "182222",
+    "phone_number": "+91 70064 76414",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "90, near Jamia Masjid, Bhaderwah, Jammu and Kashmir 182222",
+    "area": "182222",
+    "latitude": 32.9791625,
+    "longitude": 75.71589929999999,
+    "place_id": "ChIJV13aJngBHTkRzm7EpD3Xg40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV13aJngBHTkRzm7EpD3Xg40",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:23:22"
+  }
+]

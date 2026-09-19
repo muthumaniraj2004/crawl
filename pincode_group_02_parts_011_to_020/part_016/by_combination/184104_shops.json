@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Singh Kirayna Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "184104",
+    "phone_number": "+91 78894 68369",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, near Piran Pond, Logate, Kathua, Jammu and Kashmir 184104",
+    "area": "184104",
+    "latitude": 32.4295925,
+    "longitude": 75.5021536,
+    "place_id": "ChIJK0DYoQNvHDkRk31FclvQ13U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0DYoQNvHDkRk31FclvQ13U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:39:44"
+  },
+  {
+    "business_name": "Samsung SmartPlaza",
+    "search_category": "Shops",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "184104",
+    "phone_number": "+91 99062 10611",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 40,
+    "address": "College Rd, Kalibari, Kathua, Jammu and Kashmir 184104",
+    "area": "Kalibari",
+    "latitude": 32.3954963,
+    "longitude": 75.51447929999999,
+    "place_id": "ChIJP3uy8hJwHDkR_VuQGj5noM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3uy8hJwHDkR_VuQGj5noM8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:39:45"
+  }
+]

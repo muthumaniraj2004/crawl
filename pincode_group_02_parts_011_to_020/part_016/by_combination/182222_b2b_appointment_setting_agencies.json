@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Martal Group",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "182222",
+    "phone_number": "N/A",
+    "website": "http://www.martal.ca/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "100 Pine St, San Francisco, CA 94111, United States",
+    "area": "Financial District",
+    "latitude": 37.7925848,
+    "longitude": -122.39898439999999,
+    "place_id": "ChIJdQONJSSBhYARMiP6f90tu_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQONJSSBhYARMiP6f90tu_Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:24:09"
+  },
+  {
+    "business_name": "Call cab",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Call center",
+    "all_categories": "Call center, Service establishment",
+    "pincode": "182222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Call cab, 182222, India",
+    "area": "182222",
+    "latitude": 17.474387999999998,
+    "longitude": 78.315029,
+    "place_id": "ChIJtf3UQGOTyzsRlFTLw3W4YC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtf3UQGOTyzsRlFTLw3W4YC0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:24:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VACHAK SWEETS SHOP",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QPHV+V5G, Lawang, Jammu and Kashmir 184206",
+    "area": "182222",
+    "latitude": 32.7796977,
+    "longitude": 75.7429636,
+    "place_id": "ChIJSat-WgD3HDkRpIvreCpnobM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSat-WgD3HDkRpIvreCpnobM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:22:38"
+  },
+  {
+    "business_name": "Manjiri Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "182222",
+    "phone_number": "+91 86052 07335",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 98,
+    "address": "Mangire Mala, Barshi, Maharashtra 413411",
+    "area": "Mangire Mala",
+    "latitude": 18.2368903,
+    "longitude": 75.6876382,
+    "place_id": "ChIJudj5julVxDsRPBUhXEQEIgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudj5julVxDsRPBUhXEQEIgc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:22:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TRISANDHYA RESORT",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "182203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "8QG5+59W, Wasser Lachkhazana, Kishtwar, Jammu and Kashmir 182204",
+    "area": "Wasser Lachkhazana",
+    "latitude": 33.3255015,
+    "longitude": 75.75840199999999,
+    "place_id": "ChIJcTxeEAALHTkRbCL138tkXLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTxeEAALHTkRbCL138tkXLw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:13:23"
+  },
+  {
+    "business_name": "Sarthal Dass resort",
+    "search_category": "Resort",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "182203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RQJH+8P4, Sarthal, Raulka, Jammu and Kashmir 184206",
+    "area": "182203",
+    "latitude": 32.8308992,
+    "longitude": 75.7799275,
+    "place_id": "ChIJl4GuNAD5HDkRTUK0E8kcD9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4GuNAD5HDkRTUK0E8kcD9s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:13:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lidder River",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "182205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 56,
+    "address": "2868+8CX, Pahalgam, 192126",
+    "area": "182205",
+    "latitude": 34.0108615,
+    "longitude": 75.31609619999999,
+    "place_id": "ChIJ2ZHl26I_4jgR13j0F0vO4Fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZHl26I_4jgR13j0F0vO4Fs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:54"
+  },
+  {
+    "business_name": "Sadda Pind",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "182205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "M5FC+357, Dialgam, 192210",
+    "area": "182205",
+    "latitude": 33.672653499999996,
+    "longitude": 75.1704254,
+    "place_id": "ChIJlWAUjqsJ4jgRHotz8X7S7cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWAUjqsJ4jgRHotz8X7S7cA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:56"
+  }
+]

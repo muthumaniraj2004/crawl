@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Business Registration",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Tax consultant",
+    "pincode": "182144",
+    "phone_number": "+91 97644 34422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "trimurti chawk, Ganganagar Main Rd, Phursungi, Pune, Maharashtra 412308",
+    "area": "Phursungi",
+    "latitude": 18.472406199999998,
+    "longitude": 73.9788105,
+    "place_id": "ChIJAQAAvc-5wjsR9SstbncA5dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAvc-5wjsR9SstbncA5dA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:00:02"
+  },
+  {
+    "business_name": "Corporate Registration Services",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "182144",
+    "phone_number": "+91 98602 52201",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2/23, Gandhi Bhavan Rd, Gananjay Society, Chaitanya Nagar, Kothrud, Pune, Maharashtra 411038",
+    "area": "Gananjay Society, Chaitanya Nagar, Kothrud",
+    "latitude": 18.5001235,
+    "longitude": 73.8044118,
+    "place_id": "ChIJM3FWeRi_wjsRx9-NskDXy34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3FWeRi_wjsRx9-NskDXy34",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:00:02"
+  }
+]

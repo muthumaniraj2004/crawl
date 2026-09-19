@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market Janipur",
+    "search_category": "Fish Market",
+    "primary_category": "Fish & chips restaurant",
+    "all_categories": "Fish & chips restaurant",
+    "pincode": "182202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "QR7V+4WC, Housing Colony, Jammu, 180007",
+    "area": "Housing Colony",
+    "latitude": 32.7628161,
+    "longitude": 74.8447726,
+    "place_id": "ChIJ35cOpVCFHjkRjTHEpYvC1Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35cOpVCFHjkRjTHEpYvC1Cc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:10:43"
+  },
+  {
+    "business_name": "Fish poud",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "182202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "FH2X+5VC, Sigdee, Jammu and Kashmir 182205",
+    "area": "182202",
+    "latitude": 33.4504401,
+    "longitude": 75.5996426,
+    "place_id": "ChIJPZufOwCbHTkRMOvGxnH-yjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZufOwCbHTkRMOvGxnH-yjA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:10:45"
+  }
+]

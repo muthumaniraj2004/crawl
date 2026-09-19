@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Khambeswari Automotive",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "182301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Keshav nagar, Brahmapur, Sanakhajuria, Odisha 760008",
+    "area": "Keshav nagar",
+    "latitude": 19.2970035,
+    "longitude": 84.8118819,
+    "place_id": "ChIJw5fm5YZaPToRkIWeW4FYnNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5fm5YZaPToRkIWeW4FYnNs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:24:59"
+  },
+  {
+    "business_name": "Shivshakti Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "182301",
+    "phone_number": "+91 93701 26132",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1 Pune Banglore Highway, Maharashtra 415517",
+    "area": "182301",
+    "latitude": 18.005259499999998,
+    "longitude": 73.9966261,
+    "place_id": "ChIJKREk20FbwjsRaTmjFeIQhFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKREk20FbwjsRaTmjFeIQhFs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:24:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "182146",
+    "phone_number": "+91 97714 65188",
+    "website": "https://www.citydialysis.in/",
+    "rating": 4.9,
+    "reviews_count": 236,
+    "address": "Pillar No.77, Nirog Hospital, Bailey Rd, Mali Tola, Raja Bazar, Sheikhpura, Patna, Bihar 800014",
+    "area": "Mali Tola, Raja Bazar, Sheikhpura",
+    "latitude": 25.604132399999997,
+    "longitude": 85.0908347,
+    "place_id": "ChIJq6qqqpVX7TkR-M0ByhDOfZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqpVX7TkR-M0ByhDOfZU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:02:36"
+  },
+  {
+    "business_name": "DCDC Kidney Care, Sant Ravidas Nagar",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "182146",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "9F57+CJH Dialysis Unit, 100 Bed hospital jila mukhyalay sarptaha gyanpur, Bhadohi, Sarpatahan, Uttar Pradesh 221304",
+    "area": "182146",
+    "latitude": 25.3598471,
+    "longitude": 82.464711,
+    "place_id": "ChIJc2L88gDljzkRNJjS8SryjgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2L88gDljzkRNJjS8SryjgA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:02:38"
+  }
+]

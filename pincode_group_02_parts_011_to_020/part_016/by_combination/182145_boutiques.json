@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink Rose Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "182145",
+    "phone_number": "+91 94193 59685",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "9, Bhagwati Nagar, Talab Tillo, Jammu, Jammu and Kashmir 180016",
+    "area": "Bhagwati Nagar, Talab Tillo",
+    "latitude": 32.732616799999995,
+    "longitude": 74.8344141,
+    "place_id": "ChIJRRHwGVaEHjkRPBZW_1OUZSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRHwGVaEHjkRPBZW_1OUZSA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:00:45"
+  },
+  {
+    "business_name": "Mehak Designer Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "182145",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/mehak.designerboutique?igsh=MmdpcDg0MTkwdjYx",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JR9P+865, Suha Wada, Jammu and Kashmir 181132",
+    "area": "182145",
+    "latitude": 32.6182583,
+    "longitude": 74.8355952,
+    "place_id": "ChIJ_VMUCQCbHjkROHFGkIdm9UU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VMUCQCbHjkROHFGkIdm9UU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:00:45"
+  }
+]

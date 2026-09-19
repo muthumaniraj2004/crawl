@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ECHS Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "184104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CFJ5+6GP ECHS Polyclinic, Gujroo, Nagrota, Jammu and Kashmir 184210",
+    "area": "184104",
+    "latitude": 32.4305802,
+    "longitude": 75.4588412,
+    "place_id": "ChIJN7dH7eVvHDkR79vonvXdjbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7dH7eVvHDkR79vonvXdjbo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:33"
+  },
+  {
+    "business_name": "Aarogya Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "184104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9C2P+4R7, Nagri-Parole, Chak Poorab, Jammu and Kashmir 184151",
+    "area": "184104",
+    "latitude": 32.349925999999996,
+    "longitude": 75.4384281,
+    "place_id": "ChIJ0zdUrUdxHDkRou53bu8Jq1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zdUrUdxHDkRou53bu8Jq1s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:33"
+  }
+]

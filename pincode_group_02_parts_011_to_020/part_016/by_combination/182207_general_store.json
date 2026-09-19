@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "rauthan general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182207",
+    "phone_number": "+91 95202 25002",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Lane No. 1, Upper Badrish Colony, Dharampur, Dehradun, Uttarakhand 248014",
+    "area": "Upper Badrish Colony, Dharampur",
+    "latitude": 30.2999555,
+    "longitude": 78.0645229,
+    "place_id": "ChIJZUV_cg4pCTkRPAuy3gjZk78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUV_cg4pCTkRPAuy3gjZk78",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:19:12"
+  },
+  {
+    "business_name": "Jay Yogeshwar General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182207",
+    "phone_number": "+91 75728 09108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Parivar Shopping Center, Udhaval Motafaliya Vali, Devgadh Baria, Gujarat 389380",
+    "area": "182207",
+    "latitude": 22.7009683,
+    "longitude": 73.9431917,
+    "place_id": "ChIJGckK1h_xYDkRoFwpFRnnbXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGckK1h_xYDkRoFwpFRnnbXk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:19:12"
+  }
+]

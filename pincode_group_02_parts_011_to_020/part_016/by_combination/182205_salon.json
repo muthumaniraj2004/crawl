@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "fancy hair salon Farooq azam",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "182205",
+    "phone_number": "+91 84940 86448",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Ni 1, Kungwari, Doda, Jammu and Kashmir 182205",
+    "area": "Kungwari",
+    "latitude": 33.3801578,
+    "longitude": 75.7254315,
+    "place_id": "ChIJP10FbGp1HTkRuuIJFhfbBMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP10FbGp1HTkRuuIJFhfbBMg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:31"
+  },
+  {
+    "business_name": "Hameed hair dresser Aftee",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "182205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VG5R+2Q7, Mungli, Jammu and Kashmir 182205",
+    "area": "182205",
+    "latitude": 33.8575303,
+    "longitude": 75.54192809999999,
+    "place_id": "ChIJS6CkQABl4jgR4Z--h774EbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6CkQABl4jgR4Z--h774EbU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:33"
+  }
+]

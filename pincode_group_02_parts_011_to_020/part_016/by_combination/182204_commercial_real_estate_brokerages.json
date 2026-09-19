@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KBR Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real Estate Builders & Construction Company, Real estate developer",
+    "pincode": "182204",
+    "phone_number": "+91 99082 96357",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 62,
+    "address": "3-126/6, BC Colony, Yadagirigutta, Telangana 508115",
+    "area": "BC Colony",
+    "latitude": 17.5820354,
+    "longitude": 78.95038749999999,
+    "place_id": "ChIJgSCxEmRnyzsR05aRmwmcJ6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSCxEmRnyzsR05aRmwmcJ6E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:24"
+  },
+  {
+    "business_name": "NHPC site Office Dulhasti",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "182204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9QFW+2F, Cher Jee, Jammu and Kashmir 182204",
+    "area": "182204",
+    "latitude": 33.3727,
+    "longitude": 75.7946838,
+    "place_id": "ChIJ1deTbQB1HTkRWepx4X_MH_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1deTbQB1HTkRWepx4X_MH_M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:25"
+  }
+]

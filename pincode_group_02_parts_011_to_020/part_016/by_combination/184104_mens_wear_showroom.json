@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roshan Fashion Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "184104",
+    "phone_number": "+91 94191 50901",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "College Rd, Urliwand, Kathua, Jammu and Kashmir 184101",
+    "area": "Urliwand",
+    "latitude": 32.3787103,
+    "longitude": 75.5220599,
+    "place_id": "ChIJbWs9W01xHDkRW8BZDMW_Co0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWs9W01xHDkRW8BZDMW_Co0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:22"
+  },
+  {
+    "business_name": "Look At me",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Garment Exporter",
+    "pincode": "184104",
+    "phone_number": "+91 70065 39405",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward No 19, opp. Shiva Floor Mill, Shiva Nagar, Kathua, Jammu and Kashmir 184104",
+    "area": "Shiva Nagar",
+    "latitude": 32.3935458,
+    "longitude": 75.5148442,
+    "place_id": "ChIJ3-n2t3NxHDkRjIX8rSN55A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-n2t3NxHDkRjIX8rSN55A8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:23"
+  }
+]

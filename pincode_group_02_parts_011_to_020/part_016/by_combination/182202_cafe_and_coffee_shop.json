@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coffea: brew on the rocks",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "182202",
+    "phone_number": "N/A",
+    "website": "https://coffeafoods.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "opposite J&K bank, Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Bathindi",
+    "latitude": 32.7117059,
+    "longitude": 74.9099842,
+    "place_id": "ChIJ58E9yiyDHjkRQuTvh-TCIQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58E9yiyDHjkRQuTvh-TCIQc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:10:52"
+  },
+  {
+    "business_name": "Coffee Concept a Unit of Cafe Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee wholesaler",
+    "all_categories": "Coffee wholesaler, Coffee store, Coffee vending machine, Consultant",
+    "pincode": "182202",
+    "phone_number": "+91 77809 94339",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "106, Vishal Nagar, Talab Tillo, Jammu, Jammu and Kashmir 180002",
+    "area": "Vishal Nagar, Talab Tillo",
+    "latitude": 32.734062,
+    "longitude": 74.8278997,
+    "place_id": "ChIJY6Sb84WFHjkRBklRjXDw6Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6Sb84WFHjkRBklRjXDw6Nw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:10:53"
+  }
+]

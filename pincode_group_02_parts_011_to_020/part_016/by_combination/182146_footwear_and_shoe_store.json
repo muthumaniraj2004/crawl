@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BROWN HUB FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "182146",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C5PW+FMM, Banihal, 182146",
+    "area": "182146",
+    "latitude": 33.4362077,
+    "longitude": 75.1966638,
+    "place_id": "ChIJDRGFHtfxHTkRh2oQbtfL2tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRGFHtfxHTkRh2oQbtfL2tc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:02:25"
+  },
+  {
+    "business_name": "Catwalk",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "182146",
+    "phone_number": "+91 60053 97762",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Talish Building, Verinag, Jammu and Kashmir 192212",
+    "area": "182146",
+    "latitude": 33.5387008,
+    "longitude": 75.24668679999999,
+    "place_id": "ChIJ0bgc3L_3HTkRvZZQmgXw-8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bgc3L_3HTkRvZZQmgXw-8U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:02:27"
+  }
+]

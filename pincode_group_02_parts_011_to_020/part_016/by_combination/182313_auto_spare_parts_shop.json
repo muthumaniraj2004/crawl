@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mahadev traders",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "182313",
+    "phone_number": "+91 94192 43333",
+    "website": "https://www.ashokleyland.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pouni, Daroon, Jammu and Kashmir 185203",
+    "area": "182313",
+    "latitude": 33.091631299999996,
+    "longitude": 74.6829989,
+    "place_id": "ChIJMfur_TJpHjkRqRuIYORT0RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfur_TJpHjkRqRuIYORT0RU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:08"
+  },
+  {
+    "business_name": "I. A. Motors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store, Car stereo store",
+    "pincode": "182313",
+    "phone_number": "+91 95964 44465",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 271,
+    "address": "Hazratbal Rd, near N.I.T, Nagin Bagh, Srinagar, Jammu and Kashmir 190006",
+    "area": "Nagin Bagh",
+    "latitude": 34.124902399999996,
+    "longitude": 74.8373542,
+    "place_id": "ChIJV8j8lF2E4TgRUbsie4T1QRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8j8lF2E4TgRUbsie4T1QRs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Real Himalayas",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Natural goods store",
+    "pincode": "182142",
+    "phone_number": "+91 88995 55929",
+    "website": "https://www.realhimalayas.com/",
+    "rating": 4.9,
+    "reviews_count": 109,
+    "address": "1st Floor, Al Sheikh Complex, Rawalpora, Srinagar, Badgam, Jammu and Kashmir 190005",
+    "area": "Rawalpora",
+    "latitude": 34.011196,
+    "longitude": 74.7875736,
+    "place_id": "ChIJpaf6csCP4TgRVGpjfmrXnD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaf6csCP4TgRVGpjfmrXnD8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:11"
+  },
+  {
+    "business_name": "LOCAL GROCERS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "182142",
+    "phone_number": "+91 80828 28899",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sector- G, Main Market Road, Sainik Colony, Jammu, Jammu and Kashmir 180011",
+    "area": "Sainik Colony",
+    "latitude": 32.673991199999996,
+    "longitude": 74.90378869999999,
+    "place_id": "ChIJZyJzxg2dHjkR6Bgr_yZ3YY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyJzxg2dHjkR6Bgr_yZ3YY0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:13"
+  }
+]

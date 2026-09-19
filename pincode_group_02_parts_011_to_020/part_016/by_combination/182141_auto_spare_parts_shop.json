@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K K AUTOMOBILE",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "182141",
+    "phone_number": "+91 98581 73290",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chenani Road, Chenani, Jammu and Kashmir 182141",
+    "area": "182141",
+    "latitude": 33.0392879,
+    "longitude": 75.2836062,
+    "place_id": "ChIJr10F2afJHTkRrdxhggnpzio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr10F2afJHTkRrdxhggnpzio",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:53:59"
+  },
+  {
+    "business_name": "Sharma Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "182141",
+    "phone_number": "+91 91495 00035",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Prem Mainder, Chenani, Jammu and Kashmir 182142",
+    "area": "182141",
+    "latitude": 33.0271958,
+    "longitude": 75.25849529999999,
+    "place_id": "ChIJW9QzxAzJHTkRiIAPAn7QHaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9QzxAzJHTkRiIAPAn7QHaw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:53:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Car Zone",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "184102",
+    "phone_number": "+91 60068 33866",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "Nh44 Chappar Morh, near Shiv Temple, opp. Kuldeep Tea Stall, Hiranagar, Jammu and Kashmir 184141",
+    "area": "184102",
+    "latitude": 32.4914972,
+    "longitude": 75.259391,
+    "place_id": "ChIJ5RkrqTEVHDkRwziGQfD_mm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RkrqTEVHDkRwziGQfD_mm0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:37:00"
+  },
+  {
+    "business_name": "KISSAN SERVICE STATION",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "184102",
+    "phone_number": "+91 88992 68058",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road, near canal, railway station, Hatli, Chak Sajjan, Jammu and Kashmir 184102",
+    "area": "Hatli",
+    "latitude": 32.3975248,
+    "longitude": 75.556946,
+    "place_id": "ChIJQ_KnDNh7HDkR_qq23h09wm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_KnDNh7HDkR_qq23h09wm8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:37:02"
+  }
+]

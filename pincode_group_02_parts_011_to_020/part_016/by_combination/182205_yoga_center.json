@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manali Yogashala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "182205",
+    "phone_number": "+91 89883 13599",
+    "website": "http://manaliyogashala.com/",
+    "rating": 5,
+    "reviews_count": 277,
+    "address": "near Government School, Vashist, Manali, Himachal Pradesh 175103",
+    "area": "182205",
+    "latitude": 32.2683882,
+    "longitude": 77.1870394,
+    "place_id": "ChIJ1-o9xJaHBDkRGvj6LttuZ6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-o9xJaHBDkRGvj6LttuZ6E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:13"
+  },
+  {
+    "business_name": "Yoga therapy center",
+    "search_category": "Yoga Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "182205",
+    "phone_number": "+91 98051 82527",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mandi - Pathankot Rd, Shahpur, Chandaran, Himachal Pradesh 176206",
+    "area": "182205",
+    "latitude": 32.2092605,
+    "longitude": 76.1859443,
+    "place_id": "ChIJk-G7--5bGzkRPCX6_360C_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-G7--5bGzkRPCX6_360C_o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:15"
+  }
+]

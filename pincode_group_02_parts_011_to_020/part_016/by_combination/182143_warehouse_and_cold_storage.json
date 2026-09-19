@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Warehouse Jammu",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "182143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "PV85+M93, Ratnuchak, Sanjay Nagar, Jabah, Jammu, Jammu and Kashmir 180004",
+    "area": "Ratnuchak, Sanjay Nagar, Jabah",
+    "latitude": 32.7166166,
+    "longitude": 74.85840689999999,
+    "place_id": "ChIJwwkfJgCFHjkRGnhuUtMEl84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwkfJgCFHjkRGnhuUtMEl84",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:58:29"
+  },
+  {
+    "business_name": "Royal Industries",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "182143",
+    "phone_number": "+91 70067 86171",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "63, industrial estate, zainakote, Srinagar, Jammu and Kashmir 190012",
+    "area": "industrial estate, zainakote",
+    "latitude": 34.0981502,
+    "longitude": 74.7386877,
+    "place_id": "ChIJk0hWKKCb4TgRjwcJidCh400",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0hWKKCb4TgRjwcJidCh400",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:58:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Kumar",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "184102",
+    "phone_number": "+91 78893 97263",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Khajuria Market, Railway Raod, near Ctm Colony, SICOP Units, Kathua, Jammu and Kashmir 184104",
+    "area": "SICOP Units",
+    "latitude": 32.3869037,
+    "longitude": 75.5456434,
+    "place_id": "ChIJsU47u817HDkR66jCmKkOdDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsU47u817HDkR66jCmKkOdDM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:29"
+  },
+  {
+    "business_name": "Samir shah fruit and vegetable shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "184102",
+    "phone_number": "+91 78897 26861",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Govt. Hr. Sec. School, Kathera, Jammu and Kashmir 184202",
+    "area": "184102",
+    "latitude": 32.4601769,
+    "longitude": 75.5291257,
+    "place_id": "ChIJkbGQQ1tlHDkRMZEHcd_yJ8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbGQQ1tlHDkRMZEHcd_yJ8Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:29"
+  }
+]

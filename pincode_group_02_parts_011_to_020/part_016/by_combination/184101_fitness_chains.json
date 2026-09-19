@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shails Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "184101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lane No 5, IID Centre, Govindar, Kathua, Jammu and Kashmir 184102",
+    "area": "Govindar",
+    "latitude": 32.407221199999995,
+    "longitude": 75.5577656,
+    "place_id": "ChIJoy8rXjZ7HDkR2iQ5exH7oCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoy8rXjZ7HDkR2iQ5exH7oCA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:35:19"
+  },
+  {
+    "business_name": "VK Mahajan & Bros Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sports complex",
+    "all_categories": "Sports complex, Fitness Equipment Wholesaler, Sporting goods store, Trophy shop",
+    "pincode": "184101",
+    "phone_number": "+91 94650 29682",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 241,
+    "address": "netaji market, 42/44, Dalhousie Road, Guru Nanak Nagar, Bhadroya, Pathankot, Punjab 145001",
+    "area": "Guru Nanak Nagar, Bhadroya",
+    "latitude": 32.272755599999996,
+    "longitude": 75.6583022,
+    "place_id": "ChIJtdZOSHJ_HDkR644JcMNr4so",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdZOSHJ_HDkR644JcMNr4so",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:35:19"
+  }
+]

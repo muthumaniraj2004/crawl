@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Designer Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Store",
+    "pincode": "182201",
+    "phone_number": "+91 70068 96028",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Nagri College Road, Thalanga, Doda, Jammu and Kashmir 182221",
+    "area": "Thalanga",
+    "latitude": 33.1445608,
+    "longitude": 75.5513984,
+    "place_id": "ChIJRVAz_1mlHTkRJQXs-DmuHzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVAz_1mlHTkRJQXs-DmuHzw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:15"
+  },
+  {
+    "business_name": "Santosh Readymade",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "182201",
+    "phone_number": "+91 70063 57553",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Old Eidgah Road, Aqramabad, Thalanga, Doda, Jammu and Kashmir 182201",
+    "area": "Aqramabad, Thalanga",
+    "latitude": 33.147146899999996,
+    "longitude": 75.5432921,
+    "place_id": "ChIJD6FSsvSlHTkREMoJ1XS_nfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6FSsvSlHTkREMoJ1XS_nfk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:15"
+  }
+]

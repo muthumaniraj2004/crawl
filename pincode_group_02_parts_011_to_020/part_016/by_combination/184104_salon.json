@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "184104",
+    "phone_number": "+91 96227 38483",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Morh, near Roshi Mobile Repair, Logate, Kathua, Jammu and Kashmir 184104",
+    "area": "184104",
+    "latitude": 32.4060501,
+    "longitude": 75.49193749999999,
+    "place_id": "ChIJCa14xlFxHDkREBuBFnBgd8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCa14xlFxHDkREBuBFnBgd8Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:59"
+  },
+  {
+    "business_name": "Js salon",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "184104",
+    "phone_number": "+91 98721 89894",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "W.no 17, Kabir nagar, Nagri Rd, Ramnik Vihar, Kathua, Jammu and Kashmir 184104",
+    "area": "Ramnik Vihar",
+    "latitude": 32.3690998,
+    "longitude": 75.5095661,
+    "place_id": "ChIJ0UFeB3hxHDkRzJ6fsOWfhDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UFeB3hxHDkRzJ6fsOWfhDI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:39:00"
+  }
+]

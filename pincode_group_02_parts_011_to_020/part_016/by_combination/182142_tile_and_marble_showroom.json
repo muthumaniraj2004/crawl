@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of Johnson",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Bathroom supply store",
+    "pincode": "182142",
+    "phone_number": "+91 80 3790 8007",
+    "website": "https://stores.hrjohnsonindia.com/h-r-johnson/tiles-shop-in-jammu/tiles-shop-in-suraj-nagar/h-r-johnson-tiles-dealer-aggarwal-traders-in-suraj-nagar-jammu--52c43551-5b08-4ef1-8cea-0bd73d0d7e95/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 6, Aggarwal Traders, Akhnoor Road, nearby Maruti Suzuki Showroom, Suraj Nagar, Jammu, Jammu and Kashmir 180016",
+    "area": "Suraj Nagar",
+    "latitude": 32.7304226,
+    "longitude": 74.8453755,
+    "place_id": "ChIJV96PjZyFHjkRY2dlhnWMius",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV96PjZyFHjkRY2dlhnWMius",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:55"
+  },
+  {
+    "business_name": "New Mahajan & Co",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "182142",
+    "phone_number": "+91 80825 24830",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "Main Bazaar, Bishnah, Jammu and Kashmir 181132",
+    "area": "182142",
+    "latitude": 32.6108195,
+    "longitude": 74.8594853,
+    "place_id": "ChIJ1S6EjZabHjkRaYbzjWoq_Mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1S6EjZabHjkRaYbzjWoq_Mo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:56"
+  }
+]

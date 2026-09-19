@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakti Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "182142",
+    "phone_number": "+91 94192 15313",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Main Bazar Katra, Katra, Jammu and Kashmir 182301",
+    "area": "182142",
+    "latitude": 32.993259,
+    "longitude": 74.9342015,
+    "place_id": "ChIJo7fPyL15HjkRvEX6qpUWfdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7fPyL15HjkRvEX6qpUWfdI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:27"
+  },
+  {
+    "business_name": "Punjab jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "182142",
+    "phone_number": "+91 60053 81804",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Word Number 6, Batote, Jammu and Kashmir 182143",
+    "area": "182142",
+    "latitude": 33.122873,
+    "longitude": 75.32181849999999,
+    "place_id": "ChIJMwlOEBXHHTkRI9n7KqVhc4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwlOEBXHHTkRI9n7KqVhc4Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:27"
+  }
+]

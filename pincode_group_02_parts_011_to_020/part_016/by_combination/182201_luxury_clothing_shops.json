@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pairahan",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store",
+    "pincode": "182201",
+    "phone_number": "+91 70513 56785",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nehru shopping complex, near bus stand, Thalanga, Doda, Jammu and Kashmir 182221",
+    "area": "Thalanga",
+    "latitude": 33.145548399999996,
+    "longitude": 75.5461969,
+    "place_id": "ChIJS1miZwClHTkR945vtTuosyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1miZwClHTkR945vtTuosyM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:21"
+  },
+  {
+    "business_name": "Pick N Glow",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "182201",
+    "phone_number": "+91 72980 60604",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2 Main Market Bun, Doda, Jammu and Kashmir 182143",
+    "area": "Bandoda",
+    "latitude": 33.1422629,
+    "longitude": 75.5438324,
+    "place_id": "ChIJ1X08PHylHTkRMab372V-S74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X08PHylHTkRMab372V-S74",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:22"
+  }
+]

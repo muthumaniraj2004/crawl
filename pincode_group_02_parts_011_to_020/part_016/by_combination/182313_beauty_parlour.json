@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Touch N Glow Beauty Saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "182313",
+    "phone_number": "+91 70510 92878",
+    "website": "https://touchngloww.netlify.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opposite Unani Hospital, Habak, Nasim Bagh, Srinagar, Jammu and Kashmir 190006",
+    "area": "Habak, Nasim Bagh",
+    "latitude": 34.1408744,
+    "longitude": 74.8389037,
+    "place_id": "ChIJT_4TbyOF4TgRNKBSegAykr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_4TbyOF4TgRNKBSegAykr0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:26"
+  },
+  {
+    "business_name": "PR The Makeup Studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "182313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PR Makeup Studio, near ITI Geeta Nagar, Reasi, Jammu and Kashmir 182311",
+    "area": "182313",
+    "latitude": 33.0831691,
+    "longitude": 74.853641,
+    "place_id": "ChIJs9I9HQBxHjkRhDD01c73Jr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9I9HQBxHjkRhDD01c73Jr4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:28"
+  }
+]

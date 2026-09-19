@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agoo Footwear Vailoo",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Business center, Outlet mall, Footwear wholesaler, Shopping mall, Sportswear store",
+    "pincode": "182205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MAIN CHOWK, near SBI ATM, Vailoo, Kokernag, Jammu and Kashmir 192202",
+    "area": "182205",
+    "latitude": 33.5644944,
+    "longitude": 75.3591126,
+    "place_id": "ChIJu_VI3TOLHTkRTxzVHXBxiuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_VI3TOLHTkRTxzVHXBxiuk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:00"
+  },
+  {
+    "business_name": "Ziya Footwear Vailoo",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "182205",
+    "phone_number": "+91 96826 09947",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Grameen Bank, Main market, opposite Malik hotel and restaurant, near, Vailoo, Jammu and Kashmir 192202",
+    "area": "near",
+    "latitude": 33.5648494,
+    "longitude": 75.3600524,
+    "place_id": "ChIJYwWC7ZuLHTkRgEpUpzoPwsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwWC7ZuLHTkRgEpUpzoPwsw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:00"
+  }
+]

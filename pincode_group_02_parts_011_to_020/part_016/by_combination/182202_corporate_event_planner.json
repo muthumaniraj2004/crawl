@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitish Event Planner & Catering",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "182202",
+    "phone_number": "+91 80827 05657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Madoon, Samba, Jammu and Kashmir 184145",
+    "area": "182202",
+    "latitude": 32.4724552,
+    "longitude": 75.1568179,
+    "place_id": "ChIJJbNAFgEXHDkRTDypMJNMlqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbNAFgEXHDkRTDypMJNMlqw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:11:42"
+  },
+  {
+    "business_name": "infusions events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "182202",
+    "phone_number": "+91 97971 78650",
+    "website": "https://infusionsevents.mypixieset.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "43, 3, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.6909789,
+    "longitude": 74.8887111,
+    "place_id": "ChIJwTfDzM-dHjkRzno8FF8Prfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTfDzM-dHjkRzno8FF8Prfo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:11:42"
+  }
+]

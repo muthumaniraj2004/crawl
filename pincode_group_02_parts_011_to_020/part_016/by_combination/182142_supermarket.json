@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OM Shakti Gen. Store",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "182142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "153, Dharalta, Batote, Jammu and Kashmir 182143",
+    "area": "182142",
+    "latitude": 33.1131495,
+    "longitude": 75.33879689999999,
+    "place_id": "ChIJQ3lz3AfHHTkRoCaEO_OyHKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3lz3AfHHTkRoCaEO_OyHKU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:09"
+  },
+  {
+    "business_name": "NISHATI’s Mini Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Indian grocery store",
+    "pincode": "182142",
+    "phone_number": "+91 88037 60137",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 26,
+    "address": "opposite Hotel Hill Top Main market, Batote, Jammu and Kashmir 182143",
+    "area": "182142",
+    "latitude": 33.1234132,
+    "longitude": 75.3201382,
+    "place_id": "ChIJ_1nIIyXHHTkRNejaYGo0WHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1nIIyXHHTkRNejaYGo0WHU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:09"
+  }
+]

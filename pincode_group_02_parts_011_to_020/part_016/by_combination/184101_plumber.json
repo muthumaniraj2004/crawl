@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil plumber service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "184101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shaheedi chowk, Kathua, Jammu and Kashmir 184102",
+    "area": "184101",
+    "latitude": 32.3863082,
+    "longitude": 75.5173465,
+    "place_id": "ChIJzUcRvzlxHDkR_xuV7EIkPiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUcRvzlxHDkR_xuV7EIkPiM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:35:33"
+  },
+  {
+    "business_name": "Vishal plumbing teem",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "184101",
+    "phone_number": "+91 96468 49030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Kalibari, Kathua, Jammu and Kashmir 184104",
+    "area": "Kalibari",
+    "latitude": 32.3974656,
+    "longitude": 75.51282189999999,
+    "place_id": "ChIJ12Dxv_5xHDkRy_VcExYxJ8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12Dxv_5xHDkRy_VcExYxJ8A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:35:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Dogra Skin clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "182203",
+    "phone_number": "+91 191 245 6901",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "21,Vyas Plaza, near Union Bank ATM, Satwari, Jammu, Jammu and Kashmir 180003",
+    "area": "Satwari, Jabah",
+    "latitude": 32.6921849,
+    "longitude": 74.84779069999999,
+    "place_id": "ChIJlelPVcqEHjkRa6V6CYv0kZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlelPVcqEHjkRa6V6CYv0kZ0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:12:46"
+  },
+  {
+    "business_name": "Reyaz Health Care Centre",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "182203",
+    "phone_number": "+91 70516 04580",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "5RH5+VJW, Drabshalla, Lass, Jammu and Kashmir 182204",
+    "area": "Drabshalla",
+    "latitude": 33.179711399999995,
+    "longitude": 75.80902859999999,
+    "place_id": "ChIJTZCOSAAPHTkREheF0JUjZmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZCOSAAPHTkREheF0JUjZmw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:12:48"
+  }
+]

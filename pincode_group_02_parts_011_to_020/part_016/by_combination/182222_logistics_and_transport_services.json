@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KFC Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "182222",
+    "phone_number": "+91 94191 07715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JWW4+5RF, Dorga Shopping Complex, Ind Chowk, Bari Brahmana, Samba, Jammu and Kashmir 181133",
+    "area": "182222",
+    "latitude": 32.6454399,
+    "longitude": 74.90704219999999,
+    "place_id": "ChIJ4_YxRlqcHjkRPBGVfjFsTYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_YxRlqcHjkRPBGVfjFsTYI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:23:11"
+  },
+  {
+    "business_name": "Bajaj logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Courier service, International trade consultant, Transportation service",
+    "pincode": "182222",
+    "phone_number": "+91 98117 77755",
+    "website": "http://bajajlogistics.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "CW - 48, 1st Floor, Sanjay Gandhi Transport Nagar, Delhi, 110042",
+    "area": "Sanjay Gandhi Transport Nagar",
+    "latitude": 28.7425677,
+    "longitude": 77.1504404,
+    "place_id": "ChIJVVVVFacBDTkRSr-cTAIcuqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFacBDTkRSr-cTAIcuqg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:23:13"
+  }
+]

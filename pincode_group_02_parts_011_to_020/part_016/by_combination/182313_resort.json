@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "County Park & Suites Tridev Shiv Khori",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "182313",
+    "phone_number": "+91 95966 07454",
+    "website": "http://www.tridevhotels.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shiv Khori, Ransoo, Reasi, Jammu and Kashmir 185203",
+    "area": "182313",
+    "latitude": 33.165224699999996,
+    "longitude": 74.6035406,
+    "place_id": "ChIJmdqObhZrHjkRIaNIZ9HXjiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdqObhZrHjkRIaNIZ9HXjiE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:38"
+  },
+  {
+    "business_name": "King resort",
+    "search_category": "Resort",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "182313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "537Q+HV, Galeote, Jammu and Kashmir 182144",
+    "area": "182313",
+    "latitude": 33.163955,
+    "longitude": 75.08970699999999,
+    "place_id": "ChIJlU5caADdHTkRNHeP6kN7BRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlU5caADdHTkRNHeP6kN7BRE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PREMIUM GENERAL STORE",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "184102",
+    "phone_number": "+91 70065 06721",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9GMG+5FM PREMIUM GENERAL STORE, DH Road, Haji Colony, Kathua, Jammu and Kashmir 184101",
+    "area": "Haji Colony",
+    "latitude": 32.3829531,
+    "longitude": 75.5261639,
+    "place_id": "ChIJL5pp1BhxHDkRlDnrwIyyx98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5pp1BhxHDkRlDnrwIyyx98",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:02"
+  },
+  {
+    "business_name": "Ardh Saink Canteen Dayalachak",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "184102",
+    "phone_number": "+91 70066 83256",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "46, Dayalachack, Jammu and Kashmir 184144",
+    "area": "184102",
+    "latitude": 32.4764665,
+    "longitude": 75.30688649999999,
+    "place_id": "ChIJuVVBpJcTHDkRoWTaktkOULU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVVBpJcTHDkRoWTaktkOULU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:03"
+  }
+]

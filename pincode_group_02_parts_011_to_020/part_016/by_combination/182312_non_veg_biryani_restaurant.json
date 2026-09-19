@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Golden Boot Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "182312",
+    "phone_number": "+91 96743 93700",
+    "website": "https://hotelravista.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SBSTC, Airport 1 No Gate, Bus Stop, Ra Vista, 138 Majumdar Para Road, Kolkata, West Bengal 700079",
+    "area": "International Airport, Motilal Colony, Rajbari, Dum Dum",
+    "latitude": 22.6439198,
+    "longitude": 88.43255669999999,
+    "place_id": "ChIJiync05-f-DkRMniwECBDIkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiync05-f-DkRMniwECBDIkA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:27:57"
+  },
+  {
+    "business_name": "Hyderabad Biryaani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "182312",
+    "phone_number": "+91 96327 33003",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "227, 7th Main Rd, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar",
+    "latitude": 13.0187426,
+    "longitude": 77.6429397,
+    "place_id": "ChIJFVM_ryoXrjsRHjo8S_72fV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVM_ryoXrjsRHjo8S_72fV4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:27:58"
+  }
+]

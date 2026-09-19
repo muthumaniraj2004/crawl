@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakeel plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "182145",
+    "phone_number": "+91 90860 80913",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "above Lamber, Lamber, Banihal, Jammu and Kashmir 182146",
+    "area": "Lamber",
+    "latitude": 33.478293199999996,
+    "longitude": 75.1744421,
+    "place_id": "ChIJVZa4n7zxHTkRvIipbCfPXmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZa4n7zxHTkRvIipbCfPXmA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:01:09"
+  },
+  {
+    "business_name": "Nextgen plumbers",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "182145",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/share/1JKzdS4ypf/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adigam, Jammu and Kashmir 192202",
+    "area": "182145",
+    "latitude": 33.589000399999996,
+    "longitude": 75.3119425,
+    "place_id": "ChIJcbiq2J31HTkR6CYL3WRtbHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbiq2J31HTkR6CYL3WRtbHo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:01:09"
+  }
+]

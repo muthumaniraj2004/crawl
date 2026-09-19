@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DOCTOR JOHAN",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "182313",
+    "phone_number": "+91 72988 97475",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Main bazar, Dharmari, Thuru, Jammu and Kashmir 182313",
+    "area": "Dharmari",
+    "latitude": 33.258491299999996,
+    "longitude": 74.8331132,
+    "place_id": "ChIJL3ufUd0NHjkRMttJUvg32kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3ufUd0NHjkRMttJUvg32kM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:29:58"
+  },
+  {
+    "business_name": "Your vet clinic DR. MOHD NAVEED ZARGAR",
+    "search_category": "Doctors",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "182313",
+    "phone_number": "+91 96825 00316",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mahore, Shajroo, Jammu and Kashmir 182315",
+    "area": "Mahore",
+    "latitude": 33.309614499999995,
+    "longitude": 74.8594765,
+    "place_id": "ChIJ9ySK2hwPHjkReV-a6X3kZa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ySK2hwPHjkReV-a6X3kZa4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:29:58"
+  }
+]

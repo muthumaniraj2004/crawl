@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blends City Mall",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "182147",
+    "phone_number": "+91 97977 63632",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "2nd floor, Food Court, City Mall, Lal Chowk, Srinagar, Jammu and Kashmir 190001",
+    "area": "Regal Chowk, Munshi Bagh",
+    "latitude": 34.0732583,
+    "longitude": 74.8193972,
+    "place_id": "ChIJd4oa1ZGP4TgRcb703-nXWdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4oa1ZGP4TgRcb703-nXWdQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:03:56"
+  },
+  {
+    "business_name": "TTT Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "182147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 283,
+    "address": "12-2 790, 1, Mehdipatnam Rd, Ambedkar Colony, Gudimalkapur, Hyderabad, Telangana 500006",
+    "area": "Ambedkar Colony, Gudimalkapur",
+    "latitude": 17.3949395,
+    "longitude": 78.4353849,
+    "place_id": "ChIJp493_yeXyzsRMpI96Eczhzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp493_yeXyzsRMpI96Eczhzo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:03:58"
+  }
+]

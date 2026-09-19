@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Ibaad Medical Shop",
+    "search_category": "Clinics",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "182205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bus stand Asrar Abad Patimhall, Jammu and Kashmir 182205",
+    "area": "182205",
+    "latitude": 33.4273631,
+    "longitude": 75.7201343,
+    "place_id": "ChIJkWjHvwN3HTkRFi6vimA8eLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWjHvwN3HTkRFi6vimA8eLI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:06"
+  },
+  {
+    "business_name": "Like Medical Hall",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "182205",
+    "phone_number": "+91 88036 80551",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FVQ3+XCH, Ikhala Rd, Forest Block, Jammu and Kashmir 182205",
+    "area": "182205",
+    "latitude": 33.4899385,
+    "longitude": 75.85360589999999,
+    "place_id": "ChIJW74xhl9wHTkRhco9m5L4fU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW74xhl9wHTkRhco9m5L4fU4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:08"
+  }
+]

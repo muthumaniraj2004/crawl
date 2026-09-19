@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Kitchen Cloud",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "182146",
+    "phone_number": "+91 93912 12356",
+    "website": "https://drkitchencloud.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opposite police Station, ravulapalam, Vedireswaram, Ravulapalem, Andhra Pradesh 533238",
+    "area": "ravulapalam",
+    "latitude": 16.7633743,
+    "longitude": 81.84305859999999,
+    "place_id": "ChIJOcietnO_NzoRdZZz-UAiK24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcietnO_NzoRdZZz-UAiK24",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:02:20"
+  },
+  {
+    "business_name": "B&C Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "182146",
+    "phone_number": "+91 70757 23405",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2 nd floor Above Natukodi Chicken Centre Srinagar Colony, Road, near Mro Office, Surya Nagar, Alwal, Hyderabad, Telangana 500010",
+    "area": "Surya Nagar, Alwal",
+    "latitude": 17.512347899999998,
+    "longitude": 78.50225209999999,
+    "place_id": "ChIJH7tcxa6byzsRVpvdf56PpgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7tcxa6byzsRVpvdf56PpgY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:02:20"
+  }
+]

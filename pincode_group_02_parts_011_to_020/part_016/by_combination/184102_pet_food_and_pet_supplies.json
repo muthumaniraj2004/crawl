@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SURYANSH PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "184102",
+    "phone_number": "+91 97805 02021",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9GJX+36C, Hatli More Rd, opp. Ice Factory, Chak Shekhian, Kathua, Jammu and Kashmir 184104",
+    "area": "Chak Shekhian",
+    "latitude": 32.3801908,
+    "longitude": 75.5480287,
+    "place_id": "ChIJc86feIt6HDkRQ_2CqzPQQM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc86feIt6HDkRQ_2CqzPQQM8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:34"
+  },
+  {
+    "business_name": "Tarragon cattle feed",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "184102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CG7V+XWF, Kharot, Jammu and Kashmir 184104",
+    "area": "184102",
+    "latitude": 32.4149269,
+    "longitude": 75.5448122,
+    "place_id": "ChIJ6QGKLQB7HDkR0gRYMxsayRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QGKLQB7HDkR0gRYMxsayRU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:35"
+  }
+]

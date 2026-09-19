@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Deal Electrical Store",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "182205",
+    "phone_number": "+91 84920 10173",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8Q96 97F, Kishtwar, Jammu and Kashmir 182204",
+    "area": "182205",
+    "latitude": 33.3184858,
+    "longitude": 75.76070109999999,
+    "place_id": "ChIJZzTNbu8LHTkR1imNx1Nt9p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzTNbu8LHTkR1imNx1Nt9p4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:27"
+  },
+  {
+    "business_name": "Parihar Electrical Works",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "182205",
+    "phone_number": "+91 80823 76038",
+    "website": "http://www.pariharelectricalworks.blogspot.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Mallar Palmar Kishtwar Jammu and Kashmir, 182205",
+    "area": "182205",
+    "latitude": 33.408654999999996,
+    "longitude": 75.709721,
+    "place_id": "ChIJ6flWHVafHTkR3g7zcxSXUtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6flWHVafHTkR3g7zcxSXUtE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:16:27"
+  }
+]

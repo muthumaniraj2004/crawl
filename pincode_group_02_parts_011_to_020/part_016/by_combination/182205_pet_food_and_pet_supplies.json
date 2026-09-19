@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy paws pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet groomer",
+    "all_categories": "Pet groomer, Pet adoption service, Pet boarding service, Pet store, Pet supply store",
+    "pincode": "182205",
+    "phone_number": "+91 80822 25532",
+    "website": "https://happy-paws-pet-shop.grexa.site/",
+    "rating": 4.6,
+    "reviews_count": 151,
+    "address": "Budshah Nagar, Natipora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Budshah Nagar, Natipora",
+    "latitude": 34.038376899999996,
+    "longitude": 74.8189388,
+    "place_id": "ChIJwzaoakuP4TgR_LM3oGXsw5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzaoakuP4TgR_LM3oGXsw5Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:49"
+  },
+  {
+    "business_name": "Kapila Dog Farm",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "182205",
+    "phone_number": "+91 82787 54668",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 227,
+    "address": "Lal Singi, near Lala Jagat Narain Himotkarsh Kanya Mahavidyalya College, Una, Himachal Pradesh 174303",
+    "area": "182205",
+    "latitude": 31.486554599999998,
+    "longitude": 76.250795,
+    "place_id": "ChIJMyjSNA3bGjkRAYbDaMse3rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyjSNA3bGjkRAYbDaMse3rs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:49"
+  }
+]

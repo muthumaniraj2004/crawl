@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ultimate Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court",
+    "pincode": "182204",
+    "phone_number": "+91 95418 16625",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "near Bus Stand, Kishtwar, Jammu and Kashmir 182204",
+    "area": "182204",
+    "latitude": 33.3111689,
+    "longitude": 75.7685925,
+    "place_id": "ChIJaY6GJgALHTkRpxWoS4SISQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY6GJgALHTkRpxWoS4SISQ4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:14:11"
+  },
+  {
+    "business_name": "The pizza spot",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "182204",
+    "phone_number": "+91 95415 00783",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 20,
+    "address": "Fridiya road, Kishtwar, 182204",
+    "area": "182204",
+    "latitude": 33.311817399999995,
+    "longitude": 75.7675931,
+    "place_id": "ChIJlxs8mBALHTkRm2aapk5J6zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxs8mBALHTkRm2aapk5J6zA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:14:11"
+  }
+]

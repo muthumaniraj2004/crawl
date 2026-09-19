@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AL FROZEN MART",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Frozen dessert supplier, Frozen food manufacturer, Meal delivery, Seafood wholesaler, Wholesale Food Store",
+    "pincode": "184102",
+    "phone_number": "+91 88492 15515",
+    "website": "https://al-frozenmart.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Agarwal Industrial Estate, SHOP 11 CRYSTAL PARK CHS, A WING SAGAR MALKANI COMP, W near CORNER, Swami Vivekanand Rd, Jogeshwari West, Mumbai, Maharashtra 400102",
+    "area": "Khan Estate, Jogeshwari West",
+    "latitude": 19.1387718,
+    "longitude": 72.84411879999999,
+    "place_id": "ChIJU3-5n9y35zsRC4iTj3Nb8jM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3-5n9y35zsRC4iTj3Nb8jM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:35"
+  },
+  {
+    "business_name": "Kohinoor Enterprise - Dongri, Mumbai",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "184102",
+    "phone_number": "+91 70415 47121",
+    "website": "http://www.kohinoorfrozenfoods.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "12, Jail Rd, beside Sadguru Hotel, Dongri, Umerkhadi, Mumbai, Maharashtra 400009",
+    "area": "Dongri, Umerkhadi",
+    "latitude": 18.960548199999998,
+    "longitude": 72.83663419999999,
+    "place_id": "ChIJV2zSRWzP5zsRQl621y_SSR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2zSRWzP5zsRQl621y_SSR4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Industrial Training Institute",
+    "search_category": "Driving School",
+    "primary_category": "University",
+    "all_categories": "University",
+    "pincode": "184104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "9G7C+VW8, Kathua, Jammu and Kashmir 184101",
+    "area": "184104",
+    "latitude": 32.3646567,
+    "longitude": 75.52231549999999,
+    "place_id": "ChIJGyXhjoNwHDkRWq3fdP0k-48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyXhjoNwHDkRWq3fdP0k-48",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:46"
+  },
+  {
+    "business_name": "Himayat Training Centre",
+    "search_category": "Driving School",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "184104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 7,
+    "address": "9GCR+VR4, Shastri Nagar, Kathua, Changrah, 184101",
+    "area": "Shastri Nagar",
+    "latitude": 32.3721369,
+    "longitude": 75.5420676,
+    "place_id": "ChIJ96s3L_x7HDkRLfl7OgZJAr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96s3L_x7HDkRLfl7OgZJAr8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:38:46"
+  }
+]

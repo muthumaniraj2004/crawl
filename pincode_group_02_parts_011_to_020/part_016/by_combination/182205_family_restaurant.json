@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friendly Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "182205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "P8PQ+MPH, Methmoo, chearpora, Jammu and Kashmir 192201",
+    "area": "Methmoo",
+    "latitude": 33.736687499999995,
+    "longitude": 75.33935939999999,
+    "place_id": "ChIJ7_7JbQAN4jgRyum5DNOcSbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_7JbQAN4jgRyum5DNOcSbs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:54"
+  },
+  {
+    "business_name": "Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "182205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "182204",
+    "area": "182205",
+    "latitude": 33.337541,
+    "longitude": 75.75969839999999,
+    "place_id": "ChIJL0WfGih1HTkRsQJ3JOJFtCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0WfGih1HTkRsQJ3JOJFtCc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:57"
+  }
+]

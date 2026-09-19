@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohit Hardware store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Construction Material Wholesaler",
+    "all_categories": "Construction Material Wholesaler",
+    "pincode": "182313",
+    "phone_number": "+91 78899 22519",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hatli More Rd, Industrial Units Kathua, Kathua, Jammu and Kashmir 184102",
+    "area": "Industrial Units Kathua",
+    "latitude": 32.3824448,
+    "longitude": 75.55078619999999,
+    "place_id": "ChIJ5y1Srdh7HDkReasp3bhXr3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5y1Srdh7HDkReasp3bhXr3A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:19"
+  },
+  {
+    "business_name": "Gupta Builders Corporation",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Hardware store, Plywood supplier, Wood and laminate flooring supplier",
+    "pincode": "182313",
+    "phone_number": "+91 94191 50147",
+    "website": "http://m.me/guptabuildercorp47",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gupta Builder Corp, Sher Singh Mandi, Kathua, Jammu and Kashmir 184101",
+    "area": "Sher Singh Mandi",
+    "latitude": 32.3695916,
+    "longitude": 75.5215384,
+    "place_id": "ChIJxws5jRJwHDkRkex_p8bkuGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxws5jRJwHDkRkex_p8bkuGk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:19"
+  }
+]

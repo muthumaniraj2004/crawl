@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AIFACS Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery, Arts organization",
+    "pincode": "182222",
+    "phone_number": "+91 11 2332 3637",
+    "website": "http://www.aifacs.org.in/",
+    "rating": 4.5,
+    "reviews_count": 700,
+    "address": "1, Rafi Marg, Sansad Marg Area, New Delhi, Delhi 110001",
+    "area": "Sansad Marg Area",
+    "latitude": 28.6177587,
+    "longitude": 77.211891,
+    "place_id": "ChIJV3PHB7TiDDkRdzBNsKY1IbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3PHB7TiDDkRdzBNsKY1IbI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:24:05"
+  },
+  {
+    "business_name": "Exhibition events",
+    "search_category": "Exhibitions",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "182222",
+    "phone_number": "N/A",
+    "website": "https://exhibition-events.grexa.site/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Saifi exhibition events, Harswaroop Colony Main Rd, Fatehpur Beri, New Delhi, Delhi 110074",
+    "area": "Fatehpur Beri",
+    "latitude": 28.454087599999998,
+    "longitude": 77.1821327,
+    "place_id": "ChIJMcWQAuIfDTkR0nSt7Bp2hwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcWQAuIfDTkR0nSt7Bp2hwE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:24:05"
+  }
+]

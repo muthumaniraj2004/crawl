@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Shoe store",
+    "pincode": "184102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 362,
+    "address": "Main Rd, nearby Old Bus Stand, Ward No-9, Kathua, Jammu and Kashmir 184101",
+    "area": "Ward No-9",
+    "latitude": 32.3698157,
+    "longitude": 75.5279925,
+    "place_id": "ChIJV5xbEs97HDkRbqiWkXdM-vU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5xbEs97HDkRbqiWkXdM-vU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:45"
+  },
+  {
+    "business_name": "Northern Swagg",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Garment Exporter",
+    "pincode": "184102",
+    "phone_number": "+91 96221 72526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Northern Swagg, Old Bus Stand, Parliwand, Kathua, Changrah, Jammu and Kashmir 184101",
+    "area": "Parliwand",
+    "latitude": 32.369914,
+    "longitude": 75.5296041,
+    "place_id": "ChIJB6kuuR57HDkRXO_LjijneEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6kuuR57HDkRXO_LjijneEg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:45"
+  }
+]

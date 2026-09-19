@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eventzgraph",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Caterer, DJ service, Event management company, Flower designer, Magician, Wedding planner",
+    "pincode": "182147",
+    "phone_number": "+91 97737 95904",
+    "website": "https://eventzgraph.com/",
+    "rating": 4.7,
+    "reviews_count": 395,
+    "address": "thanaji, Shatrunjay Giriraj Apartments, c/704, New Mill Rd, Ambedkar Nagar, Kurla West, Kurla, Mumbai, Maharashtra 400070",
+    "area": "Ambedkar Nagar, Kurla West, Kurla",
+    "latitude": 19.072864,
+    "longitude": 72.87827899999999,
+    "place_id": "ChIJwRrbYpLI5zsRlEc5_fDkCU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRrbYpLI5zsRlEc5_fDkCU0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:55"
+  },
+  {
+    "business_name": "D-Day Evento",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Outdoor activity organiser, Party planner, Professional organizer, Wedding planner, Wedding service",
+    "pincode": "182147",
+    "phone_number": "+91 97033 32813",
+    "website": "https://ddayevento.com/",
+    "rating": 5,
+    "reviews_count": 75,
+    "address": "Srinilayam, Plot no : 88/5, TNGO's Colony Phase 2, TNGOS Colony, Gachibowli, Hyderabad, Telangana 500046",
+    "area": "TNGO's Colony Phase 2, TNGOS Colony, Gachibowli",
+    "latitude": 17.4371855,
+    "longitude": 78.3330125,
+    "place_id": "ChIJ7wwNzAkyBSwRCPJrv3122Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wwNzAkyBSwRCPJrv3122Yw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:55"
+  }
+]

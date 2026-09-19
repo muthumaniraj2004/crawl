@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daily cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Health food store, Meal delivery",
+    "pincode": "182207",
+    "phone_number": "+91 87993 18855",
+    "website": "http://www.dailycloudkitchen.com/",
+    "rating": 4.4,
+    "reviews_count": 86,
+    "address": "Makarba, Ahmedabad, Gujarat 380051",
+    "area": "Makarba",
+    "latitude": 22.999408,
+    "longitude": 72.5044442,
+    "place_id": "ChIJtc_MHh2bXjkRMWoVVyn3K0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtc_MHh2bXjkRMWoVVyn3K0c",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:19:19"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food bank",
+    "all_categories": "Food bank",
+    "pincode": "182207",
+    "phone_number": "+91 94138 40604",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "48/61Rajat Path, New Sanganer Rd, Ganpatpura, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ganpatpura, Mansarovar",
+    "latitude": 26.8634256,
+    "longitude": 75.7536653,
+    "place_id": "ChIJrZjtb9y1bTkROrwwOpKrw1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZjtb9y1bTkROrwwOpKrw1Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:19:20"
+  }
+]

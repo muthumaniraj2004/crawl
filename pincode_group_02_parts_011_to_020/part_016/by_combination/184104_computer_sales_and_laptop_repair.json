@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devika Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer security service, Security system installation service, Security system supplier",
+    "pincode": "184104",
+    "phone_number": "+91 91031 99031",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JK Armed Police Centre, Kathua Palli Link Rd, Badala, Kathua, Jammu and Kashmir 184104",
+    "area": "Badala",
+    "latitude": 32.375800999999996,
+    "longitude": 75.4837287,
+    "place_id": "ChIJi7cJ8nFwHDkRSraos_5-iqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7cJ8nFwHDkRSraos_5-iqw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:39:19"
+  },
+  {
+    "business_name": "S M Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "184104",
+    "phone_number": "+91 83609 09127",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "9J56+R69, Main Bazar, Madhopur, Tharyal, Punjab 145024",
+    "area": "184104",
+    "latitude": 32.3595446,
+    "longitude": 75.6106211,
+    "place_id": "ChIJxThK4l97HDkRu9f8zHGnnVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxThK4l97HDkRu9f8zHGnnVE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:39:22"
+  }
+]

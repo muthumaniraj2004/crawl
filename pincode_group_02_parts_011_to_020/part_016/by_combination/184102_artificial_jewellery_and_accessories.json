@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puja Knitting",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Bangle Shop, Cosmetics store, Gift shop, Knit shop",
+    "pincode": "184102",
+    "phone_number": "+91 60051 19807",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Krishna Marg, near shri shani temple, Urliwand, Kathua, Jammu and Kashmir 184101",
+    "area": "Urliwand",
+    "latitude": 32.3803256,
+    "longitude": 75.5279375,
+    "place_id": "ChIJT5r9a7h7HDkRPtThJLPrwpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5r9a7h7HDkRPtThJLPrwpo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:48"
+  },
+  {
+    "business_name": "Kapoor GoldSmith",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "184102",
+    "phone_number": "+91 95966 12116",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parliwand, Kathua, Changrah, Jammu and Kashmir 184101",
+    "area": "Parliwand",
+    "latitude": 32.3686886,
+    "longitude": 75.5280516,
+    "place_id": "ChIJCcfWlR97HDkR5rfXJeDZI20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcfWlR97HDkR5rfXJeDZI20",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:36:48"
+  }
+]

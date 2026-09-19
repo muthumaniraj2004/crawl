@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182142",
+    "phone_number": "+91 94191 68738",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Ward No 4, Batote, Jammu and Kashmir 182143",
+    "area": "182142",
+    "latitude": 33.1232632,
+    "longitude": 75.3177129,
+    "place_id": "ChIJM7HOb_LHHTkRBsfcwMS8wAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7HOb_LHHTkRBsfcwMS8wAY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:09"
+  },
+  {
+    "business_name": "Home Sense Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "182142",
+    "phone_number": "+91 70069 22682",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "New Airport Rd, Parray Pora, Chinar Colony, Srinagar, Jammu and Kashmir 190001",
+    "area": "Parray Pora, Chinar Colony",
+    "latitude": 34.038855999999996,
+    "longitude": 74.7973134,
+    "place_id": "ChIJCVeNLiuP4TgRd-F8Lt57KC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVeNLiuP4TgRd-F8Lt57KC8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:55:10"
+  }
+]

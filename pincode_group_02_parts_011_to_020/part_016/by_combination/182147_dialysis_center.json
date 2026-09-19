@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sml dialysis center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital, Hospital",
+    "pincode": "182147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "swami vivekananda hospital, Amphalla Road, Jammu, Jammu and Kashmir 180001",
+    "area": "Ambphalla",
+    "latitude": 32.7455582,
+    "longitude": 74.86535409999999,
+    "place_id": "ChIJl-kyYHqEHjkRW3Q6QhgeG4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-kyYHqEHjkRW3Q6QhgeG4I",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:17"
+  },
+  {
+    "business_name": "Al Huda Renal Care And Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "182147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "4RM3+M76, Ganderbal Rd, Soura, Srinagar, Jammu and Kashmir 190011",
+    "area": "Soura",
+    "latitude": 34.1341596,
+    "longitude": 74.8031402,
+    "place_id": "ChIJhVjfR7qF4TgRbqLor2-7UoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVjfR7qF4TgRbqLor2-7UoM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:19"
+  }
+]

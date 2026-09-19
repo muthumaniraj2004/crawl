@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarun Enterprises",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "182301",
+    "phone_number": "+91 70061 70411",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "184, Gali Gujran, Kanak Mandi, Jammu, Jammu and Kashmir 180001",
+    "area": "Kanak Mandi, Pakki Dhaki",
+    "latitude": 32.732604099999996,
+    "longitude": 74.8661939,
+    "place_id": "ChIJVcjOY66FHjkRe4-o5YizZ64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcjOY66FHjkRe4-o5YizZ64",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:25:21"
+  },
+  {
+    "business_name": "Narula Palace",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "182301",
+    "phone_number": "+91 98140 42152",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 390,
+    "address": "166-B, Dilbag Nagar, Basti Guzan, Jalandhar, Punjab 144002",
+    "area": "Dilbag Nagar, Basti Guzan",
+    "latitude": 31.3254141,
+    "longitude": 75.5456908,
+    "place_id": "ChIJy7zIsnZbGjkRLC1guM66NAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7zIsnZbGjkRLC1guM66NAM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:25:22"
+  }
+]

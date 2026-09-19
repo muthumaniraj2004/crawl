@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel royal beer bar neknoor",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "182206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hotel royal beer bar, Neknoor, Maharashtra 431125",
+    "area": "182206",
+    "latitude": 18.7988244,
+    "longitude": 75.7893395,
+    "place_id": "ChIJWVcgAbYnxTsRw2G3nLRYgoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVcgAbYnxTsRw2G3nLRYgoo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:17:37"
+  },
+  {
+    "business_name": "Flow Club",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Disco club",
+    "pincode": "182206",
+    "phone_number": "+91 95390 80001",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Adhunik Vihar, Mamun, Pathankot, Punjab 145001",
+    "area": "Adhunik Vihar, Mamun",
+    "latitude": 32.2745724,
+    "longitude": 75.7000497,
+    "place_id": "ChIJFS19SLZ_HDkRAUANLFeixq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFS19SLZ_HDkRAUANLFeixq8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:17:39"
+  }
+]

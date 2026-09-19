@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prashar Market SooL",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "182320",
+    "phone_number": "+91 90862 52222",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near DPS, Katra, Pandhal, Jammu and Kashmir 182320",
+    "area": "182320",
+    "latitude": 32.9521279,
+    "longitude": 74.95096749999999,
+    "place_id": "ChIJs-qe2sB_HjkR3VXc870AmmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-qe2sB_HjkR3VXc870AmmQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:33:00"
+  },
+  {
+    "business_name": "New Nandani Dry Fruit",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "182320",
+    "phone_number": "+91 80823 14326",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Domel Katra Rd, near Jain Dev Guest House, Reasi, Katra, Jammu and Kashmir 182301",
+    "area": "182320",
+    "latitude": 32.991413699999995,
+    "longitude": 74.93219169999999,
+    "place_id": "ChIJLVOkiqF5HjkR1KtcAKO0-n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVOkiqF5HjkR1KtcAKO0-n4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:33:00"
+  }
+]

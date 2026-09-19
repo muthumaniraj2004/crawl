@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KashKlean",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "182311",
+    "phone_number": "N/A",
+    "website": "http://www.kashklean.in/",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "Airport Rd, Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "Hyderpora",
+    "latitude": 34.035889,
+    "longitude": 74.78445529999999,
+    "place_id": "ChIJZYvv2zmP4TgRl79DJv6ivTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYvv2zmP4TgRl79DJv6ivTA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:27:26"
+  },
+  {
+    "business_name": "Uttam Facility Management",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Corporate office, Security guard service, Warehouse, Water Tank Cleaners",
+    "pincode": "182311",
+    "phone_number": "+91 96441 30012",
+    "website": "https://www.uttamfacility.com/",
+    "rating": 4.8,
+    "reviews_count": 257,
+    "address": "Vijay Nagar Square, Ratna Lok Colony, Indore, Madhya Pradesh 452010",
+    "area": "Ratna Lok Colony",
+    "latitude": 22.7503846,
+    "longitude": 75.8956616,
+    "place_id": "ChIJMd8nWGcDYzkR6AvIJm7-aHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMd8nWGcDYzkR6AvIJm7-aHU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:27:28"
+  }
+]

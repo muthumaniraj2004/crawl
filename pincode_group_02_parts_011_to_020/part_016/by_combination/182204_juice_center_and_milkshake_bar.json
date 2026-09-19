@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navni Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "182204",
+    "phone_number": "+91 90192 74535",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Main Rd, beside SBI bank, near KSRTC bus stand, Gokarna, Karnataka 581326",
+    "area": "182204",
+    "latitude": 14.545523699999999,
+    "longitude": 74.32015559999999,
+    "place_id": "ChIJhU66BM-DvjsRlCXuHDNWWro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhU66BM-DvjsRlCXuHDNWWro",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:14:08"
+  },
+  {
+    "business_name": "Ganesh Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "182204",
+    "phone_number": "+91 99176 93633",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "VV4G+XR9, Malviya Chowk, Roorkee, Uttarakhand 247667",
+    "area": "Malviya Chowk",
+    "latitude": 29.8574104,
+    "longitude": 77.8771146,
+    "place_id": "ChIJT4wCqp6zDjkR58BnPybEtfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4wCqp6zDjkR58BnPybEtfg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:14:10"
+  }
+]

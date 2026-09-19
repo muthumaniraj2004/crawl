@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EAT & EAT DELICIOUS FAST FOOD",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Biryani restaurant, Fish restaurant",
+    "pincode": "182201",
+    "phone_number": "+91 88991 81466",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 71,
+    "address": "Shop No. 4, Ahata Amar Singh, Palace Rd, near Fire Station, Ustad Mohalla, Pakki Dhaki, Jammu, Jammu and Kashmir 180001",
+    "area": "Ustad Mohalla, Pakki Dhaki",
+    "latitude": 32.7411762,
+    "longitude": 74.8687535,
+    "place_id": "ChIJWx5CkR2FHjkRDYQl8Yxn2_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWx5CkR2FHjkRDYQl8Yxn2_E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:10"
+  },
+  {
+    "business_name": "Grill N Chill",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fine dining restaurant, Sandwich shop, North Indian restaurant",
+    "pincode": "182201",
+    "phone_number": "+91 91494 27497",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 268,
+    "address": "PVQ8+F3F, Secretariat Rd, Kacchi Chawni, Ambphalla, Jammu, Jammu and Kashmir 180001",
+    "area": "Kacchi Chawni, Ambphalla",
+    "latitude": 32.738656899999995,
+    "longitude": 74.8652295,
+    "place_id": "ChIJXTKqVnyEHjkRI5h_OHC_sSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTKqVnyEHjkRI5h_OHC_sSE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:10"
+  }
+]

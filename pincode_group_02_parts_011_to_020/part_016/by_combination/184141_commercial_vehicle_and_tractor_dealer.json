@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sehgal Truck Sales",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "184141",
+    "phone_number": "+91 94160 52628",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 65,
+    "address": "Shop No 18,Shyam Lal Market, 1008RT, Hisar Southern Byp, J.P. Colony, Shyam Colony, Rohtak, Haryana 124001",
+    "area": "J.P. Colony, Shyam Colony",
+    "latitude": 28.8981338,
+    "longitude": 76.5615069,
+    "place_id": "ChIJZ5nYg8OFDTkRaZPU3l37D3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5nYg8OFDTkRaZPU3l37D3k",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:43:52"
+  },
+  {
+    "business_name": "Subas Combines",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "184141",
+    "phone_number": "+91 81143 97852",
+    "website": "https://eichertractors.in/dealer-locator/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dala, Po, At, Santara, Byasanagar, Odisha 755019",
+    "area": "Dala, Po, At",
+    "latitude": 20.9374075,
+    "longitude": 86.1439274,
+    "place_id": "ChIJycITl69RGToRjtNJyCeedKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycITl69RGToRjtNJyCeedKY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:43:54"
+  }
+]

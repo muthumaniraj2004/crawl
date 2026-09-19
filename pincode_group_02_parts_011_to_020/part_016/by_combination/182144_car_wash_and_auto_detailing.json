@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJ SERVICE STATION",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "182144",
+    "phone_number": "+91 78898 91126",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Batote, Ramban, Jammu and Kashmir 182145",
+    "area": "182144",
+    "latitude": 33.3347096,
+    "longitude": 75.2427561,
+    "place_id": "ChIJaxJk5-jpHTkRpiqghbkug80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxJk5-jpHTkRpiqghbkug80",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:59:15"
+  },
+  {
+    "business_name": "Primier Car Care Clinic",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "182144",
+    "phone_number": "+91 94191 28051",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "27C, Digiana, Shastri Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Digiana, Shastri Nagar",
+    "latitude": 32.689737199999996,
+    "longitude": 74.85485919999999,
+    "place_id": "ChIJbSU7vaWFHjkRn2PfVtPVlOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSU7vaWFHjkRn2PfVtPVlOc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:59:15"
+  }
+]

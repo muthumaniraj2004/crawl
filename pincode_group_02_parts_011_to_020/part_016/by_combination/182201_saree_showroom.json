@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aliza Boutique",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "182201",
+    "phone_number": "+91 91495 35773",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1 2, Dessa Road, Aqramabad, Thalanga, Doda, Jammu and Kashmir 182201",
+    "area": "Aqramabad, Thalanga",
+    "latitude": 33.1452226,
+    "longitude": 75.5420334,
+    "place_id": "ChIJO9nY_C6lHTkRmVMNGymB1s4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9nY_C6lHTkRmVMNGymB1s4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:12"
+  },
+  {
+    "business_name": "Zargar's",
+    "search_category": "Saree Showroom",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "182201",
+    "phone_number": "+91 97960 20029",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "Bhaderwah, Jammu and Kashmir 182222",
+    "area": "182201",
+    "latitude": 32.9794294,
+    "longitude": 75.7167103,
+    "place_id": "ChIJMSXnxsCrHTkRelsik4sZbfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSXnxsCrHTkRelsik4sZbfc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:09:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Provisional Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "182206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "8Q8C+HQJ Zewar, Chowk, Shaktinagar, Kishtwar, Jammu and Kashmir 182206",
+    "area": "Shaktinagar",
+    "latitude": 33.3164635,
+    "longitude": 75.7718953,
+    "place_id": "ChIJMeXY8akLHTkRKKw-p5-YteE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeXY8akLHTkRKKw-p5-YteE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:17:23"
+  },
+  {
+    "business_name": "STORE TO HOME RETAIL BAZAR",
+    "search_category": "Supermarket",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "182206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Durga Nagar, Jammu, Jammu and Kashmir 180013",
+    "area": "Durga Nagar",
+    "latitude": 32.771278699999996,
+    "longitude": 74.8327826,
+    "place_id": "ChIJg6TkBgCFHjkRguKiOcROnNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6TkBgCFHjkRguKiOcROnNk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:17:23"
+  }
+]

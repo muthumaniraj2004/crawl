@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hamper Land",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Bridal shop, Corporate gift supplier, Gift basket store, Gourmet grocery store, Wedding store",
+    "pincode": "182313",
+    "phone_number": "+91 74001 97567",
+    "website": "https://www.hamperland.in/",
+    "rating": 4.8,
+    "reviews_count": 322,
+    "address": "Shop No. 3, Swastik Plaza, Pokhran Road, 2, Thane (W, beside Dominos Pizza, Thane, Maharashtra 400601",
+    "area": "Swastik Garden, Thane West",
+    "latitude": 19.2168432,
+    "longitude": 72.9719794,
+    "place_id": "ChIJM1Sjwxe55zsRZvuciXRS8xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1Sjwxe55zsRZvuciXRS8xo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:38"
+  },
+  {
+    "business_name": "Unalome Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "182313",
+    "phone_number": "+91 98852 54321",
+    "website": "http://www.unalomehomedecor.com/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Resham Bagh, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Resham Bagh, Banjara Hills",
+    "latitude": 17.4195146,
+    "longitude": 78.43640049999999,
+    "place_id": "ChIJXcUEXQCXyzsRqGbao7jwRv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcUEXQCXyzsRqGbao7jwRv0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:30:38"
+  }
+]

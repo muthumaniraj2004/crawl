@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai car care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "182147",
+    "phone_number": "+91 91462 79927",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Pune, Indapur, Maharashtra 413106",
+    "area": "182147",
+    "latitude": 18.1281525,
+    "longitude": 75.0090225,
+    "place_id": "ChIJoWgD9Zt_xDsRzPY3xwYq_hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWgD9Zt_xDsRzPY3xwYq_hs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:23"
+  },
+  {
+    "business_name": "Premium Car Bath And Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "182147",
+    "phone_number": "+91 97999 89063",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near GDP car care center, Shindewadi, Pune, Kasar Amboli, Maharashtra 412115",
+    "area": "Shindewadi",
+    "latitude": 18.5137698,
+    "longitude": 73.6685473,
+    "place_id": "ChIJ0alwQVK9wjsRmiTiy3FA6bE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0alwQVK9wjsRmiTiy3FA6bE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:04:23"
+  }
+]

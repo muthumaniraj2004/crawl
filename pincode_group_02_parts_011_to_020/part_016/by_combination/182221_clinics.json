@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZiffyHealth Delta e-Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "182221",
+    "phone_number": "N/A",
+    "website": "https://www.ziffytech.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hospital Road, opposite JK Bank, Nagri, Doda, Jammu and Kashmir 182221",
+    "area": "Nagri",
+    "latitude": 33.1448817,
+    "longitude": 75.5496825,
+    "place_id": "ChIJN2cy3yOlHTkRXcJulo3naBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2cy3yOlHTkRXcJulo3naBI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:21:15"
+  },
+  {
+    "business_name": "Hunain Medical Corner",
+    "search_category": "Clinics",
+    "primary_category": "Public medical center",
+    "all_categories": "Public medical center",
+    "pincode": "182221",
+    "phone_number": "+91 88250 86944",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Nari Niketan Nagri, Thalanga, Doda, Jammu and Kashmir 182221",
+    "area": "Thalanga",
+    "latitude": 33.1453188,
+    "longitude": 75.5521096,
+    "place_id": "ChIJN1iQi22lHTkRLWEl7NGM8Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1iQi22lHTkRLWEl7NGM8Lw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:21:15"
+  }
+]

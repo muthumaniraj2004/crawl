@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Resort",
+    "search_category": "Resort",
+    "primary_category": "Motel",
+    "all_categories": "Motel",
+    "pincode": "182311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "3RRV+PF8, Reasi, Jammu and Kashmir 182311",
+    "area": "182311",
+    "latitude": 33.0917761,
+    "longitude": 74.8436967,
+    "place_id": "ChIJ9XElBABxHjkR84WP6gDvJHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XElBABxHjkR84WP6gDvJHg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:27:06"
+  },
+  {
+    "business_name": "Hotel Katra Retreat — Deluxe Hotel.",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "182311",
+    "phone_number": "+91 70060 51060",
+    "website": "https://hotelkatraretreat.in/",
+    "rating": 4.9,
+    "reviews_count": 167,
+    "address": "Tea Garden, Jammu Rd, behind Yes Bank, near Main Market, Katra, Jammu and Kashmir 182301",
+    "area": "182311",
+    "latitude": 32.9883385,
+    "longitude": 74.9255756,
+    "place_id": "ChIJBXWc98V5HjkRBKCaVhzuUKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXWc98V5HjkRBKCaVhzuUKo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:27:06"
+  }
+]

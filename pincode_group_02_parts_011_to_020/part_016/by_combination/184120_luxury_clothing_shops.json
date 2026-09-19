@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LUXURY ATTIRE - wear the class",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothes market, Clothing supplier, Designer Clothing Store, Clothing Accessories Store, Men's clothing store",
+    "pincode": "184120",
+    "phone_number": "+91 95413 11121",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Last Morh, 729A, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.6973726,
+    "longitude": 74.855431,
+    "place_id": "ChIJQSAsqpSFHjkRu52DcdAiR4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSAsqpSFHjkRu52DcdAiR4o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:40:08"
+  },
+  {
+    "business_name": "Naresh Textiles",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "184120",
+    "phone_number": "+91 98585 90939",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mandir Wali Gali, 2, near Ramgarh Road, Amar Market, Samba, Vijaypur, Jammu and Kashmir 184120",
+    "area": "Amar Market",
+    "latitude": 32.5661042,
+    "longitude": 75.0205026,
+    "place_id": "ChIJsfVzKmwhHDkRTh87-aLMoKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfVzKmwhHDkRTh87-aLMoKI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:40:10"
+  }
+]

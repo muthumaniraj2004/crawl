@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ORCHID ( THE LUXURY STUDIO)",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Charter school",
+    "pincode": "182145",
+    "phone_number": "+91 70515 09983",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "7 b/.c, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.7075381,
+    "longitude": 74.860919,
+    "place_id": "ChIJg1wWYLuEHjkR-Zp5xo3ZE9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1wWYLuEHjkR-Zp5xo3ZE9A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:01:16"
+  },
+  {
+    "business_name": "Spa Kingdom & Wellness",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "182145",
+    "phone_number": "+91 90701 11140",
+    "website": "https://spakingdomandwellness.netlify.app/",
+    "rating": 4.3,
+    "reviews_count": 51,
+    "address": "First Floor, Of Honda Showroom, Sector - A, Sector-C, Sainik Colony, Jammu, Jammu and Kashmir 180011",
+    "area": "Sector - A, Sector-C, Sainik Colony",
+    "latitude": 32.6764514,
+    "longitude": 74.89664049999999,
+    "place_id": "ChIJj5vLzB-dHjkRpHyHh22G7Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5vLzB-dHjkRpHyHh22G7Ok",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:01:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreenath Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Catering food and drink supplier, FMCG Goods Wholesaler, Food seasoning manufacturer, Frozen food store, Italian grocery store, Japanese grocery store, Korean grocery store",
+    "pincode": "182205",
+    "phone_number": "+91 98850 19299",
+    "website": "http://www.shreenathfoods.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No.6,7&8, Door No.6-3-10/2, behind Vimal Theatre, Balanagar, Hyderabad, Telangana 500042",
+    "area": "Ashok Nagar, Shobana Colony, Balanagar",
+    "latitude": 17.4634333,
+    "longitude": 78.4510461,
+    "place_id": "ChIJpQn93PKQyzsR_5reIwnFHKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQn93PKQyzsR_5reIwnFHKo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:49"
+  },
+  {
+    "business_name": "Parin Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "182205",
+    "phone_number": "+91 96384 67400",
+    "website": "https://parinfrozenfood.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4, Sardar Nagar Main Rd, Astron Chowk, West, Sardarnagar, Rajkot, Gujarat 360001",
+    "area": "Astron Chowk, West, Sardarnagar",
+    "latitude": 22.2911312,
+    "longitude": 70.7876691,
+    "place_id": "ChIJrw0DoyLKWTkRO3pN5Gx5xfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrw0DoyLKWTkRO3pN5Gx5xfs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:15:49"
+  }
+]

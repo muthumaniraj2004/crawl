@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karthik Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler, Rice mill",
+    "pincode": "182144",
+    "phone_number": "+91 99634 17241",
+    "website": "http://www.karthikricemill.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramadugu, Telangana 503164",
+    "area": "182144",
+    "latitude": 18.618523,
+    "longitude": 78.3105844,
+    "place_id": "ChIJATNteWq3zTsRTldC-jqljOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATNteWq3zTsRTldC-jqljOU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:58:45"
+  },
+  {
+    "business_name": "Digital rice mill (Reshipora)",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "182144",
+    "phone_number": "+91 70067 73554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Reshipora, chowk, Mirgund, Jammu and Kashmir 190018",
+    "area": "182144",
+    "latitude": 34.0382051,
+    "longitude": 74.7196182,
+    "place_id": "ChIJzTu5CiaR4TgRYbZ757V5ODw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTu5CiaR4TgRYbZ757V5ODw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 05:58:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sharma architect",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architectural designer, Building consultant, Building materials supplier, Engineer, Real estate appraiser",
+    "pincode": "182204",
+    "phone_number": "+91 97976 76880",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kuleed, Kishtwar, Jammu and Kashmir 182204",
+    "area": "Kuleed",
+    "latitude": 33.331226199999996,
+    "longitude": 75.7635698,
+    "place_id": "ChIJm1fIK4B1HTkRtQVAISJjiQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1fIK4B1HTkRtQVAISJjiQA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:14:47"
+  },
+  {
+    "business_name": "Mattoo Construction",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer, Contractor, Home builder, Road Contractor",
+    "pincode": "182204",
+    "phone_number": "+91 60054 05908",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 13, Upper malipeth, Lakhmichand road kishtwar, near Mattoo Residency, Kishtwar, Jammu and Kashmir 182204",
+    "area": "182204",
+    "latitude": 33.3062073,
+    "longitude": 75.7714407,
+    "place_id": "ChIJvZA8Gz0LHTkRJ-ICNWAxMHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZA8Gz0LHTkRJ-ICNWAxMHA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:14:47"
+  }
+]
