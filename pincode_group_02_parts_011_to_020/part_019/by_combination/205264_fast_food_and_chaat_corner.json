@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BURG STATION",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "205264",
+    "phone_number": "+91 87910 90027",
+    "website": "https://g.page/burgstation",
+    "rating": 4.4,
+    "reviews_count": 89,
+    "address": "Block - (B) - 35,36, 37, Kisaan Bazaar Rd, near Clock Tower, Saifai, Uttar Pradesh 206130",
+    "area": "205264",
+    "latitude": 26.9589824,
+    "longitude": 78.96146639999999,
+    "place_id": "ChIJrRTqIKHDdTkRNAv3uma_zqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRTqIKHDdTkRNAv3uma_zqg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:55:09"
+  },
+  {
+    "business_name": "Anmol Chat Bhandhar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "205264",
+    "phone_number": "+91 99976 28544",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "21, Saman Katra, Uttar Pradesh 205303",
+    "area": "205264",
+    "latitude": 27.030230699999997,
+    "longitude": 79.198467,
+    "place_id": "ChIJz-9RYR3vdTkRdxuPV4EDuyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-9RYR3vdTkRdxuPV4EDuyQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:55:11"
+  }
+]

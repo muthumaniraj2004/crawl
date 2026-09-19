@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "205303",
+    "phone_number": "+91 95208 56744",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop1, Bharat Petrol Pump K Pass, Bewar - Etawah Rd, Mainpuri, Nagla Khoni, Uttar Pradesh 205304",
+    "area": "205303",
+    "latitude": 27.0922983,
+    "longitude": 79.2795083,
+    "place_id": "ChIJSfcvDzzzdTkRJ-91Sa7maMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfcvDzzzdTkRJ-91Sa7maMY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:03:13"
+  },
+  {
+    "business_name": "Sultan Grocery Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "205303",
+    "phone_number": "+91 97621 36306",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop3, Ramnagar Ramnagar Road, Mainpuri, Husainpur, Uttar Pradesh 205304",
+    "area": "205303",
+    "latitude": 27.0999922,
+    "longitude": 79.2912028,
+    "place_id": "ChIJdUH2VH31dTkRAksFz7W8uIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUH2VH31dTkRAksFz7W8uIs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:03:13"
+  }
+]

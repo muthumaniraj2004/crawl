@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Kiran Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206002",
+    "phone_number": "+91 5688 254 688",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 23,
+    "address": "D-16, Balram Singh Chauraha Rd, Pakka Talab Chauraha, Purbia Tola, Etawah, Uttar Pradesh 206001",
+    "area": "Pakka Talab Chauraha, Purbia Tola",
+    "latitude": 26.781022399999998,
+    "longitude": 79.0145003,
+    "place_id": "ChIJFwYiRdffdTkROOKLRB9quEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwYiRdffdTkROOKLRB9quEs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:44"
+  },
+  {
+    "business_name": "Rudra Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206002",
+    "phone_number": "+91 90451 17316",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "Kachora Rd, Krishanapuram Colony, Krishnapuram, Saraiya village, Etawah, Uttar Pradesh 206002",
+    "area": "Krishanapuram Colony, Krishnapuram, Saraiya village",
+    "latitude": 26.7878255,
+    "longitude": 78.99334739999999,
+    "place_id": "ChIJPfkYgDPfdTkR5wputxi1648",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfkYgDPfdTkR5wputxi1648",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:46"
+  }
+]

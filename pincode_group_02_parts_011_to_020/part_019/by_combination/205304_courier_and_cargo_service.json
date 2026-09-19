@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India post Kusmara SO",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "205304",
+    "phone_number": "N/A",
+    "website": "https://www.indiapost.gov.in/post-office-details-name?officename=Kusmara%20SO",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "475Q+63Q, Kusmara, Uttar Pradesh 205304",
+    "area": "205304",
+    "latitude": 27.1080959,
+    "longitude": 79.2877456,
+    "place_id": "ChIJ87ZuMwDzdTkRWyX9eCjvpeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87ZuMwDzdTkRWyX9eCjvpeE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:06:09"
+  },
+  {
+    "business_name": "आकाश सूरज पवन हाउस",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "205304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "474P+8C5, Kusmara, Uttar Pradesh 205304",
+    "area": "205304",
+    "latitude": 27.1057579,
+    "longitude": 79.2861061,
+    "place_id": "ChIJs5SHYwDzdTkRBfs11pjSanU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5SHYwDzdTkRBfs11pjSanU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:06:09"
+  }
+]

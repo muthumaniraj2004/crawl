@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Medical Chemist & Druggist",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "206253",
+    "phone_number": "+91 94127 52288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "M.S Puram, Sunderpur, Etawah, Harsauli, Uttar Pradesh 206001",
+    "area": "Sunderpur",
+    "latitude": 26.814211699999998,
+    "longitude": 78.99489539999999,
+    "place_id": "ChIJ-fY8vBXhdTkRUKW85_pU4vE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fY8vBXhdTkRUKW85_pU4vE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:51:50"
+  },
+  {
+    "business_name": "Dr devendra yadav",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206253",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 35,
+    "address": "Q2R7+87P, Civil Lines, Etawah, Uttar Pradesh 206001",
+    "area": "Civil Lines",
+    "latitude": 26.7908448,
+    "longitude": 79.01320419999999,
+    "place_id": "ChIJ7Tf0xpzfdTkRzyhCIVA2XM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Tf0xpzfdTkRzyhCIVA2XM4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:51:50"
+  }
+]

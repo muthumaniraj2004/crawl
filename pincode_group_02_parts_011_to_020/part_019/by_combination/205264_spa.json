@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Beauty Parlors",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "205264",
+    "phone_number": "+91 84391 44618",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "454 H, Nagla Khunday, Jaswantnagar, Karhal, Uttar Pradesh 205264",
+    "area": "Nagla Khunday",
+    "latitude": 27.000902999999997,
+    "longitude": 78.9413454,
+    "place_id": "ChIJSyIFZZHDdTkRUzIcJeUOvL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyIFZZHDdTkRUzIcJeUOvL0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:55:47"
+  },
+  {
+    "business_name": "Hope Diamond Spa & Salon",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "205264",
+    "phone_number": "+91 89310 16304",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "1st floor, behind of Krishna bakery, Station Bazariya, Chogurjee Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Station Bazariya, Chogurjee Nagar",
+    "latitude": 26.785443899999997,
+    "longitude": 79.0215241,
+    "place_id": "ChIJMZUchavhdTkRe19qRV-8Kzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZUchavhdTkRe19qRV-8Kzs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:55:48"
+  }
+]

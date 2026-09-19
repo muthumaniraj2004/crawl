@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pikorua Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Property investment company, Property management company",
+    "pincode": "205304",
+    "phone_number": "+91 63543 59222",
+    "website": "https://pikorua.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ambli T-junction Road, Sardar Patel Ring Road Ambli, Bopal, Ahmedabad, Gujarat 380058",
+    "area": "South Bopal, Bopal",
+    "latitude": 23.0252363,
+    "longitude": 72.476119,
+    "place_id": "ChIJD8ie_y2bXjkR5bs_mKhhbGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8ie_y2bXjkR5bs_mKhhbGs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:06:11"
+  },
+  {
+    "business_name": "Vikram Property Dealer",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real Estate Builders & Construction Company",
+    "pincode": "205304",
+    "phone_number": "+91 88018 81188",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 111,
+    "address": "5-3-1/38, Padmavathi Colony, Annapurna Colony, Boduppal, Hyderabad, Telangana 500092",
+    "area": "Padmavathi Colony, Annapurna Colony, Boduppal",
+    "latitude": 17.424184999999998,
+    "longitude": 78.5845081,
+    "place_id": "ChIJJe26w8SfyzsRIIlXMR9M1K4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJe26w8SfyzsRIIlXMR9M1K4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:06:11"
+  }
+]

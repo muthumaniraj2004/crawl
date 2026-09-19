@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HH Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment, Interior architect office, Interior construction contractor, Interior Decorator, Interior fitting contractor",
+    "pincode": "205303",
+    "phone_number": "0315 8581772",
+    "website": "http://hhinteriorworks.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HH Interiors, 205303, India",
+    "area": "205303",
+    "latitude": 33.977292999999996,
+    "longitude": 71.5654702,
+    "place_id": "ChIJwyps1eMX2TgRxb_gDRUBuQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyps1eMX2TgRxb_gDRUBuQ0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:04:01"
+  },
+  {
+    "business_name": "Dkore Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architectural designer, Architecture firm, Service establishment",
+    "pincode": "205303",
+    "phone_number": "N/A",
+    "website": "https://www.dkoreinteriors.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dkore Interiors, 205303, India",
+    "area": "205303",
+    "latitude": 24.3539913,
+    "longitude": 53.9485752,
+    "place_id": "ChIJk9EYBIJDXz4Risd9pilfcTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9EYBIJDXz4Risd9pilfcTU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:04:01"
+  }
+]

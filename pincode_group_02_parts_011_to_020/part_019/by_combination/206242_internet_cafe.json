@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DAS SERVICE CENTER",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Aadhaar center, Business banking service",
+    "pincode": "206242",
+    "phone_number": "+91 96753 19516",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Jawahar Rd, Gandhi Nagar, Krishna Nagar, Bharthana, Uttar Pradesh 206242",
+    "area": "Gandhi Nagar, Krishna Nagar",
+    "latitude": 26.7527571,
+    "longitude": 79.21682489999999,
+    "place_id": "ChIJmTZDtfMHdjkRYeVT_ifmJUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTZDtfMHdjkRYeVT_ifmJUk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:34:32"
+  },
+  {
+    "business_name": "Sarv Jan Suvidha Kendra",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "206242",
+    "phone_number": "+91 5680 299 242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Yadav Nagar, Bharthana, Uttar Pradesh 206242",
+    "area": "Yadav Nagar",
+    "latitude": 26.7508476,
+    "longitude": 79.2137241,
+    "place_id": "ChIJn0XsS_AHdjkRZJF7Zi80moU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0XsS_AHdjkRZJF7Zi80moU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:34:32"
+  }
+]

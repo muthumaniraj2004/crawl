@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal Band",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "206245",
+    "phone_number": "+91 88591 26816",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 2, Kachora Rd, Saraiya village, Etawah, Kandhani, Uttar Pradesh 206002",
+    "area": "Saraiya village",
+    "latitude": 26.7909553,
+    "longitude": 78.9874784,
+    "place_id": "ChIJ8Rxg7A3fdTkRXI6ajflousE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Rxg7A3fdTkRXI6ajflousE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:39:21"
+  },
+  {
+    "business_name": "Ritik event party planner and marriage decoration",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "206245",
+    "phone_number": "+91 70070 40962",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "Anand Nagar, near by balu mandi, A.P.O Colony, Sitapur, Uttar Pradesh 261401",
+    "area": "A.P.O Colony",
+    "latitude": 27.5666279,
+    "longitude": 80.6971512,
+    "place_id": "ChIJQcCDIwjXnjkRtNtgeCDq3Uk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcCDIwjXnjkRtNtgeCDq3Uk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:39:23"
+  }
+]

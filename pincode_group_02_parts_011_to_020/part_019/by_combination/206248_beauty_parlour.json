@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubh Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "206248",
+    "phone_number": "+91 81787 44331",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanju footwear ke side, Main, rode, Sahar, Purwa Rawat, Uttar Pradesh 206248",
+    "area": "Sahar",
+    "latitude": 26.755899499999998,
+    "longitude": 79.5996547,
+    "place_id": "ChIJnVibD_jjnTkRxxqQonaxRuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVibD_jjnTkRxxqQonaxRuY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:44:00"
+  },
+  {
+    "business_name": "Angel beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "206248",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MH77+W73, Aseni, Ashaini, Uttar Pradesh 206244",
+    "area": "206248",
+    "latitude": 26.6647744,
+    "longitude": 79.5631801,
+    "place_id": "ChIJ8yqUnrLlnTkRq1f5uOLsjik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yqUnrLlnTkRq1f5uOLsjik",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:44:00"
+  }
+]

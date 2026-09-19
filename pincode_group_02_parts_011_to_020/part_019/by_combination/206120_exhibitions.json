@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Garden",
+    "search_category": "Exhibitions",
+    "primary_category": "Theme park",
+    "all_categories": "Theme park",
+    "pincode": "206120",
+    "phone_number": "+91 73542 24499",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bakewar Rd, Aheripur, Uttar Pradesh 206120",
+    "area": "206120",
+    "latitude": 26.642274999999998,
+    "longitude": 79.2519117,
+    "place_id": "ChIJN9C20bsFdjkR8HCP5m3H_2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9C20bsFdjkR8HCP5m3H_2s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:13:10"
+  },
+  {
+    "business_name": "Indian Exhibition Services",
+    "search_category": "Exhibitions",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner",
+    "pincode": "206120",
+    "phone_number": "+91 98119 13376",
+    "website": "http://www.ies-india.com/",
+    "rating": 4.6,
+    "reviews_count": 40,
+    "address": "Office No - 709, TOWER-A, iThum Business Park, Plot no.- 40, Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
+    "area": "Block A, Industrial Area, Sector 62",
+    "latitude": 28.628773499999998,
+    "longitude": 77.3739162,
+    "place_id": "ChIJX5fasZ_lDDkRBDsm-KcRQ2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5fasZ_lDDkRBDsm-KcRQ2g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:13:11"
+  }
+]

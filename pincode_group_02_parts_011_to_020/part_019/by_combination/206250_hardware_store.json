@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajput Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "206250",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MFFM+7JP, Phaphund Rd, Achalda, Kamara, Uttar Pradesh 206241",
+    "area": "206250",
+    "latitude": 26.6732108,
+    "longitude": 79.4840832,
+    "place_id": "ChIJJdqvTr37nTkRKIs2WMJMhCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdqvTr37nTkRKIs2WMJMhCE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:47:06"
+  },
+  {
+    "business_name": "ABHISHEK AUTO PARTS AND SERVICE",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "206250",
+    "phone_number": "+91 88648 18821",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tiraha, Doraon, Uttar Pradesh 206250",
+    "area": "Tiraha",
+    "latitude": 26.711552299999997,
+    "longitude": 79.4915832,
+    "place_id": "ChIJsfzoXxX8nTkRLaLmlGugBnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfzoXxX8nTkRLaLmlGugBnY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:47:07"
+  }
+]

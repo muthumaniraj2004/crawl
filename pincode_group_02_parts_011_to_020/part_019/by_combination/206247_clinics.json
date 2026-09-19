@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.J.K.Tiwari",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "206247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "GFRM+FJ8, Unnamed Road, Phaphund, Uttar Pradesh 206247",
+    "area": "206247",
+    "latitude": 26.5411625,
+    "longitude": 79.48407739999999,
+    "place_id": "ChIJpav_41LxnTkRCovsMvzcSFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpav_41LxnTkRCovsMvzcSFU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:59"
+  },
+  {
+    "business_name": "Shandhya Clinic & Ayurvedic Center",
+    "search_category": "Clinics",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "206247",
+    "phone_number": "+91 97613 46464",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JF28+25M, Phaphund, Uttar Pradesh 206247",
+    "area": "206247",
+    "latitude": 26.6000858,
+    "longitude": 79.4654363,
+    "place_id": "ChIJ48fRWvn5nTkR90acAN5BIUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48fRWvn5nTkR90acAN5BIUk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:59"
+  }
+]

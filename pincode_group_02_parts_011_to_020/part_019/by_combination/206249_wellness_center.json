@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Fitness Zone",
+    "search_category": "Wellness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "206249",
+    "phone_number": "+91 63970 88337",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "QGX4+9XC, Achhalda - Bidhuna Rd, Bidhuna, Uttar Pradesh 206243",
+    "area": "206249",
+    "latitude": 26.798437099999997,
+    "longitude": 79.50738869999999,
+    "place_id": "ChIJaf3Jtg4HnjkRFrj-tABBe24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaf3Jtg4HnjkRFrj-tABBe24",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:38"
+  },
+  {
+    "business_name": "Vedvana Wellness - Ayurveda Hospital & Wellness Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Alternative medicine practitioner, Health consultant, Health spa, Massage spa, Meditation center, Retreat center, Yoga Retreat Center, Yoga studio",
+    "pincode": "206249",
+    "phone_number": "+91 99202 22825",
+    "website": "https://www.vedvanawellness.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sai Lodha Dham, Mumbai - Nashik Expy, Vehele, Bhiwandi, Thane, Maharashtra 421302",
+    "area": "Vehele",
+    "latitude": 19.2484511,
+    "longitude": 73.0521133,
+    "place_id": "ChIJW_PVRAC95zsRPlTrszgG3MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_PVRAC95zsRPlTrszgG3MY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:38"
+  }
+]

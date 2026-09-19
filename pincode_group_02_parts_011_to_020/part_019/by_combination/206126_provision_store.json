@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "206126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "village and post, Chandanpur Etawah, Uttar Pradesh 206126",
+    "area": "206126",
+    "latitude": 26.7664217,
+    "longitude": 79.0836382,
+    "place_id": "ChIJm21CWwDhdTkR47HZVUNIshA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm21CWwDhdTkR47HZVUNIshA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:21:41"
+  },
+  {
+    "business_name": "Sarai ekdil general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "206126",
+    "phone_number": "+91 89293 51352",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P3VR+FJ3, Sarai Ikdil, Uttar Pradesh 206126",
+    "area": "206126",
+    "latitude": 26.743639299999998,
+    "longitude": 79.0915576,
+    "place_id": "ChIJ89SFOwALdjkRR-JPD8ANJaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89SFOwALdjkRR-JPD8ANJaU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:21:42"
+  }
+]

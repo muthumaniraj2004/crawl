@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Giani choice centre",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing Accessories Store, Lingerie store, Lingerie wholesaler",
+    "pincode": "206002",
+    "phone_number": "+91 77101 09010",
+    "website": "https://www.instagram.com/giani.22store?igsh=MXc5bXk3YjYwYno0bw==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Scf-10, Sector 22D, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22D, Sector 22",
+    "latitude": 30.7332869,
+    "longitude": 76.7707444,
+    "place_id": "ChIJx6YRDzXtDzkR1nlpaLwJ-0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6YRDzXtDzkR1nlpaLwJ-0w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:33"
+  },
+  {
+    "business_name": "Bimla Traders",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Clothing supplier, Clothing wholesaler, Clothing Accessories Store, Underwear store",
+    "pincode": "206002",
+    "phone_number": "+91 98159 06007",
+    "website": "https://bimlatraders.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bimla Traders, S.C.O. 62, 20C, Sector 20, Chandigarh, 160020",
+    "area": "20C, Sector 20",
+    "latitude": 30.716439899999997,
+    "longitude": 76.7775685,
+    "place_id": "ChIJz8w9h1jsDzkR1aP00AemH8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8w9h1jsDzkR1aP00AemH8g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:33"
+  }
+]

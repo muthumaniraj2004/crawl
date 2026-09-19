@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rituraj Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "206249",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PC33+5RH, Station Rd, Railway Colony, Achalda, Uttar Pradesh 206241",
+    "area": "Railway Colony",
+    "latitude": 26.702946899999997,
+    "longitude": 79.4046205,
+    "place_id": "ChIJ2xW9pD__nTkR-dLEcpoLKu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xW9pD__nTkR-dLEcpoLKu8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:44:52"
+  },
+  {
+    "business_name": "Sri Sai Sweets and Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop",
+    "pincode": "206249",
+    "phone_number": "+91 99598 98858",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 137,
+    "address": "Bustand Centre, Main road, beside sai kishore fancy, Avanigadda, Andhra Pradesh 521121",
+    "area": "206249",
+    "latitude": 16.0260304,
+    "longitude": 80.9162668,
+    "place_id": "ChIJM4cbdaDzSToRdRLSNMid4SE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4cbdaDzSToRdRLSNMid4SE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:44:54"
+  }
+]

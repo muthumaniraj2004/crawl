@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parul hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Healthcare Clinic Chains",
+    "all_categories": "Healthcare Clinic Chains",
+    "pincode": "205262",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6296+PX5, Agra Rd, Gopi Nath Nagar, Dharau, Mainpuri, Mainpuri Khas, Uttar Pradesh 205001",
+    "area": "Gopi Nath Nagar, Dharau",
+    "latitude": 27.2192503,
+    "longitude": 79.0124781,
+    "place_id": "ChIJxyOhWAC9dTkRA11a-m0aoGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyOhWAC9dTkRA11a-m0aoGE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:52:11"
+  },
+  {
+    "business_name": "Upali Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "205262",
+    "phone_number": "+91 94151 32846",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "सर्किट हाउस के सामने, BH-2, Police Line Rd, रोड, Mainpuri, Uttar Pradesh 205001",
+    "area": "रोड",
+    "latitude": 27.2452217,
+    "longitude": 79.0521267,
+    "place_id": "ChIJkS3UQP6XdTkRMiS_5__29_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkS3UQP6XdTkRMiS_5__29_g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:52:11"
+  }
+]

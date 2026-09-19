@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADARSH FURNITURE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "206245",
+    "phone_number": "+91 96519 16175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 19, near ARISTOTLE WORLD SCHOOL, Jaswantnagar, Uttar Pradesh 206245",
+    "area": "206245",
+    "latitude": 26.8605451,
+    "longitude": 78.9251912,
+    "place_id": "ChIJk70X6jDbdTkRzsqqLpInaPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk70X6jDbdTkRzsqqLpInaPc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:39:08"
+  },
+  {
+    "business_name": "Vasundhara Furniture And Electronics",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "206245",
+    "phone_number": "+91 97193 20501",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Luhanna Chauraha Kachaura Road, Uttar Pradesh 206002",
+    "area": "Krishanapuram Colony, Saraiya village",
+    "latitude": 26.7893796,
+    "longitude": 78.99099009999999,
+    "place_id": "ChIJsfeeicTfdTkR_86FjtpR82E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfeeicTfdTkR_86FjtpR82E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:39:08"
+  }
+]

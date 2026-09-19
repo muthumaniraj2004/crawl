@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Infinity Momos",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "206002",
+    "phone_number": "+91 97209 20606",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Q2QG+QCX, Friends Colony Bharthana Rd, Ashok Nagar, Yashoda Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Ashok Nagar, Yashoda Nagar",
+    "latitude": 26.7894848,
+    "longitude": 79.0261578,
+    "place_id": "ChIJ42FGCADhdTkR-KqG2P1GJGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42FGCADhdTkR-KqG2P1GJGY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:21"
+  },
+  {
+    "business_name": "Braj ki Rasoi",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "206002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "braj ki rasoi, Farah, Rosu, Uttar Pradesh 281122",
+    "area": "206002",
+    "latitude": 27.3089691,
+    "longitude": 77.7792697,
+    "place_id": "ChIJg-qyjnuDczkRF_0kqRz4ACA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-qyjnuDczkRF_0kqRz4ACA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:21"
+  }
+]

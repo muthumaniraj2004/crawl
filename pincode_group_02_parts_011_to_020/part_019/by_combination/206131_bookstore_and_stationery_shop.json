@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMAN BOOK DEPOT",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Internet cafe",
+    "pincode": "206131",
+    "phone_number": "+91 92588 62820",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "RAILWAY ROAD GANJDUNDWARA, RAILWAY ROAD, Eathganj Dudawara Marg, Ganj Dundwara, Uttar Pradesh 207242",
+    "area": "206131",
+    "latitude": 27.7288163,
+    "longitude": 78.93861849999999,
+    "place_id": "ChIJ0xiUAdATdTkR6Bp3TH8wxb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xiUAdATdTkR6Bp3TH8wxb8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:31:10"
+  },
+  {
+    "business_name": "Jain Stationery Mart",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "206131",
+    "phone_number": "+91 88584 21638",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "SH 30B, Infront of anand market Chowk Bazar, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Brahmnipura",
+    "latitude": 27.5757756,
+    "longitude": 81.5940035,
+    "place_id": "ChIJdbTH3VepmTkRUBiDSdXN62E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbTH3VepmTkRUBiDSdXN62E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:31:11"
+  }
+]

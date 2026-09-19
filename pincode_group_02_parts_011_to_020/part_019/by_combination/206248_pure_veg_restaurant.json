@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Param Food Complex (Pure Veg)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Cafe, Restaurant, South Asian restaurant, Fast food restaurant",
+    "pincode": "206248",
+    "phone_number": "+91 74007 37733",
+    "website": "http://www.paramfood.in/",
+    "rating": 4,
+    "reviews_count": 5494,
+    "address": "Millennium Plaza, University Rd, Govindpuri, Gwalior, Madhya Pradesh 474011",
+    "area": "Govindpuri",
+    "latitude": 26.2074043,
+    "longitude": 78.20072449999999,
+    "place_id": "ChIJwfG3QAfEdjkRQGM_FGaTOzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfG3QAfEdjkRQGM_FGaTOzQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:43:19"
+  },
+  {
+    "business_name": "SARAVANA BHAVAN PURE VEG RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "206248",
+    "phone_number": "+91 77363 81767",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 204,
+    "address": "Sree Rama Swamy Temple, Ambala Nada, near Triprayar, Triprayar, Keralam 680567",
+    "area": "206248",
+    "latitude": 10.414118199999999,
+    "longitude": 76.1138935,
+    "place_id": "ChIJeZ4E6D_zpzsRO908cbIZcLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZ4E6D_zpzsRO908cbIZcLI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:43:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apex Computer System",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer Wholesaler",
+    "pincode": "206131",
+    "phone_number": "+91 94121 81770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "zila panchayat, D-2, Market, Etah, Uttar Pradesh 207001",
+    "area": "Shanti Nagar",
+    "latitude": 27.562989899999998,
+    "longitude": 78.6539782,
+    "place_id": "ChIJJcP5Rfj9dDkRrCP7KH3OwI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcP5Rfj9dDkRrCP7KH3OwI8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:31:15"
+  },
+  {
+    "business_name": "National Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store",
+    "pincode": "206131",
+    "phone_number": "+91 94121 59797",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor, Baba the mall, Chogurjee Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Hydel Colony, Chogurjee Nagar",
+    "latitude": 26.7845418,
+    "longitude": 79.021166,
+    "place_id": "ChIJ9-Bc7njgdTkRczO9UmPV3hE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-Bc7njgdTkRczO9UmPV3hE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:31:15"
+  }
+]

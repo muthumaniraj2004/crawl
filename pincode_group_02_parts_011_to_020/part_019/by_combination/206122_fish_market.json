@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "206122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FG83+RMG, Hashmat Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Hashmat Nagar",
+    "latitude": 26.4670527,
+    "longitude": 79.5042112,
+    "place_id": "ChIJET0BxGvznTkRTcFqGnkrQKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJET0BxGvznTkRTcFqGnkrQKU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:15:02"
+  },
+  {
+    "business_name": "Ravi Traders",
+    "search_category": "Fish Market",
+    "primary_category": "Hunting and fishing store",
+    "all_categories": "Hunting and fishing store",
+    "pincode": "206122",
+    "phone_number": "+91 70075 73266",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Sardar Bazar, Hashmat Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Sardar Bazar, Hashmat Nagar",
+    "latitude": 26.464326,
+    "longitude": 79.5140909,
+    "place_id": "ChIJEfGyF-_znTkRl461E841TL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfGyF-_znTkRl461E841TL0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:15:02"
+  }
+]

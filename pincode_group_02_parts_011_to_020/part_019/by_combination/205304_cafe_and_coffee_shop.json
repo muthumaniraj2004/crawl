@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "205304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "476P+GV9, Bewar - Etawah Rd, Kusmara, Uttar Pradesh 205304",
+    "area": "205304",
+    "latitude": 27.111283999999998,
+    "longitude": 79.2872417,
+    "place_id": "ChIJn1zgQADzdTkRun1Kp68LvVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1zgQADzdTkRun1Kp68LvVE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:05:01"
+  },
+  {
+    "business_name": "VN Grand Hotel & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "205304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4GHC+WJ, Vishunpur Hasilpur, Uttar Pradesh 209721",
+    "area": "205304",
+    "latitude": 27.129831,
+    "longitude": 79.521581,
+    "place_id": "ChIJRdQBBgAZnjkRfX-tUeAg1Tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdQBBgAZnjkRfX-tUeAg1Tk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:05:01"
+  }
+]

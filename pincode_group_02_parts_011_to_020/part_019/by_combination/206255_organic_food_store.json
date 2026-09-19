@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Exotic Pantry",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "206255",
+    "phone_number": "+91 96397 00010",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Pipli Rd, near Hotel Saffron, Urban Estate, Sector 7, Kurukshetra, Haryana 136118",
+    "area": "Urban Estate, Sector 7",
+    "latitude": 29.9743569,
+    "longitude": 76.8726107,
+    "place_id": "ChIJpUAKFYBHDjkR2Vx9InrhQs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUAKFYBHDjkR2Vx9InrhQs4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:07"
+  },
+  {
+    "business_name": "Organic Mandya Farmers Market, JP Nagar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Gourmet grocery store, Grocery delivery service, Indian grocery store, Organic shop, Supermarket",
+    "pincode": "206255",
+    "phone_number": "+91 96060 01577",
+    "website": "http://www.organicmandya.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "539, 17th Main, opp. to Brigade Millennium, RBI Layout, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "RBI Layout, JP Nagar 7th Phase, J. P. Nagar",
+    "latitude": 12.8916059,
+    "longitude": 77.5816294,
+    "place_id": "ChIJvXo1r6kVrjsRwkd2TpbWRjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXo1r6kVrjsRwkd2TpbWRjU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:07"
+  }
+]

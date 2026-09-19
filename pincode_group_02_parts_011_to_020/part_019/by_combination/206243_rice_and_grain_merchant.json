@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahar",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "206243",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "Sahar, Purwa Dalahar, Purwa Khasua, Uttar Pradesh 206248",
+    "area": "206243",
+    "latitude": 26.7587509,
+    "longitude": 79.5955201,
+    "place_id": "ChIJtW9FNQDjnTkRULGGvUPq5A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW9FNQDjnTkRULGGvUPq5A4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:35:04"
+  },
+  {
+    "business_name": "Shukla traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "206243",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khanpur choraha, ke pass, Bhadaura, Auraiya, Uttar Pradesh 206122",
+    "area": "Bhadaura",
+    "latitude": 26.454994799999998,
+    "longitude": 79.50527199999999,
+    "place_id": "ChIJ2w_cNQDznTkRe0v3aKkjl0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2w_cNQDznTkRe0v3aKkjl0g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:35:07"
+  }
+]

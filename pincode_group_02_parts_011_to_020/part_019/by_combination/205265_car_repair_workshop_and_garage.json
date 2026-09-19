@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Lakshmi Car Care",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop, Auto painting, Auto restoration service, Car dealer, Car stereo store, Car wash",
+    "pincode": "205265",
+    "phone_number": "+91 62632 26276",
+    "website": "http://shreelakshmicarcare.in/",
+    "rating": 4.9,
+    "reviews_count": 146,
+    "address": "7Q6H+RRQ, New Ram Mandir Road, Maihar - Rewa Rd, Tighra Kala, Katiya Kalan, Madhya Pradesh 485771",
+    "area": "205265",
+    "latitude": 24.2639045,
+    "longitude": 80.7793867,
+    "place_id": "ChIJJUHkOACLgzkRckrbEG-a1C8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUHkOACLgzkRckrbEG-a1C8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:57:07"
+  },
+  {
+    "business_name": "HC Automotive",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto parts store, Service establishment",
+    "pincode": "205265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HC Automotive, 205265, India",
+    "area": "205265",
+    "latitude": 53.383399999999995,
+    "longitude": -8.2177501,
+    "place_id": "ChIJu38RyxUSZ0gRGwl58zQdepk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu38RyxUSZ0gRGwl58zQdepk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:57:08"
+  }
+]

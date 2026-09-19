@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhav Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Abortion clinic",
+    "all_categories": "Abortion clinic",
+    "pincode": "206129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GCCG+4QW, Nigra, Uttar Pradesh 206129",
+    "area": "206129",
+    "latitude": 26.520368899999998,
+    "longitude": 79.4269593,
+    "place_id": "ChIJLb10VtL3nTkRg7RfNbGNgWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLb10VtL3nTkRg7RfNbGNgWc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:27:04"
+  },
+  {
+    "business_name": "आरोग्य मल्टीस्पेशलिस्ट क्लीनिक",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "206129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G99M+V4Q, Muradganj, Kasba Jana, Uttar Pradesh 206129",
+    "area": "206129",
+    "latitude": 26.5197117,
+    "longitude": 79.3828535,
+    "place_id": "ChIJtYZNdQD3nTkRCAYjwj6nQbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYZNdQD3nTkRCAYjwj6nQbs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:27:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashipur Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "206255",
+    "phone_number": "+91 80773 53055",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "New sabzi mandi, Nayi Sabji Mandi, tehsil kesamne, Kashipur, Uttarakhand 244713",
+    "area": "tehsil kesamne",
+    "latitude": 29.210017699999998,
+    "longitude": 78.9599846,
+    "place_id": "ChIJyXVwnblDCjkRFknUrf0Jd-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXVwnblDCjkRFknUrf0Jd-g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:10"
+  },
+  {
+    "business_name": "Uttaranchal Dairy & Sweets",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "206255",
+    "phone_number": "+91 79002 29991",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "opp. Roadways Bus Stand, Patel Nagar, Kashipur, Uttarakhand 244713",
+    "area": "Patel Nagar",
+    "latitude": 29.209540399999998,
+    "longitude": 78.9645651,
+    "place_id": "ChIJEe95MbdDCjkR9IsLfBPPepo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEe95MbdDCjkR9IsLfBPPepo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:10"
+  }
+]

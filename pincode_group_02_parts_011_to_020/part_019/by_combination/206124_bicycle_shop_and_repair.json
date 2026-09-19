@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOPAL DUBEY CYCLE STORE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J4WX+2WQ, Lakhna, Uttar Pradesh 206124",
+    "area": "206124",
+    "latitude": 26.6450875,
+    "longitude": 79.1498702,
+    "place_id": "ChIJC8E1oeAPdjkRz1gjr-shl_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8E1oeAPdjkRz1gjr-shl_k",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:59"
+  },
+  {
+    "business_name": "Shahrukh Bike Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "206124",
+    "phone_number": "+91 80776 33435",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Etawah Rd, Bakewar, Uttar Pradesh 206124",
+    "area": "206124",
+    "latitude": 26.6658072,
+    "longitude": 79.1728971,
+    "place_id": "ChIJt1YN8_kJdjkRAFBxQGtGpko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1YN8_kJdjkRAFBxQGtGpko",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:01"
+  }
+]

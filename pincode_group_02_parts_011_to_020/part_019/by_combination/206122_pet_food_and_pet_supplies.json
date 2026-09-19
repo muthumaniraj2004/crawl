@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaitanya Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "206122",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@petloverchaitanya?si=64SkFKM4IkvGN5gp",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Satteshwar, Tilak Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Satteshwar, Tilak Nagar",
+    "latitude": 26.4606185,
+    "longitude": 79.5027264,
+    "place_id": "ChIJjcqOyEzznTkRvlSXndThzEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcqOyEzznTkRvlSXndThzEY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:15:04"
+  },
+  {
+    "business_name": "Our pet shop and bird's",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Bird shop",
+    "all_categories": "Bird shop",
+    "pincode": "206122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "Satteshwar, Tilak Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Satteshwar, Tilak Nagar",
+    "latitude": 26.4682057,
+    "longitude": 79.4997532,
+    "place_id": "ChIJUfaE2qjznTkRQKeJzOI2EkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfaE2qjznTkRQKeJzOI2EkE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:15:04"
+  }
+]

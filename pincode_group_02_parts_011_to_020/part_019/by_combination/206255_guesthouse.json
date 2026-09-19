@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fauji Palace and Fauji Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "206255",
+    "phone_number": "+91 99350 09426",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 46,
+    "address": "Bela Rd, Bilha, Sithau Matana, Uttar Pradesh 209306",
+    "area": "206255",
+    "latitude": 26.7264488,
+    "longitude": 79.7381346,
+    "place_id": "ChIJ4xDDoIbhnTkR7eQgaUxZ1XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xDDoIbhnTkR7eQgaUxZ1XE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:54:06"
+  },
+  {
+    "business_name": "Shri Raghunath Palace",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "206255",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QP78+WF2, Yakubpur, Uttar Pradesh 206255",
+    "area": "206255",
+    "latitude": 26.7647522,
+    "longitude": 79.716129,
+    "place_id": "ChIJV7kCSFbhnTkRHP86ILR_Zq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7kCSFbhnTkRHP86ILR_Zq4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:54:06"
+  }
+]

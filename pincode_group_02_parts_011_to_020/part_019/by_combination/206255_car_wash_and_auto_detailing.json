@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shineup Squad",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto care products store, Auto chemistry shop, Auto Dent Removal Service Station, Auto painting, Auto restoration service, Auto window tinting service, Car detailing service",
+    "pincode": "206255",
+    "phone_number": "+91 88855 54248",
+    "website": "http://www.shineupsquadcardetailing.com/",
+    "rating": 4.8,
+    "reviews_count": 46,
+    "address": "175/AA, Situated at, Mandal, Gopanpalle, Serilingampalle (M), Hyderabad, Telangana 500107",
+    "area": "Tellapur",
+    "latitude": 17.4536344,
+    "longitude": 78.2991917,
+    "place_id": "ChIJZVJ4LRGTyzsRleNRDnKq1L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVJ4LRGTyzsRleNRDnKq1L8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:40"
+  },
+  {
+    "business_name": "Detailing Devils",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service, Auto repair shop, Bike wash, Mechanic",
+    "pincode": "206255",
+    "phone_number": "+91 96494 94989",
+    "website": "https://www.detailingdevils.com/detailing-studios/Jaipur-3.0",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No. 15, New Sanganer Rd, opposite Kiran Path, Ganpatpura, Mansarovar Sector 4, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Ganpatpura, Mansarovar Sector 4, Mansarovar",
+    "latitude": 26.8624896,
+    "longitude": 75.7530998,
+    "place_id": "ChIJATZEgdG1bTkRFAvkasCj-ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATZEgdG1bTkRFAvkasCj-ec",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:42"
+  }
+]

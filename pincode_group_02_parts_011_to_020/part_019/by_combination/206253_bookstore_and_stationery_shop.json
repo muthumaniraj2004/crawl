@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavesh Book Stores",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "206253",
+    "phone_number": "+91 22 2754 7616",
+    "website": "https://thestrangerbooks.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "022, Shop No. 17, T.J. Complex, 83, Vashi Kopar Khairane Rd, Main Road-27547616, Sector 15, Kopar Khairane, Navi Mumbai, Maharashtra 400709",
+    "area": "Sector 15, Kopar Khairane",
+    "latitude": 19.101668999999998,
+    "longitude": 73.00392,
+    "place_id": "ChIJ____v6HC5zsRbrjG3IK0nVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____v6HC5zsRbrjG3IK0nVk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:52:36"
+  },
+  {
+    "business_name": "Student Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "206253",
+    "phone_number": "+91 98190 16330",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop no 14, Riddhi Complex, Sector - 13, Khanda Colony, Panvel, Maharashtra 410206",
+    "area": "Sector - 13, Khanda Colony, Panvel",
+    "latitude": 19.005798,
+    "longitude": 73.1107376,
+    "place_id": "ChIJxc3J_0fo5zsRbwACh1gDDv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxc3J_0fo5zsRbwACh1gDDv8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:52:36"
+  }
+]

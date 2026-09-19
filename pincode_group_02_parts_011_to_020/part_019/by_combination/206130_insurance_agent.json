@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Utkarsh yadav",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "206130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW3F+2RG, Parsauwa, Uttar Pradesh 206130",
+    "area": "206130",
+    "latitude": 26.902555099999997,
+    "longitude": 78.9245811,
+    "place_id": "ChIJ4Xy6DwDbdTkRkK8XGY8PKcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Xy6DwDbdTkRkK8XGY8PKcE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:29:32"
+  },
+  {
+    "business_name": "Pradeep Baghel LIC",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "206130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WWF2+3GM, Khera Bujurg, Uttar Pradesh 206130",
+    "area": "206130",
+    "latitude": 26.922712699999998,
+    "longitude": 78.90129929999999,
+    "place_id": "ChIJ_RPvqoPFdTkR2C40F0Vvnzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RPvqoPFdTkR2C40F0Vvnzo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:29:32"
+  }
+]

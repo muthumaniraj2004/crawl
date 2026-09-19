@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr fashion",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "206123",
+    "phone_number": "+91 70607 07919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pachawali Rd, Vijay Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Vijay Nagar",
+    "latitude": 26.792739899999997,
+    "longitude": 79.0208308,
+    "place_id": "ChIJu_KZiznhdTkR2fzu4UXFzac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_KZiznhdTkR2fzu4UXFzac",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:16:54"
+  },
+  {
+    "business_name": "Mittal Cloth Store",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "206123",
+    "phone_number": "+91 82736 97930",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Ekta Colony, Etawah, Uttar Pradesh 206001",
+    "area": "Ekta Colony",
+    "latitude": 26.7707435,
+    "longitude": 79.015959,
+    "place_id": "ChIJd-J3ourfdTkRELP4nrgcMdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-J3ourfdTkRELP4nrgcMdw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:16:54"
+  }
+]

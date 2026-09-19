@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bus station Etah Depot",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus depot",
+    "all_categories": "Bus depot",
+    "pincode": "207001",
+    "phone_number": "+91 1800 180 2877",
+    "website": "http://www.upsrtc.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "HM64+775, GT Rd, Roadways Bus Stand, Uttar Pradesh 207001",
+    "area": "Police Line",
+    "latitude": 27.5606489,
+    "longitude": 78.6557492,
+    "place_id": "ChIJ7UaRtFL9dDkRzqKq4Px1UIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UaRtFL9dDkRzqKq4Px1UIY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:55:21"
+  },
+  {
+    "business_name": "Kanhiya Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "207001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "HM47+CQ6, Babuganj, Etah, Uttar Pradesh 207001",
+    "area": "Babuganj",
+    "latitude": 27.556042599999998,
+    "longitude": 78.6644007,
+    "place_id": "ChIJ_w7pSwICdTkRqDjw83bDCVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_w7pSwICdTkRqDjw83bDCVY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:55:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Chaat House - Sarafa",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Delivery service, Indian takeaway, Restaurant",
+    "pincode": "206243",
+    "phone_number": "+91 74707 46697",
+    "website": "http://www.vijaychaathouse.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "75/5, Pipli Bazar Main Rd, behind Rajwada, Nihalpura, Bada Sarafa, Rajwada, Indore, Madhya Pradesh 452002",
+    "area": "Nihalpura, Bada Sarafa, Rajwada",
+    "latitude": 22.7181379,
+    "longitude": 75.85360349999999,
+    "place_id": "ChIJL8_qCAr9YjkR1MbJ1Z9_lg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8_qCAr9YjkR1MbJ1Z9_lg4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:35:13"
+  },
+  {
+    "business_name": "Kundan Chaat Choupati",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "206243",
+    "phone_number": "+91 83051 50348",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "8677+2J9, New Indira Colony, Burhanpur, Mohammadpura, Madhya Pradesh 450331",
+    "area": "New Indira Colony",
+    "latitude": 21.3127148,
+    "longitude": 76.2143523,
+    "place_id": "ChIJUw9Ns6wz2DsRbRaZrp00q24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUw9Ns6wz2DsRbRaZrp00q24",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:35:13"
+  }
+]

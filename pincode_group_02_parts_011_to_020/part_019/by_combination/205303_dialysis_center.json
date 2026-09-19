@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adam Nephron Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Nephrologist",
+    "pincode": "205303",
+    "phone_number": "+91 90278 86116",
+    "website": "https://adamnephron.com/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "F-1, Cribs Hospital, 40 Feet Rd, Shaheen Bagh, Jamia Nagar, Okhla, New Delhi, Delhi, 110025",
+    "area": "Shaheen Bagh, Jamia Nagar, Okhla",
+    "latitude": 28.543202299999997,
+    "longitude": 77.300493,
+    "place_id": "ChIJTU06OsHlDDkR2ZfyWoCOYFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTU06OsHlDDkR2ZfyWoCOYFw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:03:42"
+  },
+  {
+    "business_name": "Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Service establishment",
+    "pincode": "205303",
+    "phone_number": "+91 78638 41059",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Dialysis Center, 205303, India",
+    "area": "205303",
+    "latitude": 28.4922233,
+    "longitude": 77.2137022,
+    "place_id": "ChIJ3VhLP87hDDkRj0sAdXZ7vgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VhLP87hDDkRj0sAdXZ7vgc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:03:42"
+  }
+]

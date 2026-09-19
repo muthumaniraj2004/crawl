@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "91Trucks",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Used truck dealer",
+    "all_categories": "Used truck dealer",
+    "pincode": "206121",
+    "phone_number": "+91 92621 04396",
+    "website": "https://www.91trucks.com/",
+    "rating": 4.9,
+    "reviews_count": 77,
+    "address": "Khasra no. 525A, Z&M Plaza, Main Rohtak Rd, in-front of Metro Pillar No 513, West Cabin Block, Mundka, Delhi, 110041",
+    "area": "West Cabin Block, Mundka",
+    "latitude": 28.682578399999997,
+    "longitude": 77.03297789999999,
+    "place_id": "ChIJoY2sZ2AFDTkRIciHEm5xdos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoY2sZ2AFDTkRIciHEm5xdos",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:13:59"
+  },
+  {
+    "business_name": "Singh Truck Tempo Car Sale Purchase",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "206121",
+    "phone_number": "+91 94176 84200",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sector 39-A, Ludhiana, Punjab 141003",
+    "area": "Sector 39-A",
+    "latitude": 30.9031007,
+    "longitude": 75.88442599999999,
+    "place_id": "ChIJnSne9iSDGjkRk2TiZSKQnDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSne9iSDGjkRk2TiZSKQnDc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:13:59"
+  }
+]

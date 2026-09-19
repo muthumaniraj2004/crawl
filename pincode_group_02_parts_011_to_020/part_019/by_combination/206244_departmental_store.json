@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANNU ENTERPRISES",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "206244",
+    "phone_number": "+91 97193 38450",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Rinku Rathore, K K Puram, Kakrahi, Dibiyapur, Uttar Pradesh 206244",
+    "area": "K K Puram",
+    "latitude": 26.619830099999998,
+    "longitude": 79.5523845,
+    "place_id": "ChIJFUyzqoT7nTkRHChMnC2LftA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUyzqoT7nTkRHChMnC2LftA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:36:37"
+  },
+  {
+    "business_name": "Maa Durge kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "206244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Sauthara, Dibiyapur, Uttar Pradesh 206248",
+    "area": "206244",
+    "latitude": 26.6988555,
+    "longitude": 79.5912457,
+    "place_id": "ChIJvxkPZNnjnTkRbk2rTtr3cds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxkPZNnjnTkRbk2rTtr3cds",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:36:37"
+  }
+]

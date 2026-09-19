@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sneha Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Maharashtrian Restaurant",
+    "all_categories": "Maharashtrian Restaurant",
+    "pincode": "206251",
+    "phone_number": "+91 88795 81283",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 254,
+    "address": "Shop Number 5 Plot Number C3 Radhakruna Apt, Digha Naka, Sector 9, Airoli, Navi Mumbai, Maharashtra 400708",
+    "area": "Digha Naka, Sector 9, Airoli",
+    "latitude": 19.1459075,
+    "longitude": 72.9889355,
+    "place_id": "ChIJD3lWlau45zsRCmx102Sqpic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3lWlau45zsRCmx102Sqpic",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:16"
+  },
+  {
+    "business_name": "Indian Tiffin Service Lucknow",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Catering food and drink supplier, Caterer, Food producer, Food products supplier, Meal delivery",
+    "pincode": "206251",
+    "phone_number": "+91 99364 24572",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "House no 05, Bahadurpur Rd, Unity City Colony, chauraha, Lucknow, Uttar Pradesh 226022",
+    "area": "Unity City Colony, chauraha",
+    "latitude": 26.9144473,
+    "longitude": 80.97324429999999,
+    "place_id": "ChIJVTtr2H1XmTkRLAizrs-12ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTtr2H1XmTkRLAizrs-12ug",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.B.LOGISTIC",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "205267",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "9W49+7FX, Road, Kurawali, Soni, Uttar Pradesh 205263",
+    "area": "205267",
+    "latitude": 27.3557496,
+    "longitude": 78.91874229999999,
+    "place_id": "ChIJCbKWuQeldTkROMvMtKzFf2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCbKWuQeldTkROMvMtKzFf2E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:54"
+  },
+  {
+    "business_name": "S.S BROTHER TRANSPORT",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "205267",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "62HG+73F, Bhat Nagar, Mainpuri, Uttar Pradesh 205001",
+    "area": "Bhat Nagar",
+    "latitude": 27.2281937,
+    "longitude": 79.02516589999999,
+    "place_id": "ChIJCcNpPACXdTkRXX-K_EBpc_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcNpPACXdTkRXX-K_EBpc_A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:54"
+  }
+]

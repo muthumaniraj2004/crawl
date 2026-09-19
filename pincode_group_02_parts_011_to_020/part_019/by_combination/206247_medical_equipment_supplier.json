@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramchandra medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "206247",
+    "phone_number": "+91 90456 29255",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dewarpur, Deberpur, Uttar Pradesh 206247",
+    "area": "Dewarpur",
+    "latitude": 26.5399672,
+    "longitude": 79.47975799999999,
+    "place_id": "ChIJGRxIqsfxnTkRjO_eK1rYvBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRxIqsfxnTkRjO_eK1rYvBs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:04"
+  },
+  {
+    "business_name": "AYUSH medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "206247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HFV7+CR9, Phaphund, Uttar Pradesh 206247",
+    "area": "206247",
+    "latitude": 26.5935423,
+    "longitude": 79.4645256,
+    "place_id": "ChIJcX9jiU_5nTkR473eqbypBdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcX9jiU_5nTkR473eqbypBdA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:04"
+  }
+]

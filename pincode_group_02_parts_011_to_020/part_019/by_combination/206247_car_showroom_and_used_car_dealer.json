@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Motors Indore",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "206247",
+    "phone_number": "+91 94250 92405",
+    "website": "https://shrimotors.com/",
+    "rating": 4.9,
+    "reviews_count": 2137,
+    "address": "Part II, Vasant Vihar Colony, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Part II, Scheme No 114",
+    "latitude": 22.7591729,
+    "longitude": 75.8983283,
+    "place_id": "ChIJVQbUvasCYzkRDaZACCZJUxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQbUvasCYzkRDaZACCZJUxI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:11"
+  },
+  {
+    "business_name": "Truck Parking",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "206247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "JFWJ+792, Mamrezpur Al, Uttar Pradesh 206241",
+    "area": "206247",
+    "latitude": 26.645642199999998,
+    "longitude": 79.4808989,
+    "place_id": "ChIJAXm9EtL7nTkR54F6PNNu_6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXm9EtL7nTkR54F6PNNu_6E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:11"
+  }
+]

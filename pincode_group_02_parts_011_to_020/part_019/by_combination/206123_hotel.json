@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Flagship MOON S.E.Z",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "206123",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/234499/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "206242Krishna Nagar, Etawah, Uttar Pradesh 206242",
+    "area": "206242Krishna Nagar",
+    "latitude": 26.755475399999998,
+    "longitude": 79.2093847,
+    "place_id": "ChIJYyQ4qcMHdjkRoYokNxaz-3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyQ4qcMHdjkRoYokNxaz-3Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:17:38"
+  },
+  {
+    "business_name": "OYO Hotel Bluemoon",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "206123",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/219593/?utm_source=Google&utm_medium=GMB",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "Plot No-14, Bharthana Rd, Bidhuna, Ramprastha, Uttar Pradesh 206242",
+    "area": "206123",
+    "latitude": 26.757711999999998,
+    "longitude": 79.2395892,
+    "place_id": "ChIJeUeJ4rcHdjkRo7_PimvbQEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUeJ4rcHdjkRo7_PimvbQEQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:17:39"
+  }
+]

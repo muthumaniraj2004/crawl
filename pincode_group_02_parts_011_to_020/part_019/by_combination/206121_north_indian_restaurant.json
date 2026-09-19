@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Costa",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant, North Indian restaurant",
+    "pincode": "206121",
+    "phone_number": "N/A",
+    "website": "http://www.foodcosta.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Vedik Market, NTPC Main Rd, Indra Nagar, Dibiyapur, Uttar Pradesh 206244",
+    "area": "Indra Nagar",
+    "latitude": 26.628467099999998,
+    "longitude": 79.547896,
+    "place_id": "ChIJfcG7Ck37nTkRTcMkZxTn7S4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcG7Ck37nTkRTcMkZxTn7S4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:13:28"
+  },
+  {
+    "business_name": "Awasthi Lawn",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Awadhi Restaurant",
+    "all_categories": "Awadhi Restaurant",
+    "pincode": "206121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kakraiya post BIRUHNI dist auraiya, Babarpur, Uttar Pradesh 206121",
+    "area": "Shastri Nagar",
+    "latitude": 26.570668299999998,
+    "longitude": 79.3131191,
+    "place_id": "ChIJP7figVkddjkRVZauNv0fI2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7figVkddjkRVZauNv0fI2o",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:13:28"
+  }
+]

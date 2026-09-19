@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohd Shahrukh",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "206247",
+    "phone_number": "+91 88698 59168",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near market, Bhainsol, Uttar Pradesh 206241",
+    "area": "206247",
+    "latitude": 26.649678899999998,
+    "longitude": 79.40004929999999,
+    "place_id": "ChIJBdjSTy35nTkRdzCZV719_IQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdjSTy35nTkRdzCZV719_IQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:11"
+  },
+  {
+    "business_name": "Mahendra Singh cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "206247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "QP87+CQQ, Yakubpur, Uttar Pradesh 206255",
+    "area": "206247",
+    "latitude": 26.7660996,
+    "longitude": 79.71447169999999,
+    "place_id": "ChIJTVJ-M5HhnTkRbIu9STF2jKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVJ-M5HhnTkRbIu9STF2jKg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:12"
+  }
+]

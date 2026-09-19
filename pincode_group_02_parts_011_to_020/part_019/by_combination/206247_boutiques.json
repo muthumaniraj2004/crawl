@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bukhari Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "206247",
+    "phone_number": "+91 90457 64548",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JF27 5RQ, Jasmantnagar, Uttar Pradesh 206247",
+    "area": "206247",
+    "latitude": 26.6004521,
+    "longitude": 79.46461699999999,
+    "place_id": "ChIJNzZgwoj5nTkRNmdxzXrtqCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzZgwoj5nTkRNmdxzXrtqCY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:58"
+  },
+  {
+    "business_name": "F S ENTERPRISES",
+    "search_category": "Boutiques",
+    "primary_category": "Electric motor scooter dealer",
+    "all_categories": "Electric motor scooter dealer",
+    "pincode": "206247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JF44+7JV, Phaphunda, Uttar Pradesh 206247",
+    "area": "206247",
+    "latitude": 26.6057447,
+    "longitude": 79.4565358,
+    "place_id": "ChIJ-Q7ZXgD5nTkRtult6RkJmWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q7ZXgD5nTkRtult6RkJmWk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:59"
+  }
+]

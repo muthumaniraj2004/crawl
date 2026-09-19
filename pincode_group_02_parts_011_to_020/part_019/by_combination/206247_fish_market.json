@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chintu form House",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "206247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HCPV+7R, Hajji Ka Purva, Uttar Pradesh 206247",
+    "area": "206247",
+    "latitude": 26.585670999999998,
+    "longitude": 79.4445513,
+    "place_id": "ChIJh-qkMwD3nTkRenPm4-n08Hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-qkMwD3nTkRenPm4-n08Hk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:38"
+  },
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "206247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "52W3+VWV, Wadvali, Maharashtra 402403",
+    "area": "206247",
+    "latitude": 18.197226399999998,
+    "longitude": 73.0047948,
+    "place_id": "ChIJZWAanMhI6DsRO6ByiwXaKbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWAanMhI6DsRO6ByiwXaKbg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:41"
+  }
+]

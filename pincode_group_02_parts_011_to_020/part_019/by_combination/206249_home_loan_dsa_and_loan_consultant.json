@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Corp",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial institution",
+    "pincode": "206249",
+    "phone_number": "+91 80 4128 5070",
+    "website": "http://www.capitalcorp.in/",
+    "rating": 4.8,
+    "reviews_count": 833,
+    "address": "2nd floor, Capital Corp CRV Tower, 46/5, 8th Main Rd, near MES college, Malleshwaram, Bengaluru, Karnataka 560055",
+    "area": "Malleshwaram",
+    "latitude": 13.006141,
+    "longitude": 77.56461399999999,
+    "place_id": "ChIJTcZPfDEWrjsRwL0RgopuM4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcZPfDEWrjsRwL0RgopuM4o",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:58"
+  },
+  {
+    "business_name": "LIC Housing Finance Ltd",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Bank",
+    "pincode": "206249",
+    "phone_number": "+91 80 2296 0501",
+    "website": "https://www.lichousing.com/",
+    "rating": 3,
+    "reviews_count": 123,
+    "address": "No. 6, 1st Floor, TMR Tower, Varthur Main Rd, above Fresh, Kumarapalli, Thubarahalli, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Kumarapalli, Thubarahalli, Whitefield",
+    "latitude": 12.955592,
+    "longitude": 77.7197391,
+    "place_id": "ChIJWT6WGgoSrjsR8DkJxiMRJFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWT6WGgoSrjsR8DkJxiMRJFg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:58"
+  }
+]

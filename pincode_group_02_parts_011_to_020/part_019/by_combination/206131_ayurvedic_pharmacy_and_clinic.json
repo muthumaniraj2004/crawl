@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Ayurvedic Pharmacy",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "206131",
+    "phone_number": "+91 63924 07222",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Bhilouli, post, Sahawar, Uttar Pradesh 207245",
+    "area": "206131",
+    "latitude": 27.7939832,
+    "longitude": 78.83113589999999,
+    "place_id": "ChIJB4xo5qQZdTkR3yQ0-MbVk1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4xo5qQZdTkR3yQ0-MbVk1Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:30:20"
+  },
+  {
+    "business_name": "Raj Ayurved Pharmacy",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "206131",
+    "phone_number": "+91 94124 46827",
+    "website": "https://rajayurvedic.com/",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "Unnamed Road, Pipal Gawan, Uttar Pradesh 204211",
+    "area": "206131",
+    "latitude": 27.684345,
+    "longitude": 78.4786587,
+    "place_id": "ChIJGT-m9OfldDkRZQTyihkod-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGT-m9OfldDkRZQTyihkod-Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:30:20"
+  }
+]

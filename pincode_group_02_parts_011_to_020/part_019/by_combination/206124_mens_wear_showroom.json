@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Point",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "206124",
+    "phone_number": "+91 89234 62415",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lakhna Rd, Bakewar, Uttar Pradesh 206124",
+    "area": "206124",
+    "latitude": 26.661838099999997,
+    "longitude": 79.1728766,
+    "place_id": "ChIJFbivscAPdjkRSc9TX6X9UuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbivscAPdjkRSc9TX6X9UuE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:37"
+  },
+  {
+    "business_name": "Raymond showroom",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q2M9+3M2, Raja Ganj, Chogurjee Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Raja Ganj, Chogurjee Nagar",
+    "latitude": 26.782629,
+    "longitude": 79.0191428,
+    "place_id": "ChIJvYIjaQDfdTkRZDM2b0FMa-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYIjaQDfdTkRZDM2b0FMa-0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:38"
+  }
+]

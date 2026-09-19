@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suzi Pet Store and Spa",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Pet groomer",
+    "pincode": "206255",
+    "phone_number": "+91 90000 97424",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H:no. 1, 1-107/53, V S Colony, Kapra, Hyderabad, Secunderabad, Telangana 500062",
+    "area": "V S Colony, Kapra",
+    "latitude": 17.4858506,
+    "longitude": 78.5604108,
+    "place_id": "ChIJr1yhxnWbyzsRJRQa9qUNE7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1yhxnWbyzsRJRQa9qUNE7w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:14"
+  },
+  {
+    "business_name": "Animals Super Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Cattle farm, Cattle market, Animal feed store, Poultry farm, Poultry store, Veterinary pharmacy",
+    "pincode": "206255",
+    "phone_number": "+91 70808 05140",
+    "website": "https://animalsss.com/",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Preeti Nagar, Lucknow, Uttar Pradesh 226021",
+    "area": "Preeti Nagar",
+    "latitude": 26.909433399999998,
+    "longitude": 80.9250054,
+    "place_id": "ChIJOZpxy6hXmTkR4wPHIix7-Mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZpxy6hXmTkR4wPHIix7-Mc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:15"
+  }
+]

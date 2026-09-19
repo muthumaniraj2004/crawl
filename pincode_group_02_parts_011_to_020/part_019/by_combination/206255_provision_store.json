@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "206255",
+    "phone_number": "+91 97932 09404",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bilarepur, Hamirpur, Prayagraj, Uttar Pradesh 209736",
+    "area": "Bilarepur",
+    "latitude": 26.784608,
+    "longitude": 79.7756222,
+    "place_id": "ChIJoUMRIqrfnTkRIQmEM5HnoX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUMRIqrfnTkRIQmEM5HnoX0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:09"
+  },
+  {
+    "business_name": "Rajkamal provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "206255",
+    "phone_number": "+91 99728 97730",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "127, Haralur Main Rd, Haralur, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Haralur, PWD Quarters, 1st Sector, HSR Layout",
+    "latitude": 12.9018818,
+    "longitude": 77.6605829,
+    "place_id": "ChIJPSGrQpcTrjsRW01ETzcZtZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSGrQpcTrjsRW01ETzcZtZs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:09"
+  }
+]

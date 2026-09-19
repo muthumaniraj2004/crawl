@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Governent Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206251",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VJHW+V7W, Kakrahi, Uttar Pradesh 206251",
+    "area": "206251",
+    "latitude": 26.879700699999997,
+    "longitude": 79.64633359999999,
+    "place_id": "ChIJlXdiRQAJnjkRXctTbJMEjTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXdiRQAJnjkRXctTbJMEjTo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:35"
+  },
+  {
+    "business_name": "MYLAI SHIVA ENT CLINIC | Dr.Sunandha Srivatsan | ENT expert | Mylapore, Chennai",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Doctor, Surgeon",
+    "pincode": "206251",
+    "phone_number": "+91 94451 57737",
+    "website": "https://mylaishivaentclinic.org/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NO. 16, 141, Mundakanni Amman Koil St, near Kutchery Road, Mylapore, Chennai, Tamil Nadu 600004",
+    "area": "Mylapore",
+    "latitude": 13.0353032,
+    "longitude": 80.2707458,
+    "place_id": "ChIJGdwlONZnUjoRM4UGiOz3yqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdwlONZnUjoRM4UGiOz3yqw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:37"
+  }
+]

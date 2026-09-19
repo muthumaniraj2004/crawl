@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subhash Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "205268",
+    "phone_number": "+91 97603 84541",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "15, Durganager Udetpur, Uttar Pradesh 205303",
+    "area": "205268",
+    "latitude": 27.0697782,
+    "longitude": 79.1652589,
+    "place_id": "ChIJofoczxjtdTkR8QvQq-CX3Sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofoczxjtdTkR8QvQq-CX3Sw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:00:22"
+  },
+  {
+    "business_name": "Pavan Madical Store",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "205268",
+    "phone_number": "+91 70607 00950",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Badanpur, Uttar Pradesh 205268",
+    "area": "205268",
+    "latitude": 27.0754295,
+    "longitude": 79.1608858,
+    "place_id": "ChIJK3_apLrtdTkRBv6QtPu27DU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3_apLrtdTkRBv6QtPu27DU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:00:22"
+  }
+]

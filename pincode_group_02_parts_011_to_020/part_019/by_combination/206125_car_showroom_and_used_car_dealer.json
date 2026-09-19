@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARAS Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "206125",
+    "phone_number": "+91 79064 66335",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "mandir, NH-2, near Tata LRP motors, in front of pilkhar, Etawah, Uttar Pradesh 206001",
+    "area": "206125",
+    "latitude": 26.7573083,
+    "longitude": 79.0574871,
+    "place_id": "ChIJi5cvTI3hdTkRn7cQYyvdRlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5cvTI3hdTkRn7cQYyvdRlw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:33"
+  },
+  {
+    "business_name": "Shukla Car Dealers",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "206125",
+    "phone_number": "+91 89546 34904",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khiriti Chakarnagar, Khiriti, Uttar Pradesh 206125",
+    "area": "206125",
+    "latitude": 26.5793154,
+    "longitude": 79.163319,
+    "place_id": "ChIJzxjbr3APdjkR5CIWVUt7rkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxjbr3APdjkR5CIWVUt7rkQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:35"
+  }
+]

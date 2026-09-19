@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POST OFFICE Puran Purwa",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "206255",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PPH8+JG2, Puran Purwa, Kare Rampur, Uttar Pradesh 209306",
+    "area": "206255",
+    "latitude": 26.729014199999998,
+    "longitude": 79.7162781,
+    "place_id": "ChIJQftmbgDhnTkRGwad1gNIXQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQftmbgDhnTkRGwad1gNIXQ0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:54:27"
+  },
+  {
+    "business_name": "aditya kushwaha",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "206255",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PQ63+8J2, Usari, Uttar Pradesh 209306",
+    "area": "206255",
+    "latitude": 26.7107624,
+    "longitude": 79.754007,
+    "place_id": "ChIJ6ykWNADfnTkR9KBCOeCALqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ykWNADfnTkR9KBCOeCALqA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:54:27"
+  }
+]

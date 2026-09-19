@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anas Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Repair service",
+    "pincode": "206003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q4MH+79J, Bharathana - Etawah Rd, choraha, Etawah, Mugalpur Nraini, Uttar Pradesh 206126",
+    "area": "choraha",
+    "latitude": 26.7832065,
+    "longitude": 79.12839509999999,
+    "place_id": "ChIJ3RFYsxIHdjkRNpQZoxiyoRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RFYsxIHdjkRNpQZoxiyoRg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:11:12"
+  },
+  {
+    "business_name": "Usha Telecom Idea Point",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "206003",
+    "phone_number": "+91 82658 91017",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 23,
+    "address": "Ajit Nagar Extension, Etawah, Datawali, Uttar Pradesh 206002",
+    "area": "Ajit Nagar Extension",
+    "latitude": 26.7926887,
+    "longitude": 79.0342273,
+    "place_id": "ChIJg7L8b2LgdTkRavZ3X3opMsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7L8b2LgdTkRavZ3X3opMsg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:11:13"
+  }
+]

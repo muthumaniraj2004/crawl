@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khuraak Sweets and Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "206123",
+    "phone_number": "+91 91053 25000",
+    "website": "https://khuraak.org/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bharthana Rd, near chauraha, Ashok Nagar, Yashoda Nagar, Etawah, Uttar Pradesh 206245",
+    "area": "Ashok Nagar, Yashoda Nagar",
+    "latitude": 26.788,
+    "longitude": 79.03250489999999,
+    "place_id": "ChIJOcaoSfHhdTkRKy7wq2mPc48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcaoSfHhdTkRKy7wq2mPc48",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:16:43"
+  },
+  {
+    "business_name": "AS Sweet Box Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "206123",
+    "phone_number": "+91 70782 28601",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Q2X4+6VQ, sut mil gate ke samne, etawha, Adda Jalim, Etawah, Uttar Pradesh 206002",
+    "area": "Shiv Nagar, Adda Jalim",
+    "latitude": 26.7980794,
+    "longitude": 79.00724319999999,
+    "place_id": "ChIJXWZ37zHedTkR-JYaAlW4c4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWZ37zHedTkR-JYaAlW4c4U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:16:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sabitganj",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "206126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Q2GC+5RH, Sabit Gunj Rd, Anand Nagar, Kabirganj, Etawah, Uttar Pradesh 206001",
+    "area": "Anand Nagar, Kabirganj",
+    "latitude": 26.775434699999998,
+    "longitude": 79.0221005,
+    "place_id": "ChIJ7x8JUwDhdTkRzkLfr9aukLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x8JUwDhdTkRzkLfr9aukLM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:22:03"
+  },
+  {
+    "business_name": "Chaudhary Chasma Wale",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "206126",
+    "phone_number": "+91 82679 81226",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KRISHANA NAGAR, Ekta Colony, Etawah, Uttar Pradesh 206003",
+    "area": "Ekta Colony",
+    "latitude": 26.766833,
+    "longitude": 79.0399626,
+    "place_id": "ChIJ98w8XTLhdTkRHp8Sm3wfxBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98w8XTLhdTkRHp8Sm3wfxBs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:22:06"
+  }
+]

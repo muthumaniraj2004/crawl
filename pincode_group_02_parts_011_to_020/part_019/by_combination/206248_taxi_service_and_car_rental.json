@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mansi Cab Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Air taxi, Car leasing service, Car rental agency, Minibus taxi service, Tour agency, Tour operator, Travel agency",
+    "pincode": "206248",
+    "phone_number": "+91 85858 57798",
+    "website": "http://www.mansicab.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot no.9, Amrutdham, Link Road, Bidi Kamgar Colony, Nashik, Maharashtra 422003",
+    "area": "Bidi Kamgar Colony",
+    "latitude": 20.009809399999998,
+    "longitude": 73.8261843,
+    "place_id": "ChIJaWYEfK7r3TsR3_tXjZ2xQtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWYEfK7r3TsR3_tXjZ2xQtE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:43:48"
+  },
+  {
+    "business_name": "One Drop Cab - One Way Drop Taxi | Drop Taxi Salem | Drop Taxi Bangalore | out station taxi booking",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Air taxi, Minibus taxi service, Taxi stand, Tour agency, Travel agency",
+    "pincode": "206248",
+    "phone_number": "+91 97515 77744",
+    "website": "https://onedropcab.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2/193, B Saraswati Garden, Udayapatti, Salem (M.Corp.), Tamil Nadu 636140",
+    "area": "Udayapatti",
+    "latitude": 11.6592754,
+    "longitude": 78.2105857,
+    "place_id": "ChIJRzhz_jvzqzsRDfm1LsGk0Z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzhz_jvzqzsRDfm1LsGk0Z4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:43:48"
+  }
+]

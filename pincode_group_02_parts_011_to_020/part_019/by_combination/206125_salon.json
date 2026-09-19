@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MMJ hair salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "206125",
+    "phone_number": "+91 92191 02604",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Alkapuri, Punjabi Colony, Etawah, Uttar Pradesh 206001",
+    "area": "Alkapuri, Punjabi Colony",
+    "latitude": 26.7798154,
+    "longitude": 79.0307328,
+    "place_id": "ChIJVxVrVQDhdTkRM4hWsaOAiqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxVrVQDhdTkRM4hWsaOAiqQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:52"
+  },
+  {
+    "business_name": "Arushi makover lakhna etawah",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "206125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J4WX+JJ5 New dixit muhal, Lakhna, Uttar Pradesh 206127",
+    "area": "206125",
+    "latitude": 26.6465148,
+    "longitude": 79.14910429999999,
+    "place_id": "ChIJo87JPQAPdjkRKjPyBq-4yCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo87JPQAPdjkRKjPyBq-4yCo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:52"
+  }
+]

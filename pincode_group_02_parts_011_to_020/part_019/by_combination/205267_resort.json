@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sps resort and anita garden",
+    "search_category": "Resort",
+    "primary_category": "Motel",
+    "all_categories": "Motel",
+    "pincode": "205267",
+    "phone_number": "+91 70606 57701",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "F5JF+QXP, Mainpuri - Aliganj Rd, beside petrol pump, Aliganj, Uttar Pradesh 207247",
+    "area": "205267",
+    "latitude": 27.481961599999998,
+    "longitude": 79.1749682,
+    "place_id": "ChIJa2sVpteddTkROrrWtEGeX8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2sVpteddTkROrrWtEGeX8c",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:59:15"
+  },
+  {
+    "business_name": "S.S Resort Aliganj Etah",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "205267",
+    "phone_number": "+91 75004 14106",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Aliganj Byp, Bijaidepur, Uttar Pradesh 207247",
+    "area": "205267",
+    "latitude": 27.499503899999997,
+    "longitude": 79.1810473,
+    "place_id": "ChIJGxOVCTGddTkRzUMBZJWHa0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxOVCTGddTkRzUMBZJWHa0M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:59:16"
+  }
+]

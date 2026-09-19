@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM BAZAR",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "206123",
+    "phone_number": "+91 92196 15809",
+    "website": "http://rcmbusiness.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "3/17A, Vidhya Nagar colony, Ramghat Rd, Aligarh, Uttar Pradesh 202001",
+    "area": "Begpur",
+    "latitude": 27.896656999999998,
+    "longitude": 78.0915594,
+    "place_id": "ChIJEdvgQQildDkRTERLCcrmtRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdvgQQildDkRTERLCcrmtRg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:16:42"
+  },
+  {
+    "business_name": "Kushwah Agency",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Soft drinks shop",
+    "all_categories": "Soft drinks shop",
+    "pincode": "206123",
+    "phone_number": "+91 74094 63280",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No.11, 34, Sita Nagar, Ram Bagh, Agra, Uttar Pradesh 282006",
+    "area": "Sita Nagar, Ram Bagh",
+    "latitude": 27.2011741,
+    "longitude": 78.038513,
+    "place_id": "ChIJoTHTFr9wdDkRZ8uMxXwmK8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTHTFr9wdDkRZ8uMxXwmK8c",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:16:43"
+  }
+]

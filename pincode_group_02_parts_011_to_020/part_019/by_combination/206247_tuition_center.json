@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Education Centre",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "206247",
+    "phone_number": "+91 97204 86277",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fafund Rd, near Aasmain Devi Mandir, Jagjivan Pur, Phaphund, Auraiya, Uttar Pradesh 206247",
+    "area": "Jagjivan Pur",
+    "latitude": 26.574522599999998,
+    "longitude": 79.469132,
+    "place_id": "ChIJk5SNoW_3nTkRqWJZ8BbgzNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5SNoW_3nTkRqWJZ8BbgzNQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:39"
+  },
+  {
+    "business_name": "Cs Education Hub",
+    "search_category": "Tuition Center",
+    "primary_category": "Adult education school",
+    "all_categories": "Adult education school",
+    "pincode": "206247",
+    "phone_number": "+91 74173 23757",
+    "website": "https://cs-education-hub.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unchu Teela, Phaphund, Uttar Pradesh 206247",
+    "area": "206247",
+    "latitude": 26.5997918,
+    "longitude": 79.4648131,
+    "place_id": "ChIJWWmS8Jr5nTkRILjn22HtYtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWmS8Jr5nTkRILjn22HtYtE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:41"
+  }
+]

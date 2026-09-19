@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Job Referrals",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Service establishment",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "https://t.me/indeed_jobs_dubai",
+    "rating": null,
+    "reviews_count": null,
+    "address": "My Job Referrals, 206124, India",
+    "area": "206124",
+    "latitude": 35.282874299999996,
+    "longitude": -3.3907303,
+    "place_id": "ChIJ7f7JyYYJrm4RRo0ExoRXSFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7f7JyYYJrm4RRo0ExoRXSFw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:55"
+  },
+  {
+    "business_name": "B2B Salesify",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Computer support and services, Service establishment, Market researcher",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "https://b2bsalesify.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "B2B Salesify, 206124, India",
+    "area": "206124",
+    "latitude": 28.522201799999998,
+    "longitude": 77.40182539999999,
+    "place_id": "ChIJqygWyj7lDDkRu8MIWRF78Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqygWyj7lDDkRu8MIWRF78Jo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:56"
+  }
+]

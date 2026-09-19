@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Business Speaks Agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "206129",
+    "phone_number": "N/A",
+    "website": "https://businesspeaks.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Business Speaks Agency, 206129, India",
+    "area": "206129",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJD9x_G79wpGkR_sevVNkC3tQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9x_G79wpGkR_sevVNkC3tQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:11"
+  },
+  {
+    "business_name": "eBuiz Business Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "206129",
+    "phone_number": "+91 83683 56868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "eBuiz Business Solutions, 206129, India",
+    "area": "206129",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJPfSkCmMDDTkROPs87pPlkQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfSkCmMDDTkROPs87pPlkQc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:12"
+  }
+]

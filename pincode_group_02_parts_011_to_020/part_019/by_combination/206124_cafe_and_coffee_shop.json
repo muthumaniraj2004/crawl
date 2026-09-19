@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Ji tea stall",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 18,
+    "address": "P4G8+C7G, Birari, Uttar Pradesh 206126",
+    "area": "206124",
+    "latitude": 26.7260626,
+    "longitude": 79.11568969999999,
+    "place_id": "ChIJcWHRlL0JdjkRY23Hy2M86jA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWHRlL0JdjkRY23Hy2M86jA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:36"
+  },
+  {
+    "business_name": "DAA PIZZA CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "M534+5RQ, Lakhna, Uttar Pradesh 206127",
+    "area": "206124",
+    "latitude": 26.6529571,
+    "longitude": 79.15709629999999,
+    "place_id": "ChIJm7zUYpwPdjkRqXq1lCs0nhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7zUYpwPdjkRqXq1lCs0nhY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:36"
+  }
+]

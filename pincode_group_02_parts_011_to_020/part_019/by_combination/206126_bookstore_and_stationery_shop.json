@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aurag Gupta",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "206126",
+    "phone_number": "+91 98974 91972",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Sadak bazaar, Etawah, Sarai Ikdil, Uttar Pradesh 206126",
+    "area": "206126",
+    "latitude": 26.7421926,
+    "longitude": 79.09484979999999,
+    "place_id": "ChIJAzEeDqkLdjkRgaeQnizGMrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzEeDqkLdjkRgaeQnizGMrI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:22:51"
+  },
+  {
+    "business_name": "BOOKWORM",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Art supply store, Children's Book Store, Comic book store, Copy shop, Educational supply store, School supply store, Scrapbooking store, Book store, Toy store",
+    "pincode": "206126",
+    "phone_number": "+91 98679 67896",
+    "website": "https://www.bookwormindia.co/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 49, Prathamesh galaxy, Bldg, opp. Shri Vijay Vihar, MHADA Colony 19, Powai, Mumbai, Maharashtra 400076",
+    "area": "MHADA Colony 19, Powai",
+    "latitude": 19.1178682,
+    "longitude": 72.90373579999999,
+    "place_id": "ChIJjf0FBMHH5zsRFsSaRiuh46s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjf0FBMHH5zsRFsSaRiuh46s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:22:52"
+  }
+]

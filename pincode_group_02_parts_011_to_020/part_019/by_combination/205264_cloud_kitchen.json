@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen by - Shivani",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "205264",
+    "phone_number": "+91 75000 08300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "205264",
+    "latitude": 29.9271928,
+    "longitude": 78.1140593,
+    "place_id": "ChIJr8S6DdZHCTkR_d4QDwZvTCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8S6DdZHCTkR_d4QDwZvTCk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:55:10"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "205264",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 9,
+    "address": "J523+PV6, Rajni Path, RBI Flats Colony, Bankman Colony, Patna, Bihar 800020",
+    "area": "RBI Flats Colony, Bankman Colony",
+    "latitude": 25.6017758,
+    "longitude": 85.154636,
+    "place_id": "ChIJ63W4bn5Z7TkRffxapoMK_3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63W4bn5Z7TkRffxapoMK_3Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:55:10"
+  }
+]

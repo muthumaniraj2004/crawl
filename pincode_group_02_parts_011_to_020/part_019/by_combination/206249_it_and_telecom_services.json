@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Care Centre",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "206249",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FG76+8X6, James Outram St, Sardar Bazar, Hashmat Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Sardar Bazar, Hashmat Nagar",
+    "latitude": 26.4633415,
+    "longitude": 79.51232809999999,
+    "place_id": "ChIJ1-BOYwDznTkRAVqQNtBam7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-BOYwDznTkRAVqQNtBam7Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:57"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "206249",
+    "phone_number": "+91 94539 57685",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JALAUN, Gunauli, Uttar Pradesh 285203",
+    "area": "206249",
+    "latitude": 26.717,
+    "longitude": 79.4448,
+    "place_id": "ChIJbTxyeqH_nTkRAN8GF0sw4fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTxyeqH_nTkRAN8GF0sw4fs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:58"
+  }
+]

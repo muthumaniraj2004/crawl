@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Property Dealer",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "207001",
+    "phone_number": "+91 94124 90660",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "139, Agra Rd, Opp. HDFC Bank, Shringar Nagar, Yadav Nagar, Etah, Uttar Pradesh 207001",
+    "area": "Shringar Nagar, Yadav Nagar",
+    "latitude": 27.561445199999998,
+    "longitude": 78.65413,
+    "place_id": "ChIJsbk5U_j9dDkRGT1h2zH_7v8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbk5U_j9dDkRGT1h2zH_7v8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:04"
+  },
+  {
+    "business_name": "JainTradingCompany",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency",
+    "pincode": "207001",
+    "phone_number": "+91 98376 10799",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "HM37+PGC, Shikohabad, Rani Avanti Bai Nagar, Shrangar Nagar, Etah, Uttar Pradesh 207001",
+    "area": "Shikohabad, Rani Avanti Bai Nagar, Shrangar Nagar",
+    "latitude": 27.5543095,
+    "longitude": 78.6637559,
+    "place_id": "ChIJ2b5VFAICdTkRHk5RfBk-qCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2b5VFAICdTkRHk5RfBk-qCs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:05"
+  }
+]

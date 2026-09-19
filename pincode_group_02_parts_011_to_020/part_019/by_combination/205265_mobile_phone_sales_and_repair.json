@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Master Mobile Point",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "205265",
+    "phone_number": "+91 82878 20588",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Master Building, Tiraha Mohalla Pathanan, Rustampur, Kurawali, Uttar Pradesh 205265",
+    "area": "205265",
+    "latitude": 27.398995199999998,
+    "longitude": 78.97159769999999,
+    "place_id": "ChIJ7x_a_NqhdTkRnbWdQul9VHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x_a_NqhdTkRnbWdQul9VHk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:57:45"
+  },
+  {
+    "business_name": "R S Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "205265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "9XV7+JWV, Kurawali, Uttar Pradesh 205265",
+    "area": "205265",
+    "latitude": 27.3941192,
+    "longitude": 78.9647882,
+    "place_id": "ChIJs4_6gN2hdTkRiR1IGt20WIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4_6gN2hdTkRiR1IGt20WIU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:57:49"
+  }
+]

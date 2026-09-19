@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acme Plastics",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Plastic Products Supplier",
+    "all_categories": "Plastic Products Supplier",
+    "pincode": "206124",
+    "phone_number": "+91 93122 37169",
+    "website": "http://www.acmeplasticsindia.com/",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "Plot No. 4, Krishna Nagar, Opposite Plot No. 79, Sector No. 25, Ballabhgarh, Faridabad, Haryana 121004",
+    "area": "Krishna Nagar, Sector 56A",
+    "latitude": 28.335815699999998,
+    "longitude": 77.301778,
+    "place_id": "ChIJu___Q0fcDDkRlG0Th3r7iP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu___Q0fcDDkRlG0Th3r7iP4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:45"
+  },
+  {
+    "business_name": "CREATIVE PLASTICS/ CREATIVE GROUP OF INDUSTRIES",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Plastic fabrication company",
+    "all_categories": "Plastic fabrication company",
+    "pincode": "206124",
+    "phone_number": "+91 22 4078 0000",
+    "website": "http://www.creativeplasticindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "101, Jamnalal Bajaj Marg, Nariman Point, Mumbai, Maharashtra 400021",
+    "area": "Nariman Point",
+    "latitude": 18.9242521,
+    "longitude": 72.8212181,
+    "place_id": "ChIJX-1D_OvR5zsRcHQsVv47ESk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-1D_OvR5zsRcHQsVv47ESk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonia dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "M56M+FW5, NH 19, Uttar Pradesh 206124",
+    "area": "206124",
+    "latitude": 26.661143499999998,
+    "longitude": 79.1848682,
+    "place_id": "ChIJ54UWMPMPdjkR3T25cF1uxOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54UWMPMPdjkR3T25cF1uxOk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:30"
+  },
+  {
+    "business_name": "Krishna dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P48G+8PQ, Etawah Kanpur Hwy, Maniya Mau, Uttar Pradesh 206126",
+    "area": "206124",
+    "latitude": 26.715828799999997,
+    "longitude": 79.1268614,
+    "place_id": "ChIJOToAUwAJdjkRAOwh8QB5Z5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOToAUwAJdjkRAOwh8QB5Z5M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:30"
+  }
+]

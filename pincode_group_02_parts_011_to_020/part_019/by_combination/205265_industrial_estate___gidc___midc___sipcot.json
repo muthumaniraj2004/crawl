@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIPCOT INDUSTRIAL HOUSING FACILITY",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "205265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VWGF+85, Mettupalayam Main Rd, Vallakkottai, Panruti, Tamil Nadu 631604",
+    "area": "205265",
+    "latitude": 12.856366999999999,
+    "longitude": 79.91343859999999,
+    "place_id": "ChIJ-Wp_FQDxUjoRQoLw5rwiDaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Wp_FQDxUjoRQoLw5rwiDaA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:13"
+  },
+  {
+    "business_name": "SIPCOT SITE 1",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "205265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VXC2+XCC, Oragadam Industrial Corridor, Eraiyur, Vaipoor, Tamil Nadu 602118",
+    "area": "Oragadam Industrial Corridor",
+    "latitude": 12.8724356,
+    "longitude": 79.95101249999999,
+    "place_id": "ChIJM7orhQ3xUjoR9pfUcA4nNIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7orhQ3xUjoR9pfUcA4nNIM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:13"
+  }
+]

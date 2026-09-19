@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Rajesh Goel",
+    "search_category": "Dialysis Center",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist",
+    "pincode": "206131",
+    "phone_number": "+91 98182 35688",
+    "website": "https://kidneycarecentre.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Advance Kidney Care, NH - 19, Service Rd, near Kaushalya Vatika, Ashok Nagar, East, Gandhi Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Ashok Nagar, East, Gandhi Nagar",
+    "latitude": 26.7860049,
+    "longitude": 79.0377812,
+    "place_id": "ChIJyVzzxAvhdTkRJgvIpEVQb-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVzzxAvhdTkRJgvIpEVQb-s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:30:28"
+  },
+  {
+    "business_name": "Etawah City Charitable Blood Centre(Run by Sahar Foundation)",
+    "search_category": "Dialysis Center",
+    "primary_category": "Blood bank",
+    "all_categories": "Blood bank",
+    "pincode": "206131",
+    "phone_number": "+91 94580 38521",
+    "website": "https://www.facebook.com/profile.php?id=61560145035325&mibextid=ZbWKwL",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "1 st floor, hindware Italian showroom, Hindware Italian showroom police chowki pakka bagh Etawah, pakka bagh, Etawah, Uttar Pradesh 206001",
+    "area": "Anand Nagar, pakka bagh",
+    "latitude": 26.7693159,
+    "longitude": 79.0360584,
+    "place_id": "ChIJ5YWkOgDhdTkRXCfq-vLgmjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YWkOgDhdTkRXCfq-vLgmjU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:30:28"
+  }
+]

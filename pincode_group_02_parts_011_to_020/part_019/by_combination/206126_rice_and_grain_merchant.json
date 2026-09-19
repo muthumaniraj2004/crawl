@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhi Rice Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "206126",
+    "phone_number": "+91 98194 30492",
+    "website": "http://vidhiricetraders.com/",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "E 28, APMC Market 2, Phase 2, Sector 19B, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "APMC Market 2, Phase 2, Sector 19B, Vashi",
+    "latitude": 19.0822511,
+    "longitude": 73.0095778,
+    "place_id": "ChIJnR1obdXB5zsR94wccdXK-QM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnR1obdXB5zsR94wccdXK-QM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:21:45"
+  },
+  {
+    "business_name": "Chandak Rice Mill.",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Corporate office",
+    "pincode": "206126",
+    "phone_number": "+91 2553 220 810",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "Bhandardara Chowk, Old Agra Rd, opp. Jain Mandir, Ghoti, Maharashtra 422402",
+    "area": "Ghoti",
+    "latitude": 19.717960299999998,
+    "longitude": 73.6281936,
+    "place_id": "ChIJd7hKNRiF3TsRKthIYyF3NEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7hKNRiF3TsRKthIYyF3NEE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:21:45"
+  }
+]

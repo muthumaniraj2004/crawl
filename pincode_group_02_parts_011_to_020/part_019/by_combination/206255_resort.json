@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Village Lake Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Event venue, Hotel, Wedding venue, Restaurant, Swimming pool",
+    "pincode": "206255",
+    "phone_number": "+91 70804 14040",
+    "website": "https://thevillagelake.com/",
+    "rating": 4.8,
+    "reviews_count": 713,
+    "address": "NH 31, Babatpur - Mariahu Link Rd, Pura Raghunathpur, Varanasi, Uttar Pradesh 221006",
+    "area": "206255",
+    "latitude": 25.4573227,
+    "longitude": 82.8444111,
+    "place_id": "ChIJS6kuUiPVjzkRCSYP6t9qjJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6kuUiPVjzkRCSYP6t9qjJQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:54:06"
+  },
+  {
+    "business_name": "Golden Yug",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Health resort",
+    "pincode": "206255",
+    "phone_number": "+91 96696 64244",
+    "website": "https://www.goldenyug.life/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Golden Yug Resort, 245/1/1/2, Sanwer, Tarana, Indore, Madhya Pradesh 453551",
+    "area": "Sanwer",
+    "latitude": 22.9246132,
+    "longitude": 75.8555475,
+    "place_id": "ChIJ43r3ZwAFYzkR5aEHznlxK1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43r3ZwAFYzkR5aEHznlxK1g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:54:07"
+  }
+]

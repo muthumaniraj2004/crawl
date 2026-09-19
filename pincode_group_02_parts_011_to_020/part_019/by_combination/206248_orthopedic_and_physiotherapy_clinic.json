@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PhysioBot Advanced Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Doctor, Health consultant, Medical clinic, Orthopedic clinic, Physiatrist, Physical fitness program, Physical rehabilitation center, Physiotherapist, Sports medicine clinic",
+    "pincode": "206248",
+    "phone_number": "+91 86259 84233",
+    "website": "http://physiobot.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jain Nagar, K. C, near Maruti Mandir, Ratnagiri, Maharashtra 415612",
+    "area": "206248",
+    "latitude": 16.9905965,
+    "longitude": 73.3101422,
+    "place_id": "ChIJ8-KF0p8N6jsRLxbf37L1cBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-KF0p8N6jsRLxbf37L1cBo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:43:38"
+  },
+  {
+    "business_name": "Care Ortho & Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Medical clinic, Orthopedic clinic, Pain control clinic, Physiotherapist, Sports medicine clinic",
+    "pincode": "206248",
+    "phone_number": "+91 73092 05029",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 385,
+    "address": "Emerald Mall, Sec-K537 kha Near, Opposit, Power House Chauraha, Ashiyana, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector K, Ashiyana",
+    "latitude": 26.7880614,
+    "longitude": 80.9116119,
+    "place_id": "ChIJS_vlBur9mzkRXFJOuxpiZuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_vlBur9mzkRXFJOuxpiZuI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:43:39"
+  }
+]

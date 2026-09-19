@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dayal Hospital Medicare Center",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Hospital",
+    "pincode": "206120",
+    "phone_number": "+91 84455 30026",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Langoor ki mathiya, (Moti Mandir), Etawah Road, Service Road, opp. of over bridge, Bharthana, Uttar Pradesh 206242",
+    "area": "Bharthana",
+    "latitude": 26.7525956,
+    "longitude": 79.2118546,
+    "place_id": "ChIJYfnCWvUHdjkRni9OfktYyhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfnCWvUHdjkRni9OfktYyhk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:12:04"
+  },
+  {
+    "business_name": "Shri Ram nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206120",
+    "phone_number": "+91 74172 91077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Kachora Rd, Krishanapuram Colony, Saraiya village, Etawah, Uttar Pradesh 206002",
+    "area": "Krishanapuram Colony, Saraiya village",
+    "latitude": 26.788553399999998,
+    "longitude": 78.9925066,
+    "place_id": "ChIJG95sxEjfdTkRfrY-yXcGkFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG95sxEjfdTkRfrY-yXcGkFc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:12:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anurag Traders",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "206246",
+    "phone_number": "+91 97607 90300",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "A 2 Naveen Mandi Sthal, Dibiyapur, Uttar Pradesh 206244",
+    "area": "Bhatpura",
+    "latitude": 26.6410856,
+    "longitude": 79.5607397,
+    "place_id": "ChIJd3uEqSzlnTkR7AWglE8-qh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3uEqSzlnTkR7AWglE8-qh8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:36"
+  },
+  {
+    "business_name": "Rajawat House (Vishal)",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "206246",
+    "phone_number": "+91 94571 34806",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Unnamed Road, Auraiya, Navi Mohan, Uttar Pradesh 206246",
+    "area": "206246",
+    "latitude": 26.649289399999997,
+    "longitude": 79.6884477,
+    "place_id": "ChIJy7TNmkbnnTkRviZMds9FOv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7TNmkbnnTkRviZMds9FOv8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:36"
+  }
+]

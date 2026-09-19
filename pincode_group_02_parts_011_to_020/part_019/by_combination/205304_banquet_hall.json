@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "205304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "474H+VQH, Kusmara, Uttar Pradesh 205304",
+    "area": "205304",
+    "latitude": 27.107188899999997,
+    "longitude": 79.2794806,
+    "place_id": "ChIJHbB0UADzdTkR_7WIhnhzZSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbB0UADzdTkR_7WIhnhzZSs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:05:44"
+  },
+  {
+    "business_name": "Sumitra Marriage Home",
+    "search_category": "Banquet Hall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "205304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 41,
+    "address": "62M4+428, Devi Rd, by pass, Buddha Vihar, Mainpuri, Uttar Pradesh 205001",
+    "area": "by pass, Buddha Vihar",
+    "latitude": 27.2327959,
+    "longitude": 79.0050761,
+    "place_id": "ChIJiSoK5AO9dTkRoo7fSAO3CbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSoK5AO9dTkRoo7fSAO3CbI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:05:45"
+  }
+]

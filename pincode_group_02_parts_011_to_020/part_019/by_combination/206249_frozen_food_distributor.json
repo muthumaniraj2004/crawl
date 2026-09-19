@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem enterprise",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "206249",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 38,
+    "address": "Bhula Nivas, 980/5, Dasarahalli Main Rd, near coffee board layout, near Sukhdev caterers, Mariyannapalya, Hebbal Kempapura, Bengaluru, Karnataka 560024",
+    "area": "Mariyannapalya, Hebbal Kempapura",
+    "latitude": 13.0479287,
+    "longitude": 77.6090171,
+    "place_id": "ChIJbwWT0aEXrjsR2SjFc8zYiw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwWT0aEXrjsR2SjFc8zYiw8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:44:51"
+  },
+  {
+    "business_name": "Mangal Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "206249",
+    "phone_number": "+91 99977 74366",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Canara Bank, 26, Bramha Nagar - Badanpur Rd, Brahm Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Brahm Nagar",
+    "latitude": 26.457507,
+    "longitude": 79.51471959999999,
+    "place_id": "ChIJ7_oO9gLznTkRjtT-anZGe24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_oO9gLznTkRjtT-anZGe24",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:44:53"
+  }
+]

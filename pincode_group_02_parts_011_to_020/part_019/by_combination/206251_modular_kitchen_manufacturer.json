@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SLE Pune",
+    "search_category": "Modular Kitchen Manufacturer",
+    "primary_category": "Kitchen furniture store",
+    "all_categories": "Kitchen furniture store, Bathroom remodeler, Carpenter, Door manufacturer, Furniture maker, Furniture Manufacturer, Interior Decorator, Interior designer, Kitchen remodeler, Railing contractor",
+    "pincode": "206251",
+    "phone_number": "+91 93724 40445",
+    "website": "https://slepune.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sukhasagar Rd, Sai Nagar, Shatrunjay Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Sai Nagar, Shatrunjay Nagar, Kondhwa",
+    "latitude": 18.4558145,
+    "longitude": 73.8754611,
+    "place_id": "ChIJa6qKr-fqwjsRuerP5an5VPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6qKr-fqwjsRuerP5an5VPY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:55"
+  },
+  {
+    "business_name": "Kabir Interior & Modular Kitchen",
+    "search_category": "Modular Kitchen Manufacturer",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "206251",
+    "phone_number": "+91 92002 65725",
+    "website": "https://kabirinterior.co.in/",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "City Center, Chambal Colony, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "area": "City Center, Chambal Colony, Thatipur",
+    "latitude": 26.2143388,
+    "longitude": 78.206998,
+    "place_id": "ChIJFXPmLQt-SEQRpup8dAFJVPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXPmLQt-SEQRpup8dAFJVPo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satnam Breakdown Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "206249",
+    "phone_number": "+91 532 268 4335",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "262, Rewa Rd, Near 1 KM. Of Old Yamuna Bridge, Mahewa, Naini, Prayagraj, Madauka Kachhar, Uttar Pradesh 211007",
+    "area": "Mahewa, Naini",
+    "latitude": 25.409567,
+    "longitude": 81.841537,
+    "place_id": "ChIJy3dTVRQ1hTkRfHu8GD3q-AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3dTVRQ1hTkRfHu8GD3q-AM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:25"
+  },
+  {
+    "business_name": "S K Breakdown Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "206249",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FVX5+R9M, near Patanjali Vidya Mandir, Mehdauri Colony, Mehdaori Gaon, Rasulabad, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Mehdauri Colony, Mehdaori Gaon, Rasulabad, Teliarganj",
+    "latitude": 25.499589999999998,
+    "longitude": 81.85842,
+    "place_id": "ChIJod8RD3HKmjkRg9_0XMBgZbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJod8RD3HKmjkRg9_0XMBgZbY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:25"
+  }
+]

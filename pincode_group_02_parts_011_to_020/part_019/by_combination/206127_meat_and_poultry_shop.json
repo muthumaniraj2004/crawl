@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narinder meat shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "206127",
+    "phone_number": "+91 82646 65411",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop number 18, Adda Market, Nangal, Punjab 140124",
+    "area": "Adda Market",
+    "latitude": 31.3804044,
+    "longitude": 76.37363669999999,
+    "place_id": "ChIJpTD5SgrNGjkRpj5kKs0Op7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTD5SgrNGjkRpj5kKs0Op7c",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:23:27"
+  },
+  {
+    "business_name": "KALIKA AGRO FARMS",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "206127",
+    "phone_number": "+91 87005 47575",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near FCI godown, Ghevra, Delhi, 110081",
+    "area": "Ghevra",
+    "latitude": 28.694284099999997,
+    "longitude": 76.9906816,
+    "place_id": "ChIJz_m2BQkJDTkR6xTxGumb5_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_m2BQkJDTkR6xTxGumb5_8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:23:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance Advisor",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "206125",
+    "phone_number": "+91 91491 79817",
+    "website": "https://insurance-advisor-purwajain.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purwa Jain, Harpura, Uttar Pradesh 206248",
+    "area": "206125",
+    "latitude": 26.7282959,
+    "longitude": 79.5712719,
+    "place_id": "ChIJLVPd2y_jnTkRo4Q8PsfaEjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVPd2y_jnTkRo4Q8PsfaEjE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:21:18"
+  },
+  {
+    "business_name": "Arvind Chauhan (Financial Planner)",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency, Auto insurance agency, Financial consultant, Financial planner, Health insurance agency, Home insurance agency, Investment service",
+    "pincode": "206125",
+    "phone_number": "+91 75034 94564",
+    "website": "https://www.pbpartners.com/v2/partner/IP145106",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kachhari Rd, near Bandhan Bank, Police Line, Etah, Uttar Pradesh 207001",
+    "area": "Police Line",
+    "latitude": 27.5572764,
+    "longitude": 78.6552622,
+    "place_id": "ChIJ8aXOv1T9dDkRnSwDACGvTiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aXOv1T9dDkRnSwDACGvTiA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:21:18"
+  }
+]

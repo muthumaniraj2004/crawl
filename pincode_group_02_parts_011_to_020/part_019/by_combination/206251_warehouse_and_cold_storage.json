@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Space Valet - Your Storage Hub",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Self-storage facility",
+    "all_categories": "Self-storage facility, Storage facility",
+    "pincode": "206251",
+    "phone_number": "+91 98922 05793",
+    "website": "https://www.spacevalet.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Navbharat Estates, Zakaria Bunder Rd, Sewri West, Mumbai, Maharashtra 400015",
+    "area": "Sewri West, Azad Nagar, Sewri",
+    "latitude": 18.9954964,
+    "longitude": 72.852187,
+    "place_id": "ChIJe07k4G7P5zsRR0F66PLowPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe07k4G7P5zsRR0F66PLowPI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:49:33"
+  },
+  {
+    "business_name": "Bharat storage warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "206251",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Dangra, Haryana 125120",
+    "area": "206251",
+    "latitude": 29.6652317,
+    "longitude": 75.8233997,
+    "place_id": "ChIJicllIIubETkRADJVIQVjaRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicllIIubETkRADJVIQVjaRo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:49:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kallu Singh Food",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "206246",
+    "phone_number": "+91 62830 55322",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dibiyapur - Auraiya Rd, near Raghav Petrol Pump, Pata, Jamuhin, Dibiyapur, Uttar Pradesh 206244",
+    "area": "Pata",
+    "latitude": 26.6221753,
+    "longitude": 79.5523272,
+    "place_id": "ChIJwTYdAmf7nTkRa4Ro62Mh8DI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTYdAmf7nTkRa4Ro62Mh8DI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:40:06"
+  },
+  {
+    "business_name": "VIP Juice Corner",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "206246",
+    "phone_number": "+91 63889 59506",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanchausi, Uttar Pradesh 206246",
+    "area": "206246",
+    "latitude": 26.5946061,
+    "longitude": 79.6286367,
+    "place_id": "ChIJbYgmfcDvnTkRwntOs90wqMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYgmfcDvnTkRwntOs90wqMM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:40:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NandLal",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "206243",
+    "phone_number": "+91 95367 06108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Are Yaar Bela Road Shahar, Uttar Pradesh 206248",
+    "area": "206243",
+    "latitude": 26.7086969,
+    "longitude": 79.59024819999999,
+    "place_id": "ChIJ_fDHSOjjnTkRlHSsJqqoHdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fDHSOjjnTkRlHSsJqqoHdg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:35:45"
+  },
+  {
+    "business_name": "Homeservice plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "206243",
+    "phone_number": "+91 79055 15774",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Vashthi Kund, Sai Nagar, Ayodhya, Uttar Pradesh 224123",
+    "area": "Sai Nagar",
+    "latitude": 26.790008699999998,
+    "longitude": 82.19158759999999,
+    "place_id": "ChIJ3Ryjh9sHmjkRD4VK3anufRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Ryjh9sHmjkRD4VK3anufRk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:35:45"
+  }
+]

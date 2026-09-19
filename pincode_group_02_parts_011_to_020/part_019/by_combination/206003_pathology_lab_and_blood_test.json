@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Scientific Pathology",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist, Medical laboratory",
+    "pincode": "206003",
+    "phone_number": "+91 75340 15021",
+    "website": "http://www.scientificpathology.com/",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Shop No 366 Radha Krishna Complex Crossing, Vijay Nagar, Itwa, Uttar Pradesh 206001",
+    "area": "Vijay Nagar",
+    "latitude": 26.793374999999997,
+    "longitude": 79.015061,
+    "place_id": "ChIJE1VVFSvedTkRWCNPjLDAXz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1VVFSvedTkRWCNPjLDAXz0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:10:25"
+  },
+  {
+    "business_name": "Jerath Path Labs & Allergy Testing Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist, Medical laboratory",
+    "pincode": "206003",
+    "phone_number": "+91 89389 22900",
+    "website": "http://www.jerathpathlabs.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "112, near Airtel Store, New Colony, Chaugurji, Etawah, Uttar Pradesh 206001",
+    "area": "New Colony, Chaugurji",
+    "latitude": 26.782134499999998,
+    "longitude": 79.0175774,
+    "place_id": "ChIJdYE4OivfdTkRcsPuSWk4PG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYE4OivfdTkRcsPuSWk4PG0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:10:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIV MEDICAL STORE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "206255",
+    "phone_number": "N/A",
+    "website": "https://www.shivmedico.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ADD. TIRWA, Bela Rd, Umarda, Uttar Pradesh 206255",
+    "area": "206255",
+    "latitude": 26.810744399999997,
+    "longitude": 79.6925112,
+    "place_id": "ChIJ9dVkANoLnjkRDA7EqbCvsqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dVkANoLnjkRDA7EqbCvsqU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:35"
+  },
+  {
+    "business_name": "Budaun Rex Mri & Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "206255",
+    "phone_number": "+91 98370 98666",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 175,
+    "address": "Gandhi Ground Rd, Budaun, Uttar Pradesh 243601",
+    "area": "206255",
+    "latitude": 28.0322936,
+    "longitude": 79.1274964,
+    "place_id": "ChIJkZgOO-pFdTkR2If6n4uso4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZgOO-pFdTkR2If6n4uso4E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:53:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BrandUp Digital Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Internet marketing service",
+    "pincode": "206001",
+    "phone_number": "+91 93155 55367",
+    "website": "https://www.brandupdigital.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No- 21 , 1st Floor, Millennium Palace, Golf City Rd, Golf City, Sector B Ansal API, Muzaffar Nagar Ghusval, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.782322399999998,
+    "longitude": 80.9899519,
+    "place_id": "ChIJCwwO2WflmzkRycpKg46kDWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwwO2WflmzkRycpKg46kDWo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:04"
+  },
+  {
+    "business_name": "Grow Media - Digital Marketing Agency",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Marketing agency, Website designer",
+    "pincode": "206001",
+    "phone_number": "+91 92191 25183",
+    "website": "https://www.growmedia.in/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "8th Floor, Corporate Park, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.1999595,
+    "longitude": 78.0083762,
+    "place_id": "ChIJicJW9at3dDkRMNQfCarMvRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicJW9at3dDkRMNQfCarMvRg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:06"
+  }
+]

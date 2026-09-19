@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayaka Organic Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "206250",
+    "phone_number": "+91 81799 05310",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H.NO: 2, 5-109, Kaloji Street, Nakkala Gutta, Hanamkonda, Telangana 506001",
+    "area": "Nakkala Gutta",
+    "latitude": 17.9997684,
+    "longitude": 79.55378759999999,
+    "place_id": "ChIJHah-bWFPMzoRdhS4Ofrq9wI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHah-bWFPMzoRdhS4Ofrq9wI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:47:54"
+  },
+  {
+    "business_name": "Ram flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service, Flour mill",
+    "pincode": "206250",
+    "phone_number": "+91 77188 72842",
+    "website": "https://ashishguptangupta.github.io/ram-flour-mill/",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Gala no1, adarsh gharkul building, near siddha sky, Nirmal Nagar, Sion East, Sion, Mumbai, Maharashtra 400037",
+    "area": "Nirmal Nagar, Sion East, Sion",
+    "latitude": 19.0364213,
+    "longitude": 72.8689362,
+    "place_id": "ChIJfdi6_y3P5zsRkNBeP7Z7Y90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdi6_y3P5zsRkNBeP7Z7Y90",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:47:55"
+  }
+]

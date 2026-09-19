@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HomeSharp",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "206250",
+    "phone_number": "+91 96068 99667",
+    "website": "https://homesharp.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Rustomjee Central Park, Andheri - Kurla Rd, Chakala, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Chakala, Andheri East",
+    "latitude": 19.1144692,
+    "longitude": 72.8607609,
+    "place_id": "ChIJn1oQ3qJho4IRCP0O3j14nJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1oQ3qJho4IRCP0O3j14nJM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:47:48"
+  },
+  {
+    "business_name": "Finest Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Real Estate Builders & Construction Company",
+    "pincode": "206250",
+    "phone_number": "+91 98459 54170",
+    "website": "https://finestpropertiesbengaluru.com/",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "522, 20th Main Rd, T Block, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "T Block, 4th T Block East, Pattabhirama Nagar, Jayanagar",
+    "latitude": 12.9248815,
+    "longitude": 77.59055599999999,
+    "place_id": "ChIJRcI-taAVrjsRNEGLSUuVkg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcI-taAVrjsRNEGLSUuVkg0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:47:48"
+  }
+]

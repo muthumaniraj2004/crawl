@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Broadway Global Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Talent agency",
+    "all_categories": "Talent agency",
+    "pincode": "206247",
+    "phone_number": "+91 97171 67932",
+    "website": "https://www.broadwaygs.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1st Floor, Cosmos Crest, Broadway Global Services, Bengaluru, Karnataka 560008",
+    "area": "Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
+    "latitude": 12.978297,
+    "longitude": 77.6337709,
+    "place_id": "ChIJEwi-Ux1D8WYRCBbrZJdHxf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwi-Ux1D8WYRCBbrZJdHxf4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:43:06"
+  },
+  {
+    "business_name": "businessapp",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "206247",
+    "phone_number": "+91 98994 26411",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "businessapp, 206247, India",
+    "area": "206247",
+    "latitude": 9.374110199999999,
+    "longitude": -74.9524576,
+    "place_id": "ChIJPer_XbrvDDkRvbuxV0BWtmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPer_XbrvDDkRvbuxV0BWtmw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:43:06"
+  }
+]

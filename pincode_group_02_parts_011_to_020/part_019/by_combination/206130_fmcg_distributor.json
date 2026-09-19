@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubh Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Cash and carry wholesaler, Supplier, Exporter, Food products supplier, Grocery delivery service, Supermarket",
+    "pincode": "206130",
+    "phone_number": "+91 98294 97262",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "DAGA FARM, Agra Rd, near RAJESH KIA MOTORS, New Khandelwal Nagar, Jaipur, Rajasthan 302031",
+    "area": "New Khandelwal Nagar",
+    "latitude": 26.8890818,
+    "longitude": 75.87318619999999,
+    "place_id": "ChIJz0faj3u3bTkRFFZYjaRNV3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0faj3u3bTkRFFZYjaRNV3U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:21"
+  },
+  {
+    "business_name": "New Royal Food Services Pvt. Ltd.",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "206130",
+    "phone_number": "+91 712 277 4931",
+    "website": "https://royalfoodservices.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Plot No.227, Vyayam Shala, Kumbhalkar College Road, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.143119,
+    "longitude": 79.09824859999999,
+    "place_id": "ChIJQeU4mqDB1DsRe5_knkFy4kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeU4mqDB1DsRe5_knkFy4kM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:21"
+  }
+]

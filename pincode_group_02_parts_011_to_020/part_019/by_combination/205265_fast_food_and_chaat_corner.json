@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Chopaty",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Buffet restaurant, Sweets and dessert buffet, Restaurant, Indian sweets shop, Vegan restaurant, Vegetarian restaurant",
+    "pincode": "205265",
+    "phone_number": "+91 63980 61844",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 2634,
+    "address": "Rina Rd, Chaitanya Vihar, Rajpur Khadar, Vrindavan, Uttar Pradesh 281121",
+    "area": "Chaitanya Vihar",
+    "latitude": 27.5706958,
+    "longitude": 77.6725616,
+    "place_id": "ChIJ3Umlz7xvczkRDb1tGWxx6Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Umlz7xvczkRDb1tGWxx6Zs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:56:47"
+  },
+  {
+    "business_name": "Brijwasi Chaat Darbaar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "205265",
+    "phone_number": "+91 91406 71946",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1277,
+    "address": "110/143, 110/142, 80 Feet Rd, Ram Krishna Nagar, Jawahar Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Ram Krishna Nagar, Jawahar Nagar",
+    "latitude": 26.468867099999997,
+    "longitude": 80.3191341,
+    "place_id": "ChIJaV9BmH84nDkRcCrZ13_k3lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaV9BmH84nDkRcCrZ13_k3lw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:56:47"
+  }
+]

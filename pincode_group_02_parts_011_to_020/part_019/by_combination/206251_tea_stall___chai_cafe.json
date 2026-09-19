@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tikesh Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "206251",
+    "phone_number": "+91 97700 85041",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 65,
+    "address": "in front of Gandhi Udyaan, Civil Lines, Raipur, Chhattisgarh 492001",
+    "area": "Civil Lines",
+    "latitude": 21.2425619,
+    "longitude": 81.6514302,
+    "place_id": "ChIJ6w8GBwzdKDoRIQBP7BCYp98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6w8GBwzdKDoRIQBP7BCYp98",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:15"
+  },
+  {
+    "business_name": "Chai Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "206251",
+    "phone_number": "+91 62623 00031",
+    "website": "http://www.chaisuttabarindia.com/",
+    "rating": 4.2,
+    "reviews_count": 405,
+    "address": "opp. Vidya Hopital, Geetanjali Colony, Shankar Nagar, Raipur, Chhattisgarh 492004",
+    "area": "Geetanjali Colony, Shankar Nagar",
+    "latitude": 21.248469999999998,
+    "longitude": 81.66210679999999,
+    "place_id": "ChIJt_NhO9zdKDoRh8X1CJ6wUAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_NhO9zdKDoRh8X1CJ6wUAg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:15"
+  }
+]

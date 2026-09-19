@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitin bhatta",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "205264",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2V36+34, Asrohi, Uttar Pradesh 205264",
+    "area": "205264",
+    "latitude": 27.0027007,
+    "longitude": 78.8602466,
+    "place_id": "ChIJ_YjtLADFdTkRDRycDImQ1sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YjtLADFdTkRDRycDImQ1sw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:55:25"
+  },
+  {
+    "business_name": "Dr A.K.Yadav ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "205264",
+    "phone_number": "+91 88650 95155",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 48,
+    "address": "In front of Kunal Hotel(Prakash Talkies, Naurangabad Rd, Chaugurji, Etawah, Uttar Pradesh 206001",
+    "area": "Chaugurji",
+    "latitude": 26.7798482,
+    "longitude": 79.0171951,
+    "place_id": "ChIJP_g3ZejfdTkRettZSoR7d5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_g3ZejfdTkRettZSoR7d5E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:55:25"
+  }
+]

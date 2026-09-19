@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "206002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Tikaram Colony, Distilary Road, near Goverment Hospital, New Ashok Puri, Kanker Khera, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "area": "New Ashok Puri, Kanker Khera, Meerut Cantt",
+    "latitude": 29.016209399999997,
+    "longitude": 77.6717453,
+    "place_id": "ChIJOwyRDgBlDDkRsDFs7LRpcB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwyRDgBlDDkRsDFs7LRpcB0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:23"
+  },
+  {
+    "business_name": "247 cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Tiffin Service Provider",
+    "pincode": "206002",
+    "phone_number": "+91 95204 42470",
+    "website": "http://247cloudkitchen.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Subhash Nagar, Bharu Wala Grant, Dehradun, Uttarakhand 248002",
+    "area": "Subhash Nagar",
+    "latitude": 30.2731273,
+    "longitude": 77.9965368,
+    "place_id": "ChIJeYSxAgArCTkRzmfVeE2HG-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYSxAgArCTkRzmfVeE2HG-Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:24"
+  }
+]

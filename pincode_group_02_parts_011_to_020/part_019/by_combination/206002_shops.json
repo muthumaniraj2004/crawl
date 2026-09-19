@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ramji Traders",
+    "search_category": "Shops",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "206002",
+    "phone_number": "+91 90580 67744",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Katra Sahab Khan, near Second Fatak, Karm Ganj, Etawah, Uttar Pradesh 206001",
+    "area": "Karm Ganj",
+    "latitude": 26.7768786,
+    "longitude": 79.0268569,
+    "place_id": "ChIJjxo-E3HgdTkRPtKDJHoCLo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxo-E3HgdTkRPtKDJHoCLo4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:09:54"
+  },
+  {
+    "business_name": "INDYNS",
+    "search_category": "Shops",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "206002",
+    "phone_number": "+91 70379 99914",
+    "website": "https://indyns.com/",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "baithka house, Kunaira, Etawah, Uttar Pradesh 206002",
+    "area": "Kunaira",
+    "latitude": 26.8195302,
+    "longitude": 79.0033588,
+    "place_id": "ChIJndyGOkvfdTkR-O1ve2a_TC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndyGOkvfdTkR-O1ve2a_TC8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:09:54"
+  }
+]

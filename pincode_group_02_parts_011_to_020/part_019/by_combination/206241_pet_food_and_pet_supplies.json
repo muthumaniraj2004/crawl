@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna treders",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "206241",
+    "phone_number": "+91 84483 72120",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "kishni chauraha, 0, Bidhuna Rd, Kishni, Mainpuri, Bidhuna, Uttar Pradesh 205303",
+    "area": "Kishni",
+    "latitude": 26.8029793,
+    "longitude": 79.50703089999999,
+    "place_id": "ChIJCyUbsMEHnjkR_2C0dRnPEvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyUbsMEHnjkR_2C0dRnPEvc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:31:47"
+  },
+  {
+    "business_name": "Pet care veterinary clinic.",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "206241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kakrahi puliya, Auraiya Rd, Durga Nagar, Dibiyapur, Uttar Pradesh 206244",
+    "area": "Indra Nagar, Durga Nagar",
+    "latitude": 26.6252738,
+    "longitude": 79.5516808,
+    "place_id": "ChIJJSGaBwD7nTkRJWl_OIhSqDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSGaBwD7nTkRJWl_OIhSqDM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:31:50"
+  }
+]

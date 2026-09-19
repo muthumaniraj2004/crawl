@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayush Medical Store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Hospital",
+    "pincode": "205267",
+    "phone_number": "+91 94575 72552",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Shop No. 3, Kurawali Rd, Nibayash Tirah, Mainpuri, Udetpur Abhai, Uttar Pradesh 205001",
+    "area": "Nibayash Tirah",
+    "latitude": 27.256894199999998,
+    "longitude": 79.03850109999999,
+    "place_id": "ChIJQ66oVzmXdTkR7qlVbdYEU5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ66oVzmXdTkR7qlVbdYEU5s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:37"
+  },
+  {
+    "business_name": "Tathagat Ayurvedam",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "205267",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Mainpuri Rd, in front of Dr. K.P. Yadav, Kusmara, Uttar Pradesh 205304",
+    "area": "205267",
+    "latitude": 27.1060888,
+    "longitude": 79.27992809999999,
+    "place_id": "ChIJme0rZhLzdTkR79lUUmHIL58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJme0rZhLzdTkR79lUUmHIL58",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:37"
+  }
+]

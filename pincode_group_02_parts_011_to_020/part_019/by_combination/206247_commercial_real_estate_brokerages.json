@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aahilya Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Office space rental agency, Property investment company, Real estate consultant, Real estate rental agency, Retail space rental agency, Warehouse",
+    "pincode": "206247",
+    "phone_number": "+91 98671 78101",
+    "website": "http://www.aahilyaproperty.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saurabh, 107, Andheri - Kurla Rd, opp. CRISIL house, above Andhra Bank, Dr. Charatsingh Colony, S B Singh Colony, J B Nagar, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Dr. Charatsingh Colony, S B Singh Colony, J B Nagar, Andheri East",
+    "latitude": 19.1136317,
+    "longitude": 72.86249459999999,
+    "place_id": "ChIJe4vmHqjJ5zsRQyk_Dh9Ke9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4vmHqjJ5zsRQyk_Dh9Ke9s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:55"
+  },
+  {
+    "business_name": "Sarang Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "206247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R95J+GH3, Mes Line, near 7/11, Madhav Nagar, Katni, Madhya Pradesh 483504",
+    "area": "Madhav Nagar",
+    "latitude": 23.8087736,
+    "longitude": 80.38142479999999,
+    "place_id": "ChIJ15yPwJBhgTkRWQzjBl_MdVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15yPwJBhgTkRWQzjBl_MdVs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:42:55"
+  }
+]

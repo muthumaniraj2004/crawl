@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDIAN PATHOLOGY LAB",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206128",
+    "phone_number": "+91 88749 85120",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "P88R+PWM, Maigalganj, Uttar Pradesh 261505",
+    "area": "206128",
+    "latitude": 27.7168252,
+    "longitude": 80.34228499999999,
+    "place_id": "ChIJXbBu67cbnzkRdMEmdUmIpWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbBu67cbnzkRdMEmdUmIpWQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:25:30"
+  },
+  {
+    "business_name": "Adarsh Ultrasound And Imaging Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "206128",
+    "phone_number": "+91 512 325 5996",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 27,
+    "address": "33-U, Govind Nagar Main Road, M-Block,Govind Nagar, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "M-Block,Govind Nagar, Govind Nagar",
+    "latitude": 26.4497204,
+    "longitude": 80.29671909999999,
+    "place_id": "ChIJ5dO8SJNHnDkRLwTCzzg9u4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dO8SJNHnDkRLwTCzzg9u4I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:25:30"
+  }
+]

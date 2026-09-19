@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anoop Bhai Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "206128",
+    "phone_number": "+91 96906 17712",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Bakewar, Ujhiaani, Uttar Pradesh 206128",
+    "area": "206128",
+    "latitude": 26.635628099999998,
+    "longitude": 79.2137168,
+    "place_id": "ChIJM5NIAuwFdjkRMeb7CFOCNaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5NIAuwFdjkRMeb7CFOCNaw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:25:50"
+  },
+  {
+    "business_name": "Rajkumr Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "206128",
+    "phone_number": "+91 63965 99591",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Etawah Rd, Bakewar, Uttar Pradesh 206124",
+    "area": "206128",
+    "latitude": 26.655569399999997,
+    "longitude": 79.18413199999999,
+    "place_id": "ChIJH9hpsHwPdjkRVV4P00CCt84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9hpsHwPdjkRVV4P00CCt84",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:25:50"
+  }
+]

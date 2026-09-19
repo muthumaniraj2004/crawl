@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "unique pathology center bichhwan",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "205265",
+    "phone_number": "+91 87551 07612",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bichhawan, Uttar Pradesh 205267",
+    "area": "205265",
+    "latitude": 27.338749699999997,
+    "longitude": 79.0617061,
+    "place_id": "ChIJd0Bci9CZdTkRMtGDcLnfTfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0Bci9CZdTkRMtGDcLnfTfs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:57:03"
+  },
+  {
+    "business_name": "Primary Health Center Sanda",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "205265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C35F+MXQ, Sanda, Bhogaon, Uttar Pradesh 205265",
+    "area": "205265",
+    "latitude": 27.4092096,
+    "longitude": 79.0749987,
+    "place_id": "ChIJGVWizdGedTkRnaKLL0y-XM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVWizdGedTkRnaKLL0y-XM4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:57:04"
+  }
+]

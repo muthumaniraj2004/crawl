@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Appliances Care World",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Microwave oven repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "206249",
+    "phone_number": "+91 98188 91821",
+    "website": "https://www.appliancescareworld.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "TA 25, Gali Number 1, Tughlakabad Extension, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Tughlakabad Extension, Kalkaji",
+    "latitude": 28.537985799999998,
+    "longitude": 77.2641491,
+    "place_id": "ChIJY-oNezjjDDkRvZc_U1cbifk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-oNezjjDDkRvZc_U1cbifk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:29"
+  },
+  {
+    "business_name": "Voltas Brand Store - Pathak Enterprises, Shahjahanpur",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Electronics store",
+    "pincode": "206249",
+    "phone_number": "+91 92506 26524",
+    "website": "https://www.voltas.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Jail Road, Ghanta Ghar, near Siddhi Vinayak Honda, Krishna Nagar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Shastri Nagar Colony, Krishna Nagar",
+    "latitude": 27.877950199999997,
+    "longitude": 79.9104674,
+    "place_id": "ChIJTyJwGde8nzkRMJ9dNuR4dvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyJwGde8nzkRMJ9dNuR4dvE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P.W.D Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "206123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "Baralokpur, Uttar Pradesh 206123",
+    "area": "206123",
+    "latitude": 26.917655399999997,
+    "longitude": 79.16136499999999,
+    "place_id": "ChIJWT3jkAzldTkRDpFnsOa6vs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWT3jkAzldTkRDpFnsOa6vs8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:17:39"
+  },
+  {
+    "business_name": "Shiva Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "206123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 218,
+    "address": "Q69G+VH3, Bholi, Uttar Pradesh 206242",
+    "area": "206123",
+    "latitude": 26.769625299999998,
+    "longitude": 79.2264197,
+    "place_id": "ChIJEzQL7mb9dTkRD7EAIuCp9sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzQL7mb9dTkRD7EAIuCp9sQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:17:39"
+  }
+]

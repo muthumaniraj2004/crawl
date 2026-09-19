@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartik Sharma house",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "206243",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "RHWQ+2C6, Kaithawa, Uttar Pradesh 206243",
+    "area": "206243",
+    "latitude": 26.844835699999997,
+    "longitude": 79.588875,
+    "place_id": "ChIJF-dRVgAJnjkRcywLfVZ23qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-dRVgAJnjkRcywLfVZ23qk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:35:32"
+  },
+  {
+    "business_name": "Ultra Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Body shaping class, Boxing Coaching Center, Yoga instructor",
+    "pincode": "206243",
+    "phone_number": "+91 70521 59319",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MIG 2, Jain Mandir Rd, Dabauli, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Dabauli, Ratan Lal Nagar",
+    "latitude": 26.4398467,
+    "longitude": 80.28618259999999,
+    "place_id": "ChIJKfJmH7tHnDkRwMWWHbeiJNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfJmH7tHnDkRwMWWHbeiJNM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:35:32"
+  }
+]

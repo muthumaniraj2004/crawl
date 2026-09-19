@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S. D. Pathology centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "206002",
+    "phone_number": "+91 96758 75100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shala, Shivpuri, Etawah, Pachaoli, Uttar Pradesh 206002",
+    "area": "Shala, Shivpuri",
+    "latitude": 26.7973659,
+    "longitude": 79.02194879999999,
+    "place_id": "ChIJCfDMc9vhdTkReVUUmF7YhQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfDMc9vhdTkReVUUmF7YhQ0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:42"
+  },
+  {
+    "business_name": "Sarvodaya pathology",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "206002",
+    "phone_number": "+91 82738 06644",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "206001, Anand Nagar, Kabirganj, Etawah, Uttar Pradesh 206001",
+    "area": "Anand Nagar, Kabirganj",
+    "latitude": 26.772367499999998,
+    "longitude": 79.0310475,
+    "place_id": "ChIJW8-KQHjhdTkROuoYI8Vehhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8-KQHjhdTkROuoYI8Vehhg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:43"
+  }
+]

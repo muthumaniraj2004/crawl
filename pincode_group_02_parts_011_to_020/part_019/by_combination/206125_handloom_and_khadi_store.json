@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Handloom",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "206125",
+    "phone_number": "+91 97196 54320",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Shadab market, Safdar ganj, Rampur, Bhirwara, Uttar Pradesh 244242",
+    "area": "Safdar ganj",
+    "latitude": 28.6226283,
+    "longitude": 78.4473873,
+    "place_id": "ChIJs7QHCduNCjkRX9D_aURQVQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7QHCduNCjkRX9D_aURQVQk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:18"
+  },
+  {
+    "business_name": "Khadi India",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "206125",
+    "phone_number": "+91 89505 00031",
+    "website": "https://sites.google.com/view/khadi-bhawan-kurukshetra",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Rajinder nagar, kutiya wali gali Flyover to railway station road, Haryana 136118",
+    "area": "206125",
+    "latitude": 29.971165799999998,
+    "longitude": 76.84424829999999,
+    "place_id": "ChIJVb0uLJJHDjkRIdYC401EWGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVb0uLJJHDjkRIdYC401EWGQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "206242",
+    "phone_number": "+91 90454 82088",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 19, Indra colony, Etawah, Pilkhar, Uttar Pradesh 206003",
+    "area": "Indra colony",
+    "latitude": 26.7584691,
+    "longitude": 79.0539926,
+    "place_id": "ChIJCWVmeCDhdTkRHLwzK0vC1xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWVmeCDhdTkRHLwzK0vC1xc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:33:45"
+  },
+  {
+    "business_name": "D.R Mukesh Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "206242",
+    "phone_number": "+91 98975 34415",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shope No 15, Abdul Nabipur Road, Barnahal, Etawah, Abdulnabipur, Uttar Pradesh 205261",
+    "area": "Barnahal",
+    "latitude": 27.110256,
+    "longitude": 78.8359638,
+    "place_id": "ChIJZ0ySvpi3dTkRIfvaUgCyXWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0ySvpi3dTkRIfvaUgCyXWg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:33:46"
+  }
+]

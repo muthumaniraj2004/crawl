@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay jewelers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "206125",
+    "phone_number": "+91 87911 15216",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sabji Mandi Gate, Station Rd, Purbia Tola, Etawah, Uttar Pradesh 206001",
+    "area": "Purbia Tola",
+    "latitude": 26.778622199999997,
+    "longitude": 79.0187473,
+    "place_id": "ChIJobwDdVrhdTkRWok2PVs_sXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobwDdVrhdTkRWok2PVs_sXE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:18"
+  },
+  {
+    "business_name": "Jai Ganesh Abhushan Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "206125",
+    "phone_number": "+91 95571 13901",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jai Ganesh Abhushan Nirmata Neem chauk,Homeganj, Uttar Pradesh 206001",
+    "area": "Anand Nagar",
+    "latitude": 26.7723838,
+    "longitude": 79.02129889999999,
+    "place_id": "ChIJNzDmi0bhdTkRK8-2f3bBNSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzDmi0bhdTkRK8-2f3bBNSs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:19"
+  }
+]

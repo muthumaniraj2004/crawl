@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhe health and dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "882, Satteshwar, Tilak Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Satteshwar, Tilak Nagar",
+    "latitude": 26.462263099999998,
+    "longitude": 79.5015646,
+    "place_id": "ChIJvQyVMwDznTkRdbdcaXtJRBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQyVMwDznTkRdbdcaXtJRBM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:15:23"
+  },
+  {
+    "business_name": "Dev Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206122",
+    "phone_number": "+91 96211 83543",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Fafund Rd, Hashmat Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Hashmat Nagar",
+    "latitude": 26.4686645,
+    "longitude": 79.5029165,
+    "place_id": "ChIJp70WnQjznTkRf3VDPFUhgsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp70WnQjznTkRf3VDPFUhgsM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:15:23"
+  }
+]

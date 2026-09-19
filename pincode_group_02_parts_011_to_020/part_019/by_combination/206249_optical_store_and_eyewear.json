@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eye Vision Care",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Store",
+    "all_categories": "Store, Contact lenses supplier, Optician, Sunglasses store",
+    "pincode": "206249",
+    "phone_number": "+91 80 4127 3346",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 305,
+    "address": "71/1 8 th Main Road, MS Ramaiah Rd, Mathikere Extension, Mathikere, Bengaluru, Karnataka 560054",
+    "area": "Gokula 1st Stage, Mathikere Extension, Mathikere",
+    "latitude": 13.032674,
+    "longitude": 77.5589088,
+    "place_id": "ChIJgRTOh2A9rjsRkxA_9wlyVhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRTOh2A9rjsRkxA_9wlyVhc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:06"
+  },
+  {
+    "business_name": "Lawrence & Mayo, Mangalore",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Eye care center, Glasses repair service, Sunglasses store",
+    "pincode": "206249",
+    "phone_number": "+91 824 242 2749",
+    "website": "https://lawrenceandmayo.com/stores/karnataka/mangaluru/mg-road/",
+    "rating": 4.8,
+    "reviews_count": 46,
+    "address": "No. G, Inland Avenue, MG Rd, Ballalbagh, Lalbagh, Mangaluru, Karnataka 575003",
+    "area": "Ballalbagh, Lalbagh",
+    "latitude": 12.8821824,
+    "longitude": 74.8399757,
+    "place_id": "ChIJs0bacUpaozsR1WMSImlHOIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0bacUpaozsR1WMSImlHOIg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:06"
+  }
+]

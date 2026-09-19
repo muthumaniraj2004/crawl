@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsh kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "206246",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "HH25+45X, Kakor, Uttar Pradesh 206244",
+    "area": "206246",
+    "latitude": 26.550440899999998,
+    "longitude": 79.5580355,
+    "place_id": "ChIJCTorOgDxnTkRmv8Wk779BzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTorOgDxnTkRmv8Wk779BzU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:39:59"
+  },
+  {
+    "business_name": "Central store minor Irrigation department",
+    "search_category": "Departmental Store",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "206246",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GHP4+H6, Bhiyapur, Uttar Pradesh 206244",
+    "area": "206246",
+    "latitude": 26.536457499999997,
+    "longitude": 79.5555384,
+    "place_id": "ChIJ13MaewDxnTkRKzl7xHoh-aU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13MaewDxnTkRKzl7xHoh-aU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:40:00"
+  }
+]

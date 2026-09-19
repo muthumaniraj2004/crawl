@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Medical Agency",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "206125",
+    "phone_number": "+91 83189 05400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sai Mandir, Khachora Road Nagla Nagoli Village, near Ram Medical Agency, Etawah, Uttar Pradesh 206002",
+    "area": "206125",
+    "latitude": 26.7966792,
+    "longitude": 78.9756343,
+    "place_id": "ChIJXWXXPdffdTkRqCjS5vJngQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWXXPdffdTkRqCjS5vJngQ8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:21"
+  },
+  {
+    "business_name": "Chirag Shukla",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "206125",
+    "phone_number": "+91 97193 44776",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No1motiram Garden, Kachora Road, Etawah, Ekdil, Uttar Pradesh 206126",
+    "area": "206125",
+    "latitude": 26.747042699999998,
+    "longitude": 79.0861177,
+    "place_id": "ChIJLZ968b4LdjkRYTpaqETUiX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZ968b4LdjkRYTpaqETUiX8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:21"
+  }
+]

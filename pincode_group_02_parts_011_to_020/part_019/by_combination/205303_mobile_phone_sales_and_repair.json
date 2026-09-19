@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arna Enterprises",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "205303",
+    "phone_number": "+91 70551 51551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "134, Sutiyani Road, Umrain, Turakpur Yasin, Uttar Pradesh 206252",
+    "area": "205303",
+    "latitude": 26.9217154,
+    "longitude": 79.36270329999999,
+    "place_id": "ChIJARYSYNz5dTkRJpj5iZHHTUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARYSYNz5dTkRJpj5iZHHTUM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:04:23"
+  },
+  {
+    "business_name": "Apna Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "205303",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/pg/New-Apna-Mobile-GT-Road-Etah-1378397842183768/about/",
+    "rating": 4.1,
+    "reviews_count": 42,
+    "address": "Idgah, Infront of, GT Rd, Etah, Uttar Pradesh 207001",
+    "area": "Shanti Nagar",
+    "latitude": 27.560269299999998,
+    "longitude": 78.6571439,
+    "place_id": "ChIJIVF5nfj9dDkRSxGrCgND2VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVF5nfj9dDkRSxGrCgND2VQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:04:24"
+  }
+]

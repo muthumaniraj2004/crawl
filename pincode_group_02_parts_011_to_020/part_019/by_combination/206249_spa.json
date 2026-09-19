@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPA Palace",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "206249",
+    "phone_number": "+91 79912 36606",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2nd floor, Infront of Electricity Power house, Kalpi Rd, Patel Nagar, Orai, Sarsoki, Uttar Pradesh 285001",
+    "area": "Patel Nagar",
+    "latitude": 25.9980583,
+    "longitude": 79.4616806,
+    "place_id": "ChIJUdfxHRd_nTkRLIJaPeXGxhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdfxHRd_nTkRLIJaPeXGxhs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:34"
+  },
+  {
+    "business_name": "Shrikant",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "206249",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "PF6Q+78V, Doraon, Uttar Pradesh 206250",
+    "area": "206249",
+    "latitude": 26.7107463,
+    "longitude": 79.4882867,
+    "place_id": "ChIJ03zncSr9nTkRMo3FPE3tDoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03zncSr9nTkRMo3FPE3tDoc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:34"
+  }
+]

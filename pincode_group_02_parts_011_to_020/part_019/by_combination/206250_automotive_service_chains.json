@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAMRY MOTORS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "206250",
+    "phone_number": "+91 79091 68686",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kakkanad Kochi, Chembumukku, Kochi, Keralam 682030",
+    "area": "Chembumukku, Vazhakkala",
+    "latitude": 10.011756499999999,
+    "longitude": 76.32355,
+    "place_id": "ChIJJ4E5sKINCDsRRemryou5VPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4E5sKINCDsRRemryou5VPo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:47:05"
+  },
+  {
+    "business_name": "CarMed Bangalore",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto painting, Auto tune up service, Car wash, Mechanic, Tire shop, Wheel alignment service",
+    "pincode": "206250",
+    "phone_number": "+91 63663 00616",
+    "website": "https://carmed.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3MQ5+C4H, Kannuru, Karnataka 560077",
+    "area": "Kannuru",
+    "latitude": 13.0885135,
+    "longitude": 77.6582135,
+    "place_id": "ChIJc8G0JJwbrjsRIbDfen_vgis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8G0JJwbrjsRIbDfen_vgis",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:47:05"
+  }
+]

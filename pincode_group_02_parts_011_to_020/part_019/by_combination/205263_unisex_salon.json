@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishan Hair Dresser",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "205263",
+    "phone_number": "+91 98709 24202",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "10 Rathera, Sirsaganj - Mainpuri Rd, Mainpuri, Uttar Pradesh 205119",
+    "area": "205263",
+    "latitude": 27.1766887,
+    "longitude": 78.9135088,
+    "place_id": "ChIJpwWdQU-5dTkRL2Msb73vzCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwWdQU-5dTkRL2Msb73vzCQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:54:09"
+  },
+  {
+    "business_name": "Krishna Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "205263",
+    "phone_number": "+91 97560 53510",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 12, Jyoti Rd, near Om Rice Mill, Buddha Vihar, Mainpuri, Mainpuri Khas, Uttar Pradesh 205001",
+    "area": "Buddha Vihar",
+    "latitude": 27.227286499999998,
+    "longitude": 79.0078559,
+    "place_id": "ChIJcSTHceK9dTkRTZMpjzQ6KC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSTHceK9dTkRTZMpjzQ6KC0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:54:12"
+  }
+]

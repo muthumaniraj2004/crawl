@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CC Mainpuri Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Medical diagnostic imaging center, Paternity testing service, Pathologist, STD testing service",
+    "pincode": "205267",
+    "phone_number": "+91 1800 309 7777",
+    "website": "https://ampath.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Court Road, near Hotel T.R. Inn, Awas Vikas Colony, Mainpuri, Akundaiya, Uttar Pradesh 205001",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.232374999999998,
+    "longitude": 79.04500399999999,
+    "place_id": "ChIJeYciswuXdTkRwWA9u0IbaI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYciswuXdTkRwWA9u0IbaI8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:42"
+  },
+  {
+    "business_name": "Thyrocare Aarogyam Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "205267",
+    "phone_number": "+91 99275 78913",
+    "website": "https://www.thyrocare.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "4-296, Kachahari Rd, near Canara Bank Uttam Nursing Home, Awas Vikas Colony, Mainpuri, Mainpuri Khas, Uttar Pradesh 205001",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.2463502,
+    "longitude": 79.0390852,
+    "place_id": "ChIJcyrUBEOXdTkRjhgBQiQI3jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyrUBEOXdTkRjhgBQiQI3jk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:42"
+  }
+]

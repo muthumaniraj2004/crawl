@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RPS TRADERS",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "205268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, HARDOI SAIFAI, BALBHADRAPUR, Uttar Pradesh 206253",
+    "area": "205268",
+    "latitude": 26.9299654,
+    "longitude": 79.0701548,
+    "place_id": "ChIJY6UyZgDndTkRZD4S3qvwue0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6UyZgDndTkRZD4S3qvwue0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:00:00"
+  },
+  {
+    "business_name": "Jay Traders",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "205268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X487+PRH, Mangawan, Uttar Pradesh 206123",
+    "area": "205268",
+    "latitude": 26.9668054,
+    "longitude": 79.11461919999999,
+    "place_id": "ChIJV5g53uDvdTkRRL15hIa30zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5g53uDvdTkRRL15hIa30zA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:00:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "206130",
+    "phone_number": "+91 63877 58453",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "bhargav tower, near, Lbs chauraha, near Siya ram chai bagal, Azad Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Azad Nagar",
+    "latitude": 27.1331673,
+    "longitude": 81.9579475,
+    "place_id": "ChIJKU6sSw_vmTkR_O_6hxuA-qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKU6sSw_vmTkR_O_6hxuA-qo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:27"
+  },
+  {
+    "business_name": "South Appum",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Restaurant",
+    "pincode": "206130",
+    "phone_number": "+91 96752 09845",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "H 8, H-Pocket, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "H-Pocket, Ganga Nagar",
+    "latitude": 29.002446199999998,
+    "longitude": 77.75720009999999,
+    "place_id": "ChIJ5T0BNgB7DDkR3JK3Zbuegzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5T0BNgB7DDkR3JK3Zbuegzc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Real Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Service establishment",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "https://www.msquare.mydt.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prime Real Estate, 206124, India",
+    "area": "206124",
+    "latitude": 19.160968999999998,
+    "longitude": 72.97634699999999,
+    "place_id": "ChIJX0NpnF4KL4MRwbtYXRVQCnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0NpnF4KL4MRwbtYXRVQCnE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:43"
+  },
+  {
+    "business_name": "Terra Heritage",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "206124",
+    "phone_number": "+91 124 427 6136",
+    "website": "http://www.terragroup.co.in/",
+    "rating": 3.9,
+    "reviews_count": 156,
+    "address": "Khasra no. 18,389, Alwar Bypass Rd, Banbeerpur, Bhiwadi, Rajasthan 301019",
+    "area": "206124",
+    "latitude": 28.146688899999997,
+    "longitude": 76.817566,
+    "place_id": "ChIJDz5GAOdJDTkRQj-HdZvkqTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDz5GAOdJDTkRQj-HdZvkqTg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:43"
+  }
+]

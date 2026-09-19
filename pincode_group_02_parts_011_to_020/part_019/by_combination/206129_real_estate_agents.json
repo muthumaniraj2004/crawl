@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam Baghel",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "206129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HC5H+C7G, Parariya, Purva Gannesh, Uttar Pradesh 206129",
+    "area": "206129",
+    "latitude": 26.5590549,
+    "longitude": 79.4274009,
+    "place_id": "ChIJkyDCXQD3nTkRgoJbS3ZrzJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyDCXQD3nTkRgoJbS3ZrzJM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:27:59"
+  },
+  {
+    "business_name": "Amba Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Real estate consultant",
+    "pincode": "206129",
+    "phone_number": "+91 84799 00001",
+    "website": "http://www.ambarealestate.in/",
+    "rating": 5,
+    "reviews_count": 222,
+    "address": "Scf 12, upper coral dry, opposite chinmaya mission hari mandir, near Rose garden, Gumtala Sub Urban, E-Block, Ranjit Avenue, Amritsar, Punjab 143001",
+    "area": "Gumtala Sub Urban, E-Block, Ranjit Avenue",
+    "latitude": 31.6631163,
+    "longitude": 74.86646619999999,
+    "place_id": "ChIJywyWwI1lGTkR6KJ4LBwUIDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywyWwI1lGTkR6KJ4LBwUIDg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:01"
+  }
+]

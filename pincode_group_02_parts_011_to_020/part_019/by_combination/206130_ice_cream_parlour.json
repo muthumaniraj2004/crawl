@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ATUL BAKERY AND ICE CREAM PARLOUR",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "206130",
+    "phone_number": "+91 77868 44802",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kothi Kesth, Jaswantnagar, Uttar Pradesh 206245",
+    "area": "206130",
+    "latitude": 26.8818736,
+    "longitude": 78.9060452,
+    "place_id": "ChIJDen12X7bdTkRzbwLGuGbv3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDen12X7bdTkRzbwLGuGbv3w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:29"
+  },
+  {
+    "business_name": "Brij Mithas BSG TOWER",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Sweet shop, Fast food restaurant",
+    "pincode": "206130",
+    "phone_number": "+91 74170 81334",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "B.S.GTOWER, BUS STAND, CHAURAHA, Etawah, Jaswantnagar, Uttar Pradesh 206245",
+    "area": "CHAURAHA",
+    "latitude": 26.8820743,
+    "longitude": 78.9056239,
+    "place_id": "ChIJn7pT_AXbdTkRBjHbNvzad7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7pT_AXbdTkRBjHbNvzad7Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:29"
+  }
+]

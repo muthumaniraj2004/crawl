@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flavored paan palace",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "206247",
+    "phone_number": "+91 97023 90995",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "main market, C-2/205&206, Chilla Sarda Banger, Block C, Ashok Nagar Extension, New Ashok Nagar, New Delhi, Delhi, 110096",
+    "area": "Chilla Sarda Banger, Block C, Ashok Nagar Extension, New Ashok Nagar",
+    "latitude": 28.5899944,
+    "longitude": 77.303973,
+    "place_id": "ChIJQ_qs2VfnDDkRzrbGOPytytE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_qs2VfnDDkRzrbGOPytytE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:41"
+  },
+  {
+    "business_name": "PKM FINE FOODS AND SPICES PVT LTD",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Service establishment, Spice store",
+    "pincode": "206247",
+    "phone_number": "+91 94472 32427",
+    "website": "http://www.pkmfinefoods.com/",
+    "rating": 3.9,
+    "reviews_count": 68,
+    "address": "PKM FINE FOODS AND SPICES PVT LTD, 206247, India",
+    "area": "206247",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ8YTuoe_fBzsRgkVM1xCgzwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YTuoe_fBzsRgkVM1xCgzwY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:41:42"
+  }
+]

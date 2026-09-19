@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEAFORIA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "206246",
+    "phone_number": "+91 80839 12345",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 157,
+    "address": "Technopark, MAIN GATE, Technopark Campus, Kazhakkoottam, Thiruvananthapuram, Keralam 695583",
+    "area": "Technopark Campus",
+    "latitude": 8.5573277,
+    "longitude": 76.8766443,
+    "place_id": "ChIJkV0kYHy_BTsRexd2kLmFzaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkV0kYHy_BTsRexd2kLmFzaI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:40:06"
+  },
+  {
+    "business_name": "Stacked The Sandwich Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "206246",
+    "phone_number": "+91 90740 63326",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 53,
+    "address": "University Rd, next to Hassan Marakkar Hall, near AKG Centre Road, Jai Vihar, Kunnukuzhy, Thiruvananthapuram, Kerala 695035",
+    "area": "Jai Vihar, Kunnukuzhy",
+    "latitude": 8.5014825,
+    "longitude": 76.94620069999999,
+    "place_id": "ChIJ48J1OAC7BTsRqovbmzfOjzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48J1OAC7BTsRqovbmzfOjzE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:40:06"
+  }
+]

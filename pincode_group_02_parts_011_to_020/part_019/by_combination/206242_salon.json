@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priyanka Beauty Porlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "206242",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q63+78W Pani ki Tanki wali Gali, Brajraj nagar, Bharthana, Uttar Pradesh 206242",
+    "area": "Brajraj nagar, Krishna Nagar",
+    "latitude": 26.7532595,
+    "longitude": 79.22085229999999,
+    "place_id": "ChIJGaTwFgAHdjkRiiJhxf3kTqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaTwFgAHdjkRiiJhxf3kTqA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:34:10"
+  },
+  {
+    "business_name": "Bharthana Etawah",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "206242",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Q62C+VCG, Sarai Rd, Krishna Nagar, Bharthana, Uttar Pradesh 206242",
+    "area": "Krishna Nagar",
+    "latitude": 26.752188,
+    "longitude": 79.2210936,
+    "place_id": "ChIJI0CqCgAHdjkRvVbYIEq2hdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0CqCgAHdjkRvVbYIEq2hdU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:34:12"
+  }
+]

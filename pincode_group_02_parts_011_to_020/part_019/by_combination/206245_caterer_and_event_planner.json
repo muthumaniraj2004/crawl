@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Banquet hall, Catering food and drink supplier, Event planner, Event venue, Guest house, Hotel, Wedding buffet, Wedding planner, Wedding venue",
+    "pincode": "206245",
+    "phone_number": "+91 98200 93641",
+    "website": "http://www.theindianweddingplanners.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.87/5, Agra road, Lal Bahadur Shastri Marg, Mulund West, Mumbai, Maharashtra 400082",
+    "area": "Veena Nagar, Mulund West",
+    "latitude": 19.1785462,
+    "longitude": 72.9428368,
+    "place_id": "ChIJmQ9D2lW45zsR_LFab05dnHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQ9D2lW45zsR_LFab05dnHM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:39:17"
+  },
+  {
+    "business_name": "Gauri Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "206245",
+    "phone_number": "+91 82995 81434",
+    "website": "http://gauricaterers.in/",
+    "rating": 5,
+    "reviews_count": 51,
+    "address": "119 124, Bamba Rd, Gumti No.5, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Gumti No.5, Kaushalpuri, Darshan Purwa",
+    "latitude": 26.470349499999998,
+    "longitude": 80.3127678,
+    "place_id": "ChIJ-axnU384nDkRsXZ8BNS3S9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-axnU384nDkRsXZ8BNS3S9U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:39:19"
+  }
+]

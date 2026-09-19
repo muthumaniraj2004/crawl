@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K-CAB",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service, Travel agency",
+    "pincode": "206246",
+    "phone_number": "+91 93555 20030",
+    "website": "https://kcab.co.in/",
+    "rating": 4.9,
+    "reviews_count": 490,
+    "address": "F-113, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.450042999999997,
+    "longitude": 81.8329814,
+    "place_id": "ChIJzeoXWOLLmjkRw31-bF9nDBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeoXWOLLmjkRw31-bF9nDBk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:40:37"
+  },
+  {
+    "business_name": "Car/Taxi Rental Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "206246",
+    "phone_number": "+91 90160 70454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Car/Taxi Rental Service, 206246, India",
+    "area": "206246",
+    "latitude": 25.9065951,
+    "longitude": 87.8262439,
+    "place_id": "ChIJOfMqEUE55TkR2DwrEOjqupA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfMqEUE55TkR2DwrEOjqupA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:40:37"
+  }
+]

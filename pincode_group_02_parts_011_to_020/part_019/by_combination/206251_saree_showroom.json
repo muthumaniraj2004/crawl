@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gauri Saree Center and Garments Shop",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "206251",
+    "phone_number": "+91 97604 30024",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Basti Road, Bela, Uttar Pradesh 206251",
+    "area": "Bela",
+    "latitude": 26.8279011,
+    "longitude": 79.6744942,
+    "place_id": "ChIJBVkzjFQLnjkR8n9ynNz61OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVkzjFQLnjkR8n9ynNz61OU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:19"
+  },
+  {
+    "business_name": "Shyam Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "206251",
+    "phone_number": "+91 94512 81184",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "356, Kanpur, Haseran, Uttar Pradesh 208012",
+    "area": "206251",
+    "latitude": 26.9176243,
+    "longitude": 79.57913219999999,
+    "place_id": "ChIJOSOGwB0PnjkRnOjVxIVUvL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSOGwB0PnjkRnOjVxIVUvL4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:19"
+  }
+]

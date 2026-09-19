@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purwar drug distribution",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "206131",
+    "phone_number": "+91 82998 46618",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bajaj Complex, near regency hotel, Tulsi Nagar, Niyamatpur, Orai, Uttar Pradesh 285001",
+    "area": "Tulsi Nagar, Niyamatpur",
+    "latitude": 25.9873464,
+    "longitude": 79.453968,
+    "place_id": "ChIJKcmZGu9_nTkREd9RvwflikQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcmZGu9_nTkREd9RvwflikQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:30:28"
+  },
+  {
+    "business_name": "Veterinary Doctor (Home Visit Service)",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "206131",
+    "phone_number": "+91 74178 18779",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nagla Ulfat, Nameni, Kampur, Uttar Pradesh 207403",
+    "area": "Nagla Ulfat",
+    "latitude": 27.9265623,
+    "longitude": 78.62448909999999,
+    "place_id": "ChIJc-3RtsbfdDkRWRy7mV70gAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-3RtsbfdDkRWRy7mV70gAo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:30:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chennai Civil Supply",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Aggregate supplier, Brick Manufacturer, Cement Supplier, Concrete product supplier, Construction Material Wholesaler, Steel distributor",
+    "pincode": "206002",
+    "phone_number": "+91 92063 12345",
+    "website": "http://civilsupply.in/",
+    "rating": 4.9,
+    "reviews_count": 108,
+    "address": "112, Vellala St, Moorthy Samy Colony, Padi, Chennai, Tamil Nadu 600050",
+    "area": "Moorthy Samy Colony, Padi",
+    "latitude": 13.096137899999999,
+    "longitude": 80.18685289999999,
+    "place_id": "ChIJaUbyv5xlUjoRvJiyK2TAGfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUbyv5xlUjoRvJiyK2TAGfg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:58"
+  },
+  {
+    "business_name": "SSR ASSOCIATES",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Sand & gravel supplier",
+    "all_categories": "Sand & gravel supplier",
+    "pincode": "206002",
+    "phone_number": "+91 98408 70732",
+    "website": "http://ssrassociates.in/",
+    "rating": 4.8,
+    "reviews_count": 71,
+    "address": "9,RAILWAYCOLONY 3RD STREET, 2nd Main Rd, Aminjikarai, Chennai, Tamil Nadu 600030",
+    "area": "Railway Colony, Aminjikarai",
+    "latitude": 13.069145299999999,
+    "longitude": 80.2240331,
+    "place_id": "ChIJkTSGII5mUjoRhAyvdGFqOcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTSGII5mUjoRhAyvdGFqOcM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:58"
+  }
+]

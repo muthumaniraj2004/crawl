@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Scrap Dealer",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Scrap metal dealer",
+    "all_categories": "Scrap metal dealer, Salvage yard, Kabadiwala & Scrap Merchant",
+    "pincode": "207001",
+    "phone_number": "+91 97795 53556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 8, Jhampur, Punjab 160014",
+    "area": "207001",
+    "latitude": 30.767524499999997,
+    "longitude": 76.7091032,
+    "place_id": "ChIJeQbRJmbxDzkRL-aqoLY7mZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQbRJmbxDzkRL-aqoLY7mZc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:02"
+  },
+  {
+    "business_name": "Noida Kawadiwala And Scrap Dealer",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Scrap metal dealer",
+    "all_categories": "Scrap metal dealer, Kabadiwala & Scrap Merchant, Junk dealer, Waste management service",
+    "pincode": "207001",
+    "phone_number": "+91 99904 83944",
+    "website": "https://sites.google.com/view/noidakawadiwalaandscrapdealer/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop 11, Plot No Rc03, Anil Vihar, Khora Colony, Sector 62, Noida, Uttar Pradesh 201020",
+    "area": "Anil Vihar, Khora Colony, Sector 62",
+    "latitude": 28.6155922,
+    "longitude": 77.35105759999999,
+    "place_id": "ChIJWfibBd7lDDkRzpXIoYIISDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfibBd7lDDkRzpXIoYIISDQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:03"
+  }
+]

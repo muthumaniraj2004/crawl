@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS CAR CARE",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto painting",
+    "pincode": "206249",
+    "phone_number": "+91 70078 44524",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 37,
+    "address": "36-B, Dada Nagar, Govind Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Dada Nagar, Govind Nagar",
+    "latitude": 26.4533679,
+    "longitude": 80.2930772,
+    "place_id": "ChIJJcb_GIZHnDkRCSKdErixKPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcb_GIZHnDkRCSKdErixKPk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:17"
+  },
+  {
+    "business_name": "A1 Car wash & Ceramic Coating",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "206249",
+    "phone_number": "+91 98497 08013",
+    "website": "https://a1carwash.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "#5-119, Raidurga, Darga chowrasta.film Nagar road, JRC, opposite Hyderabad, Telangana 500104",
+    "area": "Ambedkar Nagar, Film Nagar",
+    "latitude": 17.4149867,
+    "longitude": 78.39415509999999,
+    "place_id": "ChIJcQwfmpaXyzsRl-3sdm5L3Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQwfmpaXyzsRl-3sdm5L3Lc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:45:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harihar Beej Bhandar",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "206125",
+    "phone_number": "+91 94126 14892",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, Karm Ganj, Etawah, Uttar Pradesh 206001",
+    "area": "Karm Ganj",
+    "latitude": 26.781501799999997,
+    "longitude": 79.0291493,
+    "place_id": "ChIJLbV5DezhdTkRfwvZVeVT9O4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbV5DezhdTkRfwvZVeVT9O4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:04"
+  },
+  {
+    "business_name": "Gauri Khad Beej Bhandar",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "206125",
+    "phone_number": "+91 97206 92056",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 01ghiror, Kodra Chauraha, Ghiror Rd, Etawah, Lohabal Khera, Uttar Pradesh 205121",
+    "area": "206125",
+    "latitude": 27.2334705,
+    "longitude": 78.77995829999999,
+    "place_id": "ChIJAy90ueaxdTkRrxY6nY3ROgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAy90ueaxdTkRrxY6nY3ROgc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:04"
+  }
+]

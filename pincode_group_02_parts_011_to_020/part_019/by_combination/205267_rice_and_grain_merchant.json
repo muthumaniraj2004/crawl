@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gagan Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "205267",
+    "phone_number": "N/A",
+    "website": "http://www.gaganricemill.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bidhuna Road, Bharthana, Ramain, Uttar Pradesh 206242",
+    "area": "205267",
+    "latitude": 26.7617002,
+    "longitude": 79.2473065,
+    "place_id": "ChIJ36SDk3kHdjkRlu4pYnmApLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36SDk3kHdjkRlu4pYnmApLk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:17"
+  },
+  {
+    "business_name": "Baba Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler, Rice mill",
+    "pincode": "205267",
+    "phone_number": "+91 94516 34051",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Sugar mill, Ghurmayi, Lonhra, Achra Mau, Uttar Pradesh 241126",
+    "area": "Ghurmayi",
+    "latitude": 27.1792278,
+    "longitude": 80.2269664,
+    "place_id": "ChIJab3FYvKNnjkRFFid3iFOFuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJab3FYvKNnjkRFFid3iFOFuk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:58:17"
+  }
+]

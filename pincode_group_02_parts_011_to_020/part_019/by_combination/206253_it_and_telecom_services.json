@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "206253",
+    "phone_number": "+91 75991 38791",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Asheesh Shrivastava Mn226, near of janata inter college, Ashok Nagar, Yashoda Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Ashok Nagar, Yashoda Nagar",
+    "latitude": 26.786441999999997,
+    "longitude": 79.030299,
+    "place_id": "ChIJe1CXC5nhdTkRfKjJt224MIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1CXC5nhdTkRfKjJt224MIM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:52:41"
+  },
+  {
+    "business_name": "Dev Mobile",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "206253",
+    "phone_number": "+91 92860 09292",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ranveer nagar, Chauraha Kurawali Road, Shiv Nagar, I.T.I, Adda Jalim, Etawah, Uttar Pradesh 206002",
+    "area": "Shiv Nagar, I.T.I, Adda Jalim",
+    "latitude": 26.8013297,
+    "longitude": 79.0068366,
+    "place_id": "ChIJW6NW153fdTkRGkJ5VTeo4Ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6NW153fdTkRGkJ5VTeo4Ks",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:52:44"
+  }
+]

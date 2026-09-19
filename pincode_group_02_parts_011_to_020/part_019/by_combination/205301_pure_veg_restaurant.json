@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Vegetables",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Store",
+    "pincode": "205301",
+    "phone_number": "+91 70787 89569",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Bhogaon, Uttar Pradesh 205262",
+    "area": "Purani Mandi",
+    "latitude": 27.2541187,
+    "longitude": 79.1809428,
+    "place_id": "ChIJ2ywZkPSRdTkROaH2Ty3rU2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ywZkPSRdTkROaH2Ty3rU2E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:01:45"
+  },
+  {
+    "business_name": "Brij Bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Dhaba, Restaurant",
+    "pincode": "205301",
+    "phone_number": "+91 79831 74973",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 48,
+    "address": "Bus Stand, Court Road, in front of Mainpuri, Devpura, Banshi Gohara, Mainpuri, Uttar Pradesh 205001",
+    "area": "Devpura, Banshi Gohara",
+    "latitude": 27.2305,
+    "longitude": 79.0324,
+    "place_id": "ChIJ7xr7PReWdTkRD7F7SDKUN8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xr7PReWdTkRD7F7SDKUN8A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:01:45"
+  }
+]

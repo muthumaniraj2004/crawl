@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Siddhivinayak taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "206130",
+    "phone_number": "+91 96767 92912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TG 07 T 5663, Road number 6, L N Colony, Rajalingam Colony, Telephone Colony, Boduppal, Hyderabad, Telangana 500092",
+    "area": "L N Colony, Rajalingam Colony, Telephone Colony, Boduppal",
+    "latitude": 17.4294351,
+    "longitude": 78.5889938,
+    "place_id": "ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:55"
+  },
+  {
+    "business_name": "Amer Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "206130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amer Cab, 206130, India",
+    "area": "206130",
+    "latitude": 39.830227,
+    "longitude": -75.0163694,
+    "place_id": "ChIJ4ajPvc3NxokRUVND5tRXRaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ajPvc3NxokRUVND5tRXRaQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:28:55"
+  }
+]

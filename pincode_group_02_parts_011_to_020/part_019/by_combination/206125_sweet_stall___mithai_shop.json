@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Sweet shop, Fast food restaurant",
+    "pincode": "206125",
+    "phone_number": "+91 1800 102 2343",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "G37P+Q92, Hanumantpur, Uttar Pradesh 206125",
+    "area": "206125",
+    "latitude": 26.5143785,
+    "longitude": 79.0858927,
+    "place_id": "ChIJ363ambUTdjkRJ0qz7Gn_Yp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ363ambUTdjkRJ0qz7Gn_Yp4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:05"
+  },
+  {
+    "business_name": "dwarikadeesh Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Sweet shop",
+    "pincode": "206125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "G37P+RFQ, Hanumantpur, Uttar Pradesh 206125",
+    "area": "206125",
+    "latitude": 26.5145914,
+    "longitude": 79.0862303,
+    "place_id": "ChIJBbIGm7UTdjkR6nHPYJzXm7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbIGm7UTdjkR6nHPYJzXm7s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:05"
+  }
+]

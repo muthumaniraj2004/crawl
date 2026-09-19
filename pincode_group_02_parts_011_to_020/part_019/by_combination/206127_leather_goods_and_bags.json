@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather market",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "206127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kala killa, Dharavi Depot Rd, Koliwada, H Block BKC, Dharavi, Mumbai, Maharashtra 400017",
+    "area": "Koliwada, H Block BKC, Dharavi",
+    "latitude": 19.048003299999998,
+    "longitude": 72.86005469999999,
+    "place_id": "ChIJfyoWGPnJ5zsR5HgKsrPUuKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyoWGPnJ5zsR5HgKsrPUuKg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:23:42"
+  },
+  {
+    "business_name": "The Leather Laundry™ | Premium Shoe & Bag Spa",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe repair shop",
+    "all_categories": "Shoe repair shop, Clothing alteration service, Custom tailor, Dry cleaner, Service establishment, Laundry service, Leather cleaning service, Leather goods store, Leather repair service, Luggage repair service, Shoe shining service",
+    "pincode": "206127",
+    "phone_number": "+91 97112 55431",
+    "website": "https://www.theleatherlaundry.com/city/mumbai/",
+    "rating": 4.6,
+    "reviews_count": 689,
+    "address": "The Leather Laundry™ | Premium Shoe & Bag Spa, 206127, India",
+    "area": "206127",
+    "latitude": 19.0811371,
+    "longitude": 72.8783527,
+    "place_id": "ChIJs_ulUJHR5zsR1yRScBml8Gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_ulUJHR5zsR1yRScBml8Gw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:23:44"
+  }
+]

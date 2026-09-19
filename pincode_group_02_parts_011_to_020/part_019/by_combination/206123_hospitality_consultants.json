@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Excellent Jobs",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "206123",
+    "phone_number": "+91 90417 31767",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 14,
+    "address": "9/A Friends Colony, Near Shakya Hospital, Etawah, Uttar Pradesh 206001",
+    "area": "Friends Colony",
+    "latitude": 26.7894446,
+    "longitude": 79.0237999,
+    "place_id": "ChIJCax2EtjfdTkRQdcseZSQCi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCax2EtjfdTkRQdcseZSQCi0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:17:46"
+  },
+  {
+    "business_name": "Mansoori tax associate",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "206123",
+    "phone_number": "+91 94575 41199",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "25, Urdu Mohalla, Chogurjee Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Urdu Mohalla, Chogurjee Nagar",
+    "latitude": 26.7801036,
+    "longitude": 79.0232918,
+    "place_id": "ChIJRbksiV_hdTkRYwACR0Xe8RI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbksiV_hdTkRYwACR0Xe8RI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:17:46"
+  }
+]

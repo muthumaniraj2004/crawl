@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gestion Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "206251",
+    "phone_number": "+91 87795 56638",
+    "website": "http://gestionevents.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gestion Events, 206251, India",
+    "area": "206251",
+    "latitude": 20.129237,
+    "longitude": 76.5007876,
+    "place_id": "ChIJ2TJVQwDJ5zsRi6BX0d0Oeuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TJVQwDJ5zsRi6BX0d0Oeuk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:49:08"
+  },
+  {
+    "business_name": "Sri anjineya event management T dasarahalli",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "206251",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chapalama circle, near New Masjid Road, Prashanth Nagar, T. Dasarahalli, Bengaluru, Karnataka 560057",
+    "area": "Prashanth Nagar, T. Dasarahalli",
+    "latitude": 13.044735099999999,
+    "longitude": 77.5141494,
+    "place_id": "ChIJ6Zm8Zp49rjsRe4QY8BvYKqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Zm8Zp49rjsRe4QY8BvYKqI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:49:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagbish Kirana Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "206129",
+    "phone_number": "+91 99176 92882",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jagbish Kirana Store, Babarpur, Uttar Pradesh 206121",
+    "area": "206129",
+    "latitude": 26.584388099999998,
+    "longitude": 79.3766495,
+    "place_id": "ChIJcQYNkzEddjkRTkjdtMzODNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQYNkzEddjkRTkjdtMzODNo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:26:38"
+  },
+  {
+    "business_name": "Sabji Mandi Muradganj",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "206129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "G99M+M58, Muradganj, Kasba Jana, Uttar Pradesh 206129",
+    "area": "206129",
+    "latitude": 26.519162599999998,
+    "longitude": 79.38296849999999,
+    "place_id": "ChIJoZHog8P3nTkRqTJqOImxxv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZHog8P3nTkRqTJqOImxxv0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:26:38"
+  }
+]

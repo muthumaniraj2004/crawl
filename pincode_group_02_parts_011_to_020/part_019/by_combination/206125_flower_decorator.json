@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faizan Flower",
+    "search_category": "Flower Decorator",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "206125",
+    "phone_number": "+91 95209 30799",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sabit Gunj Rd, Chogurjee Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Chogurjee Nagar",
+    "latitude": 26.777673399999998,
+    "longitude": 79.0232584,
+    "place_id": "ChIJa1a0FxXhdTkRelcSviYtoj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1a0FxXhdTkRelcSviYtoj4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:58"
+  },
+  {
+    "business_name": "The Floral Affair",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Boutique, Dried flower shop, Service establishment, Event management company, Event planner, Florist, Flower delivery, Flower designer, Interior Decorator",
+    "pincode": "206125",
+    "phone_number": "+91 95995 86476",
+    "website": "https://sites.google.com/view/the-floral-affair-by-urvashi/home",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "The Floral Affair, 206125, India",
+    "area": "206125",
+    "latitude": 27.897232199999998,
+    "longitude": 79.25724679999999,
+    "place_id": "ChIJ2_jzA1bvDDkRb8KqxSXMuFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_jzA1bvDDkRb8KqxSXMuFg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:20:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiyansh cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "206245",
+    "phone_number": "+91 80762 35091",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "NH-19, kanpur road, opposite laxmi dhaba, jaswant nagar, Malajani, Etawah, Uttar Pradesh 206245",
+    "area": "jaswant nagar",
+    "latitude": 26.845169799999997,
+    "longitude": 78.9399292,
+    "place_id": "ChIJ616_qmvddTkRtUouqPHIneM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ616_qmvddTkRtUouqPHIneM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:38:30"
+  },
+  {
+    "business_name": "Dhanuan_A_Spicy_Hut_ ️धनुआं",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "206245",
+    "phone_number": "+91 70785 05355",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 100,
+    "address": "VILL. AND POST DHANUAN, Jaswantnagar, Etawah, Uttar Pradesh 206245",
+    "area": "206245",
+    "latitude": 26.9461932,
+    "longitude": 78.8831866,
+    "place_id": "ChIJiWcz5wHFdTkR77lyvdKw6o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWcz5wHFdTkR77lyvdKw6o0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:38:30"
+  }
+]

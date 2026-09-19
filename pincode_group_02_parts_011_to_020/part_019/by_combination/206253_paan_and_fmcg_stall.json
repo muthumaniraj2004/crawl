@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GK Prince Paan",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "206253",
+    "phone_number": "+91 72748 87488",
+    "website": "https://gkprincepaan.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "M 29/5, Greater Kailash-1, M Block, Part 1, Greater Kailash, New Delhi, Delhi 110048",
+    "area": "Greater Kailash-1, M Block, Part 1, Greater Kailash",
+    "latitude": 28.549468599999997,
+    "longitude": 77.2361688,
+    "place_id": "ChIJc6dFIDPiDDkRSMetSJy1LKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6dFIDPiDDkRSMetSJy1LKY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:51:29"
+  },
+  {
+    "business_name": "Thakur Paan Bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "206253",
+    "phone_number": "+91 82794 20873",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambedkar Park, Kishor Pura, Vrindavan, Uttar Pradesh 281121",
+    "area": "Kishor Pura",
+    "latitude": 27.5775427,
+    "longitude": 77.6977023,
+    "place_id": "ChIJIyZk_1ZvczkRcpXkVkofjfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyZk_1ZvczkRcpXkVkofjfo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:51:29"
+  }
+]

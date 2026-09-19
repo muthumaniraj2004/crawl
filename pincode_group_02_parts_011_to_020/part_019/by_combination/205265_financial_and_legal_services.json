@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Your Legavisor",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business attorney, Business to business service, Financial consultant, Lawyer, Paralegal services provider, Real estate attorney, Tax consultant",
+    "pincode": "205265",
+    "phone_number": "+91 75583 73449",
+    "website": "http://www.yourlegavisor.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Excel Corner, Guruwar Peth, Pune, Maharashtra 411042",
+    "area": "Guruwar Peth",
+    "latitude": 18.5040936,
+    "longitude": 73.8613033,
+    "place_id": "ChIJNztFsDbBwjsRUmIZIdx-ZkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNztFsDbBwjsRUmIZIdx-ZkQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:57:55"
+  },
+  {
+    "business_name": "Accounting and financial services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Service establishment",
+    "pincode": "205265",
+    "phone_number": "+91 94285 47615",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Accounting and financial services, 205265, India",
+    "area": "205265",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ57AKAqB-U4ERP3Ke2Byq58o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57AKAqB-U4ERP3Ke2Byq58o",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:57:56"
+  }
+]

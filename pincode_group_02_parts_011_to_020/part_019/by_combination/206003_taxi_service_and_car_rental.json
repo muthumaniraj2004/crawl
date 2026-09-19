@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokul Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car rental agency",
+    "pincode": "206003",
+    "phone_number": "N/A",
+    "website": "https://gokultaxiservice.in.net/",
+    "rating": 4.9,
+    "reviews_count": 64,
+    "address": "Ramanreti Road, near Ganesh Mandir, Gokul, Mathura, Mahaban Bangar, Uttar Pradesh 281303",
+    "area": "Gokul",
+    "latitude": 27.44162,
+    "longitude": 77.7225696,
+    "place_id": "ChIJ0QN3PgB3czkRRE-r9dV0X_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QN3PgB3czkRRE-r9dV0X_8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:10:32"
+  },
+  {
+    "business_name": "Shri Radha Rani Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "206003",
+    "phone_number": "+91 92863 90264",
+    "website": "https://shriradharanitravels.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "164, Malgodam Rd, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.341094899999998,
+    "longitude": 79.4119795,
+    "place_id": "ChIJb3herswAoDkRXA5BWYhdUQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3herswAoDkRXA5BWYhdUQ4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:10:33"
+  }
+]

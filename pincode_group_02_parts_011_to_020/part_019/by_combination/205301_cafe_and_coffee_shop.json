@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunshine Cafe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Restaurant",
+    "pincode": "205301",
+    "phone_number": "+91 91960 51617",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5FC4+8GM G.T Road Ghiloee Khas, Uttar Pradesh Ghiloi, Chhibramau, Uttar Pradesh 209721",
+    "area": "205301",
+    "latitude": 27.1707188,
+    "longitude": 79.456255,
+    "place_id": "ChIJAzN6WwAhnjkRr9_M2MnWj5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzN6WwAhnjkRr9_M2MnWj5w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:01:46"
+  },
+  {
+    "business_name": "BANTI COLD DRINKS",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "205301",
+    "phone_number": "+91 89792 47311",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Bas Stend, Bewar, Uttar Pradesh 205301",
+    "area": "205301",
+    "latitude": 27.2201633,
+    "longitude": 79.299905,
+    "place_id": "ChIJvYRaL6-LdTkR7JXjE_Gzdmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYRaL6-LdTkR7JXjE_Gzdmc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:01:48"
+  }
+]

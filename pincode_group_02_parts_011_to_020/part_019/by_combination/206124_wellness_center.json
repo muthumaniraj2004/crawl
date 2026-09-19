@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "206124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "M4QX+HFX, NH 19, Bijauli, Uttar Pradesh 206124",
+    "area": "206124",
+    "latitude": 26.6889966,
+    "longitude": 79.14872869999999,
+    "place_id": "ChIJRyC55PEJdjkRwua2R14qB5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyC55PEJdjkRwua2R14qB5A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:15"
+  },
+  {
+    "business_name": "Chandra Shekhar Ayurveda Etawah",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "206124",
+    "phone_number": "+91 70783 09156",
+    "website": "https://chandra-shekhar-ayurveda.grexa.site/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lakhna Rd, chakar Nagar, Uttar Pradesh 206127",
+    "area": "chakar Nagar",
+    "latitude": 26.6536615,
+    "longitude": 79.1592952,
+    "place_id": "ChIJs4pzKjUPdjkRGrMYjC2MuOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4pzKjUPdjkRGrMYjC2MuOo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:19:15"
+  }
+]

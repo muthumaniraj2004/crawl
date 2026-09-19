@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIAGNOSTIC",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "205304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kusmara, Uttar Pradesh 205304",
+    "area": "205304",
+    "latitude": 27.1057579,
+    "longitude": 79.2861061,
+    "place_id": "ChIJTWDzRljzdTkRTejXo32kBxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWDzRljzdTkRTejXo32kBxQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:05:17"
+  },
+  {
+    "business_name": "Suraj Paithaulogy Lab",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "205304",
+    "phone_number": "+91 93053 24858",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 07 Kusmara Road Ramnagar, near Desi Thaika, Kusmara, Mainpuri, Uttar Pradesh 205304",
+    "area": "205304",
+    "latitude": 27.070823999999998,
+    "longitude": 79.3475469,
+    "place_id": "ChIJrTNFqTv1dTkR40fxyQTJjzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTNFqTv1dTkR40fxyQTJjzo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:05:17"
+  }
+]

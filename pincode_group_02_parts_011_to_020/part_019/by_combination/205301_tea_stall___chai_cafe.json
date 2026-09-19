@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Venue",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "205301",
+    "phone_number": "N/A",
+    "website": "https://chaivenue.com/",
+    "rating": 4.4,
+    "reviews_count": 48,
+    "address": "oppsite to Krishna Driving school, Tulsi theater road, 6th Cross Rd, beside victoria Boulevard, Marathahalli, Bengaluru, Karnataka 560037",
+    "area": "Marathahalli Village, Marathahalli",
+    "latitude": 12.9544939,
+    "longitude": 77.6979729,
+    "place_id": "ChIJTVFT2IcTrjsRU7eQAkJYxEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVFT2IcTrjsRU7eQAkJYxEs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:01:44"
+  },
+  {
+    "business_name": "Cha Vala The Drive in Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "205301",
+    "phone_number": "+91 98980 18185",
+    "website": "http://chavala.in/",
+    "rating": 4.3,
+    "reviews_count": 616,
+    "address": "9P74+768, Near Khandheri Cricket Stadium, Jamnagar - Rajkot Hwy, Naranka, Gujarat 360110",
+    "area": "205301",
+    "latitude": 22.363151,
+    "longitude": 70.7055744,
+    "place_id": "ChIJQ4L5dT7PWTkRdLb6UA3SrDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4L5dT7PWTkRdLb6UA3SrDk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:01:44"
+  }
+]

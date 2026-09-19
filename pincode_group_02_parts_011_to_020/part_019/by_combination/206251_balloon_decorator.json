@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rainbow Party Shop & Balloon Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store, Gift shop, Stationery store",
+    "pincode": "206251",
+    "phone_number": "+91 97735 65131",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shah Heritage, Shop No. 01, Plot No. 09 Sector- 42/A, near D-Mart, W, Seawoods, Navi Mumbai, Maharashtra 400706",
+    "area": "Seawoods West, W, Seawoods",
+    "latitude": 19.0182166,
+    "longitude": 73.0153703,
+    "place_id": "ChIJySozbCHD5zsRfjLnEjSAKjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySozbCHD5zsRfjLnEjSAKjg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:49:04"
+  },
+  {
+    "business_name": "Shalimar Products",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "206251",
+    "phone_number": "+91 98450 62650",
+    "website": "http://www.printmyballoon.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2nd cross Bharat Nagar SRK Nagar Post, Thanisandra Main Rd, Bengaluru, Karnataka 560077",
+    "area": "Sinthan Nagar, Bharath Nagar, Manayata Tech Park, Thanisandra",
+    "latitude": 13.050078899999999,
+    "longitude": 77.62657709999999,
+    "place_id": "ChIJxYpB-GYXrjsRXmTk98g5L5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYpB-GYXrjsRXmTk98g5L5g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:49:04"
+  }
+]

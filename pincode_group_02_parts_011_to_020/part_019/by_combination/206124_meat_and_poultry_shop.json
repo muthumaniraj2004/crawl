@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haneef Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "206124",
+    "phone_number": "+91 98391 53327",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "S-12/2, Awas Vikas Market, near Surya Apartment, Munshi Pulia, Sector 12, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Munshi Pulia, Sector 12, Indira Nagar",
+    "latitude": 26.8841668,
+    "longitude": 80.99678399999999,
+    "place_id": "ChIJ0ww9goBZmTkRuigcgBkBuRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ww9goBZmTkRuigcgBkBuRo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:26"
+  },
+  {
+    "business_name": "Eezee Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "206124",
+    "phone_number": "+91 81140 04400",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 75,
+    "address": "C7XX+4V6, near Gulati Guest House, Charan Singh Colony, Kanpur, Uttar Pradesh 208006",
+    "area": "Charan Singh Colony",
+    "latitude": 26.447792,
+    "longitude": 80.2996454,
+    "place_id": "ChIJ6yIUsJRHnDkRWpkHudf0Lnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yIUsJRHnDkRWpkHudf0Lnw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:18:26"
+  }
+]

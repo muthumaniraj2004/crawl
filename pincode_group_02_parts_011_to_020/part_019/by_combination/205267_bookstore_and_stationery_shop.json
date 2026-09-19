@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swadesh Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "205267",
+    "phone_number": "+91 84332 93349",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Mainpuri, Uttar Pradesh 205001",
+    "area": "Devpura, Banshi Gohara",
+    "latitude": 27.231371499999998,
+    "longitude": 79.03607769999999,
+    "place_id": "ChIJQfsYoQuXdTkR9y0zlYApT4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfsYoQuXdTkR9y0zlYApT4s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:59:24"
+  },
+  {
+    "business_name": "Gagan Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "205267",
+    "phone_number": "+91 94612 42257",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "15, Mainpuri - Aliganj Rd, in front of Global institute of computer education, Aliganj, Uttar Pradesh 207247",
+    "area": "205267",
+    "latitude": 27.488184699999998,
+    "longitude": 79.1759555,
+    "place_id": "ChIJBRAW21OddTkRjg71gcSn80A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRAW21OddTkRjg71gcSn80A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 05:59:25"
+  }
+]

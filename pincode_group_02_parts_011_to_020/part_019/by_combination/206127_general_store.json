@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yodha Singh General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "206127",
+    "phone_number": "+91 70551 94528",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Road, nr by Eshbaripur Choraha, Etawah, Uttar Pradesh 206126",
+    "area": "206127",
+    "latitude": 26.7055959,
+    "longitude": 79.0723162,
+    "place_id": "ChIJq8deM6YLdjkRYjtCo9-c2Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8deM6YLdjkRYjtCo9-c2Ys",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:23:27"
+  },
+  {
+    "business_name": "Sanju Rajput General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "206127",
+    "phone_number": "+91 89419 91051",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Eshbaripur Choraha, Manikpur, Uttar Pradesh 206126",
+    "area": "Manikpur",
+    "latitude": 26.7049432,
+    "longitude": 79.0727509,
+    "place_id": "ChIJKQoa83kLdjkRVFO7Zc_mHZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQoa83kLdjkRVFO7Zc_mHZQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:23:28"
+  }
+]

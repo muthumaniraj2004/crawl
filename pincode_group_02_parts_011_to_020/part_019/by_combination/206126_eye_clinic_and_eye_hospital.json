@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vennila Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "206126",
+    "phone_number": "+91 99522 37446",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "No 159, 4B, Kamarajar Salai, Teppakulam, Madurai, Meenakshi Nagar, Tamil Nadu 625009",
+    "area": "Teppakulam",
+    "latitude": 9.9130108,
+    "longitude": 78.14431309999999,
+    "place_id": "ChIJb-CxAqjFADsR5iUBWZbYV8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-CxAqjFADsR5iUBWZbYV8k",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:22:09"
+  },
+  {
+    "business_name": "Blue Eyes Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "206126",
+    "phone_number": "+91 78000 31344",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Blue Eyes Hospital, Ekdil, Sarai Ikdil, Uttar Pradesh 206126",
+    "area": "206126",
+    "latitude": 26.7440948,
+    "longitude": 79.089203,
+    "place_id": "ChIJCaUq-_YLdjkR_qirMc3DFMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCaUq-_YLdjkR_qirMc3DFMc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:22:10"
+  }
+]

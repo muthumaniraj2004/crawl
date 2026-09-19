@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Prabha International Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Breakfast restaurant, Caterer, Chinese restaurant, Delivery service, Sweets and dessert buffet, Dessert shop, Ice cream shop",
+    "pincode": "206126",
+    "phone_number": "+91 95840 65100",
+    "website": "http://www.theprabhainternational.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jhansi Rd, opp. Madhav Nagar, Gate, Harishankar Puram, Shiram Colony, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "area": "Harishankar Puram, Shiram Colony, Lashkar",
+    "latitude": 26.1999301,
+    "longitude": 78.1786326,
+    "place_id": "ChIJLbClEe_FdjkRjPVSSRNCrBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbClEe_FdjkRjPVSSRNCrBY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:21:49"
+  },
+  {
+    "business_name": "Kaushal Misthan Bhandar",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "206126",
+    "phone_number": "+91 88087 33743",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 39, Saurikh Road Sakrawa, near Bus Stand, Etawah, Umer Senda, Uttar Pradesh 206242",
+    "area": "206126",
+    "latitude": 26.810257099999998,
+    "longitude": 79.24604479999999,
+    "place_id": "ChIJF3WFzF39dTkRfdJ23FlJMVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3WFzF39dTkRfdJ23FlJMVw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:21:49"
+  }
+]

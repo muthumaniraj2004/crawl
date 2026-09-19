@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FFF cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "206002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kurawali - Mainpuri - Etawah Rd, near Hotel Atithi, H.N. Nagar, Etawah, Uttar Pradesh 206002",
+    "area": "H.N. Nagar",
+    "latitude": 26.8059218,
+    "longitude": 79.0060544,
+    "place_id": "ChIJU5wLPwDfdTkRsTes307oYLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5wLPwDfdTkRsTes307oYLI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:25"
+  },
+  {
+    "business_name": "Tathastu cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "206002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 30,
+    "address": "Q2FJ+J45 Takia transport, Kabirganj, Etawah, Uttar Pradesh 206001",
+    "area": "Kabirganj",
+    "latitude": 26.7740068,
+    "longitude": 79.0303441,
+    "place_id": "ChIJj1sGh8zhdTkRhOliA55JKuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1sGh8zhdTkRhOliA55JKuA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:08:27"
+  }
+]

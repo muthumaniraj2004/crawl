@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit bike repairing service",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "206251",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mandal 30 Fi Road, 30 Feet Rd, Mandala, Mankhurd, Mumbai, Maharashtra 400043",
+    "area": "Mandala, Mankhurd",
+    "latitude": 19.054859699999998,
+    "longitude": 72.9387069,
+    "place_id": "ChIJrQIkYLrH5zsR_SlrXqC04BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQIkYLrH5zsR_SlrXqC04BM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:38"
+  },
+  {
+    "business_name": "Deepak Bike Repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "206251",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "XRJJ+VV3, Byculla West, Byculla, Mumbai, Maharashtra 400011",
+    "area": "Byculla West, Byculla",
+    "latitude": 18.9821423,
+    "longitude": 72.8321851,
+    "place_id": "ChIJVc_MfCvP5zsRXWM7nGgCByE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVc_MfCvP5zsRXWM7nGgCByE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:48:40"
+  }
+]

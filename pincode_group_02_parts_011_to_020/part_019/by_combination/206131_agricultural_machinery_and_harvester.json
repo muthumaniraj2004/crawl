@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh machinery store",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "206131",
+    "phone_number": "+91 96906 16393",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Balugnaj Rd, Bharthana, Uttar Pradesh 206242",
+    "area": "206131",
+    "latitude": 26.7630999,
+    "longitude": 79.2234646,
+    "place_id": "ChIJawZibGD9dTkRPQmuAXseTC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawZibGD9dTkRPQmuAXseTC4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:31:30"
+  },
+  {
+    "business_name": "A.H. tractors",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "206131",
+    "phone_number": "+91 82732 53786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Etah Road, Ganj Dundwara, Uttar Pradesh 243601",
+    "area": "206131",
+    "latitude": 27.7301675,
+    "longitude": 78.9444965,
+    "place_id": "ChIJPfEQH8YTdTkR9xXj14hkj0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfEQH8YTdTkR9xXj14hkj0k",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:31:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhi Industries",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building, Hotel supply store, Manufacturer, Packaging company, Toiletries Store",
+    "pincode": "206127",
+    "phone_number": "+91 99998 85103",
+    "website": "https://www.siamenities.in/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Basement, B- 130a Behind Baptist Convent School, Joshi Colony, I.P.Extension, Patparganj, Delhi, 110092",
+    "area": "West Vinod Nagar, I.P.Extension, Patparganj",
+    "latitude": 28.625525,
+    "longitude": 77.2961481,
+    "place_id": "ChIJXbRnJQDlDDkRLPfnxEWXIL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbRnJQDlDDkRLPfnxEWXIL8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:24:26"
+  },
+  {
+    "business_name": "Aroma Amenities",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Hotel supply store",
+    "pincode": "206127",
+    "phone_number": "+91 87691 70044",
+    "website": "https://www.aromaamenities.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "22-23, behind hyundai ardor show room, Durga Vihar, Sita Bari, Jaipur, Rajasthan 302029",
+    "area": "Durga Vihar, Sita Bari",
+    "latitude": 26.829698699999998,
+    "longitude": 75.79526129999999,
+    "place_id": "ChIJIfQABxW0bTkRKwd92YOD0iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfQABxW0bTkRKwd92YOD0iw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:24:28"
+  }
+]
