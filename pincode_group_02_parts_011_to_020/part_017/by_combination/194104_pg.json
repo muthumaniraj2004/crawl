@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Best Hostel & Pg",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory, Boys' hostel, Girls' hostel",
+    "pincode": "194104",
+    "phone_number": "+91 99989 02878",
+    "website": "https://jsdl.in/DT-9941FSQYXXT",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no 324/2, Sector 2B, Sector 2, Gandhinagar, Gujarat 382007",
+    "area": "Sector 2B, Sector 2",
+    "latitude": 23.2001942,
+    "longitude": 72.6336096,
+    "place_id": "ChIJqw_HfEkrXDkRXasm17nPnCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqw_HfEkrXDkRXasm17nPnCc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:26:03"
+  },
+  {
+    "business_name": "Vrindavan HOSTEL and PG (branch 2)",
+    "search_category": "PG",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "194104",
+    "phone_number": "+91 99749 49967",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Amir Rd, Palliviya Nagar, Chaman Bagh, Palanpur, Gujarat 385001",
+    "area": "Palliviya Nagar, Chaman Bagh",
+    "latitude": 24.173247999999997,
+    "longitude": 72.43432279999999,
+    "place_id": "ChIJ_09EaADpXDkRL0A2L9ZphtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_09EaADpXDkRL0A2L9ZphtY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:26:03"
+  }
+]

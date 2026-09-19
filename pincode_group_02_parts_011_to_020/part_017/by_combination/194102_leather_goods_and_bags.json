@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indo Leather Products",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "194102",
+    "phone_number": "+91 281 532 8437",
+    "website": "http://toolapron.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No 281, Kapurthala Road, Leather Complex, Kapurthala Rd, Jalandhar, Punjab 144001",
+    "area": "194102",
+    "latitude": 31.411084199999998,
+    "longitude": 75.4408997,
+    "place_id": "ChIJo4qqF6JOGjkRB4KhThRwzmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4qqF6JOGjkRB4KhThRwzmw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:22:07"
+  },
+  {
+    "business_name": "Leather Land",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "194102",
+    "phone_number": "+91 88013 62150",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Opp.S.B.H, Gunfoundry, near KFC, Gun Foundry, Abids, Hyderabad, Telangana 500001",
+    "area": "Gun Foundry, Abids",
+    "latitude": 17.394871,
+    "longitude": 78.4758256,
+    "place_id": "ChIJo4MWe9iZyzsRqq0uicnmYiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4MWe9iZyzsRqq0uicnmYiA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:22:08"
+  }
+]

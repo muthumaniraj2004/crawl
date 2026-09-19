@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Houses",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Retail space rental agency",
+    "pincode": "194202",
+    "phone_number": "+91 98902 37049",
+    "website": "https://www.theluxuryhouses.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Teerth Technospace, Teerth2work, Pune, Maharashtra 411045",
+    "area": "Teerth2work",
+    "latitude": 18.5635604,
+    "longitude": 73.7661485,
+    "place_id": "ChIJyZ_OcvjvOQMRm5hXHgkfqvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZ_OcvjvOQMRm5hXHgkfqvY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:36:03"
+  },
+  {
+    "business_name": "Raghav Sen - Luxury Rent and Resale",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Apartment complex, Property investment company, Real estate agent, Real estate appraiser, Real estate rental agency, Real estate surveyor",
+    "pincode": "194202",
+    "phone_number": "+91 98300 43007",
+    "website": "http://luxuryrentandresale.in/",
+    "rating": 4.9,
+    "reviews_count": 367,
+    "address": "17B, Anil Roy Rd, lake Terrace, Ballygunge, Kolkata, West Bengal 700029",
+    "area": "lake Terrace, Ballygunge",
+    "latitude": 22.516294199999997,
+    "longitude": 88.357418,
+    "place_id": "ChIJV6AxkkB3AjoRjT8CjDEIYi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6AxkkB3AjoRjT8CjDEIYi4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:36:05"
+  }
+]

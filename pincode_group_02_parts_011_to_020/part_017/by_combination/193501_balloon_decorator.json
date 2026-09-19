@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dar houses",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "193501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6QRC+RQC, Arch, Watal Bag, Jammu and Kashmir 191201",
+    "area": "193501",
+    "latitude": 34.2420701,
+    "longitude": 74.7719042,
+    "place_id": "ChIJWXu6jvWd4TgRU93RzhP9PZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXu6jvWd4TgRU93RzhP9PZk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:12:42"
+  },
+  {
+    "business_name": "Balloon Decoration Indore",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "193501",
+    "phone_number": "+91 89624 03711",
+    "website": "https://www.balloondecorationindore.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balloon Decoration Indore, 193501, India",
+    "area": "193501",
+    "latitude": 22.723972699999997,
+    "longitude": 75.86384989999999,
+    "place_id": "ChIJb0CNhr6YrCkRe8GB-hWeU_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0CNhr6YrCkRe8GB-hWeU_g",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:12:45"
+  }
+]

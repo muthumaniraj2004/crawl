@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Chillies",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "193221",
+    "phone_number": "+91 70063 34802",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "near Boys Higher Secondary School, Handwara, Jammu and Kashmir 193221",
+    "area": "193221",
+    "latitude": 34.3981731,
+    "longitude": 74.2813007,
+    "place_id": "ChIJTTChmYkd4TgROVodyw8pbCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTChmYkd4TgROVodyw8pbCU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:48:02"
+  },
+  {
+    "business_name": "Drive- Thru Eats",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "193221",
+    "phone_number": "+91 96823 29952",
+    "website": "https://drive-thrueats.online/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rehmani Technologies Building, 5, NH 44, Handwara, Jammu and Kashmir 193502",
+    "area": "193221",
+    "latitude": 34.406955599999996,
+    "longitude": 74.291828,
+    "place_id": "ChIJ666W3bwd4TgRXMAZ8CAxdt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ666W3bwd4TgRXMAZ8CAxdt8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:48:04"
+  }
+]

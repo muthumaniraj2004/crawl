@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARK VIEW CAFE AND RESTQURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Fast food restaurant",
+    "pincode": "193302",
+    "phone_number": "+91 96225 50379",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "PUBLIC PARK, Langait, Handwara, Jammu and Kashmir 193302",
+    "area": "193302",
+    "latitude": 34.375019,
+    "longitude": 74.3068883,
+    "place_id": "ChIJfVP2WQAd4TgROhVonPYvyiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVP2WQAd4TgROhVonPYvyiA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:58:12"
+  },
+  {
+    "business_name": "Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "193302",
+    "phone_number": "+91 98556 22225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Guru Ram Das Nagar, Himatpura, Amritsar Cantt., Amritsar, Punjab 143006",
+    "area": "Guru Ram Das Nagar, Himatpura",
+    "latitude": 31.6080324,
+    "longitude": 74.8808498,
+    "place_id": "ChIJvZ80FqJ8GTkRVJAg4wKePA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZ80FqJ8GTkRVJAg4wKePA0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:58:14"
+  }
+]

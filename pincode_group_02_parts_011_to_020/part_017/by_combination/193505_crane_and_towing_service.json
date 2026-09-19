@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Motors garage",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto machine shop, Car repair and maintenance service",
+    "pincode": "193505",
+    "phone_number": "+91 93143 77702",
+    "website": "https://www.rajucraneservice.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Near jamna colony,sec-1, Sikar Rd, near beed ka balaji mandir, Radha Govind Colony, Jaipur, Rajasthan 302039",
+    "area": "Jamuna Colony, Radha Govind Colony, Dahar Ka Balaji",
+    "latitude": 26.958398499999998,
+    "longitude": 75.7734349,
+    "place_id": "ChIJVQvBE62zbTkRwWo1jsfTJxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQvBE62zbTkRwWo1jsfTJxI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:19:10"
+  },
+  {
+    "business_name": "S K Breakdown Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "193505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FVX5+R9M, near Patanjali Vidya Mandir, Mehdauri Colony, Mehdaori Gaon, Rasulabad, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Mehdauri Colony, Mehdaori Gaon, Rasulabad, Teliarganj",
+    "latitude": 25.499589999999998,
+    "longitude": 81.85842,
+    "place_id": "ChIJod8RD3HKmjkRg9_0XMBgZbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJod8RD3HKmjkRg9_0XMBgZbY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:19:11"
+  }
+]

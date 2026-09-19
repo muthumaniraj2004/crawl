@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alhabib Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "193303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "89C9+2Q9, Watergam, 193303",
+    "area": "193303",
+    "latitude": 34.3200254,
+    "longitude": 74.3694982,
+    "place_id": "ChIJG6QF9kEF4TgRxfysjIIGH6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6QF9kEF4TgRxfysjIIGH6E",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:59:47"
+  },
+  {
+    "business_name": "saqib bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "193303",
+    "phone_number": "+91 60067 26554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "saib bakery, Tujar Shareef, Sopore, Jammu and Kashmir 193201",
+    "area": "Tujar Shareef",
+    "latitude": 34.3777943,
+    "longitude": 74.40072529999999,
+    "place_id": "ChIJo0MpTaYF4TgRdoYwXbMudnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0MpTaYF4TgRdoYwXbMudnw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:59:49"
+  }
+]

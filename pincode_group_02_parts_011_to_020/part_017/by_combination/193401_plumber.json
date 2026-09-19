@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LONE PLUMBER SERVICES",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "193401",
+    "phone_number": "+91 91037 17118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Khag, Jammu and Kashmir 193411",
+    "area": "193401",
+    "latitude": 33.9642591,
+    "longitude": 74.508242,
+    "place_id": "ChIJOxYHQyq94TgR5EQ9cQz2to0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxYHQyq94TgR5EQ9cQz2to0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:03:55"
+  },
+  {
+    "business_name": "Aamir Plumber & Electrician",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "193401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Home Service, Arigam, Jammu and Kashmir 191111",
+    "area": "193401",
+    "latitude": 34.0606645,
+    "longitude": 74.6735264,
+    "place_id": "ChIJR0Ww_8mX4TgRTV5vR4brr8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0Ww_8mX4TgRTV5vR4brr8o",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:03:55"
+  }
+]

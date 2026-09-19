@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Strykr Sports Sopore",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "193121",
+    "phone_number": "+91 91498 04481",
+    "website": "https://strykrsports.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Down Town, near Hassan Motors, Tawheed Bagh, Sopore, Baramulla, Jammu and Kashmir 193201",
+    "area": "Tawheed Bagh",
+    "latitude": 34.28091,
+    "longitude": 74.462693,
+    "place_id": "ChIJKawYMA4J4TgRJLhzqBv7o5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKawYMA4J4TgRJLhzqBv7o5s",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:42:40"
+  },
+  {
+    "business_name": "Smar Departmental Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store, Supermarket",
+    "pincode": "193121",
+    "phone_number": "+91 95960 05555",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "15, Srinagar, Jammu and Kashmir 190009",
+    "area": "193121",
+    "latitude": 34.017181199999996,
+    "longitude": 74.7232681,
+    "place_id": "ChIJC0S-4wWQ4TgRmINZuEz-Gic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0S-4wWQ4TgRmINZuEz-Gic",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:42:40"
+  }
+]

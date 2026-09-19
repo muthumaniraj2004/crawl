@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Powerplay Electric Store",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Electronic parts supplier",
+    "all_categories": "Electronic parts supplier",
+    "pincode": "193301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "New Colony, Sopore, Jammu and Kashmir 193201",
+    "area": "New Colony",
+    "latitude": 34.2880724,
+    "longitude": 74.4589526,
+    "place_id": "ChIJC2ULUAAJ4TgRR2tLzwsLkR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2ULUAAJ4TgRR2tLzwsLkR4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:57:47"
+  },
+  {
+    "business_name": "Sikandar Motors",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "193301",
+    "phone_number": "+91 99065 04086",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "7F94+44P, Bypass road, Sopore, Jammu and Kashmir 193201",
+    "area": "193301",
+    "latitude": 34.267672999999995,
+    "longitude": 74.45503699999999,
+    "place_id": "ChIJUa1tWwAJ4TgRjMxr5IGCATA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUa1tWwAJ4TgRjMxr5IGCATA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:57:48"
+  }
+]

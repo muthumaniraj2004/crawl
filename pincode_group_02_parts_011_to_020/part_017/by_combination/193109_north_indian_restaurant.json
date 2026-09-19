@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Saif's and Restaurant Tangmarg",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant, Home Stay",
+    "pincode": "193109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "3C5F+GCJ, Srinagar - Gulmarg Rd, Tangmarg, Jammu and Kashmir 193402",
+    "area": "193109",
+    "latitude": 34.0587793,
+    "longitude": 74.4235537,
+    "place_id": "ChIJYSXh9p2l4TgRd0voMovzS2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSXh9p2l4TgRd0voMovzS2Q",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:39:34"
+  },
+  {
+    "business_name": "Gareeb Nawaz Restaurant Gulmarg",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Fast food restaurant, Restaurant, Lunch restaurant",
+    "pincode": "193109",
+    "phone_number": "+91 70064 60130",
+    "website": "http://www.gareebnawazgulmarg.com/",
+    "rating": 4.9,
+    "reviews_count": 275,
+    "address": "Main Market, Gulmarg Road, near J&K Bank, Gulmarg, Forest Block, Jammu and Kashmir 193403",
+    "area": "193109",
+    "latitude": 34.0516183,
+    "longitude": 74.3978738,
+    "place_id": "ChIJrwguek2v4TgRHRmwAN6NjwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwguek2v4TgRHRmwAN6NjwM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:39:35"
+  }
+]

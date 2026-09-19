@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "\"Zanskar Oasis Hub\"",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "194302",
+    "phone_number": "+91 60069 31121",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NPD Rd, near Generator power house, Padum, Ladakh 194302",
+    "area": "194302",
+    "latitude": 33.4563373,
+    "longitude": 76.8812161,
+    "place_id": "ChIJ_Vxc3r2VAjkR7LiKounVpiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Vxc3r2VAjkR7LiKounVpiY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:39:33"
+  },
+  {
+    "business_name": "Prozone Mall, Chhatrapati Sambhajinagar Aurangabad",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Movie theater",
+    "pincode": "194302",
+    "phone_number": "N/A",
+    "website": "http://prozonemalls.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "API Rd, N 1, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "N 1, Cidco",
+    "latitude": 19.8768595,
+    "longitude": 75.3720582,
+    "place_id": "ChIJbfCcQ-6i2zsRN9zbh6ibUBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfCcQ-6i2zsRN9zbh6ibUBo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:39:35"
+  }
+]

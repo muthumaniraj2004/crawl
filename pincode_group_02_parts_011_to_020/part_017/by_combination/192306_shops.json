@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubam shawal emp.",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Dry Fruit Store",
+    "pincode": "192306",
+    "phone_number": "+91 99063 53281",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Panthal, road, near varun hotel, Katra, Jammu and Kashmir 182301",
+    "area": "192306",
+    "latitude": 32.9904607,
+    "longitude": 74.9367566,
+    "place_id": "ChIJUYxwJWN5HjkR3MRYa4-mZow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYxwJWN5HjkR3MRYa4-mZow",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:45"
+  },
+  {
+    "business_name": "KESAR HAWAN SMAGRI STORE",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192306",
+    "phone_number": "+91 97974 26813",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main chowk, Marh, Jammu and Kashmir 181206",
+    "area": "192306",
+    "latitude": 32.7722136,
+    "longitude": 74.74510029999999,
+    "place_id": "ChIJrWSaI2KJHjkRA3VddQL6D-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWSaI2KJHjkRA3VddQL6D-4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:47"
+  }
+]

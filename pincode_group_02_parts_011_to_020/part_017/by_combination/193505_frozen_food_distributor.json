@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ITC VISTA FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "193505",
+    "phone_number": "+91 80088 89191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7-1-32/6/4, Jamuna Tirth, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Jamuna Tirth, Ameerpet",
+    "latitude": 17.4420994,
+    "longitude": 78.45357059999999,
+    "place_id": "ChIJw99vV_6RyzsRwGVVQb_ycik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw99vV_6RyzsRwGVVQb_ycik",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:18:34"
+  },
+  {
+    "business_name": "POPO FOODS INDIA PVT LTD",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer, Food & Beverage Exporter, Food manufacturer, Food products supplier",
+    "pincode": "193505",
+    "phone_number": "+91 81248 88555",
+    "website": "http://www.popofoods.com/",
+    "rating": 4.9,
+    "reviews_count": 137,
+    "address": "No. 80/1, Mettu Street Mambakkam, Mambakkam - Medavakkam Main Rd, Ponmar, Chennai, Tamil Nadu 600127",
+    "area": "Ponmar",
+    "latitude": 12.8583432,
+    "longitude": 80.1721317,
+    "place_id": "ChIJu6ZaigRcUjoRuD7NzFeSIU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6ZaigRcUjoRuD7NzFeSIU0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:18:34"
+  }
+]

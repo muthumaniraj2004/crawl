@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "7Heven Retail",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Discount supermarket, Service establishment, General store, Storage facility",
+    "pincode": "193303",
+    "phone_number": "+91 96257 04468",
+    "website": "http://7heven.com/",
+    "rating": 4.1,
+    "reviews_count": 121,
+    "address": "7Heven Retail, 193303, India",
+    "area": "193303",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJgSHid0XlDDkRiD4aOSvLBzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSHid0XlDDkRiD4aOSvLBzw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:01:18"
+  },
+  {
+    "business_name": "STORE TO HOME RETAIL BAZAR",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "193303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Durga Nagar, Jammu, Jammu and Kashmir 180013",
+    "area": "Durga Nagar",
+    "latitude": 32.771278699999996,
+    "longitude": 74.8327826,
+    "place_id": "ChIJg6TkBgCFHjkRguKiOcROnNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6TkBgCFHjkRguKiOcROnNk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:01:18"
+  }
+]

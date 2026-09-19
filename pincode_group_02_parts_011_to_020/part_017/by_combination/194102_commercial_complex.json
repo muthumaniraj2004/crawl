@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "5H6Q+GRX Municipality Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "194102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5H6Q+GRX, Leh, 194101",
+    "area": "194102",
+    "latitude": 34.161243899999995,
+    "longitude": 77.58967919999999,
+    "place_id": "ChIJ7SmDnWvr_TgRirin6rg93H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SmDnWvr_TgRirin6rg93H8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:23:23"
+  },
+  {
+    "business_name": "Khan complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "194102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9XJG+2GX, Farona, 194109",
+    "area": "194102",
+    "latitude": 34.380107699999996,
+    "longitude": 75.9763464,
+    "place_id": "ChIJa5EmHHXj4jgRXIbZEHJvGLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5EmHHXj4jgRXIbZEHJvGLo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:23:23"
+  }
+]

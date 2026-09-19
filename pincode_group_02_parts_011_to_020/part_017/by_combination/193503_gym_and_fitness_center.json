@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness (Gym)Centre ( Pc)",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gymnastics center",
+    "all_categories": "Gymnastics center",
+    "pincode": "193503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "193504",
+    "area": "193503",
+    "latitude": 34.2601906,
+    "longitude": 74.6800075,
+    "place_id": "ChIJccFUx1t14TgR10oCTJCOMNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccFUx1t14TgR10oCTJCOMNc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:15:38"
+  },
+  {
+    "business_name": "Royal gym & health club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "193503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gopalpur, Nauli, Uttar Pradesh 273409",
+    "area": "193503",
+    "latitude": 26.375920699999998,
+    "longitude": 83.31857509999999,
+    "place_id": "ChIJwXA8uT9zkTkRxd7VYQrKF0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXA8uT9zkTkRxd7VYQrKF0s",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:15:39"
+  }
+]

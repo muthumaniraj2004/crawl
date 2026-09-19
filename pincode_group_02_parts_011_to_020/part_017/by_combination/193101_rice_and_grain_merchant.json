@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cow food products",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "193101",
+    "phone_number": "+91 96224 16570",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Chak razak khan Cr khan, near masjid e bilal, Mirgund, Jammu and Kashmir 193121",
+    "area": "193101",
+    "latitude": 34.141640699999996,
+    "longitude": 74.67125209999999,
+    "place_id": "ChIJ5dtZcvqZ4TgRbCeCW9c3gV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dtZcvqZ4TgRbCeCW9c3gV8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:34:28"
+  },
+  {
+    "business_name": "193101",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "193101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "193101",
+    "area": "193101",
+    "latitude": 34.178157899999995,
+    "longitude": 74.3352858,
+    "place_id": "ChIJWWWnHYOp4TgRDAZTfDd9Hoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWWnHYOp4TgRDAZTfDd9Hoo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:34:30"
+  }
+]

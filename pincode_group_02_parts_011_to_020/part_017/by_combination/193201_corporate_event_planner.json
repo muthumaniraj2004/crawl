@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vintagetenthouse",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "193201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bandipora, Lankreshipora Rd, Jammu and Kashmir 193502",
+    "area": "193201",
+    "latitude": 34.3978596,
+    "longitude": 74.6394152,
+    "place_id": "ChIJEaG4hhpz4TgRYzIIKqt8X7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEaG4hhpz4TgRYzIIKqt8X7c",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:47:11"
+  },
+  {
+    "business_name": "Mehfil Decor",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "193201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bandipora Jammu and Kashmir, 193502",
+    "area": "193201",
+    "latitude": 34.4299043,
+    "longitude": 74.6396324,
+    "place_id": "ChIJcWU3EoFt4TgRIWKwVShRtTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWU3EoFt4TgRIWKwVShRtTE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:47:11"
+  }
+]

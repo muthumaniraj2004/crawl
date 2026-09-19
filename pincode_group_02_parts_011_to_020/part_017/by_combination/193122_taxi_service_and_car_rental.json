@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sumo Stand",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "193122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 11,
+    "address": "4622+84G, near Tehsil office, Buniyar, Jammu and Kashmir 193122",
+    "area": "193122",
+    "latitude": 34.1008247,
+    "longitude": 74.20032309999999,
+    "place_id": "ChIJbRh29P1U4DgR5U-S8Ti62Rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRh29P1U4DgR5U-S8Ti62Rs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:43:19"
+  },
+  {
+    "business_name": "SHEIKH ALTAF MOHAMMAD",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "193122",
+    "phone_number": "+91 95960 52349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "66, Jammu and Kashmir 193101",
+    "area": "193122",
+    "latitude": 34.210020199999995,
+    "longitude": 74.345505,
+    "place_id": "ChIJDXK0uSkH4TgRqlUVajaOuTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXK0uSkH4TgRqlUVajaOuTI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:43:21"
+  }
+]

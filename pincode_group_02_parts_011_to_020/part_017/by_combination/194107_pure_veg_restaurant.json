@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Aarya Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "194107",
+    "phone_number": "+91 90282 45532",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "42VG+C2V, Narayangaon, Nagadawadi, Maharashtra 412412",
+    "area": "194107",
+    "latitude": 19.1438627,
+    "longitude": 74.0254618,
+    "place_id": "ChIJxVx5YMk73TsRkveBtZMYtB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVx5YMk73TsRkveBtZMYtB0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:30:04"
+  },
+  {
+    "business_name": "Hotel Mathura Pure Veg Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "194107",
+    "phone_number": "+91 90495 02773",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "fata, Vambori, Dhamori Bk., Maharashtra 413704",
+    "area": "fata",
+    "latitude": 19.3067971,
+    "longitude": 74.6565698,
+    "place_id": "ChIJ6UIhCd-V3DsR2ESqEkvkLZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UIhCd-V3DsR2ESqEkvkLZo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:30:04"
+  }
+]

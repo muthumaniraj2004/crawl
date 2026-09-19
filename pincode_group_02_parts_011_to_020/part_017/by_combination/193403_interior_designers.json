@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "freinds interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "193403",
+    "phone_number": "+91 60061 93380",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "fatehgardh malpora, Jammu and Kashmir 193101",
+    "area": "193403",
+    "latitude": 34.1735555,
+    "longitude": 74.32062069999999,
+    "place_id": "ChIJ7_ReBZep4TgR2l5nCwR-bvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_ReBZep4TgR2l5nCwR-bvk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:07:23"
+  },
+  {
+    "business_name": "MAHIRA ENTERPRISES",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "193403",
+    "phone_number": "+91 70064 87477",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Ghokhama, Kunzer, Gokhama, Jammu and Kashmir 193404",
+    "area": "Ghokhama",
+    "latitude": 34.0782369,
+    "longitude": 74.4894906,
+    "place_id": "ChIJ60IYqOyl4TgRYLT_kzigfDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60IYqOyl4TgRYLT_kzigfDg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:07:23"
+  }
+]

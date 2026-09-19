@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub District Hospital Pattan",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "193121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 20,
+    "address": "5H54+F2X, Gojree Mohalla Rd, Khanday Mohalla, Pattan, Jammu and Kashmir 193121",
+    "area": "Khanday Mohalla",
+    "latitude": 34.1596587,
+    "longitude": 74.55465699999999,
+    "place_id": "ChIJ1X1qD5mh4TgRHKR6JboEug8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X1qD5mh4TgRHKR6JboEug8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:41:24"
+  },
+  {
+    "business_name": "Elaaj Medicare",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "193121",
+    "phone_number": "+91 99067 10235",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3GQV+GQP, Narbal - Tangmarg Rd, Dhobiwan, Jammu and Kashmir 193402",
+    "area": "193121",
+    "latitude": 34.0888365,
+    "longitude": 74.5444641,
+    "place_id": "ChIJz48_ii6j4TgRU3eMxYeLMFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz48_ii6j4TgRU3eMxYeLMFk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:41:24"
+  }
+]

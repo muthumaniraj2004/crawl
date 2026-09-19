@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Furnishing house",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Home goods store",
+    "pincode": "193224",
+    "phone_number": "+91 91497 80191",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Main chowk kralpora, Kralpora, Jammu and Kashmir 193222",
+    "area": "193224",
+    "latitude": 34.499718699999995,
+    "longitude": 74.11747,
+    "place_id": "ChIJUz9foPLn4DgREmlZo6MiKTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUz9foPLn4DgREmlZo6MiKTA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:53:46"
+  },
+  {
+    "business_name": "Madina carpets",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "193224",
+    "phone_number": "+91 91035 44737",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "03, Harie Road, Kralpora, Jammu and Kashmir 193224",
+    "area": "193224",
+    "latitude": 34.501030899999996,
+    "longitude": 74.116709,
+    "place_id": "ChIJYZ_xDF3n4DgRmz_drqh4LuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZ_xDF3n4DgRmz_drqh4LuA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:53:46"
+  }
+]

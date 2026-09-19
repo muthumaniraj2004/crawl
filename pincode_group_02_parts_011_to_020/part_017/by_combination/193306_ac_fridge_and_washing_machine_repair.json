@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "repair service bro",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "193306",
+    "phone_number": "+91 78800 07124",
+    "website": "https://repairservicebro.com/",
+    "rating": 5,
+    "reviews_count": 171,
+    "address": "a11, Bhind Rd, near by Gole Ka Mandir Road, Purshottam Vihar Colony, Hanuman Nagar, Morar, Gwalior, Madhya Pradesh 474005",
+    "area": "Purshottam Vihar Colony, Hanuman Nagar, Morar",
+    "latitude": 26.2395262,
+    "longitude": 78.20890729999999,
+    "place_id": "ChIJj-W8ywjNT6kRadLSlWc4bFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-W8ywjNT6kRadLSlWc4bFw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:02:14"
+  },
+  {
+    "business_name": "DomValue Appliances Repair & Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service",
+    "pincode": "193306",
+    "phone_number": "+91 75666 31222",
+    "website": "https://domvalueappliances.com/",
+    "rating": 4.3,
+    "reviews_count": 36,
+    "address": "E 32, near Saraswati Dairy, Balwant Nagar, Gwalior, Madhya Pradesh 474011",
+    "area": "Balwant Nagar",
+    "latitude": 26.2112746,
+    "longitude": 78.1977505,
+    "place_id": "ChIJH4QAZr3FdjkRee5IKgu3iq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4QAZr3FdjkRee5IKgu3iq0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:02:14"
+  }
+]

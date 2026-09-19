@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Grand By Parksyde",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "194105",
+    "phone_number": "+91 70306 36636",
+    "website": "https://www.parksyde.com/the_grand/",
+    "rating": 4.7,
+    "reviews_count": 37,
+    "address": "Chandshi, Maharashtra 422003",
+    "area": "Chandshi",
+    "latitude": 20.022726,
+    "longitude": 73.7552695,
+    "place_id": "ChIJZZEsjLfr3TsRwvx6KgMhlxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZEsjLfr3TsRwvx6KgMhlxI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:28:02"
+  },
+  {
+    "business_name": "Prime Property & Real Estate Consultant",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "194105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Athhoorwala, Uttarakhand 248145",
+    "area": "194105",
+    "latitude": 30.1780546,
+    "longitude": 78.1655141,
+    "place_id": "ChIJw8_8TtIkCTkR0qrxirIi9SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8_8TtIkCTkR0qrxirIi9SY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:28:03"
+  }
+]

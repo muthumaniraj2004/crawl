@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ldumra Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "194106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Mentok Guest House, Diskit, Ladakh 194401",
+    "area": "194106",
+    "latitude": 34.5481073,
+    "longitude": 77.5553645,
+    "place_id": "ChIJ2fRJfwC1_TgRSe8Vm2dD3Wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fRJfwC1_TgRSe8Vm2dD3Wo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:28:47"
+  },
+  {
+    "business_name": "Bollywood Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "194106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 74,
+    "address": "QV6X+VVQ, Sidhra, Jammu and Kashmir 180019",
+    "area": "Sidhra",
+    "latitude": 32.7622102,
+    "longitude": 74.8997222,
+    "place_id": "ChIJWRcAaACDHjkRIGhw4wBbx3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRcAaACDHjkRIGhw4wBbx3c",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:28:50"
+  }
+]

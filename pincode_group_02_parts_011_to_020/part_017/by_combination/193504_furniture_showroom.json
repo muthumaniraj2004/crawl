@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farooq Ahmad",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store, Kitchen furniture store",
+    "pincode": "193504",
+    "phone_number": "+91 78899 46426",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "22Sumbal Sonawari, near Masjid Shareef, opposite Old Bridge, Main Bazar, Sumbal, Jammu and Kashmir 193504",
+    "area": "Main Bazar",
+    "latitude": 34.2313718,
+    "longitude": 74.6480342,
+    "place_id": "ChIJ0YKHJRKf4TgRIorDTAZeQl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YKHJRKf4TgRIorDTAZeQl8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:36"
+  },
+  {
+    "business_name": "Wani furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture repair shop",
+    "all_categories": "Furniture repair shop",
+    "pincode": "193504",
+    "phone_number": "+91 91499 59819",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main market, Dangerpora, Jammu and Kashmir 191131",
+    "area": "193504",
+    "latitude": 34.2372604,
+    "longitude": 74.74751839999999,
+    "place_id": "ChIJFSznzQSd4TgR62b3tjLqI3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSznzQSd4TgR62b3tjLqI3w",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:36"
+  }
+]

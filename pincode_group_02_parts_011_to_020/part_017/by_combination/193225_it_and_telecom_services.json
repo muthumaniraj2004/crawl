@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "193225",
+    "phone_number": "+91 94198 66659",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MOHD FASIAL PIRZADA, DUDWAN, Jammu and Kashmir 193222",
+    "area": "DUDWAN",
+    "latitude": 34.314515,
+    "longitude": 74.151843,
+    "place_id": "ChIJN7zNmKL94DgRnC3hNSEztNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7zNmKL94DgRnC3hNSEztNA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:55:50"
+  },
+  {
+    "business_name": "Arbaz Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "193225",
+    "phone_number": "+91 70061 72589",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "21, near Madina masjid, near Mir medical hall, Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Bathindi",
+    "latitude": 32.7111783,
+    "longitude": 74.9143165,
+    "place_id": "ChIJS90tEF2DHjkROvZ-qQymgNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS90tEF2DHjkROvZ-qQymgNQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:55:50"
+  }
+]

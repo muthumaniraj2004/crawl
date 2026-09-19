@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sant Exclusive",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothes and fabric manufacturer, Clothing Accessories Store",
+    "pincode": "193303",
+    "phone_number": "+91 81860 00001",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 207,
+    "address": "Hanuman Road, Sadar Bazar, Gurdaspur, Punjab 143521",
+    "area": "Sadar Bazar",
+    "latitude": 32.0388277,
+    "longitude": 75.4037872,
+    "place_id": "ChIJZflgJ3KSGzkRnMKrU0Zdae8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZflgJ3KSGzkRnMKrU0Zdae8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:59:55"
+  },
+  {
+    "business_name": "Tundaz",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "193303",
+    "phone_number": "+91 94194 41042",
+    "website": "https://www.amazon.in/s?me=A2WEEQ311BPJMX&ref=sf_seller_app_share_new",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Link Road, Seloo, Sopore, Jammu and Kashmir 193201",
+    "area": "Seloo",
+    "latitude": 34.3303759,
+    "longitude": 74.4230365,
+    "place_id": "ChIJO6DDagAP4TgRO3SVmVp4_0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6DDagAP4TgRO3SVmVp4_0I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:59:57"
+  }
+]

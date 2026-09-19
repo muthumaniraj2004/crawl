@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulshan Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "194103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "H45G+4GR, Chanchick, Kargil, 194103",
+    "area": "Chanchick",
+    "latitude": 34.557855499999995,
+    "longitude": 76.1262574,
+    "place_id": "ChIJ--iPePwi4zgRmFmZVAk1B04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--iPePwi4zgRmFmZVAk1B04",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:24:32"
+  },
+  {
+    "business_name": "Mutahhary Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "194103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "H45G+RH5, Chanchick, Kargil, 194103",
+    "area": "Chanchick",
+    "latitude": 34.559511199999996,
+    "longitude": 76.12648329999999,
+    "place_id": "ChIJPVsen_wi4zgRIZLWhNkLK70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVsen_wi4zgRIZLWhNkLK70",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:24:32"
+  }
+]

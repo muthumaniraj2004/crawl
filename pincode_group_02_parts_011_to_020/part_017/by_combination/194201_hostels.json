@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Nunchi",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Cottage",
+    "pincode": "194201",
+    "phone_number": "+91 98217 81779",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nubra valley, Hunder, Ladakh 194401",
+    "area": "194201",
+    "latitude": 34.5832474,
+    "longitude": 77.4726247,
+    "place_id": "ChIJAQAAADRL_DgRSmRpUo-IlaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAADRL_DgRSmRpUo-IlaM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:34:09"
+  },
+  {
+    "business_name": "Hearth and Haven Homestay",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Home Stay, Restaurant",
+    "pincode": "194201",
+    "phone_number": "+91 76685 33744",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Balkhang chowk, Newshar, Leh, Ladakh 194101",
+    "area": "Newshar",
+    "latitude": 34.1626103,
+    "longitude": 77.5859866,
+    "place_id": "ChIJc4KS017r_TgRM5WE4Ol1qKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4KS017r_TgRM5WE4Ol1qKc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:34:09"
+  }
+]

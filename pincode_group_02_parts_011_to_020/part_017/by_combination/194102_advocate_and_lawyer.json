@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advocate",
+    "search_category": "Advocate and Lawyer",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "194102",
+    "phone_number": "+91 98936 03250",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Advocate, Churhat, Khicharigawan, Madhya Pradesh 486771",
+    "area": "194102",
+    "latitude": 24.4260873,
+    "longitude": 81.6753999,
+    "place_id": "ChIJhxGKAnOxhTkRfrFTqvHGCa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxGKAnOxhTkRfrFTqvHGCa4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:23:04"
+  },
+  {
+    "business_name": "Sanjay Legal Consultant",
+    "search_category": "Advocate and Lawyer",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Service establishment",
+    "pincode": "194102",
+    "phone_number": "+91 90906 01864",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sanjay Legal Consultant, 194102, India",
+    "area": "194102",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJdXu7JVRNPToR_USS2rbfB4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXu7JVRNPToR_USS2rbfB4o",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:23:04"
+  }
+]

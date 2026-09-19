@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAAM Fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "193402",
+    "phone_number": "+91 97977 54926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ratni Pora Bala, Tangmarg, Jammu and Kashmir 193121",
+    "area": "193402",
+    "latitude": 34.0985803,
+    "longitude": 74.44617989999999,
+    "place_id": "ChIJA44b8jCl4TgR7EbDqGYoL5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA44b8jCl4TgR7EbDqGYoL5Y",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:04:54"
+  },
+  {
+    "business_name": "Serhan Nazir",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "193402",
+    "phone_number": "+91 70069 00205",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "79 Near Higher Secondary School Khore Pattan, Baramulla, Jammu and Kashmir 193121",
+    "area": "Nowlari",
+    "latitude": 34.1228386,
+    "longitude": 74.580196,
+    "place_id": "ChIJC0iG2KWj4TgR8AX6FR863A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0iG2KWj4TgR8AX6FR863A4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:04:56"
+  }
+]

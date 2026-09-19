@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tipsy Tap",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "193301",
+    "phone_number": "+91 94342 17097",
+    "website": "https://www.facebook.com/profile.php?id=61556559210695",
+    "rating": 4.5,
+    "reviews_count": 315,
+    "address": "Plot No - 128, Sahapur Bypass, Nageshwarpur, Malda, West Bengal 732142",
+    "area": "193301",
+    "latitude": 25.0016477,
+    "longitude": 88.1649971,
+    "place_id": "ChIJ_QJnPgD9-jkR8fh2HJx6aIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QJnPgD9-jkR8fh2HJx6aIs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:56:29"
+  },
+  {
+    "business_name": "Imperial Grill Restaurant And Legends Pub",
+    "search_category": "Bar and Pub",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant, Fast food restaurant, Pub, Seafood restaurant, Thai restaurant",
+    "pincode": "193301",
+    "phone_number": "+91 191 247 0244",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "TRG Complex, Bahu Plaza, opposite cafe Coffee day, Unit of Jewel Hospitality, Gandhi Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Unit of Jewel Hospitality, Gandhi Nagar",
+    "latitude": 32.7058645,
+    "longitude": 74.8730326,
+    "place_id": "ChIJcbzsm6eEHjkRSm9XCn3mheM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbzsm6eEHjkRSm9XCn3mheM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:56:30"
+  }
+]

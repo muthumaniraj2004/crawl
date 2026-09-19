@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Polyclinic, Sector 31",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Doctor",
+    "pincode": "194109",
+    "phone_number": "+91 84476 18377",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 201,
+    "address": "F23X+4WR, Sector 31, Gurugram, Haryana 122001",
+    "area": "Sector 31",
+    "latitude": 28.454217999999997,
+    "longitude": 77.0496884,
+    "place_id": "ChIJuRPawVsYDTkRWQnJf9JQCK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRPawVsYDTkRWQnJf9JQCK4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:32:06"
+  },
+  {
+    "business_name": "S.M.poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "194109",
+    "phone_number": "+91 83417 65447",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 31,
+    "address": "near highway hotel, Rajiv Gandhi Nagar, Dastagirnagar, Chandrayangutta, Hyderabad, Telangana 500005",
+    "area": "Rajiv Gandhi Nagar, Dastagirnagar, Chandrayangutta",
+    "latitude": 17.318137999999998,
+    "longitude": 78.4679053,
+    "place_id": "ChIJHcG5QIa9yzsRDLcMQ7wAjG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcG5QIa9yzsRDLcMQ7wAjG8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:32:06"
+  }
+]

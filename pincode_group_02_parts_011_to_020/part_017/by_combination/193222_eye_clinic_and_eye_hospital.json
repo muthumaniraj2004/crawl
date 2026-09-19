@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapoor Eye & Medical Care Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "193222",
+    "phone_number": "+91 94191 97338",
+    "website": "http://kapooreyecentre.com/",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "11, adjoining Vishal Mega Mart, Bakshi Nagar, Jammu, Jammu and Kashmir 180005",
+    "area": "Bakshi Nagar",
+    "latitude": 32.735205,
+    "longitude": 74.8518964,
+    "place_id": "ChIJWWSgWkiFHjkReqn38rK59yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWSgWkiFHjkReqn38rK59yE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:49:58"
+  },
+  {
+    "business_name": "Brar Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital",
+    "pincode": "193222",
+    "phone_number": "+91 72182 72182",
+    "website": "https://brareyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Faridkot Rd, near Petrol Pump, Kot Kapura, Punjab 151204",
+    "area": "193222",
+    "latitude": 30.5885985,
+    "longitude": 74.8168271,
+    "place_id": "ChIJ38SvRcpZFzkRUczzngp3Ibo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38SvRcpZFzkRUczzngp3Ibo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:49:59"
+  }
+]

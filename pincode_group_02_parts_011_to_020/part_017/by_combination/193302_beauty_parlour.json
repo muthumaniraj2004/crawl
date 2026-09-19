@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja Hair saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "193302",
+    "phone_number": "+91 70064 31271",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Baramulla - Handwara Hwy, Handwara, Jammu and Kashmir 193302",
+    "area": "193302",
+    "latitude": 34.3880494,
+    "longitude": 74.29547769999999,
+    "place_id": "ChIJsXKniCId4TgRM392TYKHNI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXKniCId4TgRM392TYKHNI4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:58:50"
+  },
+  {
+    "business_name": "Dayal general store wholesale cosmetic hub",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "193302",
+    "phone_number": "+91 94192 24523",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "exit gate, Gali Gujrian, opposite super bazar parking, Pakki Dhaki, Jammu, Jammu and Kashmir 180001",
+    "area": "Pakki Dhaki",
+    "latitude": 32.7328614,
+    "longitude": 74.8659364,
+    "place_id": "ChIJew_xHtCFHjkR-rN3QlB9XFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJew_xHtCFHjkR-rN3QlB9XFg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:58:52"
+  }
+]

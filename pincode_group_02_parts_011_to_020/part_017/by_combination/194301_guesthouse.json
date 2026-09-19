@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joo Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "194301",
+    "phone_number": "+91 60058 61715",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kishrak, Padum, Ladakh 194302",
+    "area": "Kishrak",
+    "latitude": 33.468590999999996,
+    "longitude": 76.8843942,
+    "place_id": "ChIJHcthh2OVAjkRJ3ydiV78DrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcthh2OVAjkRJ3ydiV78DrI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:37:20"
+  },
+  {
+    "business_name": "Hotel Khayoul",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Hotel, Home Stay",
+    "pincode": "194301",
+    "phone_number": "+91 84920 40293",
+    "website": "https://chat.whatsapp.com/E3zmbGHuidZDyUPKyDh2MO",
+    "rating": 4.5,
+    "reviews_count": 83,
+    "address": "Opposit, hospital road, Panikhar, Ladakh 194301",
+    "area": "194301",
+    "latitude": 34.116510399999996,
+    "longitude": 75.9476847,
+    "place_id": "ChIJ7SHJzdSV4jgRjWB8rfoINM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SHJzdSV4jgRjWB8rfoINM8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:37:21"
+  }
+]

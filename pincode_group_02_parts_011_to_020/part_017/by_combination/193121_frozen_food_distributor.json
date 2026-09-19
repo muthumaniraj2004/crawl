@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Enterprises",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Beverage Store, Hardware store",
+    "pincode": "193121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Pethmakhama, Magam, Jammu and Kashmir 193401",
+    "area": "193121",
+    "latitude": 34.073943,
+    "longitude": 74.5943138,
+    "place_id": "ChIJSx0Eg0GZ4TgR9GMj7wY4xsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSx0Eg0GZ4TgR9GMj7wY4xsU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:41:08"
+  },
+  {
+    "business_name": "Dzyris frozen foods private limited",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "193121",
+    "phone_number": "N/A",
+    "website": "http://frozen.dzyris.in/",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "Mori gaon Kaman, road, Vasai-Virar, Maharashtra 401208",
+    "area": "Navghar",
+    "latitude": 19.346618,
+    "longitude": 72.9096381,
+    "place_id": "ChIJzRcfcAyl5zsRLFNL1MAA7zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRcfcAyl5zsRLFNL1MAA7zM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:41:08"
+  }
+]

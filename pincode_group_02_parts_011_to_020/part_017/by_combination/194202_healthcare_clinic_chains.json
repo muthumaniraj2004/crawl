@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NKDA Primary Health Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "194202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "HFH9+RX4, Biswa Bangla Sarani, BF Block(Newtown), Action Area I, Newtown, West Bengal 700163",
+    "area": "BF Block(Newtown), Action Area I, Newtown",
+    "latitude": 22.5795045,
+    "longitude": 88.46995799999999,
+    "place_id": "ChIJKWgefoJ1AjoR3gKEoM8uFrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWgefoJ1AjoR3gKEoM8uFrk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:35:15"
+  },
+  {
+    "business_name": "Life care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "194202",
+    "phone_number": "+91 87889 62472",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PWF5+CXX, Manor, Maharashtra 401403",
+    "area": "194202",
+    "latitude": 19.7236042,
+    "longitude": 72.9099901,
+    "place_id": "ChIJG4eP5IsR5zsR4DAvoMjHO5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4eP5IsR5zsR4DAvoMjHO5E",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:35:15"
+  }
+]

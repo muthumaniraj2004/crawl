@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Future Savings",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Health insurance agency, Property management company, Tax preparation service",
+    "pincode": "193121",
+    "phone_number": "+91 93448 14045",
+    "website": "http://futuresavings.in/",
+    "rating": 5,
+    "reviews_count": 994,
+    "address": "43, Chintamani Vinayagar Koil St, Alwartirunagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+    "area": "Alwartirunagar, Valasaravakkam",
+    "latitude": 13.046721999999999,
+    "longitude": 80.18235609999999,
+    "place_id": "ChIJ3aheR81mUjoRNsASO8rNhrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aheR81mUjoRNsASO8rNhrg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:42:23"
+  },
+  {
+    "business_name": "Investrack Advisors Pvt Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment bank",
+    "all_categories": "Investment bank",
+    "pincode": "193121",
+    "phone_number": "+91 97550 42143",
+    "website": "http://www.investrack.co.in/",
+    "rating": 4.8,
+    "reviews_count": 38,
+    "address": "211,2nd Floor, Anant Vaibhav, University Rd, opp. Lotus Tower, Vidya Nagar Colony, Rewa, Madhya Pradesh 486001",
+    "area": "Vidya Nagar Colony",
+    "latitude": 24.546625499999998,
+    "longitude": 81.3032004,
+    "place_id": "ChIJxRpu5DFahDkRVdGiwgcFzJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRpu5DFahDkRVdGiwgcFzJA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:42:24"
+  }
+]

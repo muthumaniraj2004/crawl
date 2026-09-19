@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DR MANSI DAVE",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "194202",
+    "phone_number": "+91 77150 57696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DR DAVE'S CLINIC, TANVI COMPLEX, C 101, Swami Vivekanand Rd, next to HP PETROL PUMP, Anand Nagar, Dahisar East, Mumbai, Maharashtra 400068",
+    "area": "Anand Nagar, Dahisar East",
+    "latitude": 19.254161099999997,
+    "longitude": 72.86692,
+    "place_id": "ChIJEQ2CI7ax5zsREQcJQgplS4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQ2CI7ax5zsREQcJQgplS4Y",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:35:10"
+  },
+  {
+    "business_name": "New Born Care Centre",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Children's hospital, Immunologist, Neonatal physician, Pediatric clinic",
+    "pincode": "194202",
+    "phone_number": "+91 98242 46666",
+    "website": "https://www.newbornpatna.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Arya Kumar Rd, opp. Axis Bank, Rajendra Nagar, Patna, Bihar 800016",
+    "area": "Rajendra Nagar",
+    "latitude": 25.6088223,
+    "longitude": 85.1593288,
+    "place_id": "ChIJrbQ2be1Y7TkRw4QOcdLFXpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbQ2be1Y7TkRw4QOcdLFXpk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:35:11"
+  }
+]

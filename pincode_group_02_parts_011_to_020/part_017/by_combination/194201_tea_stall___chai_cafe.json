@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Changla Cafeteria",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 597,
+    "address": "2WWJ+Q35, Pangong Lake Rd, 194201",
+    "area": "194201",
+    "latitude": 34.0468906,
+    "longitude": 77.9302381,
+    "place_id": "ChIJAe3zUYAH_jgRdizybZIhlfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAe3zUYAH_jgRdizybZIhlfY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:18"
+  },
+  {
+    "business_name": "Indus Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Military Police check post, Near, Kiari, Ladakh 194202",
+    "area": "194201",
+    "latitude": 33.483090499999996,
+    "longitude": 78.13371649999999,
+    "place_id": "ChIJrfsQYwCRATkRigp_jhiyEFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfsQYwCRATkRigp_jhiyEFI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Re:vive The Salon",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "193224",
+    "phone_number": "+91 98030 22233",
+    "website": "https://revivethesalon.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9GHC+VR, Patel Nagar Area, Kathua, Jammu and Kashmir 184101",
+    "area": "Patel Nagar Area",
+    "latitude": 32.3901572,
+    "longitude": 75.51583149999999,
+    "place_id": "ChIJMZMjacRxHDkRx13jbZY39fY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZMjacRxHDkRx13jbZY39fY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:53:49"
+  },
+  {
+    "business_name": "Blush Beauty Studio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier, Service establishment",
+    "pincode": "193224",
+    "phone_number": "+91 99109 93495",
+    "website": "https://blushbeautystudio.in/",
+    "rating": 4.8,
+    "reviews_count": 61,
+    "address": "Blush Beauty Studio, 193224, India",
+    "area": "193224",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJK4Zpc7nvnYARv_4mdy4uybo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4Zpc7nvnYARv_4mdy4uybo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:53:50"
+  }
+]

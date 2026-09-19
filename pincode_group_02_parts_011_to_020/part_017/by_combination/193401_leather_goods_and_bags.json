@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LEATHER KING",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Clothing store, Clothing Accessories Store, Gift shop, Print shop",
+    "pincode": "193401",
+    "phone_number": "+91 98503 60308",
+    "website": "https://www.leatherking.org/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sudarshan Paradise, 303, WING A, Vishal Nagar, Pimple Nilakh, Pimpri-Chinchwad, Maharashtra 411027",
+    "area": "Matoshri Colony, Nandanwan Society, Vishal Nagar, Pimple Nilakh",
+    "latitude": 18.583941499999998,
+    "longitude": 73.7837785,
+    "place_id": "ChIJ7c2Kf4m5wjsR2ELLRw5HkR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7c2Kf4m5wjsR2ELLRw5HkR0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:03:29"
+  },
+  {
+    "business_name": "Fancy Leather Belts and Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "193401",
+    "phone_number": "+91 98076 45603",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Lahurabir Rd Nai Sarak,Near Sanatan Dharam Inter College, near Abdul Khalik & Sons, Bangali Tola, Varanasi, Uttar Pradesh 221010",
+    "area": "Bangali Tola",
+    "latitude": 25.3118941,
+    "longitude": 83.0050736,
+    "place_id": "ChIJr9AVxxwujjkRs6ujO7LKEys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9AVxxwujjkRs6ujO7LKEys",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:03:29"
+  }
+]

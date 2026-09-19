@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lets relax spa and salon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "194106",
+    "phone_number": "+91 95969 85724",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near Dainik State Samachar, Chowadhi, Greater Kailash, Jammu, Jammu and Kashmir 180011",
+    "area": "Chowadhi, Greater Kailash",
+    "latitude": 32.660846299999996,
+    "longitude": 74.89970129999999,
+    "place_id": "ChIJ4cNyNMadHjkR7T0hzycM9Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cNyNMadHjkR7T0hzycM9Lw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:29:07"
+  },
+  {
+    "business_name": "R3 Spa - Katra",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "194106",
+    "phone_number": "+91 84485 06300",
+    "website": "https://www.r3naturals.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bajalan, Kolti, Katra, Jammu and Kashmir 182301",
+    "area": "194106",
+    "latitude": 32.9701729,
+    "longitude": 74.9061639,
+    "place_id": "ChIJFRIzFO95HjkRe6ZPuOiIhRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRIzFO95HjkRe6ZPuOiIhRw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:29:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink Lady",
+    "search_category": "Boutiques",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "193223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Main Market, Lolab, near Wellcome Inn Enterprises, Lalpora, Jammu and Kashmir 193223",
+    "area": "193223",
+    "latitude": 34.500101199999996,
+    "longitude": 74.431991,
+    "place_id": "ChIJv99OlUwX4TgRzL8JWcQd5pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv99OlUwX4TgRzL8JWcQd5pg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:51:37"
+  },
+  {
+    "business_name": "PASSION PETALS",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "193223",
+    "phone_number": "+91 84939 32736",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main market Lalpora lolab, Jammu and Kashmir 193223",
+    "area": "193223",
+    "latitude": 34.4990871,
+    "longitude": 74.4327764,
+    "place_id": "ChIJSduxxFwX4TgRZ_NWmfZo48U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSduxxFwX4TgRZ_NWmfZo48U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:51:37"
+  }
+]

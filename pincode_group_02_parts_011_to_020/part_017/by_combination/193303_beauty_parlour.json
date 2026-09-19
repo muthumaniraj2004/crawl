@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Mint Saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "193303",
+    "phone_number": "N/A",
+    "website": "https://royalmintsaloon.lovable.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Model Town - Nowpora Kalan Rd, opposite Aisha Medicose, D, Sopore, Jammu and Kashmir 193201",
+    "area": "D",
+    "latitude": 34.3048851,
+    "longitude": 74.44319759999999,
+    "place_id": "ChIJUavgIcYJ4TgRDoe92IIc-PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUavgIcYJ4TgRDoe92IIc-PQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:00:30"
+  },
+  {
+    "business_name": "Beauty Product Dealers",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "193303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4-1005/6/B, Kachiguda, Hyderabad, Telangana 500027",
+    "area": "Kachiguda",
+    "latitude": 17.387598,
+    "longitude": 78.502674,
+    "place_id": "ChIJJ0u6YciZyzsRuRXNrDxk_BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0u6YciZyzsRuRXNrDxk_BM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:00:32"
+  }
+]

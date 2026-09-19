@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "194302",
+    "phone_number": "+91 83808 99705",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HQXF+7JQ Entry from, inside Bailey's The Cake Shop, Vishnu Dev Nagar, Wakad, Pimpri-Chinchwad, Pune, Maharashtra 411057",
+    "area": "Vishnu Dev Nagar, Wakad",
+    "latitude": 18.5982047,
+    "longitude": 73.77412439999999,
+    "place_id": "ChIJZ6cZeBO5wjsRVKAWjN0yMPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6cZeBO5wjsRVKAWjN0yMPQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:38:50"
+  },
+  {
+    "business_name": "Nailashes - New Bel Road, Bengaluru",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "194302",
+    "phone_number": "+91 81971 97100",
+    "website": "https://www.nailashes.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor, No 8, New BEL Rd, next to Indian Oil Petrol Pump, Jaladarsini Layout, Sanjayanagara, Bengaluru, Karnataka 560094",
+    "area": "Jaladarsini Layout, Sanjayanagara",
+    "latitude": 13.0324175,
+    "longitude": 77.5698946,
+    "place_id": "ChIJhStFuo4XrjsRzpROoVMNbno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhStFuo4XrjsRzpROoVMNbno",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:38:51"
+  }
+]

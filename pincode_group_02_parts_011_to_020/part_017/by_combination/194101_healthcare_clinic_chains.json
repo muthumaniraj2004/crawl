@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lamdon School Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "194101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5HGV+8H3, Khardung La Rd, Leh, Ladakh 194101",
+    "area": "194101",
+    "latitude": 34.1751147,
+    "longitude": 77.5932883,
+    "place_id": "ChIJ67aoCADr_TgRngdJsZh4I6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67aoCADr_TgRngdJsZh4I6U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:20:41"
+  },
+  {
+    "business_name": "Leh Oxy Care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "194101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Petrol Pump, Namgial Complex, Taroo, Leh, Ladakh 194101",
+    "area": "194101",
+    "latitude": 34.2013956,
+    "longitude": 77.4278838,
+    "place_id": "ChIJDRNPdACX_TgRbjp4AIalaZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRNPdACX_TgRbjp4AIalaZ4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:20:41"
+  }
+]

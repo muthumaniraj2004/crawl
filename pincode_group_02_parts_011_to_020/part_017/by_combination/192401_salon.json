@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sultan smart look hair saloon movera",
+    "search_category": "Salon",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "192401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "W79J+VJ4, Mowrah, 192401",
+    "area": "192401",
+    "latitude": 33.9196263,
+    "longitude": 75.2815657,
+    "place_id": "ChIJTSFZzPgV4jgRCFOGHHe5g8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSFZzPgV4jgRCFOGHHe5g8Q",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:38"
+  },
+  {
+    "business_name": "Arhaan's creation saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "192401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "192401",
+    "area": "192401",
+    "latitude": 33.8533237,
+    "longitude": 75.2363858,
+    "place_id": "ChIJr47pMq8R4jgRtbpRuLIlxl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr47pMq8R4jgRtbpRuLIlxl0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:38"
+  }
+]

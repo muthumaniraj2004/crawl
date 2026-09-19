@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "bojanam",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "193502",
+    "phone_number": "+91 74150 71507",
+    "website": "https://www.bojanam.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "opp to Baptist Church Giri Road, junction, Bijipur Main Rd, Brahmapur, Odisha 760001",
+    "area": "Sundar Nagar",
+    "latitude": 19.304572099999998,
+    "longitude": 84.79497719999999,
+    "place_id": "ChIJaUEq6ktRPToRGU21jaWgFww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUEq6ktRPToRGU21jaWgFww",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:13:37"
+  },
+  {
+    "business_name": "Swiss Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "193502",
+    "phone_number": "+91 80181 56669",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jaidev Vihar, Plot No. 6927, Bagdevi Road, Jillundi, Bhanjanagar, Odisha 761126",
+    "area": "Jillundi",
+    "latitude": 19.9347604,
+    "longitude": 84.5873646,
+    "place_id": "ChIJD4Dmw3_rIjoRKihjFb0qE8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4Dmw3_rIjoRKihjFb0qE8c",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:13:37"
+  }
+]

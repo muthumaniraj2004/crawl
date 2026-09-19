@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Car Dose",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service, Wheel store",
+    "pincode": "193404",
+    "phone_number": "+91 76100 71600",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Jodhras Chouraha, Ajmer Rd, in front of RECB Grid, Bhilwara, Rajasthan 311001",
+    "area": "193404",
+    "latitude": 25.381539699999998,
+    "longitude": 74.62181819999999,
+    "place_id": "ChIJ0RrGuGrDaDkRWQTzCY3D1Ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RrGuGrDaDkRWQTzCY3D1Ds",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:52"
+  },
+  {
+    "business_name": "The Detailing Mafia",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto Dent Removal Service Station, Auto painting, Auto upholsterer, Auto window tinting service, Auto restoration service",
+    "pincode": "193404",
+    "phone_number": "+91 98125 51555",
+    "website": "https://www.thedetailingmafia.com/locate-our-outlets/Hisar",
+    "rating": 4.9,
+    "reviews_count": 1218,
+    "address": "Kaimari Rd, near Indian Petrol Pump, Vinayak Nagar, CHANDER LAIN, Patel Nagar, Hisar, Haryana 125001",
+    "area": "Vinayak Nagar, CHANDER LAIN, Patel Nagar",
+    "latitude": 29.1296812,
+    "longitude": 75.7197042,
+    "place_id": "ChIJU3YGL0EzEjkRgnwOzmUxzrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3YGL0EzEjkRgnwOzmUxzrI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:53"
+  }
+]

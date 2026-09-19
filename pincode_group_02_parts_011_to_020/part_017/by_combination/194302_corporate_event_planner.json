@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sensational Group",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner, Record company, Recording studio, Wedding planner, Wedding service",
+    "pincode": "194302",
+    "phone_number": "+91 86999 14200",
+    "website": "https://sensationalgroup.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd floor, Sensational Group, 1250, Airport Road, Sector 82, JLPL Industrial Area, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.654310499999998,
+    "longitude": 76.7377539,
+    "place_id": "ChIJBZZf2s3rDzkRr5cMJzNUl5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZZf2s3rDzkRr5cMJzNUl5U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:39:02"
+  },
+  {
+    "business_name": "Shiva Group Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Children's party service, Event management company, Party planner, Professional organizer, Wedding planner, Wedding service",
+    "pincode": "194302",
+    "phone_number": "+91 92197 08567",
+    "website": "https://www.shivagroupevents.com/",
+    "rating": 4.9,
+    "reviews_count": 235,
+    "address": "HOUSE NO, BADA HANUMAN MANDIR, 1117 /3, Sector 3, Shastri Nagar, Meerut, Uttar Pradesh 250004",
+    "area": "Sector 3, Shastri Nagar",
+    "latitude": 28.962320199999997,
+    "longitude": 77.7251569,
+    "place_id": "ChIJAUswIlJ7DDkRUPEFbzEmI-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUswIlJ7DDkRUPEFbzEmI-U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:39:03"
+  }
+]

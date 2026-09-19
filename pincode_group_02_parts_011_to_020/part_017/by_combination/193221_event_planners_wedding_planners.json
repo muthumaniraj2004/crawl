@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Event Mistry",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "193221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G74C+FP8, Bumhama, 193222",
+    "area": "193221",
+    "latitude": 34.506161899999995,
+    "longitude": 74.2718347,
+    "place_id": "ChIJO_la4b0f4TgRCIFPJE8ebZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_la4b0f4TgRCIFPJE8ebZY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:48:47"
+  },
+  {
+    "business_name": "KKR Events and Entertainments",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner, Event management company",
+    "pincode": "193221",
+    "phone_number": "+91 63002 86389",
+    "website": "https://www.kkreventsandentertainments.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajendra Nagar Main Rd, Naidupet, Guntur, Andhra Pradesh 522007",
+    "area": "Naidupet",
+    "latitude": 16.3086859,
+    "longitude": 80.4355308,
+    "place_id": "ChIJQeDNfit1SjoRHZnis85mqC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeDNfit1SjoRHZnis85mqC4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:48:48"
+  }
+]

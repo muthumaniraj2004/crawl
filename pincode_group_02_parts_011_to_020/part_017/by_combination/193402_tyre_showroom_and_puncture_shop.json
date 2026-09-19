@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jk Tyre",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Tire shop",
+    "pincode": "193402",
+    "phone_number": "+91 96226 18759",
+    "website": "https://www.jktyre.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Srinagar - Gulmarg Rd, Chandilora, Tangmarg, Jammu and Kashmir 193402",
+    "area": "193402",
+    "latitude": 34.0683589,
+    "longitude": 74.4472261,
+    "place_id": "ChIJXbrnMgCl4TgRFZH9yjwnts4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbrnMgCl4TgRFZH9yjwnts4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:05:28"
+  },
+  {
+    "business_name": "BABA TYRE HOUSE",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "193402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Narbatpur, Bihar 802114",
+    "area": "193402",
+    "latitude": 25.4983892,
+    "longitude": 83.8860895,
+    "place_id": "ChIJtW167Kj1jTkR0XdwBoesxSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW167Kj1jTkR0XdwBoesxSg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:05:28"
+  }
+]

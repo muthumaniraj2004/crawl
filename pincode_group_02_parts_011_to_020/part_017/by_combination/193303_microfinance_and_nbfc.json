@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fedbank Financial Services Ltd",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Mortgage broker",
+    "pincode": "193303",
+    "phone_number": "+91 80 4190 0283",
+    "website": "https://www.fedfina.com/",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "Door #5, Ground Floor, Jeevan Bheema Nagar main road, HAL 3rd Stage, DOS Colony, Jeevan Bima Nagar, Bengaluru, Karnataka 560075",
+    "area": "HAL 3rd Stage, DOS Colony, Jeevan Bima Nagar",
+    "latitude": 12.9674689,
+    "longitude": 77.6546415,
+    "place_id": "ChIJLx46eAAUrjsRqvLvIsVwrMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx46eAAUrjsRqvLvIsVwrMI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:00:57"
+  },
+  {
+    "business_name": "Malankara Credit Society Ltd",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Loan agency",
+    "pincode": "193303",
+    "phone_number": "+91 1800 313 1223",
+    "website": "https://mmsccs.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4th floor, West Fort Tower, W Fort Jct, West Fort, Asvary Nagar, Sreenagar Colony, Thrissur, Keralam 680004",
+    "area": "West Fort, Asvary Nagar, Sreenagar Colony",
+    "latitude": 10.5225446,
+    "longitude": 76.20136769999999,
+    "place_id": "ChIJs3D6c6jvpzsRuccJrIw2ehs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3D6c6jvpzsRuccJrIw2ehs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:00:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "baba chaat bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "193411",
+    "phone_number": "+91 72486 05148",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aura Cmarm, Raj Nagar Extension, Ghaziabad, Uttar Pradesh 201017",
+    "area": "Raj Nagar Extension",
+    "latitude": 28.703982,
+    "longitude": 77.4315562,
+    "place_id": "ChIJpQEHw5_xDDkRKPaOF644RHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQEHw5_xDDkRKPaOF644RHI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:10:10"
+  },
+  {
+    "business_name": "AAJA KHAJA FOOD POINT",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "193411",
+    "phone_number": "+91 96396 92500",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "KW SRISHTI RAJ NAGAR EXTENSION-2, Raj Nagar Extension, Ghaziabad, Uttar Pradesh 201003",
+    "area": "Raj Nagar Extension",
+    "latitude": 28.7024719,
+    "longitude": 77.4300755,
+    "place_id": "ChIJn0FrW3rxDDkRs-iVIyfmxCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0FrW3rxDDkRs-iVIyfmxCs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:10:10"
+  }
+]

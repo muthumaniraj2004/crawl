@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice Fields",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "193223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FCG6+CVG, Forest Block, Jammu and Kashmir 193223",
+    "area": "193223",
+    "latitude": 34.4760585,
+    "longitude": 74.4121894,
+    "place_id": "ChIJSSnBVwMX4TgR4z7U_2Qgzo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSnBVwMX4TgR4z7U_2Qgzo0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:52:43"
+  },
+  {
+    "business_name": "S.S. Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Exporter, Manufacturer",
+    "pincode": "193223",
+    "phone_number": "+91 97814 00400",
+    "website": "https://www.ssirice.com/",
+    "rating": 4.2,
+    "reviews_count": 99,
+    "address": "J734+X8, Hissan Wala Road, Jalalabad, Punjab 152024",
+    "area": "193223",
+    "latitude": 30.6200282,
+    "longitude": 74.2774182,
+    "place_id": "ChIJKTp7t1l-FzkRHG6W3CH_nqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTp7t1l-FzkRHG6W3CH_nqA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:52:44"
+  }
+]

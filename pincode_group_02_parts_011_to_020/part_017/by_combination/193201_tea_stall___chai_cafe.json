@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOMO MAGIC XPRESS",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "193201",
+    "phone_number": "+91 88519 31660",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 60,
+    "address": "Wani Complex, Lalad, Sopore, Jammu and Kashmir 193101",
+    "area": "Lalad",
+    "latitude": 34.2527077,
+    "longitude": 74.4551142,
+    "place_id": "ChIJn7qboSoJ4TgRL_Yh9bCshgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7qboSoJ4TgRL_Yh9bCshgI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:46:14"
+  },
+  {
+    "business_name": "Chai jaai (the tea stall)",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "193201",
+    "phone_number": "+91 84910 36569",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nowpora chowck, Jammu and Kashmir 193502",
+    "area": "193201",
+    "latitude": 34.4235314,
+    "longitude": 74.63685,
+    "place_id": "ChIJr2ojQixt4TgR_ovPkrGzqRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2ojQixt4TgR_ovPkrGzqRs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:46:16"
+  }
+]

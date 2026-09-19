@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naaghat Zameen Satkoji",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "193224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C47C+67, Dahama, Jammu and Kashmir 193224",
+    "area": "193224",
+    "latitude": 34.4122384,
+    "longitude": 74.1243137,
+    "place_id": "ChIJV4e1hpLj4DgR8aW-ssmpAbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4e1hpLj4DgR8aW-ssmpAbk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:54:18"
+  },
+  {
+    "business_name": "MIR CSC PAKHWARA RAFIABAD",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Retail space rental agency",
+    "all_categories": "Retail space rental agency",
+    "pincode": "193224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pakhwara, Shat Gund Bala, Jammu and Kashmir 193221",
+    "area": "193224",
+    "latitude": 34.2971289,
+    "longitude": 74.24608169999999,
+    "place_id": "ChIJSesDV2MD4TgRaXStNRRiOnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSesDV2MD4TgRaXStNRRiOnw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:54:21"
+  }
+]

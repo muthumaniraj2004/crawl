@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PowerHouse saboo",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "194101",
+    "phone_number": "+91 99069 72196",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tyari rong, Saboo Village Rd, Leh, Ladakh 194101",
+    "area": "194101",
+    "latitude": 34.1350486,
+    "longitude": 77.5881256,
+    "place_id": "ChIJCTC4sSPt_TgRPpMP2QgrUXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTC4sSPt_TgRPpMP2QgrUXg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:20:40"
+  },
+  {
+    "business_name": "Kanji Sports Shop & Gift Gallery",
+    "search_category": "Fitness Chains",
+    "primary_category": "Outdoor sports store",
+    "all_categories": "Outdoor sports store, Gift shop",
+    "pincode": "194101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 20,
+    "address": "Agling road, near Fire Station, Dambucha, Leh, Ladakh 194101",
+    "area": "Dambucha",
+    "latitude": 34.1348519,
+    "longitude": 77.5637019,
+    "place_id": "ChIJO2-UcIvt_TgRcCUO1GW1P20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2-UcIvt_TgRcCUO1GW1P20",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:20:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Martin Autos",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "193109",
+    "phone_number": "+91 90002 00089",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Street Number 2, Indraprastha Colony, Bandlaguda, Nagole, Hyderabad, Telangana 500068",
+    "area": "Indraprastha Colony, Bandlaguda, Nagole",
+    "latitude": 17.3684959,
+    "longitude": 78.57637009999999,
+    "place_id": "ChIJCRn1NqWfyzsR6Cx9c8uVY8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRn1NqWfyzsR6Cx9c8uVY8w",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:39:55"
+  },
+  {
+    "business_name": "Surya Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "193109",
+    "phone_number": "+91 92465 77118",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot no-255 Kamalapuri colony phase -2 Srinagar colony road, pump road, beside indian oil, Hyderabad, Telangana 500073",
+    "area": "Kamlapuri Colony, Pragathi Nagar, Yousufguda",
+    "latitude": 17.4308224,
+    "longitude": 78.43136369999999,
+    "place_id": "ChIJqfc56tWQyzsRCSyeU6LkAcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfc56tWQyzsRCSyeU6LkAcI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:39:56"
+  }
+]

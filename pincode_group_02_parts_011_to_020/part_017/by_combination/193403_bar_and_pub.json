@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulmarg club",
+    "search_category": "Bar and Pub",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "193403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "396H+8V7, Bota Pathri Rd, Gulmarg, Jammu and Kashmir 193403",
+    "area": "193403",
+    "latitude": 34.060786,
+    "longitude": 74.3796618,
+    "place_id": "ChIJEb4bbgCv4TgRFObmaRR7RnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEb4bbgCv4TgRFObmaRR7RnU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:06:51"
+  },
+  {
+    "business_name": "POOJA WINE BAR & RESTAURANT",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "193403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Pandit Dindayal Ward, Ballarpur, Maharashtra 442701",
+    "area": "Pandit Dindayal Ward",
+    "latitude": 19.8642056,
+    "longitude": 79.3420366,
+    "place_id": "ChIJIUtQy_3S0jsRjuCOtAHsMcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUtQy_3S0jsRjuCOtAHsMcQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:06:51"
+  }
+]

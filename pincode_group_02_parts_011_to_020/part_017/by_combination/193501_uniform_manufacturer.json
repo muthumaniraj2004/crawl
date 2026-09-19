@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bilal Tailoring Shop",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Tailor",
+    "pincode": "193501",
+    "phone_number": "+91 90182 70706",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "56, Link Road, near Kadeem Jamia Masjid, opposite New Asrar Electronics, Asham, Jammu and Kashmir 193501",
+    "area": "193501",
+    "latitude": 34.2525689,
+    "longitude": 74.62739979999999,
+    "place_id": "ChIJBfWL23Z14TgR__sUETutkZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfWL23Z14TgR__sUETutkZU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:12:05"
+  },
+  {
+    "business_name": "Fluid Apparels",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "193501",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/fluidapparels?igshid=YmMyMTA2M2Y=",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wakura, Jammu and Kashmir 193501",
+    "area": "193501",
+    "latitude": 34.2074541,
+    "longitude": 74.6946172,
+    "place_id": "ChIJJ24WGpyd4TgRfJMqsXURoHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ24WGpyd4TgRfJMqsXURoHo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:12:05"
+  }
+]

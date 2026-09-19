@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ubaid bhat",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Butcher shop deli",
+    "all_categories": "Butcher shop deli",
+    "pincode": "193502",
+    "phone_number": "+91 91499 80466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "8M9H+7WJ, Chandergeer, Bazipora, Jammu and Kashmir 193504",
+    "area": "193502",
+    "latitude": 34.3180824,
+    "longitude": 74.6789448,
+    "place_id": "ChIJpU03cIZ14TgR0u5j5zQnZgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpU03cIZ14TgR0u5j5zQnZgo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:13:30"
+  },
+  {
+    "business_name": "Wasim Bismillah Poultry",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Poultry store",
+    "pincode": "193502",
+    "phone_number": "+91 84939 05050",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CP55, W3V Srinagar Road, Plan Bandipora, Jammu and Kashmir 193502",
+    "area": "193502",
+    "latitude": 34.418574,
+    "longitude": 74.6408251,
+    "place_id": "ChIJx3ifUm5t4TgR_3e4lhvcALA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3ifUm5t4TgR_3e4lhvcALA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:13:31"
+  }
+]

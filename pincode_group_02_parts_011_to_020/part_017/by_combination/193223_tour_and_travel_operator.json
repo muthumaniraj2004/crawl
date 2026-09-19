@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travel With Friends",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Travel agency",
+    "pincode": "193223",
+    "phone_number": "+91 88995 46698",
+    "website": "http://twfriends.com/",
+    "rating": 5,
+    "reviews_count": 62,
+    "address": "1st floor, Shop number 5, Putkha, Jammu and Kashmir 193201",
+    "area": "193223",
+    "latitude": 34.354465499999996,
+    "longitude": 74.4408385,
+    "place_id": "ChIJbdtK6kYP4TgRJXwIvNlhKDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdtK6kYP4TgRJXwIvNlhKDk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:51:53"
+  },
+  {
+    "business_name": "FARWAS HOLIDAYS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "193223",
+    "phone_number": "+91 96823 47103",
+    "website": "http://www.farwasholidays.com/",
+    "rating": 4.9,
+    "reviews_count": 76,
+    "address": "Gulab Bagh, Srinagar, Jammu and Kashmir 190006",
+    "area": "Gulab Bagh",
+    "latitude": 34.1791432,
+    "longitude": 74.8173831,
+    "place_id": "ChIJ51VrynOD4TgRYDEO-YXVK1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51VrynOD4TgRYDEO-YXVK1g",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:51:55"
+  }
+]

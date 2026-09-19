@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Current",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "193404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 134,
+    "address": "Booth No. 27, Dry Fruit Market, Sector 22D, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22D, Sector 22",
+    "latitude": 30.734265599999997,
+    "longitude": 76.7704483,
+    "place_id": "ChIJHx80O5vtDzkRW4tlEZsjX8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHx80O5vtDzkRW4tlEZsjX8U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:30"
+  },
+  {
+    "business_name": "Ramesh JI Kachoriwala",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "193404",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/invites/contact/?i=15dcslz3ve0el&utm_content=p9v5cqq",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "Bus stand, Jawad, Madhya Pradesh 458330",
+    "area": "193404",
+    "latitude": 24.5947411,
+    "longitude": 74.8629588,
+    "place_id": "ChIJWQsLWnINZjkRFDZgiSlidkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQsLWnINZjkRFDZgiSlidkU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:30"
+  }
+]

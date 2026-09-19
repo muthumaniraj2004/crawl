@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khanday General Store",
+    "search_category": "Importers",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "193403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Takipora, Ferozpora, Jammu and Kashmir 193402",
+    "area": "Takipora",
+    "latitude": 34.0551208,
+    "longitude": 74.4319567,
+    "place_id": "ChIJUWvsoR6l4TgRay6bzlTNO14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWvsoR6l4TgRay6bzlTNO14",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:07"
+  },
+  {
+    "business_name": "Hidden Kashmir Co",
+    "search_category": "Importers",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier",
+    "pincode": "193403",
+    "phone_number": "+91 91499 67411",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Heewen, Jammu and Kashmir 193101",
+    "area": "193403",
+    "latitude": 34.1690559,
+    "longitude": 74.3338419,
+    "place_id": "ChIJdfnpc7Cp4TgRD12qvh8U4jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfnpc7Cp4TgRD12qvh8U4jg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:07"
+  }
+]

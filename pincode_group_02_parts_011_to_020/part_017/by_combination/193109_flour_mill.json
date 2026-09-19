@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A-1 Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "193109",
+    "phone_number": "+91 83281 81366",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 74,
+    "address": "3-3-183, Sai Nanditha Enclave, Chappal Bazar, Kachiguda, Hyderabad, Telangana 500027",
+    "area": "Sai Nanditha Enclave, Chappal Bazar, Kachiguda",
+    "latitude": 17.3883399,
+    "longitude": 78.4926854,
+    "place_id": "ChIJC8xzO-WZyzsR8ovfAtOVu4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8xzO-WZyzsR8ovfAtOVu4k",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:39:27"
+  },
+  {
+    "business_name": "Maruthi Pindi Grini (Flour Mill)",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "193109",
+    "phone_number": "+91 63020 93940",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "Balaji Enclave, Beerappagadda, Uppal, Secunderabad, Hyderabad, Telangana 500039",
+    "area": "Balaji Enclave, Beerappagadda, Uppal",
+    "latitude": 17.4058673,
+    "longitude": 78.56400119999999,
+    "place_id": "ChIJuf3J5DSZyzsRvIg45mXBXw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuf3J5DSZyzsRvIg45mXBXw4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:39:28"
+  }
+]

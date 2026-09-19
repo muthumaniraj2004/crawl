@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eisen Sports",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "193401",
+    "phone_number": "+91 91036 67825",
+    "website": "https://eisensports.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Balakote, Dhargloon, Mendhar, Jammu and Kashmir 185111",
+    "area": "Balakote",
+    "latitude": 33.5651049,
+    "longitude": 74.1905369,
+    "place_id": "ChIJBUENsQAr4DgRwV70Ea86u2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUENsQAr4DgRwV70Ea86u2E",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:04:13"
+  },
+  {
+    "business_name": "MediaHolic Event Company",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "193401",
+    "phone_number": "+91 80955 59696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "No 12, Ramchandrapura Main Rd, Ramachandrapura, Jalahalli, Bengaluru, Karnataka 560013",
+    "area": "Ramachandrapura, Jalahalli",
+    "latitude": 13.058404399999999,
+    "longitude": 77.55136019999999,
+    "place_id": "ChIJZc-Cna0irjsRU8VORLPwUfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZc-Cna0irjsRU8VORLPwUfo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:04:16"
+  }
+]

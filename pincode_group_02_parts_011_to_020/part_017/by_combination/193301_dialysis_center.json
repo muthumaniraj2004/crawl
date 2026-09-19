@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kidney dialysis care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "193301",
+    "phone_number": "+91 62996 05794",
+    "website": "https://kidneydialysiscenter.business.site/?utm_source=gmb&utm_medium=referral",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahavir emergency hospital, Jehanabad, Kanaudi, Bihar 804417",
+    "area": "193301",
+    "latitude": 25.2324433,
+    "longitude": 84.9949547,
+    "place_id": "ChIJ77Vdndm18jkRsnPIEzQJKEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77Vdndm18jkRsnPIEzQJKEo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:56:45"
+  },
+  {
+    "business_name": "DCDC Kidney Care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "193301",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dialysis Unit, Community Health center, Bus Stand Rd, near New, dist, Kunkuri, Chhattisgarh 496225",
+    "area": "dist",
+    "latitude": 22.7419819,
+    "longitude": 83.9502967,
+    "place_id": "ChIJgy91Z7NtijkRsZb7ZhaneeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgy91Z7NtijkRsZb7ZhaneeI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:56:46"
+  }
+]

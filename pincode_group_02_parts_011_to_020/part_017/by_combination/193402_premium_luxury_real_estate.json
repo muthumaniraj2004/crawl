@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REELTOR",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "193402",
+    "phone_number": "+91 92203 62270",
+    "website": "https://www.reeltor.com/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "S 12, Janta Market, Rajouri Garden, New Delhi, Delhi, 110027",
+    "area": "Janta Market, Rajouri Garden",
+    "latitude": 28.639788,
+    "longitude": 77.12373699999999,
+    "place_id": "ChIJseWoYQADDTkRaLA1ghV4IV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseWoYQADDTkRaLA1ghV4IV0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:06:18"
+  },
+  {
+    "business_name": "Shrunz Waterfall",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "193402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1036,
+    "address": "near Baba Reshi, Lal Pora, 193402",
+    "area": "193402",
+    "latitude": 34.095400399999995,
+    "longitude": 74.3763943,
+    "place_id": "ChIJ-xwzoHel4TgRN_g-IzzLvGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xwzoHel4TgRN_g-IzzLvGQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:06:19"
+  }
+]

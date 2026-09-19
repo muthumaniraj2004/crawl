@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orthocare Physiotherapy Hospital",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "193403",
+    "phone_number": "+91 63797 90075",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No3/1 Astapujam, East mada street, Chinna Kanchipuram, Kanchipuram, Tamil Nadu 631501",
+    "area": "Chinna Kanchipuram",
+    "latitude": 12.823131499999999,
+    "longitude": 79.7114385,
+    "place_id": "ChIJpx_PiuHDUjoRiCDquMjOgFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpx_PiuHDUjoRiCDquMjOgFE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:07:03"
+  },
+  {
+    "business_name": "PhysioSoul : Neuro Physiotherapist in Andheri West",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Chiropractor, Kinesiotherapist, Massage therapist, Neurophysiologist, Pain management physician, Physiotherapist, Sports massage therapist",
+    "pincode": "193403",
+    "phone_number": "+91 98198 09770",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 67,
+    "address": "A-103, Skyway Apartments, Shastri Nagar, above Pooja DairyAndheri West, Lokhandwala Complex, Mumbai, Maharashtra 400053",
+    "area": "Lokhandwala Complex, Andheri West",
+    "latitude": 19.1386801,
+    "longitude": 72.8264897,
+    "place_id": "ChIJF2Bv1JG35zsR9seelXzU020",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2Bv1JG35zsR9seelXzU020",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:07:04"
+  }
+]

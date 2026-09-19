@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Mumbaikar Children’s Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "193503",
+    "phone_number": "+91 91374 23839",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Niramay Hospital, Rasayani, Rees, Mohpada Alias Wasambe, Maharashtra 410222",
+    "area": "Rasayani",
+    "latitude": 18.8933803,
+    "longitude": 73.19738749999999,
+    "place_id": "ChIJmyWJ3mfl5zsR6SS7JhFINmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyWJ3mfl5zsR6SS7JhFINmA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:15:33"
+  },
+  {
+    "business_name": "Royal Children's Centre",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Medical clinic",
+    "pincode": "193503",
+    "phone_number": "+91 83186 51569",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 174,
+    "address": "Khajuria Trimuhani, Peer Nagar, Ghazipur, Uttar Pradesh 233001",
+    "area": "Peer Nagar, Kacheri",
+    "latitude": 25.569835599999998,
+    "longitude": 83.560684,
+    "place_id": "ChIJwxROCQj_kTkRqtitNdpSBus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxROCQj_kTkRqtitNdpSBus",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:15:34"
+  }
+]

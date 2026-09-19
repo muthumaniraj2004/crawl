@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Posh Mahala",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "193504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8JWH+H9G, Gund Prang, 193502",
+    "area": "193504",
+    "latitude": 34.346435,
+    "longitude": 74.6284493,
+    "place_id": "ChIJcXRFX3Bz4TgRPIYsT4dLRZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXRFX3Bz4TgRPIYsT4dLRZA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:42"
+  },
+  {
+    "business_name": "Hybal Mohalla{Pc}",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "193504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8M34+VCH, Gund Sadarkote, 193504",
+    "area": "193504",
+    "latitude": 34.304697399999995,
+    "longitude": 74.6560945,
+    "place_id": "ChIJcaEwwb114TgR-V9XCOYQLcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaEwwb114TgR-V9XCOYQLcY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:42"
+  }
+]

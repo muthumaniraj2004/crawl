@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello Flowers",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "193401",
+    "phone_number": "+91 91794 09401",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 80,
+    "address": "Bansal Chauraha, Shri Vikaseshwar, Jain Mandir Road, Vikas Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Vikas Nagar",
+    "latitude": 24.46527,
+    "longitude": 74.8720726,
+    "place_id": "ChIJ8XqTm5xzZjkROWfG5bUOERQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XqTm5xzZjkROWfG5bUOERQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:04:12"
+  },
+  {
+    "business_name": "Hamper Land",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Bridal shop, Corporate gift supplier, Gift basket store, Gourmet grocery store, Wedding store",
+    "pincode": "193401",
+    "phone_number": "+91 74001 97567",
+    "website": "https://www.hamperland.in/",
+    "rating": 4.8,
+    "reviews_count": 322,
+    "address": "Shop No. 3, Swastik Plaza, Pokhran Road, 2, Thane (W, beside Dominos Pizza, Thane, Maharashtra 400601",
+    "area": "Swastik Garden, Thane West",
+    "latitude": 19.2168432,
+    "longitude": 72.9719794,
+    "place_id": "ChIJM1Sjwxe55zsRZvuciXRS8xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1Sjwxe55zsRZvuciXRS8xo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:04:12"
+  }
+]

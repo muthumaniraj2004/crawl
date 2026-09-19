@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharti Nursing Care",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Home health care service, Nursing agency",
+    "pincode": "194105",
+    "phone_number": "+91 70068 32169",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "House, no. 308 A, 308, Shastri Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Shastri Nagar",
+    "latitude": 32.6929328,
+    "longitude": 74.858144,
+    "place_id": "ChIJHfxMR5KFHjkRl2dkorzXQcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfxMR5KFHjkRl2dkorzXQcc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:27:06"
+  },
+  {
+    "business_name": "G Health Care at Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "194105",
+    "phone_number": "+91 79768 93179",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 24,
+    "address": "220, Ladhewali Rd, near Guru Ravidass Ji Gurdwara Sahib, Ladhewali, Jalandhar, Punjab 144007",
+    "area": "Ladhewali",
+    "latitude": 31.322552299999998,
+    "longitude": 75.6274588,
+    "place_id": "ChIJpX9Yn2lZGjkRFVbZNHCi7zQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpX9Yn2lZGjkRFVbZNHCi7zQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:27:06"
+  }
+]

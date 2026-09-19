@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hkgn Car Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "193221",
+    "phone_number": "+91 88619 17054",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Devanahalli, Karnataka 562110",
+    "area": "Devanahalli",
+    "latitude": 13.257003,
+    "longitude": 77.7161627,
+    "place_id": "ChIJg5JGsZDisTsRfq4fTQOZvPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5JGsZDisTsRfq4fTQOZvPs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:48:25"
+  },
+  {
+    "business_name": "S.A CAR GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "193221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kodi Kannur, Karnataka 563101",
+    "area": "193221",
+    "latitude": 13.1597488,
+    "longitude": 78.1374012,
+    "place_id": "ChIJR95L9sbwrTsR2UfccJ9eDhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR95L9sbwrTsR2UfccJ9eDhQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:48:26"
+  }
+]

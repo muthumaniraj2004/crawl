@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Resto& Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "193201",
+    "phone_number": "+91 96223 68038",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Hadipora Main Rd, Sopore, Jammu and Kashmir 193201",
+    "area": "193201",
+    "latitude": 34.2960918,
+    "longitude": 74.4082049,
+    "place_id": "ChIJ1VnJz78P4TgRQpFk3CUIR68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VnJz78P4TgRQpFk3CUIR68",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:46:18"
+  },
+  {
+    "business_name": "Teejay’s Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "193201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "U2 PLAZA, BYPASS ROAD, Sopore, Jammu and Kashmir 193201",
+    "area": "193201",
+    "latitude": 34.2663666,
+    "longitude": 74.4552456,
+    "place_id": "ChIJqRqSVywJ4TgRN1kCA71LdBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRqSVywJ4TgRN1kCA71LdBc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:46:18"
+  }
+]

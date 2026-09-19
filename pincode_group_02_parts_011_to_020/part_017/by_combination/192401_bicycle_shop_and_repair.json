@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvind Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Used bicycle shop",
+    "pincode": "192401",
+    "phone_number": "+91 98205 54252",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Majiwada Rd, opposite to Fatima Church, Majiwada Village, Tirumala Society, Sainath Nagar, Majiwada, Thane, Maharashtra 400601",
+    "area": "Majiwada Village, Tirumala Society, Sainath Nagar, Majiwada",
+    "latitude": 19.214203599999998,
+    "longitude": 72.981771,
+    "place_id": "ChIJzzxnzwq55zsRUSg7aFQqSRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzxnzwq55zsRUSg7aFQqSRU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:24"
+  },
+  {
+    "business_name": "Anand Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "192401",
+    "phone_number": "+91 97631 58899",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J 1/10, Old City, N 8, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Vishwakarma Co Operative Housing Society, N 8, Yashashri Colony N 8",
+    "latitude": 19.8927609,
+    "longitude": 75.3545891,
+    "place_id": "ChIJG7DTHLKi2zsRbLOqXSywHfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7DTHLKi2zsRbLOqXSywHfM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:25"
+  }
+]

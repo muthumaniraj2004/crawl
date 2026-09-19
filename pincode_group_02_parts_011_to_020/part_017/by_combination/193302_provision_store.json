@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dar General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "193302",
+    "phone_number": "+91 99066 72970",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "10, Pohrupeth, Kupwara, Jammu and Kashmir 193222",
+    "area": "193302",
+    "latitude": 34.3940625,
+    "longitude": 74.3481852,
+    "place_id": "ChIJLQP1SQkb4TgRmEHeEgTSyhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQP1SQkb4TgRmEHeEgTSyhw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:57:58"
+  },
+  {
+    "business_name": "Javaid General store langate",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "193302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "98F4+WPX, Langait, Jammu and Kashmir 193302",
+    "area": "193302",
+    "latitude": 34.374854,
+    "longitude": 74.30684699999999,
+    "place_id": "ChIJ_aJlXgAd4TgRJhAQz3NF5No",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aJlXgAd4TgRJhAQz3NF5No",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:57:58"
+  }
+]

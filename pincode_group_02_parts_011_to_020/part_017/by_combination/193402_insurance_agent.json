@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheen Paradise",
+    "search_category": "Insurance Agent",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency, Tour operator",
+    "pincode": "193402",
+    "phone_number": "+91 97977 30514",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 167,
+    "address": "Srinagar - Gulmarg Rd, opp. J&K Bank, Tangmarg, Gulmarg, Jammu and Kashmir 193402",
+    "area": "193402",
+    "latitude": 34.060852499999996,
+    "longitude": 74.4247164,
+    "place_id": "ChIJI7RwRQel4TgRsMgM18Uip1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7RwRQel4TgRsMgM18Uip1Q",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:06:12"
+  },
+  {
+    "business_name": "Global edge travels",
+    "search_category": "Insurance Agent",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "193402",
+    "phone_number": "N/A",
+    "website": "https://globaledgetravels.in/",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "national highway, gulmarg, Gokhama, srinagar, Jammu and Kashmir 193404",
+    "area": "gulmarg",
+    "latitude": 34.0783097,
+    "longitude": 74.48855189999999,
+    "place_id": "ChIJjT2VmRul4TgRZkYXfiZ0gOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjT2VmRul4TgRZkYXfiZ0gOU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:06:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prudential Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Coworking space, Leasing service, Office space rental agency, Property investment company, Real estate rental agency, Retail space rental agency",
+    "pincode": "193109",
+    "phone_number": "+91 99086 22295",
+    "website": "https://www.prudentialrealty.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Raheja IT Park, SBR Pearl, 301 & 302 Huda Techno Enclave Ph -II Hitec City, opp. Mindspace, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Phase 2, Madhapur",
+    "latitude": 17.441681199999998,
+    "longitude": 78.37686479999999,
+    "place_id": "ChIJq6qq2h-UyzsRJKSO5uo39I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2h-UyzsRJKSO5uo39I4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:40:45"
+  },
+  {
+    "business_name": "Mumbai Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Property management company, Real estate appraiser, Real estate rental agency",
+    "pincode": "193109",
+    "phone_number": "+91 92222 37999",
+    "website": "http://www.mumbairealors.in/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Jai Ram Krishna Society, Jeevan Nagar, LIC Housing Colony, Mulund East, Mumbai, Maharashtra 400081",
+    "area": "Jai Ram Krishna Society, Jeevan Nagar, LIC Housing Colony, Mulund East",
+    "latitude": 19.16459,
+    "longitude": 72.95486389999999,
+    "place_id": "ChIJJ2bRsFi55zsRp5oYFphdxck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2bRsFi55zsRp5oYFphdxck",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:40:45"
+  }
+]

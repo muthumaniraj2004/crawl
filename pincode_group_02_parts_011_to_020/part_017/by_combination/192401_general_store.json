@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MIR GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192401",
+    "phone_number": "+91 70515 55514",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2 ,GHULAM RASOOL MIR BANPORA, JAMIA MASJID, Anantnag, Jammu and Kashmir 192401",
+    "area": "JAMIA MASJID",
+    "latitude": 33.8770405,
+    "longitude": 75.2466894,
+    "place_id": "ChIJayRez2cX4jgR64VKfXkr59g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayRez2cX4jgR64VKfXkr59g",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:50"
+  },
+  {
+    "business_name": "Irfan General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R5CM+2J9, Banpora, Hati Gam, Jammu and Kashmir 192401",
+    "area": "Banpora",
+    "latitude": 33.819967399999996,
+    "longitude": 75.18403459999999,
+    "place_id": "ChIJDRNFZwAR4jgR4vi3LlSMSXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRNFZwAR4jgR4vi3LlSMSXk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:52"
+  }
+]

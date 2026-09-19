@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukrala Vijay Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "194105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "PV6M+QR8, Narwal, Transportnagar, Jammu, Jammu and Kashmir 180006",
+    "area": "Narwal, Transportnagar",
+    "latitude": 32.711903299999996,
+    "longitude": 74.8845734,
+    "place_id": "ChIJQ8swSAmDHjkRT0cWjr89k64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8swSAmDHjkRT0cWjr89k64",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:27:16"
+  },
+  {
+    "business_name": "Amar Travel Agency",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency",
+    "pincode": "194105",
+    "phone_number": "+91 93556 57000",
+    "website": "https://amartravelagency.co.in/",
+    "rating": 4.9,
+    "reviews_count": 649,
+    "address": "Bareilly - Nainital Rd, opp. Sen Thersa School, Shishmahal, Kathgodam, Haldwani, Uttarakhand 263126",
+    "area": "Shishmahal, Kathgodam",
+    "latitude": 29.2545711,
+    "longitude": 79.5422191,
+    "place_id": "ChIJMezCVJOboDkRVIj23rJWpUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMezCVJOboDkRVIj23rJWpUA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:27:16"
+  }
+]

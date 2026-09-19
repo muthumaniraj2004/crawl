@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muhammads clinical lab",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "193221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "97WJ+JVP, Banday Mohalla, Durashpora, Handwara, Jammu and Kashmir 193221",
+    "area": "Banday Mohalla, Durashpora",
+    "latitude": 34.3965961,
+    "longitude": 74.2822116,
+    "place_id": "ChIJi68lNwAd4TgRWjF3v7kLdsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi68lNwAd4TgRWjF3v7kLdsg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:48:18"
+  },
+  {
+    "business_name": "Primary Health Center Behnipora",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Medical laboratory",
+    "pincode": "193221",
+    "phone_number": "+91 88991 98309",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Behnipora herpora, Rajwar zachaldara, Handwara, Jammu and Kashmir 193224",
+    "area": "193221",
+    "latitude": 34.407416999999995,
+    "longitude": 74.1359587,
+    "place_id": "ChIJDwVdCZLj4DgRHKxhqLR1osU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwVdCZLj4DgRHKxhqLR1osU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:48:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barkat flour machine",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "193122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "54CH+PQM, Salamabad Dachhna, 193123",
+    "area": "193122",
+    "latitude": 34.1718488,
+    "longitude": 74.1294336,
+    "place_id": "ChIJaR2RD19V4DgReJwULFHmjfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaR2RD19V4DgReJwULFHmjfE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:42:45"
+  },
+  {
+    "business_name": "Aradhya atta chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "193122",
+    "phone_number": "+91 78895 91957",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "R/o, Thalwal, Jammu and Kashmir 180002",
+    "area": "193122",
+    "latitude": 32.704435,
+    "longitude": 74.78128559999999,
+    "place_id": "ChIJORNVG8KPHjkR9YIWyYHCyR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORNVG8KPHjkR9YIWyYHCyR8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:42:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Halal Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "194401",
+    "phone_number": "+91 99064 45852",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Near Block Vijaypur Nh 44, Jammu and Kashmir 184120",
+    "area": "194401",
+    "latitude": 32.566670099999996,
+    "longitude": 75.0213435,
+    "place_id": "ChIJrzQONAAhHDkRSfV_kEmQuEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzQONAAhHDkRSfV_kEmQuEo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:41:25"
+  },
+  {
+    "business_name": "3 Brothers Poultry Dealer",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "194401",
+    "phone_number": "0355 5354359",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8J2J+38J, opposite Qatalgah and 1st transformer from Bazar Side, Sukkadamedan, Skardu",
+    "area": "Sukkadamedan",
+    "latitude": 35.300218099999995,
+    "longitude": 75.63075909999999,
+    "place_id": "ChIJGV-0cqZj5DgR9oi66C0IcWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGV-0cqZj5DgR9oi66C0IcWA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:41:27"
+  }
+]

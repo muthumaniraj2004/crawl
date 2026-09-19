@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Coffee",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "193225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "9WJ2+87, Lankam, Andhra Pradesh 532187",
+    "area": "193225",
+    "latitude": 18.3808558,
+    "longitude": 83.9007203,
+    "place_id": "ChIJV2NoBSJrPDoR6mQSmJMoOFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2NoBSJrPDoR6mQSmJMoOFA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:54:45"
+  },
+  {
+    "business_name": "Ajay tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "193225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PVG4+JRR, Resham Ghar Colony, Jammu, Jammu and Kashmir 180016",
+    "area": "Resham Ghar Colony",
+    "latitude": 32.726601599999995,
+    "longitude": 74.8570259,
+    "place_id": "ChIJHRsJJACFHjkRzIxLQGCOyzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRsJJACFHjkRzIxLQGCOyzE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:54:46"
+  }
+]

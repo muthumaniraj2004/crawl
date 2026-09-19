@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keylinga taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service",
+    "pincode": "194302",
+    "phone_number": "+91 70187 78410",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lower keylong village, Keylong, Himachal Pradesh 175132",
+    "area": "Lower keylong village",
+    "latitude": 32.5731144,
+    "longitude": 77.02351569999999,
+    "place_id": "ChIJZcHJ9kV7AzkRdL77n1OmmbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcHJ9kV7AzkRdL77n1OmmbQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:38:34"
+  },
+  {
+    "business_name": "Indore Cab Service®",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Minibus taxi service, Tour agency, Tour operator, Transportation service",
+    "pincode": "194302",
+    "phone_number": "+91 62620 26262",
+    "website": "https://www.indorecabservice.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "64, Geeta Nagar, Dhar Rd, Indore, Madhya Pradesh 452002",
+    "area": "Geeta Nagar",
+    "latitude": 22.7068904,
+    "longitude": 75.8224961,
+    "place_id": "ChIJTaLH3Vj9YjkR4siBYUHnT4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaLH3Vj9YjkR4siBYUHnT4E",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:38:35"
+  }
+]

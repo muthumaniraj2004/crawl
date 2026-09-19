@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jhatka Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "192401",
+    "phone_number": "+91 95969 09579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Amphalla Road, opposite district jail, Ambphalla, Jammu, Jammu and Kashmir 180005",
+    "area": "Ambphalla",
+    "latitude": 32.7464381,
+    "longitude": 74.8633471,
+    "place_id": "ChIJD8rk5fuFHjkRAOihoVZonXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8rk5fuFHjkRAOihoVZonXU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:50"
+  },
+  {
+    "business_name": "Khass Poultry",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store",
+    "pincode": "192401",
+    "phone_number": "+91 70066 46121",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "Ganderbal, Jammu and Kashmir 191201",
+    "area": "192401",
+    "latitude": 34.2314717,
+    "longitude": 74.76959099999999,
+    "place_id": "ChIJN_sWU_md4TgRQqF7pGXKFN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_sWU_md4TgRQqF7pGXKFN8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:52"
+  }
+]

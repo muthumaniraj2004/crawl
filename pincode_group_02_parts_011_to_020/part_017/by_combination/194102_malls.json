@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Callista The Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "194102",
+    "phone_number": "N/A",
+    "website": "http://callistabardoli.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Callista The Mall Vidhya Bharti College Opp. Empire Square, Baben, Bardoli, Gujarat 394601",
+    "area": "Baben",
+    "latitude": 21.148756,
+    "longitude": 73.08928999999999,
+    "place_id": "ChIJ4dk4w2Fd4DsRdb2Bx-DwVhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dk4w2Fd4DsRdb2Bx-DwVhI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:23:24"
+  },
+  {
+    "business_name": "Decathlon Sankoo",
+    "search_category": "Malls",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "194102",
+    "phone_number": "+91 80824 02579",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, Decathlon, near SBI BANK Main Market, Sankoo, Ladakh 194301",
+    "area": "194102",
+    "latitude": 34.2883194,
+    "longitude": 75.962375,
+    "place_id": "ChIJvad-VEjl4jgR0qsJEtLVg2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvad-VEjl4jgR0qsJEtLVg2A",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:23:24"
+  }
+]

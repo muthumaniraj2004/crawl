@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hans Kumar Bohru",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "193303",
+    "phone_number": "+91 98110 01404",
+    "website": "https://hanskumar.com/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "1Km Stone Gurgaon Road, 25, Janaula, Gurugram, Haryana 122503",
+    "area": "193303",
+    "latitude": 28.3362646,
+    "longitude": 76.7878231,
+    "place_id": "ChIJPavAO9ZBDTkRQRqLD26n8OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPavAO9ZBDTkRQRqLD26n8OA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:01:04"
+  },
+  {
+    "business_name": "Prime property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "193303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zen Gardens, Block-B, Halasuru, Jeevan Kendra Layout, Karnataka 560008",
+    "area": "Halasuru, Jeevan Kendra Layout",
+    "latitude": 12.9688798,
+    "longitude": 77.62752979999999,
+    "place_id": "ChIJ0QarvCcXrjsRHJuxh7Twb0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QarvCcXrjsRHJuxh7Twb0Y",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:01:04"
+  }
+]

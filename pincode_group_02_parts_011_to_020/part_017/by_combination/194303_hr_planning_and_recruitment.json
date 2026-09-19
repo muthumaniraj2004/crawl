@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zeet hr consultancy",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "194303",
+    "phone_number": "N/A",
+    "website": "https://www.zeethr.com/about",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "plot no. P, 2, Netaji Subhash Place, Shakurpur, Delhi, 110034",
+    "area": "Netaji Subhash Place, Shakurpur",
+    "latitude": 28.6918972,
+    "longitude": 77.1474539,
+    "place_id": "ChIJAxTBamoDDTkRPCmdqVivysI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxTBamoDDTkRPCmdqVivysI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:41:01"
+  },
+  {
+    "business_name": "Sector 17 gurugram",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "194303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F3H6+M93, Hanuman nagar, Sector 17A, Sector 17, Gurugram, Haryana 122007",
+    "area": "Hanuman nagar, Sector 17A, Sector 17",
+    "latitude": 28.479140599999997,
+    "longitude": 77.0609259,
+    "place_id": "ChIJe1KzQwAZDTkRmvE8LXt7U7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1KzQwAZDTkRmvE8LXt7U7I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:41:02"
+  }
+]

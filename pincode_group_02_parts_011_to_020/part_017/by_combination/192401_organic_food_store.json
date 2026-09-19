@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sattva foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "192401",
+    "phone_number": "+91 88064 20420",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 22,
+    "address": "Bhagya Nagar Road, Uday Nagar 2, Irrigation Colony, Peer Burhan Nagar, kaman, Nanded, Maharashtra 431605",
+    "area": "Uday Nagar 2, Irrigation Colony, Peer Burhan Nagar",
+    "latitude": 19.177305999999998,
+    "longitude": 77.30934429999999,
+    "place_id": "ChIJvzWYZhDX0TsRtULwJIDBQ5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzWYZhDX0TsRtULwJIDBQ5E",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:48"
+  },
+  {
+    "business_name": "Ayuda Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Cattle farm, Cosmetics store, Dairy store, Health food store, Milk delivery service, Natural goods store, Organic farm, Organic shop, Produce market",
+    "pincode": "192401",
+    "phone_number": "+91 94848 02383",
+    "website": "http://www.ayudaorganics.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop-19, 6, Prernatirth Derasar Rd, opp. Ratnanjali Square, opp. HDFC Bank, Vraj Vihar, Satellite, Ahmedabad, Gujarat 380015",
+    "area": "Vraj Vihar, Satellite",
+    "latitude": 23.0148385,
+    "longitude": 72.5179632,
+    "place_id": "ChIJ4dBM0fWbXjkRyG_8_n4nYNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dBM0fWbXjkRyG_8_n4nYNI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:49"
+  }
+]

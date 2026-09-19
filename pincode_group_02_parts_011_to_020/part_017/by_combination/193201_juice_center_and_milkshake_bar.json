@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Lounge",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "193201",
+    "phone_number": "+91 90290 46899",
+    "website": "http://www.juicelounge.in/",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Infiniti Mall, New Link Road, Andheri Lokhandwala, Mumbai, P Tandon Marg, Shastri Nagar D Phase, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Phase D, Shastri Nagar, Andheri West",
+    "latitude": 19.1412358,
+    "longitude": 72.83119889999999,
+    "place_id": "ChIJb2gEqz225zsRzqXogF2lsbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2gEqz225zsRzqXogF2lsbY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:46:13"
+  },
+  {
+    "business_name": "Juice Factory - Ambikapur",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "193201",
+    "phone_number": "+91 1800 889 1434",
+    "website": "https://juicefactory.info/menu",
+    "rating": 3.9,
+    "reviews_count": 299,
+    "address": "Ambedkar (Banaras)Chowk, Infront of Levi's Showroom, Ambikapur, CG, Chhattisgarh 497001",
+    "area": "193201",
+    "latitude": 23.1318214,
+    "longitude": 83.1814627,
+    "place_id": "ChIJterOzHyjiTkRfht00Z0Afso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJterOzHyjiTkRfht00Z0Afso",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:46:15"
+  }
+]

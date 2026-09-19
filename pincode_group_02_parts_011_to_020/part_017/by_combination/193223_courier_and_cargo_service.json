@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sofi Enterprises",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Clothing store",
+    "pincode": "193223",
+    "phone_number": "+91 91497 30272",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jammu and Kashmir 193502",
+    "area": "193223",
+    "latitude": 34.3514853,
+    "longitude": 74.49670449999999,
+    "place_id": "ChIJyZEnBipz4TgRfGjVhcFM87c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZEnBipz4TgRfGjVhcFM87c",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:52:35"
+  },
+  {
+    "business_name": "Postoffice dardpora lolab",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "193223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "FFJ2+MH, Dardpora, Khurhama, Jammu and Kashmir 193223",
+    "area": "Dardpora",
+    "latitude": 34.4796196,
+    "longitude": 74.4529433,
+    "place_id": "ChIJ8dygtMgX4TgR4MCmo4lPc9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dygtMgX4TgR4MCmo4lPc9U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:52:35"
+  }
+]

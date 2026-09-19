@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Softy Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "194102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "National Highway 1 Bulgam Jammu and Kashmir, 193202",
+    "area": "194102",
+    "latitude": 34.4147314,
+    "longitude": 75.8647811,
+    "place_id": "ChIJAYaOGhoD4zgReft4G9joQdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYaOGhoD4zgReft4G9joQdE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:22:01"
+  },
+  {
+    "business_name": "Wani Softy & Ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "194102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "National Highway 1 Bulgam Jammu and Kashmir, 193202",
+    "area": "194102",
+    "latitude": 34.4155812,
+    "longitude": 75.8550582,
+    "place_id": "ChIJA59z80ID4zgR47evMfTxaXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA59z80ID4zgR47evMfTxaXE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:22:01"
+  }
+]

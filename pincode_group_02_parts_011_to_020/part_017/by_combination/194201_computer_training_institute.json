@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pangong computer center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4HXC+5CQ, Leh, 194101",
+    "area": "194201",
+    "latitude": 34.1479718,
+    "longitude": 77.5711158,
+    "place_id": "ChIJZfeMuXTr_TgRyD13rKedsJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfeMuXTr_TgRyD13rKedsJ0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:34:16"
+  },
+  {
+    "business_name": "S.C.I.T Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "194201",
+    "phone_number": "+91 88811 57655",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Road, Mankapur, Peher, Husainabad, Uttar Pradesh 271604",
+    "area": "Mankapur",
+    "latitude": 27.251686,
+    "longitude": 82.3392547,
+    "place_id": "ChIJsdfqaw1dlzkRDHzLt1zh9dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdfqaw1dlzkRDHzLt1zh9dk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:34:17"
+  }
+]

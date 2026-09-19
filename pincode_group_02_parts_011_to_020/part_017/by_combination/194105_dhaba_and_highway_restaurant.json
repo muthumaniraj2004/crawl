@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star highway dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Breakfast restaurant, North Indian restaurant",
+    "pincode": "194105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chula mor, Haryana 124501",
+    "area": "194105",
+    "latitude": 28.8128696,
+    "longitude": 76.7176557,
+    "place_id": "ChIJZ6QL2TCcDTkRSlhHb-AEBds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6QL2TCcDTkRSlhHb-AEBds",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:26:50"
+  },
+  {
+    "business_name": "Alpine Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "194105",
+    "phone_number": "+91 73476 31103",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 21, Bharatgarh, Punjab 140113",
+    "area": "194105",
+    "latitude": 31.082443899999998,
+    "longitude": 76.6027379,
+    "place_id": "ChIJDZcWu0lQBTkRgtfT66LsK_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZcWu0lQBTkRgtfT66LsK_8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:26:50"
+  }
+]

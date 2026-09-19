@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adorable Event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Party planner, Wedding planner",
+    "pincode": "192401",
+    "phone_number": "+91 90790 95575",
+    "website": "https://adorableevent.in/",
+    "rating": 4.8,
+    "reviews_count": 63,
+    "address": "Shop 9, First Floor, Shubham Garments, Tonk Rd, opp. glass factory, Ram Nagar Colony, Dev Nagar, Tonk Phatak, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Ram Nagar Colony, Dev Nagar, Tonk Phatak",
+    "latitude": 26.8697266,
+    "longitude": 75.7968439,
+    "place_id": "ChIJYfg2Viq1bTkRu7xjIlboN5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfg2Viq1bTkRu7xjIlboN5I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:52"
+  },
+  {
+    "business_name": "Surprise Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Flower delivery, Party planner, Home Stay, Wedding photographer, Wedding planner, Wedding venue",
+    "pincode": "192401",
+    "phone_number": "+91 91169 18882",
+    "website": "https://surpriseplanner.in/",
+    "rating": 4.5,
+    "reviews_count": 414,
+    "address": "803, Block E, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Block E, Vaishali Nagar",
+    "latitude": 26.9104124,
+    "longitude": 75.7445661,
+    "place_id": "ChIJW9oJej61bTkRZzRjkdhZqnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9oJej61bTkRZzRjkdhZqnw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:52"
+  }
+]

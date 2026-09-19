@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rose N Petal",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Bakery and Cake Shop, Cake shop, Corporate gift supplier, Flower delivery, Flower designer, Flower market, Gift shop, Toy store, Wedding bakery",
+    "pincode": "192401",
+    "phone_number": "+91 73550 80808",
+    "website": "https://rosenpetal.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Quite, OFFICE, 1, opposite Khukrain Bhawan, Sector 35A, 35A, Sector 35, Chandigarh, 160022",
+    "area": "Sector 35A, 35A, Sector 35",
+    "latitude": 30.729255,
+    "longitude": 76.75784399999999,
+    "place_id": "ChIJn-SnTMrtDzkR3PddAPo64kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-SnTMrtDzkR3PddAPo64kE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:43"
+  },
+  {
+    "business_name": "BLOSSOM EVENTS",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "192401",
+    "phone_number": "+91 84451 61261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Sagar sarai, Budh Bazaar, Moradabad, Uttar Pradesh 244001",
+    "area": "Budh Bazaar",
+    "latitude": 28.835550899999998,
+    "longitude": 78.7726189,
+    "place_id": "ChIJ59XTptT7CjkRq0FrDOT0cbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59XTptT7CjkRq0FrDOT0cbw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:44"
+  }
+]

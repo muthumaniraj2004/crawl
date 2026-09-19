@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather Lounge",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop",
+    "pincode": "193403",
+    "phone_number": "+91 40 6668 5845",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shop No. 12, Model House, Lakshmi Narsimha Nagar Rd, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Dwarakapuri, Punjagutta",
+    "latitude": 17.4241411,
+    "longitude": 78.45323719999999,
+    "place_id": "ChIJv2a_kEqXyzsRYCVEuW-ouXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2a_kEqXyzsRYCVEuW-ouXE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:06:54"
+  },
+  {
+    "business_name": "Indian Leather Manufacturer",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Leather Exporter, Leather goods supplier",
+    "pincode": "193403",
+    "phone_number": "+91 72890 10100",
+    "website": "https://www.indianleathermanufacturer.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "RZ- 412/13, Tughlakabad Extension, Tughlakabad, New Delhi, Delhi 110019",
+    "area": "Tughlakabad Extension, Tughlakabad",
+    "latitude": 28.522824399999998,
+    "longitude": 77.2609233,
+    "place_id": "ChIJbW8orGrhDDkRxr4G5jeJ5UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbW8orGrhDDkRxr4G5jeJ5UM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:06:56"
+  }
+]

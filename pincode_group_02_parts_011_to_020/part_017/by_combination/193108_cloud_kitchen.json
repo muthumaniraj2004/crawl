@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghar The Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "193108",
+    "phone_number": "+91 91008 63933",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot #145, Golden Mile Layout Rd, beside Tea Cube, Colony, Hyderabad, Telangana 500075",
+    "area": "Colony",
+    "latitude": 17.3987248,
+    "longitude": 78.3329308,
+    "place_id": "ChIJf4BIY8GVyzsRkPcrIm1cFZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4BIY8GVyzsRkPcrIm1cFZQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:37:56"
+  },
+  {
+    "business_name": "IVASA CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Caterer",
+    "pincode": "193108",
+    "phone_number": "+91 81796 89898",
+    "website": "http://www.ivasacloudkitchen.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vidya Nagar Rd, Ram Nagar Gundu, Adikmet, Hyderabad, Telangana 500044",
+    "area": "Ram Nagar Gundu, Adikmet",
+    "latitude": 17.402503799999998,
+    "longitude": 78.50812839999999,
+    "place_id": "ChIJG8bJGCOZyzsRUNJCqC8ov8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8bJGCOZyzsRUNJCqC8ov8E",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:37:56"
+  }
+]

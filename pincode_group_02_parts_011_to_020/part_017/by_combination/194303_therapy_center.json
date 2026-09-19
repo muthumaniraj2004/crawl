@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Psychcare Therapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service",
+    "pincode": "194303",
+    "phone_number": "+91 88858 00560",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "5th floor, Sri Keertis Residency, Seshadri Marg, behind Mataji Traders, Park Avenue Colony, Raja Rajeshwara Nagar, Gachibowli, Hyderabad, Telangana 500084",
+    "area": "Park Avenue Colony, Raja Rajeshwara Nagar, Gachibowli",
+    "latitude": 17.4695341,
+    "longitude": 78.35598569999999,
+    "place_id": "ChIJS74tbQaTyzsRiMZnNLoaCsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS74tbQaTyzsRiMZnNLoaCsY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:40:37"
+  },
+  {
+    "business_name": "Tiny Todds Therapy Care",
+    "search_category": "Therapy Center",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist, Speech & Hearing Specialist",
+    "pincode": "194303",
+    "phone_number": "+91 72995 35600",
+    "website": "http://www.tinytoddstherapycare.com/",
+    "rating": 4.7,
+    "reviews_count": 34,
+    "address": "No.28,29, ICICI Bank Building, Ayyasamy St, West Tambaram, Tambaram, Tamil Nadu 600045",
+    "area": "West Tambaram, Tambaram",
+    "latitude": 12.9286304,
+    "longitude": 80.1159311,
+    "place_id": "ChIJkS7p1-1fUjoRnjqTFxVP_Kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkS7p1-1fUjoRnjqTFxVP_Kk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:40:39"
+  }
+]

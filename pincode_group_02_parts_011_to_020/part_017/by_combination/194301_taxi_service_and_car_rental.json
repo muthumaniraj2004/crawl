@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JK Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "194301",
+    "phone_number": "+91 94192 21270",
+    "website": "https://jkcabservice.com/",
+    "rating": 5,
+    "reviews_count": 421,
+    "address": "Boulevard Rd, near Pinegrove Hotel, Durgjan, Srinagar, Jammu and Kashmir 190001",
+    "area": "Durgjan",
+    "latitude": 34.084960099999996,
+    "longitude": 74.8383063,
+    "place_id": "ChIJU0uSTWeP4TgRCwtHQEcRPds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0uSTWeP4TgRCwtHQEcRPds",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:36:54"
+  },
+  {
+    "business_name": "Guruji Travels Pvt.Ltd.",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service, Tour agency, Tour operator, Travel agency",
+    "pincode": "194301",
+    "phone_number": "+91 97162 21106",
+    "website": "https://gurujitravel.com/",
+    "rating": 4.7,
+    "reviews_count": 2840,
+    "address": "Kh.No.691/1, 1st Floor Main, Road, Burari, Delhi, 110084",
+    "area": "Conductor Colony, Burari",
+    "latitude": 28.7529167,
+    "longitude": 77.19914349999999,
+    "place_id": "ChIJOzR_W4YBDTkRVDWDni9Dwt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzR_W4YBDTkRVDWDni9Dwt8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:36:55"
+  }
+]

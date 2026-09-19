@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kotorpa general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zanagmana, Leh, Choglamsar, Ladakh 194101",
+    "area": "Zanagmana",
+    "latitude": 34.1155724,
+    "longitude": 77.5915235,
+    "place_id": "ChIJkVsu3n3t_TgRW_Fvr9I5-WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVsu3n3t_TgRW_Fvr9I5-WI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:15"
+  },
+  {
+    "business_name": "Singay General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5H7P+38W, Leh, Ladakh 194101",
+    "area": "194201",
+    "latitude": 34.1625753,
+    "longitude": 77.5856146,
+    "place_id": "ChIJWeNYBgDr_TgRocV-5PYOdNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeNYBgDr_TgRocV-5PYOdNo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:17"
+  }
+]

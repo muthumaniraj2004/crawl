@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "194201",
+    "phone_number": "+91 94691 41558",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KHANDI, TAIKAT, KARGIL, JAMMU & KASHMIR 194103",
+    "area": "KHANDI",
+    "latitude": 33.85,
+    "longitude": 77.85,
+    "place_id": "ChIJV_4BgsYBAjkRFYQXyezNon8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_4BgsYBAjkRFYQXyezNon8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:34:21"
+  },
+  {
+    "business_name": "Srinagar Net Tech Private Limited",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "194201",
+    "phone_number": "+91 97969 93811",
+    "website": "https://www.sntisp.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Skalzaling, Leh, Ladakh 194104",
+    "area": "Skalzaling",
+    "latitude": 34.1525864,
+    "longitude": 77.57705349999999,
+    "place_id": "ChIJ8W8uYIXr_TgRjwgk-DrzgG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W8uYIXr_TgRjwgk-DrzgG4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:34:23"
+  }
+]

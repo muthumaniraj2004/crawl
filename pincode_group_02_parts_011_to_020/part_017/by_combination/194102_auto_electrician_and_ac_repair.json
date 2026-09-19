@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himachal Cars",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Air compressor repair service, Auto body shop, Auto glass repair service, Auto painting, Auto parts store, Auto restoration service, Insurance company, Small engine repair service, Wheel alignment service",
+    "pincode": "194102",
+    "phone_number": "+91 98178 99999",
+    "website": "http://www.himachalcars.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "V.p.o, NH154, National Highway, opposite to Volkswagen, Kholi, Kangra, Himachal Pradesh 176056",
+    "area": "194102",
+    "latitude": 32.1098341,
+    "longitude": 76.31156279999999,
+    "place_id": "ChIJFwAAAFFOGzkRtlDf8PB-NpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwAAAFFOGzkRtlDf8PB-NpA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:22:24"
+  },
+  {
+    "business_name": "Bharat Car Ac Repairing Center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Repairs",
+    "pincode": "194102",
+    "phone_number": "+91 98371 65752",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dayal arcade, Bypass Rd, in front of Shree Talkies, Nagla Padi, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282005",
+    "area": "Nagla Padi, Indra Puri, New Agra Colony",
+    "latitude": 27.210092,
+    "longitude": 78.0080892,
+    "place_id": "ChIJW6r7nVp3dDkRw48Rhf3dZQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6r7nVp3dDkRw48Rhf3dZQs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:22:25"
+  }
+]

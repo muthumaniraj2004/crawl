@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wellness and yoga centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "193101",
+    "phone_number": "+91 70066 15721",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kralhar, Baramulla, Kanispora, Jammu and Kashmir 193101",
+    "area": "Kralhar",
+    "latitude": 34.2173016,
+    "longitude": 74.3884805,
+    "place_id": "ChIJB0sFBkkH4TgR3y0MWf2YzcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0sFBkkH4TgR3y0MWf2YzcQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:34:56"
+  },
+  {
+    "business_name": "Augustam Yoga Classes Udhampur",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "193101",
+    "phone_number": "+91 94198 56535",
+    "website": "https://augustamyogacenter.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kallar Himiti, Rakh Kotli, Udhampur, Jammu and Kashmir 182101",
+    "area": "Kallar Himiti, Rakh Kotli",
+    "latitude": 32.917177599999995,
+    "longitude": 75.1428413,
+    "place_id": "ChIJ0V1l90_THTkRBKWQb2j4uUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0V1l90_THTkRBKWQb2j4uUs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:34:58"
+  }
+]

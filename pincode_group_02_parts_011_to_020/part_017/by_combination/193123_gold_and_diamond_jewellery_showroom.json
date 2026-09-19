@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Gold dealer, Goldsmith",
+    "pincode": "193123",
+    "phone_number": "0300 8118910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ejaaz Markeet, near Gulf Shopping Complex, Rawalakot",
+    "area": "193123",
+    "latitude": 33.8592314,
+    "longitude": 73.75966389999999,
+    "place_id": "ChIJCyIQUhRr4DgREEgP3D5d3ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyIQUhRr4DgREEgP3D5d3ik",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:44:37"
+  },
+  {
+    "business_name": "Paramount jewelers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "193123",
+    "phone_number": "+91 96224 42533",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tengpur Rd, Batamaloo, Srinagar, Jammu and Kashmir 190010",
+    "area": "Batamaloo",
+    "latitude": 34.0674454,
+    "longitude": 74.7906629,
+    "place_id": "ChIJlTqZXXGP4TgRDeZm4Ui_sio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTqZXXGP4TgRDeZm4Ui_sio",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:44:39"
+  }
+]

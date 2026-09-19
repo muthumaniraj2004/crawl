@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DownTown Leh",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "The Hunger, ChuTay Rantak, Chubi, Leh, Ladakh 194101",
+    "area": "ChuTay Rantak, Chubi",
+    "latitude": 34.1693141,
+    "longitude": 77.5793302,
+    "place_id": "ChIJ_Tdy5rvr_TgRRj2N451cdh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Tdy5rvr_TgRRj2N451cdh8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:23"
+  },
+  {
+    "business_name": "Serthi bar and restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WPFP+X37, Keylong-Leh Rd, Karu, 194201",
+    "area": "194201",
+    "latitude": 33.9249171,
+    "longitude": 77.7351765,
+    "place_id": "ChIJ2cZoNPb3_TgR7lBa3zclYsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cZoNPb3_TgR7lBa3zclYsc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:23"
+  }
+]

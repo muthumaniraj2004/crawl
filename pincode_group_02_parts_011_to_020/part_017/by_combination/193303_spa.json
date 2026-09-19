@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seasalt Family Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "193303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "FIRST FLOOR, F, SCO 6, E Block Market Rd, Near Orient Cinema, GHS Sunet, Bhai Randhir Singh Nagar, Ludhiana, Punjab 141012",
+    "area": "Near Orient Cinema, GHS Sunet, Bhai Randhir Singh Nagar",
+    "latitude": 30.886803099999998,
+    "longitude": 75.8048389,
+    "place_id": "ChIJj8iil3-BGjkRD8C-SjBwWog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8iil3-BGjkRD8C-SjBwWog",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:00:33"
+  },
+  {
+    "business_name": "Dé Spa Studio",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Make-up artist",
+    "pincode": "193303",
+    "phone_number": "+91 87150 75555",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 337,
+    "address": "29 D/C 1St Floor , Green Belt Road, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.706896,
+    "longitude": 74.8659869,
+    "place_id": "ChIJuT14YKOEHjkR8u2ad234B_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuT14YKOEHjkR8u2ad234B_I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:00:33"
+  }
+]

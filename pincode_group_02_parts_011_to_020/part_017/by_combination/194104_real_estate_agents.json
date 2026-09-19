@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpine Hoppers",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "194104",
+    "phone_number": "N/A",
+    "website": "http://www.alpinehoppers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Old Leh Rd, near Chospa Hotel, Leh, Ladakh 194101",
+    "area": "194104",
+    "latitude": 34.1612213,
+    "longitude": 77.5836297,
+    "place_id": "ChIJFQjM5WHr_TgRBlSTEy5_bzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQjM5WHr_TgRBlSTEy5_bzI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:26:25"
+  },
+  {
+    "business_name": "SD & Associates",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "194104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5H3G+V84, Library Rd, Leh, 194101",
+    "area": "194104",
+    "latitude": 34.1546285,
+    "longitude": 77.5758307,
+    "place_id": "ChIJ2-VDqUXr_TgR_ZoHNKFfbxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-VDqUXr_TgR_ZoHNKFfbxY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:26:26"
+  }
+]

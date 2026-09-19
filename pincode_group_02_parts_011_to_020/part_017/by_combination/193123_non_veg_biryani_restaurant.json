@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Shahi Darbar",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "193123",
+    "phone_number": "+91 95963 82947",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Baramulla NH-1A, Gantamulla Road, Uri, Jammu and Kashmir 193123",
+    "area": "193123",
+    "latitude": 34.0791646,
+    "longitude": 74.0562406,
+    "place_id": "ChIJn8NgqjVX4DgR-AWhHMrE7ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8NgqjVX4DgR-AWhHMrE7ho",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:44:29"
+  },
+  {
+    "business_name": "ROYAL CAFE URI",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "193123",
+    "phone_number": "+91 96227 27675",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Main road, Uri, Jammu and Kashmir 193123",
+    "area": "193123",
+    "latitude": 34.078396,
+    "longitude": 74.05718,
+    "place_id": "ChIJW1JwfX9X4DgR1MugV9wpoP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1JwfX9X4DgR1MugV9wpoP8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:44:29"
+  }
+]

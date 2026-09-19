@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Noor Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "193201",
+    "phone_number": "+91 91495 64419",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tehsil Road, Sopore, Jammu and Kashmir 193201",
+    "area": "193201",
+    "latitude": 34.286763,
+    "longitude": 74.462401,
+    "place_id": "ChIJFZTtSQAJ4TgRO95nr84jSzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZTtSQAJ4TgRO95nr84jSzg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:46:58"
+  },
+  {
+    "business_name": "Sheema's Glamour the women's world",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "193201",
+    "phone_number": "+91 60057 78792",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "near Eid Gah, Main Chowk, Sumbal, Tarzoo, Jammu and Kashmir 193504",
+    "area": "Main Chowk",
+    "latitude": 34.270007299999996,
+    "longitude": 74.4980885,
+    "place_id": "ChIJCdytz9AJ4TgRe4CgT-f-ZwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdytz9AJ4TgRe4CgT-f-ZwA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:46:59"
+  }
+]

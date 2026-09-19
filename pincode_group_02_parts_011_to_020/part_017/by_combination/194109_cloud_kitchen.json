@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "194109",
+    "phone_number": "+91 98110 16756",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Block A, Greenwood City, Sector 45, Gurugram, Haryana 122003",
+    "area": "Block A, Greenwood City, Sector 45",
+    "latitude": 28.446590999999998,
+    "longitude": 77.06595279999999,
+    "place_id": "ChIJ9XTzZxYZDTkRjOg1OockXFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XTzZxYZDTkRjOg1OockXFc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:31:50"
+  },
+  {
+    "business_name": "Sugran Biryani (cloud Kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "194109",
+    "phone_number": "+91 91455 89090",
+    "website": "http://www.sugaranbiryani.com/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "Flat No.102, Swagat Residency, near Rajaram Gas Agency, Shriram Nagar, Katraj, Pune, Maharashtra 411046",
+    "area": "Shriram Nagar, Katraj",
+    "latitude": 18.452284199999998,
+    "longitude": 73.8528168,
+    "place_id": "ChIJvZQyAE_rwjsR8jBIJI6N7QI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZQyAE_rwjsR8jBIJI6N7QI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:31:51"
+  }
+]

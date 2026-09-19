@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kash trade",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "192401",
+    "phone_number": "+91 70518 77065",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Veddy, Srigufwara, Jammu and Kashmir 192401",
+    "area": "Veddy",
+    "latitude": 33.8149462,
+    "longitude": 75.21414039999999,
+    "place_id": "ChIJAzWYoNYR4jgR9v87fvdPNjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzWYoNYR4jgR9v87fvdPNjw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:30"
+  },
+  {
+    "business_name": "Haji hardware general store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "192401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bijbehara, Pahalgam Rd, opposite apple valley resort, cheeniwader, Jammu and Kashmir 192401",
+    "area": "192401",
+    "latitude": 33.8053892,
+    "longitude": 75.1916518,
+    "place_id": "ChIJwaUCGgIR4jgR-2rC9lUuli0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaUCGgIR4jgR-2rC9lUuli0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:30"
+  }
+]

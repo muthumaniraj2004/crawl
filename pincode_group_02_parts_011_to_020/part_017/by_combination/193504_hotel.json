@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O by OYO POP Maryam Homestay",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "193504",
+    "phone_number": "+91 124 620 1520",
+    "website": "https://www.oyorooms.com/190121/",
+    "rating": 1.5,
+    "reviews_count": 2,
+    "address": "1281, Rampora Tulmulla, Ganderbal, Jammu and Kashmir 191131",
+    "area": "193504",
+    "latitude": 34.2168387,
+    "longitude": 74.75399759999999,
+    "place_id": "ChIJx3Qdy1id4TgR2obL7LySkgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3Qdy1id4TgR2obL7LySkgA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:46"
+  },
+  {
+    "business_name": "OYO Home Shugufta Villa Homestay",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "193504",
+    "phone_number": "+91 124 620 1520",
+    "website": "https://www.oyorooms.com/190120/",
+    "rating": 3.5,
+    "reviews_count": 10,
+    "address": "123, Rampora, Tulmulla, Jammu and Kashmir 191131",
+    "area": "193504",
+    "latitude": 34.2176779,
+    "longitude": 74.75481669999999,
+    "place_id": "ChIJ-c37cXCd4TgRnNWsOvgA0G8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-c37cXCd4TgRnNWsOvgA0G8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:46"
+  }
+]

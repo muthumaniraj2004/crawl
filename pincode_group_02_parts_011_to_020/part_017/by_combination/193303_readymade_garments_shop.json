@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Hub",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "193303",
+    "phone_number": "+91 97979 53021",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Hadipora Main Rd, Sopore, Jammu and Kashmir 193201",
+    "area": "193303",
+    "latitude": 34.292600799999995,
+    "longitude": 74.4450298,
+    "place_id": "ChIJ8V3TvRIJ4TgRHrsHHOLpIjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8V3TvRIJ4TgRHrsHHOLpIjU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:59:54"
+  },
+  {
+    "business_name": "Noble Garments Boutique",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing store, Saree Shop, Women's clothing store",
+    "pincode": "193303",
+    "phone_number": "+91 97865 80777",
+    "website": "https://instagram.com/noble_garments_tnj?igshid=OGQ5ZDc2ODk2ZA==",
+    "rating": 4.8,
+    "reviews_count": 187,
+    "address": "No 203, jubilee tower, opp. to Ramanathan hospital, VOC Nagar, Arulananda Nagar West Extension, Thanjavur, Tamil Nadu 613007",
+    "area": "VOC Nagar, Arulananda Nagar West Extension",
+    "latitude": 10.7724418,
+    "longitude": 79.1328846,
+    "place_id": "ChIJueyHi925qjsRW85fTTec7WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueyHi925qjsRW85fTTec7WM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:59:55"
+  }
+]

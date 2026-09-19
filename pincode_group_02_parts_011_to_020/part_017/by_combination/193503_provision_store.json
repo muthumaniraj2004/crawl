@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RATHER GENERAL STORE 1",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "193503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FM98+F78, Bonakoot Bandipora, Jammu and Kashmir 193502",
+    "area": "193503",
+    "latitude": 34.4686611,
+    "longitude": 74.66569199999999,
+    "place_id": "ChIJR0YtHABt4TgRm8olhnY19Ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0YtHABt4TgRm8olhnY19Ow",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:15:07"
+  },
+  {
+    "business_name": "Mama banja traders",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "193503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bandipora Gurez Rd, Kaloosa, Kheyar, Jammu and Kashmir 193502",
+    "area": "Kaloosa",
+    "latitude": 34.4534203,
+    "longitude": 74.6520597,
+    "place_id": "ChIJEan1LgBt4TgR5I-h5iYxGEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEan1LgBt4TgR5I-h5iYxGEU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:15:09"
+  }
+]

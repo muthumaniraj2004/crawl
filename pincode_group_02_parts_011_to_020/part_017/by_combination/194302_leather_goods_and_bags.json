@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Globe Leather Industries",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "194302",
+    "phone_number": "+91 20 2437 1733",
+    "website": "http://www.globeleather.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "R. K Palace, Plot No. 7, Daulat Nagar, Dhankawadi, Pune, Maharashtra 411043",
+    "area": "Nityanand Society, New Nurses Town Co Operative Society, Dhankawadi",
+    "latitude": 18.4647857,
+    "longitude": 73.8571086,
+    "place_id": "ChIJrVVVVbbqwjsRYCtpEfLZoL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVVVVbbqwjsRYCtpEfLZoL0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:38:15"
+  },
+  {
+    "business_name": "Julee Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Luggage store",
+    "pincode": "194302",
+    "phone_number": "+91 74988 21933",
+    "website": "https://www.juleebags.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "531, Ganesh Peth, Kasturi Chowk, near Vittal Mandir, Pune, Maharashtra 411002",
+    "area": "Raviwar Peth",
+    "latitude": 18.5109522,
+    "longitude": 73.8627503,
+    "place_id": "ChIJVVVVlWnAwjsRv54HXV70sB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlWnAwjsRv54HXV70sB0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:38:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel North Edge Sangrama Sopore",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "193101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 6,
+    "address": "6CWX+6QJ, Sangrama, Jammu and Kashmir 193201",
+    "area": "193101",
+    "latitude": 34.245542199999996,
+    "longitude": 74.44937259999999,
+    "place_id": "ChIJAWYKWAAJ4TgRQJefdLBRvAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWYKWAAJ4TgRQJefdLBRvAQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:34:36"
+  },
+  {
+    "business_name": "Hot Spot Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant, Fast food restaurant",
+    "pincode": "193101",
+    "phone_number": "+91 99064 89820",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Lone Complex, Sopore-Kupwara Rd, near SDH, Sopore, Jammu and Kashmir 193201",
+    "area": "193101",
+    "latitude": 34.293912,
+    "longitude": 74.45522199999999,
+    "place_id": "ChIJ___jWCgJ4TgR5wVkYvdVQr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___jWCgJ4TgR5wVkYvdVQr4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:34:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magray Store",
+    "search_category": "Boutiques",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "193402",
+    "phone_number": "+91 95419 66607",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Snow Cutter Garage, Hospital Road, Baramulla, Tangmarg, Jammu and Kashmir 193402",
+    "area": "193402",
+    "latitude": 34.0615796,
+    "longitude": 74.4279353,
+    "place_id": "ChIJ8cqove-l4TgRTIljYSo2zcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cqove-l4TgRTIljYSo2zcw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:05:14"
+  },
+  {
+    "business_name": "AUREUS CLOTHING",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "193402",
+    "phone_number": "+91 95960 46978",
+    "website": "https://www.instagram.com/aureus_.in?igsh=MTRnY3NmeGZ5cHpoaA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite bizz restaurant, Chandilora, Tangmarg, Jammu and Kashmir 193402",
+    "area": "193402",
+    "latitude": 34.0730265,
+    "longitude": 74.4510952,
+    "place_id": "ChIJx3l-fCyl4TgRv9rGAbS3AGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3l-fCyl4TgRv9rGAbS3AGE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:05:17"
+  }
+]

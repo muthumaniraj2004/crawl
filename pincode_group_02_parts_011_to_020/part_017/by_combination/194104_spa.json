@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Heaven Spa & Salon",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "194104",
+    "phone_number": "+91 90868 43304",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Lane No 1, near Amandeep Hospital, Greater Kailash, Jammu, Jammu and Kashmir 180011",
+    "area": "Greater Kailash",
+    "latitude": 32.6740645,
+    "longitude": 74.8904979,
+    "place_id": "ChIJfecLufWdHjkRHMQEBrqqWjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfecLufWdHjkRHMQEBrqqWjw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:25:54"
+  },
+  {
+    "business_name": "Naori Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "194104",
+    "phone_number": "+91 98722 15482",
+    "website": "https://www.redorchidspa.in/amritsar/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Unit no 1, Upper Ground Floor, Mall Rd, INA Colony, Amritsar, Punjab 143001",
+    "area": "INA Colony",
+    "latitude": 31.6418088,
+    "longitude": 74.86876939999999,
+    "place_id": "ChIJ-S86GpBlGTkROjRS_Ab6LkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S86GpBlGTkROjRS_Ab6LkM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:25:55"
+  }
+]

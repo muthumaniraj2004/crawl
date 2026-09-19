@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohishree Facility Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Sanitation service",
+    "all_categories": "Sanitation service",
+    "pincode": "193109",
+    "phone_number": "+91 94236 79285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 2 Gut No. 40, Mohishree Facility Services, Swastik Nagar Sahajapur Road, MIDC, Waluj, Chhatrapati Sambhajinagar, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "MIDC, Waluj",
+    "latitude": 19.845519,
+    "longitude": 75.22458999999999,
+    "place_id": "ChIJhZVHVKSb2zsRvIZWP0gYrgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZVHVKSb2zsRvIZWP0gYrgM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:40:42"
+  },
+  {
+    "business_name": "CARELYN ENTERPRISE",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services, Water Tank Cleaners",
+    "pincode": "193109",
+    "phone_number": "+91 73839 01805",
+    "website": "https://sites.google.com/view/carelynenterprise",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "raj homes, 73, Ankleshwar GIDC, Jitali, Ankleshwar, Gujarat 393001",
+    "area": "Ankleshwar GIDC",
+    "latitude": 21.6211569,
+    "longitude": 73.05856419999999,
+    "place_id": "ChIJ7TqSlbIj4DsRb4BRHSMUeDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TqSlbIj4DsRb4BRHSMUeDk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:40:43"
+  }
+]

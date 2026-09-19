@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty queen Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Cosmetics store",
+    "pincode": "193504",
+    "phone_number": "+91 78897 19847",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mohideen Shah Complex, Sumbal, Jammu and Kashmir 193504",
+    "area": "193504",
+    "latitude": 34.2292085,
+    "longitude": 74.65051129999999,
+    "place_id": "ChIJ83klqRqf4TgRt83i3fHddno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83klqRqf4TgRt83i3fHddno",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:37"
+  },
+  {
+    "business_name": "The saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "193504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "6JJW+7WM, Sumbal, Jammu and Kashmir 193504",
+    "area": "193504",
+    "latitude": 34.2307049,
+    "longitude": 74.647311,
+    "place_id": "ChIJRdxqcgCf4TgRBWP8BMrGURc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdxqcgCf4TgRBWP8BMrGURc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:37"
+  }
+]

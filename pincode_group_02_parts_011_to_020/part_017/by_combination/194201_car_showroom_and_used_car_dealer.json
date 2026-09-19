@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUPER CARZ",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "194201",
+    "phone_number": "+91 80997 29702",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Balkampet Rd, opp. Green Land, BK Guda, Hotel, Hyderabad, Telangana 500038",
+    "area": "BK Guda, Hotel",
+    "latitude": 17.4441748,
+    "longitude": 78.44861759999999,
+    "place_id": "ChIJM-ypy8aQyzsR3iKbe4Gt8jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-ypy8aQyzsR3iKbe4Gt8jk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:44"
+  },
+  {
+    "business_name": "Royal Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Thrift store",
+    "pincode": "194201",
+    "phone_number": "+91 99193 11118",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "19,Mission, Stanley Rd, near Beli Hospital, Old Katra, Prayagraj, Uttar Pradesh 211002",
+    "area": "Dwarika Puri, Old Katra",
+    "latitude": 25.4693498,
+    "longitude": 81.84546089999999,
+    "place_id": "ChIJ-77Sw5LKmjkRIfmS35BH_UE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-77Sw5LKmjkRIfmS35BH_UE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:45"
+  }
+]

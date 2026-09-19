@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogshivini Yoga & Wellness",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "193404",
+    "phone_number": "N/A",
+    "website": "http://www.yogshivini.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hall no. 2(first floor, Guru Ravidass Temple, opposite MH Chowk, Raghunathpura, Udhampur, Jammu and Kashmir 182101",
+    "area": "Raghunathpura",
+    "latitude": 32.9273163,
+    "longitude": 75.1367142,
+    "place_id": "ChIJdZistX3THTkRWrDOGX1XhMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZistX3THTkRWrDOGX1XhMA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:49"
+  },
+  {
+    "business_name": "Yoga therapy center",
+    "search_category": "Yoga Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "193404",
+    "phone_number": "+91 98051 82527",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mandi - Pathankot Rd, Shahpur, Chandaran, Himachal Pradesh 176206",
+    "area": "193404",
+    "latitude": 32.2092605,
+    "longitude": 76.1859443,
+    "place_id": "ChIJk-G7--5bGzkRPCX6_360C_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-G7--5bGzkRPCX6_360C_o",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:53"
+  }
+]

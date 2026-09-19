@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Posh interior designer",
+    "search_category": "Architects",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "193108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Pattan Baramulla, Palhailan alahie complex, National Highway, 44 A1, Pattan, Jammu and Kashmir 193121",
+    "area": "193108",
+    "latitude": 34.1728777,
+    "longitude": 74.54337819999999,
+    "place_id": "ChIJy5tkMmSh4TgR9Pj4Z4qDxGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5tkMmSh4TgR9Pj4Z4qDxGw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:38:33"
+  },
+  {
+    "business_name": "Makaan Architects Kashmir",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "193108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kreeri, Jammu and Kashmir 193108",
+    "area": "193108",
+    "latitude": 34.1700778,
+    "longitude": 74.4715636,
+    "place_id": "ChIJmWT-RFqn4TgRmnkO2Yhg1BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWT-RFqn4TgRmnkO2Yhg1BQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:38:35"
+  }
+]

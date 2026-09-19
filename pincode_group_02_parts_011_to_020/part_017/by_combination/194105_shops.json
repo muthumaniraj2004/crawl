@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New super Kitchen Appliances",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "194105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G4RR+55M, Baroo, Kargil, Ladakh 194103",
+    "area": "Baroo",
+    "latitude": 34.540472099999995,
+    "longitude": 76.1404316,
+    "place_id": "ChIJj0KPEiYj4zgRRQ9B9bxq5Io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0KPEiYj4zgRRQ9B9bxq5Io",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:28:16"
+  },
+  {
+    "business_name": "M/s sahara electric shope",
+    "search_category": "Shops",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "194105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G4RR+753, Baroo, Kargil, Ladakh 194103",
+    "area": "Baroo",
+    "latitude": 34.5406378,
+    "longitude": 76.1404349,
+    "place_id": "ChIJh8ElVAAj4zgR4F8oIU_Lh6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8ElVAAj4zgR4F8oIU_Lh6Q",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:28:16"
+  }
+]

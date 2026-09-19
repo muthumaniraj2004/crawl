@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosa Point",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "WP9P+QQ, Karu, Ladakh 194201",
+    "area": "194201",
+    "latitude": 33.918431999999996,
+    "longitude": 77.7375204,
+    "place_id": "ChIJNSuiukr3_TgRes_04-ZiA9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSuiukr3_TgRes_04-ZiA9I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:21"
+  },
+  {
+    "business_name": "Upshi restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "194201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "RRJ6+CR7, Keylong-Leh Rd, Upshi, 194201",
+    "area": "194201",
+    "latitude": 33.8310494,
+    "longitude": 77.812056,
+    "place_id": "ChIJ7ROJVR0HAjkR3h9oFPk68DI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ROJVR0HAjkR3h9oFPk68DI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:33:23"
+  }
+]

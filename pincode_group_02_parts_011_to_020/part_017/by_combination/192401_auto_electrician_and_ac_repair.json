@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Mechanics",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "192401",
+    "phone_number": "+91 99510 00163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Eluru Rd, opp. Vidhyuth Soudha, Gunadala, Vijayawada, Kanuru, Andhra Pradesh 520004",
+    "area": "Gunadala",
+    "latitude": 16.523843199999998,
+    "longitude": 80.6724638,
+    "place_id": "ChIJv419cgflNToRFQ-89dU7nJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv419cgflNToRFQ-89dU7nJw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:22"
+  },
+  {
+    "business_name": "Auto Mobile",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "192401",
+    "phone_number": "+91 60054 74189",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22, Civil Line, Tral, Jammu and Kashmir 192123",
+    "area": "192401",
+    "latitude": 33.9518397,
+    "longitude": 75.1532944,
+    "place_id": "ChIJ44mSj3sZ4jgR8u5wPMqxxk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44mSj3sZ4jgR8u5wPMqxxk4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:33:25"
+  }
+]

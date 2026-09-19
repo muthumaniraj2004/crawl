@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farzan Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "193504",
+    "phone_number": "+91 95411 94845",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganderbal - Mansbal Rd, Gulshan Mohalla, Jammu and Kashmir 191131",
+    "area": "Gulshan Mohalla",
+    "latitude": 34.2403595,
+    "longitude": 74.7178629,
+    "place_id": "ChIJoZ8r1GOd4TgRcrLfUtqhNlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZ8r1GOd4TgRcrLfUtqhNlY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:09"
+  },
+  {
+    "business_name": "Mir medicate Hajin Chemists & Druggists",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "193504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hajan, Jammu and Kashmir 193501",
+    "area": "193504",
+    "latitude": 34.2918494,
+    "longitude": 74.6206645,
+    "place_id": "ChIJKTm7AgB14TgRgduAFwop3eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTm7AgB14TgRgduAFwop3eM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:17:09"
+  }
+]

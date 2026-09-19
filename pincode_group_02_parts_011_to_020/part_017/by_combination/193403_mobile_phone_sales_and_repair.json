@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chhatwal Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "193403",
+    "phone_number": "+91 98723 27269",
+    "website": "http://instagram.com/chhatwalmobiles",
+    "rating": 4.7,
+    "reviews_count": 228,
+    "address": "Samrala chowk, Guru Arjan Dev Nagar, Ludhiana, Punjab 141008",
+    "area": "Guru Arjan Dev Nagar",
+    "latitude": 30.91171,
+    "longitude": 75.8802821,
+    "place_id": "ChIJdfEOpD6DGjkRhKZ2TD-BK0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfEOpD6DGjkRhKZ2TD-BK0I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:07:49"
+  },
+  {
+    "business_name": "Aafreen Communication",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Mobile network operator",
+    "pincode": "193403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Wailoo, Kunzer, Jammu and Kashmir 193404",
+    "area": "193403",
+    "latitude": 34.1247046,
+    "longitude": 74.4758361,
+    "place_id": "ChIJeQ-3Jmil4TgRhv2PAKi65Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ-3Jmil4TgRhv2PAKi65Q8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:07:52"
+  }
+]

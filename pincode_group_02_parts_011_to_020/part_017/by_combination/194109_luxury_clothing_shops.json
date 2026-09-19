@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IINARA",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "194109",
+    "phone_number": "+91 98996 03120",
+    "website": "http://www.iinara.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "6, Dakshin Marg, DLF Phase 2, Sector 25, Gurugram, Sarhol, Haryana 122002",
+    "area": "DLF Phase 2, Sector 25",
+    "latitude": 28.4822065,
+    "longitude": 77.0862775,
+    "place_id": "ChIJi0UpLIsYDTkRkMOaKT706Wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0UpLIsYDTkRkMOaKT706Wg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:32:01"
+  },
+  {
+    "business_name": "Renu's Attire",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Boutique, Clothing Accessories Store, Formal Clothing Store, Plus Size Clothing Store, Western apparel store, Women's clothing store",
+    "pincode": "194109",
+    "phone_number": "+91 98717 71948",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FF 28, Plot No 9 to 11, Sector 7C, Siddharth Vihar, Pratap Vihar, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Sector 7C, Siddharth Vihar, Pratap Vihar",
+    "latitude": 28.6540432,
+    "longitude": 77.4009731,
+    "place_id": "ChIJ-bj9ieXxDDkRUtUzvddCit8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bj9ieXxDDkRUtUzvddCit8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:32:02"
+  }
+]

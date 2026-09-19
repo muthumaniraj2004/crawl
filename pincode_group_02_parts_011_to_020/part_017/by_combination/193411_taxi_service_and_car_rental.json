@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FM Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "193411",
+    "phone_number": "+91 88031 00090",
+    "website": "https://www.fmcabservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Humhama, Srinagar, Badgam, Jammu and Kashmir 190021",
+    "area": "Humhama",
+    "latitude": 34.014131,
+    "longitude": 74.771743,
+    "place_id": "ChIJZYRGUS-R4TgRXGI2Y8QkzI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYRGUS-R4TgRXGI2Y8QkzI0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:10:37"
+  },
+  {
+    "business_name": "AL ADIHAHS TOUR AND TRAVEL",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Car leasing service, Car rental agency, Taxi service, Tour agency",
+    "pincode": "193411",
+    "phone_number": "+91 70067 00029",
+    "website": "https://www.aladihahstourandtravels.in/",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "Hamdaniya Colony, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Hamdaniya Colony, Bemina",
+    "latitude": 34.0704072,
+    "longitude": 74.7624317,
+    "place_id": "ChIJp-kS0deMkw0ReFarKTyA_VM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-kS0deMkw0ReFarKTyA_VM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:10:39"
+  }
+]

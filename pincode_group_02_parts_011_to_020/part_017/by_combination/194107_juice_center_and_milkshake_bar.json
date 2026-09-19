@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Think juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "194107",
+    "phone_number": "+91 86930 97818",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 37,
+    "address": "Integrated Arcade, RB Mehta Marg, Ghatkopar, Saibaba Nagar, Pant Nagar, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "area": "Ghatkopar, Saibaba Nagar, Pant Nagar, Ghatkopar East",
+    "latitude": 19.0839462,
+    "longitude": 72.9089293,
+    "place_id": "ChIJbekIMtnH5zsRU0TTTXsymTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbekIMtnH5zsRU0TTTXsymTw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:30:04"
+  },
+  {
+    "business_name": "STAR JUICE CENTRE & SNACKS",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "194107",
+    "phone_number": "+91 93233 78786",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 30,
+    "address": "Shop No 4, John Bungalow, Swami Vivekanand Rd, near City Hospital, Khoja Society, Vaishali Nagar, Jogeshwari West, Mumbai, Maharashtra 400102",
+    "area": "Khoja Society, Vaishali Nagar, Jogeshwari West",
+    "latitude": 19.1435857,
+    "longitude": 72.8429535,
+    "place_id": "ChIJj0ppHzG25zsRBdoiYXnRz-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0ppHzG25zsRBdoiYXnRz-0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:30:04"
+  }
+]

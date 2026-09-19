@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lekker Cafe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "194104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Thiksay kilibuk, near Manali - Leh Highway, Ladakh 194201",
+    "area": "194104",
+    "latitude": 34.0626636,
+    "longitude": 77.6574105,
+    "place_id": "ChIJkYdAWLfv_TgRRIWfNSqyAq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYdAWLfv_TgRRIWfNSqyAq4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:25:17"
+  },
+  {
+    "business_name": "TSAA Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "194104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "4H5R+F38, Manali - Leh Hwy, Choglamsar, Ladakh 194104",
+    "area": "194104",
+    "latitude": 34.1084981,
+    "longitude": 77.59065509999999,
+    "place_id": "ChIJ-cEwLwDt_TgRh6TgSb2YNHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cEwLwDt_TgRh6TgSb2YNHg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:25:19"
+  }
+]

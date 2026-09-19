@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HEALTH CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "194401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CMHR+M6C, Alarigada, Karadabadimaruti Jaganathapur, Odisha 761100",
+    "area": "194401",
+    "latitude": 19.4291759,
+    "longitude": 84.6905089,
+    "place_id": "ChIJybXUzXdMPToRf50peR6Uhok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybXUzXdMPToRf50peR6Uhok",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:41:54"
+  },
+  {
+    "business_name": "Zubeda Khaliq Memorial Free Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Free clinic",
+    "all_categories": "Free clinic, Hospital",
+    "pincode": "194401",
+    "phone_number": "N/A",
+    "website": "http://www.zkmfreehospital.org/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Sermik, Kargil-Skardu Rd, Skardu",
+    "area": "194401",
+    "latitude": 35.1842994,
+    "longitude": 75.9046783,
+    "place_id": "ChIJ3eSVnlGb5DgRe3rrWdfUXM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eSVnlGb5DgRe3rrWdfUXM0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:41:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NJ Service Center",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "194104",
+    "phone_number": "+91 98160 63185",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 189,
+    "address": "NH-21, Chandigarh Manali Highway, near Gopal Chowk, Jugahan, Dhanotu, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "Jugahan, Dhanotu",
+    "latitude": 31.55837,
+    "longitude": 76.901116,
+    "place_id": "ChIJr3Vtlm4ZBTkRuLEnCNKHuRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3Vtlm4ZBTkRuLEnCNKHuRo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:25:44"
+  },
+  {
+    "business_name": "Mirzapur Auto Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "194104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 54,
+    "address": "2HHJ+3JC, Maulana Gazanvi Rd, Old City, Gheekanta, Bhadra, Ahmedabad, Gujarat 380001",
+    "area": "Old City, Gheekanta, Bhadra",
+    "latitude": 23.032107399999997,
+    "longitude": 72.5824317,
+    "place_id": "ChIJQ_kqxBqFXjkReyaJNHSQo2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_kqxBqFXjkReyaJNHSQo2U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:25:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HIGHWAY CAFE",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "193223",
+    "phone_number": "+91 99062 38332",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sopore-Kupwara Rd, Kupwara, Jammu and Kashmir 193222",
+    "area": "193223",
+    "latitude": 34.5132021,
+    "longitude": 74.26052109999999,
+    "place_id": "ChIJiQmD-lwf4TgR9NfX398c-BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQmD-lwf4TgR9NfX398c-BM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:51:25"
+  },
+  {
+    "business_name": "Derby Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "193223",
+    "phone_number": "+91 97978 94392",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Capital complex, Khumeriyal, Kupwara, Jammu and Kashmir 193223",
+    "area": "193223",
+    "latitude": 34.5426889,
+    "longitude": 74.30984,
+    "place_id": "ChIJAfBcISIf4TgRbMWCqm4BXME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAfBcISIf4TgRbMWCqm4BXME",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:51:27"
+  }
+]

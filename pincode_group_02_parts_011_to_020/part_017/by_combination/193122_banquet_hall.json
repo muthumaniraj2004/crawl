@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Vintage Court",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "193122",
+    "phone_number": "+91 97974 55399",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Lane 4, Sector 1, Durga Nagar, Jammu, Jammu and Kashmir 180013",
+    "area": "Sector 1, Durga Nagar",
+    "latitude": 32.771170999999995,
+    "longitude": 74.82202149999999,
+    "place_id": "ChIJuZb1WuKFHjkRaDfj8Q5-lbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZb1WuKFHjkRaDfj8Q5-lbw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:43:38"
+  },
+  {
+    "business_name": "Gemini Palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "193122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "QR57+2JF, Muthi, Jammu, Jammu and Kashmir 181205",
+    "area": "Muthi",
+    "latitude": 32.7578684,
+    "longitude": 74.8137797,
+    "place_id": "ChIJ28w1-m6FHjkRuWY3IG0vNLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28w1-m6FHjkRuWY3IG0vNLg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:43:39"
+  }
+]

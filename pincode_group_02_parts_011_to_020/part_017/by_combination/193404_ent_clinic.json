@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Ramesh Memorial ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "193404",
+    "phone_number": "+91 98885 21597",
+    "website": "https://www.drgagansakhuja.in/",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "R6C2+4Q5, Shastri Nagar, Batala, Punjab 143505",
+    "area": "Shastri Nagar",
+    "latitude": 31.8202535,
+    "longitude": 75.20198479999999,
+    "place_id": "ChIJKyVnd1_CGzkRXtmX1HkOmqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyVnd1_CGzkRXtmX1HkOmqw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:48"
+  },
+  {
+    "business_name": "Saksham Speech & Hearing Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist, Audiologist",
+    "pincode": "193404",
+    "phone_number": "+91 97972 11294",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 76,
+    "address": "MH Road, near Command Hospital, Raghunathpura, Udhampur, Jammu and Kashmir 182101",
+    "area": "Raghunathpura",
+    "latitude": 32.929641499999995,
+    "longitude": 75.1368541,
+    "place_id": "ChIJRYMDW__THTkRJfDAmYfeQqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYMDW__THTkRJfDAmYfeQqE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:08:48"
+  }
+]

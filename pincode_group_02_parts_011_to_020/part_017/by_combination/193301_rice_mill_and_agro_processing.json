@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mir Ricemill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "193301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "78GX+48, Fider Pora, Manchan Pora, Jammu and Kashmir 193301",
+    "area": "193301",
+    "latitude": 34.2744333,
+    "longitude": 74.34877329999999,
+    "place_id": "ChIJ-yVKSwAH4TgRUPbHS423pV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yVKSwAH4TgRUPbHS423pV0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:57:45"
+  },
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "193301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PRGC+WMJ Jami Thota, Haddubhangi, Andhra Pradesh 532455",
+    "area": "193301",
+    "latitude": 18.727339,
+    "longitude": 83.8216284,
+    "place_id": "ChIJIfbbdNCJPDoRRHgVkT02AlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfbbdNCJPDoRRHgVkT02AlM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:57:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Stash House",
+    "search_category": "Bar and Pub",
+    "primary_category": "Gastropub",
+    "all_categories": "Gastropub, Bar, Cafe, Fine dining restaurant, Restaurant",
+    "pincode": "194105",
+    "phone_number": "+91 85990 00029",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Integrated Industrial Estate, Sector 12, BHEL Township, Bharat Heavy Electrical Limited Ran, Haridwar, Uttarakhand 249403",
+    "area": "Integrated Industrial Estate, Sector 12, BHEL Township",
+    "latitude": 29.947882099999998,
+    "longitude": 78.0754687,
+    "place_id": "ChIJ_ZRoaVBICTkR4yy1YAZqXHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZRoaVBICTkR4yy1YAZqXHY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:26:54"
+  },
+  {
+    "business_name": "Explosion NightClub",
+    "search_category": "Bar and Pub",
+    "primary_category": "Night club",
+    "all_categories": "Night club, Bar & grill, Dance club",
+    "pincode": "194105",
+    "phone_number": "+91 99587 85777",
+    "website": "https://www.instagram.com/explosionnightclub",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, Piccadily Multiplex, Mall Rd, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Siyal",
+    "latitude": 32.2394545,
+    "longitude": 77.18818259999999,
+    "place_id": "ChIJJyiaTzaJBDkRUn_ly3q4x7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyiaTzaJBDkRUn_ly3q4x7U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:26:55"
+  }
+]

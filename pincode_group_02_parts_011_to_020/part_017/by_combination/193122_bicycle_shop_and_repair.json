@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bike World",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle wholesaler",
+    "pincode": "193122",
+    "phone_number": "+91 88472 27911",
+    "website": "https://bit.ly/3Cc1q4n",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.53, Court Rd, Amritsar Cantonment, Amritsar, Punjab 143001",
+    "area": "Amritsar Cantonment",
+    "latitude": 31.6344884,
+    "longitude": 74.8714057,
+    "place_id": "ChIJRyHb-GRlGTkRA9cdLYx2i_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyHb-GRlGTkRA9cdLYx2i_s",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:43:19"
+  },
+  {
+    "business_name": "Nazir Cycle Retailer or Wholesaler",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Mechanic, Books Wholesaler",
+    "pincode": "193122",
+    "phone_number": "+91 98198 73834",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 10, Parijat Society, Aqsh Masjid Road, Gautam Nagar, Jogeshwari West, Mumbai, Maharashtra 400102",
+    "area": "Gautam Nagar, Jogeshwari West",
+    "latitude": 19.14155,
+    "longitude": 72.839468,
+    "place_id": "ChIJ8581fyG35zsRplTJAPGCsd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8581fyG35zsRplTJAPGCsd0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:43:21"
+  }
+]

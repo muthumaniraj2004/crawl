@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDPLUS CLINIC & SERVICES",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Diagnostic center, Laboratory, Nursing agency",
+    "pincode": "194106",
+    "phone_number": "+91 70870 86663",
+    "website": "https://medplusclinicservices.com/",
+    "rating": 5,
+    "reviews_count": 115,
+    "address": "149, Khuda Jassu, Khudda Lahora, Chandigarh, Khudda Lahora, Chandigarh 160103",
+    "area": "Khudda Lahora",
+    "latitude": 30.774312,
+    "longitude": 76.7705879,
+    "place_id": "ChIJubaC8rjzDzkRzUSuomsdtV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubaC8rjzDzkRzUSuomsdtV4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:28:45"
+  },
+  {
+    "business_name": "Dr. Akshay pachyala (Physician and Diabetologist)",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "194106",
+    "phone_number": "N/A",
+    "website": "https://www.ankurmaitrikahospital.com/",
+    "rating": 4.7,
+    "reviews_count": 51,
+    "address": "Ward 55, Ankur Maitrika Hospital, deeli channi highway, near jodhamal school, Channi Himat, Jammu, Jammu and Kashmir 180012",
+    "area": "Channi Himat",
+    "latitude": 32.6826188,
+    "longitude": 74.9038453,
+    "place_id": "ChIJOQ4ObyiDHjkRbYlyQTg2Pos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQ4ObyiDHjkRbYlyQTg2Pos",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:28:45"
+  }
+]

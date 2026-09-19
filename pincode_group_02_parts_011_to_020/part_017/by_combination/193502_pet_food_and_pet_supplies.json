@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petworld Bandipora",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "193502",
+    "phone_number": "+91 70065 44699",
+    "website": "https://www.instagram.com/petworld_bandipora",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Main, Market, Nag Mohalla, Bandipora, Plan Bandipora, Jammu and Kashmir 193502",
+    "area": "Nag Mohalla",
+    "latitude": 34.418656299999995,
+    "longitude": 74.6403042,
+    "place_id": "ChIJWSCqeNht4TgRMbC7KiqLGJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSCqeNht4TgRMbC7KiqLGJY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:13:31"
+  },
+  {
+    "business_name": "Bandipora veterinary & Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "193502",
+    "phone_number": "+91 70061 40915",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, opposite Big bite restaurant, Brar, Jammu and Kashmir 193502",
+    "area": "193502",
+    "latitude": 34.4200766,
+    "longitude": 74.63879659999999,
+    "place_id": "ChIJwQwSE9ht4TgRVNAr5qCTK2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQwSE9ht4TgRVNAr5qCTK2U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 07:13:31"
+  }
+]

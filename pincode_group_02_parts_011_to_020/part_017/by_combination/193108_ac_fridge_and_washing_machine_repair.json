@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RO Appliance Repair Co.",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "193108",
+    "phone_number": "N/A",
+    "website": "https://www.applianceservicessanjose.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "RO Appliance Repair Co., 193108, India",
+    "area": "193108",
+    "latitude": 37.362711999999995,
+    "longitude": -121.89817749999999,
+    "place_id": "ChIJvT1Zh3gzjoARCWTIJMB3xag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvT1Zh3gzjoARCWTIJMB3xag",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:38:31"
+  },
+  {
+    "business_name": "Homefixer",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Service establishment",
+    "pincode": "193108",
+    "phone_number": "+91 88510 17494",
+    "website": "https://homefixer.in/",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Homefixer, 193108, India",
+    "area": "193108",
+    "latitude": 28.649372999999997,
+    "longitude": 77.1865712,
+    "place_id": "ChIJ8fTVhyaZ3U4RMqnfhJds6Bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fTVhyaZ3U4RMqnfhJds6Bk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:38:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 119,
+    "address": "park, Akad, Ganai Gund, Jammu and Kashmir 190001",
+    "area": "Akad",
+    "latitude": 33.812668699999996,
+    "longitude": 75.25065029999999,
+    "place_id": "ChIJd7zpHq8T4jgRrbX8UWbaU5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7zpHq8T4jgRrbX8UWbaU5Y",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:54"
+  },
+  {
+    "business_name": "kgn biryani center",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "192401",
+    "phone_number": "+91 97661 14798",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "road, near ACC parking, Ghugus, Nakoda, Maharashtra 442502",
+    "area": "192401",
+    "latitude": 19.935776399999998,
+    "longitude": 79.1152642,
+    "place_id": "ChIJmRMgla7Z0jsRHSRggZQ_jT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRMgla7Z0jsRHSRggZQ_jT0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:32:57"
+  }
+]
