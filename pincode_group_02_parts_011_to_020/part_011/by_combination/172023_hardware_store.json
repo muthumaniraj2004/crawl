@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "172023",
+    "phone_number": "+91 78076 70377",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "near GP, Durah, Himachal Pradesh 172033",
+    "area": "172023",
+    "latitude": 31.4037175,
+    "longitude": 77.5239938,
+    "place_id": "ChIJe6WTYaCVBTkRRVVUmgXVh6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6WTYaCVBTkRRVVUmgXVh6Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:20:59"
+  },
+  {
+    "business_name": "Kewal Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "172023",
+    "phone_number": "+91 83030 65378",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5W75+G6J, SH 27, Tartialan, Rehan, Himachal Pradesh 176022",
+    "area": "172023",
+    "latitude": 32.163843,
+    "longitude": 75.9080286,
+    "place_id": "ChIJD_KFpoJlGzkRrUCaplmylVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_KFpoJlGzkRrUCaplmylVU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:20:59"
+  }
+]

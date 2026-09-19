@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "insurance service point",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "172002",
+    "phone_number": "+91 94181 29150",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "po and tehsil ani, new bustand, Anni, Himachal Pradesh 172026",
+    "area": "172002",
+    "latitude": 31.433536,
+    "longitude": 77.41712369999999,
+    "place_id": "ChIJxbnwK6e9BTkR8F6-f4T99Nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbnwK6e9BTkR8F6-f4T99Nc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:16:47"
+  },
+  {
+    "business_name": "HDFC Life",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company",
+    "pincode": "172002",
+    "phone_number": "+91 97698 32987",
+    "website": "https://branch.hdfclife.com/hdfc-life-insurance-sarwari-insurance-company-sarwari-kullu-5167/Home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bus Stop, 2nd Flr, The Hotel the Nest Bldg Main, nr. Indian Oil Gas Agency, Sarvari, Kullu, Himachal Pradesh 175101",
+    "area": "Sarvari",
+    "latitude": 31.9577496,
+    "longitude": 77.10939789999999,
+    "place_id": "ChIJW6x6aa72BDkR52pNY4w5iiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6x6aa72BDkR52pNY4w5iiE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:16:48"
+  }
+]

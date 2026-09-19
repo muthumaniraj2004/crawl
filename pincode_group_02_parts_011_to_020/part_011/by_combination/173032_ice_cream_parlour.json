@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MilkyWay",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Business development service, Catering food and drink supplier, Delivery service, Family restaurant, Fast food restaurant, Food and beverage consultant, Restaurant supply store, Vegetarian cafe and deli, Wedding service",
+    "pincode": "173032",
+    "phone_number": "+91 98410 69000",
+    "website": "http://www.milkywaysofty.com/",
+    "rating": 4.2,
+    "reviews_count": 921,
+    "address": "G7, Wellingdon Estate, 24, Ethiraj Salai, Egmore, Chennai, Tamil Nadu 600008",
+    "area": "Egmore",
+    "latitude": 13.064961799999999,
+    "longitude": 80.25873639999999,
+    "place_id": "ChIJT41X9BNmUjoRNx6SqYaimek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT41X9BNmUjoRNx6SqYaimek",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:32:25"
+  },
+  {
+    "business_name": "Polar Bear Ice Cream Sundaes - Seetha Circle",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Confectionery store, Sweets and dessert buffet, Frozen yogurt shop",
+    "pincode": "173032",
+    "phone_number": "+91 96327 01036",
+    "website": "http://www.polarbear.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "111, 80 Feet Rd, 1st phase Girinagar, Srinivasnagar, Banashankari, Bengaluru, Karnataka 560085",
+    "area": "1st phase Girinagar, Srinivasnagar, Banashankari",
+    "latitude": 12.9374193,
+    "longitude": 77.5490344,
+    "place_id": "ChIJcSN3mDw-rjsR52psvvXDkHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSN3mDw-rjsR52psvvXDkHg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:32:26"
+  }
+]

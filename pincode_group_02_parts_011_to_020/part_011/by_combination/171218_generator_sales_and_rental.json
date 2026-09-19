@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Power Enterprises",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop, Diesel engine repair service",
+    "pincode": "171218",
+    "phone_number": "+91 98410 48446",
+    "website": "https://shreepower.co.in/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Kamaraj Nagar, Semmancheri, Chennai, Tamil Nadu 600119",
+    "area": "Kamaraj Nagar, Semmancheri",
+    "latitude": 12.8758053,
+    "longitude": 80.2252917,
+    "place_id": "ChIJZ0WFoZhbUjoRjtuuPurm3aI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0WFoZhbUjoRjtuuPurm3aI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:57:48"
+  },
+  {
+    "business_name": "Keshav Generators Pvt. Ltd.",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "171218",
+    "phone_number": "+91 97174 76310",
+    "website": "https://www.kgplindia.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A333/1, Block A, Vishwakarma Colony, Lal Kuan, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block A, Vishwakarma Colony, Lal Kuan",
+    "latitude": 28.5017055,
+    "longitude": 77.28494169999999,
+    "place_id": "ChIJA2q70izhDDkRxGrUowdLbhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2q70izhDDkRxGrUowdLbhM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:57:50"
+  }
+]

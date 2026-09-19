@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tattapani Homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "171301",
+    "phone_number": "+91 82787 82092",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 52,
+    "address": "Tatapani, Himachal Pradesh 175009",
+    "area": "171301",
+    "latitude": 31.2487896,
+    "longitude": 77.0895421,
+    "place_id": "ChIJv0M_YN1zBTkRlMXocHmJwkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0M_YN1zBTkRlMXocHmJwkM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:13:12"
+  },
+  {
+    "business_name": "Sachi Home Stay",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "171301",
+    "phone_number": "+91 82191 17588",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "65H5+V23, Chaba, Himachal Pradesh 171301",
+    "area": "171301",
+    "latitude": 31.229636099999997,
+    "longitude": 77.157549,
+    "place_id": "ChIJZ9Ek9oN3BTkRNpwfiVDVKQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9Ek9oN3BTkRNpwfiVDVKQg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:13:12"
+  }
+]

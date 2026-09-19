@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Astha Enterprises",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Dry wall contractor",
+    "pincode": "172025",
+    "phone_number": "+91 97196 78060",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "W466+JRP, Village Sitapur, Jamalpur Madhu Vihar, Jwalapur, Haridwar, Uttarakhand 249404",
+    "area": "Jamalpur Kalan",
+    "latitude": 29.9115832,
+    "longitude": 78.1120818,
+    "place_id": "ChIJN3kZlR1GCTkRJ0uV6NuHohE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3kZlR1GCTkRJ0uV6NuHohE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:24:20"
+  },
+  {
+    "business_name": "Deck and Boot Company Of India",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "172025",
+    "phone_number": "+91 484 237 3502",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 60,
+    "address": "St.George Building, Church Landing Cross Rd, Pallimukku, Kochi, Keralam 682016",
+    "area": "Pallimukku",
+    "latitude": 9.965465499999999,
+    "longitude": 76.2853111,
+    "place_id": "ChIJFdePqXptCDsRtySFGFDd084",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdePqXptCDsRtySFGFDd084",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:24:22"
+  }
+]

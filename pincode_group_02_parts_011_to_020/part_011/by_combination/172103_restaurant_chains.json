@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dawat E Riyaz",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "172103",
+    "phone_number": "+91 84799 52777",
+    "website": "https://instagram.com/dawat.e.riyaz?igshid=YmMyMTA2M2Y=",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Block A, Bantra, Ichapur, Howrah, West Bengal 711101",
+    "area": "Block A, Bantra, Ichapur",
+    "latitude": 22.591719299999998,
+    "longitude": 88.3180225,
+    "place_id": "ChIJI_sU_xN5AjoRteqPv8WQ-Qc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_sU_xN5AjoRteqPv8WQ-Qc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:44:00"
+  },
+  {
+    "business_name": "Sardarji's Traditional Punjabi Palate",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba, Fast food restaurant, North Indian restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "172103",
+    "phone_number": "+91 96423 57335",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "76, Old Mumbai Hwy, Vinayak Nagar, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Vinayak Nagar, Indira Nagar, Gachibowli",
+    "latitude": 17.4414841,
+    "longitude": 78.3584601,
+    "place_id": "ChIJ0_1WBpWTyzsRjW9PW4ZBdOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_1WBpWTyzsRjW9PW4ZBdOw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:44:01"
+  }
+]

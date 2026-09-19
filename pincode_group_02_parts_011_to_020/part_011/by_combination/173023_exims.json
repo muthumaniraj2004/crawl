@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "habban valley",
+    "search_category": "EXIMS",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "173023",
+    "phone_number": "+91 96255 00855",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "W88G+64M, SH 6, Haban Marhechi, Himachal Pradesh 173101",
+    "area": "173023",
+    "latitude": 30.915575699999998,
+    "longitude": 77.3253008,
+    "place_id": "ChIJc9VLenl8DzkRVbud_YnHplE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9VLenl8DzkRVbud_YnHplE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:19:44"
+  },
+  {
+    "business_name": "ECHS",
+    "search_category": "EXIMS",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173023",
+    "phone_number": "+91 1800 11 4115",
+    "website": "https://www.echs.gov.in/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "F728+6GC, Himachal Pradesh 174303",
+    "area": "173023",
+    "latitude": 31.450558899999997,
+    "longitude": 76.26625299999999,
+    "place_id": "ChIJxydxmqHaGjkRgKeqwZPYF-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxydxmqHaGjkRgKeqwZPYF-E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:19:44"
+  }
+]

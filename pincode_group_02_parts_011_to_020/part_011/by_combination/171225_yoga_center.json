@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpesh Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Yoga Retreat Center",
+    "pincode": "171225",
+    "phone_number": "+91 97364 63605",
+    "website": "https://www.alpeshyoga.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Alpesh Yoga, Upper bhagsu, near beetroot cafe, near Kibbutz, Bhagsu Nag, Dharamshala, Himachal Pradesh 176219",
+    "area": "Bhagsu Nag",
+    "latitude": 32.2461938,
+    "longitude": 76.33236629999999,
+    "place_id": "ChIJp1coyc1WGzkRjVmMJVM6yGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp1coyc1WGzkRjVmMJVM6yGc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:09:08"
+  },
+  {
+    "business_name": "The Yoga Institute Himachal",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center, Meditation center, Meditation Class, Wellness center, Yoga instructor, Yoga studio",
+    "pincode": "171225",
+    "phone_number": "+91 79019 87770",
+    "website": "https://himachal.theyogainstitutehimachal.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "EPIP Phase 2, Thana, Baddi, Himachal Pradesh 173205",
+    "area": "EPIP Phase 2",
+    "latitude": 30.9686839,
+    "longitude": 76.8034199,
+    "place_id": "ChIJqwfZMaRfBTkRqTY3-yX-8_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwfZMaRfBTkRqTY3-yX-8_E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:09:10"
+  }
+]

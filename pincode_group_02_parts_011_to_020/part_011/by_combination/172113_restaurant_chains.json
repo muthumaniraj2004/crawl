@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukhan's Star Dhaba",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "172113",
+    "phone_number": "+91 70159 58582",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "G.T road, near HP petrol pump, Pipli, Ramgarh, Kurukshetra, Haryana 136131",
+    "area": "Pipli",
+    "latitude": 30.0149442,
+    "longitude": 76.8877481,
+    "place_id": "ChIJQXDn7S5HDjkR0iA5nq3pmn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXDn7S5HDjkR0iA5nq3pmn0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:01:03"
+  },
+  {
+    "business_name": "The 1932 House",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Bar, Cafe, Family restaurant, Fine dining restaurant, Live music venue, Rajasthani Restaurant",
+    "pincode": "172113",
+    "phone_number": "+91 87697 11851",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Daspan house no. 6, Old, Loco Rd, Ratanada, Jodhpur, Rajasthan 342011",
+    "area": "Ratanada",
+    "latitude": 26.274925999999997,
+    "longitude": 73.0245367,
+    "place_id": "ChIJRTBZG2GNQTkRhmayOrmj3b4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTBZG2GNQTkRhmayOrmj3b4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:01:03"
+  }
+]

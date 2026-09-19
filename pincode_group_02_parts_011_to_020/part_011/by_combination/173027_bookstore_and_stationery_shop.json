@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARUN STATIONERS & BOOK SELLER",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "173027",
+    "phone_number": "+91 97194 41155",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "मेन मार्केट, प्रगति विहार रोड, सेलाकुई, Central Hope Town, Uttarakhand 248011",
+    "area": "सेलाकुई",
+    "latitude": 30.3552568,
+    "longitude": 77.8553462,
+    "place_id": "ChIJDfB2yD4qDzkR6qvv-NfJ1bM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfB2yD4qDzkR6qvv-NfJ1bM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:26:23"
+  },
+  {
+    "business_name": "Sagar Stationery & Patta Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "173027",
+    "phone_number": "+91 73517 30010",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C33H+4VG, Mussoorie Rd, near DIT College, Salan Gaon, Bhagwant Pur, Dehradun, Kirsali Gaon, Uttarakhand 248009",
+    "area": "Salan Gaon, Bhagwant Pur",
+    "latitude": 30.402815099999998,
+    "longitude": 78.0798954,
+    "place_id": "ChIJG2lyUQ7XCDkRudj2rrUEN-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2lyUQ7XCDkRudj2rrUEN-w",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:26:25"
+  }
+]

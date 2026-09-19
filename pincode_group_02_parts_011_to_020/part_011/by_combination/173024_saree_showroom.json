@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meenu Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Bridal shop",
+    "pincode": "173024",
+    "phone_number": "+91 98551 14414",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 150,
+    "address": "S.C.F.4, MEENU SAREES, Sector-13, Sector 13, Chandigarh, 160101",
+    "area": "Sector-13, Sector 13",
+    "latitude": 30.713656999999998,
+    "longitude": 76.8423198,
+    "place_id": "ChIJGZR0rTGTDzkRb6YPwy_eDyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZR0rTGTDzkRb6YPwy_eDyg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:20:07"
+  },
+  {
+    "business_name": "Virafolks",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "173024",
+    "phone_number": "+91 98107 11558",
+    "website": "https://www.virafolks.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "The Manav Hut, 602, Apartments, near Dolphin Chowk, Mansa Devi Complex, Phase - I, MDC Sector 4, Panchkula, Haryana 134114",
+    "area": "Mansa Devi Complex, Phase - I, MDC Sector 4",
+    "latitude": 30.729537899999997,
+    "longitude": 76.8498386,
+    "place_id": "ChIJGWvIj46TDzkRCi9vVK6hfTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWvIj46TDzkRCi9vVK6hfTc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:20:08"
+  }
+]

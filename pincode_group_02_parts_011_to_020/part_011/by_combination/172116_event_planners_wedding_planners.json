@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swanandi Events Management &Catres",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "172116",
+    "phone_number": "+91 79728 46430",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Sangli - Vita Rd, Gandhinagar, Vita, Maharashtra 415311",
+    "area": "Gandhinagar",
+    "latitude": 17.241045,
+    "longitude": 74.5410648,
+    "place_id": "ChIJf-oclYxpwTsRSkvs6MHCoUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-oclYxpwTsRSkvs6MHCoUA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:07:00"
+  },
+  {
+    "business_name": "Surya Event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "172116",
+    "phone_number": "+91 99474 82774",
+    "website": "http://www.suryaevents.in/",
+    "rating": 4.9,
+    "reviews_count": 77,
+    "address": "Nandhikulangara vaniyakkad road, North Paravur, Keralam 683520",
+    "area": "172116",
+    "latitude": 10.1431601,
+    "longitude": 76.24706139999999,
+    "place_id": "ChIJb4k4d4AQCDsRwpuJAZSObkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4k4d4AQCDsRwpuJAZSObkA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:07:02"
+  }
+]

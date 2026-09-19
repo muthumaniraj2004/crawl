@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hakushu Project",
+    "search_category": "Interior Designers",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "171226",
+    "phone_number": "+91 80910 70027",
+    "website": "https://www.thehakushu.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sainj, Himachal Pradesh 171226",
+    "area": "171226",
+    "latitude": 31.058830699999998,
+    "longitude": 77.4179788,
+    "place_id": "ChIJcVJ95caJBTkR01zDNwIZpK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVJ95caJBTkR01zDNwIZpK4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:11:09"
+  },
+  {
+    "business_name": "Castle & Co. Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator, Countertop store, Home goods store, Furniture store, Kitchen furniture store, Lamp shade supplier, Lighting store",
+    "pincode": "171226",
+    "phone_number": "+91 97799 53999",
+    "website": "https://castlecodecor.com/",
+    "rating": 4.8,
+    "reviews_count": 109,
+    "address": "S.C.O. 1, Inner Market, near indian oil petrol pump, Sector 7-C, Sector 7, Chandigarh, 160019",
+    "area": "Sector 7-C, Sector 7",
+    "latitude": 30.7365933,
+    "longitude": 76.8004089,
+    "place_id": "ChIJMUkUlU7tDzkRGyxyJWvBhwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUkUlU7tDzkRGyxyJWvBhwk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:11:11"
+  }
+]

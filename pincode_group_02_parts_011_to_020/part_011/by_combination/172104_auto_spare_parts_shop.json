@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good Luck Car Care",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "172104",
+    "phone_number": "+91 70189 60027",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Khawangi, Reckong Peo, Himachal Pradesh 172107",
+    "area": "172104",
+    "latitude": 31.5512904,
+    "longitude": 78.2736303,
+    "place_id": "ChIJo3R6ffZpBjkRS0zk_W5e3h0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3R6ffZpBjkRS0zk_W5e3h0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:46:04"
+  },
+  {
+    "business_name": "Himachal Deckore",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "172104",
+    "phone_number": "+91 98166 04900",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Motor market, Rohru - Sungri - Rampur Rd, Nogli, Himachal Pradesh 172001",
+    "area": "172104",
+    "latitude": 31.3397178,
+    "longitude": 77.67048989999999,
+    "place_id": "ChIJ2QmDDunpBTkRr0eoluNWMdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QmDDunpBTkRr0eoluNWMdQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:46:05"
+  }
+]

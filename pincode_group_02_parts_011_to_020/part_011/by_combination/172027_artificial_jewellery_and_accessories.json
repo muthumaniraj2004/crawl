@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sapna Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry buyer",
+    "all_categories": "Jewelry buyer",
+    "pincode": "172027",
+    "phone_number": "+91 82195 73535",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aani Road, Luhri, Himachal Pradesh 172001",
+    "area": "172027",
+    "latitude": 31.3401638,
+    "longitude": 77.4289598,
+    "place_id": "ChIJeZsmKsGXBTkRmbogiqYLaJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZsmKsGXBTkRmbogiqYLaJo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:12"
+  },
+  {
+    "business_name": "Mahajan Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Cosmetics store, Handbags shop, Jewelry equipment supplier",
+    "pincode": "172027",
+    "phone_number": "+91 97363 72212",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bajar, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5566823,
+    "longitude": 76.1238225,
+    "place_id": "ChIJR8A6rRe9HDkRnkt7STIQDL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8A6rRe9HDkRnkt7STIQDL0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:13"
+  }
+]

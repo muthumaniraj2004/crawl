@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisaan Milk Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "172102",
+    "phone_number": "+91 98725 05798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Hakima Street, opposite PNB bank, Nabha, Punjab 147201",
+    "area": "172102",
+    "latitude": 30.373375399999997,
+    "longitude": 76.1485411,
+    "place_id": "ChIJ4Vo0t9c5EDkRuZteJL3_8b0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Vo0t9c5EDkRuZteJL3_8b0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:11"
+  },
+  {
+    "business_name": "Milkana Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "172102",
+    "phone_number": "+91 98773 10890",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "89VP+H6Q, Gian Colony, Civil Lines, Patiala, Punjab 147001",
+    "area": "Gian Colony, Civil Lines",
+    "latitude": 30.3439567,
+    "longitude": 76.3856157,
+    "place_id": "ChIJTwSeFb4oEDkR1ihEuFG6oro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTwSeFb4oEDkR1ihEuFG6oro",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:12"
+  }
+]

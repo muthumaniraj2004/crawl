@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Handicrafts",
+    "search_category": "Exhibitions",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft",
+    "pincode": "172034",
+    "phone_number": "+91 98166 77752",
+    "website": "https://indian.handicrafts.gov.in/",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+    "area": "Lakkar Bazar",
+    "latitude": 31.106474,
+    "longitude": 77.178512,
+    "place_id": "ChIJIXiDbZF4BTkR0Wv-ktcgHn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXiDbZF4BTkR0Wv-ktcgHn4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:40:20"
+  },
+  {
+    "business_name": "MDnD Entertainment Private Limited | Music of Madras",
+    "search_category": "Exhibitions",
+    "primary_category": "Event technology service",
+    "all_categories": "Event technology service, Event ticket seller, Recording studio, Video production service",
+    "pincode": "172034",
+    "phone_number": "+91 99401 52520",
+    "website": "https://www.mdnd.in/",
+    "rating": 4.4,
+    "reviews_count": 38,
+    "address": "149/1, Luz Church Rd, Bhaskarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+    "area": "Bhaskarapuram, Mylapore",
+    "latitude": 13.0375751,
+    "longitude": 80.2608501,
+    "place_id": "ChIJj0p3cCJnUjoRE5O5J163R5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0p3cCJnUjoRE5O5J163R5Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:40:20"
+  }
+]

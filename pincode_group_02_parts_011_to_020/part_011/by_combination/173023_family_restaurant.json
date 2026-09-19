@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hungry Point - Kala Amb",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Family restaurant, Hamburger restaurant, Italian restaurant, Pizza restaurant, Western restaurant",
+    "pincode": "173023",
+    "phone_number": "+91 70278 31313",
+    "website": "https://www.hungrypoint.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Naraingarh Road, opp. Hotel Highway Chaser, Kala Amb, Haryana 134203",
+    "area": "173023",
+    "latitude": 30.4981355,
+    "longitude": 77.209063,
+    "place_id": "ChIJ_aBWY0kJDzkREQn6cE7OMGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aBWY0kJDzkREQn6cE7OMGE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:23"
+  },
+  {
+    "business_name": "FOOD ADDA",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "173023",
+    "phone_number": "+91 88943 99322",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "teh, near degree college, Jaoga, Sangrah, Himachal Pradesh 173023",
+    "area": "173023",
+    "latitude": 30.6960408,
+    "longitude": 77.4335717,
+    "place_id": "ChIJKSfkNxhtDzkRz9mWXZ5fiPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSfkNxhtDzkRz9mWXZ5fiPw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:26"
+  }
+]

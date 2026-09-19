@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "172101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GRV8+VV8 After, Jeori, Himachal Pradesh 172101",
+    "area": "172101",
+    "latitude": 31.5446611,
+    "longitude": 77.8172053,
+    "place_id": "ChIJB9t6IlzbBTkR4lbfX_qVE3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9t6IlzbBTkR4lbfX_qVE3I",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:40:34"
+  },
+  {
+    "business_name": "Tea Stal",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "172101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH 16, Himachal Pradesh 174102",
+    "area": "172101",
+    "latitude": 31.075665299999997,
+    "longitude": 76.7519327,
+    "place_id": "ChIJwxGqsAtdBTkRMuTofvWFcoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxGqsAtdBTkRMuTofvWFcoY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:40:37"
+  }
+]

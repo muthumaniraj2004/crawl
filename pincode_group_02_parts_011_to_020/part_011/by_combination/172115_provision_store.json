@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangeeta Enterprise",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "172115",
+    "phone_number": "+91 94182 02743",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HW5G 79F, Bhavanagar, Kullu, Kangosh, Himachal Pradesh 172115",
+    "area": "HW5G 79F, Bhavanagar",
+    "latitude": 31.558417499999997,
+    "longitude": 77.9261305,
+    "place_id": "ChIJuaLAEC3ZBTkRNje4E9GKyxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaLAEC3ZBTkRNje4E9GKyxo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:04:18"
+  },
+  {
+    "business_name": "D.N Negi",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "172115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kachrang, Himachal Pradesh 172115",
+    "area": "172115",
+    "latitude": 31.5779122,
+    "longitude": 77.94312149999999,
+    "place_id": "ChIJcXaxnA93BjkRMON_Kw2G0_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXaxnA93BjkRMON_Kw2G0_c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:04:18"
+  }
+]

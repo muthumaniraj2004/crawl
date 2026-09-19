@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thanal Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "172106",
+    "phone_number": "+91 98950 05600",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "FPWJ+QFV, Parakkulangara, Uralloor Post, Arikkulam, Keralam 673620",
+    "area": "172106",
+    "latitude": 11.4969799,
+    "longitude": 75.7311632,
+    "place_id": "ChIJ_4A0eI5ipjsRheSpyt003Cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4A0eI5ipjsRheSpyt003Cg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:49:18"
+  },
+  {
+    "business_name": "Saxena Kidney Care Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Hospital",
+    "pincode": "172106",
+    "phone_number": "+91 91315 91559",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Saxena Kidney Care Center, 321 BC, near MASC Hospital, near World Cup Square, Scheme No 140, Indore, Madhya Pradesh 452016",
+    "area": "Scheme No 140",
+    "latitude": 22.7090288,
+    "longitude": 75.9116288,
+    "place_id": "ChIJq-bfgM7iYjkRbAdcPrSnfKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-bfgM7iYjkRbAdcPrSnfKQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:49:18"
+  }
+]

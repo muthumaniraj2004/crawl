@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PURPLE SPA SALOON",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "171217",
+    "phone_number": "+91 98829 99966",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 50,
+    "address": "Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur",
+    "latitude": 31.531570199999997,
+    "longitude": 76.8882331,
+    "place_id": "ChIJZ4XGz3gZBTkRGCdDflCXRBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4XGz3gZBTkRGCdDflCXRBc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:55:25"
+  },
+  {
+    "business_name": "The Relief Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Spa",
+    "pincode": "171217",
+    "phone_number": "+91 95924 69289",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 25,
+    "address": "Scf 76, 2nd floor, near Gurdwara, Phase 11, Tarf Kumbra, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 11, Tarf Kumbra",
+    "latitude": 30.6803013,
+    "longitude": 76.74571279999999,
+    "place_id": "ChIJE_BcSnntDzkRlbWG5y3N6k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_BcSnntDzkRlbWG5y3N6k8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:55:26"
+  }
+]

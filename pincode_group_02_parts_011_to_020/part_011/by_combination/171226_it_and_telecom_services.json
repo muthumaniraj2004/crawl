@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL OFFICE",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "171226",
+    "phone_number": "N/A",
+    "website": "https://www.bsnl.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2FV4+55M, Deha, Himachal Pradesh 171220",
+    "area": "171226",
+    "latitude": 31.0429635,
+    "longitude": 77.4554187,
+    "place_id": "ChIJlT0zWgCJBTkRsFpK-KPf6pI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlT0zWgCJBTkRsFpK-KPf6pI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:11:38"
+  },
+  {
+    "business_name": "Techgrace Solutions Pvt Ltd",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "171226",
+    "phone_number": "+91 94012 20122",
+    "website": "https://www.techgrace.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "4th Floor, Chandigarh City Centre, Showroom No 56, C Block, VIP Rd, Zirakpur, Punjab 140603",
+    "area": "171226",
+    "latitude": 30.6387872,
+    "longitude": 76.8205158,
+    "place_id": "ChIJ9-NNLZnrDzkRBepp4owESAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-NNLZnrDzkRBepp4owESAs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:11:39"
+  }
+]

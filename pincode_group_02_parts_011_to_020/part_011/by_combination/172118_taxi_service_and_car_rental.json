@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saba Taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "172118",
+    "phone_number": "N/A",
+    "website": "https://saba-taxi-service.grexa.site/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Abul Fazal Enclave, D-26, Shaheen Bagh, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+    "area": "Shaheen Bagh, Jamia Nagar, Okhla",
+    "latitude": 28.544192,
+    "longitude": 77.301129,
+    "place_id": "ChIJjyBXu3XkDDkROGN5dX0FltE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyBXu3XkDDkROGN5dX0FltE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:10:09"
+  },
+  {
+    "business_name": "YUVA TAXI",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Transportation service",
+    "pincode": "172118",
+    "phone_number": "+91 73552 09080",
+    "website": "https://www.yuvataxi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FLAT NO 30, HIMALAYA HOME, G.B NAGAR, Garhi Chaukhandi, VILL, Noida, Basi Bahuddin Nagar, Uttar Pradesh 201301",
+    "area": "G.B NAGAR, Garhi Chaukhandi, VILL",
+    "latitude": 28.5998953,
+    "longitude": 77.3907024,
+    "place_id": "ChIJsY4PLVPvDDkRCvRpupWkIEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsY4PLVPvDDkRCvRpupWkIEQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:10:09"
+  }
+]

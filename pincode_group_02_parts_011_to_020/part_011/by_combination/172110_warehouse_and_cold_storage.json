@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Cold Stores Pvt.Ltd.",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "172110",
+    "phone_number": "+91 99039 97953",
+    "website": "https://primecold.com/",
+    "rating": 4.2,
+    "reviews_count": 55,
+    "address": "H37H+F32, Howrah Ranihati Road, Howrah, West Bengal 711401",
+    "area": "172110",
+    "latitude": 22.5636482,
+    "longitude": 88.0776399,
+    "place_id": "ChIJQTX4woyAAjoRbOpcGJwBFLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTX4woyAAjoRbOpcGJwBFLs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:57:07"
+  },
+  {
+    "business_name": "Manohar Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "172110",
+    "phone_number": "+91 98972 05244",
+    "website": "http://www.manoharcoldstorage.in/",
+    "rating": 3.9,
+    "reviews_count": 270,
+    "address": "Sardhana Rd Flyover, Kankar Khera, Nangla Tashi, Meerut, Uttar Pradesh 250001",
+    "area": "Kankar Khera, Nangla Tashi",
+    "latitude": 29.034678399999997,
+    "longitude": 77.67241179999999,
+    "place_id": "ChIJoXYoTYVlDDkR-YcdL5klpHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXYoTYVlDDkR-YcdL5klpHs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:57:07"
+  }
+]

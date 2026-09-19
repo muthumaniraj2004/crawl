@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurveda Holic",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop, Herbal medicine store",
+    "pincode": "172027",
+    "phone_number": "+91 94628 42423",
+    "website": "https://ayurvedaholic.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7, Ganesh Mandir Rd, Gandhi Nagar, Bhilwara, Rajasthan 311001",
+    "area": "Gandhi Nagar",
+    "latitude": 25.3473324,
+    "longitude": 74.6270463,
+    "place_id": "ChIJLxb2tu4g94IRUl4WOs_ku5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxb2tu4g94IRUl4WOs_ku5U",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:48"
+  },
+  {
+    "business_name": "Orange Boutique Organics",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Acupuncture clinic, Natural goods store",
+    "pincode": "172027",
+    "phone_number": "+91 97513 89780",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st cross, Bagalur Rd, Ramanasree Nagar, Hosur, Tamil Nadu 635109",
+    "area": "NGGO's Colony, Ramanasree Nagar",
+    "latitude": 12.7452911,
+    "longitude": 77.8327,
+    "place_id": "ChIJeV3UUNJwrjsRyyTOeHTDopY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeV3UUNJwrjsRyyTOeHTDopY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:48"
+  }
+]

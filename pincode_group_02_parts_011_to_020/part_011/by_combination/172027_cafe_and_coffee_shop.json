@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Oak Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Art cafe",
+    "all_categories": "Art cafe",
+    "pincode": "172027",
+    "phone_number": "+91 70185 21118",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4HGM+JW, Gonth, Bari Khas, Himachal Pradesh 176061",
+    "area": "Gonth",
+    "latitude": 32.126565,
+    "longitude": 76.5848721,
+    "place_id": "ChIJCeENky2xBDkRNV0UBKEtgPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeENky2xBDkRNV0UBKEtgPw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:06"
+  },
+  {
+    "business_name": "The Coffee Club_ Nerchowk",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "172027",
+    "phone_number": "+91 78767 52040",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st floor, Kaul complex, Shop no 1 and 2, above hungry point, Ner Chowk, Himachal Pradesh 175021",
+    "area": "172027",
+    "latitude": 31.609122199999998,
+    "longitude": 76.9166522,
+    "place_id": "ChIJX-HHBtkfBTkRvPioqtn9Ikg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-HHBtkfBTkRvPioqtn9Ikg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:09"
+  }
+]

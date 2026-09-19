@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dogs world dehradun branch Manali",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Dog breeder",
+    "all_categories": "Dog breeder, Pet store, Pet supply store",
+    "pincode": "172114",
+    "phone_number": "+91 80776 87775",
+    "website": "https://www.dogsworlddehradun.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ward no 7 main nagar road, New, near rishi palace, Manali, Himachal Pradesh 175143",
+    "area": "172114",
+    "latitude": 32.194468799999996,
+    "longitude": 77.20083249999999,
+    "place_id": "ChIJ9wZgPB9jBDkRq2eku4A5QtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wZgPB9jBDkRq2eku4A5QtI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:02:43"
+  },
+  {
+    "business_name": "Pets haveli",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "172114",
+    "phone_number": "N/A",
+    "website": "https://jsdl.in/DT-99KJJR9N1TI",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "SSB CHOWK, near bliss hotel, Ghuggar, Palampur, Himachal Pradesh 176061",
+    "area": "Ghuggar",
+    "latitude": 32.1134621,
+    "longitude": 76.5268667,
+    "place_id": "ChIJKYZ-SxCzBDkRQM6qVEHhNQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYZ-SxCzBDkRQM6qVEHhNQg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:02:46"
+  }
+]

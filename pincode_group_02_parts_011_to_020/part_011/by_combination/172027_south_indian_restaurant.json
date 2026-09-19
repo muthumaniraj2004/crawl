@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Dhaba",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Dhaba",
+    "pincode": "172027",
+    "phone_number": "+91 84270 38018",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 759,
+    "address": "QQFC+3CG, Khudda Lahora, Chandigarh 160103",
+    "area": "Khudda Lahora",
+    "latitude": 30.7727465,
+    "longitude": 76.7710864,
+    "place_id": "ChIJ4eyR_HryDzkR7JXGgKX5xhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eyR_HryDzkR7JXGgKX5xhk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:06"
+  },
+  {
+    "business_name": "Anna Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Fast food restaurant, Restaurant",
+    "pincode": "172027",
+    "phone_number": "+91 75007 98941",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 533,
+    "address": "Shop No 20, Dashmesh Nagar, Nayagaon, Punjab 160103",
+    "area": "Dashmesh Nagar",
+    "latitude": 30.7731067,
+    "longitude": 76.7936725,
+    "place_id": "ChIJZZp2F6bzDzkRmB82_yEgdnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZp2F6bzDzkRmB82_yEgdnQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:06"
+  }
+]

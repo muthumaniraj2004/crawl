@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smile Dental care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "171220",
+    "phone_number": "+91 62303 44547",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazaar, Sainj, Theog, Himachal Pradesh 171220",
+    "area": "171220",
+    "latitude": 31.076316,
+    "longitude": 77.3912953,
+    "place_id": "ChIJhw6n7JCJBTkRBVH2YTy3SjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhw6n7JCJBTkRBVH2YTy3SjE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:00:17"
+  },
+  {
+    "business_name": "Aashirwad Dental Health Resort",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "171220",
+    "phone_number": "+91 99537 90289",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Theog - Hatkoti - Rohru Rd, Theog, Himachal Pradesh 171220",
+    "area": "171220",
+    "latitude": 31.1006625,
+    "longitude": 77.39242879999999,
+    "place_id": "ChIJncQy4uyFBTkR8hqAP0K976g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncQy4uyFBTkR8hqAP0K976g",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:00:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SEVA Facility Management & Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Pest control service",
+    "pincode": "173202",
+    "phone_number": "+91 99306 07290",
+    "website": "https://www.facilitymanagementandservices.com/",
+    "rating": 4,
+    "reviews_count": 45,
+    "address": "1605, Rainart tower, Vartak Nagar, Thane West, Thane, Maharashtra 400606",
+    "area": "Vartak Nagar, Thane West",
+    "latitude": 19.214709,
+    "longitude": 72.9614362,
+    "place_id": "ChIJG4kx6Xm55zsRNLXTi-lEk60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4kx6Xm55zsRNLXTi-lEk60",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:40:30"
+  },
+  {
+    "business_name": "AM's Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "173202",
+    "phone_number": "N/A",
+    "website": "http://www.amscleaningteam.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "37 Mason Dixon Trail, Fairfield, PA 17320, United States",
+    "area": "173202",
+    "latitude": 39.720208,
+    "longitude": -77.370102,
+    "place_id": "ChIJB7pHb21K9GYRMjLREQ163_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7pHb21K9GYRMjLREQ163_U",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:40:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MedPlus Pharmacy",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "172110",
+    "phone_number": "N/A",
+    "website": "https://www.medplusmart.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3J7H+4V5, Kothamangalam, Keralam 686691",
+    "area": "172110",
+    "latitude": 10.0627772,
+    "longitude": 76.6297197,
+    "place_id": "ChIJxVzFDgDnBzsRRjznjDLHlO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVzFDgDnBzsRRjznjDLHlO8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:55:58"
+  },
+  {
+    "business_name": "Choriamthadathil Drug House",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Medical supply store",
+    "pincode": "172110",
+    "phone_number": "+91 485 226 1439",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "Thodupuzha - Muvattupuzha Rd, Vazhakulam, Keralam 686670",
+    "area": "172110",
+    "latitude": 9.9437265,
+    "longitude": 76.64098489999999,
+    "place_id": "ChIJM2wTUtXcBzsRoaLbKZy4sh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2wTUtXcBzsRoaLbKZy4sh8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:55:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KC Computers",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Store",
+    "pincode": "172023",
+    "phone_number": "+91 98046 46098",
+    "website": "http://www.kccomputers.co.in/",
+    "rating": 4.8,
+    "reviews_count": 5049,
+    "address": "15A Gurmehar Complex Model Gram Extension, Kochar Market Rd, Ludhiana, Punjab 141002",
+    "area": "Sargodha Colony, Model Gram",
+    "latitude": 30.894903,
+    "longitude": 75.8361843,
+    "place_id": "ChIJwQTEQ7GDGjkR2TfvaEC1t4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQTEQ7GDGjkR2TfvaEC1t4A",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:21:27"
+  },
+  {
+    "business_name": "Kps Computer Education Bagodih",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "172023",
+    "phone_number": "+91 93259 64491",
+    "website": "https://app.niacteducation.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Urro, Road, Bagodih, Suriya, Jharkhand 825320",
+    "area": "172023",
+    "latitude": 24.2069625,
+    "longitude": 85.9218259,
+    "place_id": "ChIJ3ZSNxKGN8zkR49-J93Ms5KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZSNxKGN8zkR49-J93Ms5KU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:21:27"
+  }
+]

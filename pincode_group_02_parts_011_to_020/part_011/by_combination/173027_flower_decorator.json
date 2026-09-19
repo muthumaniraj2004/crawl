@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghu Nath Flower shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "173027",
+    "phone_number": "+91 98154 03752",
+    "website": "http://www.raghunathflowershop.in/",
+    "rating": 4.9,
+    "reviews_count": 46,
+    "address": "44F8+GMJ, Kothi Rd, opp. daily fresh, Pathaka Mohalla, Satgur Nagar, Nawanshahr, Punjab 144514",
+    "area": "Pathaka Mohalla, Satgur Nagar",
+    "latitude": 31.1240289,
+    "longitude": 76.1170088,
+    "place_id": "ChIJJZ0vh569GjkRvwaXx1k2MFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZ0vh569GjkRvwaXx1k2MFA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:26:10"
+  },
+  {
+    "business_name": "Saraswati flowers decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "173027",
+    "phone_number": "+91 94117 16160",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near SBI Bank, Tyagi Market, Prem Nagar, Dehradun, Uttarakhand 248007",
+    "area": "Tyagi Market, Prem Nagar",
+    "latitude": 30.3308684,
+    "longitude": 77.9617932,
+    "place_id": "ChIJXxqjC5ArCTkRUTiENYP1Mqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxqjC5ArCTkRUTiENYP1Mqk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:26:13"
+  }
+]

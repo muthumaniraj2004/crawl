@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahayya Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Property maintenance",
+    "all_categories": "Property maintenance",
+    "pincode": "172103",
+    "phone_number": "+91 70303 05401",
+    "website": "https://www.sahayya.org/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 1-A, Kamgar Chowk, D-Seotor, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Kamgar Chowk, D-Seotor, N 2, Cidco",
+    "latitude": 19.873543599999998,
+    "longitude": 75.366518,
+    "place_id": "ChIJx-vIK46j2zsRRcoZBG2SVuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-vIK46j2zsRRcoZBG2SVuY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:45:12"
+  },
+  {
+    "business_name": "Mohishree Facility Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Sanitation service",
+    "all_categories": "Sanitation service",
+    "pincode": "172103",
+    "phone_number": "+91 94236 79285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 2 Gut No. 40, Mohishree Facility Services, Swastik Nagar Sahajapur Road, MIDC, Waluj, Chhatrapati Sambhajinagar, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "MIDC, Waluj",
+    "latitude": 19.845519,
+    "longitude": 75.22458999999999,
+    "place_id": "ChIJhZVHVKSb2zsRvIZWP0gYrgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZVHVKSb2zsRvIZWP0gYrgM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:45:12"
+  }
+]

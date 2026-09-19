@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akal Charitable Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "172109",
+    "phone_number": "+91 98164 41198",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Q74X+7P5, Baru Sahib Road, Baru Sahib, Himachal Pradesh 173101",
+    "area": "172109",
+    "latitude": 30.7556314,
+    "longitude": 77.29935809999999,
+    "place_id": "ChIJk_otIjpxDzkRXJ-qjwiCbMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_otIjpxDzkRXJ-qjwiCbMc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:54:17"
+  },
+  {
+    "business_name": "Meenachchi Medical Mart",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "172109",
+    "phone_number": "+91 452 262 8710",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "New No. 131, Old No. 16, North Perumal Mystri Street, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9236313,
+    "longitude": 78.1172811,
+    "place_id": "ChIJP9xE94XFADsRaB0hDuN_OZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9xE94XFADsRaB0hDuN_OZc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:54:19"
+  }
+]

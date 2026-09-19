@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpex Pharma Pvt Ltd - Third Party Pharma Manufacturing",
+    "search_category": "EXIMS",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Manufacturer",
+    "pincode": "171219",
+    "phone_number": "+91 94570 95000",
+    "website": "https://alpexpharma.in/",
+    "rating": 4.4,
+    "reviews_count": 35,
+    "address": "Suketi Rd, Kala Amb, Nagal Saketi, Himachal Pradesh 173030",
+    "area": "171219",
+    "latitude": 30.498256599999998,
+    "longitude": 77.219268,
+    "place_id": "ChIJPfaoXicJDzkR8UJe1zWQ9sU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfaoXicJDzkR8UJe1zWQ9sU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:59:40"
+  },
+  {
+    "business_name": "India Post",
+    "search_category": "EXIMS",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "171219",
+    "phone_number": "+91 177 286 0230",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "24RG+JCF, Shoghi, Shimla, Shoghi, Himachal Pradesh 171219",
+    "area": "Shoghi",
+    "latitude": 31.0415717,
+    "longitude": 77.1260558,
+    "place_id": "ChIJdyQDt-x-BTkRFG_4207ePo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyQDt-x-BTkRFG_4207ePo0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:59:40"
+  }
+]

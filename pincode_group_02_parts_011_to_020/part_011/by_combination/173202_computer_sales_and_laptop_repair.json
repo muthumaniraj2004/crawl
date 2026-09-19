@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BE Computer Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store, Data recovery service",
+    "pincode": "173202",
+    "phone_number": "+91 86575 08845",
+    "website": "https://sites.google.com/view/becomputersolutions/home",
+    "rating": 4.8,
+    "reviews_count": 68,
+    "address": "Satara Road, near Dahiwadi College, Dahiwadi, Maharashtra 415508",
+    "area": "173202",
+    "latitude": 17.701871999999998,
+    "longitude": 74.540232,
+    "place_id": "ChIJj5RFl1XDwzsRxYBuEF8LNQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5RFl1XDwzsRxYBuEF8LNQ4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:40:21"
+  },
+  {
+    "business_name": "MS COMPUTER",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer desk store",
+    "all_categories": "Computer desk store, Camera repair shop, Camera store, Computer accessories store, Computer Hardware Company, Computer networking service, Computer service, Computer software store, Computer Wholesaler, Printer repair service",
+    "pincode": "173202",
+    "phone_number": "+91 87880 28134",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.3, Patil Complex, Wadegao Chowk, Wadegao Naka, Sangola, Maharashtra 413307",
+    "area": "173202",
+    "latitude": 17.436619,
+    "longitude": 75.1957963,
+    "place_id": "ChIJQdmcIeOnxjsR5G3QTeNWUNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdmcIeOnxjsR5G3QTeNWUNQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:40:23"
+  }
+]

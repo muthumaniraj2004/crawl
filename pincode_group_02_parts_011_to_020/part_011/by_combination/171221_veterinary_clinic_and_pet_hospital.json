@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vety dog clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Veterinary pharmacy",
+    "pincode": "171221",
+    "phone_number": "+91 98859 49945",
+    "website": "http://vetydogclinic.co/",
+    "rating": 4.8,
+    "reviews_count": 1009,
+    "address": "Sardar Patel Nagar Rd, Kukatpally Housing Board Colony, Dharma Reddy Colony Phase II, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, Dharma Reddy Colony Phase II, Kukatpally",
+    "latitude": 17.4966148,
+    "longitude": 78.3882059,
+    "place_id": "ChIJ8xT2jy-RyzsRTzbXymfHmU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xT2jy-RyzsRTzbXymfHmU4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:02:10"
+  },
+  {
+    "business_name": "Jeeva Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Emergency veterinarian service, Pet cemetery, Pet groomer, Pet supply store, Veterinary pharmacy",
+    "pincode": "171221",
+    "phone_number": "+91 80 4268 7782",
+    "website": "http://www.jeevapethospital.in/",
+    "rating": 4.3,
+    "reviews_count": 2983,
+    "address": "1360, 9th Cross Rd, opposite Rajshekar Hospital, Jeewan Sathi Colony, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "Jeewan Sathi Colony, 1st Phase, J. P. Nagar",
+    "latitude": 12.9105262,
+    "longitude": 77.58030629999999,
+    "place_id": "ChIJh54Fg3IVrjsRISSedyK_sz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh54Fg3IVrjsRISSedyK_sz8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:02:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal taxi services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "173024",
+    "phone_number": "+91 98578 38050",
+    "website": "https://www.facebook.com/share/1aKUHQThzg/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Oachghat zeero point, opposite to HP petrol pump, near sabji Mandi, Oachghat, Himachal Pradesh 173223",
+    "area": "173024",
+    "latitude": 30.8681521,
+    "longitude": 77.1392923,
+    "place_id": "ChIJOZH_fAmDDzkR4qDv8A4IvSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZH_fAmDDzkR4qDv8A4IvSk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:20:34"
+  },
+  {
+    "business_name": "Spiti Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "173024",
+    "phone_number": "+91 70181 78956",
+    "website": "https://spititaxiservicewebsite.vercel.app/#tours",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Zero point Oachghat, Himachal Pradesh 173223",
+    "area": "173024",
+    "latitude": 30.867972599999998,
+    "longitude": 77.1407394,
+    "place_id": "ChIJU7Z7m_CDDzkR6UprS5zGY8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7Z7m_CDDzkR6UprS5zGY8o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:20:34"
+  }
+]

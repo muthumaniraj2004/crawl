@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHUSHI GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "173027",
+    "phone_number": "+91 62308 48827",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Road, Shillai, Ronhat, Himachal Pradesh 173027",
+    "area": "Road",
+    "latitude": 30.7711914,
+    "longitude": 77.65103789999999,
+    "place_id": "ChIJ2fS5mtJDDzkRgybtIfUKdJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fS5mtJDDzkRgybtIfUKdJo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:25:17"
+  },
+  {
+    "business_name": "BHANDARI JI &SON'S",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173027",
+    "phone_number": "+91 88949 53888",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Unnamed Road, Milla Magnal, Himachal Pradesh 173029",
+    "area": "173027",
+    "latitude": 30.6744801,
+    "longitude": 77.62660029999999,
+    "place_id": "ChIJRRWXQrFBDzkRgbMoTgvNJ8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRWXQrFBDzkRgbMoTgvNJ8w",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:25:17"
+  }
+]

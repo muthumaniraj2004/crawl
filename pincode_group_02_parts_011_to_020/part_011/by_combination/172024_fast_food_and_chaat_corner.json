@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chatori Gully Dharamshala",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Sweet shop, Chinese noodle restaurant, North Indian restaurant, South Indian restaurant",
+    "pincode": "172024",
+    "phone_number": "+91 62304 19727",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chatori ,Gully, Near Sacred Heart School, Sidhpur, District KangraHimachal Pradesh, Dharamshala, Himachal Pradesh 176215",
+    "area": "172024",
+    "latitude": 32.1914709,
+    "longitude": 76.3506893,
+    "place_id": "ChIJ4f0KUiFRGzkRYnyipL4sClY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4f0KUiFRGzkRYnyipL4sClY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:22:11"
+  },
+  {
+    "business_name": "Royal Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "172024",
+    "phone_number": "+91 88085 86860",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 73,
+    "address": "Near Gonda Chowk, Pipal Chauraha, 805, Malviya Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Malviya Nagar, Jhanjhari Block",
+    "latitude": 27.1306662,
+    "longitude": 81.96539659999999,
+    "place_id": "ChIJm0EIouLxmTkRZtVjWaOcAOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0EIouLxmTkRZtVjWaOcAOo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:22:12"
+  }
+]

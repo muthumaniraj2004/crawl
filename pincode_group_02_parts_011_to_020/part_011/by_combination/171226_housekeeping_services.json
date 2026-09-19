@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "satya facility services pvt Ltd",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning service",
+    "all_categories": "Cleaning service",
+    "pincode": "171226",
+    "phone_number": "+91 98150 88606",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "plot no 66, Majumdar Block, Industrial Area Phase I, Chandigarh, 160002",
+    "area": "Majumdar Block, Industrial Area Phase I",
+    "latitude": 30.685936599999998,
+    "longitude": 76.7854206,
+    "place_id": "ChIJs7SSu3PtDzkRRDFoY9NBang",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7SSu3PtDzkRRDFoY9NBang",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:11:45"
+  },
+  {
+    "business_name": "Elite Winds Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Dry cleaner, Cleaning Services, Pool cleaning service, Tile cleaning service, Water Tank Cleaners, Window cleaning service",
+    "pincode": "171226",
+    "phone_number": "+91 70872 87930",
+    "website": "https://elitewinds.com/",
+    "rating": 4.8,
+    "reviews_count": 308,
+    "address": "286, Bar Majra, near ATS CASA ESPANA, Sahibzada Ajit Singh Nagar, Punjab, 160055",
+    "area": "171226",
+    "latitude": 30.739757899999997,
+    "longitude": 76.70015169999999,
+    "place_id": "ChIJz3gbbM3vDzkR74pBV3VwRKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3gbbM3vDzkR74pBV3VwRKA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:11:47"
+  }
+]

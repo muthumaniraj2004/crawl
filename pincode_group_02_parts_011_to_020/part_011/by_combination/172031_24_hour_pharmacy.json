@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhyan Medicine Center",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "172031",
+    "phone_number": "+91 78077 90928",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Vidhyan Medicine Center, near CHC Hospital, Sangrah, Himachal Pradesh 173023",
+    "area": "172031",
+    "latitude": 30.6995118,
+    "longitude": 77.427095,
+    "place_id": "ChIJYQI-oG1tDzkRMjGkU58rQaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQI-oG1tDzkRMjGkU58rQaM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:34:00"
+  },
+  {
+    "business_name": "daynight pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "172031",
+    "phone_number": "+91 84848 82271",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Kalamnuri, Maharashtra 431702",
+    "area": "172031",
+    "latitude": 19.6755597,
+    "longitude": 77.3128011,
+    "place_id": "ChIJr8UuWB-x0TsRZB_btognx_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8UuWB-x0TsRZB_btognx_8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:34:02"
+  }
+]

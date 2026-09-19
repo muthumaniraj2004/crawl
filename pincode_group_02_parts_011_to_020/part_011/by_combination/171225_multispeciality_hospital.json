@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amritsagar Hospital, Baddi",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "171225",
+    "phone_number": "+91 78320 06300",
+    "website": "https://amritsagarhospital.in/",
+    "rating": 4.6,
+    "reviews_count": 178,
+    "address": "City square complex, SCO 5 & 6, Sai Rd, Baddi, Himachal Pradesh 173205",
+    "area": "171225",
+    "latitude": 30.938009899999997,
+    "longitude": 76.7996053,
+    "place_id": "ChIJbTDvRXL1DzkRRKi9cVz3jpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTDvRXL1DzkRRKi9cVz3jpY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:09:01"
+  },
+  {
+    "business_name": "Veritas Medtech Private Limited (Medical Equipment Dealer)",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "171225",
+    "phone_number": "+91 95665 32972",
+    "website": "http://www.veritasmedtech.com/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "S.No. 108, Sri Vignesh Nagar, Kumudham Nagar, Cheran ma Nagar, Villankurichi, Coimbatore, Tamil Nadu 641035",
+    "area": "Sri Vignesh Nagar, Kumudham Nagar, Cheran ma Nagar",
+    "latitude": 11.052614499999999,
+    "longitude": 77.01690839999999,
+    "place_id": "ChIJH1vK9XBXqDsR8rf-BTEF09o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1vK9XBXqDsR8rf-BTEF09o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:09:03"
+  }
+]

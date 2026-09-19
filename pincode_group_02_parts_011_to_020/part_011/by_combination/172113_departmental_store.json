@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SINGLA DEPARTMENTAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "172113",
+    "phone_number": "+91 97799 55407",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "22 Number Railway Flyover, Punjabi Bagh, Patiala, Punjab 147001",
+    "area": "Punjabi Bagh",
+    "latitude": 30.3413763,
+    "longitude": 76.3803408,
+    "place_id": "ChIJewGb2rgoEDkRxrEYsxXO8KI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewGb2rgoEDkRxrEYsxXO8KI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:00:50"
+  },
+  {
+    "business_name": "Neelgiri Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "172113",
+    "phone_number": "+91 77197 88975",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Jhill Rd, opposite Maharaja Narindra Enclave, Tripuri, Patiala, Punjab 147004",
+    "area": "Tripuri",
+    "latitude": 30.362244299999997,
+    "longitude": 76.39705459999999,
+    "place_id": "ChIJyybyIm8nEDkRe24zUPZbs94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyybyIm8nEDkRe24zUPZbs94",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:00:50"
+  }
+]

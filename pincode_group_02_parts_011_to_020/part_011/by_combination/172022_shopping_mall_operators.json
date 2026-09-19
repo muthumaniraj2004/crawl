@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LuLu International Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "172022",
+    "phone_number": "+91 484 272 7776",
+    "website": "https://www.kochi.lulumall.in/",
+    "rating": 4.6,
+    "reviews_count": 199038,
+    "address": "34/1000, Old NH 47, Edappally Junction, Nethaji Nagar, Edappally, Kochi, Ernakulam, Keralam 682024",
+    "area": "Edappally Junction, Nethaji Nagar, Edappally",
+    "latitude": 10.0271556,
+    "longitude": 76.3082302,
+    "place_id": "ChIJv4PRvq8NCDsRfqMTuhbzUVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4PRvq8NCDsRfqMTuhbzUVk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:20:17"
+  },
+  {
+    "business_name": "Phoenix Marketcity",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "172022",
+    "phone_number": "+91 22 4400 1000",
+    "website": "https://www.phoenixmarketcity.com/mumbai",
+    "rating": 4.5,
+    "reviews_count": 121909,
+    "address": "Lal Bahadur Shastri Marg, Patelwadi.Kurla, Kurla West, Kurla, Mumbai, Maharashtra 400070",
+    "area": "Patelwadi.Kurla, Kurla West, Kurla",
+    "latitude": 19.0863795,
+    "longitude": 72.8889774,
+    "place_id": "ChIJn4u374fI5zsRCkcZMZzJnZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4u374fI5zsRCkcZMZzJnZ8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:20:17"
+  }
+]

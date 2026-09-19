@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Great Indian masala dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "172110",
+    "phone_number": "+91 74703 64973",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "G7PV+55M, Narendra Nagar, Amaiya Colony, Rewa, Madhya Pradesh 486001",
+    "area": "Narendra Nagar, Amaiya Colony",
+    "latitude": 24.535460099999998,
+    "longitude": 81.292936,
+    "place_id": "ChIJWYqx_s1bhDkRgP1qPCXlBgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYqx_s1bhDkRgP1qPCXlBgE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:55:46"
+  },
+  {
+    "business_name": "Amman Mess",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "172110",
+    "phone_number": "+91 94435 68833",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 2304,
+    "address": "Ulavar Sandhai Road, Hosur, Tamil Nadu 635109",
+    "area": "172110",
+    "latitude": 12.7278091,
+    "longitude": 77.82733019999999,
+    "place_id": "ChIJgyoPu7dwrjsRrofXtBNSwSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyoPu7dwrjsRrofXtBNSwSk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:55:47"
+  }
+]

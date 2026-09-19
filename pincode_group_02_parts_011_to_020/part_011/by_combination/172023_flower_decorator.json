@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman flower nursery",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "172023",
+    "phone_number": "+91 86280 26774",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "58VR+WW9, near shiv mandir, Dari, Upahu, Himachal Pradesh 176215",
+    "area": "Dari",
+    "latitude": 32.1947864,
+    "longitude": 76.3423735,
+    "place_id": "ChIJc7X2w4tRGzkR4VQNfctGDOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7X2w4tRGzkR4VQNfctGDOI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:21:15"
+  },
+  {
+    "business_name": "TR Flower Decorations",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "172023",
+    "phone_number": "+91 99011 08606",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Rangappanapalya, Sira, Karnataka 572137",
+    "area": "Rangappanapalya",
+    "latitude": 13.7419888,
+    "longitude": 76.9067733,
+    "place_id": "ChIJE9YhAFJDsDsRclddH_YY_u0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9YhAFJDsDsRclddH_YY_u0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:21:18"
+  }
+]

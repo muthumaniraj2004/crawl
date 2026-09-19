@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Jay Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company",
+    "pincode": "172108",
+    "phone_number": "+91 98480 42774",
+    "website": "http://bluejaytravels.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "H.NO.B1, 12/MIG, HUDA Colony, Chanda Nagar, Hyderabad, Telangana 500050",
+    "area": "HUDA Colony, Chanda Nagar",
+    "latitude": 17.489698399999998,
+    "longitude": 78.33165609999999,
+    "place_id": "ChIJb7_MCOGTyzsRQXcjdjPUq1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7_MCOGTyzsRQXcjdjPUq1c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:52:49"
+  },
+  {
+    "business_name": "Chandra Bus Service Dehradun Uttarakhand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Bus charter, Bus company, Bus depot, Bus ticket agency, Tour agency, Tourist attraction, Tourist information center, Travel agency",
+    "pincode": "172108",
+    "phone_number": "+91 94117 13577",
+    "website": "https://www.instagram.com/chandra_bus_service/",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "67/8, Gandhi Rd, near Railway Station, opp. Soshil Motors - Azad Tyres, Dhamawala Mohalla, Paltan Bazaar, Dehradun, Uttarakhand 248001",
+    "area": "Dhamawala Mohalla, Paltan Bazaar",
+    "latitude": 30.3161889,
+    "longitude": 78.0347942,
+    "place_id": "ChIJ-Ukl4ZMpCTkRWOzcGwwpHAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Ukl4ZMpCTkRWOzcGwwpHAQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:52:49"
+  }
+]

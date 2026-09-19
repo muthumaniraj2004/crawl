@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saroch Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "172102",
+    "phone_number": "+91 94184 10044",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "RQ35+3G2, near civil hospital, Dharampur, Chhapanu, Himachal Pradesh 175040",
+    "area": "172102",
+    "latitude": 31.8026286,
+    "longitude": 76.75876459999999,
+    "place_id": "ChIJH4ZOZPPcBDkRB9omF5Cw7cE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4ZOZPPcBDkRB9omF5Cw7cE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:31"
+  },
+  {
+    "business_name": "Apollo Pharmacy Nahan Himachal Pradesh",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Medical equipment supplier, Sports nutrition store, Surgical supply store, Vitamin & supplements store",
+    "pincode": "172102",
+    "phone_number": "+91 79 4281 4274",
+    "website": "https://www.apollopharmacy.in/?utm_source=gmb&utm_medium=organic&utm_campaign=sulekhapromanage-apollo-pharmacy",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "Ground Floor, Circular Rd, near Police Post, Ramkundi, Telecom Colony, Nahan, Himachal Pradesh 173001",
+    "area": "Ramkundi, Telecom Colony",
+    "latitude": 30.5618086,
+    "longitude": 77.2948,
+    "place_id": "ChIJ2QNNJvsNDzkRMxI7Bvewwyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QNNJvsNDzkRMxI7Bvewwyo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:32"
+  }
+]

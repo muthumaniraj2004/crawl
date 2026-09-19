@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mazaa Munch",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "173030",
+    "phone_number": "+91 98963 51428",
+    "website": "http://mazaamunch.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Mazaa Munch, Chandigarh Road, near Central Bank, Naraingarh, Raipur Rani, Haryana 134204",
+    "area": "173030",
+    "latitude": 30.582985899999997,
+    "longitude": 77.0225437,
+    "place_id": "ChIJUXX5V26jDzkRA2vchTmwL4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXX5V26jDzkRA2vchTmwL4U",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:28:50"
+  },
+  {
+    "business_name": "Grill Masters",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "173030",
+    "phone_number": "+91 86073 02020",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Barara Road, near HDFC Bank, Sadhaura, Haryana 133204",
+    "area": "173030",
+    "latitude": 30.377328799999997,
+    "longitude": 77.2191491,
+    "place_id": "ChIJ18wNxKUHDzkRcKR0LgAQNps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18wNxKUHDzkRcKR0LgAQNps",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:28:50"
+  }
+]

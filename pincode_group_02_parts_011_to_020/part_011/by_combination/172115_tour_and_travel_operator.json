@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Planet Way Round",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "172115",
+    "phone_number": "+91 98961 65335",
+    "website": "http://www.planetwayround.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near AVN School, Naya Bazar, Nahan, Himachal Pradesh 173001",
+    "area": "Naya Bazar",
+    "latitude": 30.5592075,
+    "longitude": 77.297067,
+    "place_id": "ChIJM3ZdQw0NDzkRrTbVUUfgFhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3ZdQw0NDzkRrTbVUUfgFhs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:04:57"
+  },
+  {
+    "business_name": "i4u Travel Services",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency, Tour operator, Tourist information center",
+    "pincode": "172115",
+    "phone_number": "+91 94251 57188",
+    "website": "https://www.i4utravels.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "106,RAJUL LANDMARK, Russel Chowk, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.162571,
+    "longitude": 79.935946,
+    "place_id": "ChIJNZhVnA6ugTkRJkubTb1rkwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZhVnA6ugTkRJkubTb1rkwU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:04:58"
+  }
+]

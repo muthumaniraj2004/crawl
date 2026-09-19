@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Student Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Law Book Store",
+    "pincode": "171222",
+    "phone_number": "+91 88666 66559",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 58,
+    "address": "Booth No. 164, Sector 24D, Sector 24, Chandigarh, 160024",
+    "area": "Sector 24D, Sector 24",
+    "latitude": 30.7468218,
+    "longitude": 76.7596204,
+    "place_id": "ChIJERluT5XtDzkRAAAAMLCGQAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERluT5XtDzkRAAAAMLCGQAc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:04:33"
+  },
+  {
+    "business_name": "Mrs Janki",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "171222",
+    "phone_number": "+91 98162 96915",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Janki Shop, Nh05, Gumma, Himachal Pradesh 171202",
+    "area": "171222",
+    "latitude": 31.1198728,
+    "longitude": 77.486063,
+    "place_id": "ChIJSS29ykqNBTkR5AXeFxBdfrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSS29ykqNBTkR5AXeFxBdfrI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:04:34"
+  }
+]

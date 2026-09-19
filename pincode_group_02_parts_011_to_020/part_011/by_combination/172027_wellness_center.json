@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vrindavan",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Home Stay",
+    "pincode": "172027",
+    "phone_number": "+91 79017 78899",
+    "website": "https://www.vrindavanwellness.com/",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "Vrindavan, EPIP Phase 2, Thana, Baddi, Himachal Pradesh 173205",
+    "area": "EPIP Phase 2",
+    "latitude": 30.942885699999998,
+    "longitude": 76.7960509,
+    "place_id": "ChIJkQzo3Q1fBTkR-qLWSWlr4bA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQzo3Q1fBTkR-qLWSWlr4bA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:50"
+  },
+  {
+    "business_name": "Arya Vaidya Sansthanam",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness program",
+    "all_categories": "Wellness program, Health consultant, Life coach, Naturopathic practitioner, Physical fitness program, Physiotherapist",
+    "pincode": "172027",
+    "phone_number": "+91 1795 667 166",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "thana EPIP Zone, Phase, 2, Baddi, Himachal Pradesh 173205",
+    "area": "172027",
+    "latitude": 30.9702876,
+    "longitude": 76.8028933,
+    "place_id": "ChIJVVVVVZVfBTkRNgE0ri4ewV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVZVfBTkRNgE0ri4ewV4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:50"
+  }
+]

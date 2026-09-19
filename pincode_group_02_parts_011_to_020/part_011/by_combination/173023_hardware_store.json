@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Enterprises",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "173023",
+    "phone_number": "+91 63959 53371",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Khasra 956 kha, Canal Rd, Jakhan, Dehradun, Uttarakhand 248013",
+    "area": "Jakhan",
+    "latitude": 30.360323299999997,
+    "longitude": 78.07199,
+    "place_id": "ChIJ5S2KXADXCDkRqVyyZ3ynRAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5S2KXADXCDkRqVyyZ3ynRAU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:53"
+  },
+  {
+    "business_name": "Rattan Lal",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "173023",
+    "phone_number": "+91 97363 78759",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Dehradun, Borli, Uttarakhand 248001",
+    "area": "173023",
+    "latitude": 30.693914099999997,
+    "longitude": 77.4267811,
+    "place_id": "ChIJ-WgQW8JtDzkRRQxnnQHYKGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WgQW8JtDzkRRQxnnQHYKGc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:53"
+  }
+]

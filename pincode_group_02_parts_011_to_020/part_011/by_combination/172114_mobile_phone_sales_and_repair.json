@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "US TRADING",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics Accessories Wholesaler, Electrical products wholesaler",
+    "pincode": "172114",
+    "phone_number": "+91 88267 24411",
+    "website": "http://www.ustrading.in/",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "411, Jagatsukh, Manali, Himachal Pradesh 175143",
+    "area": "172114",
+    "latitude": 32.2018183,
+    "longitude": 77.2046439,
+    "place_id": "ChIJXZd4g-xjBDkRwup0Fq67Pak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZd4g-xjBDkRwup0Fq67Pak",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:03:50"
+  },
+  {
+    "business_name": "Puneet Communication",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "172114",
+    "phone_number": "+91 85473 00001",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "near Landing Point, Bir, Suja, Himachal Pradesh 176077",
+    "area": "172114",
+    "latitude": 32.0413089,
+    "longitude": 76.7104737,
+    "place_id": "ChIJRdI75DC5BDkRNLFtWSivspk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdI75DC5BDkRNLFtWSivspk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:03:52"
+  }
+]

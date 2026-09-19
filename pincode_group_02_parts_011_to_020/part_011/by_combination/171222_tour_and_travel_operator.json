@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travelwithmonuthakur",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "171222",
+    "phone_number": "+91 86269 48700",
+    "website": "https://travelwithmonuthakur.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Travelwithmonuthakur, 171222, India",
+    "area": "171222",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJL9_Xpru9uKURf6epp1krwQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9_Xpru9uKURf6epp1krwQg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:04:00"
+  },
+  {
+    "business_name": "Kamaltaal tour and travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "171222",
+    "phone_number": "+91 76992 00001",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chowk kothkhai road, Premghat, Theog, Himachal Pradesh 173212",
+    "area": "Premghat",
+    "latitude": 31.1200056,
+    "longitude": 77.3593606,
+    "place_id": "ChIJl34M9WWFBTkRjOx5kfMuuOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl34M9WWFBTkRjOx5kfMuuOc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:04:00"
+  }
+]

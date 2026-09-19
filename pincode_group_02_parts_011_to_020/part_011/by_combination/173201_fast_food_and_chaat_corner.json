@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Breyaan Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "173201",
+    "phone_number": "+91 82191 60932",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Kumarhatti, Solan, Himachal Pradesh 173229",
+    "area": "173201",
+    "latitude": 30.8878392,
+    "longitude": 77.05693029999999,
+    "place_id": "ChIJFTobfQiHDzkRz7kLRDQPats",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTobfQiHDzkRz7kLRDQPats",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:37:32"
+  },
+  {
+    "business_name": "Xero Everywhere",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "173201",
+    "phone_number": "+91 98161 06635",
+    "website": "http://www.instagram.com/",
+    "rating": 4.9,
+    "reviews_count": 189,
+    "address": "Road, near maharishi, Markandeshwar University, Laddo, Sultanpur, Solan, Himachal Pradesh 173229",
+    "area": "Laddo",
+    "latitude": 30.870050499999998,
+    "longitude": 77.08277629999999,
+    "place_id": "ChIJv5riGl6FDzkRZkELDMPJTwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5riGl6FDzkRZkELDMPJTwY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:37:32"
+  }
+]

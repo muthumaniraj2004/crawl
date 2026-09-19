@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulshan plumbing service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "172102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Village Chaniara , PO Chobin, Baijnath, Himachal Pradesh 176128",
+    "area": "172102",
+    "latitude": 31.9759566,
+    "longitude": 76.67378529999999,
+    "place_id": "ChIJQ-N_UTTHBDkRTIBIEopViXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-N_UTTHBDkRTIBIEopViXs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:53"
+  },
+  {
+    "business_name": "Shahid Plumbing Service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "172102",
+    "phone_number": "+91 90278 61282",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 53,
+    "address": "Janta Pipe Store, Filmistan Road, Khair Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Khair Nagar",
+    "latitude": 28.982226299999997,
+    "longitude": 77.7038397,
+    "place_id": "ChIJ5Yh_U_dlDDkRUB0yb3pK1go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Yh_U_dlDDkRUB0yb3pK1go",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:54"
+  }
+]

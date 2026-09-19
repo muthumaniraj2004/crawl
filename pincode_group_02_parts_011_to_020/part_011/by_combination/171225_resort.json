@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Astra Resort and Caffe Kasauli",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Bar, Hotel, Restaurant, Tourist attraction, Wedding venue",
+    "pincode": "171225",
+    "phone_number": "+91 98156 01347",
+    "website": "https://astraresorts.com/",
+    "rating": 4.8,
+    "reviews_count": 975,
+    "address": "Road, Dochi, Kasauli, Himachal Pradesh 173220",
+    "area": "171225",
+    "latitude": 30.8625644,
+    "longitude": 76.9884769,
+    "place_id": "ChIJoTx7IoWPDzkR16bszTdZEAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTx7IoWPDzkR16bszTdZEAE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:09:42"
+  },
+  {
+    "business_name": "Kasauli Hills Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Bar & grill, Brewpub, Continental restaurant, Cottage, Indian restaurant, Nature preserve, Plant nursery, Pub, Restaurant",
+    "pincode": "171225",
+    "phone_number": "+91 82190 96330",
+    "website": "https://kasaulihillsresort.com/",
+    "rating": 4.5,
+    "reviews_count": 2476,
+    "address": "Kasauli, Garkhal Kanda Road Kharog Tehsil, Kasauli, Himachal Pradesh 173209",
+    "area": "171225",
+    "latitude": 30.9200974,
+    "longitude": 76.9825427,
+    "place_id": "ChIJXbBQ6ueIDzkRlTG1pVdFolI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbBQ6ueIDzkRlTG1pVdFolI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:09:42"
+  }
+]

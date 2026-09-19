@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saggi Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "171225",
+    "phone_number": "+91 97363 38123",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main Bazar, near Sidh Nath Mandir, Baijnath, Himachal Pradesh 176125",
+    "area": "171225",
+    "latitude": 32.0504446,
+    "longitude": 76.6438055,
+    "place_id": "ChIJqZ565Sq4BDkR68kZwVF4kJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZ565Sq4BDkR68kZwVF4kJg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:08:43"
+  },
+  {
+    "business_name": "Sanwariya Baker's",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "171225",
+    "phone_number": "+91 83320 92000",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 115,
+    "address": "Krishna complex, Sai Rd, Baddi, Himachal Pradesh 173205",
+    "area": "171225",
+    "latitude": 30.9368703,
+    "longitude": 76.80052359999999,
+    "place_id": "ChIJgcHyDAD1DzkRLnvhANBPoBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcHyDAD1DzkRLnvhANBPoBs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:08:43"
+  }
+]

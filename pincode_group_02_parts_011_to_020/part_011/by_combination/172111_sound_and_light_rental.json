@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Emsoniq Electronics",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "172111",
+    "phone_number": "+91 98141 71908",
+    "website": "https://emsoniq.in/",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "first Floor, SCO 186-188, Shopping Plaza, 17C, Sector 17, Chandigarh, 160017",
+    "area": "Shopping Plaza, 17C, Sector 17",
+    "latitude": 30.7392908,
+    "longitude": 76.78499769999999,
+    "place_id": "ChIJD9gbC0WTDzkRGbZNL6GTUuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9gbC0WTDzkRGbZNL6GTUuk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:58:19"
+  },
+  {
+    "business_name": "Rental Plaza",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Equipment rental agency",
+    "all_categories": "Equipment rental agency, Computer consultant, Computer Hardware Company, Computer networking service, Computer repair service, Computer service, Computer store, Computer Rental Agency, Used computer store",
+    "pincode": "172111",
+    "phone_number": "+91 97801 19660",
+    "website": "https://rentalplaza.in/",
+    "rating": 4.9,
+    "reviews_count": 219,
+    "address": "68, Level, Computer Market, SCO, 2, 20C, Chandigarh, 160019",
+    "area": "20C, Sector 20",
+    "latitude": 30.7160817,
+    "longitude": 76.77781399999999,
+    "place_id": "ChIJa_w6sI7tDzkRSHdeThIIt4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_w6sI7tDzkRSHdeThIIt4w",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:58:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vector Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "172107",
+    "phone_number": "+91 82199 12716",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GFH7+77C, Nangal Township, Barsar, Himachal Pradesh 174305",
+    "area": "Nangal Township",
+    "latitude": 31.5281988,
+    "longitude": 76.46312089999999,
+    "place_id": "ChIJo0eregAtBTkRvmkOYPlICks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0eregAtBTkRvmkOYPlICks",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:51:39"
+  },
+  {
+    "business_name": "Grey Matters",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Coaching Center, English language school, Educational institution, Visa Agent",
+    "pincode": "172107",
+    "phone_number": "+91 99888 92587",
+    "website": "http://www.greymattersgroup.org/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "SCO: 63-64 2nd FLOOR, 17C, Chandigarh, 160017",
+    "area": "Sector 17A, 17C, Sector 17",
+    "latitude": 30.739815399999998,
+    "longitude": 76.7822348,
+    "place_id": "ChIJH2mMF6btDzkRZCwXt2lHyrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2mMF6btDzkRZCwXt2lHyrA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:51:39"
+  }
+]

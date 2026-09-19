@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VitusCare Dialysis Centre - Mother and Chid Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "173029",
+    "phone_number": "N/A",
+    "website": "https://www.vituscare.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, Canal Road, Gurudwara Gali, Kalyanpur, Vikasnagar, Uttarakhand 248198",
+    "area": "Kalyanpur",
+    "latitude": 30.469434099999997,
+    "longitude": 77.767021,
+    "place_id": "ChIJv0lH2Z7bomER4BOU5dgqu1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0lH2Z7bomER4BOU5dgqu1g",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:27:22"
+  },
+  {
+    "business_name": "Samarth Health Care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "173029",
+    "phone_number": "N/A",
+    "website": "http://www.samarthhealthcareworld.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Dialysis Unit, Vivekanand Hospital, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1108882,
+    "longitude": 76.53633409999999,
+    "place_id": "ChIJnWg0sOyzBDkRMeJquLV_dek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWg0sOyzBDkRMeJquLV_dek",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:27:24"
+  }
+]

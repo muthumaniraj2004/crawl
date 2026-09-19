@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market",
+    "pincode": "172034",
+    "phone_number": "N/A",
+    "website": "https://flower-trade-center.grexa.site/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "flower market, Block D, Ghazipur Dairy Farm, Ghazipur, New Delhi, Delhi, 110096",
+    "area": "Block D, Ghazipur Dairy Farm, Ghazipur",
+    "latitude": 28.6261923,
+    "longitude": 77.321772,
+    "place_id": "ChIJE3j2iTXlDDkRTgxZsTAIefI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3j2iTXlDDkRTgxZsTAIefI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:39:44"
+  },
+  {
+    "business_name": "Shree Shyam Gallery (Karnal)",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Balloon store, Gift shop, Lighting store, Party equipment rental service, Tent House Supplier, Wedding service",
+    "pincode": "172034",
+    "phone_number": "+91 97296 28868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "no 287 R, Shop, Model Town, Karnal, Haryana 132001",
+    "area": "Model Town",
+    "latitude": 29.700676599999998,
+    "longitude": 76.996477,
+    "place_id": "ChIJ7XEZPwBvDjkRpznzd_fxjOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XEZPwBvDjkRpznzd_fxjOM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:39:44"
+  }
+]

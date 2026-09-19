@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The RG Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "172117",
+    "phone_number": "+91 70171 76599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block B-4, Flat No -507, Gulmarg Parisar, Kanadiya Road, Badia Keema, Indore, Madhya Pradesh 452016",
+    "area": "172117",
+    "latitude": 22.7064053,
+    "longitude": 75.95989279999999,
+    "place_id": "ChIJqx2kUO7jYjkR6KWWI18pJJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqx2kUO7jYjkR6KWWI18pJJ0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:07:56"
+  },
+  {
+    "business_name": "SG Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "172117",
+    "phone_number": "+91 74404 40128",
+    "website": "https://sgcloudkitchen.com/",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "Barfani Dham 213, Barfani Dham, MR-09 Road, behind pani ki tanki, Khatik Mohalla, Krishna Bagh Colony, Bhagirathpura, Indore, Madhya Pradesh 452011",
+    "area": "Khatik Mohalla, Krishna Bagh Colony, Bhagirathpura",
+    "latitude": 22.7483804,
+    "longitude": 75.8625311,
+    "place_id": "ChIJd5P1ZAD9YjkRw2I9qM53PSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5P1ZAD9YjkRw2I9qM53PSs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:07:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "som prakash shopping complex",
+    "search_category": "Shops",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "172105",
+    "phone_number": "+91 94180 23526",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "G7VC+43H, Peo - Hospital Rd, Kothi, Reckong Peo, Himachal Pradesh 172107",
+    "area": "Kothi",
+    "latitude": 31.542802299999998,
+    "longitude": 78.2702225,
+    "place_id": "ChIJxzQFn4ppBjkR5Zfz6-7u6xU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzQFn4ppBjkR5Zfz6-7u6xU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:48:48"
+  },
+  {
+    "business_name": "Trishika Communication Sangla त्रिशिका कम्युनिकेशन सांगला",
+    "search_category": "Shops",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Computer accessories store, Computer repair service",
+    "pincode": "172105",
+    "phone_number": "+91 76499 79400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Road, Sangla, Kamru, Himachal Pradesh 172106",
+    "area": "Road",
+    "latitude": 31.4285772,
+    "longitude": 78.2619165,
+    "place_id": "ChIJSQEfzXMVBjkR0BKmXXe1vIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQEfzXMVBjkR0BKmXXe1vIk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:48:51"
+  }
+]

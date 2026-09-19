@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Idle Days Home Stay",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "173101",
+    "phone_number": "+91 98162 91595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village Tikkari Tali, Distt, P.O, Tehsil, Dahan, Rajgarh, Himachal Pradesh 173101",
+    "area": "P.O, Tehsil",
+    "latitude": 30.864860999999998,
+    "longitude": 77.34461569999999,
+    "place_id": "ChIJvdqE0OJ6DzkR4q5cM_51wpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdqE0OJ6DzkR4q5cM_51wpM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:34:58"
+  },
+  {
+    "business_name": "Plumvally cottage",
+    "search_category": "Resort",
+    "primary_category": "Cottage rental",
+    "all_categories": "Cottage rental",
+    "pincode": "173101",
+    "phone_number": "+91 70184 34773",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Bhat-Ka-Saina, Himachal Pradesh 173101",
+    "area": "173101",
+    "latitude": 30.8334302,
+    "longitude": 77.3172508,
+    "place_id": "ChIJz5A9HwB7DzkRGzHe6QEYFZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5A9HwB7DzkRGzHe6QEYFZc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:35:01"
+  }
+]

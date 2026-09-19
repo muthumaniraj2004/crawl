@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasthani tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "173202",
+    "phone_number": "+91 99459 41422",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 44,
+    "address": "9466+623, Sampige Nagar, Akshay Colony, Hubballi, Karnataka 580031",
+    "area": "Sampige Nagar, Akshay Colony",
+    "latitude": 15.360517999999999,
+    "longitude": 75.1100355,
+    "place_id": "ChIJuRRgTxjXuDsRAtD5bdwvvSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRRgTxjXuDsRAtD5bdwvvSs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:39:13"
+  },
+  {
+    "business_name": "Jaggery Tea 2.O",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "173202",
+    "phone_number": "+91 96979 69333",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "Banni Gida, Bus Stop, Gokul Rd, Kallur Layout, Hubballi, Karnataka 580030",
+    "area": "Kallur Layout",
+    "latitude": 15.3511551,
+    "longitude": 75.1252765,
+    "place_id": "ChIJcTM9597XuDsRxEKOye4To4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTM9597XuDsRxEKOye4To4E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:39:13"
+  }
+]

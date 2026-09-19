@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tech Cloud Computer Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "172001",
+    "phone_number": "N/A",
+    "website": "https://techbysam.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "172001",
+    "latitude": 31.451424799999998,
+    "longitude": 77.633826,
+    "place_id": "ChIJ17VS2TrBBTkR9kGloSg7h4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17VS2TrBBTkR9kGloSg7h4Q",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:15:02"
+  },
+  {
+    "business_name": "R.K. Computers & laptop Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "172001",
+    "phone_number": "+91 94112 88681",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "14-15 Shree Ji Plaza, Mohd. Ali Johar Road, civil Lines, Rampur, Uttar Pradesh 244901",
+    "area": "Awas Vikas",
+    "latitude": 28.7861844,
+    "longitude": 79.0167773,
+    "place_id": "ChIJ7SI5VaryCjkRvuKIAdX0SWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SI5VaryCjkRvuKIAdX0SWI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:15:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Coffee Day",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Breakfast restaurant, Coffee shop, Dessert restaurant, Sandwich shop",
+    "pincode": "173202",
+    "phone_number": "+91 93180 01318",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Near Sanawar Bus Stand, National Highway 22, Sanawar, Himachal Pradesh 173209",
+    "area": "173202",
+    "latitude": 30.893299,
+    "longitude": 77.00352699999999,
+    "place_id": "ChIJk-SrPqSIDzkRvvsWqYkg1fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-SrPqSIDzkRvvsWqYkg1fo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:39:19"
+  },
+  {
+    "business_name": "FOOD MISTRI",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant, Fast food restaurant, Non Vegetarian Restaurant, Vegan restaurant, Vegetarian restaurant",
+    "pincode": "173202",
+    "phone_number": "+91 87279 91089",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "OPP. OLD CHURCH, KALKA- SHIMLA HIGHWAY, NH-22, Dharampur, Himachal Pradesh 173209",
+    "area": "173202",
+    "latitude": 30.8962896,
+    "longitude": 77.01580539999999,
+    "place_id": "ChIJ9ae5C9uHDzkRuG7KP1HmdNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ae5C9uHDzkRuG7KP1HmdNE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:39:19"
+  }
+]

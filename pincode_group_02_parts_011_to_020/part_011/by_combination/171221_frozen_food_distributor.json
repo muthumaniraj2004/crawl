@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best in taste",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "171221",
+    "phone_number": "+91 22 2852 1441",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "amar industrial estate, 22, andheri kurla road, Safed Pul, Saki Naka, Mumbai, Maharashtra 400072",
+    "area": "Safed Pul, Saki Naka",
+    "latitude": 19.101741,
+    "longitude": 72.885789,
+    "place_id": "ChIJDceqnmXI5zsR1PjO8N7eizE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDceqnmXI5zsR1PjO8N7eizE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:01:44"
+  },
+  {
+    "business_name": "Finns Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "171221",
+    "phone_number": "+91 2551 230 154",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "VX6G+6RQ, Malegaon Industrial Area, Malegaon, Maharashtra 422113",
+    "area": "Malegaon Industrial Area",
+    "latitude": 19.8605761,
+    "longitude": 73.9771073,
+    "place_id": "ChIJ92kLYsm73TsR27Qb6mGhrAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92kLYsm73TsR27Qb6mGhrAY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:01:44"
+  }
+]

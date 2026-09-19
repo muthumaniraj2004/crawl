@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taste Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "172116",
+    "phone_number": "+91 82858 31831",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 44,
+    "address": "Sangram Colony, Satna, Madhya Pradesh 485001",
+    "area": "Sangram Colony",
+    "latitude": 24.570379499999998,
+    "longitude": 80.8480898,
+    "place_id": "ChIJSeOwOaZ_hDkRbiL2kErxbMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeOwOaZ_hDkRbiL2kErxbMU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:04"
+  },
+  {
+    "business_name": "Bhalla Dairy Farm",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "172116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 259,
+    "address": "Bhalla Dairy Farm, Road, near Polytechnic College, Birla Colony Campus, Nimi, Satna, Madhya Pradesh 485005",
+    "area": "Birla Colony Campus",
+    "latitude": 24.5922399,
+    "longitude": 80.8688549,
+    "place_id": "ChIJP0W_vER-hDkRl18p5IMCib4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0W_vER-hDkRl18p5IMCib4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:04"
+  }
+]

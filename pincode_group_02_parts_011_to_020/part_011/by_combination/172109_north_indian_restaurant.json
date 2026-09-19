@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reysang bhojnalya",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "172109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "VJPH+HHW, Nako, Himachal Pradesh 172111",
+    "area": "172109",
+    "latitude": 31.8864776,
+    "longitude": 78.6289484,
+    "place_id": "ChIJs95fXQD_BjkRvrDGOhs2J90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs95fXQD_BjkRvrDGOhs2J90",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:54:03"
+  },
+  {
+    "business_name": "Pemba Fast Food",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant",
+    "pincode": "172109",
+    "phone_number": "+91 85809 43661",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Pemba Fast Food, Chango, Chango Nichla, Himachal Pradesh 172111",
+    "area": "172109",
+    "latitude": 31.9804021,
+    "longitude": 78.5900367,
+    "place_id": "ChIJzx_F59f9BjkR-JZ6r8R2lKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzx_F59f9BjkR-JZ6r8R2lKs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:54:05"
+  }
+]

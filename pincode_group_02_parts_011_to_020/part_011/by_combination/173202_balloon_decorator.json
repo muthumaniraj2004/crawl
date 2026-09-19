@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "173202",
+    "phone_number": "+91 88584 11278",
+    "website": "https://www.youtube.com/@Ankitballoondecoration",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kacheri, Ghazipur, Uttar Pradesh 233001",
+    "area": "Kacheri",
+    "latitude": 25.574851499999998,
+    "longitude": 83.55552809999999,
+    "place_id": "ChIJweIYIwD_kTkR0mWhCAychmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJweIYIwD_kTkR0mWhCAychmU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:40:04"
+  },
+  {
+    "business_name": "CasaBella Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "173202",
+    "phone_number": "+91 79765 11213",
+    "website": "https://www.casabellaballoon.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "D-211, near DownTown Hotel, Sector 17A, Sector 17, Chandigarh, 160017",
+    "area": "Sector 17A, Sector 17",
+    "latitude": 30.739822399999998,
+    "longitude": 76.7826886,
+    "place_id": "ChIJH41cLaTtDzkR8GxIBKqnniw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH41cLaTtDzkR8GxIBKqnniw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:40:06"
+  }
+]

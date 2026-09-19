@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kunj polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "173021",
+    "phone_number": "+91 70171 10971",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "Garhwali colony, Bhauwala, Uttarakhand 248007",
+    "area": "Garhwali colony",
+    "latitude": 30.3962196,
+    "longitude": 77.9194043,
+    "place_id": "ChIJEYvcK_orDzkRlgqNfc4y45I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYvcK_orDzkRlgqNfc4y45I",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:15:15"
+  },
+  {
+    "business_name": "Shiva Poly Clinic & Health centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "173021",
+    "phone_number": "+91 94113 40517",
+    "website": "https://drdiwakardattgodiyal.getmy.clinic/",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "DL Villa, Sideshwar Enclave, Lane No. 1, Banjarawala, Kedarpur, Dehradun, Uttarakhand 248121",
+    "area": "Banjarawala",
+    "latitude": 30.2749964,
+    "longitude": 78.0346328,
+    "place_id": "ChIJC3K1lLgpCTkRuzAilVvzwU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3K1lLgpCTkRuzAilVvzwU8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:15:15"
+  }
+]

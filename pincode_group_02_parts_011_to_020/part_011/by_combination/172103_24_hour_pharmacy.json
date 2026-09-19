@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Chemist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "172103",
+    "phone_number": "+91 90960 35032",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 49,
+    "address": "Shop no 1 &2, JQ37+GF9 DEWDALE SOCIETY, Datta Mandir Rd, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Pune, Maharashtra 411057",
+    "area": "Shankar Kalat Nagar, Wakad",
+    "latitude": 18.603398,
+    "longitude": 73.76443259999999,
+    "place_id": "ChIJu5e3EWm5wjsRFHhRKcEZzGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5e3EWm5wjsRFHhRKcEZzGg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:44:10"
+  },
+  {
+    "business_name": "Amit Medical And Provision Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center",
+    "pincode": "172103",
+    "phone_number": "+91 96723 64007",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "ESI Hospital Road,Akhaliya Circle, Opp. Subham Hospital, Kamla Nehru Nagar, 1st Pulia, Jodhpur, Rajasthan 342001",
+    "area": "1st Pulia",
+    "latitude": 26.281269299999998,
+    "longitude": 72.9883176,
+    "place_id": "ChIJ4WcqxICOQTkRSzGSgvN3Tgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WcqxICOQTkRSzGSgvN3Tgc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:44:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "24x7 Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "172116",
+    "phone_number": "+91 86881 13267",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5PX2+77W, Bustand Circle, Main Road Parkal, Parkal, Telangana 506164",
+    "area": "172116",
+    "latitude": 18.198228999999998,
+    "longitude": 79.70068789999999,
+    "place_id": "ChIJE6dRp1Q-MzoRI-uXthkFzBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6dRp1Q-MzoRI-uXthkFzBU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:23"
+  },
+  {
+    "business_name": "24 hours Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "172116",
+    "phone_number": "N/A",
+    "website": "https://www.amritahospitals.org/kochi/support-services/pharmacy",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "AIMS, Peeliyadu Road, Amrita Nagar, Edappally, Kochi, Ernakulam, Keralam 682041",
+    "area": "Amrita Nagar, Edappally",
+    "latitude": 10.0334826,
+    "longitude": 76.2929678,
+    "place_id": "ChIJOzpVLwANCDsRBnp3MZoxVGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzpVLwANCDsRBnp3MZoxVGo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:25"
+  }
+]

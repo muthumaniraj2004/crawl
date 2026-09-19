@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tax And Legal Consultants",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "172031",
+    "phone_number": "+91 87672 12019",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 13, Nityanand Baug Rd, Chembur Colony, Chembur, Mumbai, Maharashtra 400074",
+    "area": "Chembur Colony, Chembur",
+    "latitude": 19.0439825,
+    "longitude": 72.8947045,
+    "place_id": "ChIJGd_6o6vI5zsRTHCjE1Qk17k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGd_6o6vI5zsRTHCjE1Qk17k",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:35:02"
+  },
+  {
+    "business_name": "LEGALMAN JAIPUR OFFICE",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "172031",
+    "phone_number": "+91 99833 90888",
+    "website": "https://www.legalman.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "G-1, Plot No. 25, Satya Colony, Ajmer Rd, Heerapura, Jaipur, Rajasthan 302021",
+    "area": "Heerapura, Tagore Nagar",
+    "latitude": 26.892579899999998,
+    "longitude": 75.7367398,
+    "place_id": "ChIJN5lxAT21bTkRDItQ4bU8_YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5lxAT21bTkRDItQ4bU8_YY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:35:05"
+  }
+]

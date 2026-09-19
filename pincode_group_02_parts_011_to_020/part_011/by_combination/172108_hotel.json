@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel aakash kalpa kinnaur",
+    "search_category": "Hotel",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "172108",
+    "phone_number": "+91 93305 90383",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "G66H+WWP, road, Roghi, kalpa, Himachal Pradesh 172108",
+    "area": "172108",
+    "latitude": 31.512326899999998,
+    "longitude": 78.2298139,
+    "place_id": "ChIJsf55g6FrBjkR_BdHjoO9iF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsf55g6FrBjkR_BdHjoO9iF8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:53:11"
+  },
+  {
+    "business_name": "Divine kinnaur home stay",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "172108",
+    "phone_number": "+91 70187 93180",
+    "website": "https://snowjilla.github.io/Website/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near snow hill view hotel, Kalpa, Saryo, Himachal Pradesh 172108",
+    "area": "172108",
+    "latitude": 31.5284555,
+    "longitude": 78.2477091,
+    "place_id": "ChIJT2x7Q5FrBjkR19lZ26jVSs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2x7Q5FrBjkR19lZ26jVSs4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:53:11"
+  }
+]

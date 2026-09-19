@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vandana Flowers & Tent House",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Tent House Supplier",
+    "pincode": "172105",
+    "phone_number": "+91 98550 50909",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cabin number 1, hotel Aroma, Sector 22B, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.729947,
+    "longitude": 76.7732127,
+    "place_id": "ChIJwZ68iSXtDzkR2E_kX9bcTfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZ68iSXtDzkR2E_kX9bcTfI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:48:07"
+  },
+  {
+    "business_name": "Punsons Flora",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Bakery and Cake Shop, Balloon store, Cake shop, Dried flower shop, Flower delivery, Gift shop, Home improvement store",
+    "pincode": "172105",
+    "phone_number": "+91 98187 68901",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "L.Ground, Hermitage Centalis, SCO 8, VIP Rd, near Maya Garden, Ph 3, Zirakpur, Punjab 140603",
+    "area": "Ph 3",
+    "latitude": 30.632862799999998,
+    "longitude": 76.8117525,
+    "place_id": "ChIJHSz3ybaUDzkROr0FKaZ7BV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSz3ybaUDzkROr0FKaZ7BV4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:48:09"
+  }
+]

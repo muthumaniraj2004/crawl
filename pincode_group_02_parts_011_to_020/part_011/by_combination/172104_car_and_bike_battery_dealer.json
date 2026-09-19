@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sood Electronics",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "172104",
+    "phone_number": "+91 98168 70000",
+    "website": "http://www.soodelectronics.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near, main chowk, Khwangi, Reckong Peo, Himachal Pradesh 172107",
+    "area": "Khwangi",
+    "latitude": 31.541128599999997,
+    "longitude": 78.271126,
+    "place_id": "ChIJdZmDroppBjkRquiQ6OtVEEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZmDroppBjkRquiQ6OtVEEU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:46:05"
+  },
+  {
+    "business_name": "NEW MEHTA AUTO SPARES",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Bicycle repair shop, Bike wash, Car battery store, Helmet Shop",
+    "pincode": "172104",
+    "phone_number": "+91 78302 20037",
+    "website": "https://mehta-auto-dehradun.emergent.host/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mussoorie road aside fairfield by Marriot, beside Mussoorie Road, Dehradun, Uttarakhand 248009",
+    "area": "Malsi",
+    "latitude": 30.3769393,
+    "longitude": 78.07669489999999,
+    "place_id": "ChIJ6fxsCQDXCDkRJOZ2bj_EtRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fxsCQDXCDkRJOZ2bj_EtRM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:46:06"
+  }
+]

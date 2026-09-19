@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santook Lal Mehar Singh",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "172116",
+    "phone_number": "+91 98056 29598",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "34/1, Rarang, Rarang Khas, Himachal Pradesh 172116",
+    "area": "172116",
+    "latitude": 31.6021209,
+    "longitude": 78.353768,
+    "place_id": "ChIJwTmZJChDBjkR9ibrATdeUhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTmZJChDBjkR9ibrATdeUhM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:01"
+  },
+  {
+    "business_name": "New Thakur Departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Department store",
+    "pincode": "172116",
+    "phone_number": "+91 93294 54557",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 137,
+    "address": "Sanjeevani Nagar, Jabalpur, Madhya Pradesh 482002",
+    "area": "Sanjeevani Nagar",
+    "latitude": 23.1651596,
+    "longitude": 79.9043654,
+    "place_id": "ChIJ69P5VECxgTkRUT7C0meltSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69P5VECxgTkRUT7C0meltSY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "171222",
+    "phone_number": "+91 98167 82542",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "near Hospital, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.907805,
+    "longitude": 77.1064964,
+    "place_id": "ChIJGWvNFYCBDzkR8KehrxwKPyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWvNFYCBDzkR8KehrxwKPyQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:03:45"
+  },
+  {
+    "business_name": "Apollo Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "171222",
+    "phone_number": "+91 172 507 4770",
+    "website": "http://www.apollopharmacy.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "SHOP NO. 47, New, 48, Modern Housing Complex, Sector 13, Chandigarh, 160101",
+    "area": "Modern Housing Complex, Sector 13",
+    "latitude": 30.7159417,
+    "longitude": 76.83158689999999,
+    "place_id": "ChIJFajDhjKTDzkRAU6hsRYiLc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFajDhjKTDzkRAU6hsRYiLc0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:03:48"
+  }
+]

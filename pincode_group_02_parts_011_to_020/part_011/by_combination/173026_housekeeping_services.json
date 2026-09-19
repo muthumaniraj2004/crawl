@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clean Queen Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning products supplier, Household chemicals supplier",
+    "pincode": "173026",
+    "phone_number": "+91 87794 75573",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Shop no 3, Laxmi Baug, Rajaram Bane Marg, opp. to vitthal mandir, Laxmi Nagar, Ghatkopar East, Mumbai, Maharashtra 400079",
+    "area": "Laxmi Nagar, Ghatkopar East",
+    "latitude": 19.093596299999998,
+    "longitude": 72.9183193,
+    "place_id": "ChIJgbBiDt3H5zsR-S7BK2BOBwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbBiDt3H5zsR-S7BK2BOBwQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:24:53"
+  },
+  {
+    "business_name": "S V Enterprise housekeeping & deep cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services, Pest control service, Sanitation service",
+    "pincode": "173026",
+    "phone_number": "+91 93240 91711",
+    "website": "https://www.svhousekeeping.com/",
+    "rating": 4.6,
+    "reviews_count": 55,
+    "address": "Navjeevan Sahakar Mandal, Ln, Lal Bahadur Shastri Marg, Friends Colony, Gangawadi, Ghatkopar West, Mumbai, Maharashtra 400070",
+    "area": "Friends Colony, Gangawadi, Ghatkopar West",
+    "latitude": 19.077492,
+    "longitude": 72.87981669999999,
+    "place_id": "ChIJ1V5Wj9LH5zsROSqupS8GaFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1V5Wj9LH5zsROSqupS8GaFo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:24:53"
+  }
+]

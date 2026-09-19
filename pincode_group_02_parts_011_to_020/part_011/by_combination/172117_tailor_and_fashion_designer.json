@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The suit maker",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor, Men's clothing store",
+    "pincode": "172117",
+    "phone_number": "+91 88002 53261",
+    "website": "http://thesuitmaker.in/",
+    "rating": 4.8,
+    "reviews_count": 603,
+    "address": "second floor, of fashion lover, Shop no, E 558, Ramphal Chowk Rd, Sector 7 Dwarka, Dwarka, New Delhi, Delhi 110077",
+    "area": "Block E, Palam Extension, Sector 7 Dwarka, Dwarka",
+    "latitude": 28.584024499999998,
+    "longitude": 77.0715678,
+    "place_id": "ChIJbS1t81cbDTkR7OFhS39Zf1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbS1t81cbDTkR7OFhS39Zf1M",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:08:02"
+  },
+  {
+    "business_name": "Royal Tailors & Drapers",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing alteration service, Designer Clothing Store, Formal Clothing Store, Men's clothing store, Gents Tailor",
+    "pincode": "172117",
+    "phone_number": "+91 84474 15050",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No.UGF-10, HRC Shopping Complex, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.635372699999998,
+    "longitude": 77.3652369,
+    "place_id": "ChIJuWb_E03lDDkRs-_xRnudSzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWb_E03lDDkRs-_xRnudSzg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:08:04"
+  }
+]

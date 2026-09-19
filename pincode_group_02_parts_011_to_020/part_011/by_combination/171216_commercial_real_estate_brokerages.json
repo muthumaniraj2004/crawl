@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reverie Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Property investment company, Real estate rental agency",
+    "pincode": "171216",
+    "phone_number": "+91 85447 49254",
+    "website": "https://www.reverieproperties.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bhagsunag Rd, near Himalayan resort, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2409959,
+    "longitude": 76.3323408,
+    "place_id": "ChIJfTiWPpRRGzkRTBYGbARlABA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTiWPpRRGzkRTBYGbARlABA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:54:11"
+  },
+  {
+    "business_name": "Property Round",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "171216",
+    "phone_number": "+91 70357 03521",
+    "website": "http://propertyround.com/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Mall Rd, Chambaghat, Nauni, Solan, Himachal Pradesh 173213",
+    "area": "Chambaghat, Nauni",
+    "latitude": 30.9164858,
+    "longitude": 77.1022914,
+    "place_id": "ChIJb1-6mjOHDzkRibrggk898y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1-6mjOHDzkRibrggk898y0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:54:13"
+  }
+]

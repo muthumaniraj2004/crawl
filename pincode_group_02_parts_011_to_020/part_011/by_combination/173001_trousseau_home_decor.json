@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansh Gift Gallery",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "173001",
+    "phone_number": "+91 98579 49775",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "CHPP+G48, Ambala-Paonta Sahib-Dehradun Rd, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "173001",
+    "latitude": 30.436279,
+    "longitude": 77.5853198,
+    "place_id": "ChIJq4MHuF8iDzkRuliwH81995c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4MHuF8iDzkRuliwH81995c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:14:04"
+  },
+  {
+    "business_name": "THE DECOR CIRCLE",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "173001",
+    "phone_number": "+91 89684 43616",
+    "website": "http://www.thedecorcircle.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Plot no -1539, Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.651764999999997,
+    "longitude": 76.736971,
+    "place_id": "ChIJJUbiSJnpDzkRaheIQJV1iDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUbiSJnpDzkRaheIQJV1iDc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:14:05"
+  }
+]

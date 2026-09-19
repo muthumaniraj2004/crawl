@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHOP ACT Registration",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Registration office",
+    "all_categories": "Registration office",
+    "pincode": "173030",
+    "phone_number": "+91 91122 11461",
+    "website": "http://shopactregistration.org/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Office No. 101-102, 1st Floor, East St, Camp, Pune, Maharashtra 411001",
+    "area": "Camp",
+    "latitude": 18.511630099999998,
+    "longitude": 73.8796248,
+    "place_id": "ChIJVVUlVkjAwjsRcWV0i6ZNhY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUlVkjAwjsRcWV0i6ZNhY8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:30:04"
+  },
+  {
+    "business_name": "Gupta Agnesh & Associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "173030",
+    "phone_number": "+91 85799 31600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "1C, First Floor, New Dak Bunglow Rd, Fraser Road Area, Patna, Bihar 800001",
+    "area": "Fraser Road Area",
+    "latitude": 25.6092843,
+    "longitude": 85.139999,
+    "place_id": "ChIJGa8S5EZZ7TkRuZ4RER_Mjt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGa8S5EZZ7TkRuZ4RER_Mjt4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:30:04"
+  }
+]

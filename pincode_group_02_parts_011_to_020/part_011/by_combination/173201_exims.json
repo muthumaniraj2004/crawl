@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunset Point",
+    "search_category": "EXIMS",
+    "primary_category": "Vista point",
+    "all_categories": "Vista point, Hiking area, Tourist attraction",
+    "pincode": "173201",
+    "phone_number": "+91 177 262 5924",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VXRC+JGR, Kasauli, Himachal Pradesh 173204",
+    "area": "173201",
+    "latitude": 30.8916236,
+    "longitude": 76.97126089999999,
+    "place_id": "ChIJAaqw9duIDzkRbec9O9f6HbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaqw9duIDzkRbec9O9f6HbM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:38:56"
+  },
+  {
+    "business_name": "Anand Bhandar",
+    "search_category": "EXIMS",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Fabric store, Women's clothing store",
+    "pincode": "173201",
+    "phone_number": "+91 1792 222 574",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "W454+V3J, Upper Bazar, Lower Bazar, Ganj Bazar, Upper Bazar, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ganj Bazar, Upper Bazar, Bajoral Khurd",
+    "latitude": 30.909701199999997,
+    "longitude": 77.1051541,
+    "place_id": "ChIJs8gdi0qBDzkRHsmhUPyJZjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8gdi0qBDzkRHsmhUPyJZjY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:38:56"
+  }
+]

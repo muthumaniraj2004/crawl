@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Sai Flower Mart",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "172112",
+    "phone_number": "+91 84219 16588",
+    "website": "https://om-sai-flower-mart.grexa.site/",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "7,Saryam, Shivam Shopping Centre, Station Rd, Nala Sopara, Vasai, Nalasopara West, Vasai-Virar, Maharashtra 401203",
+    "area": "Nala Sopara, Vasai, Nalasopara West",
+    "latitude": 19.4202324,
+    "longitude": 72.81770139999999,
+    "place_id": "ChIJZbBuT_Cp5zsR9QZjBdhfnFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbBuT_Cp5zsR9QZjBdhfnFs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:00:03"
+  },
+  {
+    "business_name": "The Flower Hub (Garlands & Decoration)",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Florist, Flower delivery, Flower designer, Flower market, Wedding planner, Wedding service",
+    "pincode": "172112",
+    "phone_number": "+91 98409 84070",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7/447, Medavakkam Main Rd, Kamarajar Salai, Lakshmi Nagar, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+    "area": "Kamarajar Salai, Lakshmi Nagar, Kovilambakkam",
+    "latitude": 12.938791199999999,
+    "longitude": 80.18247869999999,
+    "place_id": "ChIJmwL3LYFeUjoRDEYDXajb5ME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwL3LYFeUjoRDEYDXajb5ME",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:00:05"
+  }
+]

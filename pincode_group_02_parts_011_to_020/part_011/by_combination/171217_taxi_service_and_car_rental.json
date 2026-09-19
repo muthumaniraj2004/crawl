@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palampur Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "171217",
+    "phone_number": "+91 98053 12304",
+    "website": "https://palampurtaxiservice.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kalu Di Hatti, Bindravan, Sugghar, Palampur, Himachal Pradesh 176061",
+    "area": "Bindravan, Sugghar",
+    "latitude": 32.1128861,
+    "longitude": 76.52265469999999,
+    "place_id": "ChIJr3qYWB-zBDkRCvt8ah0H0EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3qYWB-zBDkRCvt8ah0H0EY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:55:10"
+  },
+  {
+    "business_name": "Tricity Car Rental and Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour agency, Tour operator",
+    "pincode": "171217",
+    "phone_number": "+91 99882 04335",
+    "website": "https://tricitycarrental.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block B, Oxford Street, 205, Ambala - Chandigarh Expy, Zirakpur, Punjab 140603",
+    "area": "171217",
+    "latitude": 30.6500801,
+    "longitude": 76.8219701,
+    "place_id": "ChIJX3vcupMkPagRTNW80OVZtGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3vcupMkPagRTNW80OVZtGk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:55:10"
+  }
+]

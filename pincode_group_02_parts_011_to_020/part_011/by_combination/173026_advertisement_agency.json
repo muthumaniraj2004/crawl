@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stark Communications",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency",
+    "pincode": "173026",
+    "phone_number": "+91 471 408 2707",
+    "website": "https://www.stark.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9/566, E-2, Jawahar Nagar, Kowdiar, Thiruvananthapuram, Keralam 695003",
+    "area": "E-2, Jawahar Nagar, Kowdiar",
+    "latitude": 8.515462099999999,
+    "longitude": 76.9652945,
+    "place_id": "ChIJmfEAARIHURARxA_fB6RioQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfEAARIHURARxA_fB6RioQY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:25:07"
+  },
+  {
+    "business_name": "Digital sky",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "173026",
+    "phone_number": "+91 82199 86941",
+    "website": "https://digitalskysunil.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Burma Papri, Himachal Pradesh 173030",
+    "area": "173026",
+    "latitude": 30.574345599999997,
+    "longitude": 77.19883709999999,
+    "place_id": "ChIJIzFXE0wLDzkR_P_0mVYJW3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzFXE0wLDzkR_P_0mVYJW3o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:25:08"
+  }
+]

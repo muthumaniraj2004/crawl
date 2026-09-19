@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous paan shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "172103",
+    "phone_number": "+91 96893 30436",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vasco hotel, Nashik Road, Nashik, Maharashtra 422101",
+    "area": "Nashik Road",
+    "latitude": 19.971353399999998,
+    "longitude": 73.833788,
+    "place_id": "ChIJm4F41OHr3TsRlFbowXleGiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4F41OHr3TsRlFbowXleGiw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:43:53"
+  },
+  {
+    "business_name": "Classic Darbar pan Gallery Sector 17",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Stores and shopping",
+    "pincode": "172103",
+    "phone_number": "+91 98912 22177",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No. 127, Maharishi Parashar Marg, Sector 17, Faridabad, Haryana 121002",
+    "area": "Sector 17",
+    "latitude": 28.4102024,
+    "longitude": 77.3273834,
+    "place_id": "ChIJ8etZV6ndDDkREMePyyn1ego",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8etZV6ndDDkREMePyyn1ego",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:43:53"
+  }
+]

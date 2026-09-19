@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "172022",
+    "phone_number": "+91 98720 02374",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No 4, Sohana, Sahibzada Ajit Singh Nagar, Punjab 140308",
+    "area": "Sohana",
+    "latitude": 30.6911544,
+    "longitude": 76.7067565,
+    "place_id": "ChIJ99JN-ArvDzkRLW4OWyFa7ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99JN-ArvDzkRLW4OWyFa7ug",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:19:50"
+  },
+  {
+    "business_name": "Universal Trading Agency",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery wholesaler",
+    "all_categories": "Stationery wholesaler, Computer accessories store, Office supply store, Paper bag supplier, Paper distributor, Party store, Printer ink refill store, Printing equipment supplier, School supply store, Toner cartridge supplier",
+    "pincode": "172022",
+    "phone_number": "+91 98140 36026",
+    "website": "http://www.universaltradingagency.co.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "SCF. 11-12, near Hotel Aroma, Sector 22C, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22C, Sector 22",
+    "latitude": 30.7306064,
+    "longitude": 76.7731791,
+    "place_id": "ChIJVVVVVaTtDzkRB99r5uID61k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVaTtDzkRB99r5uID61k",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:19:53"
+  }
+]

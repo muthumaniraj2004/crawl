@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gamya",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry manufacturer",
+    "pincode": "172113",
+    "phone_number": "+91 92542 94542",
+    "website": "https://gamya.co/",
+    "rating": 4.8,
+    "reviews_count": 184,
+    "address": "Shop No, 1, near Gandhi Chowk Road, Sector 14, Sonipat, Haryana 131001",
+    "area": "Sector 14",
+    "latitude": 28.995979199999997,
+    "longitude": 77.02874539999999,
+    "place_id": "ChIJszZ6MkuxDTkRSIdnlyHkrXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszZ6MkuxDTkRSIdnlyHkrXc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:01:08"
+  },
+  {
+    "business_name": "MK Jewellery",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "172113",
+    "phone_number": "+91 93655 98360",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 860,
+    "address": "Rupahi Ali, Gar-Ali, Jorhat, Assam 785001",
+    "area": "Gar-Ali",
+    "latitude": 26.7583085,
+    "longitude": 94.216336,
+    "place_id": "ChIJJdzZm8DCRjcRIvAcu_FIk5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdzZm8DCRjcRIvAcu_FIk5A",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:01:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saphnix Life Sciences",
+    "search_category": "EXIMS",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Drug store, Manufacturer",
+    "pincode": "172116",
+    "phone_number": "+91 81466 61517",
+    "website": "http://www.saphnixlifesciences.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Village Barotiwala, Post Office Shivpur, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "172116",
+    "latitude": 30.4585346,
+    "longitude": 77.6588977,
+    "place_id": "ChIJs7zeHpQkDzkRchCljsWzPu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7zeHpQkDzkRchCljsWzPu4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:07:35"
+  },
+  {
+    "business_name": "Pushkar Pharma",
+    "search_category": "EXIMS",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Pharmaceuticals Exporter, Pharmaceutical Products Wholesaler, Pharmacy",
+    "pincode": "172116",
+    "phone_number": "+91 93556 22444",
+    "website": "https://pushkarpharma.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Khari, Kala Amb, Himachal Pradesh 173030",
+    "area": "172116",
+    "latitude": 30.5267146,
+    "longitude": 77.1907086,
+    "place_id": "ChIJFy3CB1enDzkR0szd9LHkXMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFy3CB1enDzkR0szd9LHkXMU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:07:35"
+  }
+]

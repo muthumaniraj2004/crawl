@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Pankaj Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "172105",
+    "phone_number": "+91 98052 64978",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Subzi Mohalla, near Distt. Hospital, Kothi, Reckong Peo, Himachal Pradesh 172107",
+    "area": "Kothi",
+    "latitude": 31.539730199999997,
+    "longitude": 78.26739669999999,
+    "place_id": "ChIJ0TuqK1NrBjkRDlIgDgxon3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TuqK1NrBjkRDlIgDgxon3M",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:47:25"
+  },
+  {
+    "business_name": "Garg Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "172105",
+    "phone_number": "+91 98155 16342",
+    "website": "http://gargjewellers.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Arya College Rd, near Kalgidhar Gurudwara Sahib, Sector 127, Main Bazar, Kharar, Sahibzada Ajit Singh Nagar, Punjab 140301",
+    "area": "Sector 127, Main Bazar",
+    "latitude": 30.743361099999998,
+    "longitude": 76.6467922,
+    "place_id": "ChIJZZzisyHvDzkROT-zgzp2un0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZzisyHvDzkROT-zgzp2un0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:47:26"
+  }
+]

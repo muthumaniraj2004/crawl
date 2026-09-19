@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shere Punjab Fashion Mall",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing wholesaler",
+    "pincode": "171222",
+    "phone_number": "+91 98728 40035",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 86,
+    "address": "Show Room 12, Gurdwara Gobindsar Complex, 13 & 14, Phase 1, Kamla Market, Sector 57, Mohali Village, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Kamla Market, Sector 57, Mohali Village",
+    "latitude": 30.7305921,
+    "longitude": 76.71472949999999,
+    "place_id": "ChIJSXp33GvuDzkR7zNFiuGqcFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXp33GvuDzkR7zNFiuGqcFY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:03:39"
+  },
+  {
+    "business_name": "TAARUSH TEXTILE",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer",
+    "pincode": "171222",
+    "phone_number": "+91 80 4581 3704",
+    "website": "http://taarushtextile.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "W.No. 6, Shiv Kunj, H.No. 695, Khanjire Mala, near K.D.C. Bank, Kagwade Mala, Ichalkaranji, Maharashtra 416115",
+    "area": "Kagwade Mala",
+    "latitude": 16.6866751,
+    "longitude": 74.4673239,
+    "place_id": "ChIJc_68AXHiwDsRKzWsFtR77YA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_68AXHiwDsRKzWsFtR77YA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:03:40"
+  }
+]

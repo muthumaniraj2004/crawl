@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kunzum Shopping Complex",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "172113",
+    "phone_number": "+91 94595 70333",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "63FF+M8C, Kaza, Kaza Khas, Himachal Pradesh 172114",
+    "area": "172113",
+    "latitude": 32.2241883,
+    "longitude": 78.0732618,
+    "place_id": "ChIJW1wu0HOjBjkRnBe24GCZdRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1wu0HOjBjkRnBe24GCZdRM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:02:33"
+  },
+  {
+    "business_name": "Ambience Mall, Rohini",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "172113",
+    "phone_number": "N/A",
+    "website": "http://www.ambiencegroup.in/",
+    "rating": 4.1,
+    "reviews_count": 2969,
+    "address": "Swarn Jayanti Park, Sector 10, Rohini, Delhi, 110085",
+    "area": "Swarn Jayanti Park, Sector 10, Rohini",
+    "latitude": 28.7189603,
+    "longitude": 77.1129443,
+    "place_id": "ChIJ9QvQmU8BDTkRX0HAdzcaWMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QvQmU8BDTkRX0HAdzcaWMc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:02:34"
+  }
+]

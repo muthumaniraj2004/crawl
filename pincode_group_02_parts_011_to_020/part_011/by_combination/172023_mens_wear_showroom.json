@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagat Ram",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "172023",
+    "phone_number": "+91 94180 71753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stand, Old, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "Rajpur",
+    "latitude": 31.4504362,
+    "longitude": 77.6308657,
+    "place_id": "ChIJN_Yl1zbBBTkRac3XgRXMZrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_Yl1zbBBTkRac3XgRXMZrk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:20:36"
+  },
+  {
+    "business_name": "Sr Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "172023",
+    "phone_number": "+91 98055 56731",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mishra Complex, Nirmand, Himachal Pradesh 172001",
+    "area": "172023",
+    "latitude": 31.440248099999998,
+    "longitude": 77.6278492,
+    "place_id": "ChIJM0uCWBzBBTkRi6FR1NtHyx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0uCWBzBBTkRi6FR1NtHyx8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:20:36"
+  }
+]

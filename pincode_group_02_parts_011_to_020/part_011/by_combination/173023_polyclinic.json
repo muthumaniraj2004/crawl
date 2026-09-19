@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Algen Healthcare Ltd",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Pharmaceuticals Exporter, Pharmaceutical lab, Pharmaceutical Products Wholesaler",
+    "pincode": "173023",
+    "phone_number": "+91 98682 65827",
+    "website": "https://algenhealthcare.co/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "134/2, Khari, Sidhoura Road, Mouza, Ogli, Kala Amb, Himachal Pradesh 173030",
+    "area": "Mouza",
+    "latitude": 30.4806863,
+    "longitude": 77.2116913,
+    "place_id": "ChIJPQTMiZoJDzkRxPKMdK3NqEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQTMiZoJDzkRxPKMdK3NqEc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:40"
+  },
+  {
+    "business_name": "Digital Vision Pharma",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "173023",
+    "phone_number": "+91 88942 80002",
+    "website": "http://www.digitalvisionpharma.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "176, Mauza, Ogli, Kala Amb, Himachal Pradesh 173030",
+    "area": "173023",
+    "latitude": 30.5024901,
+    "longitude": 77.21608499999999,
+    "place_id": "ChIJZ9TbihsJDzkR4HiQJLxX-i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9TbihsJDzkR4HiQJLxX-i4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:40"
+  }
+]

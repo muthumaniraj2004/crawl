@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMC Global Securities Limited",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial consultant, Investment company, Online Share Trading Center",
+    "pincode": "172106",
+    "phone_number": "+91 94220 27125",
+    "website": "https://smctradeonline.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Flat No G3, Grukripa Apartment Hotgi Road, Aasra, near Raghu Ji, Solapur, Maharashtra 413001",
+    "area": "Railway lines",
+    "latitude": 17.6660099,
+    "longitude": 75.8989382,
+    "place_id": "ChIJs9yuZ93bxTsR5t5JCOK51ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9yuZ93bxTsR5t5JCOK51ls",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:50:09"
+  },
+  {
+    "business_name": "Vittafin Securities",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Finance broker",
+    "all_categories": "Finance broker",
+    "pincode": "172106",
+    "phone_number": "+91 88918 94995",
+    "website": "https://vittafinsecurities.com/",
+    "rating": 4.4,
+    "reviews_count": 23,
+    "address": "Tali Puthiyapalam Rd, Puthiyapalam, Palayam, Kozhikode, Keralam 673002",
+    "area": "Puthiyapalam, Palayam",
+    "latitude": 11.2475632,
+    "longitude": 75.79288729999999,
+    "place_id": "ChIJ73Ovb4RZpjsR8Q0RmcQdg64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73Ovb4RZpjsR8Q0RmcQdg64",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:50:11"
+  }
+]

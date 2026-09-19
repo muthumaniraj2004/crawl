@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHYAM GENERAL STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "172034",
+    "phone_number": "+91 88942 24249",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Br Sons, Ner By Bhima Kali Temple, C/O, Suru, Himachal Pradesh 172102",
+    "area": "172034",
+    "latitude": 31.515950699999998,
+    "longitude": 77.7963623,
+    "place_id": "ChIJf5_0LuLbBTkRBJJNZeJxbuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5_0LuLbBTkRBJJNZeJxbuw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:38:47"
+  },
+  {
+    "business_name": "Shubham General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "172034",
+    "phone_number": "+91 94590 87699",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Unnamed Road, Sarahan, Himachal Pradesh 172034",
+    "area": "172034",
+    "latitude": 31.510954799999997,
+    "longitude": 77.7952688,
+    "place_id": "ChIJLTJVi5zbBTkRJxRJwVYnbW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTJVi5zbBTkRJxRJwVYnbW4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:38:47"
+  }
+]

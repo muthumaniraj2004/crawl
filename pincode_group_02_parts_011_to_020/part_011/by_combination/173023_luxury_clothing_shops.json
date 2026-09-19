@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharafat Ali Clothes Shop",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "173023",
+    "phone_number": "+91 62304 61552",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Sharafat, Ali, Kala Amb, Haryana 134203",
+    "area": "Ali",
+    "latitude": 30.5021113,
+    "longitude": 77.20815929999999,
+    "place_id": "ChIJvxqVWqcJDzkRMwpWFIYSO_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxqVWqcJDzkRMwpWFIYSO_c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:32"
+  },
+  {
+    "business_name": "Thakur Vaster Bhandar",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "173023",
+    "phone_number": "+91 98171 72288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "near Old Bus Stand, Rajgarh, Himachal Pradesh 173217",
+    "area": "173023",
+    "latitude": 30.917338299999997,
+    "longitude": 77.2399089,
+    "place_id": "ChIJzRmgnPt_DzkRJ65SJOZk7VM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRmgnPt_DzkRJ65SJOZk7VM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:32"
+  }
+]

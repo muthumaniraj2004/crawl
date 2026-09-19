@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KOPA Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "172025",
+    "phone_number": "+91 91300 00848",
+    "website": "https://kopapune.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "7 H.NO.3 + 4 / 2, , Village, Mundhwa Rd, Ghorpadi, Pune, Maharashtra 411001",
+    "area": "Koregaon Park Annexe, Ghorpadi",
+    "latitude": 18.5382903,
+    "longitude": 73.9077349,
+    "place_id": "ChIJkcZ4RMfBwjsRYYGHyjqIaSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcZ4RMfBwjsRYYGHyjqIaSo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:25:15"
+  },
+  {
+    "business_name": "Lake Shore Mall - Thane",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "172025",
+    "phone_number": "+91 22 6170 1066",
+    "website": "https://lakeshorethane.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "On Eastern Express Highway, Service Rd, Thane West, Thane, Maharashtra 400601",
+    "area": "Laxmi Nagar, Thane West",
+    "latitude": 19.2086541,
+    "longitude": 72.9716614,
+    "place_id": "ChIJ8TbWBHO55zsRzPnTvcIt1tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TbWBHO55zsRzPnTvcIt1tc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:25:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "(KFC) kashish food corner",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Bakery and Cake Shop",
+    "pincode": "172033",
+    "phone_number": "+91 82195 44236",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vill bithal, po, smathala, Riwali, Kumarsain, Himachal Pradesh 172030",
+    "area": "smathala",
+    "latitude": 31.349074299999998,
+    "longitude": 77.4978,
+    "place_id": "ChIJJ4gWCACVBTkR-T984UTDlwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4gWCACVBTkR-T984UTDlwA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:37:16"
+  },
+  {
+    "business_name": "The Himalayan Roots",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "172033",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/thehimalayanrootsrestaurant?igshid=YmMyMTA2M2Y=",
+    "rating": 4.2,
+    "reviews_count": 421,
+    "address": "and, Village - Bashing PO - Babeli Teh, Distt, Kullu, Himachal Pradesh 175138",
+    "area": "Bashing",
+    "latitude": 31.9914469,
+    "longitude": 77.130225,
+    "place_id": "ChIJN9tAo3z1BDkRKwNZrPfxYcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9tAo3z1BDkRKwNZrPfxYcg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:37:17"
+  }
+]

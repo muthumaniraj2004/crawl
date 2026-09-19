@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reeta Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Fertilizer Store, Pest control service, Agricultural Seed Store",
+    "pincode": "173025",
+    "phone_number": "+91 94101 03245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Near, SBI bank main market, Sahaspur, Chharba, Uttarakhand 248197",
+    "area": "173025",
+    "latitude": 30.3909086,
+    "longitude": 77.8090647,
+    "place_id": "ChIJxavtU0spDzkR8DeacrSgUks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxavtU0spDzkR8DeacrSgUks",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:11"
+  },
+  {
+    "business_name": "Batra Insecticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "173025",
+    "phone_number": "+91 98171 48202",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wd No 06, H.No 10, Main Bazar, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "Main Bazar",
+    "latitude": 30.437810799999998,
+    "longitude": 77.6196621,
+    "place_id": "ChIJYVGAlvEjDzkRMxbxPPxLfSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVGAlvEjDzkRMxbxPPxLfSo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:12"
+  }
+]

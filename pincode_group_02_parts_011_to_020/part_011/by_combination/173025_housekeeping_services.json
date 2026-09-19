@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshi clean care",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "173025",
+    "phone_number": "N/A",
+    "website": "http://joshicleancare.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Old Officer's Colony, अजबपुर कलां, Rajawala, Bakhtawarpur Grant, Uttarakhand 248007",
+    "area": "अजबपुर कलां",
+    "latitude": 30.3956163,
+    "longitude": 77.90605579999999,
+    "place_id": "ChIJ-0SMKQArDzkRh8qEHtyE0YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0SMKQArDzkRh8qEHtyE0YU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:02"
+  },
+  {
+    "business_name": "Tumbledry Dry Clean & Laundry Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Carpet cleaning service, Laundry, Laundry service, Shoe repair shop",
+    "pincode": "173025",
+    "phone_number": "+91 76772 50250",
+    "website": "https://tumbledry.in/best-dry-cleaners-in-selakui-dehradun/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chakrata Rd, near Mental Hospital, Selakui, Dehradun, Uttarakhand 248197",
+    "area": "173025",
+    "latitude": 30.3657591,
+    "longitude": 77.8396199,
+    "place_id": "ChIJ742WPzsrDzkRDzaIlb4qOG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ742WPzsrDzkRDzaIlb4qOG4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lazree Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "171217",
+    "phone_number": "+91 94264 72801",
+    "website": "http://www.lazreesarees.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Lazree Sarees, K.T.Shah Rd, opposite Manchhadevi Temple, Swamiji Sheri, Bhandariwali Deli, Mandvi, Gujarat 370465",
+    "area": "Swamiji Sheri",
+    "latitude": 22.8316391,
+    "longitude": 69.3520382,
+    "place_id": "ChIJxzJT5zo0UTkRCw5PWURvGRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzJT5zo0UTkRCw5PWURvGRU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:54:44"
+  },
+  {
+    "business_name": "Paridhan Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "171217",
+    "phone_number": "+91 83027 58859",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pansari bazar, near Gopa chowk, Dhibba Para, Amar Sagar Pol, Jaisalmer, Jaisalmer Muncipal Area, Rajasthan 345001",
+    "area": "Dhibba Para, Amar Sagar Pol",
+    "latitude": 26.914116,
+    "longitude": 70.9142445,
+    "place_id": "ChIJFWyJOy-8RzkRb9n0_I9lKNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWyJOy-8RzkRb9n0_I9lKNA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:54:44"
+  }
+]

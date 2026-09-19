@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NORBULING GARMENTS POINT & GIFT STORE",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "172105",
+    "phone_number": "+91 98169 75403",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stop, Sangla, Himachal Pradesh 172106",
+    "area": "172105",
+    "latitude": 31.427280999999997,
+    "longitude": 78.2634471,
+    "place_id": "ChIJWfX0UGAVBjkRM2mXJXcIu4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfX0UGAVBjkRM2mXJXcIu4A",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:47:23"
+  },
+  {
+    "business_name": "CLuB 21",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "172105",
+    "phone_number": "+91 96464 60666",
+    "website": "https://www.club21.in/",
+    "rating": 3.9,
+    "reviews_count": 1220,
+    "address": "Ground SCO 28 Sector, 23C, Chandigarh, 160023",
+    "area": "23C, Sector 23",
+    "latitude": 30.7381565,
+    "longitude": 76.7662247,
+    "place_id": "ChIJaTsv7rztDzkRvn_JS1BNd3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTsv7rztDzkRvn_JS1BNd3U",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:47:23"
+  }
+]

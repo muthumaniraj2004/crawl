@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahasu sports",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store, Sports club",
+    "pincode": "173022",
+    "phone_number": "+91 82199 60970",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jamniwala Rd, Badripur, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "Badripur",
+    "latitude": 30.446478,
+    "longitude": 77.6030531,
+    "place_id": "ChIJ2XwrIAAjDzkRY2sdRgp-Za8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XwrIAAjDzkRY2sdRgp-Za8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:16:42"
+  },
+  {
+    "business_name": "Mam Chand",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "173022",
+    "phone_number": "+91 82194 25442",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badripur, Dehradun, Paonta Sahib, Uttarakhand 173025",
+    "area": "Badripur",
+    "latitude": 30.4473444,
+    "longitude": 77.6077347,
+    "place_id": "ChIJy0NIsCkjDzkRP05P5-tDYrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0NIsCkjDzkRP05P5-tDYrs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:16:42"
+  }
+]

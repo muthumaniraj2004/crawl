@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAADHANA FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "172116",
+    "phone_number": "+91 98411 25626",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "No. 26/1 E, 18/1, Deenadayalan Street, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Pondy Bazaar, T. Nagar",
+    "latitude": 13.040317799999999,
+    "longitude": 80.23685689999999,
+    "place_id": "ChIJD3zY749nUjoRKL3qsP4SdmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3zY749nUjoRKL3qsP4SdmU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:06"
+  },
+  {
+    "business_name": "Foodies Enterprises",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Dairy Products Supplier, Frozen food store",
+    "pincode": "172116",
+    "phone_number": "+91 94728 04192",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "near news 18 Office, P&T Colony, Kidwaipuri, Patna, Bihar 800001",
+    "area": "P&T Colony, Kidwaipuri",
+    "latitude": 25.6139914,
+    "longitude": 85.12618309999999,
+    "place_id": "ChIJnSvngY9Z7TkRY2pVryOfE8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSvngY9Z7TkRY2pVryOfE8c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:07"
+  }
+]

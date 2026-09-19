@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharam Pal & Sons",
+    "search_category": "Supermarket",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer",
+    "pincode": "172112",
+    "phone_number": "+91 99156 16202",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "SCF 168, Grain Market, Subzi Mandi, Sector 26, Chandigarh, 160019",
+    "area": "Grain Market, Subzi Mandi, Sector 26",
+    "latitude": 30.721861899999997,
+    "longitude": 76.8090325,
+    "place_id": "ChIJs0OwEiLtDzkRBrPyp-h1X3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0OwEiLtDzkRBrPyp-h1X3Q",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:59:04"
+  },
+  {
+    "business_name": "Aggarwal Super Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Department store",
+    "pincode": "172112",
+    "phone_number": "+91 73037 50412",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1989,
+    "address": "A 3/86-87, SS Mota Singh Marg, Block A3, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Block A3, Janakpuri",
+    "latitude": 28.623497699999998,
+    "longitude": 77.08152679999999,
+    "place_id": "ChIJ53gpRLgEDTkRjlojxBvmV4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53gpRLgEDTkRjlojxBvmV4Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:59:04"
+  }
+]

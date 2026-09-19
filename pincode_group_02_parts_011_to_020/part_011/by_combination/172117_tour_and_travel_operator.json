@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lustre Trip",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "172117",
+    "phone_number": "+91 94168 71342",
+    "website": "https://www.lustretrip.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "824, 9, Vishal Nagar, Rohtak, Haryana 124001",
+    "area": "Vishal Nagar",
+    "latitude": 28.902742399999998,
+    "longitude": 76.60587699999999,
+    "place_id": "ChIJI3-Bkg2FDTkRiigQ6iS33-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3-Bkg2FDTkRiigQ6iS33-0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:08:25"
+  },
+  {
+    "business_name": "Gulf Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "172117",
+    "phone_number": "+91 70659 42656",
+    "website": "https://gulf-travels.ueniweb.com/?utm_campaign=gmb",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jama Masjid, Umri Kalan, Uttar Pradesh 244501",
+    "area": "172117",
+    "latitude": 29.038672499999997,
+    "longitude": 78.5669044,
+    "place_id": "ChIJzfFmMfStCzkRT4WSp7vFqqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfFmMfStCzkRT4WSp7vFqqI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:08:27"
+  }
+]

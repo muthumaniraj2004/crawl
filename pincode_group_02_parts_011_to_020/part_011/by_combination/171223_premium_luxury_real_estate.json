@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property Store India",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial agent, Commercial real estate agency, Property management company, Real estate appraiser, Real estate rental agency, Real estate surveyor, Retail space rental agency",
+    "pincode": "171223",
+    "phone_number": "+91 93234 57799",
+    "website": "http://www.propertystoreindia.in/",
+    "rating": 4.9,
+    "reviews_count": 38,
+    "address": "Office # 5, Mega Silver, St Joseph's Colony, 4, Karnik Rd, St Joseph Colony, Rambaug, Kalyan, Maharashtra 421301",
+    "area": "St Joseph Colony, Rambaug",
+    "latitude": 19.243388,
+    "longitude": 73.138418,
+    "place_id": "ChIJfSdqU86V5zsR6LiX2mhw060",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSdqU86V5zsR6LiX2mhw060",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:06:35"
+  },
+  {
+    "business_name": "PLATINUM REALTORS",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "171223",
+    "phone_number": "+91 88808 88926",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 98,
+    "address": "SHOP NO 03, LAKHANI OASIS, PLOT NO 20, SECTOR 09, Ulwe, Gavthan, Maharashtra 410206",
+    "area": "SECTOR 09, Ulwe",
+    "latitude": 18.9723233,
+    "longitude": 73.0163711,
+    "place_id": "ChIJMbZzRgHB5zsRipNzVULx3PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbZzRgHB5zsRipNzVULx3PQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:06:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haveli",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "172101",
+    "phone_number": "+91 98887 55550",
+    "website": "http://haveli.co/jalandhar/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jalandhar - Phagwara Highway, Grand Trunk Rd, Jalandhar, Punjab 144411",
+    "area": "172101",
+    "latitude": 31.278164099999998,
+    "longitude": 75.676673,
+    "place_id": "ChIJUxAFVNJYGjkRQEDkzz64o3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxAFVNJYGjkRQEDkzz64o3k",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:40:38"
+  },
+  {
+    "business_name": "Tamilnadu Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "172101",
+    "phone_number": "+91 82660 78595",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nanda Ki Chowki, Dehradun, Kolhupani, Uttarakhand 248007",
+    "area": "Nanda Ki Chowki",
+    "latitude": 30.3437587,
+    "longitude": 77.956456,
+    "place_id": "ChIJb_7To2bVCDkRK51Be8C37Kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_7To2bVCDkRK51Be8C37Kw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:40:39"
+  }
+]

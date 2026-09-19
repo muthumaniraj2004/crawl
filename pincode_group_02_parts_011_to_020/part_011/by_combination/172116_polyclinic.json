@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ramakrishna Polyclinic & Diagnostic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Blood testing service, Cardiologist, Dermatologist, Diabetologist, Gynecologist",
+    "pincode": "172116",
+    "phone_number": "+91 94802 22177",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Old Madras Rd, next to Dev Bekary, HV Residence, Krishnarajapuram, Bengaluru, Karnataka 560049",
+    "area": "HV Residence, Krishnarajapuram",
+    "latitude": 13.017379499999999,
+    "longitude": 77.70546039999999,
+    "place_id": "ChIJ_Zq1bO4RrjsR3BIV2lafIAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Zq1bO4RrjsR3BIV2lafIAg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:30"
+  },
+  {
+    "business_name": "The Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "172116",
+    "phone_number": "+91 90652 22570",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 27,
+    "address": "Annie Besant Rd, Ashok Rajpath Rd, near patna collage, Patna, Bihar 800004",
+    "area": "Makhania Kuan, Lalbagh",
+    "latitude": 25.618219999999997,
+    "longitude": 85.16508209999999,
+    "place_id": "ChIJUfpQmehY7TkR9XEwfX9XGFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfpQmehY7TkR9XEwfX9XGFI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:30"
+  }
+]

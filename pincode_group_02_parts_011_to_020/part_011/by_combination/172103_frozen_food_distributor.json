@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.H. Enterprise",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Frozen dessert supplier, Frozen food manufacturer",
+    "pincode": "172103",
+    "phone_number": "+91 97061 80648",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "98, Maniram Dewan Rd, Chandmari, Guwahati, Tintukura N.C., Assam 781026",
+    "area": "Chandmari",
+    "latitude": 26.1996483,
+    "longitude": 91.839063,
+    "place_id": "ChIJ8UYRyK9ZWjcRn67bfvGZ6Zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UYRyK9ZWjcRn67bfvGZ6Zk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:43:52"
+  },
+  {
+    "business_name": "Magson - Vijay Char Rasta",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Beverage Store, Cheese shop, Chicken shop, Chocolate shop, Deli, Dry Fruit Store, Gourmet grocery store, Health food store, Meat products store",
+    "pincode": "172103",
+    "phone_number": "+91 99786 16907",
+    "website": "https://magson.in/customer-corner/aboutUs",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "CAPITAL 2, Vijay Cross Rd, near Passport Seva Kendra, Professor's Colony, Rupam Society, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Professor's Colony, Rupam Society, Navrangpura",
+    "latitude": 23.043478,
+    "longitude": 72.5485154,
+    "place_id": "ChIJMUikr56EXjkRMvwdQC4kCiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUikr56EXjkRMvwdQC4kCiA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:43:54"
+  }
+]

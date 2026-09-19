@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jalalabad motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "172102",
+    "phone_number": "+91 97769 23040",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "New Sunny Enclave, Sector 125, Sunny Enclave, Kharar, Punjab 140301",
+    "area": "Sector 125, Sunny Enclave",
+    "latitude": 30.741401399999997,
+    "longitude": 76.6746582,
+    "place_id": "ChIJw6pUbUDvDzkRMX0P-9vBwXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6pUbUDvDzkRMX0P-9vBwXY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:46"
+  },
+  {
+    "business_name": "POWER & ENERGY SYSTEM INC.",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "172102",
+    "phone_number": "+91 95808 58281",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Batapull Chowk, Patlion, Paonta Sahib, Himachal Pradesh 173001",
+    "area": "172102",
+    "latitude": 30.436844899999997,
+    "longitude": 77.5787483,
+    "place_id": "ChIJTxWMjQojDzkRtKysbJ_wfTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxWMjQojDzkRtKysbJ_wfTk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:46"
+  }
+]

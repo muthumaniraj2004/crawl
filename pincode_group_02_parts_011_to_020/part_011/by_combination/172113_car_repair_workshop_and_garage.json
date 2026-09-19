@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Harkishan Motors car repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto air conditioning service, Auto body shop, Auto electrical service, Auto painting, Auto parts store, Brake shop, Car battery store, Car wash, Oil change service",
+    "pincode": "172113",
+    "phone_number": "+91 92120 74899",
+    "website": "https://guruharkishanmotors.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "23/6, Basement, Choti SabZi Mandi, near Oriental Bank of Commerce, Chhoti Subji Mandi, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Chhoti Subji Mandi, Janakpuri",
+    "latitude": 28.6342116,
+    "longitude": 77.09448569999999,
+    "place_id": "ChIJU_-KkbAEDTkR_ZDe6qKtSfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_-KkbAEDTkR_ZDe6qKtSfw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:01:26"
+  },
+  {
+    "business_name": "Surya Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "172113",
+    "phone_number": "+91 92465 77118",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot no-255 Kamalapuri colony phase -2 Srinagar colony road, pump road, beside indian oil, Hyderabad, Telangana 500073",
+    "area": "Kamlapuri Colony, Pragathi Nagar, Yousufguda",
+    "latitude": 17.4308224,
+    "longitude": 78.43136369999999,
+    "place_id": "ChIJqfc56tWQyzsRCSyeU6LkAcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfc56tWQyzsRCSyeU6LkAcI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:01:28"
+  }
+]

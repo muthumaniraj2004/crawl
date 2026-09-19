@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdamba General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173101",
+    "phone_number": "+91 98162 76100",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4, near Nehru Ground, Himachal Pradesh 173101",
+    "area": "173101",
+    "latitude": 30.852583799999998,
+    "longitude": 77.29944189999999,
+    "place_id": "ChIJI-dFIfh7DzkRm5WF6PpmkQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-dFIfh7DzkRm5WF6PpmkQk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:34:04"
+  },
+  {
+    "business_name": "Zimidaar General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173101",
+    "phone_number": "+91 98574 11112",
+    "website": "https://www.rksharma.11112.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zimidaar General Store, Rajgarh, Himachal Pradesh 173101",
+    "area": "173101",
+    "latitude": 30.850020999999998,
+    "longitude": 77.29937939999999,
+    "place_id": "ChIJHUAV7Vx7DzkRn3vF2_R33Ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUAV7Vx7DzkRn3vF2_R33Ic",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:34:04"
+  }
+]

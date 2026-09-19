@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet store and medical",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "172113",
+    "phone_number": "+91 80068 45003",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "LR shah buliding, Mall Rd, Paltan Bazar, Dharanaula, Almora, Uttarakhand 263601",
+    "area": "Paltan Bazar, Dharanaula",
+    "latitude": 29.596003399999997,
+    "longitude": 79.6551621,
+    "place_id": "ChIJVa8hvFW3oDkROGIoE7ocHEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVa8hvFW3oDkROGIoE7ocHEc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:00:54"
+  },
+  {
+    "business_name": "Sandy Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "172113",
+    "phone_number": "+91 63994 78108",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "Talla plot, Jawahar jyoti, near Jamrani Auto Stand, Shiv Puri, Damuwadhunga, Haldwani, Uttarakhand 263139",
+    "area": "Shiv Puri",
+    "latitude": 29.2444758,
+    "longitude": 79.5268596,
+    "place_id": "ChIJk2K472mboDkRWWzo1rNdF4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2K472mboDkRWWzo1rNdF4E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:00:54"
+  }
+]

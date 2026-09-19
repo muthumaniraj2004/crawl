@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baarista Fast food & Juice center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "171218",
+    "phone_number": "+91 91545 95982",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Advocates Colony, Nakkala Gutta, Hanamkonda, Telangana 506001",
+    "area": "Advocates Colony, Nakkala Gutta",
+    "latitude": 17.998349299999997,
+    "longitude": 79.5560059,
+    "place_id": "ChIJPSdtbIFPMzoRbKbutChY5QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSdtbIFPMzoRbKbutChY5QU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:56:25"
+  },
+  {
+    "business_name": "The Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "171218",
+    "phone_number": "+91 90829 88151",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 21,
+    "address": "Shop no 6 highlands gardens, Dhokali - Balkum Rd, Thane West, Thane, Maharashtra 400607",
+    "area": "Yashaswi Nagar, Balkum Pada, Thane West",
+    "latitude": 19.22299,
+    "longitude": 72.9834935,
+    "place_id": "ChIJjxcOi6m75zsRKPjWA502uwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxcOi6m75zsRKPjWA502uwc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:56:26"
+  }
+]

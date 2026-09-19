@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalayan P.G",
+    "search_category": "PG",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Gym",
+    "pincode": "171224",
+    "phone_number": "+91 78330 06321",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near NIIT, opp. Gayatri Mandir, Lower, Shyam Nagar, Dharamshala, Himachal Pradesh 176215",
+    "area": "Lower, Shyam Nagar",
+    "latitude": 32.2081118,
+    "longitude": 76.3281281,
+    "place_id": "ChIJlxY_shpRGzkR7GMwbLp0TDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxY_shpRGzkR7GMwbLp0TDI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:07:55"
+  },
+  {
+    "business_name": "P&G COMPANY",
+    "search_category": "PG",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "171224",
+    "phone_number": "+91 1795 662 000",
+    "website": "http://www.pg.com/en_IN/",
+    "rating": 4.1,
+    "reviews_count": 106,
+    "address": "Plot No.1, near ESI Hospital, Industrial Area, Katha, Baddi, Himachal Pradesh 173205",
+    "area": "Industrial Area",
+    "latitude": 30.9446549,
+    "longitude": 76.8247399,
+    "place_id": "ChIJAWOwY1T1DzkRdZCZ4RLSYho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWOwY1T1DzkRdZCZ4RLSYho",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:07:55"
+  }
+]

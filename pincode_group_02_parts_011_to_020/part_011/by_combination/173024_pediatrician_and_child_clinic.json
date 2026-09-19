@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tayal Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital",
+    "pincode": "173024",
+    "phone_number": "+91 96462 07009",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "near Civil Hospital, Naraingarh, Haryana 134203",
+    "area": "173024",
+    "latitude": 30.4850122,
+    "longitude": 77.1247764,
+    "place_id": "ChIJn6Pgx4qmDzkRDV6bNsNkI_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6Pgx4qmDzkRDV6bNsNkI_M",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:20:22"
+  },
+  {
+    "business_name": "Dr Satinder Chauhan Megacare Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "173024",
+    "phone_number": "+91 1975 238 199",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "F855+24Q, Green Ave Rd, Green Avenue Rakkar, Una, Himachal Pradesh 174306",
+    "area": "Green Avenue Rakkar",
+    "latitude": 31.457588299999998,
+    "longitude": 76.30785039999999,
+    "place_id": "ChIJz67NJUjQGjkRsm2g-xYjmzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz67NJUjQGjkRsm2g-xYjmzI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:20:23"
+  }
+]

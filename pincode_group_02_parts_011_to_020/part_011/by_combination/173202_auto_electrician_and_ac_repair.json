@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Auto Electrical",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "173202",
+    "phone_number": "+91 93736 06212",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Karad, Talbid, Maharashtra 415109",
+    "area": "173202",
+    "latitude": 17.3576279,
+    "longitude": 74.1279036,
+    "place_id": "ChIJOzxiK9aBwTsRnwH9C6mWVIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzxiK9aBwTsRnwH9C6mWVIU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:39:43"
+  },
+  {
+    "business_name": "Pavan Auto Electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "173202",
+    "phone_number": "+91 74101 07609",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Udgir - Bidar Rd, near Ok Bar, Vidya Niketan Colony, Udgir, Nideban, Maharashtra 413517",
+    "area": "Vidya Niketan Colony",
+    "latitude": 18.369954,
+    "longitude": 77.1260757,
+    "place_id": "ChIJ862Z4CarzzsRbMMdPzBMadg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ862Z4CarzzsRbMMdPzBMadg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:39:44"
+  }
+]

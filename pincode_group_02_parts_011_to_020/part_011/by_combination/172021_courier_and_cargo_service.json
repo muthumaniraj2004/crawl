@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub Post Office, Nankhari",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "172021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "8H3M+RCR, near Post office, Nankhari, Himachal Pradesh 172021",
+    "area": "172021",
+    "latitude": 31.304623799999998,
+    "longitude": 77.583531,
+    "place_id": "ChIJX-2XVrzrBTkRt-LNT7D2iJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-2XVrzrBTkRt-LNT7D2iJY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:18:25"
+  },
+  {
+    "business_name": "Maruti Courier Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Car leasing service",
+    "pincode": "172021",
+    "phone_number": "+91 99661 79342",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "https://www.google.co.in/maps/@14.8483651, 78.3840742, 20z?hl=en, నాగలకట్ట, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "నాగలకట్ట",
+    "latitude": 14.848459499999999,
+    "longitude": 78.3842184,
+    "place_id": "ChIJ3Z4lU4hxtDsR1C0gvoJucDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Z4lU4hxtDsR1C0gvoJucDI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:18:26"
+  }
+]

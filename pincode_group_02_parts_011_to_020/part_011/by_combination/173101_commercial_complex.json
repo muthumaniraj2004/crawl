@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choudhary Paridhan",
+    "search_category": "Commercial Complex",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "173101",
+    "phone_number": "+91 98057 31685",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "4 Virendera Complex Solan Mines, Himachal Pradesh 173101",
+    "area": "173101",
+    "latitude": 30.850575199999998,
+    "longitude": 77.2969249,
+    "place_id": "ChIJp6qaF-J7DzkRTmcqyqd56ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6qaF-J7DzkRTmcqyqd56ao",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:35:37"
+  },
+  {
+    "business_name": "Raman Sharma",
+    "search_category": "Commercial Complex",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173101",
+    "phone_number": "+91 88947 67999",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Virendra Complex, Rajgarh, Himachal Pradesh 173101",
+    "area": "173101",
+    "latitude": 30.847546899999998,
+    "longitude": 77.29588129999999,
+    "place_id": "ChIJTXAfZ_d7DzkRVEU-CdpdVH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXAfZ_d7DzkRVEU-CdpdVH0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:35:37"
+  }
+]

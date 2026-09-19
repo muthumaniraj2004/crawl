@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dang Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmacy, Surgical supply store",
+    "pincode": "172103",
+    "phone_number": "+91 98108 44245",
+    "website": "https://dangmedical.in/",
+    "rating": 3.8,
+    "reviews_count": 120,
+    "address": "437, 9, New Railway Rd, Subhash Nagar, Sector 12, Gurugram, Haryana 122001",
+    "area": "Subhash Nagar, Sector 12",
+    "latitude": 28.467382699999998,
+    "longitude": 77.02678159999999,
+    "place_id": "ChIJt3QZTTMYDTkRXOC_76qqxxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3QZTTMYDTkRXOC_76qqxxs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:44:18"
+  },
+  {
+    "business_name": "Medis Surgicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler, Hospital equipment and supplies, Orthopedic supplies store, Physiotherapy equipment supplier, Surgical supply store, Wheelchair store",
+    "pincode": "172103",
+    "phone_number": "+91 90320 91819",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bhavyas Srinivasam Apts, SADGURU APARTMENT, Nizampet Rd, beside ICICI Bank, opp. Vertex, Jai Bharat Nagar, Nagarjuna Homes, Nizampet, Hyderabad, Telangana 500085",
+    "area": "Jai Bharat Nagar, Nagarjuna Homes, Nizampet",
+    "latitude": 17.504432599999998,
+    "longitude": 78.387733,
+    "place_id": "ChIJDYXhf5yRyzsRrcBq4puAqjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYXhf5yRyzsRrcBq4puAqjw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:44:19"
+  }
+]

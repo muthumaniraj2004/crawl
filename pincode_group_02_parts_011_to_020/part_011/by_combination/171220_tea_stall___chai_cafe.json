@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tea Room at Wah",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "171220",
+    "phone_number": "+91 85805 47270",
+    "website": "http://www.wahtea.com/",
+    "rating": 4.4,
+    "reviews_count": 360,
+    "address": "Wah Tea Estate, Panchrukhi Rd, Patti, Palampur, Dohal, Himachal Pradesh 176067",
+    "area": "Patti",
+    "latitude": 32.0744031,
+    "longitude": 76.5465645,
+    "place_id": "ChIJVXg4IeS1BDkRQyQDnWgpDXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXg4IeS1BDkRQyQDnWgpDXo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:59:59"
+  },
+  {
+    "business_name": "Sharma Tea Stall Manali",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "171220",
+    "phone_number": "+91 97369 87900",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Shop, 96, Gompa Rd, near Hotel Neel Kamal, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Siyal",
+    "latitude": 32.2426449,
+    "longitude": 77.1888448,
+    "place_id": "ChIJK9l7KdiJBDkRdWwFVgHX0ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9l7KdiJBDkRdWwFVgHX0ts",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:00:01"
+  }
+]

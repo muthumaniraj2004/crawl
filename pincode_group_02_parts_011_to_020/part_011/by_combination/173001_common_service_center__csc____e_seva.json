@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "173001",
+    "phone_number": "+91 72898 79398",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "T-318/8 Baljit Nagar, West Patel Nagar, New Delhi, Delhi 110008",
+    "area": "Block B, West Patel Nagar, Patel Nagar",
+    "latitude": 28.6551165,
+    "longitude": 77.1609196,
+    "place_id": "ChIJ_cVWYvACDTkRNF1-6Zg5mlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cVWYvACDTkRNF1-6Zg5mlg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:14:15"
+  },
+  {
+    "business_name": "CSC Doon digital seva",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, Corporate office",
+    "pincode": "173001",
+    "phone_number": "+91 94105 21613",
+    "website": "https://csc.gov.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Chandrasekhar Azad colony Ward 49, Near sattowali ghati makka masjid dronpur, LPPO, Kanwali, Dehradun, Uttarakhand 248171",
+    "area": "Shakti Enclave, Kanwali",
+    "latitude": 30.3133652,
+    "longitude": 78.0150378,
+    "place_id": "ChIJj2OeviYqCTkRNgmdaRoTL4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2OeviYqCTkRNgmdaRoTL4Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:14:16"
+  }
+]

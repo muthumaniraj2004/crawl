@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Raj Bandhu Taxi services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "172024",
+    "phone_number": "+91 91297 41111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, Sainj Pranoo, Sainj Chowk, Himachal Pradesh 172030",
+    "area": "172024",
+    "latitude": 31.3400726,
+    "longitude": 77.4441203,
+    "place_id": "ChIJYYCRSNaXBTkRQpVQwMRuS_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYCRSNaXBTkRQpVQwMRuS_E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:22:37"
+  },
+  {
+    "business_name": "Aar kay taxi service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "172024",
+    "phone_number": "+91 78760 56497",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Kingal, Himachal Pradesh 172024",
+    "area": "172024",
+    "latitude": 31.3294908,
+    "longitude": 77.41915759999999,
+    "place_id": "ChIJDT-URZ6XBTkRKoutR4pJMQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDT-URZ6XBTkRKoutR4pJMQk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:22:39"
+  }
+]

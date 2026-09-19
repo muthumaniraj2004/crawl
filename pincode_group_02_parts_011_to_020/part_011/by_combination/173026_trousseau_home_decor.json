@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Wedding Company",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Wedding planner",
+    "pincode": "173026",
+    "phone_number": "+91 8071 176 661",
+    "website": "https://www.theweddingcompany.com/?source=gmaps-blr",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ground Floor, 375, 5th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 6, HSR Layout",
+    "latitude": 12.9145951,
+    "longitude": 77.63249979999999,
+    "place_id": "ChIJWzx5Qx0VrjsRFrJ5awTNFCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzx5Qx0VrjsRFrJ5awTNFCU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:24:30"
+  },
+  {
+    "business_name": "Apsaa Living",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Candle store",
+    "all_categories": "Candle store, Gift shop",
+    "pincode": "173026",
+    "phone_number": "+91 90568 02923",
+    "website": "https://www.apsaaliving.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Preet City, 280, Sector 86, Sahibzada Ajit Singh Nagar, Punjab 140308",
+    "area": "Sector 86",
+    "latitude": 30.672633299999998,
+    "longitude": 76.7030314,
+    "place_id": "ChIJ906FXpzvDzkRf5Oz56294Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ906FXpzvDzkRf5Oz56294Jo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:24:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MadTrek Adventures",
+    "search_category": "Media and Event",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "172115",
+    "phone_number": "+91 88377 79060",
+    "website": "https://madtrek.com/",
+    "rating": 4.8,
+    "reviews_count": 1306,
+    "address": "Daya Cottage, Near Electricity Board, Narwana, Dharamshala, Himachal Pradesh 176052",
+    "area": "Tang Narwana",
+    "latitude": 32.171399,
+    "longitude": 76.3858344,
+    "place_id": "ChIJmaqqOmpSGzkRObqk2h2N__o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaqqOmpSGzkRObqk2h2N__o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:05:24"
+  },
+  {
+    "business_name": "Pizza planet",
+    "search_category": "Media and Event",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "172115",
+    "phone_number": "+91 98055 31305",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 88,
+    "address": "near Government College, main bazar, Shahpur, Nagrota Bagwan, Himachal Pradesh 176206",
+    "area": "main bazar",
+    "latitude": 32.21973,
+    "longitude": 76.172837,
+    "place_id": "ChIJ28-pSFFbGzkRXrRjUq4J-mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28-pSFFbGzkRXrRjUq4J-mE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:05:24"
+  }
+]

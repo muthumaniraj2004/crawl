@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashish Design",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer, Service establishment",
+    "pincode": "172030",
+    "phone_number": "+91 70186 07255",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Aashish Design, 172030, India",
+    "area": "172030",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJDTfcS3uVBTkRKI_bI1C1Mso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTfcS3uVBTkRKI_bI1C1Mso",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:33:30"
+  },
+  {
+    "business_name": "Count Creative",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer",
+    "pincode": "172030",
+    "phone_number": "+91 94189 65040",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market Neether, near Bus Stop, Neether, Himachal Pradesh 172033",
+    "area": "172030",
+    "latitude": 31.371772399999998,
+    "longitude": 77.51813779999999,
+    "place_id": "ChIJRQ17_tKVBTkRCUDACh1w5ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQ17_tKVBTkRCUDACh1w5ew",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:33:32"
+  }
+]

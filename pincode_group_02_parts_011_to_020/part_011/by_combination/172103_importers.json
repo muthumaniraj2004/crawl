@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmiratan Imports and Exports",
+    "search_category": "Importers",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "172103",
+    "phone_number": "N/A",
+    "website": "https://www.laxmiratanimportsandexport.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Flat No. 1503, Kolshet Rd, Kailash Nagar, Thane West, Thane, Maharashtra 400607",
+    "area": "Kailash Nagar, Thane West",
+    "latitude": 19.2249143,
+    "longitude": 72.97925769999999,
+    "place_id": "ChIJr5xGidS55zsRsnjfVJP6dNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5xGidS55zsRsnjfVJP6dNc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:45:22"
+  },
+  {
+    "business_name": "Small World India",
+    "search_category": "Importers",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter, Research and product development, Leather Exporter, Textile Exporter",
+    "pincode": "172103",
+    "phone_number": "+91 120 254 9002",
+    "website": "http://www.smallworldindia.com/",
+    "rating": 4.1,
+    "reviews_count": 36,
+    "address": "D-34, Buddh Vihar Rd, D Block, Sector 11, Noida, Uttar Pradesh 201301",
+    "area": "D Block, Sector 11",
+    "latitude": 28.599045999999998,
+    "longitude": 77.33345899999999,
+    "place_id": "ChIJAQAAwALlDDkRIj-zWATpwfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwALlDDkRIj-zWATpwfA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:45:23"
+  }
+]

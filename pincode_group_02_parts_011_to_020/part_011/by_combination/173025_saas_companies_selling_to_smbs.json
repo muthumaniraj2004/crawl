@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Product Launch",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "173025",
+    "phone_number": "N/A",
+    "website": "https://productlaunch.com.br/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Product Launch, 173025, India",
+    "area": "173025",
+    "latitude": -14.4095262,
+    "longitude": -51.3168626,
+    "place_id": "ChIJbXRgGdtPFCURdGxZFQcbxWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXRgGdtPFCURdGxZFQcbxWg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:19"
+  },
+  {
+    "business_name": "SMB Dynamic Sales",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "173025",
+    "phone_number": "+91 162 828 2409",
+    "website": "https://www.smbdynamic.com/home",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "Khanna-Rattanheri-Bhadla Rd, opp. Main Gurudwara, Bhadla, Bhadla Uncha, Punjab 141401",
+    "area": "Bhadla",
+    "latitude": 30.6925511,
+    "longitude": 76.28759939999999,
+    "place_id": "ChIJST77SGAaEDkRZgBvDqDMuL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJST77SGAaEDkRZgBvDqDMuL0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:20"
+  }
+]

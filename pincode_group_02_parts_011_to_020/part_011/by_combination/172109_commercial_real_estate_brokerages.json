@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hobnob Realtech",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Industrial real estate agency",
+    "pincode": "172109",
+    "phone_number": "+91 80786 48770",
+    "website": "https://hobnobrealtech.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Office no. 1, 1st Floor, 24/66, Swarn Path, Sector II, Swarn Path, Shukalpura, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Sector II, Swarn Path, Shukalpura, Mansarovar",
+    "latitude": 26.8716974,
+    "longitude": 75.75130279999999,
+    "place_id": "ChIJQUGBVQXJbTkR-r64qByKsgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUGBVQXJbTkR-r64qByKsgM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:55:19"
+  },
+  {
+    "business_name": "Sanjeevni Group",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "172109",
+    "phone_number": "+91 86192 29381",
+    "website": "http://www.sanjeevnigroup.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor, Ajit Tower, Shipra Path, near Galaxy Cinema, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "SFS Manasarovar, RIICO Industrial Area, Mansarovar",
+    "latitude": 26.8366029,
+    "longitude": 75.7775374,
+    "place_id": "ChIJddjE_ZG1bTkRzrEs7S5HDb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddjE_ZG1bTkRzrEs7S5HDb0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:55:19"
+  }
+]

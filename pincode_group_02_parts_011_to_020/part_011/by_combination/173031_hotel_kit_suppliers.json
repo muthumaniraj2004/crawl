@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kwality Hospitality Services",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Catering food and drink supplier",
+    "all_categories": "Catering food and drink supplier",
+    "pincode": "173031",
+    "phone_number": "+91 98206 13195",
+    "website": "http://kwalityhospitality.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-122, Ghatkopar Industrial Estate, off Lal Bahadur Shastri Marg, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "area": "Amrut Nagar, Ghatkopar West",
+    "latitude": 19.1018254,
+    "longitude": 72.9139328,
+    "place_id": "ChIJyduqpsXH5zsRJ7pqWTpsUNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyduqpsXH5zsRJ7pqWTpsUNw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:31:34"
+  },
+  {
+    "business_name": "HotelKey India Pvt Ltd",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "173031",
+    "phone_number": "N/A",
+    "website": "https://www.hotelkeyapp.com/#/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HQ88+9GF, Mahalunge, Pune, Maharashtra 411045",
+    "area": "Mahalunge",
+    "latitude": 18.565932099999998,
+    "longitude": 73.76628199999999,
+    "place_id": "ChIJnQaoTgC_wjsRIkAdifB-A6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQaoTgC_wjsRIkAdifB-A6E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:31:34"
+  }
+]

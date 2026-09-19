@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grover Eye & E.N.T Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "173201",
+    "phone_number": "+91 94180 06429",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Second Floor, Rajgarh Rd, above Palak Sarees, adjacent to Baghat Bank, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Bajoral Khurd",
+    "latitude": 30.9080202,
+    "longitude": 77.1012251,
+    "place_id": "ChIJv16DcrWGDzkR0y8AHijjSCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv16DcrWGDzkR0y8AHijjSCE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:37:46"
+  },
+  {
+    "business_name": "Advanced Eye Centre, PGIMER, Chandigarh",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital",
+    "pincode": "173201",
+    "phone_number": "+91 172 275 5252",
+    "website": "https://aecpgimer.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "ADVANCED EYE CENTRE, POST GRADUATE INSTITUTE OF MEDICAL EDUCATION & RESEARCH, Vidya Path, Sector 12, Chandigarh, 160012",
+    "area": "Sector 12",
+    "latitude": 30.7640182,
+    "longitude": 76.7798088,
+    "place_id": "ChIJezgH93_tDzkR-fRnby-7T4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezgH93_tDzkR-fRnby-7T4Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:37:46"
+  }
+]

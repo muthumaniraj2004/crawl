@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lifestyles Fashion. Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Children's clothing store, Women's clothing store",
+    "pincode": "171218",
+    "phone_number": "+91 78761 85125",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": null,
+    "address": "Shanti Complex, B.C.S., New Shimla, Shimla, Himachal Pradesh 171009",
+    "area": "B.C.S., New Shimla",
+    "latitude": 31.084005599999998,
+    "longitude": 77.1720588,
+    "place_id": "ChIJoeLVLLZ4BTkRlUDLkgY3kCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeLVLLZ4BTkRlUDLkgY3kCE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:56:38"
+  },
+  {
+    "business_name": "Riwaz Boutique Jodhpur",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Bridal shop, Fashion designer, Tailor, Women's clothing store",
+    "pincode": "171218",
+    "phone_number": "+91 96499 99995",
+    "website": "https://www.instagram.com/riwazboutiquejodhpur?igsh=NWlrZDB4amt4amhl",
+    "rating": 4.7,
+    "reviews_count": 186,
+    "address": "Pal Link Rd, Ashok Nagar, Jodhpur, Rajasthan 342003",
+    "area": "Ashok Nagar",
+    "latitude": 26.266110299999998,
+    "longitude": 72.99050609999999,
+    "place_id": "ChIJq9d5kTGMQTkRsATB_FG3XTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9d5kTGMQTkRsATB_FG3XTQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:56:38"
+  }
+]

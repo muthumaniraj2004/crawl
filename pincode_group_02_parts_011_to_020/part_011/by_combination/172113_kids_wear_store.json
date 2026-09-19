@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Little CoCo",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "172113",
+    "phone_number": "+91 77174 69834",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SBP Gardenia, SCO 9B, Nijjer Rd, opposite Mansa Devi Mandir, Sector 126, Shivalik City, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Sector 126, Shivalik City",
+    "latitude": 30.7287458,
+    "longitude": 76.670233,
+    "place_id": "ChIJY5ES1UbvDzkRkUWrq7Iijwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5ES1UbvDzkRkUWrq7Iijwo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:01:04"
+  },
+  {
+    "business_name": "Capital Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "172113",
+    "phone_number": "+91 98153 60804",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 237,
+    "address": "B/6/786, Kothi Rd, Satgur Nagar, Nawanshahr, Punjab 144514",
+    "area": "Satgur Nagar",
+    "latitude": 31.1247719,
+    "longitude": 76.11763309999999,
+    "place_id": "ChIJq2Sbqce9GjkRKp3rFrPCvzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2Sbqce9GjkRKp3rFrPCvzw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:01:05"
+  }
+]

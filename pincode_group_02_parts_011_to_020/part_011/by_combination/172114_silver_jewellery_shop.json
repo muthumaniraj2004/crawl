@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babasoni.creations",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith",
+    "pincode": "172114",
+    "phone_number": "+91 77377 70150",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 53,
+    "address": "main market, Kasol, Bhuntar, Himachal Pradesh 175105",
+    "area": "172114",
+    "latitude": 32.0102888,
+    "longitude": 77.31647079999999,
+    "place_id": "ChIJX0xXABNdBDkRpbIyjbIyjyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0xXABNdBDkRpbIyjbIyjyk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:02:54"
+  },
+  {
+    "business_name": "KRISHNA JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "172114",
+    "phone_number": "+91 98162 87702",
+    "website": "http://www.fb.com/krishnajeweler",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jewellery Chowk, Main Bazar, Kaza, Kaza Khas, Himachal Pradesh 172114",
+    "area": "172114",
+    "latitude": 32.2250717,
+    "longitude": 78.0726037,
+    "place_id": "ChIJjTxhAAGjBjkR0RMoDtfN8o8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTxhAAGjBjkR0RMoDtfN8o8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:02:54"
+  }
+]

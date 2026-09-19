@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "172034",
+    "phone_number": "+91 88949 45938",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thakur General Store, near Police station, Sarahan, Himachal Pradesh 172102",
+    "area": "172034",
+    "latitude": 31.5111545,
+    "longitude": 77.7958759,
+    "place_id": "ChIJP-nLYQDbBTkRO4Dhq7aUsA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-nLYQDbBTkRO4Dhq7aUsA8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:38:45"
+  },
+  {
+    "business_name": "Kumar Genral Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "172034",
+    "phone_number": "+91 98056 66777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "66, Geeta Niwas, Sarahan, Himachal Pradesh 172034",
+    "area": "172034",
+    "latitude": 31.510708899999997,
+    "longitude": 77.79470189999999,
+    "place_id": "ChIJbcm4b2rbBTkRNT7t1bK99AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcm4b2rbBTkRNT7t1bK99AA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:38:45"
+  }
+]

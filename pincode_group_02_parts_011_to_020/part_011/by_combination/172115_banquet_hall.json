@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Red stone",
+    "search_category": "Banquet Hall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "172115",
+    "phone_number": "+91 78570 00036",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 68,
+    "address": "Bhager - Amrapur Rd, Manjiasu, Himachal Pradesh 174021",
+    "area": "172115",
+    "latitude": 31.3941217,
+    "longitude": 76.7261717,
+    "place_id": "ChIJOxjKZB07BTkR2l1NhpJn_1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxjKZB07BTkR2l1NhpJn_1Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:05:17"
+  },
+  {
+    "business_name": "Hotel Binwa View & Banquets",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Hotel, Bar, Resort hotel, Restaurant, Wedding service, Wedding venue",
+    "pincode": "172115",
+    "phone_number": "+91 70181 16170",
+    "website": "https://hotelbinwaview.com/",
+    "rating": 4.1,
+    "reviews_count": 173,
+    "address": "Neri - Bajnath Rd, Baijnath, Himachal Pradesh 176125",
+    "area": "172115",
+    "latitude": 32.0491102,
+    "longitude": 76.6423617,
+    "place_id": "ChIJA5bLGF25BDkRSc9cjfOMBcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5bLGF25BDkRSc9cjfOMBcY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:05:18"
+  }
+]

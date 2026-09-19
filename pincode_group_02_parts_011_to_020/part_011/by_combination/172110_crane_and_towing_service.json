@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kabbots Towing LLC",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "172110",
+    "phone_number": "N/A",
+    "website": "http://www.kabbots.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kabbots Towing LLC, 172110, India",
+    "area": "172110",
+    "latitude": 39.994144999999996,
+    "longitude": -75.043245,
+    "place_id": "ChIJD10Fqj_JTWsRPtrI504fzg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD10Fqj_JTWsRPtrI504fzg8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:56:16"
+  },
+  {
+    "business_name": "Jones Hauling LLC",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "172110",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/share/15t5JRqDWp/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Jones Hauling LLC, 172110, India",
+    "area": "172110",
+    "latitude": 39.8578488,
+    "longitude": -78.667076,
+    "place_id": "ChIJPRILd7TtDmURS-NsHKynBH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRILd7TtDmURS-NsHKynBH4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:56:18"
+  }
+]

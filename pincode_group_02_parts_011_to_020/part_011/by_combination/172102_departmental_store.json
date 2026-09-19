@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAVEEN SHOP",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "172102",
+    "phone_number": "+91 98216 99908",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 29, MAIN MARKET, Pass Harkoti, Upper Bazar, Shimla, Himachal Pradesh 172201",
+    "area": "Upper Bazar",
+    "latitude": 31.4778487,
+    "longitude": 77.70767409999999,
+    "place_id": "ChIJn-Mv3XbDBTkRvhczir9M-Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-Mv3XbDBTkRvhczir9M-Lw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:10"
+  },
+  {
+    "business_name": "Super Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "172102",
+    "phone_number": "+91 98820 94107",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 10,
+    "address": "5, Housing Board Colony Phases 2, Baddi, Himachal Pradesh 173205",
+    "area": "Housing Board Colony Phases 2",
+    "latitude": 30.9403142,
+    "longitude": 76.8012574,
+    "place_id": "ChIJjXXDZl31DzkRuGmcsiIVOSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXXDZl31DzkRuGmcsiIVOSw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Business Guide",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "171220",
+    "phone_number": "N/A",
+    "website": "https://www.indiabusinessguide.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "India Business Guide, 171220, India",
+    "area": "171220",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ0yVTUpPrwjsRc-wTBi5Czdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yVTUpPrwjsRc-wTBi5Czdk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:01:32"
+  },
+  {
+    "business_name": "BestCallConnect",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Call center",
+    "all_categories": "Call center",
+    "pincode": "171220",
+    "phone_number": "+91 99661 86980",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "19/3 RT,Street No5, Prakash Nagar,Begumpet, Hyderabad, Telangana 500016",
+    "area": "Prakash Nagar, Begumpet",
+    "latitude": 17.4422778,
+    "longitude": 78.4688006,
+    "place_id": "ChIJE-T9gaOQyzsRhD_sdbZuOFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-T9gaOQyzsRhD_sdbZuOFI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:01:32"
+  }
+]

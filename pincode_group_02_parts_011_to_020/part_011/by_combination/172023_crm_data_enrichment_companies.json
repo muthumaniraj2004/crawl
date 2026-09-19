@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMARTe Inc",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Business to business service",
+    "pincode": "172023",
+    "phone_number": "N/A",
+    "website": "https://www.smarte.pro/",
+    "rating": 4.2,
+    "reviews_count": 25,
+    "address": "440 N Wolfe Rd, Sunnyvale, CA 94085, United States",
+    "area": "172023",
+    "latitude": 37.3840875,
+    "longitude": -122.0127955,
+    "place_id": "ChIJZ-XEmZa1j4ARBC7uaCohQi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-XEmZa1j4ARBC7uaCohQi8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:21:55"
+  },
+  {
+    "business_name": "Introhive | Relationship Intelligence",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "172023",
+    "phone_number": "N/A",
+    "website": "https://www.introhive.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "364 Argyle St 1st Floor, Fredericton, NB E3B 1T9, Canada",
+    "area": "Town Plat",
+    "latitude": 45.956741799999996,
+    "longitude": -66.64981019999999,
+    "place_id": "ChIJm7H3Vp8YpEwRt17PQJaloTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7H3Vp8YpEwRt17PQJaloTg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:21:58"
+  }
+]

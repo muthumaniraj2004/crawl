@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snow Flakes Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Bar, Conference center, Heating contractor, Hotel, Live music venue, Restaurant, Spa, Wedding venue",
+    "pincode": "172033",
+    "phone_number": "+91 98160 07132",
+    "website": "https://www.snowflakesresort.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Naggar Road, PO, Shuru, Prini, Manali, Himachal Pradesh 175143",
+    "area": "Shuru, Prini",
+    "latitude": 32.2149901,
+    "longitude": 77.1967591,
+    "place_id": "ChIJ37k0tp1iBDkRdOenbxtjEb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37k0tp1iBDkRdOenbxtjEb8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:38:08"
+  },
+  {
+    "business_name": "White Hill Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "172033",
+    "phone_number": "+91 62835 14155",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Hadimba Temple Road, The Mall, near Sagar Resort, Manali, Himachal Pradesh 175131",
+    "area": "Old Manali",
+    "latitude": 32.250263,
+    "longitude": 77.1820303,
+    "place_id": "ChIJAcLBpMOHBDkRJFIbpPvENMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcLBpMOHBDkRJFIbpPvENMg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:38:08"
+  }
+]

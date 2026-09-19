@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mylai Shree Kumaran",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Dress store, Men's clothing store, Saree Shop, Women's clothing store",
+    "pincode": "171221",
+    "phone_number": "+91 44 2345 6962",
+    "website": "https://www.mylaikumaran.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "86, Ramakrishna Mutt Rd, Alamelu Manga Puram, Venkatesa Agraharam, Mylapore, Chennai, Tamil Nadu 600004",
+    "area": "Alamelu Manga Puram, Venkatesa Agraharam, Mylapore",
+    "latitude": 13.033069099999999,
+    "longitude": 80.2675325,
+    "place_id": "ChIJ64TuWtJnUjoR9Og4WfiApPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64TuWtJnUjoR9Og4WfiApPU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:01:52"
+  },
+  {
+    "business_name": "Kalakunj",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Batik clothing store, Boutique, Bridal shop, Clothing store, Clothing wholesaler, Designer Clothing Store, Saree Shop, Silk store",
+    "pincode": "171221",
+    "phone_number": "+91 93522 94649",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "14-A, Gumanpura Rd, New Colony, Gumanpura, Kota, Rajasthan 324007",
+    "area": "New colony, Gumanpura",
+    "latitude": 25.1755292,
+    "longitude": 75.84859279999999,
+    "place_id": "ChIJ3XyLxCibbzkRDFFLMaVvgNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XyLxCibbzkRDFFLMaVvgNs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:01:52"
+  }
+]

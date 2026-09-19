@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahasu medical Store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "173023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Renuka Ji, Village borli, po, redli, Sangrah, Dada Khalor, Himachal Pradesh 173023",
+    "area": "redli, Sangrah",
+    "latitude": 30.6843556,
+    "longitude": 77.422112,
+    "place_id": "ChIJE56IrzRtDzkRMIaUPGoMsBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE56IrzRtDzkRMIaUPGoMsBo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:38"
+  },
+  {
+    "business_name": "Lagnu",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "173023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "p-o-sinu, teh, Vill, Lagnu, Sangrah, Himachal Pradesh 173023",
+    "area": "Vill",
+    "latitude": 30.695731199999997,
+    "longitude": 77.4257319,
+    "place_id": "ChIJ76l4FwBtDzkRc0hLLErS-BI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76l4FwBtDzkRc0hLLErS-BI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:18:38"
+  }
+]

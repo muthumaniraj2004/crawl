@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171220",
+    "phone_number": "+91 70181 51409",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Kufri Theog, Kufri, Himachal Pradesh 171012",
+    "area": "171220",
+    "latitude": 31.1016771,
+    "longitude": 77.26247339999999,
+    "place_id": "ChIJxdHHHMKDBTkRRUSj87CfK_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdHHHMKDBTkRRUSj87CfK_M",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:59:56"
+  },
+  {
+    "business_name": "Yogesh General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store, Dairy store",
+    "pincode": "171220",
+    "phone_number": "+91 98166 21038",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Vill khanar, po, mundo Tehsil, Theog, Himachal Pradesh 171226",
+    "area": "mundo Tehsil",
+    "latitude": 31.0163144,
+    "longitude": 77.3987903,
+    "place_id": "ChIJj1t_K_WJBTkREtIVdR8ri3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1t_K_WJBTkREtIVdR8ri3Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:59:56"
+  }
+]

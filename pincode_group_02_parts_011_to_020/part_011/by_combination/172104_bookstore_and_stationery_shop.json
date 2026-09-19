@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navchetan Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "172104",
+    "phone_number": "+91 97790 50692",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 852,
+    "address": "KC Road, Gali Number 1, Barnala, Punjab 148101",
+    "area": "Shakti Nagar",
+    "latitude": 30.3655138,
+    "longitude": 75.537545,
+    "place_id": "ChIJOcr0cAPyEDkRN1BG39KAf80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcr0cAPyEDkRN1BG39KAf80",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:46:38"
+  },
+  {
+    "business_name": "Sharma Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "172104",
+    "phone_number": "+91 98053 97773",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khwangi, Reckong Peo, Himachal Pradesh 172107",
+    "area": "Khwangi",
+    "latitude": 31.5418837,
+    "longitude": 78.2705427,
+    "place_id": "ChIJJyIm_x9qBjkRS16-KwuThY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyIm_x9qBjkRS16-KwuThY0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:46:39"
+  }
+]

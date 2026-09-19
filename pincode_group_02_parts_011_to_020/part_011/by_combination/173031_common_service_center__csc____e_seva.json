@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC-Common Services Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "173031",
+    "phone_number": "+91 70147 09998",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Masjid Road, Sultanpur, New Delhi, Delhi 110030",
+    "area": "Sultanpur",
+    "latitude": 28.4925216,
+    "longitude": 77.1593712,
+    "place_id": "ChIJ56sCROsfDTkRvITNGjh_jN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56sCROsfDTkRvITNGjh_jN0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:31:43"
+  },
+  {
+    "business_name": "CSC e-Governance Services India Limited",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "173031",
+    "phone_number": "+91 94169 56603",
+    "website": "https://csc.gov.in/aboutus",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PX2X+2MQ, New Wazir Chand Colony karnal, near civil hospital chowk, Haryana 132001",
+    "area": "Sukhan Market, Model Town",
+    "latitude": 29.7000975,
+    "longitude": 76.9992201,
+    "place_id": "ChIJOy4Nv_ZvDjkRn_Ez547UPHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOy4Nv_ZvDjkRn_Ez547UPHo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:31:43"
+  }
+]

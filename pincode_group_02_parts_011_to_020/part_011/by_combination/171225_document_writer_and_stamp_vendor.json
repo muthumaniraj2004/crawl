@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Enterprises",
+    "search_category": "Document Writer and Stamp Vendor",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Notary public, Pen store",
+    "pincode": "171225",
+    "phone_number": "+91 70189 50007",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "VPO and Tehsil, near CIVIL COURT, Banjar, Himachal Pradesh 175123",
+    "area": "171225",
+    "latitude": 31.6373347,
+    "longitude": 77.3445522,
+    "place_id": "ChIJxzNdOg6tBTkRdUknDIv3TyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzNdOg6tBTkRdUknDIv3TyM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:09:53"
+  },
+  {
+    "business_name": "Sangam Enterprises Bhuntar",
+    "search_category": "Document Writer and Stamp Vendor",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "171225",
+    "phone_number": "+91 78078 66382",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, Steel Bridge, Parla Bhuntar, Bhuntar, Shillihar, Himachal Pradesh 175125",
+    "area": "Parla Bhuntar",
+    "latitude": 31.8875757,
+    "longitude": 77.1493931,
+    "place_id": "ChIJOf_63KT3BDkRDtgHcI4nByo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOf_63KT3BDkRDtgHcI4nByo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:09:53"
+  }
+]

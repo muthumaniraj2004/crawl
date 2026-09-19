@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simpli Namdhari's, Ashoka pillar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Grocery store, Restaurant",
+    "pincode": "173026",
+    "phone_number": "+91 63664 33126",
+    "website": "https://www.simplinamdharis.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ground Floor, Pasadena Building, 10th main, 18/1, Ashoka Pillar Rd, Jayanagar 1st Block, Bengaluru, Karnataka 560011",
+    "area": "Jayanagar 1st Block, Jayanagar",
+    "latitude": 12.939520199999999,
+    "longitude": 77.5853937,
+    "place_id": "ChIJ4X0EMj0VrjsRqrshd7wn4P8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4X0EMj0VrjsRqrshd7wn4P8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:25"
+  },
+  {
+    "business_name": "Uzhavu Organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "173026",
+    "phone_number": "+91 95662 23337",
+    "website": "http://uzhavuorganic.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NO 5, SRG COMPLEX, Anand Nagar Main Rd, R.E. Nagar Extension, Thoraipakkam, Tamil Nadu 600097",
+    "area": "R.E. Nagar Extension",
+    "latitude": 12.9464682,
+    "longitude": 80.23424969999999,
+    "place_id": "ChIJr6GqHuBdUjoROYwKTbFifbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6GqHuBdUjoROYwKTbFifbE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:26"
+  }
+]

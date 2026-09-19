@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shimla Traders",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Aluminum frames supplier",
+    "all_categories": "Aluminum frames supplier, Aluminium Supplier, Flooring store, Glass merchant, Kitchen furniture store, Kitchen remodeler, Steel framework contractor",
+    "pincode": "172001",
+    "phone_number": "+91 89682 95959",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nr. Sanjeevani Hospital Chuhabagh, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "172001",
+    "latitude": 31.4548898,
+    "longitude": 77.6551072,
+    "place_id": "ChIJwcrKucjDBTkRLucmiQMnebQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcrKucjDBTkRLucmiQMnebQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:15:22"
+  },
+  {
+    "business_name": "Ashok Leyland",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machine workshop",
+    "all_categories": "Machine workshop, Truck repair shop",
+    "pincode": "172001",
+    "phone_number": "+91 1782 222 555",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 22,
+    "address": "9JRJ+JH6, Rampur, Nogli, Himachal Pradesh 172001",
+    "area": "172001",
+    "latitude": 31.391543,
+    "longitude": 77.63138339999999,
+    "place_id": "ChIJt47S5pTBBTkRIP4Sxg9NngM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt47S5pTBBTkRIP4Sxg9NngM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:15:23"
+  }
+]

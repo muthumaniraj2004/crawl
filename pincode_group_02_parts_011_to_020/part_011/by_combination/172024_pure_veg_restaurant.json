@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Four Season Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "172024",
+    "phone_number": "+91 98823 09644",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 1360,
+    "address": "Jogiwara Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176219",
+    "area": "McLeod Ganj",
+    "latitude": 32.2377304,
+    "longitude": 76.32431609999999,
+    "place_id": "ChIJP0C1YyxRGzkRSlk2bdLBRYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0C1YyxRGzkRSlk2bdLBRYQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:22:08"
+  },
+  {
+    "business_name": "King of Spices",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Home Stay",
+    "pincode": "172024",
+    "phone_number": "+91 94184 06499",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 89,
+    "address": "NH-5, MAHADEV PALACE, KHEKHAR, DISTT, TEHSIL, Kumarsain, Shimla, Himachal Pradesh 172030",
+    "area": "TEHSIL",
+    "latitude": 31.334539,
+    "longitude": 77.436739,
+    "place_id": "ChIJ5e8UOwCXBTkRhY5_E_f3CTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5e8UOwCXBTkRhY5_E_f3CTg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:22:09"
+  }
+]

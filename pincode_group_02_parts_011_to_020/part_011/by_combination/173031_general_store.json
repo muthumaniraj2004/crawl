@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek general store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "173031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFCQ+74, Rampur Majari, Himachal Pradesh 173031",
+    "area": "173031",
+    "latitude": 30.520592699999998,
+    "longitude": 77.4878246,
+    "place_id": "ChIJDSVAAQAXDzkRG3FVH1x2qzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSVAAQAXDzkRG3FVH1x2qzg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:30:29"
+  },
+  {
+    "business_name": "Shiva General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "173031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "MFMQ+W7W, Hamirpur, Himachal Pradesh 177001",
+    "area": "173031",
+    "latitude": 31.684859099999997,
+    "longitude": 76.4882095,
+    "place_id": "ChIJLVx3OQ3VBDkRqVtzU50AKCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVx3OQ3VBDkRqVtzU50AKCc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:30:29"
+  }
+]

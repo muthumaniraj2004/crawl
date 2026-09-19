@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veerendra Kumar",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171222",
+    "phone_number": "+91 91404 32440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "01, Janog Ghat, Rampur, Himachal Pradesh 171201",
+    "area": "Janog Ghat",
+    "latitude": 31.1189653,
+    "longitude": 77.36017919999999,
+    "place_id": "ChIJ70aBT4mFBTkRqijtD25rz4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70aBT4mFBTkRqijtD25rz4w",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:03:21"
+  },
+  {
+    "business_name": "Prime super market",
+    "search_category": "Kirana Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "171222",
+    "phone_number": "+91 84275 67555",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Huda Market, Sector 4, Panchkula, Haryana 134112",
+    "area": "Sector 4",
+    "latitude": 30.6903319,
+    "longitude": 76.86120319999999,
+    "place_id": "ChIJswFsgK2TDzkRW4WsP-ZTyt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswFsgK2TDzkRW4WsP-ZTyt8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:03:23"
+  }
+]

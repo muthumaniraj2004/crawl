@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khanduja Traders",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "173031",
+    "phone_number": "+91 98827 05269",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Ambala-Paonta Sahib-Dehradun Rd, Dhaula Kuan, Himachal Pradesh 173031",
+    "area": "173031",
+    "latitude": 30.5021328,
+    "longitude": 77.47456439999999,
+    "place_id": "ChIJt9Fw6zMXDzkRX9--WgEjgXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9Fw6zMXDzkRX9--WgEjgXA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:32:11"
+  },
+  {
+    "business_name": "MAA JWALA JI TRADERS",
+    "search_category": "Shops",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "173031",
+    "phone_number": "+91 89010 09922",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill- Dera, Po- Hamidpir, Teh-Naraingarh, Distt, Ambala - Dehradun Rd, Kala Amb, Himachal Pradesh 173001",
+    "area": "173031",
+    "latitude": 30.500520899999998,
+    "longitude": 77.42858729999999,
+    "place_id": "ChIJX9cB0IYRDzkRkU1UJ7oXDuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9cB0IYRDzkRkU1UJ7oXDuU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:32:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sevak Auto",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "172105",
+    "phone_number": "+91 88068 40295",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 224,
+    "address": "Gate no 2, opp. to flyover pillar no 28, near Bohra nursery, Saraswati Nagar, Balram Nagar, Nashik, Maharashtra 422003",
+    "area": "Saraswati Nagar, Balram Nagar",
+    "latitude": 20.0215545,
+    "longitude": 73.8335745,
+    "place_id": "ChIJp-33l97r3TsR3APJb0kBhHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-33l97r3TsR3APJb0kBhHc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:47:46"
+  },
+  {
+    "business_name": "Maruti Authorised Service Station (Krish Auto)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "172105",
+    "phone_number": "+91 98165 79999",
+    "website": "https://www.marutisuzuki.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Krish Auto, Tehsil Kalpa, Disst, ITBP Quarters, Reckong Peo, Himachal Pradesh 172107",
+    "area": "ITBP Quarters",
+    "latitude": 31.5332334,
+    "longitude": 78.2691935,
+    "place_id": "ChIJO-aFiyJqBjkRgPPhQdgXzh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-aFiyJqBjkRgPPhQdgXzh8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:47:47"
+  }
+]

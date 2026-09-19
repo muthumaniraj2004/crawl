@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahendra Healthcare",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "171221",
+    "phone_number": "+91 135 359 9451",
+    "website": "https://www.mahendrahealthcare.com/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Shaurya Residency, Dhoran Rd, near I. T. Park Rd, Doon IT Park, Govind Vihar, Dehradun, Uttarakhand 248013",
+    "area": "Doon IT Park, Govind Vihar",
+    "latitude": 30.365091,
+    "longitude": 78.083565,
+    "place_id": "ChIJc-WH0C_XCDkRbHvLuP8QQjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-WH0C_XCDkRbHvLuP8QQjs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:02:02"
+  },
+  {
+    "business_name": "Sevana Medicals Vyttila",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "171221",
+    "phone_number": "+91 92872 00842",
+    "website": "http://www.sevanamed.com/",
+    "rating": 3.6,
+    "reviews_count": 59,
+    "address": "X899+835, Vyttila, Kochi, Ernakulam, Kerala 682019",
+    "area": "Vyttila",
+    "latitude": 9.968263799999999,
+    "longitude": 76.3177339,
+    "place_id": "ChIJyRlO4SlzCDsRS7as5K49ylw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRlO4SlzCDsRS7as5K49ylw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:02:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADDY Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner, Event management company",
+    "pincode": "172021",
+    "phone_number": "+91 91400 58489",
+    "website": "https://addyevents.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Second Floor, GNS Plaza, Office No S, 21/1, opposite Radisson Blu, Industrial Area, Surajpur Site 4, Greater Noida, Uttar Pradesh 201315",
+    "area": "Block C, Industrial Area, Surajpur Site 4",
+    "latitude": 28.449612499999997,
+    "longitude": 77.52812469999999,
+    "place_id": "ChIJ69n8rW-9DDkRpe7tlHwnrAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69n8rW-9DDkRpe7tlHwnrAc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:18:03"
+  },
+  {
+    "business_name": "Amigos Events - Destination Wedding Planners",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event venue",
+    "pincode": "172021",
+    "phone_number": "+91 83683 90491",
+    "website": "https://amigosevents.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3E, New Industrial Twp 3, New Industrial Township, Faridabad, Haryana 121001",
+    "area": "Block E, New Industrial Township 3, New Industrial Township",
+    "latitude": 28.3914124,
+    "longitude": 77.2870391,
+    "place_id": "ChIJTz7Y9MbdDDkRcWZblZvdQcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTz7Y9MbdDDkRcWZblZvdQcA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:18:03"
+  }
+]

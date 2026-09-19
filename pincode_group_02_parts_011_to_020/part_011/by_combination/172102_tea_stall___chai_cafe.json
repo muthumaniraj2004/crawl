@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manohar Chai Nigohi",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "172102",
+    "phone_number": "+91 89485 55091",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bajaj Agency Ke Pas, Bisalpur Road, Nigohi, Uttar Pradesh 242407",
+    "area": "172102",
+    "latitude": 28.100972,
+    "longitude": 79.86408879999999,
+    "place_id": "ChIJDWbT-7iRnzkRSO6UiTsD1Ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWbT-7iRnzkRSO6UiTsD1Ik",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:16"
+  },
+  {
+    "business_name": "Hyderabadi Irani Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop, Cookie shop, Ice cream shop, Tiffin center",
+    "pincode": "172102",
+    "phone_number": "+91 83458 80753",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 478,
+    "address": "truck lay bye point, near Ilahipur, Ilahipur, Sehakhala, haripal, Ilipur, West Bengal 712706",
+    "area": "Ilahipur, Sehakhala",
+    "latitude": 22.7757665,
+    "longitude": 88.1618221,
+    "place_id": "ChIJa5fk0K59-DkRg-eHTKC9Yp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5fk0K59-DkRg-eHTKC9Yp4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:42:16"
+  }
+]

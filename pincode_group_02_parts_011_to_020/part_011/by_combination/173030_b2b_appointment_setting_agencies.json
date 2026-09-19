@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "First Party Advisory",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Advertising agency, Service establishment",
+    "pincode": "173030",
+    "phone_number": "+91 88502 37870",
+    "website": "https://www.firstparty.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "First Party Advisory, 173030, India",
+    "area": "173030",
+    "latitude": 19.1190615,
+    "longitude": 72.8948491,
+    "place_id": "ChIJ76kxDPi0dmwRAXE-2zLdF7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76kxDPi0dmwRAXE-2zLdF7I",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:30:19"
+  },
+  {
+    "business_name": "Bright Run Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Service establishment",
+    "pincode": "173030",
+    "phone_number": "+91 98106 38998",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bright Run Solutions, 173030, India",
+    "area": "173030",
+    "latitude": 28.4771997,
+    "longitude": 77.1817374,
+    "place_id": "ChIJrQ17SWMtm2QRJoZocAQwsnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQ17SWMtm2QRJoZocAQwsnQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:30:19"
+  }
+]

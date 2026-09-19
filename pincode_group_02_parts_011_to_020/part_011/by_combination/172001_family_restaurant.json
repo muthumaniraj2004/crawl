@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fast Lane Foodie Express",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "172001",
+    "phone_number": "+91 98051 30695",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "FLFE Ground floor, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "172001",
+    "latitude": 31.3908845,
+    "longitude": 77.6088943,
+    "place_id": "ChIJVxZee2HBBTkR0-0N1Ns3gvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxZee2HBBTkR0-0N1Ns3gvw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:14:04"
+  },
+  {
+    "business_name": "DUTTMAHARAJ BHOJANYALA",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "172001",
+    "phone_number": "+91 86269 44560",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ward no 3, Rampur Bypass, Rajpur, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "Rajpur",
+    "latitude": 31.4500443,
+    "longitude": 77.6300873,
+    "place_id": "ChIJWQKOpcnBBTkREvS0MtSVFmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQKOpcnBBTkREvS0MtSVFmw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:14:06"
+  }
+]

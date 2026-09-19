@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purvanchal Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "173026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G.F, G.K. Tower, Shop No. 23, 24U, Urdu Bazar Rd, near Sarrafa Bhawan, Ghantaghar, Gorakhpur, Uttar Pradesh 273005",
+    "area": "Ghantaghar, Bade Kajipur",
+    "latitude": 26.744925499999997,
+    "longitude": 83.3542556,
+    "place_id": "ChIJ8_ITsmxFkTkRL0XJeuEJHW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_ITsmxFkTkRL0XJeuEJHW0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:40"
+  },
+  {
+    "business_name": "Diamond Goldy",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry Exporter, Diamond Merchant",
+    "pincode": "173026",
+    "phone_number": "+91 2622 222 350",
+    "website": "http://www.diamondgoldy.com/",
+    "rating": 4.9,
+    "reviews_count": 104,
+    "address": "Sardar Arcade, DIAMOND GOLDY, A-101, Sardar Patel Marg, near Patel Medical, Bardoli, Gujarat 394601",
+    "area": "Hirachand Nagar",
+    "latitude": 21.1305552,
+    "longitude": 73.10695439999999,
+    "place_id": "ChIJ5ReyDHRn4DsRTRbzevXPxbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ReyDHRn4DsRTRbzevXPxbM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:23:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARHI Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "172116",
+    "phone_number": "+91 94353 18000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "11TH MILE, near SURYODAYA SECONDARY SCHOOL, Mawsmai, Jorabat, Meghalaya 793101",
+    "area": "172116",
+    "latitude": 26.098831399999998,
+    "longitude": 91.8696623,
+    "place_id": "ChIJPSbQP_r1WjcR9lYwDZ5qIc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSbQP_r1WjcR9lYwDZ5qIc8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:26"
+  },
+  {
+    "business_name": "Chajjunagar nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "172116",
+    "phone_number": "+91 94668 40024",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Canara bank, Chhajju Nagar, Haryana 121102",
+    "area": "172116",
+    "latitude": 28.110703899999997,
+    "longitude": 77.3684464,
+    "place_id": "ChIJyd3IIAvTDDkRT5qFVdG7YLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyd3IIAvTDDkRT5qFVdG7YLk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:06:27"
+  }
+]

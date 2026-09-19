@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen by nepali",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "172027",
+    "phone_number": "+91 62832 48910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "163, garshankar chowk, Banga Rural, Banga, Punjab 144505",
+    "area": "garshankar chowk",
+    "latitude": 31.183757999999997,
+    "longitude": 75.9985224,
+    "place_id": "ChIJvfolfIyVGjkRVAEgkRrbv8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfolfIyVGjkRVAEgkRrbv8o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:05"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Pizza takeaway",
+    "all_categories": "Pizza takeaway",
+    "pincode": "172027",
+    "phone_number": "+91 63618 66067",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Tiny pearls school, Khaja Colony, Kalaburagi, Karnataka 585104",
+    "area": "Khaja Colony",
+    "latitude": 17.3484409,
+    "longitude": 76.8556103,
+    "place_id": "ChIJE47yfPvHyDsRonUaekKr_IM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE47yfPvHyDsRonUaekKr_IM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:27:06"
+  }
+]

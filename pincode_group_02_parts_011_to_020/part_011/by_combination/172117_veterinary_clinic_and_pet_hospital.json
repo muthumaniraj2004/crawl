@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Prasad's Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet supply store",
+    "pincode": "172117",
+    "phone_number": "+91 91339 36055",
+    "website": "http://drprasadspetcare.in/",
+    "rating": 4.5,
+    "reviews_count": 230,
+    "address": "10, 3rd cross, Doddanekundi Main Rd, Bengaluru, Karnataka 560037",
+    "area": "Gururaja Layout, Vibhutipura Extension, Doddanekundi, Doddanekkundi",
+    "latitude": 12.9694259,
+    "longitude": 77.693519,
+    "place_id": "ChIJO_O28cQTrjsRWjO6ppFNohw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_O28cQTrjsRWjO6ppFNohw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:08:16"
+  },
+  {
+    "business_name": "SAFE HANDS PET CLINIC & SPA",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Emergency veterinarian service, Pet groomer, Pet store, Surgical center",
+    "pincode": "172117",
+    "phone_number": "+91 80746 95965",
+    "website": "http://safehandspetclinicandspa.halemind.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "K A, Paul convention hall, 10-37-27, Main Rd, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Ram Nagar",
+    "latitude": 17.722462999999998,
+    "longitude": 83.3108128,
+    "place_id": "ChIJr4JAqgVDOToRuqneib5VVOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4JAqgVDOToRuqneib5VVOA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:08:17"
+  }
+]

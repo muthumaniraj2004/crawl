@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MHR Consulting Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "172023",
+    "phone_number": "+91 80087 09999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "19/92-2, R.K.H Colony, G-Block Colony, AS Rao Nagar, Hyderabad, Secunderabad, Telangana 500062",
+    "area": "R.K.H Colony, G-Block Colony, AS Rao Nagar",
+    "latitude": 17.4784822,
+    "longitude": 78.55075029999999,
+    "place_id": "ChIJTVFYIHabyzsRTC8OUDGAzUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVFYIHabyzsRTC8OUDGAzUI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:21:41"
+  },
+  {
+    "business_name": "Pacific HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Business management consultant, Service establishment",
+    "pincode": "172023",
+    "phone_number": "N/A",
+    "website": "https://www.pacifichr.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pacific HR, 172023, India",
+    "area": "172023",
+    "latitude": 45.497263,
+    "longitude": -120.65611799999999,
+    "place_id": "ChIJE8VYw_YxhmcR1WoaS97p1_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8VYw_YxhmcR1WoaS97p1_g",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:21:42"
+  }
+]

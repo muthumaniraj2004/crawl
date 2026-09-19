@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saavi Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier",
+    "pincode": "171224",
+    "phone_number": "+91 98823 84766",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jail Rd, near mm general store, Tarna, Mandi, Himachal Pradesh 175001",
+    "area": "Tarna",
+    "latitude": 31.7035812,
+    "longitude": 76.92584769999999,
+    "place_id": "ChIJLevPVjPjBDkRaDb3UYIEm28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLevPVjPjBDkRaDb3UYIEm28",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:07:47"
+  },
+  {
+    "business_name": "AQUA POTION",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "171224",
+    "phone_number": "+91 88946 94759",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Food Godown, Khenwal Road, Seri Bazar, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Seri Bazar, Samkhetar",
+    "latitude": 31.708715299999998,
+    "longitude": 76.9320104,
+    "place_id": "ChIJt8zIuSLjBDkRs9cTX0fuw9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8zIuSLjBDkRs9cTX0fuw9E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:07:47"
+  }
+]

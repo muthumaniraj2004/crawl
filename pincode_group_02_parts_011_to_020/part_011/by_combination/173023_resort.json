@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raht Juneo Orchards",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Orchard",
+    "pincode": "173023",
+    "phone_number": "+91 98711 12706",
+    "website": "http://rahtjuneoorchards.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Road, near Matnali Village, Juniyo Kanogta, Rajgarh Junio, Himachal Pradesh 173101",
+    "area": "173023",
+    "latitude": 30.8805621,
+    "longitude": 77.2565826,
+    "place_id": "ChIJuYZS6sF5DzkR_tgb-OYDeow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYZS6sF5DzkR_tgb-OYDeow",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:19:12"
+  },
+  {
+    "business_name": "Kala Amb Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "173023",
+    "phone_number": "+91 85809 11599",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P5FM+CWJ, road, Nahan, Kala Amb, Himachal Pradesh 173024",
+    "area": "173023",
+    "latitude": 30.723587499999997,
+    "longitude": 77.1847701,
+    "place_id": "ChIJPzCA_HidDzkRbljJyD7lTAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzCA_HidDzkRbljJyD7lTAc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:19:15"
+  }
+]

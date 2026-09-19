@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhil Sharma car's",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "173024",
+    "phone_number": "+91 98053 09710",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "H.p, district sirmour ,tehsil pachhad , Sarahan tikkar, pin code, Sarahan, Himachal Pradesh 173024",
+    "area": "173024",
+    "latitude": 30.7285227,
+    "longitude": 77.18211389999999,
+    "place_id": "ChIJb6U4nQOdDzkR6zL5LCToQqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6U4nQOdDzkR6zL5LCToQqo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:20:28"
+  },
+  {
+    "business_name": "Turbo Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto broker, Auto insurance agency, Car dealer",
+    "pincode": "173024",
+    "phone_number": "+91 70210 34949",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 605,
+    "address": "Basement 2, Topiwala Center, Turbo Cars, Topiwala Rd, opposite Raju's Restaurant, Goregaon West, Mumbai, Maharashtra 400104",
+    "area": "Kakaji Nagar, Jawahar Nagar, Goregaon West",
+    "latitude": 19.1641352,
+    "longitude": 72.8475035,
+    "place_id": "ChIJO5THofy35zsRSql8VLSA-3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5THofy35zsRSql8VLSA-3o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 08:20:29"
+  }
+]

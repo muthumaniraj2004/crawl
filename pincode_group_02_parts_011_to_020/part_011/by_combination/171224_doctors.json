@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirogadham Health Care",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "171224",
+    "phone_number": "+91 94180 79453",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Industrial area, near SBI Ghorab, Sutrehr, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "Sutrehr",
+    "latitude": 32.1060179,
+    "longitude": 76.3839758,
+    "place_id": "ChIJO764qjdMGzkRUhC-apCg9Ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO764qjdMGzkRUhC-apCg9Ug",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:07:17"
+  },
+  {
+    "business_name": "The Swasth Bharat",
+    "search_category": "Doctors",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "171224",
+    "phone_number": "+91 80915 56755",
+    "website": "https://www.theswasthbharat.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Ground Floor, Mereki Villa, near Regional Hospital, Lawi Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Lawi Khurd",
+    "latitude": 30.908462399999998,
+    "longitude": 77.0998352,
+    "place_id": "ChIJH9NPNBqHDzkRsALup0WzL88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9NPNBqHDzkRsALup0WzL88",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:07:17"
+  }
+]

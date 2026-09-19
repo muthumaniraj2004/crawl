@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chef's Planet",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant",
+    "pincode": "171224",
+    "phone_number": "+91 1792 220 224",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rajgarh Rd, Solan, Himachal Pradesh 173212",
+    "area": "Ward Number 7",
+    "latitude": 30.90729,
+    "longitude": 77.10185899999999,
+    "place_id": "ChIJRwxg0LSGDzkRRlQYhmF0ySw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwxg0LSGDzkRRlQYhmF0ySw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:07:06"
+  },
+  {
+    "business_name": "Cliffy's Cafe",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Coffee store, Dessert restaurant, Diner, Takeout restaurant, Cafe",
+    "pincode": "171224",
+    "phone_number": "+91 85807 17583",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "KBL Plaza, road, Lohna, Himachal Pradesh, Palampur, Himachal Pradesh 176061",
+    "area": "Lohna, Himachal Pradesh",
+    "latitude": 32.116804099999996,
+    "longitude": 76.538949,
+    "place_id": "ChIJzzg4Gn-zBDkR1KhEm0I572Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzg4Gn-zBDkR1KhEm0I572Q",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:07:06"
+  }
+]

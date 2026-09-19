@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EXIMPLANET",
+    "search_category": "EXIMS",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "172105",
+    "phone_number": "+91 461 480 4700",
+    "website": "https://www.eximplanet.co/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "First Floor, 50, N Cotton Rd, Thoothukudi, Tamil Nadu 628001",
+    "area": "172105",
+    "latitude": 8.805729699999999,
+    "longitude": 78.1527938,
+    "place_id": "ChIJqxucfPvvAzsRmFawA6Kb2tY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxucfPvvAzsRmFawA6Kb2tY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:48:41"
+  },
+  {
+    "business_name": "Model Exims",
+    "search_category": "EXIMS",
+    "primary_category": "Upholstery shop",
+    "all_categories": "Upholstery shop",
+    "pincode": "172105",
+    "phone_number": "+91 91991 90026",
+    "website": "http://modelexim.com/",
+    "rating": 4.4,
+    "reviews_count": 38,
+    "address": "Leather Technology Park, Plot C-18, UPSIDC, Banthar, Uttar Pradesh 209862",
+    "area": "UPSIDC",
+    "latitude": 26.4848818,
+    "longitude": 80.4465594,
+    "place_id": "ChIJAQAAAPs_nDkRJtrEpXQ3D6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAPs_nDkRJtrEpXQ3D6M",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 07:48:41"
+  }
+]
