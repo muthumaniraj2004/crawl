@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "176303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Banikhet, Himachal Pradesh 176303",
+    "area": "176303",
+    "latitude": 32.5486146,
+    "longitude": 75.9478986,
+    "place_id": "ChIJp3AxNX-RHDkR8R_sERdOJXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3AxNX-RHDkR8R_sERdOJXs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:32:16"
+  },
+  {
+    "business_name": "Sonali Express Worldwide Courier and Cargo - International Courier Service in Mumbai, Courier Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Logistics service, Shipping service",
+    "pincode": "176303",
+    "phone_number": "+91 85914 14345",
+    "website": "https://sonaliexpressworldwide.com/",
+    "rating": 3.9,
+    "reviews_count": 80,
+    "address": "Shop no 21,Ground floor, Kamdar Shopping Center, Tejpal Rd, opp. Railway station, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057",
+    "area": "Navpada, Vile Parle East, Vile Parle",
+    "latitude": 19.099628199999998,
+    "longitude": 72.8448015,
+    "place_id": "ChIJc_fhYkvJ5zsRZDyEavmJtrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_fhYkvJ5zsRZDyEavmJtrA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:32:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Students Park",
+    "search_category": "Exhibitions",
+    "primary_category": "Park",
+    "all_categories": "Park",
+    "pincode": "177005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "NIT Campus, Hamirpur, Himachal Pradesh 177005",
+    "area": "177005",
+    "latitude": 31.707091499999997,
+    "longitude": 76.5284503,
+    "place_id": "ChIJY0DPBxXUBDkRtUdV_bBI-Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0DPBxXUBDkRtUdV_bBI-Jk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:24:40"
+  },
+  {
+    "business_name": "Synthetic race track",
+    "search_category": "Exhibitions",
+    "primary_category": "Stadium",
+    "all_categories": "Stadium",
+    "pincode": "177005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 150,
+    "address": "PG2C+W7G, Anu, Hamirpur, Himachal Pradesh 177005",
+    "area": "Anu",
+    "latitude": 31.7023214,
+    "longitude": 76.5207001,
+    "place_id": "ChIJ_6nxkUHUBDkRDW6FKlKw2j8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6nxkUHUBDkRDW6FKlKw2j8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:24:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DJDALHOUSIE",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "176301",
+    "phone_number": "+91 85806 40828",
+    "website": "https://djdalhousie.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DJDALHOUSIE, 176301, India",
+    "area": "176301",
+    "latitude": 32.5473482,
+    "longitude": 76.04228049999999,
+    "place_id": "ChIJAaDUGw1e34wR9ASPkSj9Mc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaDUGw1e34wR9ASPkSj9Mc4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:28:13"
+  },
+  {
+    "business_name": "Hostculture Studio",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "176301",
+    "phone_number": "N/A",
+    "website": "https://www.hostculturestudio.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hostculture Studio, 176301, India",
+    "area": "176301",
+    "latitude": 21.818854599999998,
+    "longitude": 75.499736,
+    "place_id": "ChIJ7z4TR0vRU0YRkdrDyBiYH_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7z4TR0vRU0YRkdrDyBiYH_Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:28:14"
+  }
+]

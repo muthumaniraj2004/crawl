@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Mechanic",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Auto restoration service",
+    "pincode": "177007",
+    "phone_number": "+91 99888 19000",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 116,
+    "address": "New Rajguru Nagar, Lalbagh, Tharike, Ludhiana, Punjab 141012",
+    "area": "New Rajguru Nagar, Lalbagh",
+    "latitude": 30.877466199999997,
+    "longitude": 75.782248,
+    "place_id": "ChIJ2UIfqk2BGjkR5nUMsTiyR1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UIfqk2BGjkR5nUMsTiyR1k",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:11"
+  },
+  {
+    "business_name": "Surinder Auto Electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Electronics, Mechanic",
+    "pincode": "177007",
+    "phone_number": "+91 98551 23637",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8HCR+69W, Opposite DC Office, Near Tahsil Complex, Master Tara Singh Nagar, Jalandhar, Punjab 144001",
+    "area": "Opposite DC Office, Near Tahsil Complex, Master Tara Singh Nagar",
+    "latitude": 31.320601699999997,
+    "longitude": 75.5909599,
+    "place_id": "ChIJl-CKT09aGjkRrByy4L5UATM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-CKT09aGjkRrByy4L5UATM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:11"
+  }
+]

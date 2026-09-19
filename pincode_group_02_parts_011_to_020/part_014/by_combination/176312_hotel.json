@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alaya",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176312",
+    "phone_number": "+91 62303 20666",
+    "website": "https://www.instagram.com/alaya_by_mountain.natives?igsh=MWFheW5zN3o5djl2cA==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ruliyat P.O, Sandhi Panchayat Dhulahar, sub Tehsil, Village, Pukhari, Himachal Pradesh 176310",
+    "area": "176312",
+    "latitude": 32.6675312,
+    "longitude": 76.08953869999999,
+    "place_id": "ChIJqdAekeHBHDkRyRvaSH2hZ-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdAekeHBHDkRyRvaSH2hZ-c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:46:18"
+  },
+  {
+    "business_name": "Hotel Shantvan Inn",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "V.P.O, Pukhri, Chamba, Himachal Pradesh 176319",
+    "area": "Pukhri",
+    "latitude": 32.643006299999996,
+    "longitude": 76.06992919999999,
+    "place_id": "ChIJOVKyh96VHDkRY99rgXTVpuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVKyh96VHDkRY99rgXTVpuA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:46:21"
+  }
+]

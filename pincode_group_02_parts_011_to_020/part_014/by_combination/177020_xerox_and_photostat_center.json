@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kwick Business Center",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service",
+    "pincode": "177020",
+    "phone_number": "+91 11 2550 2502",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "G-30, Suneja Tower, District Center,, Shivaji Marg, Janakpuri, Delhi, 110058",
+    "area": "Janakpuri District Center, Janakpuri",
+    "latitude": 28.629364,
+    "longitude": 77.082032,
+    "place_id": "ChIJ2XuoHr8EDTkRw5_pDBUpqq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XuoHr8EDTkRw5_pDBUpqq0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:29:28"
+  },
+  {
+    "business_name": "Shyam Electrostat",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "177020",
+    "phone_number": "+91 98103 40452",
+    "website": "https://eprintcafe.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "11, Vikas Marg, Veer Savarkar Block, Dayanand Colony, Shakarpur, Delhi, 110092",
+    "area": "Veer Savarkar Block, Dayanand Colony, Shakarpur",
+    "latitude": 28.635650899999998,
+    "longitude": 77.2854844,
+    "place_id": "ChIJxbeNHar8DDkRgYLXJYpH3FQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbeNHar8DDkRgYLXJYpH3FQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:29:28"
+  }
+]

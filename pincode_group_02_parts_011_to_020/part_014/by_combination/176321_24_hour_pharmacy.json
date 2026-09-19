@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nikhil Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Pharmacy",
+    "pincode": "176321",
+    "phone_number": "+91 99880 15825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No. 2 Jasbir Complex, Sec 52 Khajheri, Chandigarh, 160036",
+    "area": "Kajheri, Kajheri Village, Sector 52",
+    "latitude": 30.7151267,
+    "longitude": 76.7379995,
+    "place_id": "ChIJs9MISivsDzkRkGErXgfjtdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9MISivsDzkRkGErXgfjtdU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:02:02"
+  },
+  {
+    "business_name": "Green Life Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176321",
+    "phone_number": "+91 88649 42164",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "NH309, Ramnagar, Uttarakhand 244715",
+    "area": "176321",
+    "latitude": 29.389183199999998,
+    "longitude": 79.1265758,
+    "place_id": "ChIJadeucAATCjkRW9q7XFtUdg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadeucAATCjkRW9q7XFtUdg0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:02:02"
+  }
+]

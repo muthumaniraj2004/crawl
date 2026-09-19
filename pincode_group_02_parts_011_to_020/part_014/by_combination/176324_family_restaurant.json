@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "176324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "68PG+P3W, Khara Danda Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2368725,
+    "longitude": 76.3251921,
+    "place_id": "ChIJz3YyFgBRGzkRN8_bWs7a5l0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3YyFgBRGzkRN8_bWs7a5l0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:05:29"
+  },
+  {
+    "business_name": "Tenz cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "176324",
+    "phone_number": "+91 88947 29099",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 24,
+    "address": "68QF+6JF, Jogiwara Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2380727,
+    "longitude": 76.3240512,
+    "place_id": "ChIJH9v_FgBRGzkRInNYV6zNrws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9v_FgBRGzkRInNYV6zNrws",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:05:31"
+  }
+]

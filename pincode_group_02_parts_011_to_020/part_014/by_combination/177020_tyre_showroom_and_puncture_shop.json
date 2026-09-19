@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanugo Tyre Center",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "177020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MGW2+H6R, N Pakka Bharo, Daruhi, Himachal Pradesh 177001",
+    "area": "177020",
+    "latitude": 31.6964945,
+    "longitude": 76.50051549999999,
+    "place_id": "ChIJ5dccSADVBDkRAJ9pCLCYt74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dccSADVBDkRAJ9pCLCYt74",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:51"
+  },
+  {
+    "business_name": "Kolkata Tyres & Service (MTS & EXIDE Care)",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Battery Wholesaler",
+    "pincode": "177020",
+    "phone_number": "+91 98310 40906",
+    "website": "http://www.kolkatatyres.com/",
+    "rating": 4.6,
+    "reviews_count": 1012,
+    "address": "201, Barrackpore - Barasat Rd, Nabapally, Kolkata, West Bengal 700126",
+    "area": "Nabapally",
+    "latitude": 22.733259999999998,
+    "longitude": 88.46736399999999,
+    "place_id": "ChIJpf9PTqKY-DkRZ-ewLdGttJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpf9PTqKY-DkRZ-ewLdGttJI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:52"
+  }
+]

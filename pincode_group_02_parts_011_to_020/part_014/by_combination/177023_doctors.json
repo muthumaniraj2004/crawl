@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonakshi Medical Agency",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "177023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MJRC+5HP Sonakshi Medical Agency, Khatrian, Tikkar, Tikkar Khatriyaan, Himachal Pradesh 177025",
+    "area": "Khatrian",
+    "latitude": 31.690460299999998,
+    "longitude": 76.6214475,
+    "place_id": "ChIJ7f5PSwDXBDkRY3RFWNCfnCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7f5PSwDXBDkRY3RFWNCfnCM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:33:47"
+  },
+  {
+    "business_name": "Dr. Sachin K Pathania",
+    "search_category": "Doctors",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "177023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MH49+G6P, Hamirpur, Himachal Pradesh 177001",
+    "area": "177023",
+    "latitude": 31.656346,
+    "longitude": 76.56808529999999,
+    "place_id": "ChIJ9VoadADXBDkR1LJuMs6EfD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VoadADXBDkR1LJuMs6EfD4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:33:47"
+  }
+]

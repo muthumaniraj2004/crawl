@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji Traders",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Dairy store",
+    "pincode": "176314",
+    "phone_number": "+91 98050 82072",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shree Balaji Traders Bhadram, near Petrol Pump, Chamba, Himachal Pradesh 176318",
+    "area": "176314",
+    "latitude": 32.590821,
+    "longitude": 76.10874129999999,
+    "place_id": "ChIJfZPPzBS-HDkRwBWZH59ZZ2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZPPzBS-HDkRwBWZH59ZZ2Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:48:48"
+  },
+  {
+    "business_name": "Shimla store",
+    "search_category": "Supermarket",
+    "primary_category": "Greengrocer",
+    "all_categories": "Greengrocer",
+    "pincode": "176314",
+    "phone_number": "+91 90159 61108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zero point bhadram, Chamba, Sarol, Himachal Pradesh 176310",
+    "area": "176314",
+    "latitude": 32.5862203,
+    "longitude": 76.1097152,
+    "place_id": "ChIJmUbZ6Dm_HDkRZekF_bE_pkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUbZ6Dm_HDkRZekF_bE_pkM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:48:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chawla General Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176303",
+    "phone_number": "+91 94181 61456",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazar, Banikhet, Himachal Pradesh 176303",
+    "area": "176303",
+    "latitude": 32.5476269,
+    "longitude": 75.9460768,
+    "place_id": "ChIJGaj3pjyRHDkRLFhjTuEjJMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaj3pjyRHDkRLFhjTuEjJMo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:31:08"
+  },
+  {
+    "business_name": "CHAMBA CHAPPAL",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft",
+    "pincode": "176303",
+    "phone_number": "+91 70183 02455",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Bazaar, near Post Office, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5560286,
+    "longitude": 76.1237694,
+    "place_id": "ChIJzxh2ZlO9HDkREplTltwj4tM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxh2ZlO9HDkREplTltwj4tM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:31:10"
+  }
+]

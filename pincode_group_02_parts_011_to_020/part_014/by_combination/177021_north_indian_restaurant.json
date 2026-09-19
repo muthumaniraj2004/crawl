@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spice Delight Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "177021",
+    "phone_number": "+91 80914 24961",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "bhreri road, Jahu, Sulgwan, Himachal Pradesh 176048",
+    "area": "177021",
+    "latitude": 31.6085751,
+    "longitude": 76.7014762,
+    "place_id": "ChIJJZexYDsnBTkRm_VqMTNuvks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZexYDsnBTkRm_VqMTNuvks",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:07"
+  },
+  {
+    "business_name": "Desi Kitchen Valley View Restaurant Koti",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177021",
+    "phone_number": "+91 87085 60690",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "Shimla highway Village Koti, post, Jabli, Koti, Himachal Pradesh 173220",
+    "area": "post",
+    "latitude": 30.8632349,
+    "longitude": 77.00111179999999,
+    "place_id": "ChIJlUz2UxCPDzkRCXOLjFrqwjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUz2UxCPDzkRCXOLjFrqwjo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:08"
+  }
+]

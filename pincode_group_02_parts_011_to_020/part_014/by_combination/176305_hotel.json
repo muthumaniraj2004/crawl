@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Mini Switzerland",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176305",
+    "phone_number": "+91 86288 82855",
+    "website": "https://www.hotelminiswitzerland.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dalhousie Cannt, Blun, Dalhousie, Himachal Pradesh 176304",
+    "area": "Balun",
+    "latitude": 32.5453808,
+    "longitude": 75.9652323,
+    "place_id": "ChIJIfMvC4aRHDkRgpiV0zE32tY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfMvC4aRHDkRgpiV0zE32tY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:35:35"
+  },
+  {
+    "business_name": "Hotel Northside",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176305",
+    "phone_number": "+91 70183 72746",
+    "website": "https://pshospitalityhp.com/north-side-dalhousie/",
+    "rating": 4.5,
+    "reviews_count": 89,
+    "address": "NH154A, Sukrian Bai, Bathri, Dalhousie, Himachal Pradesh 176306",
+    "area": "Sukrian Bai",
+    "latitude": 32.56552,
+    "longitude": 75.96277649999999,
+    "place_id": "ChIJiRGihoCTHDkRTWRSl-Fh00Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRGihoCTHDkRTWRSl-Fh00Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:35:38"
+  }
+]

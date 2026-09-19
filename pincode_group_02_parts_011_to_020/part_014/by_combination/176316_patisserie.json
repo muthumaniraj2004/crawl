@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PANGI BAKER'S",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176316",
+    "phone_number": "+91 94186 94255",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "39JX+8GQ, Killar, Praghwal, Himachal Pradesh 176323",
+    "area": "176316",
+    "latitude": 33.0808414,
+    "longitude": 76.3988577,
+    "place_id": "ChIJi7DdcQArHTkRdbc7VeB3mcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7DdcQArHTkRdbc7VeB3mcY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:52:33"
+  },
+  {
+    "business_name": "Praneeta cakes and bakes",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "176316",
+    "phone_number": "+91 94597 25347",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lamagh, Salooni, Gumra, Himachal Pradesh 176320",
+    "area": "Lamagh",
+    "latitude": 32.748238,
+    "longitude": 76.00817049999999,
+    "place_id": "ChIJob-wlTfpHDkRvqZbKVASsqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJob-wlTfpHDkRvqZbKVASsqI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:52:34"
+  }
+]

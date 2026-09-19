@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishnai Laptop Sales & Repair",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Mobile phone repair shop, Printer repair service",
+    "pincode": "177027",
+    "phone_number": "+91 80874 35056",
+    "website": "http://www.displaymonk.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 12, and Soham Arcade Apartment, near Dhamalipar Rickshaw Stand, Tilak Ali, Ratnagiri, Maharashtra 415612",
+    "area": "Tilak Ali",
+    "latitude": 16.9945071,
+    "longitude": 73.29313599999999,
+    "place_id": "ChIJjVo3oioN6jsRwhTx_AVF-Ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVo3oioN6jsRwhTx_AVF-Ms",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:41:37"
+  },
+  {
+    "business_name": "Sameer Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Service establishment",
+    "pincode": "177027",
+    "phone_number": "+91 70062 41107",
+    "website": "https://sameercomputers.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sameer Computers, 177027, India",
+    "area": "177027",
+    "latitude": 34.0901096,
+    "longitude": 74.5454389,
+    "place_id": "ChIJfbaP6jaj4TgRRMcl26k_Mgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbaP6jaj4TgRRMcl26k_Mgc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:41:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exim Pharmaceuticals",
+    "search_category": "EXIMS",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "4 B, Dr Rajendra Rd, Jadubabur Bazar, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Jadubabur Bazar, Bhowanipore",
+    "latitude": 22.535059,
+    "longitude": 88.3470024,
+    "place_id": "ChIJ7TSowD53AjoRbQx58oSEqgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TSowD53AjoRbQx58oSEqgE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:28:52"
+  },
+  {
+    "business_name": "INDIEXIM INTERNATIONAL PRIVATE LIMITED",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "176301",
+    "phone_number": "+91 86172 38332",
+    "website": "https://www.indiexim.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, 30A, Majumdar, Market, Nabin Chandra Das Rd, Baranagar, Kolkata, West Bengal 700090",
+    "area": "Palpara, Baranagar",
+    "latitude": 22.642933499999998,
+    "longitude": 88.385368,
+    "place_id": "ChIJC0vsTuud-DkRBmoVOvSP8cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0vsTuud-DkRBmoVOvSP8cc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:28:52"
+  }
+]

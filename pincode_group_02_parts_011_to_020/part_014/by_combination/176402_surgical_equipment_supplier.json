@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Duggal Medical Store",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "176402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "7J6V+VG9, Mir Pur Colony, Pathankot, Punjab 145001",
+    "area": "Mir Pur Colony",
+    "latitude": 32.2621641,
+    "longitude": 75.6438558,
+    "place_id": "ChIJk1kXY11_HDkRog4wvgtvIh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1kXY11_HDkRog4wvgtvIh0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:03"
+  },
+  {
+    "business_name": "Amar Surgical & Sons",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176402",
+    "phone_number": "+91 98143 00391",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Dalhousie Road, Pathankot, Punjab 145001",
+    "area": "176402",
+    "latitude": 32.2731335,
+    "longitude": 75.66051829999999,
+    "place_id": "ChIJ15lwwzB_HDkRO_EJl41j26g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15lwwzB_HDkRO_EJl41j26g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:03"
+  }
+]

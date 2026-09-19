@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandigarh",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WWPC+6PC, Sansarpur, Himachal Pradesh 176501",
+    "area": "176501",
+    "latitude": 31.9355563,
+    "longitude": 75.9217635,
+    "place_id": "ChIJS-YodQBtGzkRaDpb07HnoDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-YodQBtGzkRaDpb07HnoDA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:16:29"
+  },
+  {
+    "business_name": "Honey Garments",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176501",
+    "phone_number": "+91 95016 27239",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Honey Garments Industrial Area Phase III Sansarpur Terrace Tehsil, Himachal Pradesh 176501",
+    "area": "176501",
+    "latitude": 31.9319216,
+    "longitude": 75.9201391,
+    "place_id": "ChIJy4B90DVtGzkRkcEoBZWMlgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4B90DVtGzkRkcEoBZWMlgY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:16:29"
+  }
+]

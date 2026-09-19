@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHAJAN AND COMPANY",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market",
+    "pincode": "176401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Grain market, Damtal, Himachal Pradesh 176403",
+    "area": "176401",
+    "latitude": 32.2250683,
+    "longitude": 75.66084769999999,
+    "place_id": "ChIJW_PSQ9aBGzkRHx1X0UgZfRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_PSQ9aBGzkRHx1X0UgZfRE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:29"
+  },
+  {
+    "business_name": "Indira market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market, Shopping mall",
+    "pincode": "176401",
+    "phone_number": "+91 1907 262 687",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Indira Market, Shop number 18, BBMB Colony, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "BBMB Colony",
+    "latitude": 31.5376636,
+    "longitude": 76.9037194,
+    "place_id": "ChIJ5ebffZwZBTkRAMUWeXTe784",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ebffZwZBTkRAMUWeXTe784",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:30"
+  }
+]

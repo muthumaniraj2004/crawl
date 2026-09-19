@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Centre Tikkri",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "932Q+XVV, Tikri Khas, Himachal Pradesh 176207",
+    "area": "176302",
+    "latitude": 32.3524879,
+    "longitude": 76.089665,
+    "place_id": "ChIJf7yinnihHDkR9MKkmQ-nDOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7yinnihHDkR9MKkmQ-nDOg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:30:00"
+  },
+  {
+    "business_name": "Primary Health Centre Hunera",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "FX6X+PCX, Unnamed Road, Banuni, Himachal Pradesh 176313",
+    "area": "176302",
+    "latitude": 32.4618511,
+    "longitude": 75.998594,
+    "place_id": "ChIJ58nCOdiZHDkR8KL1RO6Uz4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58nCOdiZHDkR8KL1RO6Uz4o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:30:00"
+  }
+]

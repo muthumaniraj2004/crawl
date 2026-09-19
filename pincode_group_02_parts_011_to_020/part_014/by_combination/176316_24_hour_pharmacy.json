@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hill pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Health consultant, Medical supply store",
+    "pincode": "176316",
+    "phone_number": "+91 70517 59563",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "042, Jakyas, Jakyas, Bhalessa, Champal, Jammu and Kashmir 182203",
+    "area": "176316",
+    "latitude": 33.061051,
+    "longitude": 75.9338623,
+    "place_id": "ChIJ10EH_iEdHTkRBDIzexaPHUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10EH_iEdHTkRBDIzexaPHUA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:52:49"
+  },
+  {
+    "business_name": "Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176316",
+    "phone_number": "+91 86278 30311",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "jhajja kothi, po, teh, churah, Billa, Jhaj, Himachal Pradesh 176316",
+    "area": "churah",
+    "latitude": 32.8347068,
+    "longitude": 76.079566,
+    "place_id": "ChIJxe2dO5jpHDkRb3E6fTY-xYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxe2dO5jpHDkRb3E6fTY-xYg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:52:51"
+  }
+]

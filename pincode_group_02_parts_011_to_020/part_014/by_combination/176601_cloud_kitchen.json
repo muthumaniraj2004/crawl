@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mom's Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Chinese restaurant, Fast food restaurant, Indian restaurant, Vegetarian restaurant",
+    "pincode": "176601",
+    "phone_number": "+91 99155 41563",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1530,
+    "address": "Booth Number, 1129 B, Himalaya Marg, Sector 22B, Chandigarh, 160022",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.7308824,
+    "longitude": 76.774894,
+    "place_id": "ChIJ-6SHBKbtDzkR4nSofduPp0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6SHBKbtDzkR4nSofduPp0g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:19:46"
+  },
+  {
+    "business_name": "The Heaven's kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "176601",
+    "phone_number": "+91 76509 33336",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 310,
+    "address": "Shop no.1, First Floor, Dhesi Complex, Ram Nagar, Una, Himachal Pradesh 174303",
+    "area": "Ram Nagar",
+    "latitude": 31.468424,
+    "longitude": 76.2721859,
+    "place_id": "ChIJU9gKV5zRGjkRyTMLG9jq6ig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9gKV5zRGjkRyTMLG9jq6ig",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:19:46"
+  }
+]

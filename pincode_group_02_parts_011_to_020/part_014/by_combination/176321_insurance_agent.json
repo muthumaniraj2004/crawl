@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "closed",
+    "search_category": "Insurance Agent",
+    "primary_category": "Loss adjuster",
+    "all_categories": "Loss adjuster",
+    "pincode": "176321",
+    "phone_number": "+91 94599 48421",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V.P.O, Charda, Dhar Kussan, Himachal Pradesh 176321",
+    "area": "Charda",
+    "latitude": 32.7872537,
+    "longitude": 76.247912,
+    "place_id": "ChIJYywfsZDFHDkRkG48FW0XK8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYywfsZDFHDkRkG48FW0XK8k",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:00"
+  },
+  {
+    "business_name": "LIC Advisor, B.O. Chamba,H.P.",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "176321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sultanpur, Chamba, Himachal Pradesh 176314",
+    "area": "Sultanpur",
+    "latitude": 32.5606309,
+    "longitude": 76.11604899999999,
+    "place_id": "ChIJ4YEIE3K9HDkRd0pfUk8wC7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YEIE3K9HDkRd0pfUk8wC7M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:01"
+  }
+]

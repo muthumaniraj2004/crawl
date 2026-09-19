@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Neha Singh",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "176306",
+    "phone_number": "+91 84375 10088",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 118,
+    "address": "House no 7, opposite Gopal sweets, Sector 15-A, Sector 15, Chandigarh, 160015",
+    "area": "Sector 15-A, Sector 15",
+    "latitude": 30.753979599999997,
+    "longitude": 76.7710051,
+    "place_id": "ChIJM8HC5oTtDzkR4NLk_om8P48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8HC5oTtDzkR4NLk_om8P48",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:36:47"
+  },
+  {
+    "business_name": "Skin Veda",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist, Doctor",
+    "pincode": "176306",
+    "phone_number": "+91 90410 05789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Scf 5, Sector 10 d, Chandigarh, 160011",
+    "area": "10D, Sector 10",
+    "latitude": 30.754700999999997,
+    "longitude": 76.787804,
+    "place_id": "ChIJychPdnrtDzkRq2acRG8JHmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJychPdnrtDzkRq2acRG8JHmY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:36:47"
+  }
+]

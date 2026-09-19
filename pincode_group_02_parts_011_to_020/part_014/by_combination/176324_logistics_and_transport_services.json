@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Express Road Services",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "176324",
+    "phone_number": "+91 90146 29733",
+    "website": "http://www.expressroadservices.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "House No 6-93/1, Sy No 455, Beside Muthangi Church Post and Vill Muthangi Pathancheru, Distric, Hyderabad, Telangana 502300",
+    "area": "Isnapur",
+    "latitude": 17.544713599999998,
+    "longitude": 78.2172942,
+    "place_id": "ChIJCQA4EVLzyzsR9nembYkjGag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQA4EVLzyzsR9nembYkjGag",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:06:00"
+  },
+  {
+    "business_name": "Transport services",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "176324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uday water tank cleaning services, Vidya Nagar, Ram Nagar Gundu, Adikmet, Hyderabad, Telangana 500013",
+    "area": "Vidya Nagar, Ram Nagar Gundu, Adikmet",
+    "latitude": 17.3954553,
+    "longitude": 78.5140203,
+    "place_id": "ChIJw7U-UgCZyzsRUwFTp2BmQLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7U-UgCZyzsRUwFTp2BmQLA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:06:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gambhir Wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Naturopathic practitioner",
+    "pincode": "176320",
+    "phone_number": "+91 94120 58034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "179, Kalidas Rd, Ravindrapuri, Shakti Colony, Dehradun, Uttarakhand 248001",
+    "area": "Ravindrapuri, Shakti Colony",
+    "latitude": 30.339602,
+    "longitude": 78.0490389,
+    "place_id": "ChIJye1179spCTkREyCbnKoFZA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJye1179spCTkREyCbnKoFZA0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:00:49"
+  },
+  {
+    "business_name": "Salooni bhadrwaah road",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P3C2+MJ2, Salooni, Himachal Pradesh 176320",
+    "area": "176320",
+    "latitude": 32.721636,
+    "longitude": 76.05152009999999,
+    "place_id": "ChIJc85xTwDrHDkR5qGAvhNs66U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc85xTwDrHDkR5qGAvhNs66U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:00:49"
+  }
+]

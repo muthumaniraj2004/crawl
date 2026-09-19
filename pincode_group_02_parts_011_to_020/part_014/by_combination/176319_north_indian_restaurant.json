@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sartaj Restaurant & Bar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "176319",
+    "phone_number": "+91 76961 99929",
+    "website": "http://sartajrestaurantbar.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Cannaught Plaza, TDI City Center, SCO 1005, Airport Rd, beside Garam Dharam Dhaba, Sector 74 A, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Sector 74 A",
+    "latitude": 30.723961199999998,
+    "longitude": 76.6819943,
+    "place_id": "ChIJr8Iy3tLvDzkR56ZPJzi_dZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8Iy3tLvDzkR56ZPJzi_dZ0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:08"
+  },
+  {
+    "business_name": "Shahi Dastarkhwan (HALAL)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant, Halal restaurant",
+    "pincode": "176319",
+    "phone_number": "+91 99532 43024",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mall Rd, Model Town, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Model Town, Siyal",
+    "latitude": 32.243428099999996,
+    "longitude": 77.18820199999999,
+    "place_id": "ChIJ_7FTtd6JBDkR0bKKiBnsCUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7FTtd6JBDkR0bKKiBnsCUU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "177025",
+    "phone_number": "+91 98170 63766",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 74,
+    "address": "3GC5+8JC, Post Office, SH 39, Dehan, Hamirpur, Himachal Pradesh 176102",
+    "area": "Dehan",
+    "latitude": 32.07082,
+    "longitude": 76.5090298,
+    "place_id": "ChIJ____P2O0BDkRYt8Fu9o-NK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P2O0BDkRYt8Fu9o-NK8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:36:58"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177025",
+    "phone_number": "+91 82788 35513",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khyaa - Kangri Rd VPO Khiah Tehsil And District Hamirpur Himachal Pradesh Pincode 177020, Himachal Pradesh 177020",
+    "area": "177025",
+    "latitude": 31.7354791,
+    "longitude": 76.5283269,
+    "place_id": "ChIJa_7G7sbTBDkRMUjBHxkLZFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_7G7sbTBDkRMUjBHxkLZFg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:37:00"
+  }
+]

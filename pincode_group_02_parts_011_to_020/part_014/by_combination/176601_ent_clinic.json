@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arya Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176601",
+    "phone_number": "+91 1975 232 996",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 8,
+    "address": "C87Q+MRP, SH 25, Mehatpur, Himachal Pradesh 174315",
+    "area": "176601",
+    "latitude": 31.414220999999998,
+    "longitude": 76.3395859,
+    "place_id": "ChIJBYi5O0DOGjkRpuyQ5kljyXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYi5O0DOGjkRpuyQ5kljyXs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:20:05"
+  },
+  {
+    "business_name": "KAUSHAL MEDICAL STORE",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SANOSHGARH, opp. BUS STAND, near PNB BANK, Santokhgarh, Himachal Pradesh 174301",
+    "area": "176601",
+    "latitude": 31.3562756,
+    "longitude": 76.3225465,
+    "place_id": "ChIJf5gl1KvPGjkR27yU5Lrkm5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5gl1KvPGjkR27yU5Lrkm5M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:20:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon party time",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "176402",
+    "phone_number": "+91 62808 19912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mission Rd, Ghartholi Mohalla, Pathankot, Punjab 145001",
+    "area": "Ghartholi Mohalla",
+    "latitude": 32.2757224,
+    "longitude": 75.6556342,
+    "place_id": "ChIJaQtPJWZ_HDkR3oxH3IlyALo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQtPJWZ_HDkR3oxH3IlyALo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:32"
+  },
+  {
+    "business_name": "Asha Balloons Company",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "176402",
+    "phone_number": "+91 76967 08707",
+    "website": "https://ashaballoonsco.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Asha Gifts And Toys, Mission Rd, Pathankot, Punjab 145001",
+    "area": "176402",
+    "latitude": 32.2758896,
+    "longitude": 75.6556104,
+    "place_id": "ChIJtc4FyJx_HDkRbkg4a2XNBP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtc4FyJx_HDkRbkg4a2XNBP8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:34"
+  }
+]

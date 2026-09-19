@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Liquor Shop",
+    "search_category": "Shops",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "177007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 11,
+    "address": "PGG4+M66, Hamirpur, Himachal Pradesh 177020",
+    "area": "177007",
+    "latitude": 31.726651999999998,
+    "longitude": 76.50550799999999,
+    "place_id": "ChIJ5-Neyk7TBDkR0pxevC8FFUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-Neyk7TBDkR0pxevC8FFUs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:14"
+  },
+  {
+    "business_name": "RR ENTERPRISES",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177007",
+    "phone_number": "+91 98156 86999",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hamirpur sujanpur road, Chabutra, Himachal Pradesh 177007",
+    "area": "177007",
+    "latitude": 31.7706669,
+    "longitude": 76.48699479999999,
+    "place_id": "ChIJl_vT9VbTBDkRtFF3WIt_tcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_vT9VbTBDkRtFF3WIt_tcQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:16"
+  }
+]

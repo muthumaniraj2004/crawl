@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puri Karyana Genral Store",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176321",
+    "phone_number": "+91 98162 82465",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nakrod, Churah, Nakarod, Himachal Pradesh 176321",
+    "area": "Nakrod",
+    "latitude": 32.7823695,
+    "longitude": 76.1559826,
+    "place_id": "ChIJA8c_763DHDkRzxOG1kIdyxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8c_763DHDkRzxOG1kIdyxs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:01:59"
+  },
+  {
+    "business_name": "Manisha Boutique & Stationery",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "176321",
+    "phone_number": "+91 86280 46065",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Himgiri, near GSSS, Himgiri, Sukhdhar, Himachal Pradesh 176321",
+    "area": "176321",
+    "latitude": 32.787889,
+    "longitude": 76.1347159,
+    "place_id": "ChIJk7UN5BLDHDkRA36Kbf0pwCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7UN5BLDHDkRA36Kbf0pwCg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:02:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Profit Realty India",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "176317",
+    "phone_number": "N/A",
+    "website": "https://www.profitrealtyindia.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Office Suite 127, 1st Floor, Green Gold 56, Block B, Sector 56, Gurugram, Haryana 122011",
+    "area": "Block B, Sector 56",
+    "latitude": 28.424858699999998,
+    "longitude": 77.1009108,
+    "place_id": "ChIJ_ZCxxr8jDTkRPOwuYEfldeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZCxxr8jDTkRPOwuYEfldeo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:55:47"
+  },
+  {
+    "business_name": "The Stateline Group",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Marketing agency",
+    "pincode": "176317",
+    "phone_number": "N/A",
+    "website": "http://statelinegroup.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "17 W Main St, New Freedom, PA 17349, United States",
+    "area": "176317",
+    "latitude": 39.738797,
+    "longitude": -76.70260809999999,
+    "place_id": "ChIJeaMCcgdlyIkRTeRdyK_SNEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaMCcgdlyIkRTeRdyK_SNEg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:55:47"
+  }
+]

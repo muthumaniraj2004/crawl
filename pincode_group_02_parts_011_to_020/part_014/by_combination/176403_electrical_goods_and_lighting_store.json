@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrik Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "176403",
+    "phone_number": "+91 94175 49051",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 147,
+    "address": "NH1A, Bhangala, Punjab 144306",
+    "area": "176403",
+    "latitude": 32.0198379,
+    "longitude": 75.6129344,
+    "place_id": "ChIJtTK8XISbGzkRw3Fi_tKHRfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTK8XISbGzkRw3Fi_tKHRfA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:15:04"
+  },
+  {
+    "business_name": "Kwality Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "176403",
+    "phone_number": "+91 94176 01905",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Saili Rd, Beauty Avenue, Bhadroya, Pathankot, Punjab 145001",
+    "area": "Beauty Avenue, Bhadroya",
+    "latitude": 32.2670235,
+    "longitude": 75.6588586,
+    "place_id": "ChIJTc5vS3B_HDkR1tGMOUUV0iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTc5vS3B_HDkR1tGMOUUV0iE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:15:04"
+  }
+]

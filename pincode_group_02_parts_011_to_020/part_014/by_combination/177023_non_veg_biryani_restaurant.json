@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Chicken corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant, Chicken shop",
+    "pincode": "177023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "road, Vill, Langwan, Lambloo, Himachal Pradesh 177029",
+    "area": "Vill",
+    "latitude": 31.668333099999998,
+    "longitude": 76.57561559999999,
+    "place_id": "ChIJtQjJShnXBDkRcFSUuoUti7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQjJShnXBDkRcFSUuoUti7g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:33:31"
+  },
+  {
+    "business_name": "Hot & Spice food",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "177023",
+    "phone_number": "+91 97165 49803",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Tauni Devi-Kakdiyar Rd, near lagwaan chowk, Himachal Pradesh 177029",
+    "area": "177023",
+    "latitude": 31.6668889,
+    "longitude": 76.5735443,
+    "place_id": "ChIJrWdotC_XBDkR3fs6TM7jm-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWdotC_XBDkR3fs6TM7jm-s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:33:31"
+  }
+]

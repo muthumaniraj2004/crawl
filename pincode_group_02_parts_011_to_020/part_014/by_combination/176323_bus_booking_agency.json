@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tour Crafters",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176323",
+    "phone_number": "+91 86279 74764",
+    "website": "http://www.tourcrafters.in/",
+    "rating": 4.9,
+    "reviews_count": 76,
+    "address": "Vill Bangar Rehan, PO Kuftu, Distt, Kunihar, Himachal Pradesh 173207",
+    "area": "176323",
+    "latitude": 31.0864487,
+    "longitude": 77.03427479999999,
+    "place_id": "ChIJJc29Ynx7BTkRg7aDfFiEixg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJc29Ynx7BTkRg7aDfFiEixg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:04:09"
+  },
+  {
+    "business_name": "Ram Dalal Holidays",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Tourist information center, Travel agency",
+    "pincode": "176323",
+    "phone_number": "+91 99537 31731",
+    "website": "http://www.ramdalaltravels.com/",
+    "rating": 3.3,
+    "reviews_count": 1948,
+    "address": "New Aruna Colony, Majnu-ka-tilla, New Aruna Nagar, Delhi, 110054",
+    "area": "New Aruna Colony, Majnu-ka-tilla, New Aruna Nagar",
+    "latitude": 28.699658099999997,
+    "longitude": 77.2276145,
+    "place_id": "ChIJR7RLaN39DDkRtxlJ3G4VkXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7RLaN39DDkRtxlJ3G4VkXg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:04:10"
+  }
+]

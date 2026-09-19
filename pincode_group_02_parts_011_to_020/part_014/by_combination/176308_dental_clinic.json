@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malhan Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "176308",
+    "phone_number": "+91 98576 65060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand Rd, opposite Jairam Market, Bhuntar, Himachal Pradesh 175125",
+    "area": "176308",
+    "latitude": 31.883088899999997,
+    "longitude": 77.14857289999999,
+    "place_id": "ChIJS0M0EID3BDkRmZwge67mzn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0M0EID3BDkRmZwge67mzn4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:30"
+  },
+  {
+    "business_name": "Thakur Dental",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "176308",
+    "phone_number": "+91 78075 42826",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nhpc Road, near panchayat house, samleu, Samleu Uperla, Himachal Pradesh 176325",
+    "area": "samleu",
+    "latitude": 32.610848499999996,
+    "longitude": 75.913105,
+    "place_id": "ChIJdZd--K6THDkRy-ydFMp8XMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZd--K6THDkRy-ydFMp8XMA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh print point",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176312",
+    "phone_number": "+91 98160 37699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "tehsil, Vpo, and, Koti, Chamba, Himachal Pradesh 176312",
+    "area": "176312",
+    "latitude": 32.6629715,
+    "longitude": 76.0381094,
+    "place_id": "ChIJs4uCN6jrHDkR5NGTcVZ1R00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4uCN6jrHDkR5NGTcVZ1R00",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:46:58"
+  },
+  {
+    "business_name": "Sunny Wilding Shop",
+    "search_category": "Shops",
+    "primary_category": "Industrial engineer",
+    "all_categories": "Industrial engineer",
+    "pincode": "176312",
+    "phone_number": "+91 96251 34596",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "SH 33, Moharhi, Himachal Pradesh 176319",
+    "area": "176312",
+    "latitude": 32.672655899999995,
+    "longitude": 76.0530653,
+    "place_id": "ChIJix9IXHrrHDkRYtmvQnPkATM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJix9IXHrrHDkRYtmvQnPkATM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:47:01"
+  }
+]

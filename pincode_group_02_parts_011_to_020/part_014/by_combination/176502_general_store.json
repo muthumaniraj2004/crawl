@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PK General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176502",
+    "phone_number": "+91 76965 90636",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GHATI, Ghati, Bilwan, WWPQ, Q3Q, Punjab 176501",
+    "area": "WWPQ",
+    "latitude": 31.9369867,
+    "longitude": 75.9377284,
+    "place_id": "ChIJj6DxJL1tGzkRO19saVLoeiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6DxJL1tGzkRO19saVLoeiw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:17:53"
+  },
+  {
+    "business_name": "Jai Lal & Sons General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Indian grocery store",
+    "pincode": "176502",
+    "phone_number": "+91 94180 86246",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 14,
+    "address": "V4V9+6GQ, Dadasiba Road Chanour Chanour , teh dada siba, distt kangra, Himachal pradesh Chanour, Chanaur, Himachal Pradesh 177113",
+    "area": "176502",
+    "latitude": 31.892929799999997,
+    "longitude": 76.1186336,
+    "place_id": "ChIJk-Y5F0U-GzkRU37fDC5tk50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-Y5F0U-GzkRU37fDC5tk50",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:17:55"
+  }
+]

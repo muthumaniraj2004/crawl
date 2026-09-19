@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Markan Pet Mall",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "176301",
+    "phone_number": "+91 92175 93654",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop no. 74, 75, Main Market Rd, Sector 6, Panchkula, Haryana 134109",
+    "area": "Sector 6",
+    "latitude": 30.7059133,
+    "longitude": 76.8573364,
+    "place_id": "ChIJc5_rOROTDzkR_IY8xjzrhe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5_rOROTDzkR_IY8xjzrhe8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:27:20"
+  },
+  {
+    "business_name": "Pet Houz",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet groomer, Pet store",
+    "pincode": "176301",
+    "phone_number": "+91 78370 00010",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "4, Phase 10 Inner Rd, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 10, Sector 64",
+    "latitude": 30.688647699999997,
+    "longitude": 76.73722579999999,
+    "place_id": "ChIJR9n_7q7tDzkRFrhGbAtNuaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9n_7q7tDzkRFrhGbAtNuaE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:27:20"
+  }
+]

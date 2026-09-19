@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "176310",
+    "phone_number": "+91 93175 27953",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarori, Mohalla Sapri, Chamba, Himachal Pradesh 176314",
+    "area": "Sarori, Mohalla Sapri",
+    "latitude": 32.5544565,
+    "longitude": 76.1255935,
+    "place_id": "ChIJkUU8PwC9HDkRlmIPI3PTcXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUU8PwC9HDkRlmIPI3PTcXg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:45"
+  },
+  {
+    "business_name": "Pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "176310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bazaar, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5536135,
+    "longitude": 76.1276465,
+    "place_id": "ChIJaxFvMoa9HDkRFDwHTUqSwME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxFvMoa9HDkRFDwHTUqSwME",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:45"
+  }
+]

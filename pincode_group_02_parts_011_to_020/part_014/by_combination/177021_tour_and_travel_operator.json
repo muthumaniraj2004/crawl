@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello Hills",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "177021",
+    "phone_number": "+91 75800 35005",
+    "website": "https://hellohills.in/",
+    "rating": 5,
+    "reviews_count": 71,
+    "address": "Hello Hills, 177021, India",
+    "area": "177021",
+    "latitude": 31.816881,
+    "longitude": 77.3017548,
+    "place_id": "ChIJAZFjNRUG_E8ReaPBu6wHYis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZFjNRUG_E8ReaPBu6wHYis",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:35"
+  },
+  {
+    "business_name": "THE TRAVELLERS SHED",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "177021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 1085,
+    "address": "Kaza, Kaza Khas, Himachal Pradesh 172114",
+    "area": "177021",
+    "latitude": 32.2284734,
+    "longitude": 78.0723805,
+    "place_id": "ChIJ5RKpI3GjBjkR1uJ9MaeE66w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RKpI3GjBjkR1uJ9MaeE66w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:38"
+  }
+]

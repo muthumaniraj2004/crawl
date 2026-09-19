@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dental World",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "176403",
+    "phone_number": "+91 90561 52737",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Saili Rd, behind Mr Vinod Khanna's residence, Golden Avenue, Pathankot, Punjab 145001",
+    "area": "Golden Avenue",
+    "latitude": 32.260793,
+    "longitude": 75.6652733,
+    "place_id": "ChIJrwjedH9_HDkRr6E8aaQSr_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwjedH9_HDkRr6E8aaQSr_o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:48"
+  },
+  {
+    "business_name": "Smile Makers Dental Centre",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dental implants periodontist, Dentist, Emergency dental service, Orthodontist, Pediatric dentist, Periodontist",
+    "pincode": "176403",
+    "phone_number": "+91 92162 15687",
+    "website": "https://sites.google.com/view/smilemakers00/home",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ashirwad Palace Complex, Dhangu Rd, Bank Colony, Sunder Nagar, Pathankot, Punjab 145001",
+    "area": "Bank Colony, Sunder Nagar",
+    "latitude": 32.258210999999996,
+    "longitude": 75.650909,
+    "place_id": "ChIJRQIQ6WN_HDkRD6W18pEcJAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQIQ6WN_HDkRD6W18pEcJAE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:48"
+  }
+]

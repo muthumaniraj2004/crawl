@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour Mill, Bhamnoh",
+    "search_category": "Flour Mill",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "177021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PM26+MWQ, Village Bhamnoh, Gharan, Himachal Pradesh 177021",
+    "area": "177021",
+    "latitude": 31.701722099999998,
+    "longitude": 76.6623529,
+    "place_id": "ChIJzReuJQDZBDkRQmNQnoBDhA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzReuJQDZBDkRQmNQnoBDhA0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:00"
+  },
+  {
+    "business_name": "Post Office",
+    "search_category": "Flour Mill",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "177021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Flour Mill, Bhamnoh, Bagwara, Gharan, Himachal Pradesh 177021",
+    "area": "Bhamnoh",
+    "latitude": 31.7017223,
+    "longitude": 76.66263579999999,
+    "place_id": "ChIJzZ_LPMrZBDkR-BsOWJgakGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZ_LPMrZBDkR-BsOWJgakGY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:00"
+  }
+]

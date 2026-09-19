@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Automobile",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Tire shop, Wheel alignment service",
+    "pincode": "177025",
+    "phone_number": "+91 82639 15990",
+    "website": "https://happyautomobilehamirpurhimachalpradesh.justdial.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sammu-Taal, Bassi - Tarkwari Rd, Bhoranj, Himachal Pradesh 176045",
+    "area": "177025",
+    "latitude": 31.651456399999997,
+    "longitude": 76.64598409999999,
+    "place_id": "ChIJaelz_YHZBDkRxL7DjephoqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaelz_YHZBDkRxL7DjephoqY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:37:25"
+  },
+  {
+    "business_name": "Sharma Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "177025",
+    "phone_number": "+91 98050 64032",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 81,
+    "address": "Vill Gagal PO. Bharmoti, Teh Nadaun, Distt Hamirpur Pin 177033, Nadaun, Himachal Pradesh 177033",
+    "area": "177025",
+    "latitude": 31.769636499999997,
+    "longitude": 76.353342,
+    "place_id": "ChIJKU-Dp5AvGzkRou2FxVKe-H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKU-Dp5AvGzkRou2FxVKe-H0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:37:26"
+  }
+]

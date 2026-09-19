@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nayyar Mart ( NAYYAR KARYANA STORE)",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176403",
+    "phone_number": "+91 94649 26067",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 184,
+    "address": "B 23/56A, Sain Garh Road, Sain Garh, Pathankot, Punjab 145001",
+    "area": "Sain Garh",
+    "latitude": 32.2640812,
+    "longitude": 75.64730089999999,
+    "place_id": "ChIJtyYp02d_HDkRjGcjkW-fWhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyYp02d_HDkRjGcjkW-fWhg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:18"
+  },
+  {
+    "business_name": "SUPER 99",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Countertop store, Home goods store, Toy store",
+    "pincode": "176403",
+    "phone_number": "+91 98885 55121",
+    "website": "https://www.super99.in/",
+    "rating": 4.1,
+    "reviews_count": 27,
+    "address": "Dalhousie Road, Guru Nanak Nagar, Pathankot, Punjab 145001",
+    "area": "Guru Nanak Nagar",
+    "latitude": 32.2727131,
+    "longitude": 75.656331,
+    "place_id": "ChIJMWFQ6ZB_HDkR0YSMim_FIm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWFQ6ZB_HDkR0YSMim_FIm0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:21"
+  }
+]

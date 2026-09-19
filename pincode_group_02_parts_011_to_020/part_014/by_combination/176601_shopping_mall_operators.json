@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City centre Amb",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "176601",
+    "phone_number": "+91 78888 41330",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Opp Police Station, Amb, NH 03, Amb, Himachal Pradesh 177203",
+    "area": "176601",
+    "latitude": 31.684899899999998,
+    "longitude": 76.120649,
+    "place_id": "ChIJWQjbjMUjGzkRM_otjmQ7XxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQjbjMUjGzkRM_otjmQ7XxE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:21:16"
+  },
+  {
+    "business_name": "Chairman Complex",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "176601",
+    "phone_number": "+91 89882 42516",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 20,
+    "address": "WRCV+X53, Jhar Majri, Barotiwala, Himachal Pradesh 174103",
+    "area": "176601",
+    "latitude": 30.9223957,
+    "longitude": 76.84293339999999,
+    "place_id": "ChIJgSFnC8SKDzkRcdL4c4XG4GY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSFnC8SKDzkRcdL4c4XG4GY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:21:17"
+  }
+]

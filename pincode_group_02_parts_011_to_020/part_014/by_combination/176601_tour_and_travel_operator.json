@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anchal tours travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176601",
+    "phone_number": "+91 88720 45756",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Bhandiaran, Tahliwal, Beeton, Himachal Pradesh 176601",
+    "area": "176601",
+    "latitude": 31.329227099999997,
+    "longitude": 76.2397818,
+    "place_id": "ChIJG3LcyrzHGjkRDIHz0UZZWmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3LcyrzHGjkRDIHz0UZZWmI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:20:13"
+  },
+  {
+    "business_name": "Singh tour Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176601",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/singhtourandtravels-com/home?read_current=1",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Ward no 6, above Haroli markit, VPO, tehsil, Dharampur, Haroli, Himachal Pradesh 177220",
+    "area": "tehsil",
+    "latitude": 31.423510099999998,
+    "longitude": 76.232782,
+    "place_id": "ChIJVeJEDFLFGjkRA4c_vjpXTNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeJEDFLFGjkRA4c_vjpXTNk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:20:15"
+  }
+]

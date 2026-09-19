@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ocea Seafoods",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood wholesaler",
+    "all_categories": "Seafood wholesaler, Seafood market",
+    "pincode": "176305",
+    "phone_number": "+91 81234 56111",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 23,
+    "address": "CHETTALI Trade Center, Russell Market Square, 35/1, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "area": "Shivaji Nagar",
+    "latitude": 12.984495299999999,
+    "longitude": 77.6059858,
+    "place_id": "ChIJTyEG074XrjsRTGLfEAaJsmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyEG074XrjsRTGLfEAaJsmQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:34:33"
+  },
+  {
+    "business_name": "DAILY FRESH FISH MART",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "176305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "SAI BABA TEMPLE ROAD, beside AREKERE, Nayatappa Layout, LAKE, Arekere, Bengaluru, Karnataka 560076",
+    "area": "Nayatappa Layout, LAKE, Arekere",
+    "latitude": 12.8846137,
+    "longitude": 77.6007529,
+    "place_id": "ChIJmc9y3koVrjsRpGSpgs56hJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmc9y3koVrjsRpGSpgs56hJo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:34:33"
+  }
+]

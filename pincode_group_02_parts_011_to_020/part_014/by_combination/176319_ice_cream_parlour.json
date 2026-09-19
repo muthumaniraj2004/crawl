@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukhmani dairy",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J62M+29Q, Saho, Saloh, Himachal Pradesh 176307",
+    "area": "Saho",
+    "latitude": 32.6000971,
+    "longitude": 76.2334833,
+    "place_id": "ChIJpxtYdQC5HDkRofeWs70QSQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxtYdQC5HDkRofeWs70QSQc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:11"
+  },
+  {
+    "business_name": "Janta Fruit Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176319",
+    "phone_number": "+91 97966 79309",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "House No. 27A/C, Gandhi Nagar, opp. Govt. Women College, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.7074176,
+    "longitude": 74.8582964,
+    "place_id": "ChIJTQa4CryEHjkRCIlI8OUXclM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQa4CryEHjkRCIlI8OUXclM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:13"
+  }
+]

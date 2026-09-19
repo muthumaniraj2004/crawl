@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xtreme Car Care ( Car Wash )",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "177007",
+    "phone_number": "+91 98761 38124",
+    "website": "http://www.facebook.com/Xtreme.care.hsp",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Fatehgarh Rd, Fatehgarh, Chunggi, Hoshiarpur, Punjab 146001",
+    "area": "Fatehgarh",
+    "latitude": 31.5208461,
+    "longitude": 75.9134791,
+    "place_id": "ChIJqfxD75jjGjkRbGNRjOzmbto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfxD75jjGjkRbGNRjOzmbto",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:08"
+  },
+  {
+    "business_name": "Gilson Group Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "177007",
+    "phone_number": "+91 78500 70000",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 43,
+    "address": "NH21, Sahibzada Ajit Singh Nagar, Punjab 140103",
+    "area": "177007",
+    "latitude": 30.792597999999998,
+    "longitude": 76.6071477,
+    "place_id": "ChIJlSGiBVj6DzkRU2Attxg_d9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSGiBVj6DzkRU2Attxg_d9A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:11"
+  }
+]

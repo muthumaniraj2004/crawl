@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PUSTAK BOOKS & STATONERY",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Pen store",
+    "pincode": "176318",
+    "phone_number": "+91 98059 26161",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near PG COLLAGE, YASHWANT VIHAR, Nahan, Himachal Pradesh 173001",
+    "area": "YASHWANT VIHAR",
+    "latitude": 30.5704206,
+    "longitude": 77.29133399999999,
+    "place_id": "ChIJKUGx16QNDzkRHfPkDLpJoXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUGx16QNDzkRHfPkDLpJoXk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:57:24"
+  },
+  {
+    "business_name": "Kumar Traders",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "176318",
+    "phone_number": "+91 98160 62733",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.4648354,
+    "longitude": 76.2786654,
+    "place_id": "ChIJ2YxhdXrQGjkRjVStK8qpsKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YxhdXrQGjkRjVStK8qpsKw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:57:24"
+  }
+]

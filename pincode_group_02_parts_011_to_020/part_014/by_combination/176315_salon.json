@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rehana Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176315",
+    "phone_number": "+91 62305 89648",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shope No. 461near, Unisex Salon, Girls Sachool, Bharmour, Himachal Pradesh 176315",
+    "area": "176315",
+    "latitude": 32.4430888,
+    "longitude": 76.5381431,
+    "place_id": "ChIJpU8h4mdTAzkRe67V86ErEBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpU8h4mdTAzkRe67V86ErEBE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:51:31"
+  },
+  {
+    "business_name": "Sana Unisex Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176315",
+    "phone_number": "+91 97360 06165",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 213,
+    "address": "Main Rd, near Union Bank, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "176315",
+    "latitude": 30.4383011,
+    "longitude": 77.61929119999999,
+    "place_id": "ChIJYaSaKqYjDzkRNSreq1aaGKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaSaKqYjDzkRNSreq1aaGKc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:51:31"
+  }
+]

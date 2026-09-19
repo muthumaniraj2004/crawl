@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/S ONLINE STUDIO",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HW5C+6JP Mohammad Sharbul Hussain, At Basna Chowk, Bagdhar, Himachal Pradesh 176303",
+    "area": "176308",
+    "latitude": 32.5580919,
+    "longitude": 75.92158959999999,
+    "place_id": "ChIJj3FsmxiTHDkRTGwry8ytLEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3FsmxiTHDkRTGwry8ytLEQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:44"
+  },
+  {
+    "business_name": "TopRanko",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "176308",
+    "phone_number": "+91 90150 22758",
+    "website": "https://www.topranko.com/",
+    "rating": 5,
+    "reviews_count": 60,
+    "address": "M26F+MC5, Janna, Chamba, Himachal Pradesh 176312",
+    "area": "176308",
+    "latitude": 32.661655599999996,
+    "longitude": 76.0236261,
+    "place_id": "ChIJ0zgeulzrHDkR3JyreCvptDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zgeulzrHDkR3JyreCvptDM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:46"
+  }
+]

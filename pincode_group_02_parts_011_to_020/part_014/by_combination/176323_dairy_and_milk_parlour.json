@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pal Dairy & Sweets",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Dairy",
+    "pincode": "176323",
+    "phone_number": "+91 98149 97301",
+    "website": "https://palsweets.com/",
+    "rating": 4.1,
+    "reviews_count": 1051,
+    "address": "Randhawa Rd, Deep Nagar, Garden Colony, Kharar, Punjab 140301",
+    "area": "Deep Nagar, Garden Colony",
+    "latitude": 30.7453625,
+    "longitude": 76.6392681,
+    "place_id": "ChIJQSnW2lXlDzkR1YkzKCicTas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSnW2lXlDzkR1YkzKCicTas",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:28"
+  },
+  {
+    "business_name": "Himachal Pradesh 176323",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "176323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Himachal Pradesh",
+    "area": "176323",
+    "latitude": 32.9753361,
+    "longitude": 76.5488232,
+    "place_id": "ChIJH-pMFakrAzkRdyKDqkoXEmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-pMFakrAzkRdyKDqkoXEmw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vamiko fast food kerwi",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "177025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "MJ66+5VC, Pandher, Himachal Pradesh 177029",
+    "area": "177025",
+    "latitude": 31.660535499999998,
+    "longitude": 76.6122498,
+    "place_id": "ChIJhdtiEADXBDkRuUzxSN3T6HM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdtiEADXBDkRuUzxSN3T6HM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:37:02"
+  },
+  {
+    "business_name": "Convenience Store",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "177025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MJGQ+P53, Hamirpur, Himachal Pradesh 177025",
+    "area": "177025",
+    "latitude": 31.6767713,
+    "longitude": 76.6379085,
+    "place_id": "ChIJc9y5isDXBDkRzf2yFZhPa0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9y5isDXBDkRzf2yFZhPa0E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:37:02"
+  }
+]

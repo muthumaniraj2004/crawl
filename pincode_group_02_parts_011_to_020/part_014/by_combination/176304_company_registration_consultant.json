@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Registration Sathi",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "176304",
+    "phone_number": "+91 89812 34507",
+    "website": "https://registrationsathi.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Abhishek Apartment, 10/3, Janapath Rd, Jyangra, Baguiati, Kolkata, West Bengal 700159",
+    "area": "Jyangra, Baguiati",
+    "latitude": 22.6098972,
+    "longitude": 88.43192169999999,
+    "place_id": "ChIJa2V74GSe-DkRdhxSf6upv2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2V74GSe-DkRdhxSf6upv2o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:34:04"
+  },
+  {
+    "business_name": "OYO 6763 Namaskar Heights",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Inn, Lodge, Motel, Serviced accommodation, Service Apartment, Villa",
+    "pincode": "176304",
+    "phone_number": "+91 124 620 1616",
+    "website": "https://www.oyorooms.com/11312",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Khajjar Road, near Delhi Public School, Dhupguri, Dalhousie, Himachal Pradesh 176304",
+    "area": "Dhupguri",
+    "latitude": 32.535199399999996,
+    "longitude": 75.9818361,
+    "place_id": "ChIJPcL-GzaRHDkRpb4mICqf9ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcL-GzaRHDkRpb4mICqf9ns",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:34:04"
+  }
+]

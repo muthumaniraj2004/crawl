@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Ramandeep’s Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "176309",
+    "phone_number": "+91 89686 05680",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SCO 40, Omaxe Clock Town Market, New Chandigarh, Mullanpur Garibdass, Punjab 140901",
+    "area": "176309",
+    "latitude": 30.8129165,
+    "longitude": 76.7019084,
+    "place_id": "ChIJKU9wX-7xDzkRVIKNRQ0ruf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKU9wX-7xDzkRVIKNRQ0ruf0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:40:22"
+  },
+  {
+    "business_name": "Shridhi Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "176309",
+    "phone_number": "+91 89886 92939",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Shop No. 9 First Floor, Bias Complex, above SBI ATM, near ISBT Road, Excise Colony, Bilaspur, Himachal Pradesh 174001",
+    "area": "Excise Colony",
+    "latitude": 31.338438,
+    "longitude": 76.76086389999999,
+    "place_id": "ChIJz4xWIsQ_BTkRzipUAWZKdcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4xWIsQ_BTkRzipUAWZKdcs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:40:25"
+  }
+]

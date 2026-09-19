@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harbans Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "176402",
+    "phone_number": "+91 88375 98869",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 13,
+    "address": "Gurdaspur Rd, Pathankot, Punjab 145001",
+    "area": "176402",
+    "latitude": 32.273040699999996,
+    "longitude": 75.6448327,
+    "place_id": "ChIJ0Qtrp7mAGzkRGdJ2KzRSWHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Qtrp7mAGzkRGdJ2KzRSWHI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:12"
+  },
+  {
+    "business_name": "Avinash Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Baby store, Toy store",
+    "pincode": "176402",
+    "phone_number": "+91 98775 07760",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 217,
+    "address": "GT Rd, Mandi, Gurdaspur, Punjab 143521",
+    "area": "Mandi",
+    "latitude": 32.0410974,
+    "longitude": 75.4119254,
+    "place_id": "ChIJnamHwnaTGzkRxQjbmlFxSKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnamHwnaTGzkRxQjbmlFxSKk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:15"
+  }
+]

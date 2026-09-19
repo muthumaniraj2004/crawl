@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chauhan Confectionery Shop",
+    "search_category": "Exhibitions",
+    "primary_category": "Conference center",
+    "all_categories": "Conference center",
+    "pincode": "176311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "F597+XM3, Phagri, Himachal Pradesh 176311",
+    "area": "176311",
+    "latitude": 32.4698987,
+    "longitude": 76.1641648,
+    "place_id": "ChIJLevfjYCjHDkR89FPu8q5IVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLevfjYCjHDkR89FPu8q5IVM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:45:03"
+  },
+  {
+    "business_name": "Mai Ka Baag",
+    "search_category": "Exhibitions",
+    "primary_category": "Garden",
+    "all_categories": "Garden",
+    "pincode": "176311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 39,
+    "address": "MDR52, near Sheetala Bridge, Sultanpur, Chamba, Himachal Pradesh 176314",
+    "area": "Sultanpur",
+    "latitude": 32.556438199999995,
+    "longitude": 76.1185508,
+    "place_id": "ChIJTaO6nsi9HDkRRg4FvlIviaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaO6nsi9HDkRRg4FvlIviaw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:45:04"
+  }
+]

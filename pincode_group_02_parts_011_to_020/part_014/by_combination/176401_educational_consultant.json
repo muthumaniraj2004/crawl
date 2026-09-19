@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spritual Healing",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "176401",
+    "phone_number": "+91 86993 41247",
+    "website": "https://spiritualhealing.net/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Spritual Healing, 176401, India",
+    "area": "176401",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJH3mRQIr2sYIRjh2q3xR52cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3mRQIr2sYIRjh2q3xR52cI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:00"
+  },
+  {
+    "business_name": "Salaria Overseas Education Pathankot",
+    "search_category": "Educational Consultant",
+    "primary_category": "Visa Agent",
+    "all_categories": "Visa Agent",
+    "pincode": "176401",
+    "phone_number": "N/A",
+    "website": "https://www.salariaoverseas.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pathankot - Jalandhar Rd, near Salaria Advanced Physiotharapy Centre, Housing Board Colony, Byepass, Dhangu Peer, Pathankot, Punjab 145001",
+    "area": "Housing Board Colony, Byepass, Dhangu Peer",
+    "latitude": 32.253841,
+    "longitude": 75.6523854,
+    "place_id": "ChIJ7T8TcI5_HDkRwM5v0Bjkaas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7T8TcI5_HDkRwM5v0Bjkaas",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:01"
+  }
+]

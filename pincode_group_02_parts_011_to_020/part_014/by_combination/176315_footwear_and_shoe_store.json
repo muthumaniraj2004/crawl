@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176315",
+    "phone_number": "+91 98054 61196",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suraj Footwear, 84mandir Road, Bharmour, Himachal Pradesh 176315",
+    "area": "176315",
+    "latitude": 32.4414315,
+    "longitude": 76.53654879999999,
+    "place_id": "ChIJL03LZR9VAzkRwxetHuj0E9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL03LZR9VAzkRwxetHuj0E9g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:50:56"
+  },
+  {
+    "business_name": "Mc Green",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176315",
+    "phone_number": "+91 172 501 7570",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 311,
+    "address": "SCO 1130, Sector 22B, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.7307141,
+    "longitude": 76.7746283,
+    "place_id": "ChIJr_rxAqbtDzkRUNzOhEuwPQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_rxAqbtDzkRUNzOhEuwPQE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:50:58"
+  }
+]

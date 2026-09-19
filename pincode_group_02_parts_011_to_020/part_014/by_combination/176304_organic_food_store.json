@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapoor Home Stay",
+    "search_category": "Organic Food Store",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "176304",
+    "phone_number": "+91 98051 38124",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bharini, Dalhousie, Himachal Pradesh 176304",
+    "area": "176304",
+    "latitude": 32.542882,
+    "longitude": 75.976872,
+    "place_id": "ChIJmQ3KOQCRHDkR9cmrW6znhlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQ3KOQCRHDkR9cmrW6znhlg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:32:39"
+  },
+  {
+    "business_name": "ATP Mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Grocery delivery service, Health food store, Gluten-free restaurant, Vegan restaurant",
+    "pincode": "176304",
+    "phone_number": "+91 99991 61781",
+    "website": "http://www.atpmart.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No. 2/40, Pocket D11, Halar Rd, opposite AXIS Bank, Pocket 11, Sector 8D, Rohini, Delhi, 110085",
+    "area": "Pocket 11, Sector 8D, Rohini",
+    "latitude": 28.705751799999998,
+    "longitude": 77.12620799999999,
+    "place_id": "ChIJk7vLqt8DDTkR-3Yo-axX9pI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7vLqt8DDTkR-3Yo-axX9pI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:32:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "himachli chef manoj",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "176311",
+    "phone_number": "+91 84594 70839",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Dhar Rouni, Rauni, Himachal Pradesh 176307",
+    "area": "176311",
+    "latitude": 32.5664416,
+    "longitude": 76.26336069999999,
+    "place_id": "ChIJwXA4f1-7HDkReixQaisE2Ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXA4f1-7HDkReixQaisE2Ao",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:43:37"
+  },
+  {
+    "business_name": "Reverberate Cafe & Cottages",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "176311",
+    "phone_number": "+91 98054 44464",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 789,
+    "address": "Gadagushaini, Jibhi, Tandi, Himachal Pradesh 175123",
+    "area": "Gadagushaini",
+    "latitude": 31.589607899999997,
+    "longitude": 77.3504131,
+    "place_id": "ChIJPYw66Q2vBTkRNDPRj7pRB34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYw66Q2vBTkRNDPRj7pRB34",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:43:38"
+  }
+]

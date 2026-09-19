@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vechile Workshop",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "M23F+W4R, Dam Reservoire, Chamera, Himachal Pradesh 176312",
+    "area": "176308",
+    "latitude": 32.6548576,
+    "longitude": 76.0227574,
+    "place_id": "ChIJwSrkkDPrHDkRof1NOYm5Oe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSrkkDPrHDkRof1NOYm5Oe8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:40"
+  },
+  {
+    "business_name": "Balram babu",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JW46+J2R, Khairi, Samleu Uperla, Himachal Pradesh 176325",
+    "area": "176308",
+    "latitude": 32.606614799999996,
+    "longitude": 75.9100311,
+    "place_id": "ChIJycckAgCTHDkRNdGQvCn6veQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycckAgCTHDkRNdGQvCn6veQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:43"
+  }
+]

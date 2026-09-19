@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.S. Auto Spares",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Wholesaler",
+    "pincode": "176402",
+    "phone_number": "+91 81469 22699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Booth no. 54-53 , Near Auditorium , Truck Union Pathankot Punjab 145001 IN, Pathankot, Punjab 145001",
+    "area": "Dhangu Peer",
+    "latitude": 32.2536883,
+    "longitude": 75.6535272,
+    "place_id": "ChIJD6AKkfV_HDkRoIHcz5s3B2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6AKkfV_HDkRoIHcz5s3B2A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:09"
+  },
+  {
+    "business_name": "R K Agencies",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176402",
+    "phone_number": "+91 88376 98949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jai Hind Market, Nangal, Punjab 145101",
+    "area": "176402",
+    "latitude": 32.1860648,
+    "longitude": 75.6491844,
+    "place_id": "ChIJAS-38g-BGzkRiNWvCCbKcCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAS-38g-BGzkRiNWvCCbKcCg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:11"
+  }
+]

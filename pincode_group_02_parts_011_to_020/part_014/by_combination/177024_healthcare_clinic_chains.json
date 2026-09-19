@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health care clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jagatkhana, Nalagarh, Dhang Nichli, Himachal Pradesh 174101",
+    "area": "177024",
+    "latitude": 31.0342517,
+    "longitude": 76.66764189999999,
+    "place_id": "ChIJC0ovHDVbBTkR23qKENA6eEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0ovHDVbBTkR23qKENA6eEk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:35:40"
+  },
+  {
+    "business_name": "Health Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M6FP+HPC, Himachal Pradesh 177039",
+    "area": "177024",
+    "latitude": 31.673925099999998,
+    "longitude": 76.2367711,
+    "place_id": "ChIJs2rFBWgmGzkRJS1-75f87yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2rFBWgmGzkRJS1-75f87yQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:35:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRT",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Gym, Hotel, Restaurant, Spa and health club",
+    "pincode": "176403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH154, near Radha Swami Bhavan, Bhadroya, Pathankot, Punjab 145001",
+    "area": "Bhadroya",
+    "latitude": 32.265474499999996,
+    "longitude": 75.6765242,
+    "place_id": "ChIJI76f3ld_HDkRYEMApRNinnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI76f3ld_HDkRYEMApRNinnE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:16:03"
+  },
+  {
+    "business_name": "Carlton London Pathankot",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "176403",
+    "phone_number": "+91 82848 47991",
+    "website": "https://www.instagram.com/reel/C5ivqoOxOSw/?igsh=MXJ4a3hxZXFnd214eg==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Novelty Mall, Carlton London, Dalhousie Road, Pathankot, Punjab 145001",
+    "area": "Mamun",
+    "latitude": 32.275244199999996,
+    "longitude": 75.6972584,
+    "place_id": "ChIJo9pYuSZ_HDkRrBKEVE0_-mI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9pYuSZ_HDkRrBKEVE0_-mI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:16:03"
+  }
+]

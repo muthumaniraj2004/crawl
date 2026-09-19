@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aroma pure veg biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant, Biryani restaurant",
+    "pincode": "176309",
+    "phone_number": "+91 89995 03079",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 65,
+    "address": "hanuman peth, beside Bajaj Hospital, Vazirabad, Nanded, Maharashtra 431601",
+    "area": "Vazirabad",
+    "latitude": 19.1527128,
+    "longitude": 77.3105777,
+    "place_id": "ChIJ1_sgBxzX0TsRUPoV7mox-9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_sgBxzX0TsRUPoV7mox-9I",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:40:03"
+  },
+  {
+    "business_name": "Zafraan Biryani Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Indian restaurant",
+    "pincode": "176309",
+    "phone_number": "+91 98489 57665",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "9-5-32, Jayaprakash Narayan Road, Mandi Bazar, Girmajipet, Warangal, Telangana 506002",
+    "area": "Mandi Bazar, Girmajipet",
+    "latitude": 17.9869692,
+    "longitude": 79.6008798,
+    "place_id": "ChIJAQDwHhxFMzoRYPSeqGiwRZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDwHhxFMzoRYPSeqGiwRZ8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:40:04"
+  }
+]

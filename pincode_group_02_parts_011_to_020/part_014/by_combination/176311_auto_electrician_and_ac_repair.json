@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 auto point",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "176311",
+    "phone_number": "+91 88948 10111",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Vill ghoom, Chamba, Himachal Pradesh 176318",
+    "area": "176311",
+    "latitude": 32.5466295,
+    "longitude": 76.1393215,
+    "place_id": "ChIJp7VA1Q29HDkRXGFppjeKhmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7VA1Q29HDkRXGFppjeKhmw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:44:03"
+  },
+  {
+    "business_name": "Auto Electrician Scanning Vehicles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "176311",
+    "phone_number": "+91 85558 91376",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Suzuki Bike Showroom, Sadashivpet, Telangana 502291",
+    "area": "176311",
+    "latitude": 17.6182212,
+    "longitude": 77.9437342,
+    "place_id": "ChIJfTwl7y__yzsRzyuhVp8tl2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTwl7y__yzsRzyuhVp8tl2c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:44:06"
+  }
+]

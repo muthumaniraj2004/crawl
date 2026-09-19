@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra daily needs Shop",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176315",
+    "phone_number": "+91 94596 96654",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "JVFF+C34, Jobrang, Himachal Pradesh 175133",
+    "area": "176315",
+    "latitude": 32.6235111,
+    "longitude": 76.87271729999999,
+    "place_id": "ChIJDX6GNmNpAzkRC9EkGWhJRM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDX6GNmNpAzkRC9EkGWhJRM8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:50:36"
+  },
+  {
+    "business_name": "Subhash kariyana store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Variety store",
+    "pincode": "176315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "sai garden, Lohna, Himachal Pradesh, Palampur, Himachal Pradesh 176061",
+    "area": "Lohna, Himachal Pradesh",
+    "latitude": 32.125464,
+    "longitude": 76.5409918,
+    "place_id": "ChIJ3ZHO29OzBDkRvhXzOsWPa0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZHO29OzBDkRvhXzOsWPa0I",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:50:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEERAJ FITNESS GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Gymnastics center, Gymnastics club",
+    "pincode": "176325",
+    "phone_number": "+91 98164 81051",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "near service station, Talai, Himachal Pradesh 174030",
+    "area": "176325",
+    "latitude": 31.4551457,
+    "longitude": 76.5235,
+    "place_id": "ChIJZQuWXQAzBTkRmJ-rWYCLiGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQuWXQAzBTkRmJ-rWYCLiGk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:07:41"
+  },
+  {
+    "business_name": "Chamba Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Nutritionist",
+    "pincode": "176325",
+    "phone_number": "+91 95489 13651",
+    "website": "https://sites.google.com/view/chambafitness/home",
+    "rating": 4.5,
+    "reviews_count": 44,
+    "address": "Nagar Palika Parking, Mussoorie Rd, near Masiha Hospital, Chamba, Uttarakhand 249145",
+    "area": "176325",
+    "latitude": 30.3509535,
+    "longitude": 78.3901721,
+    "place_id": "ChIJAfKt1N0dCTkRG9uDi8n5VhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAfKt1N0dCTkRG9uDi8n5VhU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:07:42"
+  }
+]

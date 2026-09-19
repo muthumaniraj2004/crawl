@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "veterinary Hospital(Animal)",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "177023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6WC8+HH7, Hanuman badog road, Arki, Himachal Pradesh 173235",
+    "area": "177023",
+    "latitude": 31.221407199999998,
+    "longitude": 76.9164335,
+    "place_id": "ChIJt1eHHlNpBTkRxsbjkICoNXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1eHHlNpBTkRxsbjkICoNXo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:33:53"
+  },
+  {
+    "business_name": "Veterinary dispensary",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "177023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "HVJW+R74, Village Sangahan PO Jugahan ,Teh :, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "177023",
+    "latitude": 31.582023799999998,
+    "longitude": 76.8956893,
+    "place_id": "ChIJK1sUwhQZBTkRw4L9M7AX8DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1sUwhQZBTkRw4L9M7AX8DM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:33:54"
+  }
+]

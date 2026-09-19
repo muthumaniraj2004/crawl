@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapoor General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "120, Chamba Bypass, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5566362,
+    "longitude": 76.12403859999999,
+    "place_id": "ChIJtUBOJcm9HDkReDtse1bc2fM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUBOJcm9HDkReDtse1bc2fM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:36:19"
+  },
+  {
+    "business_name": "Sanjeev smart point",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MDR52, Bharmour, Himachal Pradesh 176324",
+    "area": "176306",
+    "latitude": 32.4516552,
+    "longitude": 76.3301898,
+    "place_id": "ChIJ8wuWFQCvHDkRGjZgRrPqERY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wuWFQCvHDkRGjZgRrPqERY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:36:20"
+  }
+]

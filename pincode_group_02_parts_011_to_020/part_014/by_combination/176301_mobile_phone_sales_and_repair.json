@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mi store Banikhet",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Mobile phone repair shop",
+    "pincode": "176301",
+    "phone_number": "+91 70184 09090",
+    "website": "http://mi.com/",
+    "rating": 4.2,
+    "reviews_count": 44,
+    "address": "near Dav College, Banikhet, Banikhet Jangal, Himachal Pradesh 176303",
+    "area": "176301",
+    "latitude": 32.5438712,
+    "longitude": 75.9413241,
+    "place_id": "ChIJqWZjaIORHDkRhcxLs_nE-wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWZjaIORHDkRhcxLs_nE-wk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:28:33"
+  },
+  {
+    "business_name": "Happy Mobile Repair",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store, Telecommunications service provider",
+    "pincode": "176301",
+    "phone_number": "+91 98140 80093",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 341,
+    "address": "Shop No 61 Mini Market, Sector 7, Panchkula, Haryana 134109",
+    "area": "Budanpur",
+    "latitude": 30.7069799,
+    "longitude": 76.844686,
+    "place_id": "ChIJK3aAFT-TDzkRlzTQd-OctL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3aAFT-TDzkRlzTQd-OctL8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:28:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Organic India Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176325",
+    "phone_number": "+91 98160 57111",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "Organic India Restaurant, Karsog Mandi Mail Road, Tatapani, Himachal Pradesh 175009",
+    "area": "176325",
+    "latitude": 31.247231799999998,
+    "longitude": 77.08978139999999,
+    "place_id": "ChIJpewX5DZzBTkRh2p1fHoJZB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpewX5DZzBTkRh2p1fHoJZB4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:07:20"
+  },
+  {
+    "business_name": "Taste of Himalayas.",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "176325",
+    "phone_number": "+91 93177 71919",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 65,
+    "address": "NH5(himalayan express way) Shimla, rd, Kandaghat, Himachal Pradesh 173215",
+    "area": "176325",
+    "latitude": 30.9696951,
+    "longitude": 77.1070232,
+    "place_id": "ChIJMUOH466BDzkRCq24t-Xfu1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUOH466BDzkRCq24t-Xfu1E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:07:20"
+  }
+]

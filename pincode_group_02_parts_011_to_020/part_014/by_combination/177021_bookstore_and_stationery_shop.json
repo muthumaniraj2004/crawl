@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Student book Depot Baldwara",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "177021",
+    "phone_number": "+91 89885 19270",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baldwara Bus Stop, State Highway 19, Baldwara, Himachal Pradesh 175033",
+    "area": "177021",
+    "latitude": 31.556886,
+    "longitude": 76.7648243,
+    "place_id": "ChIJ1w9OVY4jBTkRZK-nolkjR7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1w9OVY4jBTkRZK-nolkjR7U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:31:07"
+  },
+  {
+    "business_name": "Neelam Book Shop & Gift Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "177021",
+    "phone_number": "+91 98727 60933",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hoshiarpur - Garhshankar Rd, Garhshankar, Punjab 144527",
+    "area": "177021",
+    "latitude": 31.214968,
+    "longitude": 76.14384629999999,
+    "place_id": "ChIJsQP2rBK_GjkRayn3pSugxBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQP2rBK_GjkRayn3pSugxBo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:31:08"
+  }
+]

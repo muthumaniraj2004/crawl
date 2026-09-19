@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THARWAL MEDICAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177022",
+    "phone_number": "+91 82192 97402",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "VPO, Panarsa Teh, Distt, Aut, Panarsa, Himachal Pradesh 175121",
+    "area": "Distt",
+    "latitude": 31.783869099999997,
+    "longitude": 77.194473,
+    "place_id": "ChIJxQA5fwD_BDkRs27DPJ2Glu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQA5fwD_BDkRs27DPJ2Glu8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:03"
+  },
+  {
+    "business_name": "Vaanya Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177022",
+    "phone_number": "+91 78769 14137",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "V.P.O, Kanaid, Himachal Pradesh 174402",
+    "area": "177022",
+    "latitude": 31.5795641,
+    "longitude": 76.9116585,
+    "place_id": "ChIJE5gtRYIZBTkRvqKkkYzkric",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5gtRYIZBTkRvqKkkYzkric",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:03"
+  }
+]

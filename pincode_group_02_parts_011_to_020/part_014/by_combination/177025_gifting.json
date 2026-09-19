@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Butterfly gift shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "177025",
+    "phone_number": "+91 84770 09999",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "GMS Rd, Ballupur Chowk, Satya Vihar, Ballupur, Dehradun, Uttarakhand 248001",
+    "area": "Ballupur Chowk, Satya Vihar, Ballupur",
+    "latitude": 30.3315007,
+    "longitude": 78.01121839999999,
+    "place_id": "ChIJNxGtLvopCTkRU45VIOHd_zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxGtLvopCTkRU45VIOHd_zw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:37:55"
+  },
+  {
+    "business_name": "Paradise Gift Center",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "177025",
+    "phone_number": "+91 70185 44084",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "178/7, Balkrupi Bazar, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Balkrupi Bazar, Samkhetar",
+    "latitude": 31.711983999999998,
+    "longitude": 76.9298026,
+    "place_id": "ChIJLWREBzviBDkROOi4jQtxxZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWREBzviBDkROOi4jQtxxZw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:37:57"
+  }
+]

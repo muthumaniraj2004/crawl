@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bunty plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "176301",
+    "phone_number": "+91 83681 42699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "mirchi dhaba, near bus stand, Pukhri, Banikhet, Himachal Pradesh 176303",
+    "area": "Pukhri",
+    "latitude": 32.5481542,
+    "longitude": 75.95027089999999,
+    "place_id": "ChIJE_lzBqiRHDkRRpBlvYPnWzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_lzBqiRHDkRRpBlvYPnWzI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:28:01"
+  },
+  {
+    "business_name": "Pawan Kumar Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "176301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mane Bazar, near Thakur Sweets Shop, Basohli, Jammu and Kashmir 184201",
+    "area": "176301",
+    "latitude": 32.5038063,
+    "longitude": 75.8112884,
+    "place_id": "ChIJl5mMzsmPHDkRMqS8luAvJP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5mMzsmPHDkRMqS8luAvJP4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:28:01"
+  }
+]

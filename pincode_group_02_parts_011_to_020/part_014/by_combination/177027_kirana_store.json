@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rinku General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H272, Kohta, Hamirpur, Himachal Pradesh 177001",
+    "area": "Kohta",
+    "latitude": 31.6893842,
+    "longitude": 76.52683259999999,
+    "place_id": "ChIJm_8HRADVBDkRdLdkjV_ufkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_8HRADVBDkRdLdkjV_ufkE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:40:19"
+  },
+  {
+    "business_name": "Anku General store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H272, Kohta, Hamirpur, Himachal Pradesh 177001",
+    "area": "Kohta",
+    "latitude": 31.6892495,
+    "longitude": 76.5266338,
+    "place_id": "ChIJvZDlVADVBDkRr43vSyb9ekg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZDlVADVBDkRr43vSyb9ekg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:40:20"
+  }
+]

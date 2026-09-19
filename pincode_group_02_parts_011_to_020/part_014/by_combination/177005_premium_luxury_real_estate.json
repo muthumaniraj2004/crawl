@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coldwell Banker South India",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Property investment company, Property management company, Real estate consultant, Real estate rental agency",
+    "pincode": "177005",
+    "phone_number": "+91 99020 66670",
+    "website": "https://buywithcb.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd Floor, Raghavendra Swamy Mutt, 38, 10th Main Rd, above Duroflex, near Sri, 5th Block, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "5th Block, Jayanagar",
+    "latitude": 12.9172269,
+    "longitude": 77.5845556,
+    "place_id": "ChIJj3e8zggVrjsRUhqIyqLLiLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3e8zggVrjsRUhqIyqLLiLI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:24:32"
+  },
+  {
+    "business_name": "SOBHA Nesara",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex, Apartment building, Condominium complex",
+    "pincode": "177005",
+    "phone_number": "+91 80 4646 4500",
+    "website": "https://www.sobha.com/pune/sobha-nesara/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Right Bhusari Colony, Kothrud, Pune, Maharashtra 411023",
+    "area": "Right Bhusari Colony, Kothrud",
+    "latitude": 18.5063296,
+    "longitude": 73.7858265,
+    "place_id": "ChIJqzauOAO_wjsRTmqy8xUj5LM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzauOAO_wjsRTmqy8xUj5LM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:24:32"
+  }
+]

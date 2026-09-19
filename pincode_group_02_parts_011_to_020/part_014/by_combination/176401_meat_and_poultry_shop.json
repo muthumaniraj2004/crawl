@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ak poultry farm sanour",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "176401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4P74+ 98G Sanor, Indora, Himachal Pradesh 176403",
+    "area": "176401",
+    "latitude": 32.1136336,
+    "longitude": 75.7052417,
+    "place_id": "ChIJZYaz-WiDGzkRxnoAT0VEqHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYaz-WiDGzkRxnoAT0VEqHA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:10:51"
+  },
+  {
+    "business_name": "MeatRight",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "176401",
+    "phone_number": "N/A",
+    "website": "https://meatright.in/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "90/1, Koppa Road, Hobli Road, Anekal Taluk, Bengaluru, Karnataka 560083",
+    "area": "176401",
+    "latitude": 12.8155115,
+    "longitude": 77.6214665,
+    "place_id": "ChIJvcdF4-NrrjsRP4wOTi40M80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcdF4-NrrjsRP4wOTi40M80",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:10:53"
+  }
+]

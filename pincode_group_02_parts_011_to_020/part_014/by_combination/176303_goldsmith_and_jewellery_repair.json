@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandru Gold Works",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Service establishment",
+    "pincode": "176303",
+    "phone_number": "+91 94496 89608",
+    "website": "https://www.chandrugoldworks.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandru Gold Works, 176303, India",
+    "area": "176303",
+    "latitude": 16.054457499999998,
+    "longitude": 76.9160428,
+    "place_id": "ChIJcwUfsVo1rEUReRYf4M4Igds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwUfsVo1rEUReRYf4M4Igds",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:31:10"
+  },
+  {
+    "business_name": "Shine Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "176303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 53,
+    "address": "Shop No. 36, Verka Booth Chowk Old, Sector 125, Sunny Enclave, Kharar, Punjab 140301",
+    "area": "Sector 125, Sunny Enclave",
+    "latitude": 30.749130299999997,
+    "longitude": 76.6662344,
+    "place_id": "ChIJ31l8aXzvDzkRd837PtMZ2Hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31l8aXzvDzkRd837PtMZ2Hw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:31:10"
+  }
+]

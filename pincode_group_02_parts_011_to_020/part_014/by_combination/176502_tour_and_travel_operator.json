@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sham Tour Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176502",
+    "phone_number": "+91 98161 44580",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kasba, Himachal Pradesh 177106",
+    "area": "176502",
+    "latitude": 31.920204299999998,
+    "longitude": 76.049519,
+    "place_id": "ChIJ7b8COwAVGzkRznU7BZBIX6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7b8COwAVGzkRznU7BZBIX6U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:18:29"
+  },
+  {
+    "business_name": "Manali Tour",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Adventure Sports Center, Bus ticket agency, Bus tour agency, Hotel, School bus service, Taxi service, Tour agency, Tour operator, Tourist information center",
+    "pincode": "176502",
+    "phone_number": "+91 93180 00094",
+    "website": "https://kullumanalitour.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near Jamadagni Temple Village Prini, P.O.Prini, Teh, Distt, Manali, Himachal Pradesh 175143",
+    "area": "Prini",
+    "latitude": 32.2222083,
+    "longitude": 77.2068295,
+    "place_id": "ChIJ5bnK_YRjBDkRBdaaWDCmhH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bnK_YRjBDkRBdaaWDCmhH8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:18:31"
+  }
+]

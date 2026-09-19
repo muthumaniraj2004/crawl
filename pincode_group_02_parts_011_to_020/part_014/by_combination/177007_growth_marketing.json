@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Creative Minds",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Education center, Graphic designer, Internet marketing service, Website designer",
+    "pincode": "177007",
+    "phone_number": "+91 88160 81309",
+    "website": "https://digitalcreativeminds.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "220, Dayal Nagar, Shahbad, Haryana 136135",
+    "area": "Dayal Nagar",
+    "latitude": 30.1585967,
+    "longitude": 76.8581888,
+    "place_id": "ChIJsdiAQPSPDzkR9pp9LJMLBoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdiAQPSPDzkR9pp9LJMLBoU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:10"
+  },
+  {
+    "business_name": "AJ Marketer",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Internet marketing service, Marketing consultant, Website designer",
+    "pincode": "177007",
+    "phone_number": "+91 80581 12949",
+    "website": "https://ajmarketer.com/",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "42/7, Mair, Pandhwin, Himachal Pradesh 176042",
+    "area": "177007",
+    "latitude": 31.575823699999997,
+    "longitude": 76.6029518,
+    "place_id": "ChIJKYT5wx4pBTkRsHu81-fGF3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYT5wx4pBTkRsHu81-fGF3Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:11"
+  }
+]

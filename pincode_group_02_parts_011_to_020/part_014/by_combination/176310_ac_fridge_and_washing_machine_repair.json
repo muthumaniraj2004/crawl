@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IFB Point - Chamba",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Air conditioning store, Washer & dryer store",
+    "pincode": "176310",
+    "phone_number": "+91 62308 54010",
+    "website": "https://www.ifbappliances.com/",
+    "rating": 4.7,
+    "reviews_count": 55,
+    "address": "Chamunda Mandir Rd, opp. Bhardwaj Banquet Hall, Upper Jalukari, Chamba, Himachal Pradesh 176310",
+    "area": "Upper Jalukari",
+    "latitude": 32.5479479,
+    "longitude": 76.1349034,
+    "place_id": "ChIJKY9ivSS9HDkRZ_G8XHEieZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKY9ivSS9HDkRZ_G8XHEieZI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:42:29"
+  },
+  {
+    "business_name": "Reliance resQ - S P Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Microwave oven repair service, Refrigerator repair service, Television repair service, Washer & dryer repair service",
+    "pincode": "176310",
+    "phone_number": "+91 85520 00846",
+    "website": "https://www.resqservices.in/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Old, gaja road, near lakdikaupol, terigadva, Chamba, Himachal Pradesh 176310",
+    "area": "terigadva",
+    "latitude": 32.5533929,
+    "longitude": 76.12575369999999,
+    "place_id": "ChIJP76UUkFbCDkRm0X_d7h8KYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP76UUkFbCDkRm0X_d7h8KYY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:42:29"
+  }
+]

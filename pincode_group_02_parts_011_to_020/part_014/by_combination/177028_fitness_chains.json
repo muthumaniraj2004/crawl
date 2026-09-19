@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "177028",
+    "phone_number": "+91 98824 88814",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Royal Fitness Gym, Sikka Hotel, Baddi, Himachal Pradesh 173205",
+    "area": "177028",
+    "latitude": 30.930090399999997,
+    "longitude": 76.8166524,
+    "place_id": "ChIJcYfxF4b1DzkRRSACTjyTngY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYfxF4b1DzkRRSACTjyTngY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:42:38"
+  },
+  {
+    "business_name": "Mahi Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "177028",
+    "phone_number": "+91 86288 11105",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 23,
+    "address": "Shop Number1, 2nd Floor, Sai Rd, opposite Lajdharmkanta, Baddi, Himachal Pradesh 173205",
+    "area": "177028",
+    "latitude": 30.9357749,
+    "longitude": 76.80041829999999,
+    "place_id": "ChIJyXNshIj1DzkRkbNpG4bce-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXNshIj1DzkRkbNpG4bce-Y",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:42:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chick Express",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "176303",
+    "phone_number": "+91 82199 95890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baikunth Nagar, Banikhet, Pukhar, Himachal Pradesh 176303",
+    "area": "Baikunth Nagar",
+    "latitude": 32.5523671,
+    "longitude": 75.9493389,
+    "place_id": "ChIJV8zIgWWRHDkR6A3UPEXoX6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8zIgWWRHDkR6A3UPEXoX6E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:30:52"
+  },
+  {
+    "business_name": "Fish & Chicken Market",
+    "search_category": "Fish Market",
+    "primary_category": "Fresh food market",
+    "all_categories": "Fresh food market",
+    "pincode": "176303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 340,
+    "address": "PR9C+MPW, Sector 13, Chandigarh, 160101",
+    "area": "Sector 13",
+    "latitude": 30.7192381,
+    "longitude": 76.8218395,
+    "place_id": "ChIJ_6WebdTsDzkR81G5LAzknoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6WebdTsDzkR81G5LAzknoA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:30:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHANTI DISTTRIBUTOR",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "177020",
+    "phone_number": "+91 94180 46820",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pacca Bharo, Hamirpur - Nadaun Rd, Hamirpur, Himachal Pradesh 177001",
+    "area": "177020",
+    "latitude": 31.6981364,
+    "longitude": 76.49937249999999,
+    "place_id": "ChIJn9pU9v7VBDkR2A_6Pw4DTMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9pU9v7VBDkR2A_6Pw4DTMQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:50"
+  },
+  {
+    "business_name": "Dhiman Autoworks",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "177020",
+    "phone_number": "+91 94186 35333",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "Ghartheri Bhalwalan, Hamirpur, NH-70, Hamirpur Nadaun Road, Hamirpur, Hamirpur, Himachal Pradesh 177001",
+    "area": "177020",
+    "latitude": 31.6979427,
+    "longitude": 76.49965499999999,
+    "place_id": "ChIJ7UgyS_TUBDkROSKaDiRMN5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UgyS_TUBDkROSKaDiRMN5A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:51"
+  }
+]

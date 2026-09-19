@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAI BOOZE",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176601",
+    "phone_number": "+91 78070 09400",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "opposite ISBT, Ram Nagar, Una, Himachal Pradesh 174303",
+    "area": "Ram Nagar",
+    "latitude": 31.4683423,
+    "longitude": 76.265694,
+    "place_id": "ChIJvbCJdrbbGjkR1XBIWUqooWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbCJdrbbGjkR1XBIWUqooWk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:19:41"
+  },
+  {
+    "business_name": "Chai Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176601",
+    "phone_number": "+91 62623 00031",
+    "website": "https://www.chaisuttabarindia.com/locations/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "PG College, Nangal Rd, opp. Govt, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.462646799999998,
+    "longitude": 76.27998219999999,
+    "place_id": "ChIJl2E0KVTRGjkRXk8cTfdhSPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2E0KVTRGjkRXk8cTfdhSPI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:19:41"
+  }
+]

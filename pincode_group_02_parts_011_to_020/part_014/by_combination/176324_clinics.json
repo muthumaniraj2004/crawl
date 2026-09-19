@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PHC Mandha",
+    "search_category": "Clinics",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "176324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFH4+X35, Silpiri, Himachal Pradesh 176324",
+    "area": "176324",
+    "latitude": 32.5298836,
+    "longitude": 76.4552295,
+    "place_id": "ChIJRex-DmWzHDkRDrRrJrJWNZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRex-DmWzHDkRDrRrJrJWNZE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:05:43"
+  },
+  {
+    "business_name": "Primary health care clinic (Govt)",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 8,
+    "address": "100 mts from main square on, Jogiwara Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2378328,
+    "longitude": 76.3241634,
+    "place_id": "ChIJewJFYixRGzkR5rTwTpJL4PM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewJFYixRGzkR5rTwTpJL4PM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:05:46"
+  }
+]

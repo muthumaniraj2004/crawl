@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meena Bazaar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176403",
+    "phone_number": "+91 92896 54203",
+    "website": "http://www.meenabazaar.com/",
+    "rating": 4.9,
+    "reviews_count": 490,
+    "address": "Srinagar - Kanyakumari Hwy, Downtown 44, Dadwal, Punjab 145023",
+    "area": "Dadwal",
+    "latitude": 32.287211299999996,
+    "longitude": 75.5972958,
+    "place_id": "ChIJ8XmZxT95HDkRSRTmzm-Mj3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XmZxT95HDkRSRTmzm-Mj3U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:34"
+  },
+  {
+    "business_name": "DPS LEHENGA HUB",
+    "search_category": "Saree Showroom",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store",
+    "pincode": "176403",
+    "phone_number": "+91 88376 70529",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 18,
+    "address": "opposite Kalia Cement Store, Bhangala, Punjab 144306",
+    "area": "176403",
+    "latitude": 32.017634699999995,
+    "longitude": 75.6126376,
+    "place_id": "ChIJF8m29LCbGzkRrRNJCO2Gmgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8m29LCbGzkRrRNJCO2Gmgk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:34"
+  }
+]

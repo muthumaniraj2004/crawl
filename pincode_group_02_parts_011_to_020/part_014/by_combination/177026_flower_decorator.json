@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon store, Event management company, Event venue, Flower designer, Flower market, Party planner, Wedding service, Wholesale florist",
+    "pincode": "177026",
+    "phone_number": "+91 77540 78628",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Andha Kua Main Rd, near J.P Dharamshala, Barra 6, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra 6, Barra World Bank, Barra",
+    "latitude": 26.429490299999998,
+    "longitude": 80.2941259,
+    "place_id": "ChIJ1UXNdAVHnDkRV8_yZO6kJK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UXNdAVHnDkRV8_yZO6kJK4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:39:36"
+  },
+  {
+    "business_name": "Sahil Flower and ballon Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "177026",
+    "phone_number": "+91 98722 61625",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "5644+J3V, near Agarsain school, opp. Jagdambay sweets, Samana, Punjab 147101",
+    "area": "177026",
+    "latitude": 30.156601199999997,
+    "longitude": 76.2051777,
+    "place_id": "ChIJSVRTGtPNETkRXTmFsRlg0CY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVRTGtPNETkRXTmFsRlg0CY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:39:38"
+  }
+]

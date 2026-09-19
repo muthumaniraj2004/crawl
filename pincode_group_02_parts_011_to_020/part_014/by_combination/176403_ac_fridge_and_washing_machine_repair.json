@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J K Enterprises",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "176403",
+    "phone_number": "+91 77174 75371",
+    "website": "http://www.jk-enterprisesindia.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gharota, road, Akalgarh, Punjab 145025",
+    "area": "176403",
+    "latitude": 32.239241,
+    "longitude": 75.6191252,
+    "place_id": "ChIJN4Zq21uHGzkROWoJjpS-m0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4Zq21uHGzkROWoJjpS-m0E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:15:11"
+  },
+  {
+    "business_name": "Ajay Electronics",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Home theater store",
+    "pincode": "176403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Dhangu Rd, Jodhamal Bagh, Patel Nagar, Pathankot, Punjab 145001",
+    "area": "Jodhamal Bagh, Patel Nagar",
+    "latitude": 32.268698,
+    "longitude": 75.6517716,
+    "place_id": "ChIJgwPg7mV_HDkR-zUNWmjannM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwPg7mV_HDkR-zUNWmjannM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:15:11"
+  }
+]

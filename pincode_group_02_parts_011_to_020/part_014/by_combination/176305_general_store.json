@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S S Billowria and Sons General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176305",
+    "phone_number": "+91 96823 82027",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "31, near Sandar, Basohli, Jammu and Kashmir 184201",
+    "area": "176305",
+    "latitude": 32.563804999999995,
+    "longitude": 75.84564069999999,
+    "place_id": "ChIJd-kET0SNHDkRBQsmltirNhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-kET0SNHDkRBQsmltirNhA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:34:32"
+  },
+  {
+    "business_name": "Himachal General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176305",
+    "phone_number": "+91 6284 428 921",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 58 colony, no. 1, near punjab national bank, New Colony, Khudda Lahora, Chandigarh, 140901",
+    "area": "New Colony, Khudda Lahora",
+    "latitude": 30.7758011,
+    "longitude": 76.7694601,
+    "place_id": "ChIJNTM9bwDzDzkReq_S_NYoQ5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTM9bwDzDzkReq_S_NYoQ5M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:34:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanishq Events Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "176401",
+    "phone_number": "+91 81969 19195",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Old MH Road, Dhangu Peer, Pathankot, Punjab 145001",
+    "area": "Dhangu Peer",
+    "latitude": 32.2521126,
+    "longitude": 75.653848,
+    "place_id": "ChIJb9gCmfmBGzkRzbDf7-winKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9gCmfmBGzkRzbDf7-winKg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:11:47"
+  },
+  {
+    "business_name": "Dream Galaxy Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Artist, Children's party service, Event planner, Event venue, Party planner, Event management company, Wedding service",
+    "pincode": "176401",
+    "phone_number": "+91 88714 22738",
+    "website": "https://www.instagram.com/dream_galaxy_events_indore/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shree Vinayak Residency, Vipr Nagar, 405-B, behind Mayur Hospital, Indore, Madhya Pradesh 452016",
+    "area": "Gannayak Nagar, C Sector, Gajanan Nagar",
+    "latitude": 22.724987199999998,
+    "longitude": 75.9087101,
+    "place_id": "ChIJg68_EmQDYzkR1CKo1DD1zCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg68_EmQDYzkR1CKo1DD1zCo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:11:50"
+  }
+]

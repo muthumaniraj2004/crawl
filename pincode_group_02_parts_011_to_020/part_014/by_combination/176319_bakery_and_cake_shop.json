@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brown World",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Breakfast restaurant, Cafe, Coffee shop",
+    "pincode": "176319",
+    "phone_number": "+91 98166 60074",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1864,
+    "address": "72, National Highway, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "176319",
+    "latitude": 30.4430636,
+    "longitude": 77.6085202,
+    "place_id": "ChIJyfnh3PgiDzkR0k64PG-5vf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfnh3PgiDzkR0k64PG-5vf4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:06"
+  },
+  {
+    "business_name": "Deep bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176319",
+    "phone_number": "+91 97360 20020",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 600,
+    "address": "Ward No. 8, Main Market Rd, Main Bazar, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "Main Bazar",
+    "latitude": 30.436764699999998,
+    "longitude": 77.62337,
+    "place_id": "ChIJ2wsyl6YjDzkRrmBGS125uKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wsyl6YjDzkRrmBGS125uKQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:06"
+  }
+]

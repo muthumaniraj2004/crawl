@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Isha Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176305",
+    "phone_number": "+91 88945 56200",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Isha Saloon, College Road, Dalhousie, Banikhet, Himachal Pradesh 176303",
+    "area": "Dalhousie",
+    "latitude": 32.5461106,
+    "longitude": 75.9447118,
+    "place_id": "ChIJVwbOCheRHDkRZ3YmDmezzas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwbOCheRHDkRZ3YmDmezzas",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:35:20"
+  },
+  {
+    "business_name": "Headmasters Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176305",
+    "phone_number": "+91 97802 09007",
+    "website": "https://headmasters.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dalhousie Bye Pass, Saili Rd, near Kamal Sweets, Pathankot, Punjab 145001",
+    "area": "Sailli",
+    "latitude": 32.2570398,
+    "longitude": 75.6646025,
+    "place_id": "ChIJLYNNgYN_HDkRULxHYMtqaDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYNNgYN_HDkRULxHYMtqaDc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:35:21"
+  }
+]

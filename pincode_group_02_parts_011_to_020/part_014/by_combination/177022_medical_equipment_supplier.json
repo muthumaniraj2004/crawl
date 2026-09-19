@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical Store, Kadhiar",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "177022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QH6W+CM4, Vill- Kadhiar, PO.Lagdevi, Himachal Pradesh 177022",
+    "area": "177022",
+    "latitude": 31.7610168,
+    "longitude": 76.5967029,
+    "place_id": "ChIJtSimv-HQBDkRQz18LY9LZOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSimv-HQBDkRQz18LY9LZOc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:11"
+  },
+  {
+    "business_name": "Pradhan Mantri Bhartiya Jan Aushadhi Kendra Tauni Devi",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "177022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Civil Hospital Rd, Tauni Devi, Himachal Pradesh 177023",
+    "area": "177022",
+    "latitude": 31.7138736,
+    "longitude": 76.59762479999999,
+    "place_id": "ChIJsRy5Hq_XBDkR4G4PmJbf6JM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRy5Hq_XBDkR4G4PmJbf6JM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:13"
+  }
+]

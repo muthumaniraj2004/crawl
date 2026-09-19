@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Kirpa Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "120, Chamba Bypass, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.557004,
+    "longitude": 76.123578,
+    "place_id": "ChIJr9rZK8m9HDkRx2o8HXZOipQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9rZK8m9HDkRx2o8HXZOipQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:50:10"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "176314",
+    "phone_number": "+91 94184 02644",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sultanpur, Chamba, DHARAMSHALA, Himachal Pradesh 176314",
+    "area": "Sultanpur",
+    "latitude": 32.571483799999996,
+    "longitude": 76.1189086,
+    "place_id": "ChIJJYDeIBS9HDkRqZlu5o_E6Ig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYDeIBS9HDkRqZlu5o_E6Ig",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:50:11"
+  }
+]

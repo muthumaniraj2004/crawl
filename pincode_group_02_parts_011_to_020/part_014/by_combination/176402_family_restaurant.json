@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunshine Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bakery and Cake Shop, Guest house, Hotel",
+    "pincode": "176402",
+    "phone_number": "+91 75289 07777",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "V.Po, opp. New DC office, Budha Nagar, Malikpur, Pathankot, Punjab 145025",
+    "area": "Budha Nagar, Malikpur",
+    "latitude": 32.2728313,
+    "longitude": 75.594414,
+    "place_id": "ChIJM8tdDmJ5HDkRXETOJlbCiCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8tdDmJ5HDkRXETOJlbCiCY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:46"
+  },
+  {
+    "business_name": "TAWA TANDOOR",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "176402",
+    "phone_number": "+91 95011 27323",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dhangu Rd, near Pizza Cafe, Bank Colony, Sunder Nagar, Pathankot, Punjab 145001",
+    "area": "Bank Colony, Sunder Nagar",
+    "latitude": 32.2588662,
+    "longitude": 75.6509408,
+    "place_id": "ChIJvyP45dt_HDkRdST8UUebRgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyP45dt_HDkRdST8UUebRgQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:46"
+  }
+]

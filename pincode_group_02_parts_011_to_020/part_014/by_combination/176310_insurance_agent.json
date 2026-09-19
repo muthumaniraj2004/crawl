@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ICICI Prudential Life Insurance Company Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, Life insurance agency",
+    "pincode": "176310",
+    "phone_number": "+91 1800 2660",
+    "website": "http://www.iciciprulife.com/",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "2nd Floor, Shop No. 5 & 6 Mohalla Julakari, Bharmour Chowk, above ICICI Bank Limited, Upper Jalukari, Chamba, Himachal Pradesh 176318",
+    "area": "Upper Jalukari",
+    "latitude": 32.5510892,
+    "longitude": 76.1321547,
+    "place_id": "ChIJ93uy1h69HDkRGFeH5J8U-TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93uy1h69HDkRGFeH5J8U-TY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:43:00"
+  },
+  {
+    "business_name": "DialforInsurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Service establishment",
+    "pincode": "176310",
+    "phone_number": "+91 76500 95552",
+    "website": "http://www.dialforinsurance.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DialforInsurance, 176310, India",
+    "area": "176310",
+    "latitude": 32.5473482,
+    "longitude": 76.13122249999999,
+    "place_id": "ChIJAYaNsH8-WysRJmX8LZ0Bcw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYaNsH8-WysRJmX8LZ0Bcw0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:43:00"
+  }
+]

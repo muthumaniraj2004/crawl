@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dmed Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "2QPF+4G8, Turkapally, Narayankhed (CT), Telangana 502286",
+    "area": "Turkapally",
+    "latitude": 18.035297099999998,
+    "longitude": 77.7738382,
+    "place_id": "ChIJsT4JsdSjzjsRYWoT3b9BZjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsT4JsdSjzjsRYWoT3b9BZjM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:51:08"
+  },
+  {
+    "business_name": "DMed Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "176315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Govt District hospital, Hanuman Tekidi, Raigadda, Wanaparthy, Telangana 509103",
+    "area": "Hanuman Tekidi, Raigadda",
+    "latitude": 16.3638559,
+    "longitude": 78.0646342,
+    "place_id": "ChIJTxFSr0IFyjsRsShqBpRR12w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxFSr0IFyjsRsShqBpRR12w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:51:08"
+  }
+]

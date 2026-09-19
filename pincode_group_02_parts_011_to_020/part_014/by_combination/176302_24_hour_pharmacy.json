@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapil pharma medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "G4HW+938, Karian, Chamba, Himachal Pradesh 176318",
+    "area": "Karian",
+    "latitude": 32.5284042,
+    "longitude": 76.14521529999999,
+    "place_id": "ChIJP_GkQhK9HDkRszi93DhYBNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_GkQhK9HDkRszi93DhYBNw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:29:27"
+  },
+  {
+    "business_name": "Daily Dose Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "176302",
+    "phone_number": "+91 85580 65502",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Booth No. 116, Commercial 1, New Chandigarh, Punjab 140901",
+    "area": "176302",
+    "latitude": 30.810553,
+    "longitude": 76.7287111,
+    "place_id": "ChIJGc7r3K_xDzkRnVq1aQ57oFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGc7r3K_xDzkRnVq1aQ57oFI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:29:28"
+  }
+]

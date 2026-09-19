@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adi home",
+    "search_category": "Exhibitions",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "176313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C24P+53G, Baloh, Himachal Pradesh 176302",
+    "area": "176313",
+    "latitude": 32.4054441,
+    "longitude": 76.0351877,
+    "place_id": "ChIJm6edTgCZHDkRRzG-F8VR-kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6edTgCZHDkRRzG-F8VR-kU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:48:40"
+  },
+  {
+    "business_name": "Rajasthan exhibition and sales",
+    "search_category": "Exhibitions",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "176313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "XP49+54R, Kumarapalli, Thubarahalli, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Kumarapalli, Thubarahalli, Whitefield",
+    "latitude": 12.9554882,
+    "longitude": 77.7177796,
+    "place_id": "ChIJvSwgACATrjsR0ns4Ef6GTBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSwgACATrjsR0ns4Ef6GTBs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:48:40"
+  }
+]

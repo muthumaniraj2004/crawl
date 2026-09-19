@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NHPC Chamera 2 Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "NHPC Colony, Chamba, Himachal Pradesh 176318",
+    "area": "NHPC Colony",
+    "latitude": 32.5283388,
+    "longitude": 76.14199839999999,
+    "place_id": "ChIJt66ut_m8HDkR6mIKElE8Epw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt66ut_m8HDkR6mIKElE8Epw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:43:51"
+  },
+  {
+    "business_name": "Dr. raj kumar soorya",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "176311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G4JW+23J, Karian, Chamba, Himachal Pradesh 176318",
+    "area": "Karian",
+    "latitude": 32.5300872,
+    "longitude": 76.14514059999999,
+    "place_id": "ChIJH_RnAgC9HDkRrTOCASFsqSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_RnAgC9HDkRrTOCASFsqSA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:43:51"
+  }
+]

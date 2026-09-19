@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VetPathshala",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "177023",
+    "phone_number": "+91 89886 09623",
+    "website": "https://vetpathshalabooks.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VetPathshala, 177023, India",
+    "area": "177023",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJt1mjZ_y3QYQRteCGt_ownKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1mjZ_y3QYQRteCGt_ownKQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:34:33"
+  },
+  {
+    "business_name": "BBN Abacus Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "177023",
+    "phone_number": "+91 82620 44666",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2nd Floor, above Deep & Company, Kohta, Hamirpur, Himachal Pradesh 177001",
+    "area": "Kohta",
+    "latitude": 31.6863572,
+    "longitude": 76.52267739999999,
+    "place_id": "ChIJTY2py0vUBDkRQgHZKExm16w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTY2py0vUBDkRQgHZKExm16w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:34:35"
+  }
+]

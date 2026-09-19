@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Travel Way",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Cabin rental agency, Car leasing service, Taxi service, Tour agency",
+    "pincode": "176319",
+    "phone_number": "+91 99582 09999",
+    "website": "http://indiatravelway.com/",
+    "rating": 4.6,
+    "reviews_count": 284,
+    "address": "near Hotel Park Residency, Aleo, Manali, Himachal Pradesh 175131",
+    "area": "Aleo",
+    "latitude": 32.2317061,
+    "longitude": 77.1963486,
+    "place_id": "ChIJAQDcK8XvDzkR-2ng04xoT_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDcK8XvDzkR-2ng04xoT_Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:38"
+  },
+  {
+    "business_name": "Himalayan Trips LLP",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Taxi service, Travel agency",
+    "pincode": "176319",
+    "phone_number": "+91 98054 00248",
+    "website": "http://himalyantrips.com/",
+    "rating": 4.6,
+    "reviews_count": 2369,
+    "address": "Chureshwar Bhawan, Chowk, below SBI ATM, Dhalli, Shimla, Himachal Pradesh 171012",
+    "area": "Dhalli",
+    "latitude": 31.108405299999998,
+    "longitude": 77.213208,
+    "place_id": "ChIJK6QtlrGDBTkR6ZKjMHGwgco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6QtlrGDBTkR6ZKjMHGwgco",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:40"
+  }
+]

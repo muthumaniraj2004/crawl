@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalayan_getaway_tours",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Villa Mandhiyar, Goli, Himachal Pradesh 176306",
+    "area": "176308",
+    "latitude": 32.579518,
+    "longitude": 75.9884342,
+    "place_id": "ChIJVWhNKD6THDkRgSZ6TrZaQbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWhNKD6THDkRgSZ6TrZaQbs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:43"
+  },
+  {
+    "business_name": "Shiv Shakti Tour & Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Service establishment",
+    "pincode": "176308",
+    "phone_number": "N/A",
+    "website": "https://shivshaktitrip.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shiv Shakti Tour & Travel, 176308, India",
+    "area": "176308",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJtyftrfS1JwQRwcmno5t9MeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyftrfS1JwQRwcmno5t9MeY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:43"
+  }
+]

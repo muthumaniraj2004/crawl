@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sygma Enterprises",
+    "search_category": "Importers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "177021",
+    "phone_number": "N/A",
+    "website": "http://sygmaenterprises.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khasra No. 308, Burranwala, P.o. Barotowala, opp. Hindustan Unilever Ltd, Baddi, Himachal Pradesh 174103",
+    "area": "177021",
+    "latitude": 30.8973257,
+    "longitude": 76.8605292,
+    "place_id": "ChIJVVVVVQWLDzkRlTI59ASKpEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVQWLDzkRlTI59ASKpEI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:31:30"
+  },
+  {
+    "business_name": "HIM Overseas",
+    "search_category": "Importers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "177021",
+    "phone_number": "+91 98724 15552",
+    "website": "http://www.himoverseas.com/",
+    "rating": 3.6,
+    "reviews_count": 18,
+    "address": "Vill, Maganpura, Himachal Pradesh 174101",
+    "area": "Vill",
+    "latitude": 31.0286238,
+    "longitude": 76.6553053,
+    "place_id": "ChIJ-6oiehtaBTkRrc1ljb6anYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6oiehtaBTkRrc1ljb6anYU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:31:31"
+  }
+]

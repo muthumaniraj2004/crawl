@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N.D Cakes & Bakes",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176402",
+    "phone_number": "+91 88377 20176",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhangu Rd, near Balaji hospital, Sain Garh, Pathankot, Punjab 145001",
+    "area": "Sain Garh",
+    "latitude": 32.2638949,
+    "longitude": 75.65027599999999,
+    "place_id": "ChIJG5xEFPx_HDkRCmd2WXzIjz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5xEFPx_HDkRCmd2WXzIjz8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:39"
+  },
+  {
+    "business_name": "Vanilla Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176402",
+    "phone_number": "+91 82787 54019",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Road, near Colliné Cafe, RPGMC, Tanda, Kangra, Himachal Pradesh 176002",
+    "area": "RPGMC",
+    "latitude": 32.100611199999996,
+    "longitude": 76.3063616,
+    "place_id": "ChIJJd1si95PGzkRsIeH52aVWEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJd1si95PGzkRsIeH52aVWEE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:39"
+  }
+]

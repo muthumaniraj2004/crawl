@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM wonder world",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "176302",
+    "phone_number": "+91 98169 80832",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jot road, sundli chowk, Chuari Khas, Himachal Pradesh 176302",
+    "area": "sundli chowk",
+    "latitude": 32.4329769,
+    "longitude": 76.0104393,
+    "place_id": "ChIJIemHH0iZHDkRNwfCBBXHTcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIemHH0iZHDkRNwfCBBXHTcA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:29:01"
+  },
+  {
+    "business_name": "Urs Supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176302",
+    "phone_number": "+91 94180 91033",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 446,
+    "address": "Rajgarh Rd, Kawgri, Solan, Himachal Pradesh 173211",
+    "area": "Kawgri",
+    "latitude": 30.889481,
+    "longitude": 77.10551079999999,
+    "place_id": "ChIJG9LQnVWBDzkRoMPqVogz5Lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9LQnVWBDzkRoMPqVogz5Lg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:29:02"
+  }
+]

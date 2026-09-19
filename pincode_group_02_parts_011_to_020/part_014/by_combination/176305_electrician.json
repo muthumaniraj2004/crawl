@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Mechanic Dalhousie",
+    "search_category": "Electrician",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "176305",
+    "phone_number": "+91 82639 40995",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bus Stand, Moti Tiba, Dalhousie, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.538390299999996,
+    "longitude": 75.96642729999999,
+    "place_id": "ChIJOwiKgcKRHDkRIeAJLWx1TH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwiKgcKRHDkRIeAJLWx1TH8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:35:17"
+  },
+  {
+    "business_name": "Itz Santosh Electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "176305",
+    "phone_number": "N/A",
+    "website": "http://itzsantoshelectrician.ni/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bus stand, New, Banjar, Himachal Pradesh 175123",
+    "area": "176305",
+    "latitude": 31.644726499999997,
+    "longitude": 77.34472869999999,
+    "place_id": "ChIJdfNv_cCvBTkRO3QzebObEjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfNv_cCvBTkRO3QzebObEjY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:35:17"
+  }
+]

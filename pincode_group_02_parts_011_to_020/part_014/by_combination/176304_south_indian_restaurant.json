@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Restaurant Romany",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176304",
+    "phone_number": "+91 88907 54646",
+    "website": "https://hotelromanymanali.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rohtang Road Opposite GSS School Goshal, po, vill, Bahang, Manali, Himachal Pradesh 175103",
+    "area": "vill",
+    "latitude": 32.2772765,
+    "longitude": 77.1802409,
+    "place_id": "ChIJgzp8O3uHBDkRL6R4JJvKmFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzp8O3uHBDkRL6R4JJvKmFM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:32:50"
+  },
+  {
+    "business_name": "The Kettle House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "176304",
+    "phone_number": "+91 72007 80496",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "GXQ8+HR2, near Dalhousie Club, Moti Tiba, Dalhousie, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.5388808,
+    "longitude": 75.96702309999999,
+    "place_id": "ChIJK72LMWqRHDkR80pZL_BULz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK72LMWqRHDkR80pZL_BULz8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:32:51"
+  }
+]

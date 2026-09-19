@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TR Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "176306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M228+34X, Unnamed Road, Himachal Pradesh 176308",
+    "area": "Kandi village",
+    "latitude": 32.650238,
+    "longitude": 76.01535249999999,
+    "place_id": "ChIJWbuNPwaVHDkRtJzZs4C8tGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbuNPwaVHDkRtJzZs4C8tGI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:37:45"
+  },
+  {
+    "business_name": "Panchtatva",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176306",
+    "phone_number": "+91 85751 82222",
+    "website": "https://panchtatvahotel.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "po, Dugh, Dradda, Chamba, Himachal Pradesh 176306",
+    "area": "Dugh",
+    "latitude": 32.6063926,
+    "longitude": 76.0193395,
+    "place_id": "ChIJpUclkN2VHDkR93aUgKT3avw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUclkN2VHDkR93aUgKT3avw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:37:45"
+  }
+]

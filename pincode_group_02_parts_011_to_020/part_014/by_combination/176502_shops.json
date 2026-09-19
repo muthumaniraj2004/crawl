@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur shop",
+    "search_category": "Shops",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "176502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W2GG+4VG, MDR46, Rail, Himachal Pradesh 177106",
+    "area": "176502",
+    "latitude": 31.9253,
+    "longitude": 76.027214,
+    "place_id": "ChIJu7jYAAAVGzkR3fYX4gpk9sI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7jYAAAVGzkR3fYX4gpk9sI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:19:32"
+  },
+  {
+    "business_name": "Laddi Karyana shop",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176502",
+    "phone_number": "+91 98054 92002",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "V.NARI P.O. GHATI BILWAN, TEH, JASWAN, Himachal Pradesh 176501",
+    "area": "176502",
+    "latitude": 31.9311507,
+    "longitude": 75.94597949999999,
+    "place_id": "ChIJzaOndZsTGzkRMfsY8mS4huk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaOndZsTGzkRMfsY8mS4huk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:19:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Awah",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "177021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PM6F+GGG, Awah Devi, Himachal Pradesh 177601",
+    "area": "177021",
+    "latitude": 31.7113177,
+    "longitude": 76.6738432,
+    "place_id": "ChIJOWyDBwDZBDkRQXtzCawIFbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWyDBwDZBDkRQXtzCawIFbE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:31:14"
+  },
+  {
+    "business_name": "Panjot talai",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "177021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MMR8+6J5, Tauni Devi, Panjot, Himachal Pradesh 177025",
+    "area": "177021",
+    "latitude": 31.690503099999997,
+    "longitude": 76.6666163,
+    "place_id": "ChIJebrZAADZBDkRoKgxT1qZKBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebrZAADZBDkRoKgxT1qZKBk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:31:15"
+  }
+]

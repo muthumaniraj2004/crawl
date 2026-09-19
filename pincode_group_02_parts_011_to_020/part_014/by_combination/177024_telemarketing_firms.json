@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iconiq Consulting",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Business management consultant, Service establishment, Website designer",
+    "pincode": "177024",
+    "phone_number": "+91 98825 66628",
+    "website": "https://www.iconiqconsulting.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Iconiq Consulting, 177024, India",
+    "area": "177024",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ96X4pqa28SsR9LF7N4RVQS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96X4pqa28SsR9LF7N4RVQS0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:36:45"
+  },
+  {
+    "business_name": "Hpwebstar",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "177024",
+    "phone_number": "N/A",
+    "website": "https://hpwebstar.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hpwebstar, 177024, India",
+    "area": "177024",
+    "latitude": 45.050399899999995,
+    "longitude": -47.802320699999996,
+    "place_id": "ChIJNRlfutC8R6URJrit8nOOL3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNRlfutC8R6URJrit8nOOL3U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:36:45"
+  }
+]

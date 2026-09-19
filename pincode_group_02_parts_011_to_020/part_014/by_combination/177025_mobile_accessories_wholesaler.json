@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S Sons Mobile Electronic Store",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "177025",
+    "phone_number": "+91 78071 00002",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Basement of IDBI Bank, Himachal Pradesh 177001",
+    "area": "Pratap Nagar",
+    "latitude": 31.6900327,
+    "longitude": 76.5190547,
+    "place_id": "ChIJ3-JMKK_VBDkRc-Qyk9WQcXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-JMKK_VBDkRc-Qyk9WQcXk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:38:05"
+  },
+  {
+    "business_name": "Mobile Shop Thakur Communication",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "177025",
+    "phone_number": "+91 82194 38158",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Dagrahan, Himachal Pradesh 174011",
+    "area": "177025",
+    "latitude": 31.279061199999997,
+    "longitude": 76.71300099999999,
+    "place_id": "ChIJkarE6glHBTkRmjEwaKVkzmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkarE6glHBTkRmjEwaKVkzmg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:38:08"
+  }
+]

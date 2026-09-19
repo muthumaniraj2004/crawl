@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Electronics and internet cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "177021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "MMMF+6VV, Vill Jouh Po Chamboh Teh, Distt, Bhoranj, Himachal Pradesh 177601",
+    "area": "177021",
+    "latitude": 31.6831088,
+    "longitude": 76.6746764,
+    "place_id": "ChIJL9JM6CDZBDkRhf8NrN2b7os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9JM6CDZBDkRhf8NrN2b7os",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:31:11"
+  },
+  {
+    "business_name": "nagrik sewa kendra",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Lodging",
+    "pincode": "177021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near SBI, Awah Devi, Himachal Pradesh 177601",
+    "area": "177021",
+    "latitude": 31.7127166,
+    "longitude": 76.67375659999999,
+    "place_id": "ChIJg2Fa7STZBDkR5A4x93YRkPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2Fa7STZBDkR5A4x93YRkPg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:31:11"
+  }
+]

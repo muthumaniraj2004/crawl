@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Motors Car Service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "177005",
+    "phone_number": "+91 99848 35411",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Baddupur - Mohabbatpur Rd, Bholepur, Farrukhabad, Uttar Pradesh 209601",
+    "area": "Bholepur",
+    "latitude": 27.367929099999998,
+    "longitude": 79.6056602,
+    "place_id": "ChIJn8XuF4wxnjkR2YmnXnm_uDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8XuF4wxnjkR2YmnXnm_uDc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:23:40"
+  },
+  {
+    "business_name": "NEW ALFA CAR MECHANIC",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto electrical service, Diagnostic center, Mechanic",
+    "pincode": "177005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Zaheerabad, Telangana 502220",
+    "area": "177005",
+    "latitude": 17.6836959,
+    "longitude": 77.5909923,
+    "place_id": "ChIJnyODnM61zjsRKTlk3vcurQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyODnM61zjsRKTlk3vcurQc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:23:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "176323",
+    "phone_number": "+91 94250 82574",
+    "website": "http://www.agrawalsweets.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "G-4, 86/47, Sapna Sangeeta Rd, Indra Complex, Snehnagar, Indore, Madhya Pradesh 452001",
+    "area": "Indra Complex, Snehnagar",
+    "latitude": 22.7010361,
+    "longitude": 75.86972449999999,
+    "place_id": "ChIJh2gdCuL8YjkRbo3BVFnLCNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2gdCuL8YjkRbo3BVFnLCNU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:34"
+  },
+  {
+    "business_name": "New Shanti Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "176323",
+    "phone_number": "+91 98319 26824",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "53, Vivekananda Rd, near metro station, Girish Park, Azad Hind Bag, crossing, Kolkata, West Bengal 700006",
+    "area": "Girish Park, Azad Hind Bag, crossing",
+    "latitude": 22.586402399999997,
+    "longitude": 88.3629323,
+    "place_id": "ChIJtdBktUp2AjoRLk5CiXTcp5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdBktUp2AjoRLk5CiXTcp5o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:34"
+  }
+]

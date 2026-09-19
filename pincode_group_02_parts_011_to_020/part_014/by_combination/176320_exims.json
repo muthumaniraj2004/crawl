@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diur",
+    "search_category": "EXIMS",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "176320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Chamba, Bhinga, Himachal Pradesh 176320",
+    "area": "176320",
+    "latitude": 32.7363624,
+    "longitude": 76.051884,
+    "place_id": "ChIJF6uNMBfpHDkRS6G2k9JlICI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6uNMBfpHDkRS6G2k9JlICI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:01:27"
+  },
+  {
+    "business_name": "Solix Exim Pvt Ltd",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "176320",
+    "phone_number": "N/A",
+    "website": "https://www.solixexim.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SCO 373, Sector 32D, Sector 32, Chandigarh, 160030",
+    "area": "Sector 32D, Sector 32",
+    "latitude": 30.7096448,
+    "longitude": 76.7729653,
+    "place_id": "ChIJU21kihXtDzkR5A7fRsCD9ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU21kihXtDzkR5A7fRsCD9ms",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:01:27"
+  }
+]

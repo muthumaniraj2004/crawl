@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bansal Super Market",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176310",
+    "phone_number": "+91 2676 220 090",
+    "website": "https://www.bansalsupermarket.com/",
+    "rating": 4.2,
+    "reviews_count": 777,
+    "address": "Manibhadra trading Rinky Chowkdi, opposite Bank Of Baroda, Halol, Gujarat 389350",
+    "area": "Halol G I D C",
+    "latitude": 22.5303772,
+    "longitude": 73.46618339999999,
+    "place_id": "ChIJs3QSAQuBYDkRy1dj7vgb8ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3QSAQuBYDkRy1dj7vgb8ZY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:43"
+  },
+  {
+    "business_name": "Shree Neelkanth Super Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "176310",
+    "phone_number": "+91 99988 84989",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 21,
+    "address": "Ankleshwer Mahadev Road, Godhra, opp. Panchal Hospital, Panchmahal, Gujarat 389001",
+    "area": "Panchmahal",
+    "latitude": 22.7777924,
+    "longitude": 73.6241682,
+    "place_id": "ChIJEVOFxUOaYDkR55YDY8Bwtbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVOFxUOaYDkR55YDY8Bwtbo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:43"
+  }
+]

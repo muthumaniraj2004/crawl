@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhola Shola",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "176302",
+    "phone_number": "+91 82890 88895",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 33,
+    "address": "QXQV+23M, near SH 25, Daulatpur, Himachal Pradesh 177204",
+    "area": "176302",
+    "latitude": 31.787589099999998,
+    "longitude": 75.9926642,
+    "place_id": "ChIJp-ONB9MRGzkRFtOnxI36ox4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-ONB9MRGzkRFtOnxI36ox4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:29:08"
+  },
+  {
+    "business_name": "Barko The Pet Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet groomer, Pet store, Veterinary pharmacy",
+    "pincode": "176302",
+    "phone_number": "+91 78144 44421",
+    "website": "https://barkopetstore.com/sector-11-panchkula.html",
+    "rating": 4.8,
+    "reviews_count": 59,
+    "address": "Sco 106, Inner Market, Sector 11, Panchkula, Haryana 134109",
+    "area": "Sector 11",
+    "latitude": 30.6853508,
+    "longitude": 76.8538013,
+    "place_id": "ChIJbcehTFCTDzkRPufPkskOAh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcehTFCTDzkRPufPkskOAh0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:29:09"
+  }
+]

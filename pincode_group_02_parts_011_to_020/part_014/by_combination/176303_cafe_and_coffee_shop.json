@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Italian restaurant",
+    "all_categories": "Italian restaurant",
+    "pincode": "176303",
+    "phone_number": "+91 90566 62031",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Pizza cafe, Banikhet, Himachal Pradesh 176303",
+    "area": "176303",
+    "latitude": 32.5474573,
+    "longitude": 75.9454774,
+    "place_id": "ChIJRxG47qaRHDkR2tLxviJaok8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxG47qaRHDkR2tLxviJaok8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:31:00"
+  },
+  {
+    "business_name": "Mountain Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Restaurant",
+    "pincode": "176303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "GXQ9+HVR, Thandi Sadak, Moti Tiba, Dalhousie, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.538976,
+    "longitude": 75.9696352,
+    "place_id": "ChIJmUPp-1uRHDkRx2AvIe-koJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUPp-1uRHDkRx2AvIe-koJo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:31:03"
+  }
+]

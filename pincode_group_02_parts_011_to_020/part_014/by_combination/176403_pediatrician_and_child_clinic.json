@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Ravi Sharma",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "176403",
+    "phone_number": "+91 98885 26180",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "near Gandhi Chonk, Sarain Mohalla, Pathankot, Punjab 145001",
+    "area": "Sarain Mohalla",
+    "latitude": 32.2754172,
+    "longitude": 75.6514649,
+    "place_id": "ChIJr4srYZN_HDkRxIFyZzY5fdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4srYZN_HDkRxIFyZzY5fdk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:49"
+  },
+  {
+    "business_name": "Ashok Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near War Gym, Pathankot, Punjab 145001",
+    "area": "176403",
+    "latitude": 32.2611154,
+    "longitude": 75.6560447,
+    "place_id": "ChIJKT1oKLJ_HDkR2C170dicx3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKT1oKLJ_HDkR2C170dicx3s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Money",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer",
+    "pincode": "176315",
+    "phone_number": "N/A",
+    "website": "http://www.bharmour.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CGVM+45M V.p.o, teh, Bharmour, Himachal Pradesh 176315",
+    "area": "176315",
+    "latitude": 32.442848999999995,
+    "longitude": 76.53292689999999,
+    "place_id": "ChIJ2yDzKXBTAzkRL9CGXaKww54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2yDzKXBTAzkRL9CGXaKww54",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:52:17"
+  },
+  {
+    "business_name": "Foxy Advertising",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "176315",
+    "phone_number": "+91 91545 40207",
+    "website": "https://www.foxyadvertising.in/",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "address": "Flat 49, MVP Double Rd, opposite Brindavan Park, Sector 11, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Sector 11, MVP Colony",
+    "latitude": 17.7385052,
+    "longitude": 83.3384641,
+    "place_id": "ChIJf91Y3-RFOToRcJVxzwubY2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf91Y3-RFOToRcJVxzwubY2s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:52:18"
+  }
+]

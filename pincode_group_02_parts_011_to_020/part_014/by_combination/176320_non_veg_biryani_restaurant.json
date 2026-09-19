@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parray hotel &restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "176320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "QQ9X+46V, Badhyal, Barmota, lowang 184206",
+    "area": "176320",
+    "latitude": 32.767854,
+    "longitude": 75.798034,
+    "place_id": "ChIJ9RArUwD3HDkREa89KmzWo20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RArUwD3HDkREa89KmzWo20",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:59:54"
+  },
+  {
+    "business_name": "Kwality Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant, Biryani restaurant, Restaurant",
+    "pincode": "176320",
+    "phone_number": "+91 751 241 0456",
+    "website": "https://www.kwality.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Green Garden Rd, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474009",
+    "area": "City Center, Tulsi Vihar Colony",
+    "latitude": 26.2084343,
+    "longitude": 78.1893178,
+    "place_id": "ChIJW6zZvBzEdjkR0n5vj3cu5M8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6zZvBzEdjkR0n5vj3cu5M8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:59:56"
+  }
+]

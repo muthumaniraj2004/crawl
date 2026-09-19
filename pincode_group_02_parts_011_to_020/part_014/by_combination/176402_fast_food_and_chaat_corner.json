@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A-1 Chat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176402",
+    "phone_number": "+91 186 223 0076",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "7M62+J9J, Dhangu Rd, next to Riksha stan, opposite Popin Pizza point, Shiva Ji Nagar, Model Town, Pathankot, Punjab 145001",
+    "area": "Shiva Ji Nagar, Model Town",
+    "latitude": 32.2615888,
+    "longitude": 75.6508976,
+    "place_id": "ChIJMV64MWR_HDkRgP_3nn9r6kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMV64MWR_HDkRgP_3nn9r6kI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:45"
+  },
+  {
+    "business_name": "Bajrang Chat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176402",
+    "phone_number": "+91 99885 25956",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dalhousie Road, Guru Nanak Nagar, Pathankot, Punjab 145001",
+    "area": "Guru Nanak Nagar",
+    "latitude": 32.272716599999995,
+    "longitude": 75.65677629999999,
+    "place_id": "ChIJYyXTuvt_HDkR7wzImoVOWrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyXTuvt_HDkR7wzImoVOWrE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:45"
+  }
+]

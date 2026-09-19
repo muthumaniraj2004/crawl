@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhareri",
+    "search_category": "Shops",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "177024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MM2Q+J73, Bhareri, Himachal Pradesh 177024",
+    "area": "177024",
+    "latitude": 31.6515123,
+    "longitude": 76.68818329999999,
+    "place_id": "ChIJd9uYRgAnBTkR5B47dN-VqBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9uYRgAnBTkR5B47dN-VqBA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:36:48"
+  },
+  {
+    "business_name": "Ajay auto mobile services",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "177024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JP62+R7J, Sulgwan - Bhareri Rd, Bhareri, Himachal Pradesh 177118",
+    "area": "177024",
+    "latitude": 31.6120859,
+    "longitude": 76.7006512,
+    "place_id": "ChIJd4IOQgAnBTkRHmIQCJgI9_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4IOQgAnBTkRHmIQCJgI9_8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:36:51"
+  }
+]

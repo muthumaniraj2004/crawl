@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Service Station",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "176402",
+    "phone_number": "+91 88729 41106",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "Bhadroya, Pathankot, Punjab 145001",
+    "area": "Bhadroya",
+    "latitude": 32.274713999999996,
+    "longitude": 75.68250479999999,
+    "place_id": "ChIJzz42V61_HDkR_Ox1iniuXp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzz42V61_HDkR_Ox1iniuXp0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:08"
+  },
+  {
+    "business_name": "Danny Car Care & Spa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto repair shop",
+    "pincode": "176402",
+    "phone_number": "+91 83607 21272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Backside Mittal Hotel, Jalandhar - Dalhousie Bypass, near Suvidha Royal, Pathankot, Punjab 145001",
+    "area": "176402",
+    "latitude": 32.2596237,
+    "longitude": 75.6690139,
+    "place_id": "ChIJyd72vH9_HDkRnjukVvqFLEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyd72vH9_HDkRnjukVvqFLEE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:08"
+  }
+]

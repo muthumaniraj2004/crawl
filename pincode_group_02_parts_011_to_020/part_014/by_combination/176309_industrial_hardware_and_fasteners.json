@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Industries",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier",
+    "pincode": "176309",
+    "phone_number": "+91 98141 83113",
+    "website": "http://www.steelscrew.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 318, Phase 1, Industrial Area Phase I, Chandigarh, 160002",
+    "area": "Phase 1, Industrial Area Phase I",
+    "latitude": 30.6968599,
+    "longitude": 76.8013114,
+    "place_id": "ChIJp5IB4IvtDzkRGpHY4Cr-cUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5IB4IvtDzkRGpHY4Cr-cUs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:25"
+  },
+  {
+    "business_name": "Mahindra Fasteners",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier",
+    "pincode": "176309",
+    "phone_number": "N/A",
+    "website": "http://www.mahindrafasteners.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J2GF+27Q, Asian Paint, Chokdi, Ankleshwar GIDC, Ankleshwar, Anklesvar INA, Gujarat 393002",
+    "area": "Chokdi, Ankleshwar GIDC",
+    "latitude": 21.6250981,
+    "longitude": 73.0232229,
+    "place_id": "ChIJwWr1TwAj4DsRZNktiQ-yhw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWr1TwAj4DsRZNktiQ-yhw4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:27"
+  }
+]

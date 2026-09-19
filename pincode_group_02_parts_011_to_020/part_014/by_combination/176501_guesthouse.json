@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotal Dawat",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176501",
+    "phone_number": "+91 98160 15533",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 28,
+    "address": "Behr, Himachal Pradesh 177111",
+    "area": "176501",
+    "latitude": 31.8799922,
+    "longitude": 75.99215,
+    "place_id": "ChIJtW5lgrkTGzkR3JVJ-N3rFvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW5lgrkTGzkR3JVJ-N3rFvA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:17:09"
+  },
+  {
+    "business_name": "Harry Hotel and Restaurant",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176501",
+    "phone_number": "+91 89887 05009",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "WX42+858, MDR42, Jandaur, Mahala, Himachal Pradesh 176501",
+    "area": "176501",
+    "latitude": 31.9057832,
+    "longitude": 75.9504613,
+    "place_id": "ChIJXVNx6CUTGzkRkOT131moNkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVNx6CUTGzkRkOT131moNkY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:17:09"
+  }
+]

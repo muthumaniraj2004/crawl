@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eicher Tractors Dealerships - Sridurga Tractor",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Tractor parts store, Tractor repair shop",
+    "pincode": "177001",
+    "phone_number": "+91 79 4716 6661",
+    "website": "https://eichertractors.in/",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "Shop No -649, KP Road, Chattanpalle, Shadnagar, Telangana 509216",
+    "area": "177001",
+    "latitude": 17.059842,
+    "longitude": 78.21243199999999,
+    "place_id": "ChIJiR5lGGPJyzsRmOSdSDp1RPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiR5lGGPJyzsRmOSdSDp1RPk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:21:59"
+  },
+  {
+    "business_name": "HDB FINANCIAL SERVICES LTD",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Business development service, Car finance and loan company, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "177001",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st Floor, No. 8-9, NH 3, near Petrol Pump, Galore, Hamirpur, Himachal Pradesh 177001",
+    "area": "Galore",
+    "latitude": 31.688934999999997,
+    "longitude": 76.516254,
+    "place_id": "ChIJV5UrZjvVBDkR-c79H5lPFWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5UrZjvVBDkR-c79H5lPFWk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:22:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shoe shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176304",
+    "phone_number": "+91 70188 75046",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GWXW+2CG Chawla General Store, V. P. O, Banikhet, Himachal Pradesh 176303",
+    "area": "V. P. O",
+    "latitude": 32.5475621,
+    "longitude": 75.9460677,
+    "place_id": "ChIJFfDnCIKRHDkRAAAAcCFR9kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfDnCIKRHDkRAAAAcCFR9kI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:32:59"
+  },
+  {
+    "business_name": "M/s Himalaya Enterprise",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176304",
+    "phone_number": "+91 189 924 2242",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "GXPG+H9H, Dalhousie Rd, Gandhi Chowk, Moti Tiba, Pathankot, Dalhousie, Himachal Pradesh 176304",
+    "area": "Gandhi Chowk, Moti Tiba",
+    "latitude": 32.536437899999996,
+    "longitude": 75.97597449999999,
+    "place_id": "ChIJX-UfSEeRHDkRU_A6OaKhkrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-UfSEeRHDkRU_A6OaKhkrg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:32:59"
+  }
+]

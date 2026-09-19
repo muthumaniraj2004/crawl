@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudhir Super Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176402",
+    "phone_number": "+91 98143 30142",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 89,
+    "address": "7J6J+8FF, దాకి రోడ్డు, Dhaki, Pathankot, Punjab 145001",
+    "area": "Dhaki",
+    "latitude": 32.2608057,
+    "longitude": 75.63117849999999,
+    "place_id": "ChIJw6BUaFB_HDkRXV4bzWtwmHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6BUaFB_HDkRXV4bzWtwmHE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:49"
+  },
+  {
+    "business_name": "Miniklub - Pathankot",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "176402",
+    "phone_number": "+91 97979 07377",
+    "website": "https://miniklub.in/",
+    "rating": 4.6,
+    "reviews_count": 31,
+    "address": "Dalhousie Road, near Sukhsadan Hospital, Sector 3-A1, Pathankot, Punjab 145001",
+    "area": "Sector 3-A1",
+    "latitude": 32.273226799999996,
+    "longitude": 75.674661,
+    "place_id": "ChIJA_t1MDh_HDkRLWqm_pQr3hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_t1MDh_HDkRLWqm_pQr3hw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:12:50"
+  }
+]

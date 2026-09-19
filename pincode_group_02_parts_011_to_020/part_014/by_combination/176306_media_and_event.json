@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "media tech temple",
+    "search_category": "Media and Event",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Software company, Website designer",
+    "pincode": "176306",
+    "phone_number": "+91 72208 67768",
+    "website": "https://www.mediatechtemple.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "57, Swarn Jayanti Nagar, Jawahar Nagar, Bharatpur, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Swarn Jayanti Nagar, Jawahar Nagar",
+    "latitude": 27.206150299999997,
+    "longitude": 77.4974603,
+    "place_id": "ChIJPb0I7eijczkRCqK0eQsPUE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPb0I7eijczkRCqK0eQsPUE4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:37:26"
+  },
+  {
+    "business_name": "Paura Kothi",
+    "search_category": "Media and Event",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "176306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "C2V2+3CQ, Himachal Pradesh 175031",
+    "area": "176306",
+    "latitude": 31.442716899999997,
+    "longitude": 77.0011069,
+    "place_id": "ChIJjbV4lVIRBTkRXNeT-_YwJxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbV4lVIRBTkRXNeT-_YwJxQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:37:26"
+  }
+]

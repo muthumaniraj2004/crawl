@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chinna Dosaz",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177007",
+    "phone_number": "+91 99152 02835",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 942,
+    "address": "Ground Floor, SCO 143, Sector 28 D, Sector 28, Chandigarh, 160002",
+    "area": "Sector 28 D, Sector 28",
+    "latitude": 30.7187494,
+    "longitude": 76.8017165,
+    "place_id": "ChIJqZwCzojtDzkRD5kCAO9Vv6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZwCzojtDzkRD5kCAO9Vv6c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:26:49"
+  },
+  {
+    "business_name": "Shimla Dhaba",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Dhaba",
+    "pincode": "177007",
+    "phone_number": "+91 92509 10013",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 1087,
+    "address": "34,35 Community Center, Naraina Industrial Area Phase 1, New Delhi, Delhi 110028",
+    "area": "Industrial Area Phase I, Block B, Naraina Industrial Area Phase 1, Naraina",
+    "latitude": 28.6319259,
+    "longitude": 77.13767519999999,
+    "place_id": "ChIJXVR3tyQDDTkRdpb9XGv6zQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVR3tyQDDTkRdpb9XGv6zQo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:26:49"
+  }
+]

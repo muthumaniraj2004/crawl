@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Resort hotel",
+    "pincode": "176302",
+    "phone_number": "+91 94594 69777",
+    "website": "https://www.hotelmsresort.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Church baloon road, near gandhi chowk, Moti Tiba, Dalhousie, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.5388069,
+    "longitude": 75.9748669,
+    "place_id": "ChIJD3P3ZgCRHDkRVbc5xq_RN-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3P3ZgCRHDkRVbc5xq_RN-4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:30:09"
+  },
+  {
+    "business_name": "Mongas, Hotel & Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Resort hotel, Restaurant",
+    "pincode": "176302",
+    "phone_number": "+91 94181 80000",
+    "website": "http://www.hotelmongas.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "The Mall, Gandhi Chowk, Dalhousie, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.535509,
+    "longitude": 75.978326,
+    "place_id": "ChIJVVVVFTiRHDkR7_yjfwl4QMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFTiRHDkR7_yjfwl4QMA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:30:09"
+  }
+]

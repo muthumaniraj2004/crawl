@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Department of Architecture",
+    "search_category": "Architects",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "177005",
+    "phone_number": "N/A",
+    "website": "http://www.nith.ac.in/arch/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NIT Campus, Himachal Pradesh 177005",
+    "area": "177005",
+    "latitude": 31.7091641,
+    "longitude": 76.526333,
+    "place_id": "ChIJNT0UtxTUBDkRE0078GtPfiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNT0UtxTUBDkRE0078GtPfiM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:23:56"
+  },
+  {
+    "business_name": "Kumar dinesh & Associates",
+    "search_category": "Architects",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "177005",
+    "phone_number": "+91 94187 61278",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MGXC+V2P, Anu, Hamirpur, Himachal Pradesh 177005",
+    "area": "Anu",
+    "latitude": 31.699711899999997,
+    "longitude": 76.5200899,
+    "place_id": "ChIJ7YayX0HUBDkRRQCKttS2Lxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YayX0HUBDkRRQCKttS2Lxc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:23:56"
+  }
+]

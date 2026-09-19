@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bali Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "176402",
+    "phone_number": "+91 99886 08422",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "417, New Shastri Nagar, Shastri Nagar, Pathankot, Punjab 145001",
+    "area": "New Shastri Nagar, Shastri Nagar",
+    "latitude": 32.2776569,
+    "longitude": 75.6394564,
+    "place_id": "ChIJVdPnE8F_HDkRT2VvtjbrbVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdPnE8F_HDkRT2VvtjbrbVs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:34"
+  },
+  {
+    "business_name": "Bharat Tent and Manufacturers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier, Cutlery store, Interior Decorator, Restaurant supply store",
+    "pincode": "176402",
+    "phone_number": "+91 98140 98781",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "ahata chownk, Gadhi, Dalhousie Road, near gurudwara, Pathankot, Punjab 145001",
+    "area": "176402",
+    "latitude": 32.273501599999996,
+    "longitude": 75.6549543,
+    "place_id": "ChIJ0e_5d6B_HDkRJJsxOz_itf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0e_5d6B_HDkRJJsxOz_itf0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathankot cantt taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176402",
+    "phone_number": "+91 78148 68776",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 212,
+    "address": "681, New Shastri Nagar, Shastri Nagar, Pathankot, Punjab 145001",
+    "area": "New Shastri Nagar, Shastri Nagar",
+    "latitude": 32.2769487,
+    "longitude": 75.6418535,
+    "place_id": "ChIJRdYkkzl_HDkRaYr4cpb5vGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdYkkzl_HDkRaYr4cpb5vGE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:12"
+  },
+  {
+    "business_name": "Tilak taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176402",
+    "phone_number": "+91 98162 21792",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Taxi Stand, ISBT, Adarsh Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.1104178,
+    "longitude": 76.2782076,
+    "place_id": "ChIJfUb8clJPGzkRxK_RvCES8HI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUb8clJPGzkRxK_RvCES8HI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:14"
+  }
+]

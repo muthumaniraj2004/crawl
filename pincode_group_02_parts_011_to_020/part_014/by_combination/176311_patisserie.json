@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Main bazar rajera",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "G588+373, Main bazar, Rajera, Chamba, Himachal Pradesh 176318",
+    "area": "176311",
+    "latitude": 32.5151446,
+    "longitude": 76.1656849,
+    "place_id": "ChIJNwQ0BAC9HDkRNzLaEJB42Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwQ0BAC9HDkRNzLaEJB42Z8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:43:32"
+  },
+  {
+    "business_name": "Hero Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176311",
+    "phone_number": "+91 98166 40079",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Amb Chowk, Una Rd, Amb, Himachal Pradesh 177203",
+    "area": "176311",
+    "latitude": 31.684292399999997,
+    "longitude": 76.1173414,
+    "place_id": "ChIJOdPeCiciGzkR6zr4o7d1KRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdPeCiciGzkR6zr4o7d1KRk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:43:34"
+  }
+]

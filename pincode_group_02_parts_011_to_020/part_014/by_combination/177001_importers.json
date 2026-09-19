@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aj corporation",
+    "search_category": "Importers",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company, Service establishment",
+    "pincode": "177001",
+    "phone_number": "N/A",
+    "website": "http://www.ajcorporation.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aj corporation, 177001, India",
+    "area": "177001",
+    "latitude": 44.3150453,
+    "longitude": 138.6080201,
+    "place_id": "ChIJ0Vy1yjsf8GsREOQmvF0Ny80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Vy1yjsf8GsREOQmvF0Ny80",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:22:56"
+  },
+  {
+    "business_name": "District Industries Center",
+    "search_category": "Importers",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "177001",
+    "phone_number": "+91 1972 222 309",
+    "website": "http://emerginghimachal.hp.gov.in/",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "MGHG+X7H, Agriculture Colony, Hamirpur, Himachal Pradesh 177001",
+    "area": "Agriculture Colony",
+    "latitude": 31.6799413,
+    "longitude": 76.5257389,
+    "place_id": "ChIJh5twgsrVBDkRCo2B35ULMtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5twgsrVBDkRCo2B35ULMtE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:22:56"
+  }
+]

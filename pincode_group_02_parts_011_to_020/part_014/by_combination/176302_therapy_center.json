@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Cherry Blossoms",
+    "search_category": "Therapy Center",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist",
+    "pincode": "176302",
+    "phone_number": "+91 88025 76036",
+    "website": "https://newcherryblossoms.in/",
+    "rating": 4.7,
+    "reviews_count": 248,
+    "address": "A-156, Vivekanand Marg, opposite gurukul play school, near Kidzee school, Block A, Sector 8 Dwarka, Dwarka, New Delhi, Delhi, 110077",
+    "area": "Block A, Sector 8 Dwarka, Dwarka",
+    "latitude": 28.5745708,
+    "longitude": 77.07275609999999,
+    "place_id": "ChIJv5KjqLAbDTkRvZZ6OKwU0CE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5KjqLAbDTkRvZZ6OKwU0CE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:30:01"
+  },
+  {
+    "business_name": "Dr Kiran Vaid Physiotherapy Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "176302",
+    "phone_number": "+91 70092 81924",
+    "website": "https://a2zcitydirectory.com/pages/dr-kiran-vaid",
+    "rating": 5,
+    "reviews_count": 105,
+    "address": "ground floor, H.no 177, Sector 11, Panchkula, Haryana 134109",
+    "area": "Sector 11",
+    "latitude": 30.6847915,
+    "longitude": 76.8490666,
+    "place_id": "ChIJh3KaEWWTDzkRu-FOQCxzcCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3KaEWWTDzkRu-FOQCxzcCU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:30:01"
+  }
+]

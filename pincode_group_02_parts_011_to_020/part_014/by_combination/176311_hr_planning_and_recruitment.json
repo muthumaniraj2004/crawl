@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HRx Consulting & Search, LLC",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Service establishment, Human resource consulting",
+    "pincode": "176311",
+    "phone_number": "N/A",
+    "website": "https://hrxpertconsulting.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "HRx Consulting & Search, LLC, 176311, India",
+    "area": "176311",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJQcSe8UROgqARYnY1YkVuGsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcSe8UROgqARYnY1YkVuGsM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:44:52"
+  },
+  {
+    "business_name": "HR Consultants, Inc.",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "176311",
+    "phone_number": "N/A",
+    "website": "https://www.hrconsults.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "160 Jari Dr #180, Johnstown, PA 15904, United States",
+    "area": "176311",
+    "latitude": 40.2878646,
+    "longitude": -78.8290323,
+    "place_id": "ChIJCXuvPNsPy4kRiOX7jqQIL50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXuvPNsPy4kRiOX7jqQIL50",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:44:52"
+  }
+]

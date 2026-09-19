@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KUMAR TRADERS",
+    "search_category": "Tradeshows",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market, Aluminium Supplier, Wood supplier",
+    "pincode": "177024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BHARARI, Sajao Piplu Rd, near IPH DIVISION, DHARAMPUR, Sarkaghat, Himachal Pradesh 175025",
+    "area": "DHARAMPUR",
+    "latitude": 31.7453045,
+    "longitude": 76.7083399,
+    "place_id": "ChIJPz2nZ8_ZBDkRYIpPMMdd_Ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPz2nZ8_ZBDkRYIpPMMdd_Ls",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:36:42"
+  },
+  {
+    "business_name": "Taksham Trading Company",
+    "search_category": "Tradeshows",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "177024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Main Market Bum, Ghumarwin Road, Distt, near HP State Co- Op BankTeh, Ghumarwin, Himachal Pradesh 174028",
+    "area": "177024",
+    "latitude": 31.552501099999997,
+    "longitude": 76.7067762,
+    "place_id": "ChIJEya6OEolBTkRwLl2xBUnIsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEya6OEolBTkRwLl2xBUnIsE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:36:42"
+  }
+]

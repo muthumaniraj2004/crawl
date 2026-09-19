@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jasnoor Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "176403",
+    "phone_number": "+91 62393 62313",
+    "website": "https://www.jasnoortourandtravels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 205, Dhangu Rd, Puran Nagar, Sunder Nagar, Pathankot, Punjab 145001",
+    "area": "Puran Nagar, Sunder Nagar",
+    "latitude": 32.2590733,
+    "longitude": 75.6507551,
+    "place_id": "ChIJPTHSEi9_HDkRrFGK7nVOVvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTHSEi9_HDkRrFGK7nVOVvE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:15:00"
+  },
+  {
+    "business_name": "Pathankot Taxi Service by Sharma Tour and Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176403",
+    "phone_number": "+91 77176 96471",
+    "website": "https://sites.google.com/view/sharma-tour-and-travel/",
+    "rating": 5,
+    "reviews_count": 103,
+    "address": "near City Life line hospital, near Dhangu Road, Jodhamal Bagh, Patel Nagar, Pathankot, Punjab 145001",
+    "area": "Jodhamal Bagh, Patel Nagar",
+    "latitude": 32.2667539,
+    "longitude": 75.6510589,
+    "place_id": "ChIJtWH_je9_HDkR4yBORBFMfSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWH_je9_HDkR4yBORBFMfSE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:15:03"
+  }
+]

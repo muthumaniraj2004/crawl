@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dispensary",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P37W+8X6, Choli, Dand, Himachal Pradesh 176319",
+    "area": "176317",
+    "latitude": 32.713291399999996,
+    "longitude": 76.0973814,
+    "place_id": "ChIJ2bN1fADBHDkRfsxlxbJAGiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bN1fADBHDkRfsxlxbJAGiA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:55:16"
+  },
+  {
+    "business_name": "Primary Health Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "176317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P4HJ+MGJ, Kuthar, Himachal Pradesh 176319",
+    "area": "176317",
+    "latitude": 32.729205199999996,
+    "longitude": 76.1312537,
+    "place_id": "ChIJ02HQfvzBHDkRsw34-i7Z6A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02HQfvzBHDkRsw34-i7Z6A4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:55:16"
+  }
+]

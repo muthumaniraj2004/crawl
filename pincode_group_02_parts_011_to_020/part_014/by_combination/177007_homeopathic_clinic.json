@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homoeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177007",
+    "phone_number": "+91 79895 73523",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Siva Sai Puram, Badangpet, Hyderabad, Telangana 500112",
+    "area": "Siva Sai Puram",
+    "latitude": 17.3022511,
+    "longitude": 78.5258118,
+    "place_id": "ChIJHTic_VmiyzsRQq-aCMkH2ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTic_VmiyzsRQq-aCMkH2ro",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:00"
+  },
+  {
+    "business_name": "JIREH HOMEOPATHY - General & Mental health Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "177007",
+    "phone_number": "+91 93907 00672",
+    "website": "https://www.jirehhomeopathy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JIREH HOMEOPATHY CLINIC, NLR PLAZA, beside Jamia Masjid, Muthangi, Patancheruvu, Hyderabad, Telangana 502300",
+    "area": "Muthangi",
+    "latitude": 17.542091499999998,
+    "longitude": 78.2275152,
+    "place_id": "ChIJqXdBvT_zyzsRmkAVAXj0CDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXdBvT_zyzsRmkAVAXj0CDM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:00"
+  }
+]

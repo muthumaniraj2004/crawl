@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Sharma",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176312",
+    "phone_number": "+91 78072 57186",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "062 Bhatoli, P/O, Andral, Chamba, Himachal Pradesh 176312",
+    "area": "P/O",
+    "latitude": 32.6769271,
+    "longitude": 75.9863683,
+    "place_id": "ChIJPxYJ0LbtHDkRUp5PMZQ4EqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxYJ0LbtHDkRUp5PMZQ4EqI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:45:21"
+  },
+  {
+    "business_name": "Kapoor Niwaas",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M3JW+4XR, Khadluie, Dulahar, Himachal Pradesh 176319",
+    "area": "Khadluie",
+    "latitude": 32.680672,
+    "longitude": 76.097537,
+    "place_id": "ChIJIULyAQDBHDkR4nDMnCKTxHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIULyAQDBHDkR4nDMnCKTxHQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:45:21"
+  }
+]

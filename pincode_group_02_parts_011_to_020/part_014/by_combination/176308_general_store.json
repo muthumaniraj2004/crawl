@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAHIL GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Confectionery store",
+    "pincode": "176308",
+    "phone_number": "+91 98053 55707",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zero point, Brangal, Himachal Pradesh 176308",
+    "area": "176308",
+    "latitude": 32.6254128,
+    "longitude": 76.00690569999999,
+    "place_id": "ChIJBVUjZzCVHDkR4nd9yt-jifc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVUjZzCVHDkR4nd9yt-jifc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:08"
+  },
+  {
+    "business_name": "Dheeraj Grocery Shop",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "176308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "J3FX+V6F, Unnamed Road, Bagori Village, Himachal Pradesh 176318",
+    "area": "176308",
+    "latitude": 32.6246767,
+    "longitude": 76.0980409,
+    "place_id": "ChIJ8X3sxM-_HDkRxeYuV5ZStq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8X3sxM-_HDkRxeYuV5ZStq0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:09"
+  }
+]

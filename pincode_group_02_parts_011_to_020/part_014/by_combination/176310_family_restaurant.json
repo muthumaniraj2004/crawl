@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "River front bhojnalya",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "154A, National Highway, Jansali, Chamba, Himachal Pradesh 176314",
+    "area": "Jansali",
+    "latitude": 32.552819899999996,
+    "longitude": 76.12365989999999,
+    "place_id": "ChIJ0S7eJsy9HDkRP5-V5iAipaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S7eJsy9HDkRP5-V5iAipaw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:52"
+  },
+  {
+    "business_name": "Jai maa jalpa tiffin service Chamba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "176310",
+    "phone_number": "+91 93176 66896",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mohla, Sultanpur, Chamba, Himachal Pradesh 176314",
+    "area": "Mohla, Sultanpur",
+    "latitude": 32.5606309,
+    "longitude": 76.11604899999999,
+    "place_id": "ChIJezyEDMu9HDkR-whak5csvf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezyEDMu9HDkR-whak5csvf8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:55"
+  }
+]

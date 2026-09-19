@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bstar gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "176310",
+    "phone_number": "+91 94180 67613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near puri place, Chowgan Mohalla, Chamba, Himachal Pradesh 176318",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5533929,
+    "longitude": 76.12575369999999,
+    "place_id": "ChIJi0AdRQC9HDkRlcv9ipqHJ8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0AdRQC9HDkRlcv9ipqHJ8A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:42:11"
+  },
+  {
+    "business_name": "Sweatt Arena Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "176310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Second Floor, Barotra Parking, near Girls Senior Secondary, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.553393,
+    "longitude": 76.12575369999999,
+    "place_id": "ChIJTVKOXpO9HDkRNor3OfmDOZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVKOXpO9HDkRNor3OfmDOZo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:42:13"
+  }
+]

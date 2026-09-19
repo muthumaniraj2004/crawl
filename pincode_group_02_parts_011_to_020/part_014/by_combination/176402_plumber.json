@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G.S Saggu Sanitary Store",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Bathroom supply store",
+    "pincode": "176402",
+    "phone_number": "+91 83603 20372",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Bank colony, Dhangu Rd, Anguran Wala Bagh, Pathankot, Punjab 145001",
+    "area": "Anguran Wala Bagh",
+    "latitude": 32.2601703,
+    "longitude": 75.6543907,
+    "place_id": "ChIJ_9Y_u11_HDkRGppiW-KFTSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9Y_u11_HDkRGppiW-KFTSw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:22"
+  },
+  {
+    "business_name": "Rattan Chand Gupta & Sons",
+    "search_category": "Plumber",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "176402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Dhangu Rd, Pathankot, Punjab 145001",
+    "area": "176402",
+    "latitude": 32.2709589,
+    "longitude": 75.6522658,
+    "place_id": "ChIJP63VKGx_HDkRzk9bA4R7jog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP63VKGx_HDkRzk9bA4R7jog",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:22"
+  }
+]

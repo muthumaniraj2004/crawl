@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KLM Kidz",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "176402",
+    "phone_number": "+91 186 225 2222",
+    "website": "https://www.klminternationalschool.com/klm-kids/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "LIC Ln, near LIC Office, Jodhamal Colony, Pathankot, Punjab 145001",
+    "area": "Jodhamal Colony",
+    "latitude": 32.265790599999995,
+    "longitude": 75.6523133,
+    "place_id": "ChIJMYR4cG9_HDkRQ_LNX2ywRMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYR4cG9_HDkRQ_LNX2ywRMM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:41"
+  },
+  {
+    "business_name": "Kidzee School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "176402",
+    "phone_number": "+91 82848 81234",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Green Field, Abrol Nagar, Pathankot, Punjab 145001",
+    "area": "Green Field, Abrol Nagar",
+    "latitude": 32.2800575,
+    "longitude": 75.6408975,
+    "place_id": "ChIJe9GlgRR_HDkRTVQQ6Jalrpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9GlgRR_HDkRTVQQ6Jalrpo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:41"
+  }
+]

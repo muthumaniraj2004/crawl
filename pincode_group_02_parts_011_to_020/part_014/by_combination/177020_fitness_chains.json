@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B2 GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "177020",
+    "phone_number": "+91 99888 00744",
+    "website": "http://www.b2gym.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near railway chowk and SBI Bank, Gobind Pura Colony, Sangrur, Punjab 148001",
+    "area": "Gobind Pura Colony",
+    "latitude": 30.2436056,
+    "longitude": 75.83238039999999,
+    "place_id": "ChIJDcmkladREDkRDWZ_jR9V7KY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcmkladREDkRDWZ_jR9V7KY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:47"
+  },
+  {
+    "business_name": "TOWNFIT TRAINING CLUB",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Physical fitness program",
+    "pincode": "177020",
+    "phone_number": "+91 98820 14493",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 107,
+    "address": "Ward no-2, opposite sanskrit college,haripur mohalla, Nahan, Himachal Pradesh 173001",
+    "area": "Sundar Bagh Colony",
+    "latitude": 30.5633272,
+    "longitude": 77.2903645,
+    "place_id": "ChIJa1RpLVANDzkRRCZCjV1xwsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1RpLVANDzkRRCZCjV1xwsA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:28:48"
+  }
+]

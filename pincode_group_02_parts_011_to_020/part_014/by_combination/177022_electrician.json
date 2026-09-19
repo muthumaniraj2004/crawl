@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahil Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Electrical repair shop, Plumber",
+    "pincode": "177022",
+    "phone_number": "+91 84273 98788",
+    "website": "http://www.sahilelectrical06081999.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uhal, Himachal Pradesh 177022",
+    "area": "177022",
+    "latitude": 31.7535703,
+    "longitude": 76.627449,
+    "place_id": "ChIJa0Mdd1bRBDkRe5NLVK3kC4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0Mdd1bRBDkRe5NLVK3kC4E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:27"
+  },
+  {
+    "business_name": "Vijay Electrical Store",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "177022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near post office, Tauni Devi, Himachal Pradesh 177023",
+    "area": "177022",
+    "latitude": 31.7136763,
+    "longitude": 76.59954359999999,
+    "place_id": "ChIJzyJzVoDXBDkRJ77GowiKp8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyJzVoDXBDkRJ77GowiKp8E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:27"
+  }
+]

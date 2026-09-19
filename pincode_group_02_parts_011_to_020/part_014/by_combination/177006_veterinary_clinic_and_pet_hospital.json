@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Small Animal",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet groomer",
+    "all_categories": "Pet groomer, Pet store, Pet supply store",
+    "pincode": "177006",
+    "phone_number": "+91 76967 67885",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 48,
+    "address": "Friends Complex, SCO 2, Arya College Rd, near bansa wali chungi, Kharar, Punjab 140301",
+    "area": "Sector 127, Main Bazar",
+    "latitude": 30.7442334,
+    "longitude": 76.6528009,
+    "place_id": "ChIJDY2HMrHvDzkR_ANIQK6GRtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDY2HMrHvDzkR_ANIQK6GRtY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:25:21"
+  },
+  {
+    "business_name": "Tricity Kennels",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet boarding service",
+    "all_categories": "Pet boarding service, Cattery, Dog breeder, Dog day care center, Emergency veterinarian service, Kennel, Pet adoption service, Pet groomer, Pet store, Veterinary pharmacy",
+    "pincode": "177006",
+    "phone_number": "+91 98555 01155",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 869,
+    "address": "H.B. NO 375, Kochar Farms, Shastri Nagar Rajiv Gandhi Technology Park, Chandigarh 160101",
+    "area": "Kishangarh",
+    "latitude": 30.7204162,
+    "longitude": 76.8238836,
+    "place_id": "ChIJZU12_ijtDzkRnQOb6QUdi3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZU12_ijtDzkRnQOb6QUdi3I",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:25:21"
+  }
+]

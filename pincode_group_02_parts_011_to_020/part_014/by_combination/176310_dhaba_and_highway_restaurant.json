@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaika pishori dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Fast food restaurant, Restaurant",
+    "pincode": "176310",
+    "phone_number": "+91 189 922 4368",
+    "website": "https://www.facebook.com/pages/Zaika-Pishori-Dhaba/508228269293221",
+    "rating": 3.8,
+    "reviews_count": 286,
+    "address": "Ballu market, old, Balu Bridge, Sultanpur, Chamba, Himachal Pradesh 176314",
+    "area": "Sultanpur",
+    "latitude": 32.565702,
+    "longitude": 76.119238,
+    "place_id": "ChIJ_0duW9q9HDkRR-j627pyew8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0duW9q9HDkRR-j627pyew8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:48"
+  },
+  {
+    "business_name": "Churah Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "176310",
+    "phone_number": "+91 70186 56211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R49Q+7G8, Buin, Himachal Pradesh 176316",
+    "area": "176310",
+    "latitude": 32.8171282,
+    "longitude": 76.1393867,
+    "place_id": "ChIJnRvQMQDDHDkRLX8Frx1Q4MA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRvQMQDDHDkRLX8Frx1Q4MA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:51"
+  }
+]

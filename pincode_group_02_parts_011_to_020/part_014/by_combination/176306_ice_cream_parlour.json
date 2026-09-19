@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Embassy ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Mall Rd, Bemloi, Shimla, Himachal Pradesh 171001",
+    "area": "Bemloi",
+    "latitude": 31.102602299999997,
+    "longitude": 77.17528449999999,
+    "place_id": "ChIJU0pXKpR4BTkRWQQPZSbEt9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0pXKpR4BTkRWQQPZSbEt9A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:36:30"
+  },
+  {
+    "business_name": "VIJAY COSMATICS",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chil Bangla, Himachal Pradesh 176306",
+    "area": "176306",
+    "latitude": 32.580149999999996,
+    "longitude": 76.0251135,
+    "place_id": "ChIJIwlGNJqVHDkRimgkNPLBwrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwlGNJqVHDkRimgkNPLBwrk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:36:30"
+  }
+]

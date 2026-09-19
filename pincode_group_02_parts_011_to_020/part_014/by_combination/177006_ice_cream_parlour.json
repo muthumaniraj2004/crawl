@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aamad",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JCJ2+QR4, Kashmir, Himachal Pradesh 177006",
+    "area": "177006",
+    "latitude": 31.6318889,
+    "longitude": 76.4020704,
+    "place_id": "ChIJndCpIwArGzkRyQDftDH3rng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndCpIwArGzkRyQDftDH3rng",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:25:03"
+  },
+  {
+    "business_name": "Lotus ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "177006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "4103, Sector 22D, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22D, Sector 22",
+    "latitude": 30.733374299999998,
+    "longitude": 76.7711568,
+    "place_id": "ChIJC-frSZ3tDzkReWAhAp1Osfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-frSZ3tDzkReWAhAp1Osfo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:25:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guest House -Govt Polytechnic Baru",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "177026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MGHQ+947, Baru, Himachal Pradesh 177001",
+    "area": "177026",
+    "latitude": 31.6784169,
+    "longitude": 76.5377895,
+    "place_id": "ChIJOeZOBNLVBDkRjPSacAF-OvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeZOBNLVBDkRjPSacAF-OvU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:39:40"
+  },
+  {
+    "business_name": "Kundan Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177026",
+    "phone_number": "+91 94180 94001",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MGHF+VP5, Shimla - Kangra Rd, Agriculture Colony, Hamirpur, Himachal Pradesh 177001",
+    "area": "Agriculture Colony",
+    "latitude": 31.679633199999998,
+    "longitude": 76.5243672,
+    "place_id": "ChIJrfXxc7XVBDkR91_1ADqYWuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfXxc7XVBDkR91_1ADqYWuM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:39:41"
+  }
+]

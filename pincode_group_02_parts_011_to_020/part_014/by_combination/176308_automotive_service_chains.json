@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Motors Pvt Ltd",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "176308",
+    "phone_number": "+91 94180 05272",
+    "website": "https://www.marutisuzuki.com/arena/connect-to-dealer",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Vill Syar, Po Darlaghat,teh Arki, Himachal Pradesh 173211",
+    "area": "Deoghat",
+    "latitude": 30.898391,
+    "longitude": 77.0876153,
+    "place_id": "ChIJU2ruLruGDzkRXPcL5LQZLtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2ruLruGDzkRXPcL5LQZLtQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:49"
+  },
+  {
+    "business_name": "AutoAid",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "176308",
+    "phone_number": "+91 73537 35300",
+    "website": "https://autoaid.in/",
+    "rating": 4.8,
+    "reviews_count": 1242,
+    "address": "Bldg No: 1604, 2nd Floor, 25th Main, 22nd Cross Rd, near Park, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 2, HSR Layout",
+    "latitude": 12.9085586,
+    "longitude": 77.65095509999999,
+    "place_id": "ChIJR_4Ip2gVrjsROROeephuj1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_4Ip2gVrjsROROeephuj1U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:49"
+  }
+]

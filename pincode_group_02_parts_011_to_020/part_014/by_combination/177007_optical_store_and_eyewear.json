@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "East West Opticians",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Sunglasses store",
+    "pincode": "177007",
+    "phone_number": "+91 86990 31045",
+    "website": "http://www.eastwestopticians.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SCO 50, Sector 17C, Near Bridge Market &, near Laser Show Fountain, Chandigarh 160017",
+    "area": "Shopping Plaza, 17D, Sector 17",
+    "latitude": 30.7405755,
+    "longitude": 76.7829424,
+    "place_id": "ChIJq6qqGgvtDzkRRSQqzntCxgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqGgvtDzkRRSQqzntCxgA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:26:57"
+  },
+  {
+    "business_name": "Ahuja Opticians",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Optical instrument repair service, Optical Wholesaler, Sunglasses store",
+    "pincode": "177007",
+    "phone_number": "+91 93161 31557",
+    "website": "https://ahujaopticians.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 50, near Govt. Dispensary, Sector 38C, Sector 38, Chandigarh, 160014",
+    "area": "Sector 38C, Sector 38",
+    "latitude": 30.742851499999997,
+    "longitude": 76.7454065,
+    "place_id": "ChIJVVVVxeftDzkR-RZP72IQnrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVxeftDzkR-RZP72IQnrg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:26:57"
+  }
+]

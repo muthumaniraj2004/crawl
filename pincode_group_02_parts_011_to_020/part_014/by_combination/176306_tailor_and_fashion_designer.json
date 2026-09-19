@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajeet Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "176306",
+    "phone_number": "+91 70186 77147",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ajeet Tailors Shop, Main Bazar, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5577421,
+    "longitude": 76.1230669,
+    "place_id": "ChIJaSdhJay9HDkRbPCMBu7odBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSdhJay9HDkRbPCMBu7odBY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:36:35"
+  },
+  {
+    "business_name": "Umang Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "176306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gandhi Chowk, Kurari Mohalla, Kalka, Orian, Haryana 133302",
+    "area": "Kurari Mohalla",
+    "latitude": 30.837972399999998,
+    "longitude": 76.9399468,
+    "place_id": "ChIJezM_UeWODzkREQ_uGvVqong",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezM_UeWODzkREQ_uGvVqong",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:36:36"
+  }
+]

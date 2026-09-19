@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu and Sons",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Q274+Q5M, Salyund, Pal, Himachal Pradesh 176320",
+    "area": "176320",
+    "latitude": 32.7644735,
+    "longitude": 76.005438,
+    "place_id": "ChIJra1fbwDpHDkRhtPuHFVQYL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJra1fbwDpHDkRhtPuHFVQYL4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:59:51"
+  },
+  {
+    "business_name": "Daily Bloon Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176320",
+    "phone_number": "+91 78761 90073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mandi 13/1, Arthi, Majhethal, Himachal Pradesh 175021",
+    "area": "176320",
+    "latitude": 31.609901999999998,
+    "longitude": 76.9301856,
+    "place_id": "ChIJ0wfofIYdBTkR2HzCQA6uwMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wfofIYdBTkR2HzCQA6uwMs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:59:52"
+  }
+]

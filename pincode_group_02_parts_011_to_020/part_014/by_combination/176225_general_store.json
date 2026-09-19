@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.M General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "63X8+3H7, Unnamed Road, Bhatoli, Himachal Pradesh 176225",
+    "area": "176225",
+    "latitude": 32.2476601,
+    "longitude": 76.0664348,
+    "place_id": "ChIJP2vkuY1gGzkR8WO10g0M9a0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2vkuY1gGzkR8WO10g0M9a0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:25:32"
+  },
+  {
+    "business_name": "Punjab general Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "63W5+RFG, Solda, Bhareal, Himachal Pradesh 176225",
+    "area": "176225",
+    "latitude": 32.247062899999996,
+    "longitude": 76.0587,
+    "place_id": "ChIJ94ftxeZhGzkRqt-DFUH2vu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94ftxeZhGzkRqt-DFUH2vu4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:25:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arushi Enterprises",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Curtain store",
+    "all_categories": "Curtain store, Bedroom furniture store",
+    "pincode": "176314",
+    "phone_number": "+91 97368 80500",
+    "website": "https://www.instagram.com/arushi_enterprises_cba?igsh=MTB3aTdkc3l1MjFkcQ==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Hdfc Bank, Bhadram, Himachal Pradesh 176314",
+    "area": "176314",
+    "latitude": 32.5892428,
+    "longitude": 76.1090876,
+    "place_id": "ChIJ-S-1oBW_HDkRjfpREvFfZkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S-1oBW_HDkRjfpREvFfZkQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:49:44"
+  },
+  {
+    "business_name": "Kurlon Mattress Store",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "176314",
+    "phone_number": "+91 8071 264 568",
+    "website": "https://store.kurlon.com/mattress-shop/chamba/Parel/kurlon-mattress-store-in-Parel-chamba--7HnID4/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arushi Enterprises, Chamba - Pathankot Rd, nearby Toyota Showroom, Parel, Khajjiar, Himachal Pradesh 176314",
+    "area": "176314",
+    "latitude": 32.5740401,
+    "longitude": 76.1174012,
+    "place_id": "ChIJA7z8sGe_HDkRE2Rdk-2wT54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7z8sGe_HDkRE2Rdk-2wT54",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:49:44"
+  }
+]

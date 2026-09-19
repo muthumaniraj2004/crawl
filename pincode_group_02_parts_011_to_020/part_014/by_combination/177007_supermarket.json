@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVAY GENERAL STORE",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "177007",
+    "phone_number": "+91 78076 52684",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "TO, SUJANPUR ROAD, near POST OFFICE, Hamirpur, Himachal Pradesh 177007",
+    "area": "177007",
+    "latitude": 31.7670607,
+    "longitude": 76.4901058,
+    "place_id": "ChIJyynJgCjTBDkRran9G-pwBXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyynJgCjTBDkRran9G-pwBXg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:26:33"
+  },
+  {
+    "business_name": "Abhishek confectionery the grocery hub",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "177007",
+    "phone_number": "+91 82198 93358",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "opposite PNB Bank, Chabutra, Himachal Pradesh 177007",
+    "area": "177007",
+    "latitude": 31.767774499999998,
+    "longitude": 76.4892344,
+    "place_id": "ChIJ7V-8lGTTBDkRX-4C8h0zj_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7V-8lGTTBDkRX-4C8h0zj_0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:26:33"
+  }
+]

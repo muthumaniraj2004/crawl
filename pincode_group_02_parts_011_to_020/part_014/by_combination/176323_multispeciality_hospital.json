@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghunath Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176323",
+    "phone_number": "+91 80919 30108",
+    "website": "http://raghunathhospital.com/",
+    "rating": 4.8,
+    "reviews_count": 1019,
+    "address": "College chowk, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.954321099999998,
+    "longitude": 77.1100582,
+    "place_id": "ChIJIx8SeRX3BDkRVycXJ_eVJQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIx8SeRX3BDkRVycXJ_eVJQM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:52"
+  },
+  {
+    "business_name": "Regional Hospital Bilaspur",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176323",
+    "phone_number": "+91 1978 222 586",
+    "website": "https://hpbilaspur.nic.in/public-utility/regional-hospital-bilaspur/",
+    "rating": 2.7,
+    "reviews_count": 53,
+    "address": "8QP8+F2X, Regional Hospital Rd, Changer Sector, Excise Colony, Bilaspur, Himachal Pradesh 174001",
+    "area": "Changer Sector, Excise Colony",
+    "latitude": 31.336230399999998,
+    "longitude": 76.76510999999999,
+    "place_id": "ChIJS1c7hBo_BTkRiRgFcBFr5D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1c7hBo_BTkRiRgFcBFr5D4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:52"
+  }
+]

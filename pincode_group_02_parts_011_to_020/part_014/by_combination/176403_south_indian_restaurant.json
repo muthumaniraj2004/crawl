@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VARU SOUTH INDIAN FOOD",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "176403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "S. C. F 8, SEC 2 LAXMI NARAYN MANTHIR Talwara Twp, Rd, Bhera, Punjab 144216",
+    "area": "Sector-2",
+    "latitude": 31.950620899999997,
+    "longitude": 75.8624596,
+    "place_id": "ChIJOWDcFWtzGzkRluJE18JZuvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWDcFWtzGzkRluJE18JZuvk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:28"
+  },
+  {
+    "business_name": "Sagar Ratna Mukerian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "176403",
+    "phone_number": "N/A",
+    "website": "http://www.sagarratna.in/",
+    "rating": 4.3,
+    "reviews_count": 209,
+    "address": "2J26+PPG, Pathankot - Jalandhar Rd, Mukerian, Punjab 144306",
+    "area": "176403",
+    "latitude": 32.0012231,
+    "longitude": 75.613237,
+    "place_id": "ChIJIXKIFG6bGzkR0Ly2SjSCNdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXKIFG6bGzkR0Ly2SjSCNdE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:28"
+  }
+]

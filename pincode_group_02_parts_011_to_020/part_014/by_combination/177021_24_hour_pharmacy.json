@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177021",
+    "phone_number": "+91 82194 18872",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "H/o, Sangroh, Badhani, Himachal Pradesh 177601",
+    "area": "177021",
+    "latitude": 31.720329399999997,
+    "longitude": 76.6646025,
+    "place_id": "ChIJD4KJPOrZBDkR-pAWvrING64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4KJPOrZBDkR-pAWvrING64",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:20"
+  },
+  {
+    "business_name": "SHARMA PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Cosmetics store, Medical laboratory",
+    "pincode": "177021",
+    "phone_number": "+91 70184 51755",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jarol, Sundar Nagar, Himachal Pradesh 175018",
+    "area": "177021",
+    "latitude": 31.458244699999998,
+    "longitude": 76.8601279,
+    "place_id": "ChIJDVkNVcEXBTkRuRNX985B4r0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVkNVcEXBTkRuRNX985B4r0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:21"
+  }
+]

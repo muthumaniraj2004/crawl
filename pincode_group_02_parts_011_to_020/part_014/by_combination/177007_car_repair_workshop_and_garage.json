@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "177007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "5854+6R2, Katangur, Telangana 508205",
+    "area": "177007",
+    "latitude": 17.158012499999998,
+    "longitude": 79.3070156,
+    "place_id": "ChIJeSqm8_ktyzsRHnN7G6soAsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSqm8_ktyzsRHnN7G6soAsU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:08"
+  },
+  {
+    "business_name": "Sri Durga garage car mechanic centre",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "177007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6XF2+2Q8, Registration office near main road Suryapet and, Kusumanchi, Telangana 507159",
+    "area": "177007",
+    "latitude": 17.2225258,
+    "longitude": 79.9519396,
+    "place_id": "ChIJ2x6gfJL7NDoRsn9lfeow6e4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2x6gfJL7NDoRsn9lfeow6e4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:09"
+  }
+]

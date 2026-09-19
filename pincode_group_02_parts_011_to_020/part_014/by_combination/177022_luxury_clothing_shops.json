@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clothes Shop",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "177022",
+    "phone_number": "+91 82195 99097",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V.P.O Utpur, Teh, Tauni Devi, Hamirpur, Himachal Pradesh 177023",
+    "area": "177022",
+    "latitude": 31.714378099999998,
+    "longitude": 76.5972223,
+    "place_id": "ChIJzUr9qrXXBDkRbKU6ZbMkL4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUr9qrXXBDkRbKU6ZbMkL4E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:02"
+  },
+  {
+    "business_name": "Dewanchand Atmaram",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177022",
+    "phone_number": "+91 177 265 4455",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "47, Middle Bazar, The Mall, Shimla, Himachal Pradesh 171001",
+    "area": "Middle Bazar, The Mall",
+    "latitude": 31.1043961,
+    "longitude": 77.1744004,
+    "place_id": "ChIJKQpXZJN4BTkRZ-Qc2pGqVmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQpXZJN4BTkRZ-Qc2pGqVmY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:04"
+  }
+]

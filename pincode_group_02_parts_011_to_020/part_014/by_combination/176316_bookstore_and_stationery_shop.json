@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rawat Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "176316",
+    "phone_number": "+91 95926 42192",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "ram leela ground, Dashmesh Nagar, Nayagaon, Punjab 160103",
+    "area": "Dashmesh Nagar",
+    "latitude": 30.776406599999998,
+    "longitude": 76.791767,
+    "place_id": "ChIJeWVrotrzDzkRdGuWNPpdxv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWVrotrzDzkRdGuWNPpdxv0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:53:43"
+  },
+  {
+    "business_name": "Singla stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "176316",
+    "phone_number": "+91 172 269 3691",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "7, Sector 38C, Sector 38, Chandigarh, 160014",
+    "area": "Sector 38C, Sector 38",
+    "latitude": 30.743129399999997,
+    "longitude": 76.7455646,
+    "place_id": "ChIJVVVVxeftDzkRTIL_fDBwEIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVxeftDzkRTIL_fDBwEIY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:53:43"
+  }
+]

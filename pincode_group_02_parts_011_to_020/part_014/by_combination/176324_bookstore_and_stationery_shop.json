@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goel Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "176324",
+    "phone_number": "+91 94180 03053",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "191/7, near DC Office, Middle Bazar, Lower Bazar, Shimla, Himachal Pradesh 171001",
+    "area": "Middle Bazar, Lower Bazar",
+    "latitude": 31.1049933,
+    "longitude": 77.1712155,
+    "place_id": "ChIJvWiMtOx4BTkRDhY7ax3LW1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWiMtOx4BTkRDhY7ax3LW1I",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:06:33"
+  },
+  {
+    "business_name": "Student Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Law Book Store",
+    "pincode": "176324",
+    "phone_number": "+91 88666 66559",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 58,
+    "address": "Booth No. 164, Sector 24D, Sector 24, Chandigarh, 160024",
+    "area": "Sector 24D, Sector 24",
+    "latitude": 30.7468218,
+    "longitude": 76.7596204,
+    "place_id": "ChIJERluT5XtDzkRAAAAMLCGQAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERluT5XtDzkRAAAAMLCGQAc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:06:34"
+  }
+]

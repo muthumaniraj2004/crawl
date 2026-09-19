@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Amritsar Transport Company Pvt. Ltd.",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "176304",
+    "phone_number": "+91 189 224 2322",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nr. Bus Stand, Dalhousie, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.538739,
+    "longitude": 75.970998,
+    "place_id": "ChIJJVVVlUGRHDkRZPrjlloNBI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVVVlUGRHDkRZPrjlloNBI8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:34:05"
+  },
+  {
+    "business_name": "Ganpati Express Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "176304",
+    "phone_number": "+91 98787 17778",
+    "website": "http://www.ganpatiexpress.com/",
+    "rating": 4.4,
+    "reviews_count": 43,
+    "address": "Monica Tower, Shop No 14 basement, Milap Chowk, Jalandhar, Punjab 144001",
+    "area": "Milap Chowk, Pacca Bagh",
+    "latitude": 31.327810699999997,
+    "longitude": 75.5798404,
+    "place_id": "ChIJbZH3B19aGjkRWsN5QAYexdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZH3B19aGjkRWsN5QAYexdc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:34:05"
+  }
+]

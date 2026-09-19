@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Sun & Snow View",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "HXGG+GWG, SH 33, Kaphla, Bathri, Himachal Pradesh 176306",
+    "area": "176325",
+    "latitude": 32.5763129,
+    "longitude": 75.9773184,
+    "place_id": "ChIJOfUEW-yTHDkR8BS0PvAVPRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfUEW-yTHDkR8BS0PvAVPRE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:08:15"
+  },
+  {
+    "business_name": "Hotel Forest View",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176325",
+    "phone_number": "+91 86290 85131",
+    "website": "https://www.hotelforestviewdalhousie.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "GWXX+7HF Main Bazar, Pukhri, Banikhet, Himachal Pradesh 176303",
+    "area": "Pukhri",
+    "latitude": 32.548216599999996,
+    "longitude": 75.9488982,
+    "place_id": "ChIJy86IKQCRHDkR4aqDT6dLqpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy86IKQCRHDkR4aqDT6dLqpI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:08:15"
+  }
+]

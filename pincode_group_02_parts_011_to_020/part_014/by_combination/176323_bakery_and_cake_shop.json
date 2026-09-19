@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176323",
+    "phone_number": "+91 89883 47868",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Satish bakery & crockery, Una, Himachal Pradesh 177207",
+    "area": "176323",
+    "latitude": 31.513717099999997,
+    "longitude": 76.1754794,
+    "place_id": "ChIJaw__twffGjkRnIe9qd9SrJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaw__twffGjkRnIe9qd9SrJM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:33"
+  },
+  {
+    "business_name": "CreamLab Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176323",
+    "phone_number": "+91 81005 80005",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "gaushala Rd sheoganj, Roop Baug, Nai Basti, Sheoganj, Rajasthan 307027",
+    "area": "Roop Baug, Nai Basti",
+    "latitude": 25.1389979,
+    "longitude": 73.0647829,
+    "place_id": "ChIJG1cXQZnrQjkR6CYH1-wZrW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1cXQZnrQjkR6CYH1-wZrW4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:35"
+  }
+]

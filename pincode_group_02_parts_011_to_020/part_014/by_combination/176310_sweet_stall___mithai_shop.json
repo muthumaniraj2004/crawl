@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diksha Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "176310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "G4HW+34R, Karian, Chamba, Himachal Pradesh 176318",
+    "area": "Karian",
+    "latitude": 32.5277436,
+    "longitude": 76.1452583,
+    "place_id": "ChIJkdNEPve8HDkRpfcBw5Rr3mA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdNEPve8HDkRpfcBw5Rr3mA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:45"
+  },
+  {
+    "business_name": "Ashiana Fast Foods & Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Sweet shop",
+    "pincode": "176310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "H44F+FJP, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5562146,
+    "longitude": 76.12409079999999,
+    "place_id": "ChIJef8BPcm9HDkRA8jpFUo5nx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJef8BPcm9HDkRA8jpFUo5nx4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:41:48"
+  }
+]

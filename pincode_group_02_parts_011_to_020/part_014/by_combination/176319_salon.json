@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vijay hair salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "176319",
+    "phone_number": "+91 70187 73006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "road deyoli, Kaila, Chamba, Himachal Pradesh 176307",
+    "area": "176319",
+    "latitude": 32.6083551,
+    "longitude": 76.1320238,
+    "place_id": "ChIJmbx4cVu_HDkRMbSLfd3OICI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbx4cVu_HDkRMbSLfd3OICI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:51"
+  },
+  {
+    "business_name": "Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176319",
+    "phone_number": "+91 70184 82524",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sirkund, Himachal Pradesh 176318",
+    "area": "176319",
+    "latitude": 32.6232069,
+    "longitude": 76.116523,
+    "place_id": "ChIJURVin7K_HDkR86QMP1H7imE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURVin7K_HDkR86QMP1H7imE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:58:51"
+  }
+]

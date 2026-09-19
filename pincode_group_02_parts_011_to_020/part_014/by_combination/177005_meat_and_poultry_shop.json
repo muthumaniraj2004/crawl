@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Papanna Mutton Stall",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "177005",
+    "phone_number": "+91 97396 69991",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A Cross, 19/7, Mysore Rd, opp. Gali Anjaneya Temple, Byatarayanapura, Banashankari, Bengaluru, Karnataka 560026",
+    "area": "Byatarayanapura, Banashankari 1st Stage, Banashankari",
+    "latitude": 12.9522585,
+    "longitude": 77.5416225,
+    "place_id": "ChIJB5nhihI-rjsRJFqEIJk09G4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5nhihI-rjsRJFqEIJk09G4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:23:11"
+  },
+  {
+    "business_name": "Kwality Meat Store",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "678, Mall Rd, Model Town, Jalandhar, Punjab 144001",
+    "area": "Model Town",
+    "latitude": 31.309934499999997,
+    "longitude": 75.57937559999999,
+    "place_id": "ChIJBThIUhpbGjkRUDBnyD106cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBThIUhpbGjkRUDBnyD106cU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:23:11"
+  }
+]

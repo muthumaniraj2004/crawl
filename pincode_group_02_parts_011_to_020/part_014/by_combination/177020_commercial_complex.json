@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatia Enterprises sleep well",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "177020",
+    "phone_number": "+91 98162 99820",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devpal Chowk, near LIC, Galore, Hamirpur, Himachal Pradesh 177001",
+    "area": "Galore",
+    "latitude": 31.6877639,
+    "longitude": 76.5200414,
+    "place_id": "ChIJ5SJeEeLVBDkRCx1i2LUvO4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SJeEeLVBDkRCx1i2LUvO4A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:29:55"
+  },
+  {
+    "business_name": "Bot Master Latest Version",
+    "search_category": "Commercial Complex",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "177020",
+    "phone_number": "+91 98825 90034",
+    "website": "https://bulksenderpro.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C/O Future Edutech 205 Satya Shopping complex, Hamirpur, Himachal Pradesh 177001",
+    "area": "Chakmoh, Kohta",
+    "latitude": 31.6869049,
+    "longitude": 76.52066549999999,
+    "place_id": "ChIJzx6NOxnVBDkRmXRU5STSL-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzx6NOxnVBDkRmXRU5STSL-k",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:29:57"
+  }
+]

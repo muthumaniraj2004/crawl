@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hare Rama Hare Krishna Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Ambulance service, Car leasing service, Car rental agency, Minibus taxi service, Sightseeing Tour Operator, Tour operator, Travel agency",
+    "pincode": "177007",
+    "phone_number": "+91 94856 59070",
+    "website": "http://www.hareramaharekrishnatravel.in/",
+    "rating": 5,
+    "reviews_count": 199,
+    "address": "2nd Floor, Ahluwalia Building, 6340/11, Gandhi Market, Punjabi Mohalla, Sadar Bazar, Ambala Cantt, Haryana 133001",
+    "area": "Gandhi Market, Punjabi Mohalla, Sadar Bazar",
+    "latitude": 30.3421071,
+    "longitude": 76.8412535,
+    "place_id": "ChIJzcAvXGq3DzkRIVjY2b05zwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcAvXGq3DzkRIVjY2b05zwM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:14"
+  },
+  {
+    "business_name": "Aman Travel House",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Transit depot, Van rental agency",
+    "pincode": "177007",
+    "phone_number": "+91 98963 45554",
+    "website": "http://www.amantravelhouse.com/",
+    "rating": 5,
+    "reviews_count": 199,
+    "address": "Rampur mode, opposite poja petrol pump, Ambala Cantt, Haryana 133001",
+    "area": "Lal Kurti",
+    "latitude": 30.3410458,
+    "longitude": 76.8264312,
+    "place_id": "ChIJ090IkcC3DzkR-php8lJG9x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ090IkcC3DzkR-php8lJG9x8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:27:14"
+  }
+]

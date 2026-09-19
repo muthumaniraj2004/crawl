@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navchetan Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "177022",
+    "phone_number": "+91 97790 50692",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "KC Road, Gali Number 1, Barnala, Punjab 148101",
+    "area": "Shakti Nagar",
+    "latitude": 30.3655138,
+    "longitude": 75.537545,
+    "place_id": "ChIJOcr0cAPyEDkRN1BG39KAf80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcr0cAPyEDkRN1BG39KAf80",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:52"
+  },
+  {
+    "business_name": "MeePreet Enterprises CSC & Digital Studio",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "177022",
+    "phone_number": "+91 94595 95947",
+    "website": "http://www.fb.com/MeePreetEnterprises",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "MeePreet Enterprises Near KCC Bank Uhal MeePreet Digital Studio 31.7576738 76.6090698 31.7576738, 76.6090698, Himachal Pradesh 177022",
+    "area": "177022",
+    "latitude": 31.7575856,
+    "longitude": 76.6090674,
+    "place_id": "ChIJVX8Bz8fRBDkRgaSdq61fe2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVX8Bz8fRBDkRgaSdq61fe2U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:32:54"
+  }
+]

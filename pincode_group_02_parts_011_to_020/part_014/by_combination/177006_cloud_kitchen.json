@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalayan Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177006",
+    "phone_number": "+91 70181 21088",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ner Chowk, Ner, Himachal Pradesh 175008",
+    "area": "177006",
+    "latitude": 31.608564899999998,
+    "longitude": 76.9153019,
+    "place_id": "ChIJC2gjRcYfBTkRiKicXxX2_bA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2gjRcYfBTkRiKicXxX2_bA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:25:02"
+  },
+  {
+    "business_name": "AK CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "177006",
+    "phone_number": "+91 98822 11144",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AK CLOUD KITCHEN Village Padgal P.O Be. Kothipura Tehsil, Bilaspur, Himachal Pradesh 174037",
+    "area": "177006",
+    "latitude": 31.2932934,
+    "longitude": 76.7732685,
+    "place_id": "ChIJH_JkhBlBBTkRmwSpvwmqg6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_JkhBlBBTkRmwSpvwmqg6g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:25:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayush Common Service Center",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "177023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MJJM+GVR, Sikander, Himachal Pradesh 177025",
+    "area": "177023",
+    "latitude": 31.681356299999997,
+    "longitude": 76.6346511,
+    "place_id": "ChIJG0yfRp_XBDkREWI5wpFF0cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0yfRp_XBDkREWI5wpFF0cU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:34:49"
+  },
+  {
+    "business_name": "Chandarmani Property Seller",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "177023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "GWJ2+XRP, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "177023",
+    "latitude": 31.532465499999997,
+    "longitude": 76.9020714,
+    "place_id": "ChIJp291E5oZBTkRWuNUNmlUjY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp291E5oZBTkRWuNUNmlUjY0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:34:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "177021",
+    "phone_number": "+91 98162 28800",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bypass road, Awah Devi, Himachal Pradesh 177601",
+    "area": "177021",
+    "latitude": 31.7127166,
+    "longitude": 76.67375659999999,
+    "place_id": "ChIJQ0lZYTXZBDkRUdePU-vL-Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0lZYTXZBDkRUdePU-vL-Aw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:31"
+  },
+  {
+    "business_name": "The Detailing Shine Talwara",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Motoring club",
+    "all_categories": "Motoring club",
+    "pincode": "177021",
+    "phone_number": "+91 62391 44545",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground floor, MC Dam Road, opposite Pawan kumar, Talwara, Old Talwara, Punjab 144216",
+    "area": "177021",
+    "latitude": 31.940207599999997,
+    "longitude": 75.8938914,
+    "place_id": "ChIJsTxfyLttGzkRWUfk4YSZ3JE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTxfyLttGzkRWUfk4YSZ3JE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:32"
+  }
+]

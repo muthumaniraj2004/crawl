@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GillAcres",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier",
+    "pincode": "176401",
+    "phone_number": "+91 70875 65580",
+    "website": "http://www.gillacres.in/",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Khasra No. 364 VPO Bhapoo Tehsil Indora, Indora, Himachal Pradesh 176401",
+    "area": "176401",
+    "latitude": 32.1575615,
+    "longitude": 75.70147949999999,
+    "place_id": "ChIJVxdPZpqDGzkRAnY_JNIMcIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxdPZpqDGzkRAnY_JNIMcIk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:10:49"
+  },
+  {
+    "business_name": "GillAcres Milk Indora",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy",
+    "pincode": "176401",
+    "phone_number": "+91 70875 65580",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Indora, Himachal Pradesh 176401",
+    "area": "176401",
+    "latitude": 32.1328713,
+    "longitude": 75.68972389999999,
+    "place_id": "ChIJPwiCXSuDGzkRnejXB-Il0zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwiCXSuDGzkRnejXB-Il0zw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:10:49"
+  }
+]

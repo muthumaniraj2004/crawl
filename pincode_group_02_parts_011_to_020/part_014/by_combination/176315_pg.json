@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roop paying guest house",
+    "search_category": "PG",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "176315",
+    "phone_number": "+91 98160 43243",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "VPO, Jahalman, Himachal Pradesh 175139",
+    "area": "Jahalman",
+    "latitude": 32.6363797,
+    "longitude": 76.8674594,
+    "place_id": "ChIJhTcyi-BpAzkRixx7n4XsCFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhTcyi-BpAzkRixx7n4XsCFQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:51:42"
+  },
+  {
+    "business_name": "SODHI P.G",
+    "search_category": "PG",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center",
+    "pincode": "176315",
+    "phone_number": "+91 98722 59990",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "3B/8, Green Rd, New Model Town, Hargobind Nagar, Phagwara, Punjab 144401",
+    "area": "New Model Town, Hargobind Nagar",
+    "latitude": 31.213883799999998,
+    "longitude": 75.77835429999999,
+    "place_id": "ChIJAdv6eb71GjkR4xjcqowC2Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdv6eb71GjkR4xjcqowC2Ns",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:51:43"
+  }
+]

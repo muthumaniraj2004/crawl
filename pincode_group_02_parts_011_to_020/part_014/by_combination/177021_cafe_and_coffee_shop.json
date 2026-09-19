@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aloka cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "177021",
+    "phone_number": "+91 82788 52768",
+    "website": "http://www.alokacafe.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward 1 Rewalsar just, next to the Big Guru Rinpoche statue, Rewalsar, Himachal Pradesh 175023",
+    "area": "177021",
+    "latitude": 31.6329288,
+    "longitude": 76.8309285,
+    "place_id": "ChIJH2jzum0fBTkRIuzERGMpz8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2jzum0fBTkRIuzERGMpz8I",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:10"
+  },
+  {
+    "business_name": "Zigar Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "177021",
+    "phone_number": "+91 98161 55613",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Zigar Cafe, Zigar Orgyen Choekhor Ling . Guru Rinpoche Statue, Rewalsar, Himachal Pradesh 175023",
+    "area": "177021",
+    "latitude": 31.633151599999998,
+    "longitude": 76.830715,
+    "place_id": "ChIJb-e1HgAfBTkRKKroKni0lBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-e1HgAfBTkRKKroKni0lBk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:10"
+  }
+]

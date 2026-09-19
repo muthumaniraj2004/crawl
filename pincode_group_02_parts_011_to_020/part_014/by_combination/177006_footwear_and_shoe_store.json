@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bihari Lal General Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177006",
+    "phone_number": "+91 78310 18803",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bihari Lal General Store, Sareri, Himachal Pradesh 177040",
+    "area": "177006",
+    "latitude": 31.644976,
+    "longitude": 76.4329399,
+    "place_id": "ChIJL_WuQporGzkRwrdPUfRLffk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_WuQporGzkRwrdPUfRLffk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:25:09"
+  },
+  {
+    "business_name": "Pawan Shoe Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Galore, Himachal Pradesh 177026",
+    "area": "177006",
+    "latitude": 31.630140899999997,
+    "longitude": 76.4580127,
+    "place_id": "ChIJG3GuefkrBTkRXZT333JL7uU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3GuefkrBTkRXZT333JL7uU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:25:09"
+  }
+]

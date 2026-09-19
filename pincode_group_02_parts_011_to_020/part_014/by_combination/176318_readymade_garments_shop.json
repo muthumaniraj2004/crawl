@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176318",
+    "phone_number": "+91 94181 57994",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karian, Chamba, Himachal Pradesh 176318",
+    "area": "Karian",
+    "latitude": 32.5274943,
+    "longitude": 76.14572249999999,
+    "place_id": "ChIJPX54dwe9HDkRCoyKaQDuElw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPX54dwe9HDkRCoyKaQDuElw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:56:24"
+  },
+  {
+    "business_name": "CHANDIGARH READYMADE GARMENTS AND FASHION",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176318",
+    "phone_number": "+91 94183 97724",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "MM2Q+Q9Q, Bhareri, Himachal Pradesh 177024",
+    "area": "176318",
+    "latitude": 31.6519689,
+    "longitude": 76.6884907,
+    "place_id": "ChIJWb8bdn8nBTkR1i80iMMTgNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWb8bdn8nBTkR1i80iMMTgNU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:56:24"
+  }
+]

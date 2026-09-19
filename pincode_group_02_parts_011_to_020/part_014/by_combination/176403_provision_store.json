@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.k. General store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7P6C+7G3, Tipri, Hagwal, Himachal Pradesh 176201",
+    "area": "176403",
+    "latitude": 32.2606304,
+    "longitude": 75.7213055,
+    "place_id": "ChIJffORUQB_GzkRb4JhB6nbhO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffORUQB_GzkRb4JhB6nbhO8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:18"
+  },
+  {
+    "business_name": "Pigeon Exclusive Store",
+    "search_category": "Provision Store",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "176403",
+    "phone_number": "+91 62399 95692",
+    "website": "https://pigeonstores.stovekraft.com/pigeon/appliance-store-in-pathankot/appliance-store-in-jodhamal-bagh/pigeon-exclusive-store-in-jodhamal-bagh-pathankot--4PQ2gj/home",
+    "rating": 5,
+    "reviews_count": 130,
+    "address": "Dhangu Rd, nearby Bhalai Honda, Jodhamal Bagh, Pathankot, Punjab 145001",
+    "area": "Jodhamal Bagh",
+    "latitude": 32.268409,
+    "longitude": 75.6515332,
+    "place_id": "ChIJYeiXZFd_HDkRmJFyR-2cPTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeiXZFd_HDkRmJFyR-2cPTI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:21"
+  }
+]

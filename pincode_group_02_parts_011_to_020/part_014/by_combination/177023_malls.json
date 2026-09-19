@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Deals",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "177023",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/bestproductsdealsbuy/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Kaswar Po Guwardu Teh Bamson Tauni Devi, Distt, Hamirpur, Himachal Pradesh 177023",
+    "area": "177023",
+    "latitude": 31.714378099999998,
+    "longitude": 76.5972223,
+    "place_id": "ChIJc4pHyGbXBDkRb6f4e74yLJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4pHyGbXBDkRb6f4e74yLJ0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:35:03"
+  },
+  {
+    "business_name": "Shree Baglamukhi Shopping Mall",
+    "search_category": "Malls",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177023",
+    "phone_number": "+91 70182 21257",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vill, near Ayurvedic Hospital, Main Bazar, Lambloo, Himachal Pradesh 177029",
+    "area": "Main Bazar",
+    "latitude": 31.668502099999998,
+    "longitude": 76.58491409999999,
+    "place_id": "ChIJ_12ncdHXBDkRxEwRZa0_Y6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_12ncdHXBDkRxEwRZa0_Y6M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:35:05"
+  }
+]

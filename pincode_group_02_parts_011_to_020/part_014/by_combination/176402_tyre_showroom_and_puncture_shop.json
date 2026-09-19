@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuldip Tyre Works",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Tire shop",
+    "pincode": "176402",
+    "phone_number": "+91 99883 98080",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Guru Nanak Nagar, Pathankot, Punjab 145001",
+    "area": "Guru Nanak Nagar",
+    "latitude": 32.2729073,
+    "longitude": 75.6570838,
+    "place_id": "ChIJLxzZdhB_HDkRdyspjj6XUmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxzZdhB_HDkRdyspjj6XUmk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:09"
+  },
+  {
+    "business_name": "Chadha Rubber & Co.",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "176402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "7M48+R33, Sailli, Pathankot, Punjab 145001",
+    "area": "Sailli",
+    "latitude": 32.2570233,
+    "longitude": 75.6651712,
+    "place_id": "ChIJuxJZLKd_HDkReTcw4_9HADM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxJZLKd_HDkReTcw4_9HADM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:13:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banga Diagnostics and orthocare center(Unit of Banga Hospitals Pvt Ltd)",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "176323",
+    "phone_number": "+91 1905 221 831",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 27,
+    "address": "M. G Road, Jail Rd, Tarna, Mandi, Himachal Pradesh 175001",
+    "area": "Tarna",
+    "latitude": 31.7038743,
+    "longitude": 76.9260534,
+    "place_id": "ChIJjUAPQyLiBDkRdU5MWoETtww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUAPQyLiBDkRdU5MWoETtww",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:56"
+  },
+  {
+    "business_name": "Primary healthcare center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VFR8+CR8, Shaor, Himachal Pradesh 176323",
+    "area": "176323",
+    "latitude": 32.891039,
+    "longitude": 76.46707099999999,
+    "place_id": "ChIJo5kbsvotAzkRSF6srciA0ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5kbsvotAzkRSF6srciA0ng",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:03:56"
+  }
+]

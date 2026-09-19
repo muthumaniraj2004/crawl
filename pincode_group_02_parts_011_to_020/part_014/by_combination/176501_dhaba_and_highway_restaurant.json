@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mannat family dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "176501",
+    "phone_number": "+91 86290 66527",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 37,
+    "address": "SH 25, Nakroh, Himachal Pradesh 177213",
+    "area": "176501",
+    "latitude": 31.7190552,
+    "longitude": 76.0671972,
+    "place_id": "ChIJvwKuHAAZGzkRBLSIDxF-yg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwKuHAAZGzkRBLSIDxF-yg0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:16:16"
+  },
+  {
+    "business_name": "Shambu Punjabi Vaishno Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant, Punjabi restaurant, Vegetarian restaurant",
+    "pincode": "176501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 263,
+    "address": "3, National Highway, VPO Dagru, Mubarikpur, Himachal Pradesh 177202",
+    "area": "VPO Dagru",
+    "latitude": 31.70141,
+    "longitude": 76.085315,
+    "place_id": "ChIJRcmo-J8YGzkRMPCwGS0M_0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcmo-J8YGzkRMPCwGS0M_0U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:16:16"
+  }
+]

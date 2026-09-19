@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi Fashion Era",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176403",
+    "phone_number": "+91 97818 11193",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Govt. School, Gagwal, Himachal Pradesh 176403",
+    "area": "176403",
+    "latitude": 32.259095,
+    "longitude": 75.70201349999999,
+    "place_id": "ChIJszg1tb-BGzkRonrfAvu2h08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszg1tb-BGzkRonrfAvu2h08",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:42"
+  },
+  {
+    "business_name": "Fashiyano",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "176403",
+    "phone_number": "N/A",
+    "website": "http://www.fashiyano.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Fashiyano, Sheron vali kothi, Dalhousie Road, Shastri Nagar, Pathankot, Punjab 145001",
+    "area": "Shastri Nagar",
+    "latitude": 32.2767173,
+    "longitude": 75.6439925,
+    "place_id": "ChIJIxgdAwp_HDkRnbIA57zbxOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxgdAwp_HDkRnbIA57zbxOk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:14:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Secssier cut saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M2QJ+V2M, Bachuni Rd, Bachuni, Himachal Pradesh 176312",
+    "area": "176308",
+    "latitude": 32.6897176,
+    "longitude": 76.0300412,
+    "place_id": "ChIJSeraLwDrHDkRJoufHpoBL2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeraLwDrHDkRJoufHpoBL2M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:57"
+  },
+  {
+    "business_name": "Saurav kalotra",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "176308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MXCR+V2P, Malur, Himachal Pradesh 176312",
+    "area": "176308",
+    "latitude": 32.672222999999995,
+    "longitude": 75.9900633,
+    "place_id": "ChIJxy_9JKLtHDkReHUR--9uWxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxy_9JKLtHDkReHUR--9uWxg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:38:57"
+  }
+]

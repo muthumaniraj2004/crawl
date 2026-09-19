@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FAST TRACK EXPRESS",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "176305",
+    "phone_number": "+91 86940 00009",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 6,
+    "address": "Shop no 3, Dilawari Tower, Court Rd, INA Colony, Amritsar, Punjab 143001",
+    "area": "INA Colony",
+    "latitude": 31.6380068,
+    "longitude": 74.8670109,
+    "place_id": "ChIJj5R0BBVlGTkRM72sDUsNSw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5R0BBVlGTkRM72sDUsNSw0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:35:57"
+  },
+  {
+    "business_name": "DTDC EXPRESS LTD",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "176305",
+    "phone_number": "+91 98789 54789",
+    "website": "http://www.dtdc.com/",
+    "rating": 3.6,
+    "reviews_count": 64,
+    "address": "SHOP NO 65, Sardar Complex, Gill Rd, Sewak Pura, Miller Ganj, Ludhiana, Punjab 141001",
+    "area": "Sewak Pura, Miller Ganj",
+    "latitude": 30.891713,
+    "longitude": 75.8582023,
+    "place_id": "ChIJs5XT_iGDGjkRmlUI4_HXrfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5XT_iGDGjkRmlUI4_HXrfI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:35:57"
+  }
+]

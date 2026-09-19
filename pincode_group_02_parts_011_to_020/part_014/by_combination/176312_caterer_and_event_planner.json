@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event planner, Wedding buffet",
+    "pincode": "176312",
+    "phone_number": "N/A",
+    "website": "http://www.perfectcateringonline.com/",
+    "rating": 4.5,
+    "reviews_count": 49,
+    "address": "2028 Alpine Rd, Longview, TX 75601, United States",
+    "area": "176312",
+    "latitude": 32.516530599999996,
+    "longitude": -94.708879,
+    "place_id": "ChIJKdqO7X5HNoYR3S_KR_3U2t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdqO7X5HNoYR3S_KR_3U2t0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:46:17"
+  },
+  {
+    "business_name": "Stone Hill Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Service establishment",
+    "pincode": "176312",
+    "phone_number": "N/A",
+    "website": "https://www.stonehillcatering.com/",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "address": "Stone Hill Catering, 176312, India",
+    "area": "176312",
+    "latitude": 39.904630499999996,
+    "longitude": -76.2492335,
+    "place_id": "ChIJna7juygvxokRenQcc0IArFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJna7juygvxokRenQcc0IArFI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:46:17"
+  }
+]

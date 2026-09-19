@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "True Colours Holidays",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Sightseeing Tour Operator, Tour agency, Tour operator, Tourist attraction",
+    "pincode": "176225",
+    "phone_number": "+91 87430 00002",
+    "website": "https://truecoloursholidays.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "VPO, Distt, Kasol, Himachal Pradesh 175105",
+    "area": "176225",
+    "latitude": 32.0099934,
+    "longitude": 77.3149404,
+    "place_id": "ChIJaxwNBEddBDkR8qicQF6e35Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxwNBEddBDkR8qicQF6e35Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:26:07"
+  },
+  {
+    "business_name": "Go Medium Holidays Private Limited",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization",
+    "pincode": "176225",
+    "phone_number": "+91 88949 49439",
+    "website": "https://gomedium.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Anand Vas, Khalini, Shimla, Himachal Pradesh 171002",
+    "area": "Khalini",
+    "latitude": 31.089775099999997,
+    "longitude": 77.1704582,
+    "place_id": "ChIJIXnng6-HDzkR3eD_rIF9Wwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXnng6-HDzkR3eD_rIF9Wwo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:26:07"
+  }
+]

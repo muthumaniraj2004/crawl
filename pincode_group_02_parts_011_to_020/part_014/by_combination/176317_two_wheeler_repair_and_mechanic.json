@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smile Auto Tech",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "176317",
+    "phone_number": "+91 98440 77947",
+    "website": "http://smileautotech.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No 50, sai balaji complex, Nagarabhavi Main Rd, Huchappa Layout, S.V.G. Nagar, Mudalapalya, Nagarbhavi, Bengaluru, Karnataka 560072",
+    "area": "Huchappa Layout, S.V.G. Nagar, Mudalapalya, Nagarbhavi",
+    "latitude": 12.9716667,
+    "longitude": 77.52520919999999,
+    "place_id": "ChIJTwjUXtY9rjsR5458kaxTEdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTwjUXtY9rjsR5458kaxTEdE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:54:54"
+  },
+  {
+    "business_name": "Badoh",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "176317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P4C3+22R, chamba Tessa, Manoj Kumar badoh, rod, Badoh, Kumauta, Himachal Pradesh 176319",
+    "area": "Manoj Kumar badoh, rod",
+    "latitude": 32.7201247,
+    "longitude": 76.1025059,
+    "place_id": "ChIJi09gIgDBHDkRxyGLXwG2HiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi09gIgDBHDkRxyGLXwG2HiM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:54:55"
+  }
+]

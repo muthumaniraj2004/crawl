@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tekha trade",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "176312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MXMG+GWR, Saluni, Trer, Himachal Pradesh 176312",
+    "area": "176312",
+    "latitude": 32.6838669,
+    "longitude": 75.97727859999999,
+    "place_id": "ChIJUXjBnLXtHDkRGFQXb1l9Bdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXjBnLXtHDkRGFQXb1l9Bdw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:45:26"
+  },
+  {
+    "business_name": "HOTEL CHANDAN होटल चंदन",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Resort hotel",
+    "pincode": "176312",
+    "phone_number": "+91 78075 59772",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 31,
+    "address": "VPO & Tehsil, Salooni, Himachal Pradesh 176320",
+    "area": "176312",
+    "latitude": 32.7232841,
+    "longitude": 76.04991059999999,
+    "place_id": "ChIJw_om9krrHDkRf7zh7MpUz6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_om9krrHDkRf7zh7MpUz6U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:45:27"
+  }
+]

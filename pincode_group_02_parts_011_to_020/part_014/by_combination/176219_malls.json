@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.K Store Ithilparamba",
+    "search_category": "Malls",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176219",
+    "phone_number": "+91 96330 00252",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3349+WXG, Ethilparamb Rd, Kavumpuram, Melmuri, Malappuram, Keralam 676519",
+    "area": "Kavumpuram, Melmuri",
+    "latitude": 11.0573082,
+    "longitude": 76.0699559,
+    "place_id": "ChIJSxfWO4lKpjsRpdkSM8CGzcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxfWO4lKpjsRpdkSM8CGzcY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:25:26"
+  },
+  {
+    "business_name": "Vishal Mega Mart",
+    "search_category": "Malls",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket",
+    "pincode": "176219",
+    "phone_number": "+91 96253 20876",
+    "website": "https://stores.vishalmegamart.com/shopping-mart-transport-nagar-gwalior-30601/home?utm_source=GMB",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "64PX+P88, Bahodapur Rd, C Block, Transport Nagar, Anand Nagar, Gwalior, Madhya Pradesh 474012",
+    "area": "C Block, Transport Nagar, Anand Nagar",
+    "latitude": 26.234274199999998,
+    "longitude": 78.1470075,
+    "place_id": "ChIJhSeeAK3HdjkRXM0lpd_vHZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSeeAK3HdjkRXM0lpd_vHZo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:25:26"
+  }
+]

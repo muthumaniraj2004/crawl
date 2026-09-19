@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swaad Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177021",
+    "phone_number": "+91 78140 83306",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ranjit Nagar Street Number 1, Bhullarai Rd, Phagwara, Punjab 144401",
+    "area": "177021",
+    "latitude": 31.233942499999998,
+    "longitude": 75.78172839999999,
+    "place_id": "ChIJX8Kad-H1GjkREB-D6Jw1Ph8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8Kad-H1GjkREB-D6Jw1Ph8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:09"
+  },
+  {
+    "business_name": "CLOUD KITCHEN RESTAURANT",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Hamburger restaurant",
+    "all_categories": "Hamburger restaurant",
+    "pincode": "177021",
+    "phone_number": "+91 91085 32772",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Sector NO 44, PLOT 21, GPT college road, Sector 44, Nava Nagar, Bagalkot, Karnataka 587103",
+    "area": "Sector 44, Nava Nagar",
+    "latitude": 16.1515193,
+    "longitude": 75.6538631,
+    "place_id": "ChIJQfgLOcZ5xzsRpDW6fBSwLAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfgLOcZ5xzsRpDW6fBSwLAI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 08:30:10"
+  }
+]
