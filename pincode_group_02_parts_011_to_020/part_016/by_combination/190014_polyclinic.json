@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MedSquare Health Polyclinic & Diagnostics",
+    "search_category": "Polyclinic",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "190014",
+    "phone_number": "+91 94190 67081",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shah complex, Ompura, Jammu and Kashmir 191111",
+    "area": "190014",
+    "latitude": 34.0309796,
+    "longitude": 74.73857629999999,
+    "place_id": "ChIJVQF7VNqR4TgR3rK1tofBxps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQF7VNqR4TgR3rK1tofBxps",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:51"
+  },
+  {
+    "business_name": "Dr OWAIS’s POLYCLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "190014",
+    "phone_number": "+91 60054 00335",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khumani chowk, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Bemina",
+    "latitude": 34.0563328,
+    "longitude": 74.7482692,
+    "place_id": "ChIJJ2SQtUeR4TgRQxPSX1B7-o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2SQtUeR4TgRQxPSX1B7-o0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:51"
+  }
+]

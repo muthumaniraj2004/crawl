@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "184148",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "184148",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "184148",
+    "area": "184148",
+    "latitude": 32.4145378,
+    "longitude": 75.3178952,
+    "place_id": "ChIJz9mcPGMNHDkRLzUYbF0pJ44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9mcPGMNHDkRLzUYbF0pJ44",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:52:03"
+  },
+  {
+    "business_name": "Nagpal Xclusive",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "184148",
+    "phone_number": "+91 98888 86769",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "Sco 23, Sector 21C, Sector 21, Chandigarh, 160022",
+    "area": "Sector 21C, Sector 21",
+    "latitude": 30.7253349,
+    "longitude": 76.77758709999999,
+    "place_id": "ChIJ_5IszDvtDzkRUczfDU7YV-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5IszDvtDzkRUczfDU7YV-c",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:52:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abdullah Traders Kotli",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "185211",
+    "phone_number": "0345 1110055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GW64+PHW Roli Cross, Hiway Road, near UBL Bank, Pang Piran Kotli",
+    "area": "Pang Piran",
+    "latitude": 33.5118644,
+    "longitude": 73.9064502,
+    "place_id": "ChIJR6QHZQAh4DgRitlgSb0ASxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6QHZQAh4DgRitlgSb0ASxA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:38:05"
+  },
+  {
+    "business_name": "Al-Noor Engineering Consultants",
+    "search_category": "Interior Designers",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Real Estate Builders & Construction Company, Engineer",
+    "pincode": "185211",
+    "phone_number": "0309 5300680",
+    "website": "https://wa.me/c/923095300680",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Office no.6, Ground Floor, Al Noor Plaza, Pindi Rd, near PWD Rest House, Kotli, 11100",
+    "area": "185211",
+    "latitude": 33.5204126,
+    "longitude": 73.9068188,
+    "place_id": "ChIJF0vAW3ch4DgR-hVFATWWBiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0vAW3ch4DgR-hVFATWWBiQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:38:06"
+  }
+]

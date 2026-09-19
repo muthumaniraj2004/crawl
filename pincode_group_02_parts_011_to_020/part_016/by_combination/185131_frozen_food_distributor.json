@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chilli bites restaurant",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "185131",
+    "phone_number": "+91 70068 66162",
+    "website": "https://instagram.com/chillibites_rajouri?utm_medium=copy_link",
+    "rating": 4.1,
+    "reviews_count": 116,
+    "address": "ward no. 3, New bela road, near masjid shrief, Bella Colony, Rajouri, Jammu and Kashmir 185131",
+    "area": "Bella Colony",
+    "latitude": 33.3816926,
+    "longitude": 74.3106098,
+    "place_id": "ChIJKRYeICstHjkRpWL2ZTtlQ_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRYeICstHjkRpWL2ZTtlQ_A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:14:40"
+  },
+  {
+    "business_name": "M L Karyana Store",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "185131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 41,
+    "address": "98G4+JFR, Main Bazar, Rajouri, Goverdhan Bala, Jammu and Kashmir 185131",
+    "area": "Main Bazar, Rajouri",
+    "latitude": 33.3766153,
+    "longitude": 74.30612649999999,
+    "place_id": "ChIJT7331CgsHjkRcvjAmnSmsqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7331CgsHjkRcvjAmnSmsqM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:14:41"
+  }
+]

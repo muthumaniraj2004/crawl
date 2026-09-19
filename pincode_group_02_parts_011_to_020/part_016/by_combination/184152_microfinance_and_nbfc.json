@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Finance Limited",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "184152",
+    "phone_number": "+91 1800 103 9039",
+    "website": "https://www.skfin.in/locate-us/KATHUA",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GROUND FLOOR, WARD NO. 14, KHASRA NO.107/7, Hatli More Rd, Chak Shekhian, VILLAGE CHACK SHEKHAN, Kathua, Jammu and Kashmir 184104",
+    "area": "Chak Shekhian",
+    "latitude": 32.379716,
+    "longitude": 75.5470757,
+    "place_id": "ChIJD33X7d57HDkRAbZP3HOYIpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD33X7d57HDkRAbZP3HOYIpw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:56:50"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "184152",
+    "phone_number": "+91 94267 92001",
+    "website": "https://near-me.hdfcbank.com/branch-atm-locator/hdfc-bank-ram-nik-vihar-savings-loans-ram-nik-vihar-kathua-36972/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shakuntla Complex, Ram Nik Vihar, opposite Shahedi Petrol Pump, Kathua, Jammu and Kashmir 184104",
+    "area": "184152",
+    "latitude": 32.3865525,
+    "longitude": 75.5174834,
+    "place_id": "ChIJy0RZratxHDkRqS9TgIYOxaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0RZratxHDkRqS9TgIYOxaY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:56:50"
+  }
+]

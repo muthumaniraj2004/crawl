@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arshid Provisional Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190017",
+    "phone_number": "+91 70067 91634",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12, Road, Parim Pora, Fruit mandi, Qamarwari, Srinagar, Jammu and Kashmir 190017",
+    "area": "Parim Pora, Fruit mandi, Qamarwari",
+    "latitude": 34.102370799999996,
+    "longitude": 74.76370899999999,
+    "place_id": "ChIJFVRwEfeb4TgRoaPJ8ctnl8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVRwEfeb4TgRoaPJ8ctnl8M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:08:54"
+  },
+  {
+    "business_name": "Farooz Provisional Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190017",
+    "phone_number": "+91 70062 96831",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Farooz Provisional Store, Qamarwari, Srinagar, Jammu and Kashmir 190017",
+    "area": "Qamarwari",
+    "latitude": 34.0997474,
+    "longitude": 74.7596327,
+    "place_id": "ChIJK7tYtRKb4TgRIvHsDvs_z7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7tYtRKb4TgRIvHsDvs_z7o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:08:54"
+  }
+]

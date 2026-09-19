@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zameendar Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "185151",
+    "phone_number": "0340 8110580",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "347W+4WQ, Sadhery Village",
+    "area": "185151",
+    "latitude": 33.0628374,
+    "longitude": 74.14735879999999,
+    "place_id": "ChIJEUagqBy1HzkRhJN4-cPX4cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUagqBy1HzkRhJN4-cPX4cY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:21:43"
+  },
+  {
+    "business_name": "Payala Hotel and bismillah tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tourist attraction",
+    "pincode": "185151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "At Bagsar Cross, Bhimber - Samhani Rd",
+    "area": "185151",
+    "latitude": 33.0612425,
+    "longitude": 74.1456717,
+    "place_id": "ChIJcferFBW0HzkRQgnx42F5Fao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcferFBW0HzkRQgnx42F5Fao",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:21:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kota Stone Company",
+    "search_category": "Granite Dealer",
+    "primary_category": "Stone supplier",
+    "all_categories": "Stone supplier",
+    "pincode": "184202",
+    "phone_number": "+91 94140 54580",
+    "website": "http://www.kotastone.com/",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Plot A, 318, Rd Number 6, Indraprastha Industrial Area, Kota, Kota Municipal Area, Rajasthan 324005",
+    "area": "Indraprastha Industrial Area",
+    "latitude": 25.1255967,
+    "longitude": 75.8672907,
+    "place_id": "ChIJxUJeDZuFbzkRCEVcAkyvXyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUJeDZuFbzkRCEVcAkyvXyQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:59:43"
+  },
+  {
+    "business_name": "YASH STONES (City Off.)",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier, Natural stone supplier",
+    "pincode": "184202",
+    "phone_number": "+91 98292 42101",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "G-9,Arihant Complex, Rajendra Marg, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.3426577,
+    "longitude": 74.63320569999999,
+    "place_id": "ChIJPx0ATkrCaDkR7kL00Uci6LQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPx0ATkrCaDkR7kL00Uci6LQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:59:43"
+  }
+]

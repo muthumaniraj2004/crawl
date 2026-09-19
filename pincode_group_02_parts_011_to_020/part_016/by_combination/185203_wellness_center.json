@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Center Ransoo",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Medical laboratory",
+    "pincode": "185203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5H7V+MWC, Ransoo, Kotla, Jammu and Kashmir 185203",
+    "area": "185203",
+    "latitude": 33.164186,
+    "longitude": 74.59476599999999,
+    "place_id": "ChIJ22G0IaBqHjkRxSVy2IMgVZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22G0IaBqHjkRxSVy2IMgVZk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:33"
+  },
+  {
+    "business_name": "Primary Health Center Pouni",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "185203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3MQV+54F, Pouni, Jammu and Kashmir 185203",
+    "area": "185203",
+    "latitude": 33.087939999999996,
+    "longitude": 74.69281,
+    "place_id": "ChIJNyBm-MluHjkRGMX-SPKgxQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyBm-MluHjkRGMX-SPKgxQ0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:33"
+  }
+]

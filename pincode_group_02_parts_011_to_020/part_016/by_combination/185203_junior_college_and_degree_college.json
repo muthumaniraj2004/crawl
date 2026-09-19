@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cambridge Junior College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "Junior college",
+    "all_categories": "Junior college, College",
+    "pincode": "185203",
+    "phone_number": "+91 95502 18812",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "FCRR+H2X, IDPL to, opp. Eenadu Office, IDPL, Gandhi Nagar Industrial Area, Sanjay Gandhi Nagar, Jagathgiri Gutta, Hyderabad, Telangana 500054",
+    "area": "IDPL, Gandhi Nagar Industrial Area, Sanjay Gandhi Nagar, Jagathgiri Gutta",
+    "latitude": 17.4914761,
+    "longitude": 78.4401082,
+    "place_id": "ChIJHeRHukmQyzsRZhFZlc6AQw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHeRHukmQyzsRZhFZlc6AQw8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:41"
+  },
+  {
+    "business_name": "Govt Junior College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "185203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 33,
+    "address": "govt junior college,Borabanda , Present in the premises of Natco high school, Site-3, Borabanda, Hyderabad, Telangana 500114",
+    "area": "Site-3, NRR Puram, Borabanda",
+    "latitude": 17.4471201,
+    "longitude": 78.4081379,
+    "place_id": "ChIJ6bhsEC-RyzsRJzS7fYPCMy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bhsEC-RyzsRJzS7fYPCMy8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:43"
+  }
+]

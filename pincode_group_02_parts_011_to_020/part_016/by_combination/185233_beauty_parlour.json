@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reeda cosmetic",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "185233",
+    "phone_number": "+91 96226 99032",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Houspital road, Kotranka, Jammu and Kashmir 185233",
+    "area": "185233",
+    "latitude": 33.3588185,
+    "longitude": 74.5190823,
+    "place_id": "ChIJMWG_b7UjHjkRe3i9eLF3TiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWG_b7UjHjkRe3i9eLF3TiY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:41:43"
+  },
+  {
+    "business_name": "Budhal Makeovers",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "185233",
+    "phone_number": "+91 84938 95570",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Makeovers, Budhal, Jammu and Kashmir 185233",
+    "area": "Makeovers",
+    "latitude": 33.373623099999996,
+    "longitude": 74.64572969999999,
+    "place_id": "ChIJ865VTVsZHjkRh0Aq2p6RU5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ865VTVsZHjkRh0Aq2p6RU5M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:41:44"
+  }
+]

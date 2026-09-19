@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Golden Crust",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "190017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3QQM+3F3, Chhatabal, Srinagar, Jammu and Kashmir 190010",
+    "area": "Chhatabal",
+    "latitude": 34.0876309,
+    "longitude": 74.7836806,
+    "place_id": "ChIJFwr9IwCF4TgRvM4kqEe4uZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwr9IwCF4TgRvM4kqEe4uZE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:09:01"
+  },
+  {
+    "business_name": "KINU'S BAKER'S",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "190017",
+    "phone_number": "+91 78897 66647",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "CHATTABAL, Srinagar, Jammu and Kashmir 190010",
+    "area": "Chhatabal",
+    "latitude": 34.088880599999996,
+    "longitude": 74.7881664,
+    "place_id": "ChIJa0gMxlaF4TgRBhyTewGew3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0gMxlaF4TgRBhyTewGew3Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:09:01"
+  }
+]

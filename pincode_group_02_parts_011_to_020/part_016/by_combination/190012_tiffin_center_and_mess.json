@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Tiffinz",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "190012",
+    "phone_number": "+91 93230 26362",
+    "website": "http://www.mytiffinz.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Zircon CHS, off Lal Bahadur Shastri Marg, opp. Sheth Montana, Moti Nagar, Mulund Colony, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Moti Nagar, Mulund Colony, Mulund West",
+    "latitude": 19.1692109,
+    "longitude": 72.9362956,
+    "place_id": "ChIJ-4U3GZe55zsRww-FzyP8GRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4U3GZe55zsRww-FzyP8GRk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:49"
+  },
+  {
+    "business_name": "Khana factory tiffin center and service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center, Food & Beverage Exporter",
+    "pincode": "190012",
+    "phone_number": "+91 82092 49097",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "E-46, Nandpuri Colony, Ramnagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Nandpuri Colony, Ramnagar",
+    "latitude": 26.8937918,
+    "longitude": 75.78106489999999,
+    "place_id": "ChIJeYCPyu-1bTkRmamizo1U3zQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYCPyu-1bTkRmamizo1U3zQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:50"
+  }
+]

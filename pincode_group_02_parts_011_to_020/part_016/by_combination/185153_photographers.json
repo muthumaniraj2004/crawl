@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RD Wedding Photography",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer, Photo shop, Photographer, Photography service",
+    "pincode": "185153",
+    "phone_number": "+91 98721 27399",
+    "website": "https://rdweddingphotography.wordpress.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Diamond Colony, Guru Nanak Colony, Batala, Punjab 143505",
+    "area": "Diamond Colony, Guru Nanak Colony",
+    "latitude": 31.8080784,
+    "longitude": 75.2126668,
+    "place_id": "ChIJb8xB-03CGzkRPfReanL2ubI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8xB-03CGzkRPfReanL2ubI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:26:05"
+  },
+  {
+    "business_name": "RAKESH PHOTOGRAPHY",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "185153",
+    "phone_number": "+91 88037 20750",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazaar, Sunderbani, Jammu and Kashmir 185153",
+    "area": "185153",
+    "latitude": 33.0478939,
+    "longitude": 74.488322,
+    "place_id": "ChIJEe60X7BFHjkRCNZfZno64Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEe60X7BFHjkRCNZfZno64Eo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:26:06"
+  }
+]

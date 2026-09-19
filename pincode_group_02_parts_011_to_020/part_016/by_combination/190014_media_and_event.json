@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marin films",
+    "search_category": "Media and Event",
+    "primary_category": "Media house",
+    "all_categories": "Media house",
+    "pincode": "190014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Mehjoor Nagar, Srinagar, Jammu and Kashmir 190015",
+    "area": "Mehjoor Nagar",
+    "latitude": 34.055710999999995,
+    "longitude": 74.8114684,
+    "place_id": "ChIJi-FfSN2P4TgRw5BDFNdsNaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-FfSN2P4TgRw5BDFNdsNaE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:28"
+  },
+  {
+    "business_name": "Logic Studio",
+    "search_category": "Media and Event",
+    "primary_category": "Recording studio",
+    "all_categories": "Recording studio",
+    "pincode": "190014",
+    "phone_number": "+91 70069 49491",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "Main Road, near J&K Bank ATM, Natipora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Natipora",
+    "latitude": 34.0475455,
+    "longitude": 74.80892949999999,
+    "place_id": "ChIJswUv5oKP4TgRQ6AaybQKNUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswUv5oKP4TgRQ6AaybQKNUU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:29"
+  }
+]

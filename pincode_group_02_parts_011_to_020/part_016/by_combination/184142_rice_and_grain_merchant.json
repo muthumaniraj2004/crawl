@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Departmental Stores",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store, Department store",
+    "pincode": "184142",
+    "phone_number": "+91 97522 63376",
+    "website": "http://nice.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Laxmi Departmental Stores, Chaurai, Madhya Pradesh 480115",
+    "area": "184142",
+    "latitude": 22.0537711,
+    "longitude": 79.2474211,
+    "place_id": "ChIJiW258TRO1TsR-CJB_CCM8sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiW258TRO1TsR-CJB_CCM8sg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:45:03"
+  },
+  {
+    "business_name": "Shri Krishna Rice Mill &Trading Co",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Rice shop",
+    "pincode": "184142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "Karanjvihire, Talkhed, Pune, Maharashtra 410501",
+    "area": "Talkhed",
+    "latitude": 18.82047,
+    "longitude": 73.7262044,
+    "place_id": "ChIJ3flXSdOzwjsR7u4fykwrXE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3flXSdOzwjsR7u4fykwrXE8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:45:04"
+  }
+]

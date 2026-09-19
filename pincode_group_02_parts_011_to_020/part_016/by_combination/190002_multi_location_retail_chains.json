@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime day",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Department store, Hypermarket",
+    "pincode": "190002",
+    "phone_number": "+91 95417 44055",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Checkpost, Magam-Beerwa road, Checkpost Aripanthan, Main street, Srinagar, Jammu and Kashmir 193401",
+    "area": "190002",
+    "latitude": 34.0638609,
+    "longitude": 74.5768729,
+    "place_id": "ChIJ91-zyrqj4TgRKsgCurLjstw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91-zyrqj4TgRKsgCurLjstw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:47:52"
+  },
+  {
+    "business_name": "Reliance SMART Bazaar",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "190002",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-hypermarket-kandivali-mumbai-280355/Home",
+    "rating": 4,
+    "reviews_count": 10021,
+    "address": "Ground floor, Growels 101 Mall, Akurli Rd, near HT Interiors by HomeTown, Kandivali, Akurli Industry Estate, Kandivali East, Mumbai, Maharashtra 400101",
+    "area": "Kandivali, Akurli Industry Estate, Kandivali East",
+    "latitude": 19.2024485,
+    "longitude": 72.8601229,
+    "place_id": "ChIJd1VVVeW55zsRE8k0GSYPYNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1VVVeW55zsRE8k0GSYPYNM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:47:53"
+  }
+]

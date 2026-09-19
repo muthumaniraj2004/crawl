@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "184142",
+    "phone_number": "+91 98554 33847",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dalhousie Road, opposite Hotel Oppulence, Guru Nanak Nagar, Bhadroya, Pathankot, Punjab 145001",
+    "area": "Guru Nanak Nagar, Bhadroya",
+    "latitude": 32.272728,
+    "longitude": 75.6589085,
+    "place_id": "ChIJJfQNB-F_HDkRW93KXaPTn00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfQNB-F_HDkRW93KXaPTn00",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:45:36"
+  },
+  {
+    "business_name": "N.N Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store, Fitness Equipment Wholesaler",
+    "pincode": "184142",
+    "phone_number": "+91 94632 12393",
+    "website": "http://www.sppartos.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "7MF4+93P, Chowk Gadhi Ahatta Ph. No: 9463212348, Chowk, Gadhi Ahatta, near Kaka Ram Sardari Lal, Pathankot, Punjab 145001",
+    "area": "184142",
+    "latitude": 32.2734138,
+    "longitude": 75.6551351,
+    "place_id": "ChIJt-lVg21_HDkRTMkHJcFVeUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-lVg21_HDkRTMkHJcFVeUI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:45:36"
+  }
+]

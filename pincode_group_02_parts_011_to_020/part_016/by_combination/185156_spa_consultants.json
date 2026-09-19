@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPA",
+    "search_category": "Spa Consultants",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "185156",
+    "phone_number": "+91 22 4043 9000",
+    "website": "http://www.spacapital.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "101, 10th Floor, Mittal Court, A Wing Nariman Point,, Mumbai, Maharashtra 400032",
+    "area": "Nariman Point",
+    "latitude": 18.925572799999998,
+    "longitude": 72.8242222,
+    "place_id": "ChIJyRNeXOnR5zsRNFKpnCtYpHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRNeXOnR5zsRNFKpnCtYpHg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:31:14"
+  },
+  {
+    "business_name": "Grace SPA Consultant",
+    "search_category": "Spa Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "185156",
+    "phone_number": "+91 70301 04037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unit No 126, Kamlesh Apartment, Sher E Punjab Colony, Andheri East, Mumbai, Maharashtra 400069",
+    "area": "Sher E Punjab Colony, Andheri East",
+    "latitude": 19.1244782,
+    "longitude": 72.85324589999999,
+    "place_id": "ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:31:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hope Monk Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor, Service establishment, Yoga Retreat Center",
+    "pincode": "190006",
+    "phone_number": "+91 94191 15893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hope Monk Yoga, 190006, India",
+    "area": "190006",
+    "latitude": 14.157641199999999,
+    "longitude": -74.9524576,
+    "place_id": "ChIJEd18o7sWNYsRpAwGNwH-fMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEd18o7sWNYsRpAwGNwH-fMU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:53:42"
+  },
+  {
+    "business_name": "A&M Health Club",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "190006",
+    "phone_number": "+91 70069 70768",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "Shalateng, Srinagar, Jammu and Kashmir 190012",
+    "area": "Shalateng",
+    "latitude": 34.109857999999996,
+    "longitude": 74.742436,
+    "place_id": "ChIJew3EGFKb4TgR8t9gN15Ir3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJew3EGFKb4TgR8t9gN15Ir3Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:53:42"
+  }
+]

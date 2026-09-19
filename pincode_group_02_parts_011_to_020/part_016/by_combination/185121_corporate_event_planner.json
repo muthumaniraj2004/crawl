@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eisen Sports",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "185121",
+    "phone_number": "+91 91036 67825",
+    "website": "https://eisensports.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Balakote, Dhargloon, Mendhar, Jammu and Kashmir 185111",
+    "area": "Balakote",
+    "latitude": 33.5651049,
+    "longitude": 74.1905369,
+    "place_id": "ChIJBUENsQAr4DgRwV70Ea86u2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUENsQAr4DgRwV70Ea86u2E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:13:54"
+  },
+  {
+    "business_name": "Sajawat walle",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "185121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "96JR+MHM, Fatehpur, Panj Grian, Jammu and Kashmir 185131",
+    "area": "185121",
+    "latitude": 33.3817121,
+    "longitude": 74.24140919999999,
+    "place_id": "ChIJXVe8cfctHjkR-3WkFVmTuGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVe8cfctHjkR-3WkFVmTuGQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:13:54"
+  }
+]

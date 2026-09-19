@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "184145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F4HP+8Q9, Radiyal, 184145",
+    "area": "184145",
+    "latitude": 32.4783846,
+    "longitude": 75.1369098,
+    "place_id": "ChIJdXCrnJ8ZHDkRcXecskFrXxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXCrnJ8ZHDkRcXecskFrXxs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:44"
+  },
+  {
+    "business_name": "JKMSCL trikuta Nagar Jammu",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "184145",
+    "phone_number": "+91 191 351 0489",
+    "website": "https://www.jkmsclbusiness.com/contactus.php",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "MVMM+F5R, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Trikuta Nagar",
+    "latitude": 32.683747499999996,
+    "longitude": 74.8829061,
+    "place_id": "ChIJDzUgoN6dHjkR7XBbt1fIPlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzUgoN6dHjkR7XBbt1fIPlk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:45"
+  }
+]

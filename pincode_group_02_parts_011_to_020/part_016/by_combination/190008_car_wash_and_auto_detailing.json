@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beigh's Automobile & Car Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "190008",
+    "phone_number": "+91 60052 03840",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH44, Bypass, near Peaks Crossing, Lasjan, Srinagar, Jammu and Kashmir 191101",
+    "area": "Lasjan",
+    "latitude": 34.0348998,
+    "longitude": 74.85939619999999,
+    "place_id": "ChIJLZXcKtGP4TgR0_X10DyTPD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZXcKtGP4TgR0_X10DyTPD8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:14"
+  },
+  {
+    "business_name": "PROPEEK",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto Accessories Store, Auto restoration service",
+    "pincode": "190008",
+    "phone_number": "+91 95418 71111",
+    "website": "https://sxrpropeek.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Peaks Chownk, Lasjan Bridge, Srinagar, Jammu and Kashmir 191101",
+    "area": "190008",
+    "latitude": 34.0356385,
+    "longitude": 74.8616717,
+    "place_id": "ChIJicSrDHyk44URobCwiXndoe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicSrDHyk44URobCwiXndoe0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Scientific Enterprises pvt ltd",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "190009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "104, Sutra Shahi Rd Ln, Shaheed Gunj, Srinagar, Jammu and Kashmir 190010",
+    "area": "Shaheed Gunj",
+    "latitude": 34.076604599999996,
+    "longitude": 74.7999741,
+    "place_id": "ChIJJZXBcQCP4TgR5AyKXP5MJzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZXBcQCP4TgR5AyKXP5MJzw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:57"
+  },
+  {
+    "business_name": "KOHINOOR PHARMACEUTICALS",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "190009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shaheed Gunj, Srinagar, Jammu and Kashmir 190010",
+    "area": "Shaheed Gunj",
+    "latitude": 34.0764375,
+    "longitude": 74.8024375,
+    "place_id": "ChIJ4zdPegCP4TgR_KP5-BUblEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zdPegCP4TgR_KP5-BUblEc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:59"
+  }
+]

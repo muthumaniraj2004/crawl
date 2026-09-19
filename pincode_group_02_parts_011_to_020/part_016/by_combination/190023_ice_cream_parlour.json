@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishtiyaq Provisional Store",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "190023",
+    "phone_number": "+91 97961 55872",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1 Kohimaaran Road Hawal Kohimaaran, Road, Hawal, Srinagar, Jammu and Kashmir 190011",
+    "area": "Hawal",
+    "latitude": 34.1092528,
+    "longitude": 74.81342819999999,
+    "place_id": "ChIJw7CgQgmF4TgRUe8X2_aEJI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7CgQgmF4TgRUe8X2_aEJI8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:17:38"
+  },
+  {
+    "business_name": "Bharkadevi Ice-Creams Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Fast food restaurant, Juice shop",
+    "pincode": "190023",
+    "phone_number": "+91 83799 33578",
+    "website": "https://www.instagram.com/bharkadevi_icecreams?igsh=MW43dXI4MWdtejd0Zg==",
+    "rating": 4.5,
+    "reviews_count": 98,
+    "address": "Bharkadevi Ice-Creams, Manodaya Housing Society, Ganesh Wadi Rd, Adgaon Naka, Krishna Nagar, Nashik, Maharashtra 422003",
+    "area": "Adgaon Naka, Krishna Nagar",
+    "latitude": 20.007844199999997,
+    "longitude": 73.8009941,
+    "place_id": "ChIJkb7m_Rvr3TsRQBSLinI_HRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkb7m_Rvr3TsRQBSLinI_HRc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:17:39"
+  }
+]

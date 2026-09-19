@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Kumar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "184143",
+    "phone_number": "+91 78898 47143",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main, Chowk, Shop No. 1 Jagat Market, Dhar - Udhampur Rd, Phinter, Kathua, Jammu and Kashmir 184203",
+    "area": "184143",
+    "latitude": 32.580630299999996,
+    "longitude": 75.5427713,
+    "place_id": "ChIJmY8uRWlnHDkRosZ8RUNPWzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmY8uRWlnHDkRosZ8RUNPWzY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:46:58"
+  },
+  {
+    "business_name": "Foji market",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "184143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near govt middle school, Garniari, Jammu and Kashmir 184144",
+    "area": "184143",
+    "latitude": 32.4603385,
+    "longitude": 75.38326479999999,
+    "place_id": "ChIJsxPmerFtHDkRhG09ZEfzQCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxPmerFtHDkRhG09ZEfzQCw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:46:58"
+  }
+]

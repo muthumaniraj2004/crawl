@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "190008",
+    "phone_number": "+91 99067 70988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "122alochi Bagh, Batamaloo - Tengpur Rd, Srinagar, Jammu and Kashmir 190008",
+    "area": "Maharajpur",
+    "latitude": 34.0572844,
+    "longitude": 74.7923574,
+    "place_id": "ChIJnx91ZD2P4TgReCqZ02FGzi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnx91ZD2P4TgReCqZ02FGzi0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:28"
+  },
+  {
+    "business_name": "Zahidd",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "190008",
+    "phone_number": "+91 91031 90364",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Electictrician World Jammu, Press Colony, Srinagar, Jammu and Kashmir 190001",
+    "area": "Press Colony",
+    "latitude": 34.0719407,
+    "longitude": 74.8120806,
+    "place_id": "ChIJlUBGZ1aP4TgRjtRBvq_WJ7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUBGZ1aP4TgRjtRBvq_WJ7s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:28"
+  }
+]

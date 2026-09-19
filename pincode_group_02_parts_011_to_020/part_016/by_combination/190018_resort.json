@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Jubilee Heritage",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "190018",
+    "phone_number": "+91 91036 66318",
+    "website": "https://www.jubileeheritage.in/",
+    "rating": 4.7,
+    "reviews_count": 100,
+    "address": "3, Exchange Rd, Lal Chowk, Srinagar, Jammu and Kashmir 190001",
+    "area": "Lal Chowk",
+    "latitude": 34.073752299999995,
+    "longitude": 74.81312199999999,
+    "place_id": "ChIJ8QmWq8qP4TgROMsjrUdz_QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QmWq8qP4TgROMsjrUdz_QU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:44"
+  },
+  {
+    "business_name": "Kiyam Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "190018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "bypass underlying flyover, Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "Hyderpora",
+    "latitude": 34.0364733,
+    "longitude": 74.7902148,
+    "place_id": "ChIJ65j_xRyP4TgRoOAuCX7O7EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65j_xRyP4TgRoOAuCX7O7EQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:47"
+  }
+]

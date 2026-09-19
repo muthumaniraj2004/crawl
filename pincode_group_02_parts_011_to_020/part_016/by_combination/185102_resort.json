@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hi Speed Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "185102",
+    "phone_number": "+91 96224 63760",
+    "website": "https://hispeedresort.in/",
+    "rating": 4.2,
+    "reviews_count": 227,
+    "address": "Doodhpathri, Khan Sahib, Forest Block, Jammu and Kashmir 193411",
+    "area": "185102",
+    "latitude": 33.8646226,
+    "longitude": 74.5695492,
+    "place_id": "ChIJucsEho_B4TgRrsGzvwpOC_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucsEho_B4TgRrsGzvwpOC_Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:12:06"
+  },
+  {
+    "business_name": "Snow Peak Chalet Doodhpathri",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "185102",
+    "phone_number": "+91 97979 69356",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 140,
+    "address": "TRC Doodhpathri, TRC Tangnar, DoodhPathri. VHXR+GWP, Para Pora Saifulla, Tangnar, Jammu and Kashmir 191112",
+    "area": "185102",
+    "latitude": 33.898797,
+    "longitude": 74.59231129999999,
+    "place_id": "ChIJUZqp_lO_4TgRLY33wV67pQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZqp_lO_4TgRLY33wV67pQk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:12:06"
+  }
+]

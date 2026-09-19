@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bath Systems",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Manufacturer",
+    "pincode": "185135",
+    "phone_number": "+91 98116 54021",
+    "website": "https://bathsystems.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Block B, 39, DDA Shed, Block A, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "DDA Shed, Block A, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5303087,
+    "longitude": 77.2720365,
+    "place_id": "ChIJK-spflfhDDkRBTL8vDfNKK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-spflfhDDkRBTL8vDfNKK8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:20:49"
+  },
+  {
+    "business_name": "Zing Bath",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "185135",
+    "phone_number": "+91 93541 57244",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, I.S. Villa, 43, near Mahadev Gali, Karhera colony, Mohan Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201007",
+    "area": "Karhera colony, Mohan Nagar, Sahibabad",
+    "latitude": 28.6877608,
+    "longitude": 77.379746,
+    "place_id": "ChIJl2Da2j77DDkRe9dGlbvn3eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2Da2j77DDkRe9dGlbvn3eg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:20:49"
+  }
+]

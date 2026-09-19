@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jammu room",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "185132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QR7X+9JR, Janipur Colony, Janipur, Jammu, Jammu and Kashmir 180007",
+    "area": "Janipur Colony, Janipur",
+    "latitude": 32.7634881,
+    "longitude": 74.8490018,
+    "place_id": "ChIJAa93XwCFHjkReHKmWxunD6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAa93XwCFHjkReHKmWxunD6U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:17:22"
+  },
+  {
+    "business_name": "Hotel Royal Lodge",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "185132",
+    "phone_number": "+91 97962 63117",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sidco Chowk, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.6454746,
+    "longitude": 74.9064721,
+    "place_id": "ChIJHYBgSlqcHjkR-1xoXiGqCcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYBgSlqcHjkR-1xoXiGqCcc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:17:22"
+  }
+]

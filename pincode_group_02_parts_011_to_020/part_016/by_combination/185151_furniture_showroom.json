@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rk Enterprises",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "185151",
+    "phone_number": "+91 95968 52152",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "near Sbi Bank, Naushera, Forest Block, Jammu and Kashmir 185151",
+    "area": "185151",
+    "latitude": 33.1618341,
+    "longitude": 74.2482934,
+    "place_id": "ChIJ3YrNYVE1HjkRanPYg92mCJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YrNYVE1HjkRanPYg92mCJ8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:28"
+  },
+  {
+    "business_name": "Manzoor Furniture house",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "185151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "47H8+4HC, Dabber, Naushera, Jammu and Kashmir 185151",
+    "area": "Dabber",
+    "latitude": 33.1278006,
+    "longitude": 74.2663833,
+    "place_id": "ChIJ7UHeIWJKHjkRLO6VUoEmr84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UHeIWJKHjkRLO6VUoEmr84",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dutta Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Bicycle Shop, Furniture store, Furniture wholesaler, Toy store",
+    "pincode": "185153",
+    "phone_number": "+91 95968 18188",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 1, Sunderbani, Jammu and Kashmir 185153",
+    "area": "185153",
+    "latitude": 33.0491515,
+    "longitude": 74.4889377,
+    "place_id": "ChIJq7fT6ftFHjkRyaF5jOhNOb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7fT6ftFHjkRyaF5jOhNOb4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:55"
+  },
+  {
+    "business_name": "Puri Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "185153",
+    "phone_number": "+91 91498 74097",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Jammu and Kashmir 185153",
+    "area": "185153",
+    "latitude": 33.061886799999996,
+    "longitude": 74.5924496,
+    "place_id": "ChIJgRdqVXhDHjkR15eRXOLlD18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRdqVXhDHjkR15eRXOLlD18",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:55"
+  }
+]

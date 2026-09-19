@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahib Kashmir Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "190010",
+    "phone_number": "N/A",
+    "website": "https://mahibkashmircabs.in/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Khazir Complex, Munawar Link Road, Munawara Abad, Srinagar, Jammu and Kashmir 190001",
+    "area": "Munawara Abad",
+    "latitude": 34.0810648,
+    "longitude": 74.8194511,
+    "place_id": "ChIJgb3cauaP4TgRz3OY_UVAUu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgb3cauaP4TgRz3OY_UVAUu0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:47"
+  },
+  {
+    "business_name": "CabBazar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "190010",
+    "phone_number": "+91 80 6824 9401",
+    "website": "https://cabbazar.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ground floor, MGF Metropolis Mall, UG06, India Accelerator, Gurugram, Haryana 122016",
+    "area": "Sector 28, Maruti Housing Colony",
+    "latitude": 28.4790389,
+    "longitude": 77.0825452,
+    "place_id": "ChIJwTCj2xsZDTkR_ySIGwqReDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTCj2xsZDTkR_ySIGwqReDE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghousia Car Clinic",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "185101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Potha, Jammu and Kashmir 185121",
+    "area": "185101",
+    "latitude": 33.663557,
+    "longitude": 74.2504374,
+    "place_id": "ChIJFaaucebT4TgRwLEnwJUSlUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaaucebT4TgRwLEnwJUSlUg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:10:04"
+  },
+  {
+    "business_name": "HONDA SHOWROOM POONCH",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Honda dealer",
+    "all_categories": "Honda dealer",
+    "pincode": "185101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 131,
+    "address": "near s.k bridge, Poonch, Jammu and Kashmir 185101",
+    "area": "185101",
+    "latitude": 33.7632894,
+    "longitude": 74.0952664,
+    "place_id": "ChIJvytyxes24DgRnRYZzb3DvbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvytyxes24DgRnRYZzb3DvbM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:10:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office Kotranka",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "185202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "9G6C+2M3, Kotranka, 185233",
+    "area": "185202",
+    "latitude": 33.3600241,
+    "longitude": 74.5216801,
+    "place_id": "ChIJDTofEm8jHjkRl7D3lMsyc4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTofEm8jHjkRl7D3lMsyc4Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:35:12"
+  },
+  {
+    "business_name": "Panjah",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "185202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5CF8+9HC, Panjah Khark Rd, Sarotah, Jammu and Kashmir 185202",
+    "area": "185202",
+    "latitude": 33.1734435,
+    "longitude": 74.4163978,
+    "place_id": "ChIJmQ6tJQA5HjkRXPn4AG_15uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQ6tJQA5HjkRXPn4AG_15uc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:35:12"
+  }
+]

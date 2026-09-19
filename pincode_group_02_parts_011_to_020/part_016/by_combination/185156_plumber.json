@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kkplumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "185156",
+    "phone_number": "+91 97290 33063",
+    "website": "http://kkplumbing.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gali Number 1, New Adarsh Nagar, Rewari, Haryana 123401",
+    "area": "New Adarsh Nagar",
+    "latitude": 28.186456,
+    "longitude": 76.60425099999999,
+    "place_id": "ChIJET-93XpQDTkR55WgaFEzZuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJET-93XpQDTkR55WgaFEzZuk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:31:04"
+  },
+  {
+    "business_name": "Dalbir Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "185156",
+    "phone_number": "+91 98880 56235",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Zirakpur Dhakoli Zirakpur, Panchkula, Chandigarh, Punjab 160104",
+    "area": "185156",
+    "latitude": 30.637603,
+    "longitude": 76.8459949,
+    "place_id": "ChIJCd9yyEGVDzkR1quxjTMahXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCd9yyEGVDzkR1quxjTMahXs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:31:04"
+  }
+]

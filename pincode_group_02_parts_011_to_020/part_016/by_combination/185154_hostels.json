@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sohit Sharma",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "185154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XMF6+HW9, Unnamed Road, Kotli, 181201",
+    "area": "185154",
+    "latitude": 32.9739181,
+    "longitude": 74.6623607,
+    "place_id": "ChIJT_EfScBnHjkRLaAsht3m0ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_EfScBnHjkRLaAsht3m0ok",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:27:49"
+  },
+  {
+    "business_name": "KARAN BOYS PAYING GUEST",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "185154",
+    "phone_number": "+91 94191 82793",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "87/3, near Guru Harkrishan Public School, Guru Nanak Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Guru Nanak Nagar",
+    "latitude": 32.6963542,
+    "longitude": 74.86393199999999,
+    "place_id": "ChIJ4YWyCfiFHjkR9_WPpfErJUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YWyCfiFHjkR9_WPpfErJUc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:27:51"
+  }
+]

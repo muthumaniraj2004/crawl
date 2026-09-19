@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Medicate",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "190012",
+    "phone_number": "+91 84940 30849",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "5, Mansoor Colony, opposite JVC Hospital, Bemina, Srinagar, Jammu and Kashmir 190017",
+    "area": "Bemina",
+    "latitude": 34.0862068,
+    "longitude": 74.7632765,
+    "place_id": "ChIJC7_31GCb4TgRjQouDeWQH0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7_31GCb4TgRjQouDeWQH0Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:04:33"
+  },
+  {
+    "business_name": "Efais Enterprises",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "190012",
+    "phone_number": "+91 78897 09514",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H.no 100 Shah hamdan lane 2,umerabad h.m.t, Lane1, Ummer Abad, Srinagar, Jammu and Kashmir 190012",
+    "area": "Lane1, Ummer Abad",
+    "latitude": 34.113196699999996,
+    "longitude": 74.7281198,
+    "place_id": "ChIJwZaru7-b4TgRArM0ZgjQIlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZaru7-b4TgRArM0ZgjQIlA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:04:33"
+  }
+]

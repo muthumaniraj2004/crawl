@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "185233",
+    "phone_number": "+91 92144 28745",
+    "website": "http://www.rajtransportcompany.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Guru gobind singh chownk, flyover, near riico, RIICO Industrial Area, Rajasthan 335001",
+    "area": "RIICO Industrial Area",
+    "latitude": 29.8808905,
+    "longitude": 73.9220296,
+    "place_id": "ChIJZ_3w6DZLFjkRJtH922beaGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_3w6DZLFjkRJtH922beaGg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:41:31"
+  },
+  {
+    "business_name": "THE TRANSPORTER",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Transportation service, Trucking company",
+    "pincode": "185233",
+    "phone_number": "+91 63965 28153",
+    "website": "http://www.thetransporter.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raipur Rd, near Deal, Dashmesh Vihar, Adhoiwala, Dehradun, Uttarakhand 248008",
+    "area": "Dashmesh Vihar, Adhoiwala",
+    "latitude": 30.322686599999997,
+    "longitude": 78.06989,
+    "place_id": "ChIJy9XtH34pCTkRMvK6x1-bb7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9XtH34pCTkRMvK6x1-bb7E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:41:31"
+  }
+]

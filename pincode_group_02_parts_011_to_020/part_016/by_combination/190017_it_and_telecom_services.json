@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "190017",
+    "phone_number": "+91 94194 18454",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "HOUSE NO 63, Ejaz Ahmad Gujree ,LANE E, Bemina, Jammu and Kashmir 190018",
+    "area": "HIG Colony, Bemina",
+    "latitude": 34.0820641,
+    "longitude": 74.77454159999999,
+    "place_id": "ChIJWQwNt9aR4TgRpZD2xPaEP20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQwNt9aR4TgRpZD2xPaEP20",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:10:12"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "190017",
+    "phone_number": "+91 94692 04626",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Good Luck Electronics r/o Kralpora Srinagar Bilal Abad Kraloora, Baghi Mehtab, Srinagar, Jammu and Kashmir 190019",
+    "area": "Housing Colony, Baghi Mehtab",
+    "latitude": 34.073969,
+    "longitude": 74.770626,
+    "place_id": "ChIJyQpuf4aR4TgRpjJUcMbx4v8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQpuf4aR4TgRpjJUcMbx4v8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:10:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Universal HR solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "185132",
+    "phone_number": "+91 160 500 6878",
+    "website": "http://www.universalhrs.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CITY HEART, Janta Nagar, Kharar, Punjab 140301",
+    "area": "Janta Nagar",
+    "latitude": 30.7457538,
+    "longitude": 76.6532622,
+    "place_id": "ChIJJTt9m1bvDzkRfvQrpvLXx3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTt9m1bvDzkRfvQrpvLXx3k",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:17:40"
+  },
+  {
+    "business_name": "BigShyft",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "185132",
+    "phone_number": "N/A",
+    "website": "https://www.bigshyft.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2nd Floor, Building, 8, Block B, Noida Sector 3, Noida, Uttar Pradesh 201301",
+    "area": "Block B, Noida Sector 3",
+    "latitude": 28.579209,
+    "longitude": 77.320505,
+    "place_id": "ChIJe4GGss3lDDkRPQ379asWEZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4GGss3lDDkRPQ379asWEZM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:17:41"
+  }
+]

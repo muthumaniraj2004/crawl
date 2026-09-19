@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADR’s Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "184151",
+    "phone_number": "+91 98554 77624",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 113,
+    "address": "Chamba - Pathankot Rd, Mamun, Pathankot, Punjab 145001",
+    "area": "Mamun",
+    "latitude": 32.273647,
+    "longitude": 75.6821691,
+    "place_id": "ChIJj-aobwB_HDkRbivb-g99F2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-aobwB_HDkRbivb-g99F2M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:50"
+  },
+  {
+    "business_name": "Swad e india pure veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "184151",
+    "phone_number": "+91 70069 71798",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Hallamulla, Jammu and Kashmir 192124",
+    "area": "184151",
+    "latitude": 33.8419303,
+    "longitude": 75.0606486,
+    "place_id": "ChIJB9DacwAd4jgRg7l7jSKN6WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9DacwAd4jgRg7l7jSKN6WI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohinder singh",
+    "search_category": "Electrician",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "184145",
+    "phone_number": "+91 94694 16706",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pantal, Jammu and Kashmir 184145",
+    "area": "184145",
+    "latitude": 32.4582914,
+    "longitude": 75.1691535,
+    "place_id": "ChIJ74u_b6gRHDkRNVXLto4Wia8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74u_b6gRHDkRNVXLto4Wia8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:51:00"
+  },
+  {
+    "business_name": "Mahadev electronic",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "184145",
+    "phone_number": "+91 60061 97801",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Sagal, Jammu and Kashmir 184145",
+    "area": "184145",
+    "latitude": 32.4744679,
+    "longitude": 75.14357869999999,
+    "place_id": "ChIJXc5LtaoZHDkRsJfBFQwj8gc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXc5LtaoZHDkRsJfBFQwj8gc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:51:01"
+  }
+]

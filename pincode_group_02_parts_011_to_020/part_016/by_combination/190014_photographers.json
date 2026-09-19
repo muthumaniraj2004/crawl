@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Qryptic Lens",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "190014",
+    "phone_number": "+91 99060 92435",
+    "website": "https://qrypticlens.odoo.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Beighpora, Bagh-i-Mehtab, Srinagar, Jammu and Kashmir 190019",
+    "area": "Beighpora, Bagh-i-Mehtab",
+    "latitude": 34.0196817,
+    "longitude": 74.81216549999999,
+    "place_id": "ChIJq9LIOZKP4TgRmJeAsv3_cy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9LIOZKP4TgRmJeAsv3_cy4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:23"
+  },
+  {
+    "business_name": "ALNOOR DIGITAL PHOTOSTATE",
+    "search_category": "Photographers",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "190014",
+    "phone_number": "+91 70061 08465",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Post Office Lane, opposite Bhat Medicate, Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "Hyderpora",
+    "latitude": 34.0396965,
+    "longitude": 74.7886106,
+    "place_id": "ChIJx4DqZYeP4TgRUIDyOUYgA9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4DqZYeP4TgRUIDyOUYgA9s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:25"
+  }
+]

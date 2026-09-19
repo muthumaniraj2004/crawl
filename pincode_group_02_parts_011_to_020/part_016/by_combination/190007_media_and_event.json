@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashmir News Service",
+    "search_category": "Media and Event",
+    "primary_category": "News service",
+    "all_categories": "News service, Newsstand",
+    "pincode": "190007",
+    "phone_number": "+91 94190 00270",
+    "website": "http://www.knskashmir.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "M-5 GOVT. QUARTERS MAGARMAL BAGH, SRINAGAR, J&K, Srinagar, Jammu and Kashmir 190001",
+    "area": "Saraibal",
+    "latitude": 34.0689631,
+    "longitude": 74.8037157,
+    "place_id": "ChIJ1VqWNeuP4TgRI2M-ZOcOdqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VqWNeuP4TgRI2M-ZOcOdqY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:56:01"
+  },
+  {
+    "business_name": "EVENT ZONE Entertainment And Media Group",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner",
+    "pincode": "190007",
+    "phone_number": "+91 79998 28953",
+    "website": "https://eventzoneemg.com/",
+    "rating": 4.9,
+    "reviews_count": 65,
+    "address": "379/A New, Vaibhav Lakshmi Nagar, Indore, Madhya Pradesh 452016",
+    "area": "Vaibhav Lakshmi Nagar, Harsiddhi Nagar",
+    "latitude": 22.746604599999998,
+    "longitude": 75.9058581,
+    "place_id": "ChIJxRLAvgDjYjkRawVTrlEeEWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRLAvgDjYjkRawVTrlEeEWc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:56:03"
+  }
+]

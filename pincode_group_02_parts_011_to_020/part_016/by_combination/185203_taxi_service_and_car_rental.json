@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Siddhivinayak taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "185203",
+    "phone_number": "+91 96767 92912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TG 07 T 5663, Road number 6, L N Colony, Rajalingam Colony, Telephone Colony, Boduppal, Hyderabad, Telangana 500092",
+    "area": "L N Colony, Rajalingam Colony, Telephone Colony, Boduppal",
+    "latitude": 17.4294351,
+    "longitude": 78.5889938,
+    "place_id": "ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:11"
+  },
+  {
+    "business_name": "Om Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Service establishment",
+    "pincode": "185203",
+    "phone_number": "+91 97300 47619",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 144,
+    "address": "Om Taxi Service, 185203, India",
+    "area": "185203",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ18PC4M2DwTsRfI49L-DpUnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18PC4M2DwTsRfI49L-DpUnU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:13"
+  }
+]

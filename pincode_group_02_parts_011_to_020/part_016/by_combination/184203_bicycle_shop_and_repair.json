@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinod Cycle Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "184203",
+    "phone_number": "+91 70203 15803",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "North Main Rd, Lane Number 3, Koregaon Park, Pune, Maharashtra 411001",
+    "area": "Koregaon Park",
+    "latitude": 18.5395024,
+    "longitude": 73.8931159,
+    "place_id": "ChIJqZAzy_LBwjsRJrOo38qwhdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZAzy_LBwjsRJrOo38qwhdE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:21"
+  },
+  {
+    "business_name": "Gear Grow Cycle - Doorstep Bicycle Servicing",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "184203",
+    "phone_number": "+91 88885 74242",
+    "website": "https://www.geargrowcycle.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Apt Lane No.14, Jay Kamal, Prabhat Rd, Thorat Colony, Erandwane, Pune, Maharashtra 411004",
+    "area": "Thorat Colony, Erandwane",
+    "latitude": 18.5132048,
+    "longitude": 73.832146,
+    "place_id": "ChIJE6eXH_G_wjsRAN7XN8R_SiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6eXH_G_wjsRAN7XN8R_SiI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:21"
+  }
+]

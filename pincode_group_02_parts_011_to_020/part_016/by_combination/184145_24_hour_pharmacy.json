@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pharmacy27",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "184145",
+    "phone_number": "+91 77580 55427",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "F2QC+J7X Vaishnavi Clinic, Pune - Solapur Rd, Kadam Wasti, Kadamwak Wasti, Maharashtra 412201",
+    "area": "Kadam Wasti",
+    "latitude": 18.489117,
+    "longitude": 74.020743,
+    "place_id": "ChIJr0nZj67pwjsR12TC4XrEgTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0nZj67pwjsR12TC4XrEgTg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:36"
+  },
+  {
+    "business_name": "Pehal Medical Agencies",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "184145",
+    "phone_number": "+91 1902 266 177",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bhuntar, Himachal Pradesh 175125",
+    "area": "184145",
+    "latitude": 31.886556,
+    "longitude": 77.14529399999999,
+    "place_id": "ChIJ_17L1n73BDkRkrMIkkcCB5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_17L1n73BDkRkrMIkkcCB5o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:38"
+  }
+]

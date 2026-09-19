@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peepal Vets Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "185203",
+    "phone_number": "+91 92091 58087",
+    "website": "https://www.instagram.com/peepalvets?igsh=NmNwc201cjZteTF1",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Landmark- Bank of India ATM, Plot No.52, Wardha Rd, Sita Nagar, Somalwada, Nagpur, Maharashtra 440025",
+    "area": "Sita Nagar, Somalwada",
+    "latitude": 21.1030272,
+    "longitude": 79.0662029,
+    "place_id": "ChIJu3ErTXa_1DsR1S4jg083oqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3ErTXa_1DsR1S4jg083oqM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:02"
+  },
+  {
+    "business_name": "Pulse Pet Hospital & Diagnostic Centre",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "185203",
+    "phone_number": "+91 90263 90770",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C-19, Shankarpuri Colony, Shivaji Nagar, Shankar Puri, Kamta, Lucknow, Uttar Pradesh 226028",
+    "area": "Shankarpuri Colony, Shivaji Nagar, Shankar Puri, Kamta",
+    "latitude": 26.875994499999997,
+    "longitude": 81.0206005,
+    "place_id": "ChIJGSDaIIrjmzkRiO1MQ0YQB7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSDaIIrjmzkRiO1MQ0YQB7Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:04"
+  }
+]

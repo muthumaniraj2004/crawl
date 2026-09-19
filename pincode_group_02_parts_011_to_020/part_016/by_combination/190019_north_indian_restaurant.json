@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Nihari corner",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "190019",
+    "phone_number": "+91 97975 87673",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "near Pick-N-choose supermarket, Baghat, Chanpora, Srinagar, Jammu and Kashmir 190005",
+    "area": "Baghat, Chanpora",
+    "latitude": 34.04191,
+    "longitude": 74.809845,
+    "place_id": "ChIJpzWBsOqP4TgRykFEl5dToXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzWBsOqP4TgRykFEl5dToXQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:12:37"
+  },
+  {
+    "business_name": "Wazwaan feast",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "190019",
+    "phone_number": "+91 91495 70886",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 65,
+    "address": "Nowgam, Srinagar, Jammu and Kashmir 190015",
+    "area": "Nowgam",
+    "latitude": 34.0273209,
+    "longitude": 74.82563019999999,
+    "place_id": "ChIJM-PhBbKP4TgRi1_2wQtznh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-PhBbKP4TgRi1_2wQtznh0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:12:38"
+  }
+]

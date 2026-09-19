@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathankot Downtown 44",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Food court",
+    "pincode": "184152",
+    "phone_number": "N/A",
+    "website": "http://downtown44.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Baskin Robbins, Dadwal, Sujanpur, Punjab 145023",
+    "area": "Dadwal",
+    "latitude": 32.287346299999996,
+    "longitude": 75.5970868,
+    "place_id": "ChIJmUUchh95HDkRz8Qcpjd6xpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUUchh95HDkRz8Qcpjd6xpY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:57:12"
+  },
+  {
+    "business_name": "Jasrotia Crockery House",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "184152",
+    "phone_number": "+91 99886 66444",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "Arun Nagar, Sujanpur, Sauli Bhauli, Punjab 145023",
+    "area": "Arun Nagar",
+    "latitude": 32.3079672,
+    "longitude": 75.6060072,
+    "place_id": "ChIJL3q9G7N5HDkRLvCzY_FOWvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3q9G7N5HDkRLvCzY_FOWvs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:57:12"
+  }
+]

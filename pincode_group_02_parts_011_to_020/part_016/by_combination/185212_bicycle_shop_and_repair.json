@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Cycle Mall",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "185212",
+    "phone_number": "+91 70154 65101",
+    "website": "https://www.facebook.com/durgacycletraders/",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "74 B3, Main Bazar, Pinjore, Haryana 134102",
+    "area": "Main Bazar",
+    "latitude": 30.7976885,
+    "longitude": 76.91624279999999,
+    "place_id": "ChIJFaQsi-GNDzkROHEfXJWS9AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaQsi-GNDzkROHEfXJWS9AM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:39:40"
+  },
+  {
+    "business_name": "Rauf Bikes Services",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "185212",
+    "phone_number": "+91 60058 04205",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C88 Shop, Road, near Drahli Mood On, Thanamandi, Dodarsan Bala, Jammu and Kashmir 185133",
+    "area": "185212",
+    "latitude": 33.411929,
+    "longitude": 74.3186923,
+    "place_id": "ChIJiyE9UYYvHjkRM4dzlJ4kXM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyE9UYYvHjkRM4dzlJ4kXM8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:39:42"
+  }
+]

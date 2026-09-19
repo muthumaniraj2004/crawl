@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "185133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MWC6+XRQ, Sector E, Sainik Colony, Jammu, Jammu and Kashmir 180011",
+    "area": "Sector E, Sainik Colony",
+    "latitude": 32.6724714,
+    "longitude": 74.9121083,
+    "place_id": "ChIJLWTWcACdHjkRUwvEDlz_IP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWTWcACdHjkRUwvEDlz_IP0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:18:38"
+  },
+  {
+    "business_name": "Ramgarhia'z Hi Tec Washing Point",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "185133",
+    "phone_number": "+91 84277 55809",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kapurthala - Sultanpur Rd, Sultanpur Lodhi, Sultanpur Rural, Punjab 144626",
+    "area": "185133",
+    "latitude": 31.218666799999998,
+    "longitude": 75.2081006,
+    "place_id": "ChIJD_k42Xg8GjkRmYBh5hWEwDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_k42Xg8GjkRmYBh5hWEwDE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:18:38"
+  }
+]

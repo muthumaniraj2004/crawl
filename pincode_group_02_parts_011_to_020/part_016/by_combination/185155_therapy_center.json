@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NS PHYSIO AND HEALTHCARE CENTER KHUIRATTA",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "185155",
+    "phone_number": "0348 8848983",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tehsil, opposite THQ, Khuiratta, 11200",
+    "area": "185155",
+    "latitude": 33.355827399999995,
+    "longitude": 74.0299738,
+    "place_id": "ChIJg3mFXPLRHzkRsm1I1FMGHnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3mFXPLRHzkRsm1I1FMGHnA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:29:27"
+  },
+  {
+    "business_name": "The Center for Therapy",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental Hospital",
+    "all_categories": "Mental Hospital, Service establishment",
+    "pincode": "185155",
+    "phone_number": "N/A",
+    "website": "http://thecenterfortherapy.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "The Center for Therapy, 185155, India",
+    "area": "185155",
+    "latitude": 40.6971415,
+    "longitude": -73.979506,
+    "place_id": "ChIJz-PzaNh2DyURP1yEovZy-zY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-PzaNh2DyURP1yEovZy-zY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:29:30"
+  }
+]

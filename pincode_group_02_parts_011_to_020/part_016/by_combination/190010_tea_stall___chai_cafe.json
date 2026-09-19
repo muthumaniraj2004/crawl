@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Post",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Coffee store, Tea house, Tea store",
+    "pincode": "190010",
+    "phone_number": "+91 74860 49501",
+    "website": "https://www.teapost.in/",
+    "rating": 4.3,
+    "reviews_count": 147,
+    "address": "34, Kakad House, opp. Bombay Hospital, New Marine Lines, Marine Lines, Mumbai, Maharashtra 400020",
+    "area": "New Marine Lines, Marine Lines",
+    "latitude": 18.9414567,
+    "longitude": 72.8278625,
+    "place_id": "ChIJZ2Y6vTnR5zsRzHgZCSlMQaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2Y6vTnR5zsRzHgZCSlMQaw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:14"
+  },
+  {
+    "business_name": "The Tea Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "190010",
+    "phone_number": "+91 99305 11082",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 304,
+    "address": "Kanamwar No. 2, police station, opp. Vikhroli, Kannamwar Nagar II, Vikhroli East, Mumbai, Maharashtra 400083",
+    "area": "Kannamwar Nagar II, Vikhroli East",
+    "latitude": 19.1184851,
+    "longitude": 72.937395,
+    "place_id": "ChIJEW9cZQDH5zsRaiAlWHMJ-Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW9cZQDH5zsRaiAlWHMJ-Q8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumtaz",
+    "search_category": "Exhibitions",
+    "primary_category": "Meeting planning service",
+    "all_categories": "Meeting planning service",
+    "pincode": "190008",
+    "phone_number": "+91 88990 02444",
+    "website": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-srinagar/meeting-events?cid=a:se+b:gmb+c:apac+i:local+e:rco+d:ind+t:rm+h:INJKSXR1",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, The Bund Road, near Silk Factory Road, Rajbagh, Jehlum, Srinagar, Jammu and Kashmir 190008",
+    "area": "Rajbagh",
+    "latitude": 34.068932,
+    "longitude": 74.8157136,
+    "place_id": "ChIJl75zJYGP4TgR-YknDvNXZFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl75zJYGP4TgR-YknDvNXZFk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:18"
+  },
+  {
+    "business_name": "Gaash Tours & Events",
+    "search_category": "Exhibitions",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "190008",
+    "phone_number": "+91 70062 49328",
+    "website": "http://www.gaashtoursandevent.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ram Bagh, Srinagar, Jammu and Kashmir 190009",
+    "area": "Ram Bagh",
+    "latitude": 34.0523934,
+    "longitude": 74.8053805,
+    "place_id": "ChIJlZQG-G-P4TgRvRMyqCIDhEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZQG-G-P4TgRvRMyqCIDhEM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sattar auto electric",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Alternator supplier, Auto market, Battery Store",
+    "pincode": "190011",
+    "phone_number": "+91 70036 97226",
+    "website": "https://sattar-auto-spark-web.vercel.app/",
+    "rating": 4.7,
+    "reviews_count": 46,
+    "address": "110, Elliot Rd, Madhusudhan Market, Taltala, Kolkata, West Bengal 700017",
+    "area": "Madhusudhan Market, Taltala",
+    "latitude": 22.550699899999998,
+    "longitude": 88.36129489999999,
+    "place_id": "ChIJnbMgqRx3AjoRj5bbY9drics",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbMgqRx3AjoRj5bbY9drics",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:02:33"
+  },
+  {
+    "business_name": "Kar Care Service",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto painting, Car battery store, Car dealer, Car rental agency, Car stereo store, Car wash",
+    "pincode": "190011",
+    "phone_number": "+91 91715 28534",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "cowl bazer, Mangali Aman Kovil St, Meenambakkam, Cowl Bazaar, Tamil Nadu 600074",
+    "area": "Meenambakkam",
+    "latitude": 12.987245999999999,
+    "longitude": 80.14929959999999,
+    "place_id": "ChIJIaURvYBgUjoRFu06oBfwCfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaURvYBgUjoRFu06oBfwCfo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:02:33"
+  }
+]

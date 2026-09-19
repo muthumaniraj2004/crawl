@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dabbar potha",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "185151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "dabbar pota high school, Rajal, Jammu and Kashmir 185152",
+    "area": "185151",
+    "latitude": 33.1232979,
+    "longitude": 74.28019929999999,
+    "place_id": "ChIJL-3fHQBLHjkRzixCrR9-EDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-3fHQBLHjkRzixCrR9-EDY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:24"
+  },
+  {
+    "business_name": "Zulfiqar Traders Samahni",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Tile store",
+    "pincode": "185151",
+    "phone_number": "0341 8826356",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Mirpur Road, Samahni",
+    "area": "185151",
+    "latitude": 33.0914536,
+    "longitude": 74.130665,
+    "place_id": "ChIJpW6Erey1HzkRzrKcjcC1ij4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW6Erey1HzkRzrKcjcC1ij4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:26"
+  }
+]

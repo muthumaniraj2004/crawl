@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "190010",
+    "phone_number": "+91 70060 82348",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Baghwanpora Noor Bagh, Guzarbal, Srinagar, Jammu and Kashmir 190017",
+    "area": "Baghwanpora Noor Bagh",
+    "latitude": 34.1088977,
+    "longitude": 74.76740339999999,
+    "place_id": "ChIJmbtNcQCb4TgRR8PKMYKMqQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbtNcQCb4TgRR8PKMYKMqQA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:41"
+  },
+  {
+    "business_name": "ZAS FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "190010",
+    "phone_number": "+91 70064 09862",
+    "website": "http://www.zasfitness.com/",
+    "rating": 4.2,
+    "reviews_count": 110,
+    "address": "Bemina Bridge, Hamdaniya Colony, Srinagar, Jammu and Kashmir 190018",
+    "area": "Hamdaniya Colony",
+    "latitude": 34.0703779,
+    "longitude": 74.7623571,
+    "place_id": "ChIJradetYmR4TgR6wK3WJ6hpBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJradetYmR4TgR6wK3WJ6hpBo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:43"
+  }
+]

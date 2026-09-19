@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manhas Plumbing And Hardwer",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "185121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandimarh, Jammu and Kashmir 185121",
+    "area": "185121",
+    "latitude": 33.6109588,
+    "longitude": 74.3571958,
+    "place_id": "ChIJufhxOJfR4TgR_ym06rLlsUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJufhxOJfR4TgR_ym06rLlsUc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:13:36"
+  },
+  {
+    "business_name": "RIZWAN PLUMBER",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "185121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Peer kanju, Rajouri, Jammu and Kashmir 185131",
+    "area": "Peer kanju",
+    "latitude": 33.3716143,
+    "longitude": 74.315191,
+    "place_id": "ChIJq2kKZksvHjkRL9RrPZYTcoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2kKZksvHjkRL9RrPZYTcoA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:13:36"
+  }
+]

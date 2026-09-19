@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kids Dress Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "184206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M2GV+QH5, Sindla, Sundla, Himachal Pradesh 176312",
+    "area": "184206",
+    "latitude": 32.6768894,
+    "longitude": 76.04398429999999,
+    "place_id": "ChIJm5vtYADrHDkRKLa90RstGSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5vtYADrHDkRKLa90RstGSA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:06:08"
+  },
+  {
+    "business_name": "Petals",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "184206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "381 A, Shastri Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Shastri Nagar",
+    "latitude": 32.6942349,
+    "longitude": 74.855598,
+    "place_id": "ChIJiQPKbrSEHjkR3PiLWBpt9x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQPKbrSEHjkR3PiLWBpt9x0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:06:09"
+  }
+]

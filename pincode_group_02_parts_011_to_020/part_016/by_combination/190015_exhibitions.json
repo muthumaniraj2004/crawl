@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rambagh flyover",
+    "search_category": "Exhibitions",
+    "primary_category": "Historical landmark",
+    "all_categories": "Historical landmark",
+    "pincode": "190015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 31,
+    "address": "3R24+W5R, Ram Bagh, Srinagar, Jammu and Kashmir 190015",
+    "area": "Ram Bagh",
+    "latitude": 34.0523744,
+    "longitude": 74.8053829,
+    "place_id": "ChIJyV5ibwCP4TgR70DgQF2WGp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyV5ibwCP4TgR70DgQF2WGp8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:08:43"
+  },
+  {
+    "business_name": "NS EVENTS",
+    "search_category": "Exhibitions",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Wedding planner",
+    "pincode": "190015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kalidar, BAGATI, Kanipora, Jammu and Kashmir 190015",
+    "area": "BAGATI, Kanipora",
+    "latitude": 34.006454399999996,
+    "longitude": 74.82378039999999,
+    "place_id": "ChIJs3ehviyP4TgRT8lI-4S5Pb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3ehviyP4TgRT8lI-4S5Pb4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:08:46"
+  }
+]

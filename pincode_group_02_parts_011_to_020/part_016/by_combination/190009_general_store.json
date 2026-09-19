@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naseeb enterprises",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3Q6R+QRF, Batmaloo, Srinagar, 190008",
+    "area": "Batmaloo",
+    "latitude": 34.0619308,
+    "longitude": 74.79203749999999,
+    "place_id": "ChIJ31JLbaqP4TgRIjDoGKQSDLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31JLbaqP4TgRIjDoGKQSDLU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:30"
+  },
+  {
+    "business_name": "Ayaan Provisional Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190009",
+    "phone_number": "+91 97971 42087",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "1,Mominabad, Batamaloo, Srinagar, Jammu and Kashmir 190010",
+    "area": "Batamaloo",
+    "latitude": 34.0651535,
+    "longitude": 74.7796608,
+    "place_id": "ChIJOyisApyR4TgR6CZ3fVkZPdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyisApyR4TgR6CZ3fVkZPdw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:33"
+  }
+]

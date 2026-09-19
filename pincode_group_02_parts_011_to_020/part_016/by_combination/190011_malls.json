@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "190011",
+    "phone_number": "+91 91193 90005",
+    "website": "http://www.mittalmall.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No T33 3rd Floor, Mittal Mall, PR MARG, Hathi Bhata, Ajmer, Rajasthan 305001",
+    "area": "Hathi Bhata",
+    "latitude": 26.4630717,
+    "longitude": 74.63364059999999,
+    "place_id": "ChIJw7WfM8HnazkReUQKS5JTjmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7WfM8HnazkReUQKS5JTjmw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:35"
+  },
+  {
+    "business_name": "GT World Mall - Bengaluru",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Market",
+    "pincode": "190011",
+    "phone_number": "+91 80 4632 9003",
+    "website": "http://www.gtworld.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Magadi Main Rd, next to Prasanna Theatre, Cholur Palya, Vijayanagar, Bengaluru, Karnataka 560023",
+    "area": "Cholur Palya, Vijayanagar",
+    "latitude": 12.9738099,
+    "longitude": 77.5515904,
+    "place_id": "ChIJbQb8IPs9rjsR4j-RbzJFroA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQb8IPs9rjsR4j-RbzJFroA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:36"
+  }
+]

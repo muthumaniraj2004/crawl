@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KD Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "184206",
+    "phone_number": "+91 82198 37896",
+    "website": "http://kdresort.in/",
+    "rating": 4,
+    "reviews_count": 83,
+    "address": "KD COMPLEX, post office, Village faulgat, Rajpura, Himachal Pradesh 176318",
+    "area": "184206",
+    "latitude": 32.6107005,
+    "longitude": 76.0938565,
+    "place_id": "ChIJbxx7Niy-HDkRPDU9A6oEVUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxx7Niy-HDkRPDU9A6oEVUk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:06:54"
+  },
+  {
+    "business_name": "Lall Ji Tourist Resort Dalhousie",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "184206",
+    "phone_number": "+91 94180 10549",
+    "website": "http://www.lalljiresortindia.com/",
+    "rating": 4.4,
+    "reviews_count": 166,
+    "address": "Lovers Lane, Kumar Hotel Road, near Bus Stand, Moti Tiba, Dalhousie, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.5359419,
+    "longitude": 75.9657489,
+    "place_id": "ChIJqX-mEJyRHDkR8iBi40muevM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqX-mEJyRHDkR8iBi40muevM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:06:54"
+  }
+]

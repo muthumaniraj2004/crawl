@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "190019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 13,
+    "address": "Malik Bagh, Kralpora - Rangreth Link Rd, Damsooma, Srinagar, Jammu and Kashmir 190019",
+    "area": "Damsooma",
+    "latitude": 34.0005121,
+    "longitude": 74.8093339,
+    "place_id": "ChIJiTpHoRaP4TgRRwlDNfpMB3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTpHoRaP4TgRRwlDNfpMB3M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:12:25"
+  },
+  {
+    "business_name": "Big box supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "190019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "2R4P+H2Q, Bagati Kani Pora, Srinagar, Jammu and Kashmir 190019",
+    "area": "Bagati Kani Pora",
+    "latitude": 34.0064644,
+    "longitude": 74.8350494,
+    "place_id": "ChIJQcMCcPWP4TgRDcL_uXvdwLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcMCcPWP4TgRDcL_uXvdwLY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:12:25"
+  }
+]

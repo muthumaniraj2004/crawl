@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Internet & Stationary",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "184144",
+    "phone_number": "+91 77808 23263",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05, Ganari Mala, Kathua, Jammu and Kashmir 184144",
+    "area": "Ganari Mala",
+    "latitude": 32.4605903,
+    "longitude": 75.3835055,
+    "place_id": "ChIJo659wRFtHDkRakNodmxOgS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo659wRFtHDkRakNodmxOgS4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:49:44"
+  },
+  {
+    "business_name": "Santy Enterprises (CSC) Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "184144",
+    "phone_number": "+91 97974 72344",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "C8CJ+M3P Sanjimore Jammu and Kashmir, 19, Sanjimore, Jammu and Kashmir 184144",
+    "area": "184144",
+    "latitude": 32.4216875,
+    "longitude": 75.3301875,
+    "place_id": "ChIJe60F6sUTHDkRzJxOa4A-E8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe60F6sUTHDkRzJxOa4A-E8U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:49:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Shakes Hub",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Coffee store, Italian grocery store, Italian restaurant, Pizza restaurant, Restaurant",
+    "pincode": "184204",
+    "phone_number": "+91 99883 15028",
+    "website": "http://www.dialamritsar.com/listing/the-shake-hub-in-amritsar/",
+    "rating": 4.5,
+    "reviews_count": 200,
+    "address": "Kabir Park Colony, Amritsar, Punjab 143002",
+    "area": "Kabir Park Colony",
+    "latitude": 31.630542,
+    "longitude": 74.8273578,
+    "place_id": "ChIJadEEpyplGTkRIEPDVJavmLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadEEpyplGTkRIEPDVJavmLk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:02:35"
+  },
+  {
+    "business_name": "House Of Shakes - HOS",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Takeout restaurant, Pizza takeaway",
+    "pincode": "184204",
+    "phone_number": "+91 88981 97000",
+    "website": "https://www.facebook.com/Houseofshakes/",
+    "rating": 4.3,
+    "reviews_count": 225,
+    "address": "Basant Avenue, White Avenue, Amritsar, Punjab 143001",
+    "area": "Basant Avenue, White Avenue",
+    "latitude": 31.6537461,
+    "longitude": 74.8766588,
+    "place_id": "ChIJR7x4rGFjGTkRHhxncsx-a0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7x4rGFjGTkRHhxncsx-a0Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:02:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khajuria Electronics",
+    "search_category": "Electrician",
+    "primary_category": "ATV repair shop",
+    "all_categories": "ATV repair shop, Electronics store",
+    "pincode": "184205",
+    "phone_number": "+91 96971 86494",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Nagrota Guzroo, Jammu and Kashmir 184210",
+    "area": "184205",
+    "latitude": 32.644687499999996,
+    "longitude": 75.3925625,
+    "place_id": "ChIJdbOHriRBHDkR3zI29pclB0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbOHriRBHDkR3zI29pclB0E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:04:54"
+  },
+  {
+    "business_name": "SS electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "184205",
+    "phone_number": "+91 70062 86828",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Domail, Dhar - Udhampur Rd, Udhampur, Jammu and Kashmir 182101",
+    "area": "184205",
+    "latitude": 32.6629863,
+    "longitude": 75.2998424,
+    "place_id": "ChIJa0oJYU45HDkRpLbKLKniCOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0oJYU45HDkRpLbKLKniCOo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:04:54"
+  }
+]

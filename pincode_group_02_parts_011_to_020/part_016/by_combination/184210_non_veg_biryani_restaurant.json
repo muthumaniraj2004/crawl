@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muskan Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "184210",
+    "phone_number": "+91 84799 20777",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near Axis Bank, Andul Bus Stop, Andul, Howrah, Argari, West Bengal 711302",
+    "area": "Andul Bus Stop, Andul",
+    "latitude": 22.585206499999998,
+    "longitude": 88.23440839999999,
+    "place_id": "ChIJtd-5ZTh_AjoRgABJgrXahEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtd-5ZTh_AjoRgABJgrXahEs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:07:48"
+  },
+  {
+    "business_name": "Indian Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "184210",
+    "phone_number": "+91 97482 24357",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "173, Picnic Garden Rd, Picnic Garden, Kasba, Kolkata, West Bengal 700039",
+    "area": "Picnic Garden, Kasba",
+    "latitude": 22.5257938,
+    "longitude": 88.3894772,
+    "place_id": "ChIJ5TlvRsV2AjoRQbGXiBzh7Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TlvRsV2AjoRQbGXiBzh7Wk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:07:49"
+  }
+]

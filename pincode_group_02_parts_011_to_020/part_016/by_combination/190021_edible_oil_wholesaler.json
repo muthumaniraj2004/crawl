@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Edible Company",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "190021",
+    "phone_number": "+91 81118 80246",
+    "website": "http://www.royalrichindia.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "P.O, Eravathoor, Road, Annamanada, Keralam 680732",
+    "area": "190021",
+    "latitude": 10.2088301,
+    "longitude": 76.3089847,
+    "place_id": "ChIJXSYUd_EECDsRNThnr2kcKMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSYUd_EECDsRNThnr2kcKMs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:15:52"
+  },
+  {
+    "business_name": "190021",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "190021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "190021",
+    "area": "190021",
+    "latitude": 34.0141306,
+    "longitude": 74.77174289999999,
+    "place_id": "ChIJBwzHseCR4TgRnJoz26ELcuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwzHseCR4TgRnJoz26ELcuo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:15:52"
+  }
+]

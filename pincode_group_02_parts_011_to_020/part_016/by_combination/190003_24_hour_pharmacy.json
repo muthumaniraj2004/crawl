@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sahuliyat pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "190003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Barsoo, University Main Road, Manigam, Srinagar, Jammu and Kashmir 190006",
+    "area": "Hazaratbal",
+    "latitude": 34.131489099999996,
+    "longitude": 74.8379939,
+    "place_id": "ChIJl2TIbgCF4TgRixsoWVh9-S4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2TIbgCF4TgRixsoWVh9-S4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:18"
+  },
+  {
+    "business_name": "World Wide Medicate",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Optician, Pathologist",
+    "pincode": "190003",
+    "phone_number": "+91 97965 14824",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 101,
+    "address": "chowk, Wanihama, Batapora, Srinagar, Jammu and Kashmir 190006",
+    "area": "Wanihama, Batapora",
+    "latitude": 34.165064699999995,
+    "longitude": 74.851598,
+    "place_id": "ChIJg4uz34GF4TgRz-ktnxjc4o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4uz34GF4TgRz-ktnxjc4o4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:19"
+  }
+]

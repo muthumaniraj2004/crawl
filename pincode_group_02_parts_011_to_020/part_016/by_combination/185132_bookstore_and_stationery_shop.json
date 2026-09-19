@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Corner One Stationary Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "185132",
+    "phone_number": "+91 94636 09909",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Dhangu Rd, Model Town, Pathankot, Punjab 145001",
+    "area": "Model Town",
+    "latitude": 32.261546599999996,
+    "longitude": 75.650739,
+    "place_id": "ChIJ4z8iVS1_HDkRrBc4MDtvXHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4z8iVS1_HDkRrBc4MDtvXHQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:17:28"
+  },
+  {
+    "business_name": "Sri Shiva Balaji Book Sellers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "185132",
+    "phone_number": "+91 97048 30641",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Door No. 2, 6 60, Srinivasa Rd, Korutla, Telangana 505326",
+    "area": "185132",
+    "latitude": 18.8259038,
+    "longitude": 78.7128233,
+    "place_id": "ChIJ-8iwpyQLzTsReTW9n3d93lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8iwpyQLzTsReTW9n3d93lk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:17:29"
+  }
+]

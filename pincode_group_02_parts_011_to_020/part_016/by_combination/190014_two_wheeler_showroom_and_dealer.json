@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAUL MOTORS",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "190014",
+    "phone_number": "+91 70066 11237",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sheikhpora, near petrol pump, Humhama, Jammu and Kashmir 191111",
+    "area": "Humhama",
+    "latitude": 34.029078399999996,
+    "longitude": 74.7492201,
+    "place_id": "ChIJn9JPsbWR4TgRdLwDekdZwLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9JPsbWR4TgRdLwDekdZwLo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:56"
+  },
+  {
+    "business_name": "Riders Hub",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "190014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sheikhpora, near DPS school, Badgam, Jammu and Kashmir 191111",
+    "area": "190014",
+    "latitude": 34.0280899,
+    "longitude": 74.74818429999999,
+    "place_id": "ChIJ7RQ9_RSR4TgRuE2_v8YQXRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RQ9_RSR4TgRuE2_v8YQXRU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banday Boutique",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "185101",
+    "phone_number": "+91 70512 78756",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 10, Ghanie Mohalla, Old City, City, Haveli, Poonch, Jammu and Kashmir 185101",
+    "area": "Old City, City",
+    "latitude": 33.7715505,
+    "longitude": 74.09141699999999,
+    "place_id": "ChIJPbI0jbA34DgR9Ab7qrcoYZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbI0jbA34DgR9Ab7qrcoYZY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:09:36"
+  },
+  {
+    "business_name": "Nalli Silk Sarees at CP New Delhi",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Bridal shop, Designer Clothing Store, Fabric store, Silk store, Women's clothing store",
+    "pincode": "185101",
+    "phone_number": "+91 95389 55544",
+    "website": "http://www.nalli.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "P-7/90, Block P, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Block P, Connaught Place",
+    "latitude": 28.631864,
+    "longitude": 77.216326,
+    "place_id": "ChIJV7Tarzf9DDkRG731lQIqvTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7Tarzf9DDkRG731lQIqvTE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:09:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon Glade Cafe and Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant, Family restaurant",
+    "pincode": "184201",
+    "phone_number": "+91 88000 15783",
+    "website": "http://www.styliahotels.com/dining",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Near Yog Manav Vikas Trust PO Banikhet, Dalhousie, Himachal Pradesh 176303",
+    "area": "Pukhri",
+    "latitude": 32.5505977,
+    "longitude": 75.9475306,
+    "place_id": "ChIJKfXeepSRHDkRwDNUcXKQuBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfXeepSRHDkRwDNUcXKQuBw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:57:26"
+  },
+  {
+    "business_name": "Barista Cafe Dalhousie",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cake shop, Cafe",
+    "pincode": "184201",
+    "phone_number": "+91 93193 92273",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 86,
+    "address": "Subhash Chowk Rd, beside Moti Mahal, Moti Tiba, Dalhousie, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.535441,
+    "longitude": 75.9670019,
+    "place_id": "ChIJWbzQ14CRHDkRjnvdxzyQXxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbzQ14CRHDkRjnvdxzyQXxo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:57:29"
+  }
+]

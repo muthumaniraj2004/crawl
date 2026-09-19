@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeraj Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "184206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "M2GV+PHP, Sundla, Talori, Himachal Pradesh 176312",
+    "area": "184206",
+    "latitude": 32.6769014,
+    "longitude": 76.0439391,
+    "place_id": "ChIJETqJXADrHDkRttFle2Vgljs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETqJXADrHDkRttFle2Vgljs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:06:23"
+  },
+  {
+    "business_name": "Thakur medical store manjeer",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "184206",
+    "phone_number": "+91 78760 06842",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Village manjeer teh. Salooni district chamba po manjeer pin code 176312, Chamba, Himachal Pradesh 176312",
+    "area": "184206",
+    "latitude": 32.709013299999995,
+    "longitude": 76.059223,
+    "place_id": "ChIJR0QUFIrrHDkR30ZxXmjX0ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0QUFIrrHDkR30ZxXmjX0ak",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:06:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja fast food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "185156",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Main bazaar, Sunderbani, Jammu and Kashmir 185153",
+    "area": "185156",
+    "latitude": 33.0515754,
+    "longitude": 74.4888651,
+    "place_id": "ChIJAeyhHDJFHjkRh-jSj2C9AGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeyhHDJFHjkRh-jSj2C9AGI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:27"
+  },
+  {
+    "business_name": "Chick Recipo",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "185156",
+    "phone_number": "0344 4416211",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Chick recipo Toheed plaza Sector F1, Sector F 1 New Mirpur City, 10250",
+    "area": "Sector F-1 Sector F 1",
+    "latitude": 33.1426231,
+    "longitude": 73.7501944,
+    "place_id": "ChIJYXj0sOXrHzkRXXPYh5nOfDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXj0sOXrHzkRXXPYh5nOfDs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:28"
+  }
+]

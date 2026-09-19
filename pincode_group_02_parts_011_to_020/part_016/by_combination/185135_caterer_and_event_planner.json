@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Diamond Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "185135",
+    "phone_number": "N/A",
+    "website": "http://bluediamondcaterers.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "VPO, Nangal Majja, Punjab 144403",
+    "area": "VPO",
+    "latitude": 31.259839,
+    "longitude": 75.73354789999999,
+    "place_id": "ChIJC9sg8Yf1GjkRLL1NVNNI8aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9sg8Yf1GjkRLL1NVNNI8aY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:20:53"
+  },
+  {
+    "business_name": "Concept Caterers MR Group",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Service establishment",
+    "pincode": "185135",
+    "phone_number": "+91 97014 72255",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Concept Caterers MR Group, 185135, India",
+    "area": "185135",
+    "latitude": 17.4123487,
+    "longitude": 78.4080456,
+    "place_id": "ChIJIZiSbOyC1GcRlxcdcBWQm0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZiSbOyC1GcRlxcdcBWQm0k",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:20:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rochak Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "185152",
+    "phone_number": "+91 97976 32045",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 95,
+    "address": "NH 144A, Sunderbani, Jammu and Kashmir 185153",
+    "area": "185152",
+    "latitude": 33.0552615,
+    "longitude": 74.4922495,
+    "place_id": "ChIJ25ukIXFEHjkRMygjqzXb6P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25ukIXFEHjkRMygjqzXb6P4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:29"
+  },
+  {
+    "business_name": "Tea Time Ponnamaravathy",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "185152",
+    "phone_number": "+91 96557 02800",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 137,
+    "address": "No.47, Amman Koil Street, Ponnamaravathi, Tamil Nadu 622407",
+    "area": "185152",
+    "latitude": 10.2747574,
+    "longitude": 78.5363771,
+    "place_id": "ChIJ2dcGmfKFADsRvgFOVNYwLw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dcGmfKFADsRvgFOVNYwLw4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:31"
+  }
+]

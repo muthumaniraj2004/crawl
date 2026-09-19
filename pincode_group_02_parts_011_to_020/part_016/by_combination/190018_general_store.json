@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FP Shop",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190018",
+    "phone_number": "+91 95964 83444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "01, Nundreshi Colony, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Nundreshi Colony, Bemina",
+    "latitude": 34.0675729,
+    "longitude": 74.7726595,
+    "place_id": "ChIJd3aDSUmR4TgRE0y9lelrycs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3aDSUmR4TgRE0y9lelrycs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:10:44"
+  },
+  {
+    "business_name": "Ghulam Qadir Departmental Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190018",
+    "phone_number": "+91 90552 10701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "146 Exhange Road, Boatmen Colony, Srinagar, Jammu and Kashmir 190018",
+    "area": "Boatmen Colony, Bemina",
+    "latitude": 34.083673399999995,
+    "longitude": 74.765294,
+    "place_id": "ChIJja0EO62b4TgR0GlwWlnoNzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJja0EO62b4TgR0GlwWlnoNzY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:10:44"
+  }
+]

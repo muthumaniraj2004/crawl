@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Chilly Bar and Kitchen",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant",
+    "pincode": "184145",
+    "phone_number": "+91 93206 71712",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 64,
+    "address": "Akhnoor Road, opp. BSF Camp, near AM Hyundai, Manorama Vihar, Paloura, Jammu, Jammu and Kashmir 181124",
+    "area": "Manorama Vihar, Paloura",
+    "latitude": 32.7482632,
+    "longitude": 74.823328,
+    "place_id": "ChIJmdeaqNeFHjkRgInq3X7iJiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdeaqNeFHjkRgInq3X7iJiA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:28"
+  },
+  {
+    "business_name": "Tantra The cafe & Lounge",
+    "search_category": "Bar and Pub",
+    "primary_category": "Lounge bar",
+    "all_categories": "Lounge bar",
+    "pincode": "184145",
+    "phone_number": "+91 70061 57983",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "opp Hotel Ritz Manor, Nr. Petrol Pump, channi, Ramma, Jammu, Jammu and Kashmir 180015",
+    "area": "Ramma",
+    "latitude": 32.6960506,
+    "longitude": 74.90022619999999,
+    "place_id": "ChIJlZqrrdKDHjkRG_huK8TQ6Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZqrrdKDHjkRG_huK8TQ6Us",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Surya shopping complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "184143",
+    "phone_number": "+91 90184 10987",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dadwara, Billawar, Jammu and Kashmir 184203",
+    "area": "Dadwara",
+    "latitude": 32.5645661,
+    "longitude": 75.5339714,
+    "place_id": "ChIJ3wbl3PhnHDkR9MDB3pbcRHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wbl3PhnHDkR9MDB3pbcRHA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:48:27"
+  },
+  {
+    "business_name": "Joginder Paul Karyana Shop Baira",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "184143",
+    "phone_number": "+91 96821 43770",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Unnamed Road, Baira village Road, Dhanni, Road, Jakhale, Kathua, Jammu and Kashmir 184143",
+    "area": "184143",
+    "latitude": 32.5244163,
+    "longitude": 75.43707289999999,
+    "place_id": "ChIJjZuveyJpHDkR8XY8dlFFTfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZuveyJpHDkR8XY8dlFFTfE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:48:27"
+  }
+]

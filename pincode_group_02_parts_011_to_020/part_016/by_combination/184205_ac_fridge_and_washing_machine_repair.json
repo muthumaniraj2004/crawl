@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Electronics Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment, Microwave oven repair service, Refrigerator repair service, Washer & dryer repair service, Washer & dryer store",
+    "pincode": "184205",
+    "phone_number": "+91 95034 33295",
+    "website": "https://bestelectronicssalesandservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Best Electronics Service, 184205, India",
+    "area": "184205",
+    "latitude": 18.553112799999997,
+    "longitude": 73.8645074,
+    "place_id": "ChIJ_ZzXAyEuYE8RUe1Yh3RHnZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZzXAyEuYE8RUe1Yh3RHnZo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:04:55"
+  },
+  {
+    "business_name": "Voltas Brand Shop - AVM Mahashakti Agencies Pvt Ltd, Jammu",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Air conditioning store, Air conditioning system supplier, Appliance Rental Agency, Electronics store, Electrical appliance wholesaler",
+    "pincode": "184205",
+    "phone_number": "+91 97973 58888",
+    "website": "https://www.voltas.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Plot No 6, Sastri Nagar, near Bata Showroom, near Durga Dhari Temple, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.695747,
+    "longitude": 74.859494,
+    "place_id": "ChIJ7Te5s7CFHjkRA4sAsEeNagA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Te5s7CFHjkRA4sAsEeNagA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:04:57"
+  }
+]

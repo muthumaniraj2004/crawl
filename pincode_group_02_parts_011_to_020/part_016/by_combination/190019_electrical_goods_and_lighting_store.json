@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Standard Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "190019",
+    "phone_number": "+91 40 2461 3159",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2&3, 5-1, 546/1, Syed Jung Lane, Street Number 8, beside Narsing Lodge, Troop Bazaar, Koti, Hyderabad, Telangana 500001",
+    "area": "Troop Bazaar, Koti",
+    "latitude": 17.3837561,
+    "longitude": 78.4781259,
+    "place_id": "ChIJG4Lch82ZyzsRN8deJ1T2ju0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4Lch82ZyzsRN8deJ1T2ju0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:13:08"
+  },
+  {
+    "business_name": "Kedar Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "190019",
+    "phone_number": "+91 90040 54085",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop no 3, opp. janakalyan bank, Bamanpuri, Mithila A, J B Nagar, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "Bamanpuri, Mithila A, J B Nagar, Andheri East",
+    "latitude": 19.1071649,
+    "longitude": 72.8670952,
+    "place_id": "ChIJq3HQlzjI5zsRyLaquAbRa5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3HQlzjI5zsRyLaquAbRa5E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:13:08"
+  }
+]

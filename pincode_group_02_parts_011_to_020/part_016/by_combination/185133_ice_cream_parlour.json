@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Polar bear Ice Cream Sundaes - Wakad",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Confectionery store, Sweets and dessert buffet, Frozen yogurt shop",
+    "pincode": "185133",
+    "phone_number": "+91 70836 04029",
+    "website": "https://polarbear.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 18, Western High St, opp. Phoenix Mall of the Millennium, Shankar Kalat Nagar, Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057",
+    "area": "Shankar Kalat Nagar, Wakad",
+    "latitude": 18.601680299999998,
+    "longitude": 73.7556615,
+    "place_id": "ChIJx3aRiie5wjsRuqhMXES3x20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3aRiie5wjsRuqhMXES3x20",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:18:14"
+  },
+  {
+    "business_name": "Melting Memories Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "185133",
+    "phone_number": "+91 74476 45677",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Parakh Colony, Parikh Colony, Mondha, Sailu, Maharashtra 431503",
+    "area": "Parikh Colony, Mondha",
+    "latitude": 19.4523851,
+    "longitude": 76.4340843,
+    "place_id": "ChIJS_fKo7ef2jsRgI8m9pOFA70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_fKo7ef2jsRgI8m9pOFA70",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:18:14"
+  }
+]

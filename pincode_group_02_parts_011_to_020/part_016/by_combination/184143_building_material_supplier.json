@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma cement and hardware store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "184143",
+    "phone_number": "+91 70061 15858",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "V.p.o, tehsil, Hamirpur, Marheen, Jammu and Kashmir 184144",
+    "area": "tehsil",
+    "latitude": 32.4489859,
+    "longitude": 75.37819089999999,
+    "place_id": "ChIJAUSad39tHDkRV4xHhF_a0PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUSad39tHDkRV4xHhF_a0PI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:47:32"
+  },
+  {
+    "business_name": "JK Lakshmi Cement Ltd. - Sukrala Hardware Store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Building materials store, Cement Manufacturer, Construction equipment supplier, Construction Material Wholesaler",
+    "pincode": "184143",
+    "phone_number": "+91 78898 73658",
+    "website": "https://www.jklakshmicement.com/dealer-locator/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Billawar Rd, Phinter, Jammu and Kashmir 184203",
+    "area": "184143",
+    "latitude": 32.5830868,
+    "longitude": 75.54801499999999,
+    "place_id": "ChIJh4HwlkFnHDkRM0i_p3glcCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4HwlkFnHDkRM0i_p3glcCA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:47:34"
+  }
+]

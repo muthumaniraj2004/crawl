@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hussain Shopping House and Mart",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "184203",
+    "phone_number": "+91 95966 58783",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Duggani Tehsil Billawar, Main Road, Dhannu Parol, Kathua, Jammu and Kashmir 184203",
+    "area": "184203",
+    "latitude": 32.6795657,
+    "longitude": 75.5662102,
+    "place_id": "ChIJ54Fmfx9dHDkRmZFYgJqtiL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54Fmfx9dHDkRmZFYgJqtiL8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:00:45"
+  },
+  {
+    "business_name": "Talab Pro-Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "184203",
+    "phone_number": "+91 70064 58187",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Cake House, near Convent School, Billawar, Jammu and Kashmir 184203",
+    "area": "184203",
+    "latitude": 32.5847675,
+    "longitude": 75.5500723,
+    "place_id": "ChIJv4jkiPpnHDkRoW_lqZO4SJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4jkiPpnHDkRoW_lqZO4SJw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:00:47"
+  }
+]

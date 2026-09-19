@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Auto Electric Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Car battery store",
+    "pincode": "185212",
+    "phone_number": "+91 96271 01737",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite jal Nigam, Hydel Colony, Srinagar, Uttarakhand 246174",
+    "area": "Hydel Colony",
+    "latitude": 30.2192081,
+    "longitude": 78.7975119,
+    "place_id": "ChIJHyfpXhalCTkRP22BppCbNVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyfpXhalCTkRP22BppCbNVc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:39:39"
+  },
+  {
+    "business_name": "MUKHTAR AHMED ALL DISHTV",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "185212",
+    "phone_number": "+91 90551 02023",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "77, near SBI bank Surankote, Poonch, Jammu and Kashmir 185121",
+    "area": "185212",
+    "latitude": 33.6435568,
+    "longitude": 74.2599678,
+    "place_id": "ChIJ_9IB_-bT4TgRq7epza-6zjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9IB_-bT4TgRq7epza-6zjU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:39:41"
+  }
+]

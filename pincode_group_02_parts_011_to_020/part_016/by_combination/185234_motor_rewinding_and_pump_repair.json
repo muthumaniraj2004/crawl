@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Motor repair",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "185234",
+    "phone_number": "+91 88845 42922",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "85, 1st Main Rd, Kaveripura, Govindaraja Nagar Ward, Pattegarhpalya, Kamakshipalya, Bengaluru, Karnataka 560079",
+    "area": "Kaveripura, Govindaraja Nagar Ward, Pattegarhpalya, Kamakshipalya",
+    "latitude": 12.977642399999999,
+    "longitude": 77.5258544,
+    "place_id": "ChIJge0NwYw9rjsRz6iXZWeellQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJge0NwYw9rjsRz6iXZWeellQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:44:11"
+  },
+  {
+    "business_name": "Advanced Micro Services Pvt. Ltd.",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electronic engineering service",
+    "all_categories": "Electronic engineering service, Engineering consultant",
+    "pincode": "185234",
+    "phone_number": "+91 96632 12777",
+    "website": "https://amsindia.net/",
+    "rating": 4,
+    "reviews_count": 139,
+    "address": "C12, C Block, 1st Floor, Brigade MM, Krishna Rajendra Rd, 7th Block, Jayanagar, Bengaluru, Karnataka 560070",
+    "area": "7th Block, Jayanagar",
+    "latitude": 12.930862399999999,
+    "longitude": 77.5745823,
+    "place_id": "ChIJD4NxypoVrjsRx22uEurVgcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4NxypoVrjsRx22uEurVgcE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:44:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharti Nursing Care",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Home health care service, Nursing agency",
+    "pincode": "185133",
+    "phone_number": "+91 70068 32169",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "House, no. 308 A, 308, Shastri Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Shastri Nagar",
+    "latitude": 32.6929328,
+    "longitude": 74.858144,
+    "place_id": "ChIJHfxMR5KFHjkRl2dkorzXQcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfxMR5KFHjkRl2dkorzXQcc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:18:28"
+  },
+  {
+    "business_name": "Vitasta Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "185133",
+    "phone_number": "+91 191 259 3800",
+    "website": "http://www.vitastahospital.com/",
+    "rating": 3.9,
+    "reviews_count": 84,
+    "address": "QR99+G3P JDA Colony, Sector - 3, Bantalab, Rajinder Nagar, Jammu, Jammu and Kashmir 181205",
+    "area": "Swarn Vihar, Bantalab, Rajinder Nagar",
+    "latitude": 32.7711736,
+    "longitude": 74.817589,
+    "place_id": "ChIJOa_ECdeFHjkRHN4Q3XFNYgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOa_ECdeFHjkRHN4Q3XFNYgA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:18:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SnehNod Services Pvt. Ltd",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "190014",
+    "phone_number": "N/A",
+    "website": "http://www.snehnod.com/",
+    "rating": 4.6,
+    "reviews_count": 82,
+    "address": "Om Bihar Colony, kela devi nagar, near Yash apartment, Sikandar Kampoo, Gwalior, Madhya Pradesh 474001",
+    "area": "Sikandar Kampoo",
+    "latitude": 26.179697899999997,
+    "longitude": 78.1263175,
+    "place_id": "ChIJR-bj1oUvUmwRGRNw8FfZxb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-bj1oUvUmwRGRNw8FfZxb0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:47"
+  },
+  {
+    "business_name": "Total Solution",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Car wash, Carpet cleaning service, Chimney services, Dry cleaner, Cleaning Services, Pest control service, Sofa store, Water Filter Supplier, Water Tank Cleaners",
+    "pincode": "190014",
+    "phone_number": "+91 78695 68468",
+    "website": "https://totalsolutiongwalior.in/",
+    "rating": 4.4,
+    "reviews_count": 111,
+    "address": "20, Ram Bagh Colony Rd, Ram Bag Colony, Shinde Ki Chhawani, Gwalior, Madhya Pradesh 474001",
+    "area": "Ram Bag Colony, Shinde Ki Chhawani",
+    "latitude": 26.209222,
+    "longitude": 78.16059589999999,
+    "place_id": "ChIJHzxzCVjFdjkRIr_n-6qLZoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzxzCVjFdjkRIr_n-6qLZoY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:47"
+  }
+]

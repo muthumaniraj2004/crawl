@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Musdiq Poultry",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "190017",
+    "phone_number": "+91 99061 02764",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sozeth, Sozeth Gori Pora Laway Pore Sirnager, Laway Pore, Gori Pora, Srinagar, Jammu and Kashmir 190017",
+    "area": "Kirmani Abad, Laway Pore",
+    "latitude": 34.1159278,
+    "longitude": 74.6814074,
+    "place_id": "ChIJPZx2SIGZ4TgRJY1b43mKg9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZx2SIGZ4TgRJY1b43mKg9Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:08:57"
+  },
+  {
+    "business_name": "Muzaffar Meet Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "190017",
+    "phone_number": "+91 60053 58273",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "1, Mandi, near Bus Stand, opp. Mediversal, Parim Pora, Qamarwari, Srinagar, Jammu and Kashmir 190017",
+    "area": "Parim Pora, Qamarwari",
+    "latitude": 34.100508399999995,
+    "longitude": 74.7672147,
+    "place_id": "ChIJWfkdvUib4TgRJDfmeuv6WNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfkdvUib4TgRJDfmeuv6WNw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:08:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stockarea",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Import export company, Transportation service, Warehouse",
+    "pincode": "190019",
+    "phone_number": "+91 98731 44145",
+    "website": "https://stockarea.io/",
+    "rating": 4.7,
+    "reviews_count": 90,
+    "address": "5th Floor, Venkatanarayana Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "T. Nagar",
+    "latitude": 13.039499699999999,
+    "longitude": 80.2339251,
+    "place_id": "ChIJowbuEqNnUjoR3xglhuEmYPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowbuEqNnUjoR3xglhuEmYPE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:13:55"
+  },
+  {
+    "business_name": "A. J. Best Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "190019",
+    "phone_number": "+91 73491 03986",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Unnamed Road, Pulikeshi Nagar, Fraser Town, Bengaluru, Karnataka 560005",
+    "area": "Pulikeshi Nagar, Fraser Town",
+    "latitude": 12.999116899999999,
+    "longitude": 77.61144829999999,
+    "place_id": "ChIJr6AQA_cWrjsR8GZtXZnmrWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6AQA_cWrjsR8GZtXZnmrWs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:13:55"
+  }
+]

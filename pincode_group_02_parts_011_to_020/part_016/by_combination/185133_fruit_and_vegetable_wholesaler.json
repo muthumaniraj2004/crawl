@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen Vegetable Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "185133",
+    "phone_number": "+91 60061 40629",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward No 10, Mill Area, Ranbir Singh Pura, Jammu and Kashmir 181111",
+    "area": "185133",
+    "latitude": 32.6029605,
+    "longitude": 74.73323239999999,
+    "place_id": "ChIJGxIlSRqRHjkRBB4LFhzZsF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxIlSRqRHjkRBB4LFhzZsF0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:18:03"
+  },
+  {
+    "business_name": "Take Agro India Pvt Ltd",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "185133",
+    "phone_number": "+91 98673 49595",
+    "website": "http://www.takeagro.com/",
+    "rating": 4.6,
+    "reviews_count": 85,
+    "address": "Krushi Wholesale Mart, New, Vegetable Market Rd, APMC Fruits and Vegetable Market, Sector 19, Turbhe, Navi Mumbai, Maharashtra 400703",
+    "area": "APMC Fruits and Vegetable Market, Sector 19, Turbhe",
+    "latitude": 19.0785391,
+    "longitude": 73.01347129999999,
+    "place_id": "ChIJDQyWHkTB5zsR3Fb3BwxWrIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQyWHkTB5zsR3Fb3BwxWrIg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:18:04"
+  }
+]

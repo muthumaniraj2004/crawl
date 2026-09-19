@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "184148",
+    "phone_number": "+91 99889 98984",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 30 first floor, opp. more supermarket, Sector 125, Sunny Enclave, Kharar, Punjab 140301",
+    "area": "Sector 125, Sunny Enclave",
+    "latitude": 30.7463567,
+    "longitude": 76.6687038,
+    "place_id": "ChIJabbcGRrvDzkREwV41ugER9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabbcGRrvDzkREwV41ugER9Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:52:09"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "184148",
+    "phone_number": "+91 89762 14792",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Plot - 12/13, Rose Mary villa, Tonny Compound, Sahar Village, Andheri East, Mumbai, Maharashtra 400099",
+    "area": "Sahar Village, Andheri East",
+    "latitude": 19.1010912,
+    "longitude": 72.8659411,
+    "place_id": "ChIJJdrXqSbJ5zsR3lsDEm8ukKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdrXqSbJ5zsR3lsDEm8ukKg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:52:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mid Town Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "190017",
+    "phone_number": "+91 99065 66083",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "159 Rambair grah Srinagar, Main lane, opp. Jamia Ahlihadis Masjid, Mukhdam Pora, Srinagar, Jammu and Kashmir 190017",
+    "area": "Mukhdam Pora",
+    "latitude": 34.1366355,
+    "longitude": 74.68905339999999,
+    "place_id": "ChIJVdxbPgmb4TgRKkOG8o-8Uhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdxbPgmb4TgRKkOG8o-8Uhc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:09:37"
+  },
+  {
+    "business_name": "Rather Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "190017",
+    "phone_number": "+91 70064 45455",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Road, Gagar Pora, Jammu and Kashmir 193401",
+    "area": "190017",
+    "latitude": 34.1150506,
+    "longitude": 74.66296489999999,
+    "place_id": "ChIJGWmBCAuZ4TgRCL1qCsItEno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWmBCAuZ4TgRCL1qCsItEno",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:09:38"
+  }
+]

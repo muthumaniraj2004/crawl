@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ideal General Stores",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "185135",
+    "phone_number": "+91 98220 30044",
+    "website": "http://www.idealgeneralstores.com/",
+    "rating": 3.8,
+    "reviews_count": 39,
+    "address": "Kalyan Chambers, 812, Sainath Path, Kapad Ganj, Satranj Wala Chowk, Raviwar Peth, Pune, Maharashtra 411002",
+    "area": "Kapad Ganj, Satranj Wala Chowk, Raviwar Peth",
+    "latitude": 18.5163291,
+    "longitude": 73.8606783,
+    "place_id": "ChIJVVVVJW_AwjsRw9ksV2kJwwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVJW_AwjsRw9ksV2kJwwQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:21:22"
+  },
+  {
+    "business_name": "Genuine Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Tool store",
+    "pincode": "185135",
+    "phone_number": "+91 99233 84552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "1029, Raviwar Peth, Laxmi Rd, near Shahji's Paratha house, Satranjiwala Chowk, Pune, Maharashtra 411002",
+    "area": "Kapad Ganj, Satranjiwala Chowk",
+    "latitude": 18.5159622,
+    "longitude": 73.86120749999999,
+    "place_id": "ChIJAQAAsELAwjsR5yit0F5czAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAsELAwjsR5yit0F5czAQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:21:22"
+  }
+]

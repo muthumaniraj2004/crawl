@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Glam Studio",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Make-up artist, Hairdresser",
+    "pincode": "190018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.2,
+    "reviews_count": null,
+    "address": "landmark: white box café, Main Rd Bemina, opposite Al Banaat Hyper Market, Sir Syed Abad, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Sir Syed Abad, Bemina",
+    "latitude": 34.073109099999996,
+    "longitude": 74.77044409999999,
+    "place_id": "ChIJp7ngcDWR4TgRddxI0OHGXwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7ngcDWR4TgRddxI0OHGXwo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:35"
+  },
+  {
+    "business_name": "Hairbucks Salon",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "190018",
+    "phone_number": "+91 94197 74034",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "New Court Road, Batamaloo- Mominabad Rd, Srinagar, Jammu and Kashmir 190009",
+    "area": "190018",
+    "latitude": 34.0708093,
+    "longitude": 74.78564039999999,
+    "place_id": "ChIJoce8qG-P4TgRj8MSc5lB8q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoce8qG-P4TgRj8MSc5lB8q0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:35"
+  }
+]

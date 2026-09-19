@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TASTY BITES",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "184144",
+    "phone_number": "+91 88995 01604",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Opposite Green Valley Public School Sanjimore, Road, Marheen, Kathua, Jammu and Kashmir 184144",
+    "area": "184144",
+    "latitude": 32.420396,
+    "longitude": 75.3272254,
+    "place_id": "ChIJ2aphEEkTHDkRAjPDOG8rFhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aphEEkTHDkRAjPDOG8rFhE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:48:42"
+  },
+  {
+    "business_name": "Cloud Kitchen, Khatu Shyam Foods",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "184144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "4/450, Rajni Khand, Sharda Nagar, Lucknow, Uttar Pradesh 226002",
+    "area": "Rajni Khand, Sharda Nagar",
+    "latitude": 26.7741109,
+    "longitude": 80.9338576,
+    "place_id": "ChIJR7seFAD7mzkRKci8B6NiiTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7seFAD7mzkRKci8B6NiiTg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:48:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKYRAY Healthcare",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "190003",
+    "phone_number": "+91 97974 25325",
+    "website": "https://skyrayhealthcare.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kaka Road, Nai Sarak- Habba Kadal Rd, Barbar Shah, Habba Kadal, Srinagar, Jammu and Kashmir 190001",
+    "area": "Barbar Shah, Habba Kadal",
+    "latitude": 34.078985599999996,
+    "longitude": 74.80701499999999,
+    "place_id": "ChIJN529awKP4TgRkpgOrA2rliM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN529awKP4TgRkpgOrA2rliM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:29"
+  },
+  {
+    "business_name": "Kashmir Health Collective",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Service establishment, Medical laboratory, Nursing agency, Physiotherapist",
+    "pincode": "190003",
+    "phone_number": "+91 70063 00321",
+    "website": "https://www.kashmirhealthcollective.com/",
+    "rating": 5,
+    "reviews_count": 43,
+    "address": "Kashmir Health Collective, 190003, India",
+    "area": "190003",
+    "latitude": 34.1067185,
+    "longitude": 74.80675509999999,
+    "place_id": "ChIJ8yIVLHZNSEARtA6iJz6InDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yIVLHZNSEARtA6iJz6InDw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:30"
+  }
+]

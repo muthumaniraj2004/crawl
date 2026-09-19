@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Oil Stores",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "185156",
+    "phone_number": "+91 94441 83803",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "37WM+7HR, No:,, 56, Acharappan St, Kothwal Chavadi, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Kothwal Chavadi, George Town",
+    "latitude": 13.092710199999999,
+    "longitude": 80.2834695,
+    "place_id": "ChIJ0azebFpvUjoRjodna7ZPSXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0azebFpvUjoRjodna7ZPSXs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:20"
+  },
+  {
+    "business_name": "Edible Oil Refinery and Packing Plant",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Oil refinery",
+    "all_categories": "Oil refinery",
+    "pincode": "185156",
+    "phone_number": "+91 74312 67431",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "76, Swiss Park, Badam Talla, Tollygunge, Kolkata, West Bengal 700033",
+    "area": "Swiss Park, Badam Talla, Tollygunge",
+    "latitude": 22.5038125,
+    "longitude": 88.3511616,
+    "place_id": "ChIJR3dhe8VwAjoRcEBrrhhZKPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3dhe8VwAjoRcEBrrhhZKPc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:21"
+  }
+]

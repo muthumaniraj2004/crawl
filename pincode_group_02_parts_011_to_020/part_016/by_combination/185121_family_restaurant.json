@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City palace restaurant and cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "185121",
+    "phone_number": "+91 96821 90013",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Near, Masjid Gali, Surankot, Jammu and Kashmir 185121",
+    "area": "185121",
+    "latitude": 33.6393467,
+    "longitude": 74.2615873,
+    "place_id": "ChIJydnLJP3T4TgRrwuo152G8y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydnLJP3T4TgRrwuo152G8y4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:13:02"
+  },
+  {
+    "business_name": "Kashmir Flavours Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "185121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "National Highway, near Alfa gate, Panj Grian, Jammu and Kashmir 185131",
+    "area": "185121",
+    "latitude": 33.3817121,
+    "longitude": 74.24140919999999,
+    "place_id": "ChIJz60zQ1stHjkRZrNZa_222NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz60zQ1stHjkRZrNZa_222NU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:13:02"
+  }
+]

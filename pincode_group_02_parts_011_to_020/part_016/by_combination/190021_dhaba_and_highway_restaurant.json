@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "190021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 43,
+    "address": "XJW2+4J8, 47, Chaul Kora No.1, Assam 785667",
+    "area": "190021",
+    "latitude": 26.995283699999998,
+    "longitude": 94.6015814,
+    "place_id": "ChIJ05TfCvkxRzcRbsN1jhgMEmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05TfCvkxRzcRbsN1jhgMEmA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:15:59"
+  },
+  {
+    "business_name": "Choudhary Bro's Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Fast food restaurant, Halal restaurant, Non Vegetarian Restaurant",
+    "pincode": "190021",
+    "phone_number": "+91 99062 38408",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Janipur Colony, 1-5, Patal Nagar, Jammu, Jammu and Kashmir 181121",
+    "area": "Patal Nagar",
+    "latitude": 32.7608361,
+    "longitude": 74.84705989999999,
+    "place_id": "ChIJBTHVgj6EHjkRWfGqNMQ7eDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTHVgj6EHjkRWfGqNMQ7eDA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:16:00"
+  }
+]

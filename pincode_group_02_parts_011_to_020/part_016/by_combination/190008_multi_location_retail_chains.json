@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naeem Telecom and Cool point",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "190008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Cherry Park چری پارک, Nagin Bagh, Srinagar, Jammu and Kashmir 190023",
+    "area": "Nagin Bagh",
+    "latitude": 34.1158931,
+    "longitude": 74.82724689999999,
+    "place_id": "ChIJTVHzFz2F4TgRkRENyXr6UL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVHzFz2F4TgRkRENyXr6UL8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:24"
+  },
+  {
+    "business_name": "Sparks",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler, Battery Store, Battery Wholesaler, Computer Wholesaler, Educational supply store, Electrical appliance wholesaler, Electrical equipment supplier, Electronics store, Office equipment supplier, Solar energy equipment supplier",
+    "pincode": "190008",
+    "phone_number": "+91 88997 88118",
+    "website": "http://sparkspower.in/",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Bypass, near flyover crossing, Engineers Colony, Nowgam, Srinagar, Jammu and Kashmir 190015",
+    "area": "Engineers Colony, Nowgam",
+    "latitude": 34.0252434,
+    "longitude": 74.8264713,
+    "place_id": "ChIJWWFqJpCP4TgRPMJmWvaQvck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWFqJpCP4TgRPMJmWvaQvck",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:25"
+  }
+]

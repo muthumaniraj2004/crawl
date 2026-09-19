@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D-Pizzania",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "190007",
+    "phone_number": "+91 99060 60566",
+    "website": "https://www.facebook.com/DPizzania",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main Market, Rangreth, Srinagar, Badgam, Jammu and Kashmir 190005",
+    "area": "Rangreth",
+    "latitude": 34.0007168,
+    "longitude": 74.7925374,
+    "place_id": "ChIJE6MwzkeP4TgRkiOxv37F1D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6MwzkeP4TgRkiOxv37F1D4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:55:09"
+  },
+  {
+    "business_name": "KFC",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chicken restaurant, Fast food restaurant, Fried chicken takeaway, Non Vegetarian Restaurant",
+    "pincode": "190007",
+    "phone_number": "+91 80 4595 2964",
+    "website": "https://restaurants.kfc.co.in/kfc-badgam-restaurants-badgam-budgam-34987/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "F & B 05 A, SHA, 1st Floor Indragandhi Road, Humhama, Badgam, Jammu and Kashmir 190007",
+    "area": "Humhama",
+    "latitude": 34.002354,
+    "longitude": 74.76239199999999,
+    "place_id": "ChIJi9mIg4eR4TgRUnC_cJK36dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9mIg4eR4TgRUnC_cJK36dQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:55:09"
+  }
+]

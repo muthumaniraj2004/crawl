@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service",
+    "pincode": "185156",
+    "phone_number": "+91 70083 58343",
+    "website": "https://sagartourtravelsberhampurorrisa.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Haridakhandi Rd, Narayana Nagar, Haridakhandi, Brahmapur, Odisha 760006",
+    "area": "Narayana Nagar, Haridakhandi",
+    "latitude": 19.3214713,
+    "longitude": 84.7706743,
+    "place_id": "ChIJ-dWzFJtPPToRNfRR8EDnBps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dWzFJtPPToRNfRR8EDnBps",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:56"
+  },
+  {
+    "business_name": "Beyond Tours and Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "185156",
+    "phone_number": "0301 1791733",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "main muhammad town, near chinar arms dealer, New Mirpur City, 10250",
+    "area": "185156",
+    "latitude": 33.1399987,
+    "longitude": 73.7459774,
+    "place_id": "ChIJM1fe97jtHzkRu0VfvIuK6cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1fe97jtHzkRu0VfvIuK6cQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:57"
+  }
+]

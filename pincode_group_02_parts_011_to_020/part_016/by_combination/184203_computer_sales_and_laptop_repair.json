@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.H Infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "184203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Jodhamal Bagh, Pathankot, Punjab 145001",
+    "area": "Jodhamal Bagh",
+    "latitude": 32.2702479,
+    "longitude": 75.6484435,
+    "place_id": "ChIJWbQa4Gt_HDkR0brk2eyr5bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbQa4Gt_HDkR0brk2eyr5bQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:55"
+  },
+  {
+    "business_name": "Sanganak IT Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer Hardware Company, Computer networking service, Computer store, Computer support and services, Data recovery service, Printer repair service, Used computer store",
+    "pincode": "184203",
+    "phone_number": "+91 97633 97526",
+    "website": "https://www.sanganakitsolutions.com/",
+    "rating": 4.9,
+    "reviews_count": 350,
+    "address": "1511-B,1st Floor, Saptashringi Apartments, Lane, above Dominos, near Renuka Swaroop Girls High School, Perugate, Sadashiv Peth, Pune, Maharashtra 411030",
+    "area": "Perugate, Sadashiv Peth",
+    "latitude": 18.5097059,
+    "longitude": 73.84904689999999,
+    "place_id": "ChIJkTetFHTAwjsRH09SkNF7Fg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTetFHTAwjsRH09SkNF7Fg0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:57"
+  }
+]

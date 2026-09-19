@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aura Aesthetics",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "190005",
+    "phone_number": "+91 96222 66627",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 14,
+    "address": "Sky city mall, Sanat Nagar, Srinagar, Jammu and Kashmir 190005",
+    "area": "Sanat Nagar",
+    "latitude": 34.0374079,
+    "longitude": 74.8017636,
+    "place_id": "ChIJdaFAOgCP4TgRPdKRrXzNEh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaFAOgCP4TgRPdKRrXzNEh0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:52:17"
+  },
+  {
+    "business_name": "The Mush Rooms",
+    "search_category": "Spa",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Guest house",
+    "pincode": "190005",
+    "phone_number": "+91 96222 27579",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 14,
+    "address": "Ari Bagh, Kanipora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Kanipora",
+    "latitude": 34.015994299999996,
+    "longitude": 74.82670379999999,
+    "place_id": "ChIJ9U4lYb6P4TgRXFY3CKaQ_BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9U4lYb6P4TgRXFY3CKaQ_BQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:52:17"
+  }
+]

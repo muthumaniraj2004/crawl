@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siya Bridal Store",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "190018",
+    "phone_number": "+91 98729 12749",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B-XX, 1121, Swarn, walia plaza, below Zudio, Ghumar Mandi, Ludhiana, Punjab 141001",
+    "area": "Ghumar Mandi",
+    "latitude": 30.902975899999998,
+    "longitude": 75.82928319999999,
+    "place_id": "ChIJK4m7aVSDGjkR1rKKRWMFEPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4m7aVSDGjkR1rKKRWMFEPA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:02"
+  },
+  {
+    "business_name": "Dapra Chandni Chowk",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Bridal shop",
+    "all_categories": "Bridal shop, Boutique, Clothes and fabric wholesaler, Clothing manufacturer, Clothing store, Designer Clothing Store, Men's clothing store, Wedding store",
+    "pincode": "190018",
+    "phone_number": "+91 85954 06198",
+    "website": "https://dapracom.localo.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kutcha Brijnath, 408-410, Chandni Chowk Rd, Kucha Ghasiram, Chandni Chowk, New Delhi, Delhi 110006",
+    "area": "Old Delhi, Kucha Ghasiram, Chandni Chowk",
+    "latitude": 28.6572121,
+    "longitude": 77.22492969999999,
+    "place_id": "ChIJWSOu2hP9DDkR1fpRqqCC1Y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSOu2hP9DDkR1fpRqqCC1Y8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:02"
+  }
+]

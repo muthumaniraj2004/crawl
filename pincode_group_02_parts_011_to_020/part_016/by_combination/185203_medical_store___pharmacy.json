@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit medical hall",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "185203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4J96+5X, Bharakh, Jammu and Kashmir 185203",
+    "area": "185203",
+    "latitude": 33.1179621,
+    "longitude": 74.6124743,
+    "place_id": "ChIJJRj-aQBrHjkR8mezYp3Iw1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRj-aQBrHjkR8mezYp3Iw1g",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:35:54"
+  },
+  {
+    "business_name": "Arun Healthcare Pharmacy",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "185203",
+    "phone_number": "+91 77809 66468",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main chowk, near radha krishna mandir, Sangani, Akhnoor, Jammu and Kashmir 181201",
+    "area": "185203",
+    "latitude": 32.9511645,
+    "longitude": 74.7372998,
+    "place_id": "ChIJB5kSXAtlHjkRqPnUX4zfJv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5kSXAtlHjkRqPnUX4zfJv0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:35:57"
+  }
+]

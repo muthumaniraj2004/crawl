@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arif General store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "185153",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Mawa, Sunderbani, Jammu and Kashmir 185153",
+    "area": "185153",
+    "latitude": 33.0613825,
+    "longitude": 74.5174801,
+    "place_id": "ChIJ7zGnLzNDHjkR4-JcqwUMZfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zGnLzNDHjkR4-JcqwUMZfI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:08"
+  },
+  {
+    "business_name": "Ashok General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "185153",
+    "phone_number": "+91 91495 00013",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "7, Jammu and Kashmir 185153",
+    "area": "185153",
+    "latitude": 33.0488128,
+    "longitude": 74.488445,
+    "place_id": "ChIJZxQsDfRFHjkRr5akHslJ4kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxQsDfRFHjkRr5akHslJ4kc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alok Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Supplier, Manufacturer",
+    "pincode": "190014",
+    "phone_number": "+91 94251 38548",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Koste Road, Waraseoni, Madhya Pradesh 481331",
+    "area": "190014",
+    "latitude": 21.7488205,
+    "longitude": 80.0676957,
+    "place_id": "ChIJMz160on3KjoRV6qQmaZnmoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMz160on3KjoRV6qQmaZnmoU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:54"
+  },
+  {
+    "business_name": "Bharatmata Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "190014",
+    "phone_number": "+91 94340 14664",
+    "website": "http://www.bharatmata.in/",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Ranjan bazar, Satkenduri, Dubrajpur, West Bengal 731123",
+    "area": "Satkenduri",
+    "latitude": 23.8015035,
+    "longitude": 87.3970179,
+    "place_id": "ChIJ43uVTAJd9zkROrTck5NHhDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43uVTAJd9zkROrTck5NHhDo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "O VANELLA",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "190005",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/o_vanell.a?igsh=MWZ1N2xmM2IxMXRkaQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Colony Batmaloo, Srinagar, Jammu and Kashmir 190010",
+    "area": "New Colony Batmaloo",
+    "latitude": 34.0726618,
+    "longitude": 74.7947427,
+    "place_id": "ChIJKxjtWHSP4TgRM1puEQx8Txs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxjtWHSP4TgRM1puEQx8Txs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:51:30"
+  },
+  {
+    "business_name": "The German Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "190005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sanat Nagar, Housing Colony, Chanpora, Srinagar, Jammu and Kashmir 190005",
+    "area": "Sanat Nagar, Housing Colony, Chanpora",
+    "latitude": 34.0291913,
+    "longitude": 74.8027898,
+    "place_id": "ChIJN5GE1JuP4TgRSVgGkvqnWLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5GE1JuP4TgRSVgGkvqnWLM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:51:31"
+  }
+]

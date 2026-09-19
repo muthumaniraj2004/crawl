@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FOUJI TEA STALL",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "184151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "8GF8+888, Jammu and Kashmir 184152",
+    "area": "184151",
+    "latitude": 32.323281699999995,
+    "longitude": 75.5158289,
+    "place_id": "ChIJsUeCVQB3HDkRvSefd0wEgT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUeCVQB3HDkRvSefd0wEgT4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:54"
+  },
+  {
+    "business_name": "Irish Coffee House 2.0",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "184151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "PV9F+8M4, Bahu Rd, University of Jammu, Gujarbasti, Jammu, Jammu and Kashmir 180006",
+    "area": "University of Jammu, Gujarbasti",
+    "latitude": 32.7181796,
+    "longitude": 74.8741466,
+    "place_id": "ChIJicWFfCmFHjkRZZtFI0AFCFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicWFfCmFHjkRZZtFI0AFCFE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:55"
+  }
+]

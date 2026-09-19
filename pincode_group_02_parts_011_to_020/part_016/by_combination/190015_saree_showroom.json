@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balbir Store",
+    "search_category": "Saree Showroom",
+    "primary_category": "Bridal shop",
+    "all_categories": "Bridal shop, Clothing store",
+    "pincode": "190015",
+    "phone_number": "+91 97700 00416",
+    "website": "http://www.balbirstore.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "128 - L, Model Town Main Market Rd, opposite Post Office, Pritm Nagar, Model Town, Ludhiana, Punjab 141002",
+    "area": "Pritm Nagar, Model Town",
+    "latitude": 30.8900096,
+    "longitude": 75.8423005,
+    "place_id": "ChIJmzJSUq2DGjkRCaVPv79B7R8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzJSUq2DGjkRCaVPv79B7R8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:07:22"
+  },
+  {
+    "business_name": "Kala Mandir Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "190015",
+    "phone_number": "+91 84770 69181",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kabari Bazaar Road, B.T. Ganj, Roorkee, Uttarakhand 247667",
+    "area": "B.T. Ganj",
+    "latitude": 29.8758688,
+    "longitude": 77.88721129999999,
+    "place_id": "ChIJ0bgT5IG0DjkRiv1Fdc2KKAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bgT5IG0DjkRiv1Fdc2KKAo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:07:22"
+  }
+]

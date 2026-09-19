@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property Brothers Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Industrial real estate agency, Property management company, Real estate consultant",
+    "pincode": "184210",
+    "phone_number": "+91 89286 99231",
+    "website": "https://propertybrothersrealty.com/",
+    "rating": 4.9,
+    "reviews_count": 88,
+    "address": "Shop No. 03, Plot No. 130, Raghunath Rd, near Ambika Bhawan Hotel, opposite Kamdhenu Commerz, Block G, Sector 13, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Block G, Sector 13, Kharghar",
+    "latitude": 19.043291999999997,
+    "longitude": 73.0723826,
+    "place_id": "ChIJewDadGbD5zsRDqp9EdBjwog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewDadGbD5zsRDqp9EdBjwog",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:09:05"
+  },
+  {
+    "business_name": "Samriddhikarta Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency, Real estate agent",
+    "pincode": "184210",
+    "phone_number": "+91 79747 08200",
+    "website": "https://samriddhikarta.com/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "House No, D/181, near Gulab Mandir, Priyadarshini Nagar, Priyadarshini Nagar Colony, Tagore Nagar, Raipur, Tikrapara, Chhattisgarh 492001",
+    "area": "Priyadarshini Nagar, Priyadarshini Nagar Colony, Tagore Nagar",
+    "latitude": 21.2219905,
+    "longitude": 81.6544285,
+    "place_id": "ChIJ5XjATnMl4wAREGrHJDp37bE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XjATnMl4wAREGrHJDp37bE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:09:05"
+  }
+]

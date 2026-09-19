@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trending Hub",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "185211",
+    "phone_number": "+91 70067 03231",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Masjid, Surankote Bustand, Gali, Jammu and Kashmir 185121",
+    "area": "185211",
+    "latitude": 33.6391255,
+    "longitude": 74.2625041,
+    "place_id": "ChIJk_aeI8PT4TgRTohLB1j_970",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_aeI8PT4TgRTohLB1j_970",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:37:32"
+  },
+  {
+    "business_name": "Zain Mens Club Kotli",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "185211",
+    "phone_number": "0349 8556998",
+    "website": "https://zainmensclubkotli.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Safdar Hussain Shah Market, Old Murgh, A.K Market, Kotli, 11100",
+    "area": "A.K Market",
+    "latitude": 33.5196177,
+    "longitude": 73.9032503,
+    "place_id": "ChIJsTHChJEh4DgR-WnirrxMUew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTHChJEh4DgR-WnirrxMUew",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:37:32"
+  }
+]

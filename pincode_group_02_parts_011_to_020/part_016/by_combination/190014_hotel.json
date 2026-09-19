@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Citadel",
+    "search_category": "Hotel",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "190014",
+    "phone_number": "+91 194 243 9288",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Lane 2, Sector 3, Gulberg colony, Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "Gulberg colony, Hyderpora",
+    "latitude": 34.0462585,
+    "longitude": 74.7923797,
+    "place_id": "ChIJ_8Yhw9GP4TgRMfuomq9Fxls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8Yhw9GP4TgRMfuomq9Fxls",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:24"
+  },
+  {
+    "business_name": "Stay Ambience",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "190014",
+    "phone_number": "+91 60062 80388",
+    "website": "https://www.stayambience.com/",
+    "rating": 4.9,
+    "reviews_count": 156,
+    "address": "airport road, 12 A, jeelanabad peerbagh, Srinagar, Jammu and Kashmir 190014",
+    "area": "Jeelanabad colony",
+    "latitude": 34.0340676,
+    "longitude": 74.7809857,
+    "place_id": "ChIJ8yk1YBSP4TgRltNxdBB1zTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yk1YBSP4TgRltNxdBB1zTY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:24"
+  }
+]

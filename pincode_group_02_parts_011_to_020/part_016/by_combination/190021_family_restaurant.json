@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza Hut | Srinagar Airport",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Pizza delivery",
+    "pincode": "190021",
+    "phone_number": "+91 89290 82810",
+    "website": "https://www.pizzahut.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Airport, Indragandhi Road, Humhama, Srinagar, Badgam, Jammu and Kashmir 190007",
+    "area": "Humhama",
+    "latitude": 34.0021749,
+    "longitude": 74.7624025,
+    "place_id": "ChIJBxqdOIWR4TgR-xCzawIDBWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxqdOIWR4TgR-xCzawIDBWc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:16:01"
+  },
+  {
+    "business_name": "Lazeez cafeteria & Fast food",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "190021",
+    "phone_number": "+91 70068 84946",
+    "website": "http://www.lazeezcafteria.co.in/",
+    "rating": 4,
+    "reviews_count": 16,
+    "address": "LAZEEZ CAFETERIA and fast food restaurant Doodhpathri, near Masjid sharief, Jammu and Kashmir 191111",
+    "area": "190021",
+    "latitude": 33.8597645,
+    "longitude": 74.5683962,
+    "place_id": "ChIJc5CIAj3B4TgR-tB8S9GwFZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5CIAj3B4TgR-tB8S9GwFZM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:16:03"
+  }
+]

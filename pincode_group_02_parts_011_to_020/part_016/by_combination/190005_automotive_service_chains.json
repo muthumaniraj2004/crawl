@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARG JEEP SRINAGAR",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Jeep dealer",
+    "all_categories": "Jeep dealer, Fiat dealer",
+    "pincode": "190005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "GORIPORA, Sanat Nagar, BYEPASS, Srinagar, Jammu and Kashmir 190005",
+    "area": "Sanat Nagar, BYEPASS",
+    "latitude": 34.0307271,
+    "longitude": 74.7935835,
+    "place_id": "ChIJ9_L3CjCO4TgRuQLVzXQu1aQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_L3CjCO4TgRuQLVzXQu1aQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:52:05"
+  },
+  {
+    "business_name": "Thailand Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "190005",
+    "phone_number": "+91 97977 03449",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 72,
+    "address": "Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "Hyderpora",
+    "latitude": 34.0497349,
+    "longitude": 74.7885168,
+    "place_id": "ChIJhVnN79CP4TgRhAPbC_k_JVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVnN79CP4TgRhAPbC_k_JVQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:52:07"
+  }
+]

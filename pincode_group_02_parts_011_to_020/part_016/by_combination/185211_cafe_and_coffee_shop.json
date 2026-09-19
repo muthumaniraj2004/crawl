@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangam",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "185211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "H629+6CX, BG Poonch Road, Kotan, 185211",
+    "area": "185211",
+    "latitude": 33.5513179,
+    "longitude": 74.21853329999999,
+    "place_id": "ChIJRdBmeojV4TgRvoamHPaaLac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdBmeojV4TgRvoamHPaaLac",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:37:28"
+  },
+  {
+    "business_name": "Al waha cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "185211",
+    "phone_number": "+91 70511 67081",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "Mendhar, Thera, Jammu and Kashmir 185211",
+    "area": "185211",
+    "latitude": 33.6020561,
+    "longitude": 74.1483969,
+    "place_id": "ChIJ6zeAxCIt4DgRh5bWtCNnWO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zeAxCIt4DgRh5bWtCNnWO0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:37:30"
+  }
+]

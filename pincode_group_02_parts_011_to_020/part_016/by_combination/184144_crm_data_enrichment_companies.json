@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bytefigure IT Solutions",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services",
+    "pincode": "184144",
+    "phone_number": "+91 89535 92854",
+    "website": "https://bytefigure.com/",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Plot No 86 B, Prayagraj, Uttar Pradesh 211019",
+    "area": "184144",
+    "latitude": 25.425063899999998,
+    "longitude": 81.9070842,
+    "place_id": "ChIJU49XaH7AmkoRUu5j_eCYwQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU49XaH7AmkoRUu5j_eCYwQQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:09"
+  },
+  {
+    "business_name": "Azure Dev - A Leading IT Company",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "184144",
+    "phone_number": "N/A",
+    "website": "https://azure.com.np/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hakimchowk, Bharatpur-10, 44200, Nepal",
+    "area": "184144",
+    "latitude": 27.6690938,
+    "longitude": 84.4343107,
+    "place_id": "ChIJc6-ew1vllDkRztZiPAh_hXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6-ew1vllDkRztZiPAh_hXo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:10"
+  }
+]

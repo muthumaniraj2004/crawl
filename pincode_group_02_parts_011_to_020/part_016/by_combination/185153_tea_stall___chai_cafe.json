@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Post",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "185153",
+    "phone_number": "+91 89999 06694",
+    "website": "https://teapost.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Building Name:, Sai Desire, Shop No. 6, S No. 66/4, Kate Vasti Rd, Block Sector:, Pimple Saudagar, Road:Near, Maharashtra 411027",
+    "area": "Block Sector:, Pimple Saudagar",
+    "latitude": 18.5934374,
+    "longitude": 73.8037761,
+    "place_id": "ChIJBRd733q5wjsRB4Kq4pGe8t8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRd733q5wjsRB4Kq4pGe8t8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:12"
+  },
+  {
+    "business_name": "Ashwini Traders",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler, Tea Manufacturer, Tea store",
+    "pincode": "185153",
+    "phone_number": "+91 93935 35959",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "HRJ7+WHX, Suyog Colony, Vinayak Nagar, New Sangavi, Pune, Pimpri-Chinchwad, Maharashtra 411061",
+    "area": "Suyog Colony, Vinayak Nagar, New Sangavi",
+    "latitude": 18.582351,
+    "longitude": 73.81399499999999,
+    "place_id": "ChIJT81dlci4wjsR-znKnjoXIp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT81dlci4wjsR-znKnjoXIp0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:14"
+  }
+]

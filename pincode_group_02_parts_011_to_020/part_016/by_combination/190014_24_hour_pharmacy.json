@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Makkah Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "190014",
+    "phone_number": "+91 70061 49462",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "Near garipoora bridge, Hamdaniya Colony, sector 8, Bemina, Jammu and Kashmir 190018",
+    "area": "Hamdaniya Colony, sector 8, Bemina",
+    "latitude": 34.063743699999996,
+    "longitude": 74.7580249,
+    "place_id": "ChIJjwyVxCeR4TgRfX5j6GKdTeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwyVxCeR4TgRfX5j6GKdTeU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:47"
+  },
+  {
+    "business_name": "davaindia Generic Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Health food store, Herbal medicine store, Medical supply store, Pharmaceutical company, Vitamin & supplements store",
+    "pincode": "190014",
+    "phone_number": "+91 96823 35573",
+    "website": "https://bagh-i-mehtab.davaindia.com/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Ground Floor, Main Road, near JK Bank, Bagh-i-Mehtab, Srinagar, Jammu and Kashmir 190019",
+    "area": "Bagh-i-Mehtab",
+    "latitude": 34.0174921,
+    "longitude": 74.8098265,
+    "place_id": "ChIJp3ypiw6P4TgRtP3HCP4g6e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3ypiw6P4TgRtP3HCP4g6e0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:47"
+  }
+]

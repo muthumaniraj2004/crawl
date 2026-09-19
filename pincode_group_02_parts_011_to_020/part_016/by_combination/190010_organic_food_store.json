@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyFoods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "190010",
+    "phone_number": "+91 94192 20008",
+    "website": "https://www.myfooods.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Court Road, Iqbal Abad Lane 1, opposite Mominabad, Srinagar, Jammu and Kashmir 190009",
+    "area": "190010",
+    "latitude": 34.0719298,
+    "longitude": 74.7883243,
+    "place_id": "ChIJF7SsvAKP4TgRmyPn1toSb7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7SsvAKP4TgRmyPn1toSb7Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:05"
+  },
+  {
+    "business_name": "The Farmers' Store Bandra West - Organic Food Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "190010",
+    "phone_number": "+91 77150 33332",
+    "website": "https://www.thefarmersstore.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop 4, Videocon Building, Dr Ambedkar Rd, opposite Bank Of Baroda, Pali Village, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Pali Village, Bandra West",
+    "latitude": 19.0655064,
+    "longitude": 72.8297558,
+    "place_id": "ChIJnVf7HBPJ5zsRmGLrHbqjGGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVf7HBPJ5zsRmGLrHbqjGGo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:06"
+  }
+]

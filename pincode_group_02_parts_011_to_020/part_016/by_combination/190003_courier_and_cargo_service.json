@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS COURIERS & CARGO SERVICES",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "190003",
+    "phone_number": "+91 98855 61347",
+    "website": "http://sscourier.in/",
+    "rating": 4.8,
+    "reviews_count": 63,
+    "address": "1-8-505/ B /21, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Prakash Nagar, Begumpet",
+    "latitude": 17.4395484,
+    "longitude": 78.4686159,
+    "place_id": "ChIJr3WKU4uRyzsR_IsIygR_zn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3WKU4uRyzsR_IsIygR_zn8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:49:18"
+  },
+  {
+    "business_name": "Delivery courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "190003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 25,
+    "address": "2R87+5GQ, Bagh-i-Mehtab, Srinagar, Jammu and Kashmir 190019",
+    "area": "Bagh-i-Mehtab",
+    "latitude": 34.0154657,
+    "longitude": 74.8138683,
+    "place_id": "ChIJTUIcHgCP4TgRTanhMDQKIjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUIcHgCP4TgRTanhMDQKIjM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:49:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AA HELPCARE POLYCLINIC & DIAGNOSTIC CENTRE",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "190008",
+    "phone_number": "+91 60058 27978",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite Ujala Cygnus, Sheikh-Ul-Alam Colony, Crossing, Nowgam, Pahroo, Srinagar, Jammu and Kashmir 190015",
+    "area": "Sheikh-Ul-Alam Colony, Crossing, Nowgam",
+    "latitude": 34.027613099999996,
+    "longitude": 74.8312929,
+    "place_id": "ChIJMd5nfraP4TgR946Hx40LMP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMd5nfraP4TgR946Hx40LMP0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:08"
+  },
+  {
+    "business_name": "Tayib Mercies",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "190008",
+    "phone_number": "+91 94190 16976",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "263, Balgarden - Nursing garh Rd, behind Petrol Pumps, Balgarden, Srinagar, Jammu and Kashmir 190010",
+    "area": "Balgarden",
+    "latitude": 34.076122999999995,
+    "longitude": 74.797322,
+    "place_id": "ChIJ4cEIkvGP4TgRUjYm2GpBb1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cEIkvGP4TgRUjYm2GpBb1A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:09"
+  }
+]

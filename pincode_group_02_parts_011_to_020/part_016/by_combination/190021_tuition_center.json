@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SEM College of Education",
+    "search_category": "Tuition Center",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "190021",
+    "phone_number": "+91 194 230 3406",
+    "website": "http://www.semcollege.org/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "2QC8+M58, Humhama, Badgam, Jammu and Kashmir 191112",
+    "area": "Humhama",
+    "latitude": 34.020396399999996,
+    "longitude": 74.76474569999999,
+    "place_id": "ChIJVVVVVeGR4TgRKcgdUlcriGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVeGR4TgRKcgdUlcriGY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:16:54"
+  },
+  {
+    "business_name": "Topper's Institute",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "190021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2Q7C+MM5, New Airport Riad,Shrinagar,, Humhama, Shri Nagar, Jammu and Kashmir 190021",
+    "area": "Humhama",
+    "latitude": 34.014131,
+    "longitude": 74.771743,
+    "place_id": "ChIJcwAAAOeR4TgRpR-cc70bfAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwAAAOeR4TgRpR-cc70bfAc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:16:54"
+  }
+]

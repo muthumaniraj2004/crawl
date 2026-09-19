@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Tea Point",
+    "search_category": "Shops",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "184203",
+    "phone_number": "+91 98586 27216",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vpp Mandli Ward No 2 Teshil, Dhar - Udhampur Rd, Billawar, Kathua, Jammu and Kashmir 184203",
+    "area": "184203",
+    "latitude": 32.6352943,
+    "longitude": 75.50450359999999,
+    "place_id": "ChIJuXjg3zVDHDkR5GdLGnyLQVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXjg3zVDHDkR5GdLGnyLQVY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:02:23"
+  },
+  {
+    "business_name": "Jai Chandi Maa Feed Store",
+    "search_category": "Shops",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "184203",
+    "phone_number": "+91 84920 03892",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Billawar Road, near Petrol Pump, Kathua, Jammu and Kashmir 184203",
+    "area": "184203",
+    "latitude": 32.6226944,
+    "longitude": 75.5164351,
+    "place_id": "ChIJp2YyHqhDHDkRI3haToGK73k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2YyHqhDHDkRI3haToGK73k",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:02:23"
+  }
+]

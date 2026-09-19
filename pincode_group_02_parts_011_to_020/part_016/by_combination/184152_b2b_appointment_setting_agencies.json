@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Branding agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "184152",
+    "phone_number": "+91 97803 30017",
+    "website": "https://binding1.odoo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Branding agency, 184152, India",
+    "area": "184152",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJAQDBksNQPIwRcEy_bCVZFkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDBksNQPIwRcEy_bCVZFkA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:57:09"
+  },
+  {
+    "business_name": "PCT Group",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Solar energy system service",
+    "pincode": "184152",
+    "phone_number": "+91 91711 65155",
+    "website": "https://pct-communications-pvt.grexa.site/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ward no. 02, Malager Market, Shaheedi Chowk, Ward N0 1 Down Town, Kathua, Jammu and Kashmir 184102",
+    "area": "Ward N0 1 Down Town",
+    "latitude": 32.3741117,
+    "longitude": 75.5229019,
+    "place_id": "ChIJBwXnwHFwHDkRONoAj4fFr5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwXnwHFwHDkRONoAj4fFr5I",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:57:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Great Rice Flour and Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "190011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kadekurishingal Road, Nayarambalam, Kochi, Keralam 682509",
+    "area": "Nayarambalam",
+    "latitude": 10.0609986,
+    "longitude": 76.2198131,
+    "place_id": "ChIJG0S9uNsRCDsR6q9s72nV-ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0S9uNsRCDsR6q9s72nV-ns",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:27"
+  },
+  {
+    "business_name": "Ali Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "190011",
+    "phone_number": "+91 99492 24787",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "8F8J+QMP, Barkas, Chandrayangutta, Hyderabad, Telangana 500005",
+    "area": "Barkas, Chandrayangutta",
+    "latitude": 17.3169516,
+    "longitude": 78.4817094,
+    "place_id": "ChIJ412qt7aiyzsRYLfegpncoSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ412qt7aiyzsRYLfegpncoSg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:27"
+  }
+]

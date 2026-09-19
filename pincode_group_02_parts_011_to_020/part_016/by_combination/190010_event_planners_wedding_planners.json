@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KKings Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "190010",
+    "phone_number": "+91 99201 22296",
+    "website": "http://www.kkingsevents.com/",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "4th floor, KKings Events, 401, BG Kher Rd, Maya Nagar, Siddharth Nagar, Worli, Mumbai, Maharashtra 400018",
+    "area": "Maya Nagar, Siddharth Nagar, Worli",
+    "latitude": 18.9963436,
+    "longitude": 72.8152692,
+    "place_id": "ChIJ6Z1ICOPN5zsR3Z9JVNcWjhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Z1ICOPN5zsR3Z9JVNcWjhs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:09"
+  },
+  {
+    "business_name": "Shaadi Squad",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "190010",
+    "phone_number": "+91 98200 03169",
+    "website": "http://www.shaadisquad.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "2nd Floor, Aashray Bungalow, B- 21, 19th Rd, opp. Meraki Salon & Spa, Khar, Khar West, Mumbai, Maharashtra 400052",
+    "area": "Khar, Khar West",
+    "latitude": 19.072954799999998,
+    "longitude": 72.82875419999999,
+    "place_id": "ChIJixDZgKvJ5zsR1SYlz3DvSC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixDZgKvJ5zsR1SYlz3DvSC0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:09"
+  }
+]

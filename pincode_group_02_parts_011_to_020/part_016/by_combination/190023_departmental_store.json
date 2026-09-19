@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arora Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Grocery delivery service",
+    "pincode": "190023",
+    "phone_number": "+91 97920 06234",
+    "website": "https://aroradepartmentalstore.com/",
+    "rating": 4.4,
+    "reviews_count": 1988,
+    "address": "4/267, Vivek Khand 4, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vivek Khand 4, Gomti Nagar",
+    "latitude": 26.8547171,
+    "longitude": 80.9979468,
+    "place_id": "ChIJFaXNYs_imzkR4jwEUl7DzjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaXNYs_imzkR4jwEUl7DzjU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:17:26"
+  },
+  {
+    "business_name": "Vaibhav Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "190023",
+    "phone_number": "+91 94511 44365",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 118,
+    "address": "4/408, Vivek Khand 4, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vivek Khand 4, Gomti Nagar",
+    "latitude": 26.854957499999998,
+    "longitude": 80.99819509999999,
+    "place_id": "ChIJ4U-0og_jmzkR8jwgnRk61ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4U-0og_jmzkR8jwgnRk61ko",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:17:26"
+  }
+]

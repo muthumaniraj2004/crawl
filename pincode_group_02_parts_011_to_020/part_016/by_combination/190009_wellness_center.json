@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Comfort care",
+    "search_category": "Wellness Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "190009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shaheen Mohalla, Noor Bagh, Srinagar, Jammu and Kashmir 193201",
+    "area": "Shaheen Mohalla, Noor Bagh",
+    "latitude": 34.074238699999995,
+    "longitude": 74.8035549,
+    "place_id": "ChIJFXTyJ3CP4TgR3svOn5CLFwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXTyJ3CP4TgR3svOn5CLFwA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:59:21"
+  },
+  {
+    "business_name": "Wellness Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "190009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "2QQR+M6F, Hyderpora Flyover, Ibrahim Colony, Hyderpora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Ibrahim Colony, Hyderpora",
+    "latitude": 34.0391914,
+    "longitude": 74.79053379999999,
+    "place_id": "ChIJGSGjEy2O4TgRDAmdDLvPLQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSGjEy2O4TgRDAmdDLvPLQM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:59:23"
+  }
+]

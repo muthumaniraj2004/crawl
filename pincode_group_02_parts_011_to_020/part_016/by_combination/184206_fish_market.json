@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naigaon Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "184206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Naigaon Station Rd, Rose Nagar, Naigaon West, Vasai-Virar, Maharashtra 401207",
+    "area": "Rose Nagar, Naigaon West",
+    "latitude": 19.342597599999998,
+    "longitude": 72.8372619,
+    "place_id": "ChIJt2rf2F2v5zsRFZUaOriEQiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2rf2F2v5zsRFZUaOriEQiQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:05:56"
+  },
+  {
+    "business_name": "By kangaraLachori Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "184206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 432,
+    "address": "M24F+GCG, Janna, Himachal Pradesh 176312",
+    "area": "184206",
+    "latitude": 32.6563021,
+    "longitude": 76.0235704,
+    "place_id": "ChIJ3aZrwjPrHDkRJOWs7ArYXGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aZrwjPrHDkRJOWs7ArYXGI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:05:57"
+  }
+]

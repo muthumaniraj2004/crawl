@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EchoLifestyles",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency",
+    "pincode": "184141",
+    "phone_number": "+91 78898 58398",
+    "website": "https://echolifestyles.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chak Dayala, Jammu and Kashmir 184144",
+    "area": "184141",
+    "latitude": 32.4730098,
+    "longitude": 75.3041097,
+    "place_id": "ChIJUXUicwATHDkRKGMFO_vdOFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXUicwATHDkRKGMFO_vdOFI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:44:42"
+  },
+  {
+    "business_name": "Mobile flyfot",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Mobile home rental agency",
+    "all_categories": "Mobile home rental agency, Service establishment",
+    "pincode": "184141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Mobile flyfot, 184141, India",
+    "area": "184141",
+    "latitude": null,
+    "longitude": null,
+    "place_id": "ChIJgWXuDdEXHDkRvgyNN_wQqSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWXuDdEXHDkRvgyNN_wQqSA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:44:42"
+  }
+]

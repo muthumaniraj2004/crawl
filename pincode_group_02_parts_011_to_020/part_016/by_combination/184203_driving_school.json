@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darshan Transport",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "184203",
+    "phone_number": "+91 70511 91621",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dynamic Electronics, 10, Dhar - Udhampur Rd, Kathua, Jammu and Kashmir 184203",
+    "area": "184203",
+    "latitude": 32.6338777,
+    "longitude": 75.5069354,
+    "place_id": "ChIJWcvL9YxDHDkRpHTxkegMo7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcvL9YxDHDkRpHTxkegMo7o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:22"
+  },
+  {
+    "business_name": "Mohd Jamil",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "184203",
+    "phone_number": "+91 95968 62309",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhar - Udhampur Rd, Gurah kalyal, Kathua, Jammu and Kashmir 184203",
+    "area": "Gurah kalyal",
+    "latitude": 32.6579112,
+    "longitude": 75.5043761,
+    "place_id": "ChIJTQ4WulBDHDkR25GooSCe48E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQ4WulBDHDkR25GooSCe48E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:22"
+  }
+]

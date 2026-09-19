@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Indian Grill",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant, Family restaurant",
+    "pincode": "185154",
+    "phone_number": "+91 74476 40444",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "53QX+WH3, Sushila Layout, Nari Village, Nagpur, Maharashtra 440014",
+    "area": "Sushila Layout, Nari Village",
+    "latitude": 21.1886829,
+    "longitude": 79.0967768,
+    "place_id": "ChIJHdy7czXB1DsRF8EmTJZta04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdy7czXB1DsRF8EmTJZta04",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:26:59"
+  },
+  {
+    "business_name": "Zayka Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Fast food restaurant, Restaurant",
+    "pincode": "185154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Near Golden Temple, Jallianwala Bagh, before, Katra Ahluwalia, Amritsar, Amritsar Cantt., Punjab 143006",
+    "area": "Near Golden Temple, Jallianwala Bagh, before, Katra Ahluwalia",
+    "latitude": 31.6207267,
+    "longitude": 74.879154,
+    "place_id": "ChIJUc_HJal8GTkRbDa0i9p8vIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUc_HJal8GTkRbDa0i9p8vIE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:26:59"
+  }
+]

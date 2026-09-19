@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phoenix Palladium",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "190019",
+    "phone_number": "+91 82911 25393",
+    "website": "https://phoenixpalladium.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",
+    "area": "Lower Parel",
+    "latitude": 18.994459,
+    "longitude": 72.825031,
+    "place_id": "ChIJG8VDYIzO5zsRqlIdGnKIkkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8VDYIzO5zsRqlIdGnKIkkY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:14:04"
+  },
+  {
+    "business_name": "M/S TRADERS",
+    "search_category": "Malls",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "190019",
+    "phone_number": "+91 70065 22280",
+    "website": "https://local.google.com/place?placeid=ChIJkTXerA-J4TgRZJfy_O5xIB8&utm_medium=noren&utm_source=gbp&utm_campaign=2026",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11 drangbal, Bus Stand Rd, near zero miles restaurant, Pampore, Jammu and Kashmir 192121",
+    "area": "190019",
+    "latitude": 34.021029299999995,
+    "longitude": 74.9178163,
+    "place_id": "ChIJkTXerA-J4TgRZJfy_O5xIB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTXerA-J4TgRZJfy_O5xIB8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:14:05"
+  }
+]

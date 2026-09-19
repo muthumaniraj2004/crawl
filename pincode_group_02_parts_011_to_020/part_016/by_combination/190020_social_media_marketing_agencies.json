@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Social Agent",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "190020",
+    "phone_number": "+91 89717 19955",
+    "website": "https://socialagent.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th Floor, BL Complex, 462, 16th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 4, HSR Layout",
+    "latitude": 12.912690699999999,
+    "longitude": 77.64000279999999,
+    "place_id": "ChIJHWpGLaVeyEURrJI5ClcFzok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWpGLaVeyEURrJI5ClcFzok",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:15:42"
+  },
+  {
+    "business_name": "Zedwel Digital marketing",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Branding agency",
+    "pincode": "190020",
+    "phone_number": "+91 99250 04900",
+    "website": "https://www.bizyocon.com/",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "519B, The Landmark, nr. Hotel Kansar, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Kudasan",
+    "latitude": 23.176399,
+    "longitude": 72.62946509999999,
+    "place_id": "ChIJ8RTzG-ErXDkR9o9FOGCqZrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RTzG-ErXDkR9o9FOGCqZrk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:15:44"
+  }
+]

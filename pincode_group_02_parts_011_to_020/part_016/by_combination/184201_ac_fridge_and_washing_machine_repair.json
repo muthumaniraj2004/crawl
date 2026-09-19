@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Appliance Care Center",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "184201",
+    "phone_number": "+91 79723 00575",
+    "website": "https://www.appliancecarecenter.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "flat no 704, Satyam Kashish Apartment, near crown bakery, Ambedkar Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Ambedkar Nagar, Kondhwa",
+    "latitude": 18.4591896,
+    "longitude": 73.8879705,
+    "place_id": "ChIJsTwlpI3rwjsRh2FL_xPt5Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTwlpI3rwjsRh2FL_xPt5Bw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:58:02"
+  },
+  {
+    "business_name": "Voltas Brand Shop Pathankot",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Air conditioning store, Air conditioning system supplier, Appliance Rental Agency, Electronics store, Electrical appliance wholesaler",
+    "pincode": "184201",
+    "phone_number": "+91 98764 74433",
+    "website": "https://www.voltas.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Dalhousie Road, near I Love, below Red Tape online outlet, Gate, Pathankot, Punjab 145001",
+    "area": "Gate",
+    "latitude": 32.2727222,
+    "longitude": 75.66752989999999,
+    "place_id": "ChIJ03ssxQp_HDkRx2gb2SvUTFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03ssxQp_HDkRx2gb2SvUTFU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:58:05"
+  }
+]

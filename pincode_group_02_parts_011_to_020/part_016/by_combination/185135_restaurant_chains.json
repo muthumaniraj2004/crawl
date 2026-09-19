@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khansama",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "185135",
+    "phone_number": "+91 63072 27017",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 566,
+    "address": "CRXQ+W44, Madhopur, Prayagraj, Uttar Pradesh 211001",
+    "area": "Madhopur",
+    "latitude": 25.4497645,
+    "longitude": 81.83782509999999,
+    "place_id": "ChIJ3xR7EsPLmjkR6vTwN_WPvhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xR7EsPLmjkR6vTwN_WPvhM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:20:05"
+  },
+  {
+    "business_name": "Vishal Sweets and Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian sweets shop",
+    "pincode": "185135",
+    "phone_number": "+91 70565 65648",
+    "website": "http://www.vishalsweets.in/",
+    "rating": 4.2,
+    "reviews_count": 321,
+    "address": "323, Narnaul Rd, Saini Mohalla, Rewari, Kanmajra, Haryana 123401",
+    "area": "Saini Mohalla",
+    "latitude": 28.1944885,
+    "longitude": 76.5965861,
+    "place_id": "ChIJIbUptOZRDTkRVvJK_ooadn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbUptOZRDTkRVvJK_ooadn8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:20:05"
+  }
+]

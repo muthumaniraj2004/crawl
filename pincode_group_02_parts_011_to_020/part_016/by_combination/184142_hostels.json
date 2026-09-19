@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Youth Hostel Sonamarg",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "184142",
+    "phone_number": "+91 74044 82453",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 162,
+    "address": "78X5+524, Srinagar - Ladakh Rd, Forest Block, Jammu and Kashmir 191202",
+    "area": "184142",
+    "latitude": 34.2978911,
+    "longitude": 75.3075671,
+    "place_id": "ChIJEfnsdBc14jgR0gA60YHreWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfnsdBc14jgR0gA60YHreWo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:46:05"
+  },
+  {
+    "business_name": "Whoopers Hostel - Bir",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Hotel, Student dormitory",
+    "pincode": "184142",
+    "phone_number": "+91 70189 92311",
+    "website": "https://www.whoopers.in/bir",
+    "rating": 4.8,
+    "reviews_count": 3037,
+    "address": "Bir Rd, Chaugan, Bir, Himachal Pradesh 176077",
+    "area": "184142",
+    "latitude": 32.0370726,
+    "longitude": 76.7204508,
+    "place_id": "ChIJNd4kw1O5BDkRPdxUpHVmtHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNd4kw1O5BDkRPdxUpHVmtHA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:46:05"
+  }
+]

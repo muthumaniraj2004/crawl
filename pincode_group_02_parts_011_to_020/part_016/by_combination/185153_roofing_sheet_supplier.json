@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Enterprises",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Roofing contractor",
+    "all_categories": "Roofing contractor, Roofing supply store, Sheet metal contractor",
+    "pincode": "185153",
+    "phone_number": "+91 98864 71501",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "#2393,3727,kacharkanahalli,Opp to BMTC bus depot,Hennur Main road, 2nd Cross Rd, 3rd Block, HBR Layout, Bengaluru, Karnataka 560043",
+    "area": "3rd Block, HBR Layout",
+    "latitude": 13.0263862,
+    "longitude": 77.63150689999999,
+    "place_id": "ChIJb8syRT0XrjsRN_EzhRny9eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8syRT0XrjsRN_EzhRny9eg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:55"
+  },
+  {
+    "business_name": "Kamala enterprises",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Roofing supply store",
+    "all_categories": "Roofing supply store",
+    "pincode": "185153",
+    "phone_number": "+91 99161 41171",
+    "website": "https://www.indiamart.com/kamala-enterprises-karnataka/our-products.html",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "79, Malagala Main Rd, 8 Block, 8th block, 2nd Stage, Nagarbhavi, Bengaluru, Karnataka 560072",
+    "area": "8 Block, 8th block, 2nd Stage, Nagarbhavi",
+    "latitude": 12.9722721,
+    "longitude": 77.5146161,
+    "place_id": "ChIJgctQUlc9rjsRO7Vv_5BptnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgctQUlc9rjsRO7Vv_5BptnY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:55"
+  }
+]

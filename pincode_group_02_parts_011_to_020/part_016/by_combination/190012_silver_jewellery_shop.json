@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "190012",
+    "phone_number": "+91 94194 27189",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "opposite J&K BANK, Qamarwari, Srinagar, Jammu and Kashmir 190012",
+    "area": "Qamarwari",
+    "latitude": 34.0917053,
+    "longitude": 74.77724189999999,
+    "place_id": "ChIJK9-Fim6b4TgReRk3NDJwgiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9-Fim6b4TgReRk3NDJwgiA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:59"
+  },
+  {
+    "business_name": "Maknoo Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Business broker, Goldsmith, Jewelry appraiser, Jewelry buyer, Jewelry designer, Jewelry repair service, Jewelry store, Silversmith, Wholesale jeweler",
+    "pincode": "190012",
+    "phone_number": "+91 94190 28281",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Jadeed link road, Baramulla, Jammu and Kashmir 193101",
+    "area": "190012",
+    "latitude": 34.2080487,
+    "longitude": 74.3415888,
+    "place_id": "ChIJmwSwJWQH4TgRAt2yqFSAndE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwSwJWQH4TgRAt2yqFSAndE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:04:01"
+  }
+]

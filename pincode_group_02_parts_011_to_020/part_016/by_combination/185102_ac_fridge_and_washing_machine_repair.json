@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dc Appliance",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "185102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dc Appliance, 185102, India",
+    "area": "185102",
+    "latitude": 43.901343999999995,
+    "longitude": -79.29863209999999,
+    "place_id": "ChIJPR3fTpGmc2cRORop_6RYlP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPR3fTpGmc2cRORop_6RYlP8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:11:53"
+  },
+  {
+    "business_name": "Housing Colony",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "185102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 27,
+    "address": "Pocket 3, Sector 2, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.6901606,
+    "longitude": 74.8963228,
+    "place_id": "ChIJ_95I4bWcHjkR_dAGs_mz6OQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_95I4bWcHjkR_dAGs_mz6OQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:11:53"
+  }
+]

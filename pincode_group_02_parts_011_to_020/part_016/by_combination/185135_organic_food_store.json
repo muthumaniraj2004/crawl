@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Harvest Farms",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm",
+    "pincode": "185135",
+    "phone_number": "+91 97909 48235",
+    "website": "https://happyharvestfarms.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kuppati rd, devaganapalli, hosur thally rd, hosur, Tamil Nadu 641035",
+    "area": "Ganapathi Maanagar",
+    "latitude": 11.053024599999999,
+    "longitude": 77.0032298,
+    "place_id": "ChIJNceHiMNrrjsRMf1El5iQz-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNceHiMNrrjsRMf1El5iQz-4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:54"
+  },
+  {
+    "business_name": "Organic Drops",
+    "search_category": "Organic Food Store",
+    "primary_category": "Outlet store",
+    "all_categories": "Outlet store",
+    "pincode": "185135",
+    "phone_number": "+91 81144 30784",
+    "website": "http://organicdrops.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Organic Drops, 7 A, Rangbari Rd, Keshavpura, Mahaveer Nagar, Kota, Kota Municipal Area, Rajasthan 324009",
+    "area": "Keshavpura, Mahaveer Nagar",
+    "latitude": 25.141824999999997,
+    "longitude": 75.8379605,
+    "place_id": "ChIJ2W8GIQCFbzkRBhAyo9JH7IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2W8GIQCFbzkRBhAyo9JH7IA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR SHASTRI MEDICOS",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "185201",
+    "phone_number": "+91 80828 54162",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tungi Mohola, bharda kalan, Jammu, Dehargaha, Jammu and Kashmir 181201",
+    "area": "bharda kalan",
+    "latitude": 32.9422156,
+    "longitude": 74.715171,
+    "place_id": "ChIJp0Lk1OhlHjkRGGi4Y1m-Hiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0Lk1OhlHjkRGGi4Y1m-Hiw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:32:25"
+  },
+  {
+    "business_name": "NK MEDICOS",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "185201",
+    "phone_number": "+91 97962 70044",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 5,
+    "address": "1, Ranbir Singh Pura, Jammu and Kashmir 181102",
+    "area": "185201",
+    "latitude": 32.6062639,
+    "longitude": 74.7338457,
+    "place_id": "ChIJ3YDByX2RHjkRbHNCq9b4SUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YDByX2RHjkRbHNCq9b4SUo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:32:25"
+  }
+]

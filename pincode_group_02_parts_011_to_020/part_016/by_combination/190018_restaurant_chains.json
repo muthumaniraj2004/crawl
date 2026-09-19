@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Grill Republic",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "190018",
+    "phone_number": "+91 84930 01216",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 63,
+    "address": "MIG, HIG Colony, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "HIG Colony, Bemina",
+    "latitude": 34.0889628,
+    "longitude": 74.7708418,
+    "place_id": "ChIJVUl6BTqb4TgRsfmQVdmugPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUl6BTqb4TgRsfmQVdmugPk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:10:53"
+  },
+  {
+    "business_name": "KFC",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chicken restaurant, Fast food restaurant, Fried chicken takeaway, Non Vegetarian Restaurant",
+    "pincode": "190018",
+    "phone_number": "+91 79 4272 6024",
+    "website": "https://restaurants.kfc.co.in/kfc-main-bemina-road-restaurants-main-bemina-road-srinagar-171879/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.2,
+    "reviews_count": 2059,
+    "address": "Ground Floor, Main Rd Bemina, opposite Degree College, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Bemina",
+    "latitude": 34.0764997,
+    "longitude": 74.7768853,
+    "place_id": "ChIJTUWwOzaR4TgRafRUeIkI84o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUWwOzaR4TgRafRUeIkI84o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:10:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Bhat A1 Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "190018",
+    "phone_number": "+91 94199 38112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bemina, 90 Feet Road, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Bemina",
+    "latitude": 34.0597237,
+    "longitude": 74.7527083,
+    "place_id": "ChIJ0SPmMrWR4TgRErhHMb9LUNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SPmMrWR4TgRErhHMb9LUNc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:24"
+  },
+  {
+    "business_name": "Bath Innovation",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "190018",
+    "phone_number": "+91 94190 10084",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Kfc, HIG Colony, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "HIG Colony, Bemina",
+    "latitude": 34.0769326,
+    "longitude": 74.77679479999999,
+    "place_id": "ChIJPTTVCdOR4TgRT82oBqI30Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTTVCdOR4TgRT82oBqI30Xg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:25"
+  }
+]

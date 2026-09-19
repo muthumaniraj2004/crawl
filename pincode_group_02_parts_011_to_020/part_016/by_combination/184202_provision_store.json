@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Chandel Provisional Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "184202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TEHSIL, Billawar, Jammu and Kashmir 184204",
+    "area": "184202",
+    "latitude": 32.6169357,
+    "longitude": 75.603655,
+    "place_id": "ChIJ5Q1RRABdHDkRnkDhM9mRw3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Q1RRABdHDkRnkDhM9mRw3U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:58:58"
+  },
+  {
+    "business_name": "Jeevan General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "184202",
+    "phone_number": "+91 99062 18000",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, Old, Billawar Rd, near Wine Shop, Kathua, Billawar, Jammu and Kashmir 184205",
+    "area": "184202",
+    "latitude": 32.610802299999996,
+    "longitude": 75.60244449999999,
+    "place_id": "ChIJgel0hu1dHDkRuF7cbXAIlm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgel0hu1dHDkRuF7cbXAIlm8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:58:58"
+  }
+]

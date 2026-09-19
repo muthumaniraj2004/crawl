@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Government Veterinary Hospital Begur",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "185234",
+    "phone_number": "N/A",
+    "website": "http://ahvs.kar.nic.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "DLF Newtown, Begur, Bengaluru, Karnataka 560114",
+    "area": "DLF Newtown, Begur",
+    "latitude": 12.876266399999999,
+    "longitude": 77.6258222,
+    "place_id": "ChIJg0U1jjRrrjsRmL6nq2oqrik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0U1jjRrrjsRmL6nq2oqrik",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:43:05"
+  },
+  {
+    "business_name": "The WONDER VET",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Pathologist, Pet groomer, Pet store, Veterinary pharmacy",
+    "pincode": "185234",
+    "phone_number": "+91 81005 67116",
+    "website": "https://www.wondervet.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Garia Station Rd, behind Dishari Club, Central Balia, Garia, Kolkata, Rajpur Sonarpur, West Bengal 700084",
+    "area": "Central Balia, Garia",
+    "latitude": 22.466283999999998,
+    "longitude": 88.3960163,
+    "place_id": "ChIJQR1crKNxAjoRBVtjQrj-LTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQR1crKNxAjoRBVtjQrj-LTQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:43:06"
+  }
+]

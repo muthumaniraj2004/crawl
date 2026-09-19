@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Parizaad",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "190009",
+    "phone_number": "+91 70517 05147",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Batamaloo- Mominabad Rd, Mominabad, Srinagar, Jammu and Kashmir 190010",
+    "area": "Mominabad",
+    "latitude": 34.0703242,
+    "longitude": 74.7848386,
+    "place_id": "ChIJO1X1qZeP4TgRp57SXzujPAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1X1qZeP4TgRp57SXzujPAA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:38"
+  },
+  {
+    "business_name": "Mr. Jawan Kumar",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "190009",
+    "phone_number": "+91 91498 46530",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "123, near Pcr, Shergarhi, Batmaloo, Srinagar, Jammu and Kashmir 190001",
+    "area": "Shergarhi, Batmaloo",
+    "latitude": 34.0727999,
+    "longitude": 74.798761,
+    "place_id": "ChIJ1XL3geCP4TgRzpAIfy9hU98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XL3geCP4TgRzpAIfy9hU98",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:41"
+  }
+]

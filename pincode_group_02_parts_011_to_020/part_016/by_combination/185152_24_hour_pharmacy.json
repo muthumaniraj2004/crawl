@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HEALTHY CHOICE PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Medical Center",
+    "pincode": "185152",
+    "phone_number": "+91 81302 46428",
+    "website": "https://www.drgargshealthcare.com/index.php",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Roza Yakubpur, Greater Noida, Uttar Pradesh 201305",
+    "area": "Roza Yakubpur",
+    "latitude": 28.6047917,
+    "longitude": 77.4563513,
+    "place_id": "ChIJKyqSchHvDDkRydr5qUdxGYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyqSchHvDDkRydr5qUdxGYs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:46"
+  },
+  {
+    "business_name": "24 Hrs Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "185152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Old No AA-10, Bus Stop, AA - 85, 2nd Ave, near Roundtana, Lapis lagoon, AA Block, Shanthi Colony, Anna Nagar, Chennai, Tamil Nadu 600040",
+    "area": "Lapis lagoon, AA Block, Shanthi Colony, Anna Nagar",
+    "latitude": 13.0845007,
+    "longitude": 80.21601969999999,
+    "place_id": "ChIJ_coCjbZlUjoRxFMa_9pkOLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_coCjbZlUjoRxFMa_9pkOLE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:46"
+  }
+]

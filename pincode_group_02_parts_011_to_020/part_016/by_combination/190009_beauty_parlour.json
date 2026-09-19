@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GMS Trading Agency Maisuma",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "190009",
+    "phone_number": "+91 84918 27336",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12, near The Bund Road, Maisuma, Barro, Srinagar, Jammu and Kashmir 190009",
+    "area": "Maisuma, Barro",
+    "latitude": 34.0724917,
+    "longitude": 74.8074044,
+    "place_id": "ChIJo3LWorqP4TgR3YbnAKuihGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3LWorqP4TgR3YbnAKuihGo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:59:18"
+  },
+  {
+    "business_name": "Nazakat Cosmetics",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "190009",
+    "phone_number": "+91 70068 59113",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Batmaloo, Iqbal Market, Old Bus Stand, near Haya Hospital Batmaloo, near Haya Hospital, Srinagar, Jammu and Kashmir 190010",
+    "area": "190009",
+    "latitude": 34.0771819,
+    "longitude": 74.79047419999999,
+    "place_id": "ChIJBxNEHjmP4TgRMFCxO6nuJ2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxNEHjmP4TgRMFCxO6nuJ2E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:59:18"
+  }
+]

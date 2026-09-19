@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pine leaf hotel & Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "184203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "mata, Sukrala, Billawar, Jammu and Kashmir 184204",
+    "area": "mata",
+    "latitude": 32.6525791,
+    "longitude": 75.58812329999999,
+    "place_id": "ChIJR1k58SxdHDkROfvkqmsLMgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1k58SxdHDkROfvkqmsLMgc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:44"
+  },
+  {
+    "business_name": "Des raj & sons home stay",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "184203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QJ42+PR, Kindli, Jammu and Kashmir 184204",
+    "area": "184203",
+    "latitude": 32.7560669,
+    "longitude": 75.6016733,
+    "place_id": "ChIJdyzLGwBbHDkR6MNv_xFmqmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyzLGwBbHDkR6MNv_xFmqmM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:44"
+  }
+]

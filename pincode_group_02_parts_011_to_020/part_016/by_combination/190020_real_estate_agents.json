@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bismillah Property Dealer",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "190020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4RW5+8GV, Iqbal Colony Lane 5A, Shuru, Buchpora, Srinagar, Jammu and Kashmir 190023",
+    "area": "Shuru, Buchpora",
+    "latitude": 34.145859099999996,
+    "longitude": 74.8087992,
+    "place_id": "ChIJjVXwROmE4TgRMSUMOID_QCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVXwROmE4TgRMSUMOID_QCc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:15:32"
+  },
+  {
+    "business_name": "All in one",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "190020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Umerhair, Srinagar, Jammu and Kashmir 190020",
+    "area": "Umerhair",
+    "latitude": 34.1577641,
+    "longitude": 74.8019632,
+    "place_id": "ChIJY_0m3nWF4TgRa6sassNLLBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_0m3nWF4TgRa6sassNLLBQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:15:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAZVI TAILOR",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "185233",
+    "phone_number": "+91 78893 91380",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dandwat, Tuli, Jammu and Kashmir 185233",
+    "area": "185233",
+    "latitude": 33.3652679,
+    "longitude": 74.66602999999999,
+    "place_id": "ChIJKeeJPdgXHjkRh1At9DQVLpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeeJPdgXHjkRh1At9DQVLpA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:41:11"
+  },
+  {
+    "business_name": "Btown apparelz",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "185233",
+    "phone_number": "+91 84928 93285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bustand road, Kotranka, Kandi, Jammu and Kashmir 185233",
+    "area": "185233",
+    "latitude": 33.361512999999995,
+    "longitude": 74.5176582,
+    "place_id": "ChIJe9txBgAjHjkRTvSjYXKJTAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9txBgAjHjkRTvSjYXKJTAc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:41:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office Kandi",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "185233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9GM3+2CF, Kandi, 185233",
+    "area": "185233",
+    "latitude": 33.3825692,
+    "longitude": 74.503553,
+    "place_id": "ChIJdZbaW4cjHjkR_xw5NPS8AR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZbaW4cjHjkR_xw5NPS8AR0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:42:13"
+  },
+  {
+    "business_name": "Post Office Sherghari",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "185233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9PWC+XCR, Chandial Kot, 185233",
+    "area": "185233",
+    "latitude": 33.3974811,
+    "longitude": 74.7210126,
+    "place_id": "ChIJCSkYHFEbHjkR3HyNvSkHxPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSkYHFEbHjkR3HyNvSkHxPw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:42:13"
+  }
+]

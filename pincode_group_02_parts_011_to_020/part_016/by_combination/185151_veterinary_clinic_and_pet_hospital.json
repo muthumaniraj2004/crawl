@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VETERINARY HOSPITAL HOWSHERA",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "185151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "565Q+8R2, Naushera, Forest Block, 185151",
+    "area": "185151",
+    "latitude": 33.1582648,
+    "longitude": 74.23952609999999,
+    "place_id": "ChIJxdzuhJ81HjkRsv_VDBt4jR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdzuhJ81HjkRsv_VDBt4jR4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:06"
+  },
+  {
+    "business_name": "Vet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "185151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37PJ+JM, Chak Jaralan, 185151",
+    "area": "185151",
+    "latitude": 33.0866208,
+    "longitude": 74.2816325,
+    "place_id": "ChIJF2MOp59LHjkReLnTVGuxVXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2MOp59LHjkReLnTVGuxVXM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:06"
+  }
+]

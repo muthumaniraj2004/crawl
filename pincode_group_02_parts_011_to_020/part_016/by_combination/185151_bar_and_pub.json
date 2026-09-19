@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mushtaq Chicken Corner",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "185151",
+    "phone_number": "+91 96223 77541",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "New Nowshera Bridge, Road, Naushera, Narian, Jammu and Kashmir 185151",
+    "area": "Road",
+    "latitude": 33.1523391,
+    "longitude": 74.2493411,
+    "place_id": "ChIJ9YGBMkE1HjkRfjcBtqJyd9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YGBMkE1HjkRfjcBtqJyd9Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:21:48"
+  },
+  {
+    "business_name": "Irish Pub",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub, Bar, Cafe, Disco club, Garden, Pool billard club, Restaurant",
+    "pincode": "185151",
+    "phone_number": "N/A",
+    "website": "http://www.facebook.com/irishpubpokhara",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Lake Lakeside Rd, Pokhara, Gandaki Province 33700, Nepal",
+    "area": "185151",
+    "latitude": 28.2105385,
+    "longitude": 83.95698449999999,
+    "place_id": "ChIJc5I8XB6VlTkRIWckoyU5Dco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5I8XB6VlTkRIWckoyU5Dco",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:21:49"
+  }
+]

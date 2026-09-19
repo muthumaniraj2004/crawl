@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E-com Education Pvt. Ltd",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Consultant",
+    "pincode": "190014",
+    "phone_number": "+91 70061 31836",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5th Floor, chinar complex, Airport Rd, Baghat, Srinagar, Jammu and Kashmir 190014",
+    "area": "Baghat",
+    "latitude": 34.0411169,
+    "longitude": 74.7998322,
+    "place_id": "ChIJq6q6Ey2O4TgRpvlEIib4SVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q6Ey2O4TgRpvlEIib4SVs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:34"
+  },
+  {
+    "business_name": "INPHASE Education Consultants",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "190014",
+    "phone_number": "+91 97966 66123",
+    "website": "https://inphase.global/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, Hyder Complex, above K C Hyundai, Gul Berg Colony, Hyderpora, Srinagar, Jammu and Kashmir 190005",
+    "area": "Gul Berg Colony, Hyderpora",
+    "latitude": 34.0434403,
+    "longitude": 74.789562,
+    "place_id": "ChIJTSB4K0iP4TgRF4ngvcMjLoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSB4K0iP4TgRF4ngvcMjLoQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:34"
+  }
+]

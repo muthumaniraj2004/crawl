@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Decorators",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Painter",
+    "all_categories": "Painter",
+    "pincode": "190008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3RP6+8FR, Fateh Kadal, Srinagar, 190001",
+    "area": "Fateh Kadal",
+    "latitude": 34.0858706,
+    "longitude": 74.81113549999999,
+    "place_id": "ChIJTfCfPZCP4TgR6jZ5BUx3kFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfCfPZCP4TgR6jZ5BUx3kFI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:40"
+  },
+  {
+    "business_name": "The chinar events management company",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "190008",
+    "phone_number": "+91 97974 51285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "chowk, Natipora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Natipora",
+    "latitude": 34.0473652,
+    "longitude": 74.80964159999999,
+    "place_id": "ChIJTVX2omeP4TgRBj5DJ_cbzUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVX2omeP4TgRBj5DJ_cbzUM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:42"
+  }
+]

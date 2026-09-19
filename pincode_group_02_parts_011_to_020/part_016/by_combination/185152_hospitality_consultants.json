@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Win-Win Hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "185152",
+    "phone_number": "+91 98155 54453",
+    "website": "http://www.winwinhospitality.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10D, Sector 10, Chandigarh, 160011",
+    "area": "10D, Sector 10",
+    "latitude": 30.7528622,
+    "longitude": 76.7884442,
+    "place_id": "ChIJBQV_4ZXtDzkRtxRbICPDv8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQV_4ZXtDzkRtxRbICPDv8U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:24:26"
+  },
+  {
+    "business_name": "Morris Hospitality Solutions",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "185152",
+    "phone_number": "+91 88264 66324",
+    "website": "https://www.mhsjobs.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Morris Hospitality Solutions, 185152, India",
+    "area": "185152",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ7x6r3FUZZoERcqGXuZcUl3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x6r3FUZZoERcqGXuZcUl3s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:24:27"
+  }
+]

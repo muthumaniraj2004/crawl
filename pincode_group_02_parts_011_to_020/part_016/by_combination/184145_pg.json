@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PG for Girls",
+    "search_category": "PG",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "184145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "201, Lajpat Nagar, Canal Road, Jammu, Jammu and Kashmir 180016",
+    "area": "Lajpat Nagar, Canal Road",
+    "latitude": 32.7268454,
+    "longitude": 74.8507738,
+    "place_id": "ChIJxwHnHhCFHjkRPKZZye3ZBJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwHnHhCFHjkRPKZZye3ZBJ8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:51:15"
+  },
+  {
+    "business_name": "A. S. Traders",
+    "search_category": "PG",
+    "primary_category": "Gas Agency",
+    "all_categories": "Gas Agency, Appliance store, Gas cylinders supplier, Gas installation service, Gas shop",
+    "pincode": "184145",
+    "phone_number": "+91 99060 76592",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 49,
+    "address": "Sunjwan Rd, opp. B. N. College, Nawabad, Jammu, Jammu and Kashmir 180011",
+    "area": "Nawabad",
+    "latitude": 32.7062057,
+    "longitude": 74.9060923,
+    "place_id": "ChIJz-KDMzCDHjkRvMAxRHGk0pc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-KDMzCDHjkRvMAxRHGk0pc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:51:17"
+  }
+]

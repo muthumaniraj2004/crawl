@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedic Ayurshala",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Herbalist",
+    "all_categories": "Herbalist",
+    "pincode": "184151",
+    "phone_number": "+91 96700 00105",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "North Awas, Vikas Colony, Katra, Jammu and Kashmir 272001",
+    "area": "Vikas Colony",
+    "latitude": 32.9915491,
+    "longitude": 74.9318698,
+    "place_id": "ChIJ84ecCOZ4HjkRLDFHtS648ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84ecCOZ4HjkRLDFHtS648ms",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:54:06"
+  },
+  {
+    "business_name": "IMC Jai Datti Ayurvedic Care",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "184151",
+    "phone_number": "+91 95966 29976",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Kalibari, Kathua, Janglote, Jammu and Kashmir 184104",
+    "area": "Kalibari",
+    "latitude": 32.3985602,
+    "longitude": 75.51287219999999,
+    "place_id": "ChIJGeBoKxJwHDkRQJK2sdrkr6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeBoKxJwHDkRQJK2sdrkr6s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:54:06"
+  }
+]

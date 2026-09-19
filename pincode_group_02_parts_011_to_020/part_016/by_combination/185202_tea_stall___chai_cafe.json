@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea time",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "185202",
+    "phone_number": "+91 98666 30560",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Raikal, Telangana 505460",
+    "area": "185202",
+    "latitude": 18.9073281,
+    "longitude": 78.8127107,
+    "place_id": "ChIJByiNMABzzTsRCtkzSxrx8zY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByiNMABzzTsRCtkzSxrx8zY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:33:55"
+  },
+  {
+    "business_name": "Vallabh Tea Company",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler, Tea store",
+    "pincode": "185202",
+    "phone_number": "+91 7182 237 907",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "31, Old Gunj Bazar, Main Market, Sindhi Colony, Gondia, Maharashtra 441601",
+    "area": "Main Market, Sindhi Colony",
+    "latitude": 21.456760799999998,
+    "longitude": 80.19211399999999,
+    "place_id": "ChIJNXTXVY2vKzoRInfkP9TByQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXTXVY2vKzoRInfkP9TByQ4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:33:57"
+  }
+]

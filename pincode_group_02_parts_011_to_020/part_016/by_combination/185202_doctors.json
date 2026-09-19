@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Medical Shop",
+    "search_category": "Doctors",
+    "primary_category": "Occupational medical physician",
+    "all_categories": "Occupational medical physician",
+    "pincode": "185202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "6C7F+M2V, Kalakote Road, Yeshwant Niwas Rd, Readymade Complex, New Palasia Extension, 185202",
+    "area": "Readymade Complex, New Palasia Extension",
+    "latitude": 33.2142413,
+    "longitude": 74.4225592,
+    "place_id": "ChIJhbx6sM45HjkRLf39fp_DzXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbx6sM45HjkRLf39fp_DzXc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:34:12"
+  },
+  {
+    "business_name": "Dalhori Rajouri",
+    "search_category": "Doctors",
+    "primary_category": "Obstetrician-gynecologist",
+    "all_categories": "Obstetrician-gynecologist",
+    "pincode": "185202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7CXM+3P, Dalhori, Jammu and Kashmir 185132",
+    "area": "185202",
+    "latitude": 33.2977051,
+    "longitude": 74.4342238,
+    "place_id": "ChIJXxTQdAA7HjkRxhhg4KtLLMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxTQdAA7HjkRxhhg4KtLLMA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:34:12"
+  }
+]

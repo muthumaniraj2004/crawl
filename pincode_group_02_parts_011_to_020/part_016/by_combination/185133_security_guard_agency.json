@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angel Securitas",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Security service",
+    "pincode": "185133",
+    "phone_number": "+91 98113 33357",
+    "website": "https://angelsecuritas.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "353, Bal Mukand, Tilak Khand Road, Giri Nagar, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Bal Mukund Khand, Giri Nagar, Kalkaji",
+    "latitude": 28.539369699999998,
+    "longitude": 77.26529959999999,
+    "place_id": "ChIJ____8-DjDDkRVIM6Y3jx0s4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____8-DjDDkRVIM6Y3jx0s4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:31"
+  },
+  {
+    "business_name": "Tuff Security Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "185133",
+    "phone_number": "+91 74107 32156",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "ABC Business Centre 43,Great Western Bldg Office No.40,1st Floor, N.M.Street, opp. Lion Gate, Mumbai, Maharashtra 400001",
+    "area": "Kala Ghoda, Fort",
+    "latitude": 18.928777699999998,
+    "longitude": 72.83375579999999,
+    "place_id": "ChIJJSjkaU-p5zsRnBcM9g-RsTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSjkaU-p5zsRnBcM9g-RsTY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:31"
+  }
+]

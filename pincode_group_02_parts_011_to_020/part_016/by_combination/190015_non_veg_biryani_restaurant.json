@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tandoori Nights",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "190015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Gulshan Nagar, Nowgam, Srinagar, Jammu and Kashmir 190015",
+    "area": "Gulshan Nagar, Nowgam",
+    "latitude": 34.0260947,
+    "longitude": 74.820832,
+    "place_id": "ChIJmeXfLVyO4TgRAjZewLArgCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeXfLVyO4TgRAjZewLArgCQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:07:15"
+  },
+  {
+    "business_name": "Delhi cuisine (Food as Mood)",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "190015",
+    "phone_number": "+91 95577 66283",
+    "website": "http://instagram.com/foodasmood_restaurant",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Jk bank, Budshah Nagar, Natipora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Budshah Nagar, Natipora",
+    "latitude": 34.0432518,
+    "longitude": 74.8176206,
+    "place_id": "ChIJUfxx_iSP4TgR8Q9l_J6YO_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfxx_iSP4TgR8Q9l_J6YO_k",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:07:15"
+  }
+]

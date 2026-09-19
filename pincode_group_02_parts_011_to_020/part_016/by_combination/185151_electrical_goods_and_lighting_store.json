@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subhan Electric Store",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "185151",
+    "phone_number": "0342 5004518",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "X39C+873, Bhimber",
+    "area": "185151",
+    "latitude": 32.9677449,
+    "longitude": 74.0699872,
+    "place_id": "ChIJDS2bIQCxHzkRsoxyxIJw_5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDS2bIQCxHzkRsoxyxIJw_5M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:18"
+  },
+  {
+    "business_name": "Bablu Electrical Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "185151",
+    "phone_number": "+91 70060 32457",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Thanamandi, Rajouri, Jammu and Kashmir 185131",
+    "area": "185151",
+    "latitude": 33.5397414,
+    "longitude": 74.3713934,
+    "place_id": "ChIJO4xZxu7X4TgRrA7B1rc1TWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4xZxu7X4TgRrA7B1rc1TWw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:18"
+  }
+]

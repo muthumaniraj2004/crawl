@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchayat ghar",
+    "search_category": "PG",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "185132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8FQ7+J8, Sawari, 185132",
+    "area": "185132",
+    "latitude": 33.3390617,
+    "longitude": 74.46336529999999,
+    "place_id": "ChIJlQdLiMM7HjkRbjrmatP8_ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQdLiMM7HjkRbjrmatP8_ZI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:17:20"
+  },
+  {
+    "business_name": "PG Hostel Block B",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "185132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "98VV+XW8, Rajouri, 185234",
+    "area": "185132",
+    "latitude": 33.3949205,
+    "longitude": 74.34481869999999,
+    "place_id": "ChIJG2wv5AgvHjkRYtRs-axffSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2wv5AgvHjkRYtRs-axffSs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:17:22"
+  }
+]

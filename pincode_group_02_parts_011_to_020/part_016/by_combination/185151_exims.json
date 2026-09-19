@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "eximkart.com",
+    "search_category": "EXIMS",
+    "primary_category": "Importer",
+    "all_categories": "Importer, Service establishment",
+    "pincode": "185151",
+    "phone_number": "N/A",
+    "website": "https://eximkart.com/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "eximkart.com, 185151, India",
+    "area": "185151",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJPZws4oK-nqkRvlaiG9fpnWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZws4oK-nqkRvlaiG9fpnWs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:12"
+  },
+  {
+    "business_name": "Bharti Exim Pvt Ltd",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "185151",
+    "phone_number": "+91 129 225 5102",
+    "website": "http://bhartiexim.com/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "102, DLF Industrial Estate Phase-1, Faridabad, Haryana 121003",
+    "area": "Block A, Rajeev Nagar, Sector 32",
+    "latitude": 28.457410399999997,
+    "longitude": 77.3132512,
+    "place_id": "ChIJX-O2QCnnDDkRL4AJBQq-jh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-O2QCnnDDkRL4AJBQq-jh0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:13"
+  }
+]

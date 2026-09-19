@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheikh house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "185102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R739+GF, Seroi, Jammu and Kashmir 185102",
+    "area": "185102",
+    "latitude": 33.8050843,
+    "longitude": 74.2684277,
+    "place_id": "ChIJBQmxCgDL4TgR9dzw62702yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQmxCgDL4TgR9dzw62702yQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:12:08"
+  },
+  {
+    "business_name": "Sathra",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "185102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "P6WC+X89, Sathra, Jammu and Kashmir 185102",
+    "area": "185102",
+    "latitude": 33.7474238,
+    "longitude": 74.2208673,
+    "place_id": "ChIJv0NsGwDN4TgRHXuTjnZ9k2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0NsGwDN4TgRHXuTjnZ9k2Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:12:08"
+  }
+]

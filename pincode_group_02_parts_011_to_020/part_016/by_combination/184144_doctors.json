@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma Medical Hall",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "184144",
+    "phone_number": "+91 88250 66199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Link Road, near Shiv Temple, opp. Seswan Chouk, Seswan, Kathua, Jammu and Kashmir 184148",
+    "area": "Seswan",
+    "latitude": 32.4765052,
+    "longitude": 75.3452008,
+    "place_id": "ChIJf1a8AfltHDkRzX3SQNsNoIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1a8AfltHDkRzX3SQNsNoIw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:48:56"
+  },
+  {
+    "business_name": "Medical Shop",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "184144",
+    "phone_number": "+91 94191 97757",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Link Road, near Bhola Studio, opp. Bakshi Provisional Store, Chani, Kathua, Muthi Hardu, Jammu and Kashmir 184144",
+    "area": "Chani",
+    "latitude": 32.4551516,
+    "longitude": 75.3617161,
+    "place_id": "ChIJcb7bz7RtHDkRKS4ExMDu7z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcb7bz7RtHDkRKS4ExMDu7z8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:48:58"
+  }
+]

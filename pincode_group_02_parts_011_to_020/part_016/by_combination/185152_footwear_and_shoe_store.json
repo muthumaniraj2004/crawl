@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "185152",
+    "phone_number": "+91 96222 05518",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3, Jammu and Kashmir 185153",
+    "area": "185152",
+    "latitude": 33.0493595,
+    "longitude": 74.4885224,
+    "place_id": "ChIJ8XtJSsBFHjkRuK8Pxsf7fB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XtJSsBFHjkRuK8Pxsf7fB0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:40"
+  },
+  {
+    "business_name": "vinay shoe center",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "185152",
+    "phone_number": "+91 95969 86518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2FXR+P76, Sunderbani, 185153",
+    "area": "185152",
+    "latitude": 33.0492816,
+    "longitude": 74.4906424,
+    "place_id": "ChIJVZkBAHtEHjkRRaGEMkOIH-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZkBAHtEHjkRRaGEMkOIH-k",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:42"
+  }
+]

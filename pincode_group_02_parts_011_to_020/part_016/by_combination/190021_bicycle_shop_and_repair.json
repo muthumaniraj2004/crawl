@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bycycle repair shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "190021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FR57+FRF, Manikpur, Mowkhowa, Assam 783392",
+    "area": "190021",
+    "latitude": 26.458677599999998,
+    "longitude": 90.8145617,
+    "place_id": "ChIJNQI4TwAJWTcRJLHRLTKFa5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQI4TwAJWTcRJLHRLTKFa5g",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:16:25"
+  },
+  {
+    "business_name": "Om Sakthi Cycle Repair Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "190021",
+    "phone_number": "+91 90031 02972",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "25H9+HWM, Trunk Rd, Venkateshwara Nagar, Ramapuram, Chennai, Tamil Nadu 600116",
+    "area": "Venkateshwara Nagar, Ramapuram",
+    "latitude": 13.0289536,
+    "longitude": 80.1698025,
+    "place_id": "ChIJtyNrxN5gUjoRauYIlVydNC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyNrxN5gUjoRauYIlVydNC0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:16:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Udak Raang",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "184205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P7RF+CJ, Udak, 182122",
+    "area": "184205",
+    "latitude": 32.7410268,
+    "longitude": 75.2740597,
+    "place_id": "ChIJRYmiAWw5HDkRTkrB0or0aEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYmiAWw5HDkRTkrB0or0aEg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:05:31"
+  },
+  {
+    "business_name": "SAHIL HOME TOWN",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "184205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "M88R+J45, Sundla, Bobay, Jammu and Kashmir 184205",
+    "area": "184205",
+    "latitude": 32.6665227,
+    "longitude": 75.34035519999999,
+    "place_id": "ChIJJ-7ndgA5HDkRE6naePapRd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-7ndgA5HDkRE6naePapRd8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:05:31"
+  }
+]

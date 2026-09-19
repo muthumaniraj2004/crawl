@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fort Washington Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital",
+    "pincode": "190020",
+    "phone_number": "N/A",
+    "website": "https://www.ftwashingtonvet.com/?utm_source=GMB&utm_medium=organic&utm_campaign=fortwashington",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "510 Pinetown Rd, Fort Washington, PA 19034, United States",
+    "area": "190020",
+    "latitude": 40.1400238,
+    "longitude": -75.1950603,
+    "place_id": "ChIJL8xUtOa6xokRRynMgMrIjMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8xUtOa6xokRRynMgMrIjMM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:14:42"
+  },
+  {
+    "business_name": "Ambler Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "190020",
+    "phone_number": "N/A",
+    "website": "https://www.amblervet.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "419 N Spring Garden St, Ambler, PA 19002, United States",
+    "area": "190020",
+    "latitude": 40.1613922,
+    "longitude": -75.2310541,
+    "place_id": "ChIJfePQ1k67xokRzAmV84NWV_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfePQ1k67xokRzAmV84NWV_c",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:14:42"
+  }
+]

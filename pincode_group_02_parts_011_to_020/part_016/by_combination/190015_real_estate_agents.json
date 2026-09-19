@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashmir Realtors",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "190015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2RCR+6C3, Kenihama, Srinagar, Jammu and Kashmir 190015",
+    "area": "Kenihama",
+    "latitude": 34.0205248,
+    "longitude": 74.8410535,
+    "place_id": "ChIJbS_ebgCP4TgRg1M0vWxIsYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbS_ebgCP4TgRg1M0vWxIsYw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:08:34"
+  },
+  {
+    "business_name": "Homes & Beyond",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Modular home dealer",
+    "all_categories": "Modular home dealer",
+    "pincode": "190015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "2RF9+X43, Gulshan Nagar, near Indane Gas Agency, Shaheen Bagh, Bypass, Nowgam, Srinagar, Jammu and Kashmir 190015",
+    "area": "Shaheen Bagh, Bypass, Nowgam",
+    "latitude": 34.0248893,
+    "longitude": 74.81780289999999,
+    "place_id": "ChIJbd1vbQCP4TgRbFRLk8RDUeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbd1vbQCP4TgRbFRLk8RDUeM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:08:37"
+  }
+]

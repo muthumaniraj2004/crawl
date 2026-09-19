@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Box Café",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "190018",
+    "phone_number": "+91 90703 33233",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 103,
+    "address": "Mumtaz Square, Main Rd Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Sir Syed Abad, Bemina",
+    "latitude": 34.0730509,
+    "longitude": 74.7704387,
+    "place_id": "ChIJIZy6xHqR4TgRyyHKxCRTZlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZy6xHqR4TgRyyHKxCRTZlY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:10:55"
+  },
+  {
+    "business_name": "Mazbalai Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Restaurant",
+    "pincode": "190018",
+    "phone_number": "+91 70069 01055",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "2, Mominabad, Tengpora, Srinagar, Jammu and Kashmir 190010",
+    "area": "Mominabad",
+    "latitude": 34.065813399999996,
+    "longitude": 74.77994369999999,
+    "place_id": "ChIJs6puKOmR4TgRrK0fFONg-k4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6puKOmR4TgRrK0fFONg-k4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:10:56"
+  }
+]

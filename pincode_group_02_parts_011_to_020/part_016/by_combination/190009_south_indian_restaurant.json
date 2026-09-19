@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Retro Grill",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "190009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "250, Jawahar Nagar, Srinagar, Jammu and Kashmir 190008",
+    "area": "Jawahar Nagar",
+    "latitude": 34.0623378,
+    "longitude": 74.8154855,
+    "place_id": "ChIJ1b_0O-GP4TgR0xKioD7hr7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1b_0O-GP4TgR0xKioD7hr7s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:36"
+  },
+  {
+    "business_name": "Al-Tahoor Spices",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "190009",
+    "phone_number": "+91 97972 22249",
+    "website": "https://altahoorspices.com/",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "3XF4+29W, Tailbal Road,Chinar Chowk, Shalimar, Srinagar, Jammu and Kashmir 191101",
+    "area": "190009",
+    "latitude": 34.07261,
+    "longitude": 74.9559481,
+    "place_id": "ChIJV1VVVSWI4TgRI9rmeqXV--M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1VVVSWI4TgRI9rmeqXV--M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:38"
+  }
+]

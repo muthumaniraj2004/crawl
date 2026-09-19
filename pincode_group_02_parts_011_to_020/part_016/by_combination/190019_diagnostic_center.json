@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Safa Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service",
+    "pincode": "190019",
+    "phone_number": "+91 77808 58528",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "1, Kralapora, Srinagar, Jammu and Kashmir 190009",
+    "area": "Kralapora",
+    "latitude": 33.9986051,
+    "longitude": 74.8151396,
+    "place_id": "ChIJL_7FPcWN4TgRYQqKV2sTByI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_7FPcWN4TgRYQqKV2sTByI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:12:55"
+  },
+  {
+    "business_name": "Al-Samad Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "190019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MC and OG Part, Bagh-i-Mehtab, Srinagar, Jammu and Kashmir 190019",
+    "area": "Bagh-i-Mehtab",
+    "latitude": 34.014489999999995,
+    "longitude": 74.81053229999999,
+    "place_id": "ChIJI8WbkG6O4TgRt9FbWZKNons",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8WbkG6O4TgRt9FbWZKNons",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:12:55"
+  }
+]

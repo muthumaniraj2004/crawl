@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smily Ice Cream Point & G.Store",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "185211",
+    "phone_number": "0346 5098168",
+    "website": "https://sites.google.com/view/smilyicecreampoint-gstore/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jamia Mohallah Teen Gumbad Wali Masjid, Plandri Road, near Plandri Road, Kotli, 11100",
+    "area": "185211",
+    "latitude": 33.5233115,
+    "longitude": 73.90237069999999,
+    "place_id": "ChIJ7f79-f4h4DgRqzQAxnA61-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7f79-f4h4DgRqzQAxnA61-s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:37:29"
+  },
+  {
+    "business_name": "NAINSI ICE CREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "185211",
+    "phone_number": "+91 96959 27533",
+    "website": "https://nainsiicecream.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "12, Gopalapur, Teonga, Uttar Pradesh 230002",
+    "area": "185211",
+    "latitude": 25.895494499999998,
+    "longitude": 81.9843418,
+    "place_id": "ChIJ_YiLbsOWmjkRAAAAcJmrixI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YiLbsOWmjkRAAAAcJmrixI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:37:30"
+  }
+]

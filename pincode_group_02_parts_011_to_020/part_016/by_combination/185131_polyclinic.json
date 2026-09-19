@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orthocare polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic",
+    "pincode": "185131",
+    "phone_number": "+91 60060 37208",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "98F8+4H6, Rajouri, Jammu and Kashmir 185133",
+    "area": "185131",
+    "latitude": 33.3727683,
+    "longitude": 74.31647819999999,
+    "place_id": "ChIJ2_LLYQAvHjkRlPfvUwpW1oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_LLYQAvHjkRlPfvUwpW1oc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:15:01"
+  },
+  {
+    "business_name": "APOLLO DIAGNOSTIC LABORATORY",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "185131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite GMC HOSPITAL, Danishabad, Kheora, Rajouri, Jammu and Kashmir 185131",
+    "area": "Danishabad, Kheora",
+    "latitude": 33.3883687,
+    "longitude": 74.3146895,
+    "place_id": "ChIJoeTrUQAvHjkRjNeUGp35pjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeTrUQAvHjkRjNeUGp35pjc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:15:01"
+  }
+]

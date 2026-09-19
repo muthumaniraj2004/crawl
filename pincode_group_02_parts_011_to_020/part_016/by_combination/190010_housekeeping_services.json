@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moonlight job placement agency",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency, Cleaning Services, House cleaning service, House sitter",
+    "pincode": "190010",
+    "phone_number": "N/A",
+    "website": "https://moonlight-job-placement.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "Parimpora mandi, Qamarwari, Srinagar, Jammu and Kashmir 190017",
+    "area": "Parimpora mandi, Qamarwari",
+    "latitude": 34.1028397,
+    "longitude": 74.7650237,
+    "place_id": "ChIJtX-E3uyb4TgR_6KWLwSMevI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtX-E3uyb4TgR_6KWLwSMevI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:34"
+  },
+  {
+    "business_name": "Tumbledry Dry Clean & Laundry Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Carpet cleaning service, Laundry, Laundry service, Shoe repair shop",
+    "pincode": "190010",
+    "phone_number": "+91 76772 50250",
+    "website": "https://tumbledry.in/store-locations/tumbledry-dry-clean-laundry-store-balgarden-srinagar/",
+    "rating": 4.8,
+    "reviews_count": 125,
+    "address": "Central Mall, Karan Nagar Rd, Balgarden, Srinagar, Jammu and Kashmir 190009",
+    "area": "Balgarden",
+    "latitude": 34.0784879,
+    "longitude": 74.79952469999999,
+    "place_id": "ChIJ7cY4paOP4TgRNMcgDZ0CcMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cY4paOP4TgRNMcgDZ0CcMg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:34"
+  }
+]

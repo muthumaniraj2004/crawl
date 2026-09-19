@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A One Golden Glow",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "185131",
+    "phone_number": "+91 91495 21550",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Jawahar Nagar, Rajouri, Jammu and Kashmir 185131",
+    "area": "Jawahar Nagar",
+    "latitude": 33.363886,
+    "longitude": 74.3246874,
+    "place_id": "ChIJY5ClUQUvHjkRUG5aMB3dnIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5ClUQUvHjkRUG5aMB3dnIM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:15:26"
+  },
+  {
+    "business_name": "Bhola Ram",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "185131",
+    "phone_number": "+91 70061 55319",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Salani, Rajouri, Jammu and Kashmir 185131",
+    "area": "Salani",
+    "latitude": 33.3694562,
+    "longitude": 74.3086817,
+    "place_id": "ChIJZYCn51EtHjkRxDPTF-OcGss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYCn51EtHjkRxDPTF-OcGss",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:15:26"
+  }
+]

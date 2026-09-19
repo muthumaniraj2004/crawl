@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "k2 World",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "190003",
+    "phone_number": "+91 70067 13504",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "k2 World, 190003, India",
+    "area": "190003",
+    "latitude": 33.9814544,
+    "longitude": 74.7889888,
+    "place_id": "ChIJYdjpK_KvoUgRDvsWt0jwKhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdjpK_KvoUgRDvsWt0jwKhI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:49:20"
+  },
+  {
+    "business_name": "Lone Property Dealers",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "190003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4P5M+WP8, Gowher Lane, Mustafabad, Srinagar, Jammu and Kashmir 190012",
+    "area": "Mustafabad",
+    "latitude": 34.1097907,
+    "longitude": 74.7343428,
+    "place_id": "ChIJn7ax-fea4TgRxroGfWOxkig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7ax-fea4TgRxroGfWOxkig",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:49:22"
+  }
+]

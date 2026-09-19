@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shah's The Supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Department store",
+    "pincode": "190003",
+    "phone_number": "+91 70068 76017",
+    "website": "http://zaidshah__instagram.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bota Kadal Rd, lalbazar, Shah market, Srinagar, Jammu and Kashmir 190023",
+    "area": "lalbazar, Shah market",
+    "latitude": 34.1210307,
+    "longitude": 74.81425879999999,
+    "place_id": "ChIJV3q5cB-F4TgRv2zL1I-QiQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3q5cB-F4TgRv2zL1I-QiQ8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:47:55"
+  },
+  {
+    "business_name": "Bashir Ahmad Wani",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "190003",
+    "phone_number": "+91 97967 68370",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "916, Hassi Bhat, Karapura, Rainawari, Srinagar, Jammu and Kashmir 190003",
+    "area": "Hassi Bhat, Karapura, Rainawari",
+    "latitude": 34.0989389,
+    "longitude": 74.8258209,
+    "place_id": "ChIJFYmEPXiF4TgR6cPU3hB8jJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYmEPXiF4TgR6cPU3hB8jJA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:47:56"
+  }
+]

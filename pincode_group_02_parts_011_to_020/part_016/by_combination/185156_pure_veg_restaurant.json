@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tite Da Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Family restaurant, North Indian restaurant, Dhaba",
+    "pincode": "185156",
+    "phone_number": "+91 98919 85041",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 2799,
+    "address": "B, 595-596, Shivaji College Rd, Block B, Raghubir Nagar, Tagore Garden Extension, New Delhi, Delhi, 110027",
+    "area": "Block B, Raghubir Nagar, Tagore Garden Extension",
+    "latitude": 28.6540112,
+    "longitude": 77.115707,
+    "place_id": "ChIJE-FuSncDDTkRtclBq9UV9p0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-FuSncDDTkRtclBq9UV9p0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:25"
+  },
+  {
+    "business_name": "Amrit Family Rasoi",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chinese restaurant, Family restaurant, North Indian restaurant, Punjabi restaurant",
+    "pincode": "185156",
+    "phone_number": "+91 96542 55565",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 992,
+    "address": "DDA MARKET, BG-6, Block BG 6, Paschim Vihar, New Delhi, Delhi, 110063",
+    "area": "Block BG 6, Paschim Vihar",
+    "latitude": 28.6627877,
+    "longitude": 77.1086282,
+    "place_id": "ChIJkTLv3oMDDTkR5z_fjK_GToM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTLv3oMDDTkR5z_fjK_GToM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:25"
+  }
+]

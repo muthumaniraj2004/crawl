@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yasrab Fruit And Vegetables",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "190012",
+    "phone_number": "+91 91496 53984",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Opposite Friends Colony Lane 1, HMT Rd, Srinagar, Jammu and Kashmir 190012",
+    "area": "Friends Colony",
+    "latitude": 34.1066107,
+    "longitude": 74.7422708,
+    "place_id": "ChIJDx3NYgWb4TgR74_bSJNujOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDx3NYgWb4TgR74_bSJNujOQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:40"
+  },
+  {
+    "business_name": "organic agri farms",
+    "search_category": "Organic Food Store",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "190012",
+    "phone_number": "+91 94698 29462",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main market, Srinagar, Jammu and Kashmir 190017",
+    "area": "190012",
+    "latitude": 34.1250554,
+    "longitude": 74.7197237,
+    "place_id": "ChIJjbS1lW6b4TgR7OXoGMzSLHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbS1lW6b4TgR7OXoGMzSLHo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:40"
+  }
+]

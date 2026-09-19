@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Center Hoshiarpur",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "184210",
+    "phone_number": "+91 94178 11322",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "City centre, near vishal mega mart, Model Town, Hoshiarpur, Punjab 146001",
+    "area": "Model Town",
+    "latitude": 31.534755899999997,
+    "longitude": 75.9035107,
+    "place_id": "ChIJba7OetLiGjkRBNSzI3PKgyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJba7OetLiGjkRBNSzI3PKgyQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:09:19"
+  },
+  {
+    "business_name": "PPR Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "184210",
+    "phone_number": "+91 98780 51012",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "shop no.13, PPR Mall, Mithapur Rd, opposite Chick Chick, Cheema Nagar, Phase 2, Urban Estate phase II, Jalandhar, Punjab 144001",
+    "area": "Ravindra Nagar, Phase 2, Urban Estate phase II",
+    "latitude": 31.297868599999997,
+    "longitude": 75.5810327,
+    "place_id": "ChIJ-0GmKZlbGjkRYG8lFdytRcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0GmKZlbGjkRYG8lFdytRcA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:09:19"
+  }
+]

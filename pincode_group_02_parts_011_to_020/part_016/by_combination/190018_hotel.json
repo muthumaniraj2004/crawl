@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel La Sera",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "190018",
+    "phone_number": "+91 88998 68588",
+    "website": "https://lasera.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ghanta Ghar, Hotel La Sera, Lal Chowk, Srinagar, Jammu and Kashmir 190001",
+    "area": "Lal Chowk",
+    "latitude": 34.0707743,
+    "longitude": 74.8099594,
+    "place_id": "ChIJXf64fniP4TgRZZz_DLZTu6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXf64fniP4TgRZZz_DLZTu6o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:44"
+  },
+  {
+    "business_name": "Hotel Regal Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "190018",
+    "phone_number": "+91 70062 31633",
+    "website": "http://www.hotelregalpalace.in/",
+    "rating": 4.2,
+    "reviews_count": 1067,
+    "address": "Regal Lane, Regal Chowk, Press Colony, Srinagar, Jammu and Kashmir 190001",
+    "area": "Regal Chowk, Press Colony",
+    "latitude": 34.071571999999996,
+    "longitude": 74.815496,
+    "place_id": "ChIJoUvwq5CP4TgRc-lJIwa8mR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUvwq5CP4TgRc-lJIwa8mR8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:45"
+  }
+]

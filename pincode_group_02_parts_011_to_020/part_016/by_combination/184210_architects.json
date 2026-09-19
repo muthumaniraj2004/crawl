@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Artista Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "184210",
+    "phone_number": "+91 99155 03673",
+    "website": "http://artistaarchitect.in/",
+    "rating": 4.8,
+    "reviews_count": 37,
+    "address": "Guru Arjan Dev Nagar Rd, Guru Arjan Dev Nagar, Ludhiana, Punjab 141008",
+    "area": "Guru Arjan Dev Nagar",
+    "latitude": 30.911828699999997,
+    "longitude": 75.8803468,
+    "place_id": "ChIJJRjOkT6DGjkRUrtO83zbPwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRjOkT6DGjkRUrtO83zbPwQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:08:27"
+  },
+  {
+    "business_name": "E-Naksha Architect",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "184210",
+    "phone_number": "+91 78378 46346",
+    "website": "http://www.enakshapunjab.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Khera Rd, Town Hall, Phagwara, Punjab 144632",
+    "area": "Town Hall",
+    "latitude": 31.187906299999998,
+    "longitude": 75.7542619,
+    "place_id": "ChIJRWULOjaLGjkRou0Jwv7g-0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWULOjaLGjkRou0Jwv7g-0c",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:08:27"
+  }
+]

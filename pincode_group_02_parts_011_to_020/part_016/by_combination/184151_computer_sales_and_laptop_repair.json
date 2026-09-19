@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IT WORLD",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "184151",
+    "phone_number": "+91 99061 29729",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "LANE 6, Lakkar Mandi Rd, Janipur, Jammu, Jammu and Kashmir 180007",
+    "area": "Janipur",
+    "latitude": 32.7599509,
+    "longitude": 74.8503195,
+    "place_id": "ChIJeTyK54WFHjkRow0i0tPoyZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTyK54WFHjkRow0i0tPoyZE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:54:59"
+  },
+  {
+    "business_name": "Prime Computers Retail",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "184151",
+    "phone_number": "+91 191 245 9948",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gole Market, 60a/b, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.7015022,
+    "longitude": 74.8609341,
+    "place_id": "ChIJW6kEMzCFHjkRcNCCSR_t4T8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6kEMzCFHjkRcNCCSR_t4T8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:54:59"
+  }
+]

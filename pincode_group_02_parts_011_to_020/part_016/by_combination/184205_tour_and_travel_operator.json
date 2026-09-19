@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Sharma Tour and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "184205",
+    "phone_number": "+91 60056 39793",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jallow, Kaghote, Gaghot, Ramnagar, Jammu and Kashmir 182126",
+    "area": "Jallow, Kaghote",
+    "latitude": 32.8016104,
+    "longitude": 75.2208481,
+    "place_id": "ChIJ6TNMV5AxHDkRQwUiPpCTZ-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TNMV5AxHDkRQwUiPpCTZ-I",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:04:45"
+  },
+  {
+    "business_name": "Jandial communication travel agent",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "184205",
+    "phone_number": "+91 70068 02921",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Blas Pur, Jammu and Kashmir 184205",
+    "area": "184205",
+    "latitude": 32.676562499999996,
+    "longitude": 75.2524375,
+    "place_id": "ChIJ48POkP85HDkRoXjRdpPRErs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48POkP85HDkRoXjRdpPRErs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:04:45"
+  }
+]

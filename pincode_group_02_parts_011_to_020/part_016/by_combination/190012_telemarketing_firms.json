@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhat Communication",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "190012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhat Complexe, Aban shah, HMT Rd, Mustafabad, Srinagar, Jammu and Kashmir 190012",
+    "area": "Mustafabad",
+    "latitude": 34.0957605,
+    "longitude": 74.7419721,
+    "place_id": "ChIJg4NKv4ab4TgRVdNcv5F2gY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4NKv4ab4TgRVdNcv5F2gY0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:17"
+  },
+  {
+    "business_name": "PIXELEXUS",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Branding agency, Service establishment, Video editing service",
+    "pincode": "190012",
+    "phone_number": "+91 91031 09107",
+    "website": "https://pixelexus.odoo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PIXELEXUS, 190012, India",
+    "area": "190012",
+    "latitude": 9.374110199999999,
+    "longitude": 169.8338114,
+    "place_id": "ChIJKfCri1DbQ6MR6cssv7MOprY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfCri1DbQ6MR6cssv7MOprY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:18"
+  }
+]

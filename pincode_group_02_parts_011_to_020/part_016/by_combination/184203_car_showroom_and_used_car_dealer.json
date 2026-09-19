@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cars Planet",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "184203",
+    "phone_number": "+91 99701 57918",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 175,
+    "address": "Sno 71/2, Bengaluru - Mumbai Hwy, opp. Pashan Lake, beside Hotel Shivprasad, Pashan, Pune, Maharashtra 411021",
+    "area": "Pashan",
+    "latitude": 18.5336924,
+    "longitude": 73.7798081,
+    "place_id": "ChIJQySrUcq-wjsR9wpczYLVAFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQySrUcq-wjsR9wpczYLVAFw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:17"
+  },
+  {
+    "business_name": "Mahindra Raj Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "184203",
+    "phone_number": "+91 82910 28904",
+    "website": "https://dealers-auto.mahindra.com/mahindra-raj-motors-suv-commercial-vehicle-showroom-raj-motors-car-dealer-choti-baradari-jalandhar-471978/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.6,
+    "reviews_count": 1394,
+    "address": "Nh-21 Village & P.O. Chhoti Gandhon, Chandigarh Rd, Rupnagar, Punjab 140108",
+    "area": "Magror",
+    "latitude": 30.962614,
+    "longitude": 76.53236179999999,
+    "place_id": "ChIJa6kCm_lVBTkRQarpq7oOgTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6kCm_lVBTkRQarpq7oOgTk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:01:17"
+  }
+]

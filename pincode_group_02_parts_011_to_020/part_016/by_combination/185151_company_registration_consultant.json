@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BizMantra",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Business administration service, Consultant, Human resource consulting, Outlet store, Payroll Service Provider",
+    "pincode": "185151",
+    "phone_number": "+91 86001 83193",
+    "website": "http://www.bizmantra.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shree Krishna Industrial Premises, 219, opp. Dahisar Toll Plaza, Dahisar East, Mumbai, Maharashtra 400068",
+    "area": "Diamond Industrial Estate, Dahisar East",
+    "latitude": 19.256334,
+    "longitude": 72.8713874,
+    "place_id": "ChIJI9vPr_ex5zsRBQKR-sN93Go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9vPr_ex5zsRBQKR-sN93Go",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:59"
+  },
+  {
+    "business_name": "Rule Infinity business service",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Auditor, Business to business service, Chartered accountant, Financial consultant, Tax attorney, Tax collector's office, Tax consultant, Tax preparation service",
+    "pincode": "185151",
+    "phone_number": "+91 84381 12110",
+    "website": "https://theruleinfinity.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "DGH Building, Vaithialingam road, Old Pallavaram, Tambaram, Tamil Nadu 600117",
+    "area": "Ranga Nagar, Old Pallavaram",
+    "latitude": 12.9542875,
+    "longitude": 80.1860028,
+    "place_id": "ChIJTdzL1IZeUjoRaKrMXAWHCKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdzL1IZeUjoRaKrMXAWHCKk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:01"
+  }
+]

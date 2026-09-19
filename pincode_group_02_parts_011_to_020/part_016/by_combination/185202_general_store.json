@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahil Karyana Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "185202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5FQM+QX3, Mougla, Jungerial, Jammu and Kashmir 185202",
+    "area": "185202",
+    "latitude": 33.1893859,
+    "longitude": 74.484935,
+    "place_id": "ChIJCzmfZgA5HjkRC2sqIBeozV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzmfZgA5HjkRC2sqIBeozV8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:33:51"
+  },
+  {
+    "business_name": "Bhat karyana store kotranka",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "185202",
+    "phone_number": "+91 99061 51126",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "Jama masjid, Kotranka, Jammu and Kashmir 185233",
+    "area": "185202",
+    "latitude": 33.3583342,
+    "longitude": 74.5203574,
+    "place_id": "ChIJM33hCLcjHjkRB4w2_GPcBbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM33hCLcjHjkRB4w2_GPcBbo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:33:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Suheel ahmed",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "190015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bkpora, Kanipora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Bkpora, Kanipora",
+    "latitude": 34.0113695,
+    "longitude": 74.83039769999999,
+    "place_id": "ChIJU-db1_OP4TgR7XCbpRbnynw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-db1_OP4TgR7XCbpRbnynw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:07:38"
+  },
+  {
+    "business_name": "New Drug Mart Chemists",
+    "search_category": "ENT Clinic",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic, ENT Specialist",
+    "pincode": "190015",
+    "phone_number": "+91 99067 46788",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Drug mart, chemists old bridge, near Bone and joint hospital, Barzulla, Ram Bagh, Srinagar, Jammu and Kashmir 190008",
+    "area": "Barzulla, Ram Bagh",
+    "latitude": 34.0520405,
+    "longitude": 74.7973392,
+    "place_id": "ChIJG1DImB6P4TgR_P-Xwa0KgDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1DImB6P4TgR_P-Xwa0KgDs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:07:39"
+  }
+]

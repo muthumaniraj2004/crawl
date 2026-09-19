@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Raj Kumar & Son",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery delivery service",
+    "pincode": "184151",
+    "phone_number": "+91 78370 37162",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 35,
+    "address": "vill, Taloor, Punjab 145026",
+    "area": "vill",
+    "latitude": 32.3205035,
+    "longitude": 75.45578669999999,
+    "place_id": "ChIJF4QjzGtxHDkRhJJHHvPVU7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4QjzGtxHDkRhJJHHvPVU7s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:41"
+  },
+  {
+    "business_name": "Suresh sharma vyapar mandal president",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "184151",
+    "phone_number": "+91 98582 21013",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no.4, Nagri-Parole, Jammu and Kashmir 184151",
+    "area": "184151",
+    "latitude": 32.3473438,
+    "longitude": 75.4352634,
+    "place_id": "ChIJHY-pxFBxHDkR2cB9LLlX43A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHY-pxFBxHDkR2cB9LLlX43A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:43"
+  }
+]

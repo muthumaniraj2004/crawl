@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Allure Hair & Beauty Lounge",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "190010",
+    "phone_number": "+91 96226 66123",
+    "website": "https://easysalon.in/allure_beauty_lounge/webapp/",
+    "rating": 4.5,
+    "reviews_count": 27,
+    "address": "Chowk, New Court Road, Moomin Abad, Batamaloo, Tengpora, Srinagar, Jammu and Kashmir 190010",
+    "area": "Moomin Abad, Batamaloo",
+    "latitude": 34.0658131,
+    "longitude": 74.7798628,
+    "place_id": "ChIJl0trbG2R4TgRz4Ux8VU9DQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0trbG2R4TgRz4Ux8VU9DQw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:02"
+  },
+  {
+    "business_name": "Luxurious home salon Srinagar Baramulla Sopora",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "190010",
+    "phone_number": "+91 60051 12994",
+    "website": "https://luxurioushomesalonsgr.online/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Alochi Bagh Rd, Elachi Bagh, Srinagar, Jammu and Kashmir 190009",
+    "area": "Elachi Bagh",
+    "latitude": 34.058847899999996,
+    "longitude": 74.7997779,
+    "place_id": "ChIJ0xpIlfaP4TgROanreQYLvhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xpIlfaP4TgROanreQYLvhg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:03"
+  }
+]

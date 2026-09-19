@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaatwala",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "185101",
+    "phone_number": "+91 84481 37143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Orchha Rd, Orchha, Madhya Pradesh 472246",
+    "area": "185101",
+    "latitude": 25.3503391,
+    "longitude": 78.64095859999999,
+    "place_id": "ChIJH1VycqR5dzkRNBARTx32xGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1VycqR5dzkRNBARTx32xGI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:09:34"
+  },
+  {
+    "business_name": "Chaat Shaala",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Catering food and drink supplier, Caterer, Indian takeaway, Kiosk, Takeout restaurant, Panipuri shop, Restaurant, Sandwich shop, Vegetarian restaurant",
+    "pincode": "185101",
+    "phone_number": "+91 79725 85598",
+    "website": "http://chaatshaala.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Store No.3, Thakur Apt., Tilak Nagar, Amravati Rd, near Law College Square, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Tilak Nagar, Dharampeth",
+    "latitude": 21.1470877,
+    "longitude": 79.0570427,
+    "place_id": "ChIJN9v7Q1zA1DsR9CMQrkpax3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9v7Q1zA1DsR9CMQrkpax3E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:09:34"
+  }
+]

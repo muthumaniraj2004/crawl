@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baraqah",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "190009",
+    "phone_number": "+91 99067 77744",
+    "website": "https://www.baraqah.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sara City Centre, Karan Nagar Jehangir Chowk Rd, Hari Singh High Street, Srinagar, Jammu and Kashmir 190001",
+    "area": "Hari Singh High Street",
+    "latitude": 34.070025099999995,
+    "longitude": 74.8037947,
+    "place_id": "ChIJxXOjzMyP4TgRY-_LNYpFohE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXOjzMyP4TgRY-_LNYpFohE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:04"
+  },
+  {
+    "business_name": "Sameer Ahmad Yadoo",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190009",
+    "phone_number": "+91 99064 92197",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "5, Exhibition Road, near Sara City Mall, Hari Singh High Street, Srinagar, Jammu and Kashmir 190001",
+    "area": "Hari Singh High Street",
+    "latitude": 34.0705273,
+    "longitude": 74.80380819999999,
+    "place_id": "ChIJu3InKTKP4TgR_W3J4bP4-sI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3InKTKP4TgR_W3J4bP4-sI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:00:05"
+  }
+]

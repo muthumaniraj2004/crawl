@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangeen Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "190011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "4R56+M7V, Hawal - Sangeen Darwaza Rd, Tibetan Colony, Badaamwari, Srinagar, Jammu and Kashmir 190002",
+    "area": "Tibetan Colony, Badaamwari",
+    "latitude": 34.109186799999996,
+    "longitude": 74.81064889999999,
+    "place_id": "ChIJ6y3PlVmF4TgRI6KeAa8Grs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6y3PlVmF4TgRI6KeAa8Grs4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:54"
+  },
+  {
+    "business_name": "Pick n Pay",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "190011",
+    "phone_number": "+91 96226 94368",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 155,
+    "address": "4RP5+2W8, TawheedAbad Rd, Wontabowan, Srinagar, Jammu and Kashmir 190023",
+    "area": "Wontabowan",
+    "latitude": 34.1350384,
+    "longitude": 74.8098337,
+    "place_id": "ChIJneeO4uOE4TgR3g77GrHJruU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneeO4uOE4TgR3g77GrHJruU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:54"
+  }
+]

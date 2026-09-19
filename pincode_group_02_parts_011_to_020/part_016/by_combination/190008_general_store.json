@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehjoor Nagar Srinagar",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190008",
+    "phone_number": "+91 96224 55989",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Tulsi Bagh, Zafran Colony, Mehjoor Nagar, Srinagar, Jammu and Kashmir 190008",
+    "area": "Tulsi Bagh, Zafran Colony, Mehjoor Nagar",
+    "latitude": 34.0558311,
+    "longitude": 74.8047254,
+    "place_id": "ChIJB0T7LwCP4TgRZwi0Xe6LROo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0T7LwCP4TgRZwi0Xe6LROo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:56:42"
+  },
+  {
+    "business_name": "Zargar Provisional Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190008",
+    "phone_number": "+91 91499 85166",
+    "website": "http://zargarprovisionalstore.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shergarh Police station, near cago, Rajbagh, Srinagar, Jammu and Kashmir 191112",
+    "area": "Rajbagh",
+    "latitude": 34.0634167,
+    "longitude": 74.80264079999999,
+    "place_id": "ChIJN-B-oeaP4TgRmv75bH5XZK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-B-oeaP4TgRmv75bH5XZK0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:56:43"
+  }
+]

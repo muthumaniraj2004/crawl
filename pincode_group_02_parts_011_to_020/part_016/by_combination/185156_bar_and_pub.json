@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big Boyz Lounge - Rajouri Garden",
+    "search_category": "Bar and Pub",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Lounge bar, Restaurant",
+    "pincode": "185156",
+    "phone_number": "+91 98910 61110",
+    "website": "http://bigboyzlounge.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A-6 3rd floor, Block A, Vishal Enclave, Rajouri Garden, New Delhi, Delhi, 110027",
+    "area": "Block A, Vishal Enclave, Rajouri Garden",
+    "latitude": 28.648001599999997,
+    "longitude": 77.1194359,
+    "place_id": "ChIJozfEx90DDTkRBceB_cCmls0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozfEx90DDTkRBceB_cCmls0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:28"
+  },
+  {
+    "business_name": "Lord of the Drinks Chamber",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub, Bar, Pizza restaurant",
+    "pincode": "185156",
+    "phone_number": "+91 99991 09755",
+    "website": "https://www.lordofthedrinks.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A13, Najafgarh Rd, Block A, Vishal Enclave, Rajouri Garden, New Delhi, Delhi, 110027",
+    "area": "Block A, Vishal Enclave, Rajouri Garden",
+    "latitude": 28.6482907,
+    "longitude": 77.12010169999999,
+    "place_id": "ChIJqfgwG24DDTkRYXj1h5MCBpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfgwG24DDTkRYXj1h5MCBpY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:29"
+  }
+]

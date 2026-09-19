@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cheema Oil Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store, Company",
+    "pincode": "190012",
+    "phone_number": "+91 98720 16124",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 40-41, GNE College Complex, Gill Rd, Ludhiana, Punjab 141003",
+    "area": "Gill Park",
+    "latitude": 30.8639129,
+    "longitude": 75.8594988,
+    "place_id": "ChIJFeqS-3h4EDkRIXXRX1_BMGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeqS-3h4EDkRIXXRX1_BMGk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:42"
+  },
+  {
+    "business_name": "Srinivasa Oil Mill",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Mill, Store",
+    "pincode": "190012",
+    "phone_number": "+91 86184 75117",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 55,
+    "address": "Halasuru, Someshwarpura, Bengaluru, Karnataka 560008",
+    "area": "Halasuru, Someshwarpura",
+    "latitude": 12.9781801,
+    "longitude": 77.622973,
+    "place_id": "ChIJy0u4Q5oWrjsRPRGtkwXn42U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0u4Q5oWrjsRPRGtkwXn42U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:43"
+  }
+]

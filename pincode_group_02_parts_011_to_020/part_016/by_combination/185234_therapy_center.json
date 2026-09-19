@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Center for Mental Health",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service",
+    "pincode": "185234",
+    "phone_number": "+91 93709 17252",
+    "website": "https://www.centerformentalhealth.in/",
+    "rating": 4.5,
+    "reviews_count": 144,
+    "address": "Center for Mental Health 102, 201, Rajey apartment, Deepa housing society, Baner - Pashan Link Rd, Pune, Maharashtra 411021",
+    "area": "Pashan",
+    "latitude": 18.5493408,
+    "longitude": 73.7893649,
+    "place_id": "ChIJA10Cy-m-wjsRFiIojsdR_yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA10Cy-m-wjsRFiIojsdR_yI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:43:37"
+  },
+  {
+    "business_name": "Children Therapy Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Child health care center, Occupational health service, Physiotherapy Center",
+    "pincode": "185234",
+    "phone_number": "+91 98204 33088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Farronagar), C.H.S. Limited, Mitrata Cooperative Housing Society, # 2, Ground Floor, Pokhran Road No. 1, Tulsi Dham, Samata Nagar, Thane West, Thane, Maharashtra 400606",
+    "area": "Tulsi Dham, Samata Nagar, Thane West",
+    "latitude": 19.206357,
+    "longitude": 72.96226,
+    "place_id": "ChIJEy-vFBO55zsRY2ws4slQ0P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy-vFBO55zsRY2ws4slQ0P4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:43:37"
+  }
+]

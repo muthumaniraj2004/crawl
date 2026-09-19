@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ehsan Ul Haq Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "190018",
+    "phone_number": "+91 87139 46162",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Housing Colony, Mohammdiya colony, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Housing Colony, Mohammdiya colony, Bemina",
+    "latitude": 34.078907699999995,
+    "longitude": 74.766953,
+    "place_id": "ChIJcYKLOkSR4TgRU_-ze6fhnIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYKLOkSR4TgRU_-ze6fhnIU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:03"
+  },
+  {
+    "business_name": "Riwayat Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "190018",
+    "phone_number": "+91 91032 84193",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mustafa Colony, 60ft, Main Rd Bemina, HIG Colony, Srinagar, Jammu and Kashmir 190018",
+    "area": "HIG Colony",
+    "latitude": 34.0798239,
+    "longitude": 74.7751311,
+    "place_id": "ChIJ-8e5_GSR4TgRblRu630euPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8e5_GSR4TgRblRu630euPU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:11:03"
+  }
+]

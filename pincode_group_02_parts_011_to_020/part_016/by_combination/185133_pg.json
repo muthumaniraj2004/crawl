@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind paying guest house",
+    "search_category": "PG",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Guest house, Home Stay",
+    "pincode": "185133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "MVR7+RRH, Gandhi Nagar, Jammu, 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.692053,
+    "longitude": 74.86461919999999,
+    "place_id": "ChIJozBE_p2FHjkR5-udS3d9Uoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozBE_p2FHjkR5-udS3d9Uoo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:06"
+  },
+  {
+    "business_name": "Simi paying guest",
+    "search_category": "PG",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "185133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "House no.172, near R.N Tagore School, Sector 3, Guru Nanak Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Sector 3, Guru Nanak Nagar",
+    "latitude": 32.6858065,
+    "longitude": 74.8706308,
+    "place_id": "ChIJE5j5qIObHjkRjcKw_vPefbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5j5qIObHjkRjcKw_vPefbs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:06"
+  }
+]

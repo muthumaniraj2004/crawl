@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pro Bicycles and Fitness",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "185203",
+    "phone_number": "+91 90286 52306",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 66,
+    "address": "Shop No. 01, Siddhivinayak Aurum, Clover Park, Viman Nagar, Pune, Maharashtra 411014",
+    "area": "Clover Park, Viman Nagar",
+    "latitude": 18.560741999999998,
+    "longitude": 73.9138813,
+    "place_id": "ChIJsZTNjEDBwjsRuPoVgIkeseU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZTNjEDBwjsRuPoVgIkeseU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:10"
+  },
+  {
+    "business_name": "Balaji Bike Mechanic",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "185203",
+    "phone_number": "+91 86390 01401",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "P Krishnaveni School, 3-132, Jai Hind Nagar Colony, Puppalguda, Hyderabad, Telangana 500104",
+    "area": "Jai Hind Nagar Colony, Puppalguda",
+    "latitude": 17.4009073,
+    "longitude": 78.3919343,
+    "place_id": "ChIJ5Xx8NGSXyzsRpcmCczSdiS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Xx8NGSXyzsRpcmCczSdiS4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:36:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sohal Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Bicycle Shop",
+    "pincode": "185153",
+    "phone_number": "+91 62800 17706",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Shop No.2, Gurdaspur Road, near Bawa Lal Market, near Bus Stand, Shastri Nagar, Batala, Punjab 143505",
+    "area": "Shastri Nagar",
+    "latitude": 31.8213357,
+    "longitude": 75.20173129999999,
+    "place_id": "ChIJR57Zjl_CGzkR7JuoDMT0amU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR57Zjl_CGzkR7JuoDMT0amU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:43"
+  },
+  {
+    "business_name": "Verma Car Accessories And Bike Repairing",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "185153",
+    "phone_number": "+91 70063 54859",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, Taryool, Bhamla, Jammu and Kashmir 185131",
+    "area": "185153",
+    "latitude": 33.0510568,
+    "longitude": 74.5745429,
+    "place_id": "ChIJHSg3nBhDHjkRBl9RkLRbWJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSg3nBhDHjkRBl9RkLRbWJs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:43"
+  }
+]

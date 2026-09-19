@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Minsha's Boutique Amritsar",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing Accessories Store",
+    "pincode": "185151",
+    "phone_number": "+91 98880 81723",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 29,
+    "address": "25 Majitha Road Majitha, Road, Amritsar, Punjab 143001",
+    "area": "Sehaj Avenue",
+    "latitude": 31.644919899999998,
+    "longitude": 74.8848613,
+    "place_id": "ChIJzUwZR1tjGTkRIoNuFNfZffg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUwZR1tjGTkRIoNuFNfZffg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:21:59"
+  },
+  {
+    "business_name": "New Muskan Fashion Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Tailor",
+    "pincode": "185151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Forest Block, near Arya School, Naushera, Primary, Jammu and Kashmir 185151",
+    "area": "185151",
+    "latitude": 33.1585198,
+    "longitude": 74.2400108,
+    "place_id": "ChIJVYyIWQA1HjkRn_j77J8RF68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYyIWQA1HjkRn_j77J8RF68",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:22:00"
+  }
+]

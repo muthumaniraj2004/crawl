@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDIA-1 HEAD OFFICE",
+    "search_category": "Offices",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "184151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9GG5+PQQ, Ramnagar, Kathua, Jammu and Kashmir 184104",
+    "area": "Ramnagar",
+    "latitude": 32.3768262,
+    "longitude": 75.5094719,
+    "place_id": "ChIJcUYQXwBxHDkRxI_8PEc1vow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUYQXwBxHDkRxI_8PEc1vow",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:55:26"
+  },
+  {
+    "business_name": "State Motor Garages Kathua",
+    "search_category": "Offices",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "184151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9GP7+MCP State Motor Garages, Shiva Nagar, Kathua, Jammu and Kashmir 184104",
+    "area": "Shiva Nagar",
+    "latitude": 32.3867167,
+    "longitude": 75.5135737,
+    "place_id": "ChIJq2ypbgBxHDkRE-8YUkR9yEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2ypbgBxHDkRE-8YUkR9yEc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:55:26"
+  }
+]

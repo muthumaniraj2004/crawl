@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRV Media Pvt. Ltd",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency, Design agency",
+    "pincode": "190019",
+    "phone_number": "+91 96206 70606",
+    "website": "https://www.srvmedia.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3rd Floor, Office No. 301, Nandan Probiz, near Balewadi High Street, Laxman Nagar, Baner, Pune, Maharashtra 411045",
+    "area": "Laxman Nagar, Baner",
+    "latitude": 18.5730565,
+    "longitude": 73.7711552,
+    "place_id": "ChIJN3dFVS65wjsRahlRAqtoNEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3dFVS65wjsRahlRAqtoNEU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:14:00"
+  },
+  {
+    "business_name": "MP ADVERTISERS Factory",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "190019",
+    "phone_number": "+91 91494 55296",
+    "website": "https://mp-advertisers.vercel.app/Products",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "hafsa colony, near masjid Hafsa, Bagati Kani Pora, Aribagh, Srinagar, Jammu and Kashmir 190015",
+    "area": "Bagati Kani Pora",
+    "latitude": 34.0163935,
+    "longitude": 74.8307027,
+    "place_id": "ChIJB38ZKwCP4TgRSIQK7K095PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB38ZKwCP4TgRSIQK7K095PU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:14:00"
+  }
+]

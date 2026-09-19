@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R. K Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Paint store",
+    "pincode": "184151",
+    "phone_number": "+91 98580 06340",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Aerma Rd, Nagri-Parole, 184151",
+    "area": "184151",
+    "latitude": 32.3491658,
+    "longitude": 75.4347995,
+    "place_id": "ChIJyaqqamJxHDkRMBw3sE9Shj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaqqamJxHDkRMBw3sE9Shj4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:54:25"
+  },
+  {
+    "business_name": "K.K Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "184151",
+    "phone_number": "+91 94696 61132",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Petrol Pump, Nagri-Parole, Jamraal, Jammu and Kashmir 184151",
+    "area": "184151",
+    "latitude": 32.3521183,
+    "longitude": 75.432834,
+    "place_id": "ChIJX0TzaoxzHDkRnZWtINOnt8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0TzaoxzHDkRnZWtINOnt8I",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:54:25"
+  }
+]

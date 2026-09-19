@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadath Corporate",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "190014",
+    "phone_number": "+91 60052 97003",
+    "website": "http://www.sadathcorporate.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Iqbal Link Road, behind Tatoo Ground, Batamaloo, Srinagar, Jammu and Kashmir 190009",
+    "area": "Batamaloo",
+    "latitude": 34.078074199999996,
+    "longitude": 74.7863425,
+    "place_id": "ChIJDceRwV6F4TgR84lfcx4JT1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDceRwV6F4TgR84lfcx4JT1M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:18"
+  },
+  {
+    "business_name": "MY GLAM CART",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "190014",
+    "phone_number": "+91 70062 74505",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "crescent Mall, 43, Srinagar-Budgam Rd, Jammu and Kashmir 191111",
+    "area": "190014",
+    "latitude": 34.0179993,
+    "longitude": 74.7242574,
+    "place_id": "ChIJK9pQCqaR4TgRmw-5DucCZ8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9pQCqaR4TgRmw-5DucCZ8Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:06:18"
+  }
+]

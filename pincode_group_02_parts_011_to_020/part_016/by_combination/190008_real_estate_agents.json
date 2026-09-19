@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trumboo RealEstate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "190008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3R29+747, Mehjoor Nagar, Srinagar, Jammu and Kashmir 190015",
+    "area": "Mehjoor Nagar",
+    "latitude": 34.050652299999996,
+    "longitude": 74.8177824,
+    "place_id": "ChIJiZq2da-P4TgRC8OzpT5VX_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZq2da-P4TgRC8OzpT5VX_g",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:07"
+  },
+  {
+    "business_name": "Maqam Realty",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "190008",
+    "phone_number": "+91 94190 07776",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ram Bagh, Srinagar, Jammu and Kashmir 190009",
+    "area": "Ram Bagh",
+    "latitude": 34.0534787,
+    "longitude": 74.80487289999999,
+    "place_id": "ChIJVfrSsB6P4TgRi9MPHOTWv2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfrSsB6P4TgRi9MPHOTWv2w",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:58:09"
+  }
+]

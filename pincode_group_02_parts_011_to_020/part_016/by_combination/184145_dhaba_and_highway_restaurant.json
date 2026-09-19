@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAMISH VAISHNO DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "184145",
+    "phone_number": "+91 99883 83002",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "NH 54, Paniar, Punjab 143531",
+    "area": "184145",
+    "latitude": 32.080753,
+    "longitude": 75.4502893,
+    "place_id": "ChIJMS5UxpmPGzkRhmnULMs9Z-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMS5UxpmPGzkRhmnULMs9Z-M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:23"
+  },
+  {
+    "business_name": "Baljit Da Dhaba (MUTTON KING)",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "184145",
+    "phone_number": "+91 78144 52989",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Awankha, Punjab 143531",
+    "area": "184145",
+    "latitude": 32.1484193,
+    "longitude": 75.48584919999999,
+    "place_id": "ChIJLeGi8PKJGzkRm1HaO6_SuMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeGi8PKJGzkRm1HaO6_SuMI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:23"
+  }
+]

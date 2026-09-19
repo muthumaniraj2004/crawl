@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AZ Steel Roof",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Roofing supply store",
+    "all_categories": "Roofing supply store",
+    "pincode": "190003",
+    "phone_number": "+91 98419 55302",
+    "website": "http://www.azsteelroof.com/",
+    "rating": 4.4,
+    "reviews_count": 45,
+    "address": "57, Aadi St, Chelliamman Nagar, Selliamman Nagar, Nerkundram, Chennai, Tamil Nadu 600095",
+    "area": "Chelliamman Nagar, Selliamman Nagar, Nerkundram",
+    "latitude": 13.0637247,
+    "longitude": 80.1794834,
+    "place_id": "ChIJr0Ni7U5hUjoRNH2EF_zIrbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0Ni7U5hUjoRNH2EF_zIrbE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:46"
+  },
+  {
+    "business_name": "STAR ROOFS - Commercial Roofing Company",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Roofing contractor",
+    "all_categories": "Roofing contractor, Roofing supply store, Shed builder",
+    "pincode": "190003",
+    "phone_number": "+91 98413 36895",
+    "website": "http://www.starroofs.in/",
+    "rating": 4.8,
+    "reviews_count": 243,
+    "address": "RKB Commercial Complex, 39, Poonamallee High Rd, Dr. Radhakrishnan Nagar, Arumbakkam, Chennai, Tamil Nadu 600106",
+    "area": "Dr. Radhakrishnan Nagar, Arumbakkam",
+    "latitude": 13.076561499999999,
+    "longitude": 80.212834,
+    "place_id": "ChIJB8xXMNJdUjoRvQp97o8chEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8xXMNJdUjoRvQp97o8chEE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:46"
+  }
+]

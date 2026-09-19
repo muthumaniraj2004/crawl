@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAMTA Avika Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "184145",
+    "phone_number": "+91 96222 73226",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rajpura, near Shiv Mandir, Rajpura, Jammu and Kashmir 184142",
+    "area": "184145",
+    "latitude": 32.462488199999996,
+    "longitude": 75.18418679999999,
+    "place_id": "ChIJU5vyoQcRHDkRwzubse-x4is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5vyoQcRHDkRwzubse-x4is",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:51:06"
+  },
+  {
+    "business_name": "Golden Furnishers",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "184145",
+    "phone_number": "+91 94191 86202",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 38,
+    "address": "Last Monh, Main Road, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.6976875,
+    "longitude": 74.8523125,
+    "place_id": "ChIJ5TSqSbaEHjkR7qCUP9-nYJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TSqSbaEHjkR7qCUP9-nYJY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:51:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FAMILY MEDICATE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "190004",
+    "phone_number": "+91 11 6926 8985",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shalateng, Srinagar, Jammu and Kashmir 190017",
+    "area": "Shalateng",
+    "latitude": 34.110561499999996,
+    "longitude": 74.74436229999999,
+    "place_id": "ChIJy7Ls3GSb4TgRxPChaS6is1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7Ls3GSb4TgRxPChaS6is1A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:50:02"
+  },
+  {
+    "business_name": "Mir Medicose Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "190004",
+    "phone_number": "+91 60065 14145",
+    "website": "https://mir-medicose.odoo.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near sidco, phase 2, khonmoh, Srinagar, Jammu and Kashmir 191101",
+    "area": "phase 2, khonmoh",
+    "latitude": 34.0540936,
+    "longitude": 74.941357,
+    "place_id": "ChIJpRllOpSJ4TgREdCZ2NNnpls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRllOpSJ4TgREdCZ2NNnpls",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:50:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nikhil Chajgotra",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "184145",
+    "phone_number": "+91 90867 59659",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, near Hospital, Samba, Jammu and Kashmir 184121",
+    "area": "184145",
+    "latitude": 32.5281927,
+    "longitude": 75.1203201,
+    "place_id": "ChIJS05-DvUZHDkRMuJM7qFWp5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS05-DvUZHDkRMuJM7qFWp5s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:51:55"
+  },
+  {
+    "business_name": "Jai Durga traders",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "184145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "F5PJ+6WC, Rajpura, Jammu and Kashmir 184145",
+    "area": "184145",
+    "latitude": 32.4855606,
+    "longitude": 75.1822625,
+    "place_id": "ChIJ7zVlbgAXHDkRnZEvIkRe-S4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zVlbgAXHDkRnZEvIkRe-S4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:51:55"
+  }
+]

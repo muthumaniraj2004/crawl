@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property delear",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "190010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3QQC+J9F, SDA Colony, HIG Colony, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "SDA Colony, HIG Colony, Bemina",
+    "latitude": 34.0890147,
+    "longitude": 74.7709493,
+    "place_id": "ChIJH-uYdQCb4TgRtegPKOyr_8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-uYdQCb4TgRtegPKOyr_8A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:36"
+  },
+  {
+    "business_name": "V4u",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "190010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Housing Colony, Bemina, Srinagar, Jammu and Kashmir 190018",
+    "area": "Housing Colony, Bemina",
+    "latitude": 34.0786607,
+    "longitude": 74.76589179999999,
+    "place_id": "ChIJif1pE5yR4TgRe_YtMMi-hBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJif1pE5yR4TgRe_YtMMi-hBc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:01:36"
+  }
+]

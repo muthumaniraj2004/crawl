@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "185234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 149,
+    "address": "Kalyani Expy, near muragacha, Anandanagar, more, Kolkata, Muragachha, West Bengal 700113",
+    "area": "Anandanagar, more",
+    "latitude": 22.700637399999998,
+    "longitude": 88.41822669999999,
+    "place_id": "ChIJORIKkSef-DkRF-Q85ppXNqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORIKkSef-DkRF-Q85ppXNqU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:42:44"
+  },
+  {
+    "business_name": "Highway family dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "185234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "7H8J+PFR, Ring Rd Number 2, Sarvodaya Nagar, RDA Colony, Hirapur Colony, Raipur, Chhattisgarh 492099",
+    "area": "Sarvodaya Nagar, RDA Colony, Hirapur Colony",
+    "latitude": 21.266853299999998,
+    "longitude": 81.5811432,
+    "place_id": "ChIJ84LA0_ThKDoRPGifc6oOp7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84LA0_ThKDoRPGifc6oOp7Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:42:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New New York pizzeria (jammu)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "185152",
+    "phone_number": "+91 84920 04344",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Chinor main road. Near kV school, bantab, Jammu, Jammu and Kashmir 181123",
+    "area": "Chinore",
+    "latitude": 32.777530399999996,
+    "longitude": 74.82651469999999,
+    "place_id": "ChIJCy6zyNeHHjkRQTT7wOVzELQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCy6zyNeHHjkRQTT7wOVzELQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:36"
+  },
+  {
+    "business_name": "MUGHAL KARIYANA STORE",
+    "search_category": "Restaurant Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "185152",
+    "phone_number": "+91 96222 71185",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samote Loharan Hwy Chokia Ml, Rajouri, Jammu and Kashmir 185133",
+    "area": "185152",
+    "latitude": 33.3726963,
+    "longitude": 74.3594002,
+    "place_id": "ChIJdXiPibAvHjkRoKoK9Ho61-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXiPibAvHjkRoKoK9Ho61-c",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:23:36"
+  }
+]

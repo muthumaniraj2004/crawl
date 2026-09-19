@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LuLu International Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "184203",
+    "phone_number": "+91 484 272 7776",
+    "website": "https://www.kochi.lulumall.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "34/1000, Old NH 47, Edappally Junction, Nethaji Nagar, Edappally, Kochi, Ernakulam, Keralam 682024",
+    "area": "Edappally Junction, Nethaji Nagar, Edappally",
+    "latitude": 10.0271556,
+    "longitude": 76.3082302,
+    "place_id": "ChIJv4PRvq8NCDsRfqMTuhbzUVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4PRvq8NCDsRfqMTuhbzUVk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:02:22"
+  },
+  {
+    "business_name": "CMR Central Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall, Shopping mall",
+    "pincode": "184203",
+    "phone_number": "+91 76709 01543",
+    "website": "http://www.cmrcentral.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "36, 1, Resapuvanipalem Rd, Resapuvanipalem, Maddilapalem, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "Resapuvanipalem, Maddilapalem",
+    "latitude": 17.7340891,
+    "longitude": 83.3183981,
+    "place_id": "ChIJB9IIkUhDOToRGEjTTQKAwsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9IIkUhDOToRGEjTTQKAwsU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:02:22"
+  }
+]

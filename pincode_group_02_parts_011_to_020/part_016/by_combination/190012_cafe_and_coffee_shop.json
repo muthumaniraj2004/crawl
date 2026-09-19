@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "cafe NH1",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "190012",
+    "phone_number": "+91 70060 30663",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 88,
+    "address": "9 bye pass, hokersar zainakote, road, Srinagar, Jammu and Kashmir 190012",
+    "area": "190012",
+    "latitude": 34.1117984,
+    "longitude": 74.7214724,
+    "place_id": "ChIJcWuz7Eub4TgRkHQ8P0l8r_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWuz7Eub4TgRkHQ8P0l8r_0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:50"
+  },
+  {
+    "business_name": "The Khass Lounge",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "190012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "NH, opp. Azizia Tower, Ummer Abad, Srinagar, Jammu and Kashmir 190012",
+    "area": "Ummer Abad",
+    "latitude": 34.112152099999996,
+    "longitude": 74.7233962,
+    "place_id": "ChIJ3wV07wab4TgREbuygo4TwVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wV07wab4TgREbuygo4TwVc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:03:51"
+  }
+]

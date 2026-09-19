@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "190003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4RJQ+2HF, Hazaratbal, Srinagar, Jammu and Kashmir 190006",
+    "area": "Hazaratbal",
+    "latitude": 34.1301244,
+    "longitude": 74.8388581,
+    "place_id": "ChIJB_-HdQCF4TgRZnfHpFgmIwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_-HdQCF4TgRZnfHpFgmIwM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:27"
+  },
+  {
+    "business_name": "Apex Fitness Arena",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Dance hall, Gym, Fitness center",
+    "pincode": "190003",
+    "phone_number": "+91 95002 02950",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kala Rd, Srinagar, Rawadi, Uttarakhand 246174",
+    "area": "190003",
+    "latitude": 30.222166599999998,
+    "longitude": 78.7899336,
+    "place_id": "ChIJ61HVXQClCTkR9gHbnpgcySg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61HVXQClCTkR9gHbnpgcySg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:29"
+  }
+]

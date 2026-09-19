@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medocly Healthcare private limited",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant, Laboratory",
+    "pincode": "185135",
+    "phone_number": "+91 11 6929 0731",
+    "website": "https://www.medocly.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rehari Colony, Jammu, Jammu and Kashmir 180005",
+    "area": "Rehari Colony",
+    "latitude": 32.7421289,
+    "longitude": 74.8522686,
+    "place_id": "ChIJ77Q-Z8aFHjkRbyIPOHlL05U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77Q-Z8aFHjkRbyIPOHlL05U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:20:25"
+  },
+  {
+    "business_name": "Health care clinical laboratory",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "185135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Collage road, Teacher colony, Washi, Maharashtra 413503",
+    "area": "Teacher colony",
+    "latitude": 18.544936399999997,
+    "longitude": 75.7747363,
+    "place_id": "ChIJqZhTSDgdxTsRGvwxIrB6HTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZhTSDgdxTsRGvwxIrB6HTE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:20:26"
+  }
+]

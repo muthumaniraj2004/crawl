@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orchid's Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "190019",
+    "phone_number": "+91 92465 33434",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Door No: 9-1-7-83, 84, Sardar Patel Road Next to Coorporation Bank Opp Metro Piller no SPGP26, Secunderabad, Telangana 500003",
+    "area": "Regimental Bazaar, Shivaji Nagar",
+    "latitude": 17.4422182,
+    "longitude": 78.5047314,
+    "place_id": "ChIJ1dH76uKbyzsRRcRrRi5y-SQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dH76uKbyzsRRcRrRi5y-SQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:13:24"
+  },
+  {
+    "business_name": "ARPAN FLOWERS",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Delivery service, Wholesaler",
+    "pincode": "190019",
+    "phone_number": "+91 91790 60292",
+    "website": "https://www.arpanflowers.com/",
+    "rating": 4.7,
+    "reviews_count": 131,
+    "address": "Infront of Siddheshwarnath Hanuman Mandir, Siddharth Chowk, Tikrapara, Raipur, Chhattisgarh 492001",
+    "area": "Tikrapara",
+    "latitude": 21.225977999999998,
+    "longitude": 81.6405248,
+    "place_id": "ChIJ89LBe9_dKDoRWw0LWSQuCEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89LBe9_dKDoRWw0LWSQuCEM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:13:24"
+  }
+]

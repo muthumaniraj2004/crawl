@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Urban Store",
+    "search_category": "Shops",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "185133",
+    "phone_number": "+91 94191 20353",
+    "website": "http://theurbanstore.net/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Barnai main road, near dayal food factory, Barnai, Lower Barnai, Jammu, Jammu and Kashmir 180013",
+    "area": "Barnai, Lower Barnai",
+    "latitude": 32.766419899999995,
+    "longitude": 74.8085722,
+    "place_id": "ChIJyyaDMHKFHjkRLyNmKEGdVQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyyaDMHKFHjkRLyNmKEGdVQY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:51"
+  },
+  {
+    "business_name": "Reliance Digital",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "185133",
+    "phone_number": "+91 8071 890 076",
+    "website": "https://store.reliancedigital.in/reliance-digital-kunjwani-bye-pass-road-jammu-electronics-retail-and-repair-shop-kunjwani-byepass-road-jammu-318767/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.9,
+    "reviews_count": 2203,
+    "address": "Khasra No 285, UGF to 2st Floor, Jammu-Kunjwani Bypass Rd, opposite Audi Showroom, Greater Kailash, Jammu, Jammu and Kashmir 180010",
+    "area": "Greater Kailash",
+    "latitude": 32.6713537,
+    "longitude": 74.8837588,
+    "place_id": "ChIJqwWqCdGdHjkRUN9D9aDwdxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwWqCdGdHjkRUN9D9aDwdxI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bilal super shine",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market",
+    "pincode": "190014",
+    "phone_number": "+91 96970 00569",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Chowk, opposite post office, zee complex, Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "zee complex, Hyderpora",
+    "latitude": 34.038782399999995,
+    "longitude": 74.7971792,
+    "place_id": "ChIJ82hkwF2P4TgRvrVw1k7Tuzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82hkwF2P4TgRvrVw1k7Tuzk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:26"
+  },
+  {
+    "business_name": "The meat shop hyderpora",
+    "search_category": "Fish Market",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "190014",
+    "phone_number": "+91 60054 87935",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near jk bank, Shah Anwar Colony, Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "Shah Anwar Colony, Hyderpora",
+    "latitude": 34.048266,
+    "longitude": 74.7834189,
+    "place_id": "ChIJp_2iNUuP4TgRCVZ2Ek5cDMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_2iNUuP4TgRCVZ2Ek5cDMQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:05:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Vaishno Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, North Indian restaurant",
+    "pincode": "184151",
+    "phone_number": "+91 70069 31702",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 173,
+    "address": "near Jamkash Motors, Chichilora, Jammu and Kashmir 193401",
+    "area": "184151",
+    "latitude": 34.0916341,
+    "longitude": 74.575661,
+    "place_id": "ChIJlTyzbIGj4TgRQ0qmeK0s3MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTyzbIGj4TgRQ0qmeK0s3MQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:54"
+  },
+  {
+    "business_name": "The dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "184151",
+    "phone_number": "N/A",
+    "website": "http://www.thedhabba.com/",
+    "rating": 4.5,
+    "reviews_count": 18,
+    "address": "1, Bye Pass, Sidhra, Jammu, Jammu and Kashmir 180019",
+    "area": "184151",
+    "latitude": 32.7604025,
+    "longitude": 74.9168688,
+    "place_id": "ChIJP-UGfSqDHjkRBVNTLPEINRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-UGfSqDHjkRBVNTLPEINRU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:54"
+  }
+]

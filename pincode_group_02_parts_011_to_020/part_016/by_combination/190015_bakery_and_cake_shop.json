@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auburn by Arwa ~ Home Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "190015",
+    "phone_number": "+91 70061 14474",
+    "website": "https://www.instagram.com/auburnbyarwa/?hl=en",
+    "rating": 4.5,
+    "reviews_count": 245,
+    "address": "House no 146, 141, Nowgam - Pulwama Rd, near Masjid Shareef, Sheikh-Ul-Alam Colony, Nowgam, Srinagar, Jammu and Kashmir 190015",
+    "area": "Sheikh-Ul-Alam Colony, Nowgam",
+    "latitude": 34.0258369,
+    "longitude": 74.828988,
+    "place_id": "ChIJj9lAH6eP4TgR3ui9RkZ9Nuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9lAH6eP4TgR3ui9RkZ9Nuw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:07:12"
+  },
+  {
+    "business_name": "Madina Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "190015",
+    "phone_number": "+91 95961 93466",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 68,
+    "address": "11, Nowgam - Pulwama Rd, near Power Station, Bagati Kani Pora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Bagati Kani Pora",
+    "latitude": 34.0083249,
+    "longitude": 74.83485329999999,
+    "place_id": "ChIJFRYPD2-P4TgR0GEf9b76Yfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRYPD2-P4TgR0GEf9b76Yfo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:07:12"
+  }
+]

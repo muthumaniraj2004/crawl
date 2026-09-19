@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "184210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 472,
+    "address": "123/24B, Sutarwadi Rd, Jai Bhavani Nagar, Pashan, Pune, Maharashtra 411021",
+    "area": "Jai Bhavani Nagar, Pashan",
+    "latitude": 18.5371325,
+    "longitude": 73.7933393,
+    "place_id": "ChIJ16X_u-K-wjsRaB2tyiU6uBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16X_u-K-wjsRaB2tyiU6uBs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:07:41"
+  },
+  {
+    "business_name": "M.S.Jagtap Fresh Fish Merchant",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "184210",
+    "phone_number": "+91 91560 55524",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 58,
+    "address": "Shop no 3B, opp. Midori tower, Nandanwan Society, Vishal Nagar, Shrihari Colony, Pune, Pimpri-Chinchwad, Maharashtra 411027",
+    "area": "Nandanwan Society, Vishal Nagar, Shrihari Colony",
+    "latitude": 18.5790754,
+    "longitude": 73.78614139999999,
+    "place_id": "ChIJQ1QXUiW5wjsRo1PC8PB2sd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1QXUiW5wjsRo1PC8PB2sd0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:07:41"
+  }
+]

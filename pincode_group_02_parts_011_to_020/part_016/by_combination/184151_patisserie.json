@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathania brother bakery and fast food",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "184151",
+    "phone_number": "+91 82840 31822",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "chadwal road, near Shani Dev Mandir, Bamiyal, Pindi Parolian, Punjab 145027",
+    "area": "184151",
+    "latitude": 32.2972774,
+    "longitude": 75.3772147,
+    "place_id": "ChIJ-7zfxiZ1HDkRR2kAHAcPF30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7zfxiZ1HDkRR2kAHAcPF30",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:49"
+  },
+  {
+    "business_name": "Mehra Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "184151",
+    "phone_number": "+91 88995 85933",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.5, Chak, Nagri Rd, Chak Desa, Kathua, Jammu and Kashmir 184104",
+    "area": "Chak Desa",
+    "latitude": 32.3701758,
+    "longitude": 75.50420199999999,
+    "place_id": "ChIJS1nF5x9xHDkRmo8XvFFK_Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1nF5x9xHDkRmo8XvFFK_Ac",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:53:51"
+  }
+]

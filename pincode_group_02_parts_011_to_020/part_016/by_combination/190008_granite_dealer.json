@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashmir Wow",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier, Electric motor store, Tile store, Hardware store, Iron & Steel Store, Paint store",
+    "pincode": "190008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "byepass, near peaks automobile, Lasjan, Srinagar, Jammu and Kashmir 191101",
+    "area": "Lasjan",
+    "latitude": 34.037251499999996,
+    "longitude": 74.85993739999999,
+    "place_id": "ChIJz7w8DN6P4TgRg79F2QBjm7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7w8DN6P4TgRg79F2QBjm7E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:25"
+  },
+  {
+    "business_name": "Global Ceramic",
+    "search_category": "Granite Dealer",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Sanitation service",
+    "pincode": "190008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Airport Rd, Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "Hyderpora",
+    "latitude": 34.037348,
+    "longitude": 74.7857327,
+    "place_id": "ChIJVcef15-P4TgRVEQ7myW--24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcef15-P4TgRVEQ7myW--24",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:57:28"
+  }
+]

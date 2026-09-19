@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accounts General Office",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "185133",
+    "phone_number": "N/A",
+    "website": "http://agjk.nic.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "3QFX+4XV, Shergarhi, Rajbagh, Srinagar, Jammu and Kashmir 190001",
+    "area": "Shergarhi, Rajbagh",
+    "latitude": 34.0728647,
+    "longitude": 74.79991249999999,
+    "place_id": "ChIJdS4huu2P4TgRbr8qEX1I3IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdS4huu2P4TgRbr8qEX1I3IU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:30"
+  },
+  {
+    "business_name": "Jammu & Kashmir Entrepreneurship Development Institute",
+    "search_category": "Business and Audit Services",
+    "primary_category": "State government office",
+    "all_categories": "State government office",
+    "pincode": "185133",
+    "phone_number": "+91 1933 224 367",
+    "website": "http://www.jkedi.org/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sempora, Pampore - Zantrag Rd, Pantha Chowk, Srinagar, Jammu and Kashmir 192121",
+    "area": "Pantha Chowk",
+    "latitude": 34.0307247,
+    "longitude": 74.90555429999999,
+    "place_id": "ChIJ-Q1ZWGyJ4TgRTIXBKw6fDbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q1ZWGyJ4TgRTIXBKw6fDbI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:19:30"
+  }
+]

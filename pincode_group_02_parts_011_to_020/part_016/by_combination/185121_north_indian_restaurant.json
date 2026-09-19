@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bismillah Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant",
+    "pincode": "185121",
+    "phone_number": "+91 60063 23319",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Bharat gas agency, Bag Sanger Wani, Forest Block, Jammu and Kashmir 192301",
+    "area": "185121",
+    "latitude": 33.7956795,
+    "longitude": 74.7177936,
+    "place_id": "ChIJ167PQXDv4TgRobQyBlI9NRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ167PQXDv4TgRobQyBlI9NRI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:12:59"
+  },
+  {
+    "business_name": "Satyam Vaishno Dhabha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "185121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "7757+PCX, NH 144A, Agrat, 185151",
+    "area": "185121",
+    "latitude": 33.2593624,
+    "longitude": 74.2636095,
+    "place_id": "ChIJyeAwsLAzHjkRpqo2Imh_-5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeAwsLAzHjkRpqo2Imh_-5w",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:12:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trends Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "184143",
+    "phone_number": "+91 72985 93053",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Jk Bank, Phinter, Jammu and Kashmir 184201",
+    "area": "184143",
+    "latitude": 32.5829186,
+    "longitude": 75.5422261,
+    "place_id": "ChIJVVooeClnHDkRAXs-B3wllxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVooeClnHDkRAXs-B3wllxo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:47:05"
+  },
+  {
+    "business_name": "Liberty Exclusive Showroom",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, School supply store",
+    "pincode": "184143",
+    "phone_number": "+91 94193 24825",
+    "website": "http://www.libertyshoes.com/",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "WARD NO. 9 KATHUA, opp. J & K BANK, Parliwand, Kathua, Jammu and Kashmir 184101",
+    "area": "Parliwand",
+    "latitude": 32.3675585,
+    "longitude": 75.5280339,
+    "place_id": "ChIJF1EiNgZ7HDkRoezYi33icZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1EiNgZ7HDkRoezYi33icZI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:47:07"
+  }
+]

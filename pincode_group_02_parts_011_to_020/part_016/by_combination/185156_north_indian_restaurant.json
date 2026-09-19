@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjha Chulha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Breakfast restaurant, Family restaurant, Food court, Indian restaurant, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "185156",
+    "phone_number": "+91 183 256 6855",
+    "website": "https://sanjhachulha.shop/",
+    "rating": 4,
+    "reviews_count": 4049,
+    "address": "Lawrence Road, Opp. BBK DAV College, Joshi Colony, Amritsar, Punjab 143001",
+    "area": "Opp. BBK DAV College, Joshi Colony",
+    "latitude": 31.64541,
+    "longitude": 74.8780845,
+    "place_id": "ChIJ4Tm_zF5jGTkRRGvV-RTgkxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Tm_zF5jGTkRRGvV-RTgkxk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:25"
+  },
+  {
+    "business_name": "Brothers Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant, Dhaba, Punjabi restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "185156",
+    "phone_number": "+91 98881 48082",
+    "website": "https://www.brothersdhaba.com/",
+    "rating": 4.1,
+    "reviews_count": 4022,
+    "address": "Grand Trunk Rd, near LIC Building, Khandwala, Amritsar, Punjab 143105",
+    "area": "Khandwala",
+    "latitude": 31.630236699999998,
+    "longitude": 74.8164184,
+    "place_id": "ChIJv1-CxS9lGTkRRQufz81zxJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1-CxS9lGTkRRQufz81zxJ8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:30:25"
+  }
+]

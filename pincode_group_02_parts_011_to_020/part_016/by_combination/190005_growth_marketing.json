@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highend 360",
+    "search_category": "Growth Marketing",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Photography service, Software company, Video production service",
+    "pincode": "190005",
+    "phone_number": "+91 77809 77288",
+    "website": "http://highend360.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jammu and Kashmir, NH 1, Gulshan Nagar, Nowgam, Srinagar, Jammu and Kashmir 190015",
+    "area": "Gulshan Nagar, Nowgam",
+    "latitude": 34.0248972,
+    "longitude": 74.814512,
+    "place_id": "ChIJk3hL30KO4TgRwRbD0EnzhVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3hL30KO4TgRwRbD0EnzhVI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:53:02"
+  },
+  {
+    "business_name": "D2C Digital Solutions",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "190005",
+    "phone_number": "+91 89205 61115",
+    "website": "http://d2cdigitalsolutions.com/",
+    "rating": 4.8,
+    "reviews_count": 35,
+    "address": "D2C Digital Solutions, 190005, India",
+    "area": "190005",
+    "latitude": 28.6440837,
+    "longitude": 77.0932314,
+    "place_id": "ChIJsTr0VXvfyYERXh3e9jgoQOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTr0VXvfyYERXh3e9jgoQOM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:53:04"
+  }
+]

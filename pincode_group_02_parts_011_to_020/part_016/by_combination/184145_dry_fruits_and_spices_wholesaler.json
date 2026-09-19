@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Traders",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Health food store, Herb shop, Spice store",
+    "pincode": "184145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "gate no 2, metro station, 84, Shukrawar Peth - Mahatma Gandhi Rd, next to mandai, Mandai, Shukrawar Peth, Pune, Maharashtra 411002",
+    "area": "Mandai, Shukrawar Peth",
+    "latitude": 18.5116169,
+    "longitude": 73.8571994,
+    "place_id": "ChIJs1nDMGzAwjsROaqjWIMtuJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1nDMGzAwjsROaqjWIMtuJE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:18"
+  },
+  {
+    "business_name": "Shyam Stores",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "184145",
+    "phone_number": "+91 97119 67409",
+    "website": "http://shyamstores.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "6525, Khari Baoli Rd, Old Delhi, Fatehpuri, Chandni Chowk, Delhi, 110006",
+    "area": "Old Delhi, Fatehpuri, Chandni Chowk",
+    "latitude": 28.657221999999997,
+    "longitude": 77.22285509999999,
+    "place_id": "ChIJv5TpZRL9DDkRwQw6DOrGpaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5TpZRL9DDkRwQw6DOrGpaI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 06:50:18"
+  }
+]

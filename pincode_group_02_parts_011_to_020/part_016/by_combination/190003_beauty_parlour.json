@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Revive Beauty Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "190003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Munawar Link Road, Munawara Abad, Srinagar, Jammu and Kashmir 190001",
+    "area": "Munawara Abad",
+    "latitude": 34.0818785,
+    "longitude": 74.8196036,
+    "place_id": "ChIJVw6k_zKP4TgRFPyuFuN4fOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVw6k_zKP4TgRFPyuFuN4fOo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:47"
+  },
+  {
+    "business_name": "Loreal Salon Rainawari",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Health and beauty shop",
+    "pincode": "190003",
+    "phone_number": "+91 95960 50606",
+    "website": "https://loreal-salon-rainawari.grexa.site/",
+    "rating": 4.5,
+    "reviews_count": 45,
+    "address": "near JLNM Hospital, Rainawari, Srinagar, Jammu and Kashmir 190003",
+    "area": "Rainawari",
+    "latitude": 34.096363,
+    "longitude": 74.8217444,
+    "place_id": "ChIJn5wZs6-F4TgRYXdJfD-KpQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5wZs6-F4TgRYXdJfD-KpQM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:48:47"
+  }
+]

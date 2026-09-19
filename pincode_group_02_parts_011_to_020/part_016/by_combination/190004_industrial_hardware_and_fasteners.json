@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE UNIK SALES CORPORATION",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "190004",
+    "phone_number": "+91 94190 53394",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "8 Near Baqqa, Masjid Rek Chowk, Batmaloo, Srinagar, Jammu and Kashmir 190010",
+    "area": "Batmaloo",
+    "latitude": 34.0732645,
+    "longitude": 74.7949421,
+    "place_id": "ChIJaQyBTWuP4TgRiA01ePgpf8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQyBTWuP4TgRiA01ePgpf8U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:51:07"
+  },
+  {
+    "business_name": "Raheek Trading World",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Paint store, Pipes Wholesaler, Water Pump Supplier",
+    "pincode": "190004",
+    "phone_number": "+91 60052 12259",
+    "website": "http://www.nectarplus.co.in/",
+    "rating": 4.1,
+    "reviews_count": 45,
+    "address": "Gund Hassi Bhat, Lawaypora, Jammu and Kashmir 190017",
+    "area": "190004",
+    "latitude": 34.1185921,
+    "longitude": 74.6909429,
+    "place_id": "ChIJDQUuBfGb4TgR-amRA7kuVu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQUuBfGb4TgR-amRA7kuVu8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:51:08"
+  }
+]

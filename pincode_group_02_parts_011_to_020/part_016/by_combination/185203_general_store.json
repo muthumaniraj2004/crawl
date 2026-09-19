@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bikram General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "185203",
+    "phone_number": "+91 97970 35997",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Jagti, Jammu and Kashmir 181221",
+    "area": "185203",
+    "latitude": 32.8127938,
+    "longitude": 74.89113909999999,
+    "place_id": "ChIJe_lz0Z6BHjkRe2IrWhoixsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_lz0Z6BHjkRe2IrWhoixsg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:35:36"
+  },
+  {
+    "business_name": "Salaria General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "185203",
+    "phone_number": "+91 97976 56437",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "08, near Primary School, Lower, Ransoo, Jammu and Kashmir 185203",
+    "area": "Lower",
+    "latitude": 33.1656331,
+    "longitude": 74.5885928,
+    "place_id": "ChIJn9cfKgBBHjkRcYhVKiRsiFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9cfKgBBHjkRcYhVKiRsiFQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:35:37"
+  }
+]

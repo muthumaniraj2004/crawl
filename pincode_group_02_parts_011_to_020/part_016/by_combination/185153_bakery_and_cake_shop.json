@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "185153",
+    "phone_number": "+91 80823 50614",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bharakh, Jammu and Kashmir 185204",
+    "area": "185153",
+    "latitude": 33.1135163,
+    "longitude": 74.6078344,
+    "place_id": "ChIJMWN9TMZrHjkRVnB-GRIJd0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWN9TMZrHjkRVnB-GRIJd0w",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:12"
+  },
+  {
+    "business_name": "vikas bhardwaj",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "185153",
+    "phone_number": "+91 88995 63426",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mawa, Sunderbani, Thanda Pani, Jammu and Kashmir 185152",
+    "area": "Mawa",
+    "latitude": 33.0648287,
+    "longitude": 74.4846171,
+    "place_id": "ChIJLT3DnsxFHjkRJ-LrXlblbCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLT3DnsxFHjkRJ-LrXlblbCs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:25:12"
+  }
+]

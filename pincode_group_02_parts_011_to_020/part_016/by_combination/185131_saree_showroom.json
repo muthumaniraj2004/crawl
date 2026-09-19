@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Romeo Shopping",
+    "search_category": "Saree Showroom",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "185131",
+    "phone_number": "N/A",
+    "website": "http://romeoshopping.in/",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Rajouri, Jammu and Kashmir 185131",
+    "area": "185131",
+    "latitude": 33.3667589,
+    "longitude": 74.3126176,
+    "place_id": "ChIJ-R0Sf24tHjkRw-wTlNlEbVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-R0Sf24tHjkRw-wTlNlEbVA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:14:46"
+  },
+  {
+    "business_name": "Pawan Exclusive",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "185131",
+    "phone_number": "+91 70067 33549",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "City Chowk, near Bali Sweets Shop, Main Bazar, Rajouri, Rajouri, Jammu and Kashmir 185131",
+    "area": "Main Bazar, Rajouri",
+    "latitude": 33.3751829,
+    "longitude": 74.308795,
+    "place_id": "ChIJVz2oxoYtHjkRqWyNPPKcQMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVz2oxoYtHjkRqWyNPPKcQMg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 07:14:46"
+  }
+]
