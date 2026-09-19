@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Village Jar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Food manufacturer, Food products supplier, Gourmet grocery store, Health food restaurant, Health food store, Indian grocery store, Natural goods store",
+    "pincode": "171006",
+    "phone_number": "+91 88829 91405",
+    "website": "https://thevillagejar.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Verma Apartments, 6, near Tenzin Hospital, Panthaghati, Shimla, Himachal Pradesh 171009",
+    "area": "Kasumpti Colony, Panthaghati",
+    "latitude": 31.073027399999997,
+    "longitude": 77.1814824,
+    "place_id": "ChIJBbpjwZp_BTkRzp9zIPmnR5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbpjwZp_BTkRzp9zIPmnR5c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:14"
+  },
+  {
+    "business_name": "Agastya fuel Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Vitamin & supplements store",
+    "all_categories": "Vitamin & supplements store, Sports nutrition store",
+    "pincode": "171006",
+    "phone_number": "+91 98163 66630",
+    "website": "http://www.agastyastore.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th Floor, Garg Niwas, Shiv Nagar, Panthaghati, Shimla, Himachal Pradesh 171009",
+    "area": "Shiv Nagar, Panthaghati",
+    "latitude": 31.071085,
+    "longitude": 77.1840971,
+    "place_id": "ChIJe6ZHQfF_BTkRjwwOmE6iC74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6ZHQfF_BTkRjwwOmE6iC74",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:18"
+  }
+]

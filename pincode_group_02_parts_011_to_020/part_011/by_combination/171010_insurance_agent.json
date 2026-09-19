@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travelling Himalayas",
+    "search_category": "Insurance Agent",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency, Tour operator",
+    "pincode": "171010",
+    "phone_number": "+91 97362 22414",
+    "website": "https://travellinghimalayas.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Hope Villa Sandal Chakkar, National Highway, Manali, Shimla, Himachal Pradesh 171005",
+    "area": "Sandal Estate, Lower Chakkar, Manali",
+    "latitude": 31.090534499999997,
+    "longitude": 77.1348333,
+    "place_id": "ChIJp5IgrPCJBDkRLPPTc1lK30Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5IgrPCJBDkRLPPTc1lK30Q",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:09:54"
+  },
+  {
+    "business_name": "Bharadia Finsurance Hub",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Insurance company",
+    "pincode": "171010",
+    "phone_number": "+91 94483 53035",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8-1368/4, Nehru Gunj, Kalaburagi, Karnataka 585101",
+    "area": "Nehru Gunj",
+    "latitude": 17.3488513,
+    "longitude": 76.8386191,
+    "place_id": "ChIJ9wxe7XXHyDsRDj8M78--sLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wxe7XXHyDsRDj8M78--sLc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:09:55"
+  }
+]

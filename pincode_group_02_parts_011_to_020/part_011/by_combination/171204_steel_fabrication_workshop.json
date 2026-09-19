@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous Metal Fabricators",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "171204",
+    "phone_number": "+91 98859 32050",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "S No, 2-3-509, Owaisi Nagar, Kamshetty Enclave, Akash Nagar, Amberpet, Hyderabad, Telangana 500013",
+    "area": "Owaisi Nagar, Kamshetty Enclave, Akash Nagar, Amberpet",
+    "latitude": 17.3930365,
+    "longitude": 78.52443439999999,
+    "place_id": "ChIJsa4zRgaZyzsRUR84gBAjDF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsa4zRgaZyzsRUR84gBAjDF4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:33:07"
+  },
+  {
+    "business_name": "Patel Steel Trading Gulbarga ( SS Railing work)",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator, Metal fabricator, Pipes Wholesaler, Steel distributor, Railing contractor",
+    "pincode": "171204",
+    "phone_number": "N/A",
+    "website": "https://patel-steel.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hagarga Rd, near Sultan Palace function hall, opp. Deccan Cross, Mecca Colony, Kalaburagi, Karnataka 585104",
+    "area": "Mecca Colony",
+    "latitude": 17.3492852,
+    "longitude": 76.86429249999999,
+    "place_id": "ChIJg1MUcC3HyDsRbfXbRsNUEoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1MUcC3HyDsRbfXbRsNUEoo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:33:08"
+  }
+]

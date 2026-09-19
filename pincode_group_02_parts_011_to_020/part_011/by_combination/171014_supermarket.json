@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahamai Mega Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Department store, Indian grocery store",
+    "pincode": "171014",
+    "phone_number": "+91 98166 77107",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "opp. SACRED HEART SCHOOL, Sidhpur, Dharamshala, Himachal Pradesh 176057",
+    "area": "171014",
+    "latitude": 32.1901228,
+    "longitude": 76.3536359,
+    "place_id": "ChIJxYxmEelRGzkRn6gSxMbsvcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYxmEelRGzkRn6gSxMbsvcM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:15:47"
+  },
+  {
+    "business_name": "DEESONS SUPERMARKET",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Outlet mall",
+    "pincode": "171014",
+    "phone_number": "+91 97361 00001",
+    "website": "http://deesons.in/",
+    "rating": 3.8,
+    "reviews_count": 251,
+    "address": "Chowk Bazar, Lower Bazar, Ganj Bazar, Upper Bazar, Ram Bazar, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ganj Bazar, Upper Bazar, Ram Bazar",
+    "latitude": 30.9091228,
+    "longitude": 77.10604529999999,
+    "place_id": "ChIJh9kyRUqBDzkRVOKbF0IQKFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9kyRUqBDzkRVOKbF0IQKFY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:15:49"
+  }
+]

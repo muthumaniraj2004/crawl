@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Summit Safari",
+    "search_category": "Exhibitions",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Outdoor activity organiser, Sightseeing Tour Operator, Tour agency, Tour operator, Tourist attraction, Tourist information center, Railway Ticket Agent, Transportation service",
+    "pincode": "171006",
+    "phone_number": "+91 98050 51102",
+    "website": "https://www.summitsafari.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no 10 Ram Saran Dass Building, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Housing Board Colony, Sanjauli",
+    "latitude": 31.103657,
+    "longitude": 77.1958995,
+    "place_id": "ChIJ5zMNLpv1DjkRk25H7cr8a-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zMNLpv1DjkRk25H7cr8a-Q",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:55"
+  },
+  {
+    "business_name": "Vacation By Creation",
+    "search_category": "Exhibitions",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "171006",
+    "phone_number": "N/A",
+    "website": "http://vacationbycreation.com/",
+    "rating": 4.2,
+    "reviews_count": 27,
+    "address": "TRMS Complex, 6, Shimla Bypass, Jawahar Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Jawahar Colony, Sanjauli",
+    "latitude": 31.096657999999998,
+    "longitude": 77.20222129999999,
+    "place_id": "ChIJr1Cxu_Sgv60RUEaGMKrhrj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1Cxu_Sgv60RUEaGMKrhrj8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:55"
+  }
+]

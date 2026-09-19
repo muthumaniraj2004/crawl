@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atul Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Artificial plant supplier, Balloon artist, Balloon store",
+    "pincode": "171206",
+    "phone_number": "+91 77175 20608",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop no 95, Sector 87, Sahibzada Ajit Singh Nagar, Punjab 140308",
+    "area": "Sector 87",
+    "latitude": 30.671892699999997,
+    "longitude": 76.6949774,
+    "place_id": "ChIJE48RfHnvDzkRzMD5fA1Xdic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE48RfHnvDzkRzMD5fA1Xdic",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:36:07"
+  },
+  {
+    "business_name": "Arora Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower delivery",
+    "all_categories": "Flower delivery",
+    "pincode": "171206",
+    "phone_number": "+91 98142 41666",
+    "website": "http://www.theflowervilla.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Booth no 20, Sector 44 C, Chandigarh, 160043",
+    "area": "45D, Sector 44",
+    "latitude": 30.7114926,
+    "longitude": 76.7536267,
+    "place_id": "ChIJL0XFgTbsDzkRJtHwE4cNdyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0XFgTbsDzkRJtHwE4cNdyc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:36:07"
+  }
+]

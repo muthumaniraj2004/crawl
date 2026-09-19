@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaath Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Corporate gift supplier, Gift basket store, Wedding store",
+    "pincode": "171003",
+    "phone_number": "+91 98301 90191",
+    "website": "https://www.instagram.com/kaathdecor?igsh=NHlzajQ2YWJ0bGps",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ec 245, EC Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "area": "EC Block, Sector 1, Bidhannagar",
+    "latitude": 22.5848759,
+    "longitude": 88.4103374,
+    "place_id": "ChIJR1EcKPF1AjoRSTRItvgz4kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1EcKPF1AjoRSTRItvgz4kk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:56:47"
+  },
+  {
+    "business_name": "Deepika's World",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift basket store",
+    "all_categories": "Gift basket store",
+    "pincode": "171003",
+    "phone_number": "+91 96353 56551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Zonal Center, Jadabendra Panja Ave, Khudiram Colony, Y-1, Sagarbhanga, Durgapur, West Bengal 713211",
+    "area": "Khudiram Colony, Y-1, Sagarbhanga",
+    "latitude": 23.4971674,
+    "longitude": 87.32848949999999,
+    "place_id": "ChIJXey1UC5x9zkRd9SDWKduoKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXey1UC5x9zkRd9SDWKduoKo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:56:47"
+  }
+]

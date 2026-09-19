@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALOK ABHIRAM BHEJ PPT",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "171005",
+    "phone_number": "+91 87662 28257",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 57, BUS STAND MARKET, Airport Rd, Totu, Shimla, Himachal Pradesh 171011",
+    "area": "Totu",
+    "latitude": 31.099704499999998,
+    "longitude": 77.12924939999999,
+    "place_id": "ChIJAeb0JjJ5BTkRFlc3fbqZdJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeb0JjJ5BTkRFlc3fbqZdJc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:59:28"
+  },
+  {
+    "business_name": "Sharma Enterprises",
+    "search_category": "Supermarket",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171005",
+    "phone_number": "+91 98055 87967",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "34WC+WFW, Vijay Nagar, Totu, Shimla, Himachal Pradesh 171011",
+    "area": "Vijay Nagar, Totu",
+    "latitude": 31.0973705,
+    "longitude": 77.121213,
+    "place_id": "ChIJQeg8lWt5BTkRWiH3ze9Ds7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeg8lWt5BTkRWiH3ze9Ds7o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:59:31"
+  }
+]

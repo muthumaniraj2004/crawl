@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Backpacker Stay",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "171212",
+    "phone_number": "+91 124 620 1184",
+    "website": "https://www.oyorooms.com/183693/",
+    "rating": 4.4,
+    "reviews_count": 64,
+    "address": "Backpackers Homestay, Sunarghati, Matiana, Narkanda, Himachal Pradesh 171212",
+    "area": "171212",
+    "latitude": 31.194412399999997,
+    "longitude": 77.3891026,
+    "place_id": "ChIJVVVVwASQBTkRgb6XaNFqkIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVwASQBTkRgb6XaNFqkIw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:46:38"
+  },
+  {
+    "business_name": "Yoshika Homestay",
+    "search_category": "Hostels",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "171212",
+    "phone_number": "+91 78072 13067",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "6C64+376, Matiana, Himachal Pradesh 171212",
+    "area": "171212",
+    "latitude": 31.2101515,
+    "longitude": 77.4056451,
+    "place_id": "ChIJRcVOcwCRBTkRS3AbymD4lYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcVOcwCRBTkRS3AbymD4lYg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:46:38"
+  }
+]

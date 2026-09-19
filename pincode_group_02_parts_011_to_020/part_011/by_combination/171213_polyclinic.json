@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Niharika Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "171213",
+    "phone_number": "+91 98325 77070",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Shiv Mandir, Manberia, Barakar, West Bengal 713324",
+    "area": "Manberia",
+    "latitude": 23.745738199999998,
+    "longitude": 86.8223234,
+    "place_id": "ChIJa6u4wi7f9jkRmTEoh7tHg6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6u4wi7f9jkRmTEoh7tHg6o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:47:53"
+  },
+  {
+    "business_name": "Post Office Kanahar",
+    "search_category": "Polyclinic",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "171213",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7FCG+5VW, Shimla, Himachal Pradesh 171213",
+    "area": "171213",
+    "latitude": 31.2704995,
+    "longitude": 77.4771933,
+    "place_id": "ChIJb5MLa-STBTkR8TWFeSoJvpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5MLa-STBTkR8TWFeSoJvpY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:47:53"
+  }
+]

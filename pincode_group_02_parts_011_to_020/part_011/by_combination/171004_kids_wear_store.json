@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dalinee",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "171004",
+    "phone_number": "+91 96256 44157",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24, Boileauganj, Shimla, Himachal Pradesh 171004",
+    "area": "Boileauganj",
+    "latitude": 31.0997222,
+    "longitude": 77.13966409999999,
+    "place_id": "ChIJecnwkiV5BTkRhsmD-_qy2wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecnwkiV5BTkRhsmD-_qy2wU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:57:51"
+  },
+  {
+    "business_name": "Mumma junction",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Childrens Store",
+    "all_categories": "Childrens Store",
+    "pincode": "171004",
+    "phone_number": "+91 78769 04041",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near shiv mandir, Dari, Dharamshala, Uparli Dar, Himachal Pradesh 176215",
+    "area": "Dari",
+    "latitude": 32.199522099999996,
+    "longitude": 76.3365875,
+    "place_id": "ChIJ_U9egV9RGzkR3EqvHPLnOws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_U9egV9RGzkR3EqvHPLnOws",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:57:52"
+  }
+]

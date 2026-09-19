@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A-one Car Accessories",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "171018",
+    "phone_number": "+91 82190 48964",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Chilgari, Dharamshala, Himachal Pradesh 176215",
+    "area": "Chilgari",
+    "latitude": 32.2095649,
+    "longitude": 76.3224781,
+    "place_id": "ChIJjaZDjxxRGzkRMhEZSTR4uxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjaZDjxxRGzkRMhEZSTR4uxg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:20:01"
+  },
+  {
+    "business_name": "Choudhary Auto Mobile",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "171018",
+    "phone_number": "+91 98166 66739",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 118,
+    "address": "Lower Badah St, near kidzee, Pardesh, Badah, Kullu, Himachal Pradesh 175101",
+    "area": "Pardesh, Badah",
+    "latitude": 31.928053199999997,
+    "longitude": 77.11757089999999,
+    "place_id": "ChIJsVMRV9r2BDkR12ToZiik9ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVMRV9r2BDkR12ToZiik9ts",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:20:01"
+  }
+]

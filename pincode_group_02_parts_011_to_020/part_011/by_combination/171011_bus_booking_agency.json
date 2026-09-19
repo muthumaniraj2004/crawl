@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "tushar travel bus",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "171011",
+    "phone_number": "+91 93177 37639",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "v.po, tehsil, Panesh, Shimla, Himachal Pradesh 171014",
+    "area": "tehsil",
+    "latitude": 31.093794199999998,
+    "longitude": 77.0903347,
+    "place_id": "ChIJ2ypKdvd7BTkRU5s5utkLKbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ypKdvd7BTkRU5s5utkLKbs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:59"
+  },
+  {
+    "business_name": "kapil travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Hotel, Transportation service",
+    "pincode": "171011",
+    "phone_number": "+91 98053 00667",
+    "website": "http://www.kapiltravels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghora Chowki, Shimla, Himachal Pradesh 171004",
+    "area": "Ghora Chowki",
+    "latitude": 31.0951064,
+    "longitude": 77.13888159999999,
+    "place_id": "ChIJ8dJE6OJ5BTkRuMEC-UY5YmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dJE6OJ5BTkRuMEC-UY5YmM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:59"
+  }
+]

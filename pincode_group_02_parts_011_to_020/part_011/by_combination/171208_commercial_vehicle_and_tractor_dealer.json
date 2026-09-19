@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MotorFloor",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "171208",
+    "phone_number": "+91 91240 01992",
+    "website": "https://motorfloor.com/",
+    "rating": 4.8,
+    "reviews_count": 22,
+    "address": "1st & 2nd Floor, Awfis, SRB Towers, E-12, Infocity Ave, Infocity, Patia, Bhubaneswar, Odisha 751021",
+    "area": "Infocity, Patia",
+    "latitude": 20.3419098,
+    "longitude": 85.80579709999999,
+    "place_id": "ChIJoTfbroIJGToREW-bdvFiUCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTfbroIJGToREW-bdvFiUCo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:39:10"
+  },
+  {
+    "business_name": "M/S.SHRI AUTOMOTIVE",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "171208",
+    "phone_number": "N/A",
+    "website": "https://www.swanagro.in/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "798, PIMPALGAON (MAHADEV), TEHSIL, Ardhapur, Babapur, Maharashtra 431605",
+    "area": "171208",
+    "latitude": 19.2205886,
+    "longitude": 77.3505843,
+    "place_id": "ChIJzTVvWCbX0TsRytSCCvji3ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTVvWCbX0TsRytSCCvji3ho",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:39:10"
+  }
+]

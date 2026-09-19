@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vacation Point Tour & Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Railway Ticket Agent",
+    "pincode": "171216",
+    "phone_number": "+91 83518 18008",
+    "website": "http://vacationpoint.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Tehsil Balh, V.P.O, Nagchala, Himachal Pradesh 175021",
+    "area": "171216",
+    "latitude": 31.6248987,
+    "longitude": 76.9385219,
+    "place_id": "ChIJA3v0o5wdBTkRv470rkW9maI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3v0o5wdBTkRv470rkW9maI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:53:24"
+  },
+  {
+    "business_name": "Travel To Himachal Pradesh",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "171216",
+    "phone_number": "+91 98167 25510",
+    "website": "https://traveltohimachalpradesh.com/",
+    "rating": 5,
+    "reviews_count": 65,
+    "address": "Village Bhukkar, Teh, Bhoranj, Himachal Pradesh 177024",
+    "area": "171216",
+    "latitude": 31.659254599999997,
+    "longitude": 76.7158701,
+    "place_id": "ChIJNeROk7HZBDkRVQY6UVytXrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeROk7HZBDkRVQY6UVytXrM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:53:25"
+  }
+]

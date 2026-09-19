@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOUNTAIN EXPLORER TAXI SERVICES",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "171005",
+    "phone_number": "+91 80912 39666",
+    "website": "http://www.mountainexplorertaxiservices.com/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "MOUNTAIN EXPLORER TAXI SERVICES, 171005, India",
+    "area": "171005",
+    "latitude": 31.5785374,
+    "longitude": 77.4090028,
+    "place_id": "ChIJ63VNGr95BTkRrI4bpD16tHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63VNGr95BTkRrI4bpD16tHI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:10"
+  },
+  {
+    "business_name": "Ranot holiday travels",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Hotel, Minibus taxi service, Resort hotel, Taxi service, Tour operator, Travel lounge",
+    "pincode": "171005",
+    "phone_number": "+91 80911 91611",
+    "website": "https://www.justdial.com/",
+    "rating": 4.9,
+    "reviews_count": 146,
+    "address": "Ranot cottage, near larisa hotel, Lower Chakkar, Chakkar, Shimla, Himachal Pradesh 171005",
+    "area": "Lower Chakkar, Chakkar",
+    "latitude": 31.0925963,
+    "longitude": 77.1368632,
+    "place_id": "ChIJ7x20wNgeTYQRbSBlCWfZhwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x20wNgeTYQRbSBlCWfZhwI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:10"
+  }
+]

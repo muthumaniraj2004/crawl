@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "171103",
+    "phone_number": "+91 98163 38898",
+    "website": "https://deepakjeweller.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Purana Bazar-Bhojpur Rd, near Gopal Mandir, Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur",
+    "latitude": 31.5334395,
+    "longitude": 76.8903174,
+    "place_id": "ChIJDWWenjYZBTkRCohbgZCbV24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWWenjYZBTkRCohbgZCbV24",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:24:57"
+  },
+  {
+    "business_name": "Tanishq Jewellery - Mandi",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler, Jewelry designer, Jewelry manufacturer, Jewelry repair service",
+    "pincode": "171103",
+    "phone_number": "+91 1905 223 222",
+    "website": "https://stores.tanishq.co.in/store-locator/jewellery-stores/himachal%20pradesh/mandi/MDI",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "118-1/9, nearby HDFC Bank, Seri Bazar, Bhagwan Muhalla, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Seri Bazar, Bhagwan Muhalla, Samkhetar",
+    "latitude": 31.707422899999997,
+    "longitude": 76.9327273,
+    "place_id": "ChIJ1ygwpPTjBDkRLQnXeX1Ky6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ygwpPTjBDkRLQnXeX1Ky6Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:24:57"
+  }
+]

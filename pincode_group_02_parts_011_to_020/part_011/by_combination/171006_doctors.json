@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajwa Diagnosis",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "171006",
+    "phone_number": "+91 88948 48926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "near by Sitara Regency, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Housing Board Colony, Sanjauli",
+    "latitude": 31.1027854,
+    "longitude": 77.19667749999999,
+    "place_id": "ChIJcwz4nbGDBTkROMXBdfuZHeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwz4nbGDBTkROMXBdfuZHeE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:41"
+  },
+  {
+    "business_name": "Dr Lal PathLabs - Patient Service Centre",
+    "search_category": "Doctors",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service",
+    "pincode": "171006",
+    "phone_number": "+91 8071 891 327",
+    "website": "https://labs.lalpathlabs.com/dr-lal-pathlabs-patient-service-centre-diagnostic-centre-sharma-complex-shimla-562686/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No 1, Ground Floor, Sharma Complex, Shimla, Himachal Pradesh 171006",
+    "area": "171006",
+    "latitude": 31.075055799999998,
+    "longitude": 77.2120664,
+    "place_id": "ChIJueUV9_CBBTkRq15LpWhOcCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueUV9_CBBTkRq15LpWhOcCQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:43"
+  }
+]

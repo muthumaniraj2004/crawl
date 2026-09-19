@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hillside Cafe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "171003",
+    "phone_number": "+91 98056 70008",
+    "website": "https://menu.proppo.in/PROP-75EBF229/-?mt=rom",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mohal Tilla, near Heliport, Shimla, Himachal Pradesh 171012",
+    "area": "171003",
+    "latitude": 31.113094099999998,
+    "longitude": 77.19976869999999,
+    "place_id": "ChIJ0d8WxWODBTkRQvLB_KKJXoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0d8WxWODBTkRQvLB_KKJXoo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:46"
+  },
+  {
+    "business_name": "New Sher-E-Punjab Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "171003",
+    "phone_number": "+91 177 265 2269",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Anuraag Building Shop No:4, Upper Kaithu, Shimla, Himachal Pradesh 171003",
+    "area": "Upper Kaithu, Fingask Estate",
+    "latitude": 31.1066899,
+    "longitude": 77.1656592,
+    "place_id": "ChIJV_zb1e14BTkRHu35AqDv-20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_zb1e14BTkRHu35AqDv-20",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:46"
+  }
+]

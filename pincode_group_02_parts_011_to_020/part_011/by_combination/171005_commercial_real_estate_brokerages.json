@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hillside Havens",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car leasing service, Internet cafe",
+    "pincode": "171005",
+    "phone_number": "+91 93177 47199",
+    "website": "http://hillsidehavens.in/",
+    "rating": 4.7,
+    "reviews_count": 58,
+    "address": "34XG+644 Laxmi Bhawan, Airport Rd, Shiv Nagar, Totu, Shimla, Himachal Pradesh 171011",
+    "area": "Shiv Nagar, Totu",
+    "latitude": 31.097995299999997,
+    "longitude": 77.1253073,
+    "place_id": "ChIJwfJOkTV5BTkRbRHxBLOb4Qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfJOkTV5BTkRbRHxBLOb4Qo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:55"
+  },
+  {
+    "business_name": "Om sai property consultant",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "171005",
+    "phone_number": "+91 80 4877 9184",
+    "website": "http://omsaipropertyconsultant.com/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "House No. 58, Dharamsala Cantt, Kangra, Dari, Dharamshala, Himachal Pradesh 176001",
+    "area": "Dari",
+    "latitude": 32.1630251,
+    "longitude": 76.3050801,
+    "place_id": "ChIJudSChTpQGzkRJ0ZRS5iF8Fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudSChTpQGzkRJ0ZRS5iF8Fo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:57"
+  }
+]

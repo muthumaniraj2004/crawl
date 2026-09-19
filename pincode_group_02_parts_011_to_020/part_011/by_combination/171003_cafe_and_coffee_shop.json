@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Campus Cafe By Coffee Company",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "171003",
+    "phone_number": "+91 93179 09009",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Govt Degree College, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Sanjauli",
+    "latitude": 31.1067671,
+    "longitude": 77.1885704,
+    "place_id": "ChIJX4V-sl15BTkRNHGsdejStlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4V-sl15BTkRNHGsdejStlo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:47"
+  },
+  {
+    "business_name": "Cafe Khoblu",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "171003",
+    "phone_number": "+91 98055 44330",
+    "website": "https://www.meenabaghhomes.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Engine Ghar, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Engine Ghar, Sanjauli",
+    "latitude": 31.1023861,
+    "longitude": 77.1913616,
+    "place_id": "ChIJb18dIxh5BTkRjlrIh26QZfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb18dIxh5BTkRjlrIh26QZfA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diary Times",
+    "search_category": "Media and Event",
+    "primary_category": "Media company",
+    "all_categories": "Media company",
+    "pincode": "171011",
+    "phone_number": "+91 86270 64966",
+    "website": "https://diarytimes.com/",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "Himland Hotel, Shimla, Himachal Pradesh 173207",
+    "area": "171011",
+    "latitude": 31.098848999999998,
+    "longitude": 77.067959,
+    "place_id": "ChIJrX1dW5p7BTkR-YXNSMKYghk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrX1dW5p7BTkR-YXNSMKYghk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:11:27"
+  },
+  {
+    "business_name": "Map Of Dreams",
+    "search_category": "Media and Event",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "171011",
+    "phone_number": "+91 80914 50379",
+    "website": "https://www.mapofdreams.com/",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "Village, po, nawta, Dhami, Himachal Pradesh 171103",
+    "area": "nawta",
+    "latitude": 31.182861499999998,
+    "longitude": 77.0362851,
+    "place_id": "ChIJixkLXAlxBTkRh96wgrDAx6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixkLXAlxBTkRh96wgrDAx6c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:11:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal & Son's Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171013",
+    "phone_number": "+91 172 273 5609",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 75,
+    "address": "Booth No, Duplex Market, MHC DUPLEX MARKET, 225/226/227, Modern Housing Complex, Sector 13, Chandigarh, 160101",
+    "area": "Modern Housing Complex, Sector 13",
+    "latitude": 30.715033,
+    "longitude": 76.82694049999999,
+    "place_id": "ChIJvRGmQC2TDzkRukYn961m9Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRGmQC2TDzkRukYn961m9Jo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:14:00"
+  },
+  {
+    "business_name": "Ved Parkash Hari Ram",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "171013",
+    "phone_number": "+91 98053 69356",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 55,
+    "address": "DHORI DEEWAR, Saproon, Solan, Himachal Pradesh 173211",
+    "area": "Saproon",
+    "latitude": 30.9063882,
+    "longitude": 77.08979149999999,
+    "place_id": "ChIJBeZpybmGDzkRPj3uwuvHOQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeZpybmGDzkRPj3uwuvHOQQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:14:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "171006",
+    "phone_number": "+91 96664 51566",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "Main road, Uppalapadu, Andhra Pradesh 534451",
+    "area": "171006",
+    "latitude": 17.024125899999998,
+    "longitude": 81.2353612,
+    "place_id": "ChIJEyjajSdfNjoRDgxDyzvpsTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyjajSdfNjoRDgxDyzvpsTs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:21"
+  },
+  {
+    "business_name": "Chai Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "171006",
+    "phone_number": "+91 62623 00031",
+    "website": "https://www.chaisuttabarindia.com/locations/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aggarwal bhawan, nr. local bus stand, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Sanjauli",
+    "latitude": 31.1031007,
+    "longitude": 77.1919118,
+    "place_id": "ChIJk2jzVJ54BTkR9857JOmet9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2jzVJ54BTkR9857JOmet9k",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:23"
+  }
+]

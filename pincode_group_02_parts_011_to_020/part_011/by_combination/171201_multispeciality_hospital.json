@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Civil Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital, Hospital",
+    "pincode": "171201",
+    "phone_number": "+91 1781 252 022",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4M57+73R, Jubbal Rd, Jubbal, Himachal Pradesh 171205",
+    "area": "171201",
+    "latitude": 31.1082349,
+    "longitude": 77.6626501,
+    "place_id": "ChIJR5yfjqT2BTkRhyfE4es239o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5yfjqT2BTkRhyfE4es239o",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:26:51"
+  },
+  {
+    "business_name": "Saravana Surgical Traders",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Medical clinic",
+    "pincode": "171201",
+    "phone_number": "+91 452 438 0090",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "208, E Veli St, near East Gate, Kamarajar Salai, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Kamarajar Salai, Madurai Main",
+    "latitude": 9.9198719,
+    "longitude": 78.1251436,
+    "place_id": "ChIJ0RoACpvFADsRHUZ6uy4maBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RoACpvFADsRHUZ6uy4maBI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:26:53"
+  }
+]

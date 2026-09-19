@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Jeweller",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "171213",
+    "phone_number": "+91 98164 63353",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Narkanda, Himachal Pradesh 171213",
+    "area": "Main Market",
+    "latitude": 31.2557828,
+    "longitude": 77.4602187,
+    "place_id": "ChIJlckyX7yRBTkRWW016fMqXIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlckyX7yRBTkRWW016fMqXIc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:47:38"
+  },
+  {
+    "business_name": "Monika Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "171213",
+    "phone_number": "+91 86290 06469",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Luhri - Neether Rd, Anni, Luhri, Himachal Pradesh 172001",
+    "area": "171213",
+    "latitude": 31.340939,
+    "longitude": 77.42933339999999,
+    "place_id": "ChIJpYblhm2XBTkRS2u-NE00nhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYblhm2XBTkRS2u-NE00nhI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:47:38"
+  }
+]

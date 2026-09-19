@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himachal Pradesh University",
+    "search_category": "Media and Event",
+    "primary_category": "University",
+    "all_categories": "University, Library, Public university",
+    "pincode": "171005",
+    "phone_number": "+91 177 283 3555",
+    "website": "http://www.hpuniv.ac.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Summer Hill, Shimla, Himachal Pradesh 171005",
+    "area": "Summer Hill",
+    "latitude": 31.111036499999997,
+    "longitude": 77.1393647,
+    "place_id": "ChIJb91FfAZ5BTkR5u87VBKc3Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb91FfAZ5BTkR5u87VBKc3Ys",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:37"
+  },
+  {
+    "business_name": "Gaiety theatre",
+    "search_category": "Media and Event",
+    "primary_category": "Media and Event",
+    "all_categories": "Media and Event",
+    "pincode": "171005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "453F+W9J, khalini mistchamber, The Mall, Shimla, Himachal Pradesh 171001",
+    "area": "The Mall",
+    "latitude": 31.1048294,
+    "longitude": 77.17339009999999,
+    "place_id": "ChIJS_vjdQB5BTkRB9u5mLauA7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_vjdQB5BTkRB9u5mLauA7E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:37"
+  }
+]

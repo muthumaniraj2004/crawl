@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clarion Agro Products Pvt Ltd",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "171206",
+    "phone_number": "+91 80962 44402",
+    "website": "http://clarionagro.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Patancheru Mandal, Plot# 41 & 53, Sy. No. 165 & 166 Industrial Park, Phase 3, Pashamylaram, Hyderabad, Telangana 502307",
+    "area": "171206",
+    "latitude": 17.530877099999998,
+    "longitude": 78.1706569,
+    "place_id": "ChIJE3D7vbnxyzsR1BeeKPkJN3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3D7vbnxyzsR1BeeKPkJN3E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:36:40"
+  },
+  {
+    "business_name": "Agra Roller Flour Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "171206",
+    "phone_number": "+91 98370 89282",
+    "website": "http://www.agraroller.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sikandra, Lakhanpur, Uttar Pradesh 282007",
+    "area": "Sikandra",
+    "latitude": 27.220224299999998,
+    "longitude": 77.9215688,
+    "place_id": "ChIJHXCgxfuHczkRZ_XAIfAJvpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXCgxfuHczkRZ_XAIfAJvpE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:36:40"
+  }
+]

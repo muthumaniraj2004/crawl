@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Two Wheels Bike Servicing Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "171011",
+    "phone_number": "+91 90002 25872",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9-291, Balapur X Road, M.K Nagar, Hyderabad, Telangana 500097",
+    "area": "M.K Nagar",
+    "latitude": 17.3158595,
+    "longitude": 78.5185259,
+    "place_id": "ChIJn7ef8IqiyzsRC-FiO25-M-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7ef8IqiyzsRC-FiO25-M-g",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:54"
+  },
+  {
+    "business_name": "JP BIKE MECHANIC SHOP",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "171011",
+    "phone_number": "+91 98851 35783",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-20, Aswaraopeta, Telangana 507301",
+    "area": "171011",
+    "latitude": 17.2417355,
+    "longitude": 81.1294084,
+    "place_id": "ChIJIx2_QVqNNjoRreGdoKbDLuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIx2_QVqNNjoRreGdoKbDLuw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IRAVI Decoration & Event",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Event management company, Event planner, Wedding planner, Wedding service",
+    "pincode": "171011",
+    "phone_number": "+91 98231 94311",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Akashvani, Akashwani Rd, Sant Eknath Housing Society, Bhanudas Nagar, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Sant Eknath Housing Society, Bhanudas Nagar, Nyay Nagar",
+    "latitude": 19.8760753,
+    "longitude": 75.345393,
+    "place_id": "ChIJ85ulvruj2zsRJ2p1RfjthtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85ulvruj2zsRJ2p1RfjthtE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:11:21"
+  },
+  {
+    "business_name": "Hyderabad Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "171011",
+    "phone_number": "+91 75693 93473",
+    "website": "https://balloondecorationservice.in/index.php",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Shop No. 6, 4, Main Market Road, Sultan Shahi, Himayat Nagar, Hyderabad, Telangana 500053",
+    "area": "Sultan Shahi, Himayat Nagar",
+    "latitude": 17.3521599,
+    "longitude": 78.4811618,
+    "place_id": "ChIJoXyLsqqZyzsR55JLYkqDnsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXyLsqqZyzsR55JLYkqDnsU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:11:22"
+  }
+]

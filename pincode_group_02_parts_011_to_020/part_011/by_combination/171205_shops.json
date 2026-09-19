@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kusum Unique Boutique",
+    "search_category": "Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing store",
+    "pincode": "171205",
+    "phone_number": "+91 88948 78186",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bazaar, Sarswati Nagar, Sawra, Himachal Pradesh 171206",
+    "area": "Sarswati Nagar",
+    "latitude": 31.1228311,
+    "longitude": 77.7520402,
+    "place_id": "ChIJxU6sxkH5BTkRqCFI6101ItE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxU6sxkH5BTkRqCFI6101ItE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:35:07"
+  },
+  {
+    "business_name": "Tejta Orchards badhal",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "171205",
+    "phone_number": "+91 86798 00007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4P7J+JQP V.P.O. Badhal, Jubbal, Himachal Pradesh 171206",
+    "area": "171205",
+    "latitude": 31.1140926,
+    "longitude": 77.731955,
+    "place_id": "ChIJRd90t133BTkRR57rXnvQgp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRd90t133BTkRR57rXnvQgp4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:35:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalayan Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Sightseeing Tour Operator, Tour operator, Tourist information center, Travel agency",
+    "pincode": "171205",
+    "phone_number": "+91 94185 48481",
+    "website": "http://www.himalayancab.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sen Villa, Pungh, Opposite Kali Bari Temple Gate, Sundar Nagar, Himachal Pradesh 175018",
+    "area": "171205",
+    "latitude": 31.518774099999998,
+    "longitude": 76.8812559,
+    "place_id": "ChIJuV_3oyUZBTkR0zTHy82UUZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuV_3oyUZBTkR0zTHy82UUZA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:34:01"
+  },
+  {
+    "business_name": "Sood Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour operator",
+    "pincode": "171205",
+    "phone_number": "+91 98776 35123",
+    "website": "https://soodtravels.com/",
+    "rating": 5,
+    "reviews_count": 131,
+    "address": "Booth No. 215, First Floor, Sood Travels, opposite 43 ISBT Road, near KK Residency Hotel, Sector 52, Chandigarh, 160036",
+    "area": "Sector 52",
+    "latitude": 30.715702099999998,
+    "longitude": 76.74533679999999,
+    "place_id": "ChIJOSeunwTtDzkRrYzm2Mh5-KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSeunwTtDzkRrYzm2Mh5-KE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:34:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameer Unique - Unisex Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "171006",
+    "phone_number": "+91 98055 21420",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Children Park, Neridhar, Bhattakufer, Shimla, Himachal Pradesh 171006",
+    "area": "Neridhar, Bhattakufer",
+    "latitude": 31.0947127,
+    "longitude": 77.204627,
+    "place_id": "ChIJTRmw8CmDBTkRewCg9fLuVAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRmw8CmDBTkRewCg9fLuVAg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:08"
+  },
+  {
+    "business_name": "Nailz Infinity",
+    "search_category": "Salon",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "171006",
+    "phone_number": "+91 70181 00435",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Cemetery, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Cemetery, Sanjauli",
+    "latitude": 31.1010885,
+    "longitude": 77.20428919999999,
+    "place_id": "ChIJ0beSNACDBTkRQUxtP1tthNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0beSNACDBTkRQUxtP1tthNs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:10"
+  }
+]

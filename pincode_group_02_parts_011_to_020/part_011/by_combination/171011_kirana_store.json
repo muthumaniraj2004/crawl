@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma General Store | Daily Needs | Groceries | Kirana",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Dairy store, Grocery delivery service, Shopping mall",
+    "pincode": "171011",
+    "phone_number": "+91 94182 53361",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Industrial Area Shoghi, Khawara Chowki, Shoghi, Himachal Pradesh 171219",
+    "area": "Industrial Area Shoghi, Khawara Chowki",
+    "latitude": 31.037032,
+    "longitude": 77.11069599999999,
+    "place_id": "ChIJNd-4v4R-BTkROLZvPMs4SGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNd-4v4R-BTkROLZvPMs4SGU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:21"
+  },
+  {
+    "business_name": "Om General Store & Stationers",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171011",
+    "phone_number": "+91 98166 71500",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nh205, Main Mareit, Shoghi, Shimla, Himachal Pradesh 171219",
+    "area": "171011",
+    "latitude": 31.040682,
+    "longitude": 77.12547289999999,
+    "place_id": "ChIJaSnBGQB_BTkRLxOfbGcsC80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSnBGQB_BTkRLxOfbGcsC80",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:21"
+  }
+]

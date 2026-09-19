@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Minchy's Food Products",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, E - Commerce Agency, Gift shop, Juice shop, Wine store, Winery",
+    "pincode": "171006",
+    "phone_number": "+91 98162 10012",
+    "website": "https://www.minchys.com/",
+    "rating": 4,
+    "reviews_count": 89,
+    "address": "05, NH 5, Shoghi, Himachal Pradesh 171219",
+    "area": "171006",
+    "latitude": 31.042115499999998,
+    "longitude": 77.1269772,
+    "place_id": "ChIJCQtgvex-BTkRo1GncY6zUSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQtgvex-BTkRo1GncY6zUSg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:20"
+  },
+  {
+    "business_name": "Agro Fresh",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Bakery equipment, Baking supply store, Chicken & Mutton Shop, Food producer, Food products supplier, Frozen dessert supplier, Pond fish supplier, Seafood farm",
+    "pincode": "171006",
+    "phone_number": "+91 97360 10688",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bajaura, Himachal Pradesh 175125",
+    "area": "171006",
+    "latitude": 31.8490769,
+    "longitude": 77.1633805,
+    "place_id": "ChIJPf6oPgD5BDkR9mS33oyD7ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPf6oPgD5BDkR9mS33oyD7ps",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:22"
+  }
+]

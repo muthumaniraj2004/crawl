@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N. S. Leather Products Pvt. Ltd.",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer",
+    "pincode": "171003",
+    "phone_number": "+91 98312 03522",
+    "website": "https://nsleather.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Plot - 1602, Zone-9, Leather Goods Park, Leather Complex, Bantala, Kolkata, Gangapur, West Bengal 743502",
+    "area": "Bantala",
+    "latitude": 22.492270299999998,
+    "longitude": 88.50774,
+    "place_id": "ChIJy92s9mINAjoRTkzO-vCsFqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy92s9mINAjoRTkzO-vCsFqc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:57"
+  },
+  {
+    "business_name": "Kolkata Leather Complex",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "171003",
+    "phone_number": "+91 33 2145 6987",
+    "website": "http://www.calcuttaleathercomplex.in/",
+    "rating": 4,
+    "reviews_count": 1483,
+    "address": "FGX8+8VV, Tardah-Bhojerhat Raod, Karaidanga, Gangapur, West Bengal 743502",
+    "area": "Karaidanga",
+    "latitude": 22.4983731,
+    "longitude": 88.5171866,
+    "place_id": "ChIJPxPf1WEMAjoR37M9sBWEnMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxPf1WEMAjoR37M9sBWEnMs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:57"
+  }
+]

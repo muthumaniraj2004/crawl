@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Employment Exchange",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment center",
+    "all_categories": "Employment center",
+    "pincode": "171006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "4M57+P4P, Jubbal Rd, Jubbal, Himachal Pradesh 171205",
+    "area": "171006",
+    "latitude": 31.1093449,
+    "longitude": 77.6628362,
+    "place_id": "ChIJhQia8KT2BTkR94ApNg2W6ZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQia8KT2BTkR94ApNg2W6ZU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:42"
+  },
+  {
+    "business_name": "Futurejobsalerts",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Unemployment office",
+    "all_categories": "Unemployment office",
+    "pincode": "171006",
+    "phone_number": "N/A",
+    "website": "http://www.futurejobsalerts.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P3CV+C69, Village ghewat behar, Himachal Pradesh 177202",
+    "area": "171006",
+    "latitude": 31.7210289,
+    "longitude": 76.0931109,
+    "place_id": "ChIJI5cC9KEjGzkRU-tcQtqvKcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5cC9KEjGzkRU-tcQtqvKcs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:42"
+  }
+]

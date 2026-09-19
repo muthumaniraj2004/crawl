@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CM Seeds Farm",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Store",
+    "pincode": "171005",
+    "phone_number": "+91 1792 224 710",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "W463+JW3, Lower Bazar, Ram Bazar, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ram Bazar",
+    "latitude": 30.911503999999997,
+    "longitude": 77.1048047,
+    "place_id": "ChIJ-UgrZTWBDzkRHE98sLky8nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-UgrZTWBDzkRHE98sLky8nA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:01"
+  },
+  {
+    "business_name": "Gopal Enterprises",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier, Agricultural Seed Store",
+    "pincode": "171005",
+    "phone_number": "+91 98163 40595",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "38Q3+2PG, Fagu, Teh. Theog, Shimla, Himachal Pradesh 171209",
+    "area": "171005",
+    "latitude": 31.087564099999998,
+    "longitude": 77.30433719999999,
+    "place_id": "ChIJSSIBt6CGBTkRAd6Q40xPq7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSIBt6CGBTkRAd6Q40xPq7I",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:03"
+  }
+]

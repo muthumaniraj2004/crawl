@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Frozen Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "171002",
+    "phone_number": "+91 98481 31479",
+    "website": "https://showroom.dotpe.in/royalfrozenfood",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "16-6-526/1, Kattalguda Rd, Kattal Guda, Noorkhan Bazaar, Darulshifa, Hyderabad, Telangana 500024",
+    "area": "Kattal Guda, Noorkhan Bazaar, Darulshifa",
+    "latitude": 17.3739035,
+    "longitude": 78.48872229999999,
+    "place_id": "ChIJrfWQmkuZyzsRSMi3PpNyhos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfWQmkuZyzsRSMi3PpNyhos",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:53:44"
+  },
+  {
+    "business_name": "Fresh to Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesale Food Store",
+    "all_categories": "Wholesale Food Store",
+    "pincode": "171002",
+    "phone_number": "+91 81888 86741",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kisan Bazar, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.861042599999998,
+    "longitude": 81.0108748,
+    "place_id": "ChIJ40y1ReTjmzkRYb-FZGDMJUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40y1ReTjmzkRYb-FZGDMJUY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:53:44"
+  }
+]

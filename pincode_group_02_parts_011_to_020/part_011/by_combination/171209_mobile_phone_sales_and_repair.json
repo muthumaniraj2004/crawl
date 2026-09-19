@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Repair",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "171209",
+    "phone_number": "+91 94182 22490",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "49G3+3JR, Shali Bazar, Theog, Himachal Pradesh 171201",
+    "area": "Shali Bazar",
+    "latitude": 31.125237,
+    "longitude": 77.354005,
+    "place_id": "ChIJJ-oxc72FBTkRBXT8UNUclK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-oxc72FBTkRBXT8UNUclK0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:41:35"
+  },
+  {
+    "business_name": "Sohan communication",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "171209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4CWX+J2G, Theog, Himachal Pradesh 171220",
+    "area": "171209",
+    "latitude": 31.146553299999997,
+    "longitude": 77.4475873,
+    "place_id": "ChIJO5wKOwCPBTkRG4OVcGJKAws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5wKOwCPBTkRG4OVcGJKAws",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:41:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navam Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "171216",
+    "phone_number": "+91 94183 99980",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amned - Keharwin Rd, near PNB bank, Taal, Himachal Pradesh 177029",
+    "area": "171216",
+    "latitude": 31.6311875,
+    "longitude": 76.5894375,
+    "place_id": "ChIJm4ldVMspBTkRyo6I5tkn9ZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4ldVMspBTkRyo6I5tkn9ZU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:53:27"
+  },
+  {
+    "business_name": "Sai Hardware & Electrical Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "171216",
+    "phone_number": "+91 96259 58383",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MDR44, Chetru, Himachal Pradesh 176209",
+    "area": "171216",
+    "latitude": 32.1580778,
+    "longitude": 76.280847,
+    "place_id": "ChIJMUTh3cRRGzkRw6reGoDKs9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUTh3cRRGzkRw6reGoDKs9I",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:53:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "171012",
+    "phone_number": "+91 88940 88354",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cheog, Himachal Pradesh 171012",
+    "area": "171012",
+    "latitude": 31.074122499999998,
+    "longitude": 77.2999529,
+    "place_id": "ChIJj3R_okKHBTkRPCL5XAfkMKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3R_okKHBTkRPCL5XAfkMKc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:12:41"
+  },
+  {
+    "business_name": "Janta Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "171012",
+    "phone_number": "+91 98570 59387",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nangal Devi, Theog, Himachal Pradesh 171220",
+    "area": "Nangal Devi",
+    "latitude": 31.123658799999998,
+    "longitude": 77.3388664,
+    "place_id": "ChIJp2PDAnSFBTkRM8CrR-hun_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2PDAnSFBTkRM8CrR-hun_Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:12:42"
+  }
+]

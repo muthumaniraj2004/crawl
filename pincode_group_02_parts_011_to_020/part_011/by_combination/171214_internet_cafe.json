@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cyber Hut",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "171214",
+    "phone_number": "+91 94181 65757",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Aima, Palampur, Himachal Pradesh 176061",
+    "area": "Aima",
+    "latitude": 32.1157359,
+    "longitude": 76.5338302,
+    "place_id": "ChIJ7QKuVcSzBDkRhX4As2mGQSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QKuVcSzBDkRhX4As2mGQSY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:50:28"
+  },
+  {
+    "business_name": "Lok Mitra Kendra Saloh",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "171214",
+    "phone_number": "+91 83519 70001",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Satguru Shopping Complex , VPO, Saloh - Ghaluwal Rd, Tehsil, Haroli, Himachal Pradesh 174317",
+    "area": "Tehsil",
+    "latitude": 31.4718612,
+    "longitude": 76.1807803,
+    "place_id": "ChIJXU2MOgDbGjkRm8pTVM0hCN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXU2MOgDbGjkRm8pTVM0hCN0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:50:28"
+  }
+]

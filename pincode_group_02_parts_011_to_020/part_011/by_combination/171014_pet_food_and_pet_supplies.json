@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AGGARWAL PET KINGDOM",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "171014",
+    "phone_number": "+91 83606 67247",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 59,
+    "address": "Randhawa Rd, Garden Colony, Kharar, Punjab 140301",
+    "area": "Garden Colony",
+    "latitude": 30.745817499999998,
+    "longitude": 76.64243359999999,
+    "place_id": "ChIJvbRzRv_vDzkR28TVrmN2VAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbRzRv_vDzkR28TVrmN2VAQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:15:54"
+  },
+  {
+    "business_name": "UNIQUE PET STORE",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Pet groomer",
+    "pincode": "171014",
+    "phone_number": "+91 97817 40404",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 84,
+    "address": "Sco no 3, Verka market, near gurudwara sahib, Sector 125, Old, Sunny Enclave, Kharar, Punjab 140301",
+    "area": "Sector 125, Old, Sunny Enclave",
+    "latitude": 30.749092299999997,
+    "longitude": 76.66566089999999,
+    "place_id": "ChIJ8xqli_zvDzkR0Q-a4MKJEQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xqli_zvDzkR0Q-a4MKJEQw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:15:56"
+  }
+]

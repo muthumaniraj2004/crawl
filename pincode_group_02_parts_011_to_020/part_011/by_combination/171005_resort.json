@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Cross Winds West by Satyam Hotels",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Boutique, Home Stay, Resort hotel, Restaurant, Serviced accommodation, Transcription service, Travel agency",
+    "pincode": "171005",
+    "phone_number": "+91 62300 35000",
+    "website": "https://satyamhotelandresorts.com/cross-winds-west/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Thakur Coloney, Bhagra Niwas, Taradevi, Himachal Pradesh 171010",
+    "area": "171005",
+    "latitude": 31.083478,
+    "longitude": 77.13861639999999,
+    "place_id": "ChIJVa2a5SV5BTkRJpjkEuR7CLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVa2a5SV5BTkRJpjkEuR7CLs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:31"
+  },
+  {
+    "business_name": "SKY HILLS HOTELs",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "171005",
+    "phone_number": "+91 97687 54267",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "below asia the dawn, Kachi Ghatti, Shimla, Himachal Pradesh 171004",
+    "area": "Kachi Ghatti",
+    "latitude": 31.0895779,
+    "longitude": 77.1403189,
+    "place_id": "ChIJoyjB-7h5BTkR1Qn470mAs9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyjB-7h5BTkR1Qn470mAs9A",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:31"
+  }
+]

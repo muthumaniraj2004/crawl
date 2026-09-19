@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teena, Saloon jubbal",
+    "search_category": "Clinics",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "171205",
+    "phone_number": "+91 78079 00296",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jubbal thakur building, Jubbal main bazaar, Jubbal, Himachal Pradesh 171205",
+    "area": "171205",
+    "latitude": 31.1056931,
+    "longitude": 77.6626856,
+    "place_id": "ChIJ_1NKOD33BTkR-Fykv4GA1zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1NKOD33BTkR-Fykv4GA1zs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:33:48"
+  },
+  {
+    "business_name": "ROY MEDICAL MANDAL",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "171205",
+    "phone_number": "+91 94592 31226",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4Q8M+C5W, Mandal, Himachal Pradesh 171216",
+    "area": "171205",
+    "latitude": 31.1161122,
+    "longitude": 77.7829587,
+    "place_id": "ChIJlevirlb5BTkRW2Z02ysUiE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlevirlb5BTkRW2Z02ysUiE4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:33:50"
+  }
+]

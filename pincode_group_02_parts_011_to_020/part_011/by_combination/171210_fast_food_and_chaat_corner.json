@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Center Point Cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "171210",
+    "phone_number": "+91 98056 18911",
+    "website": "https://centerpointcafe.godaddysites.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Apex Hospital, Chuari Khas, Himachal Pradesh 176302",
+    "area": "171210",
+    "latitude": 32.4327711,
+    "longitude": 76.00907389999999,
+    "place_id": "ChIJLY1JWhOZHDkRSp1wWwO2IEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLY1JWhOZHDkRSp1wWwO2IEg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:42:11"
+  },
+  {
+    "business_name": "Krishan Chat Shop",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "171210",
+    "phone_number": "+91 99153 33633",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 318,
+    "address": "Booth No.120, Sector 37C, Chandigarh, 160036",
+    "area": "Sector 37 C, Sector 37",
+    "latitude": 30.737038799999997,
+    "longitude": 76.7501175,
+    "place_id": "ChIJIyqRMcLtDzkRcY8KudTWGww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyqRMcLtDzkRcY8KudTWGww",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:42:12"
+  }
+]

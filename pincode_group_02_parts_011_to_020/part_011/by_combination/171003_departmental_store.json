@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Top Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Department store, Ice cream shop",
+    "pincode": "171003",
+    "phone_number": "+91 98724 33677",
+    "website": "https://www.justdial.com/Panchkula/Top-Departmental-Store-Sector-16/0172PX172-X172-100905184827-S6H5_BZDET",
+    "rating": 4.3,
+    "reviews_count": 284,
+    "address": "SCO 253, Sector 16 Opp. Canara Bank, Panchkula, Haryana 134113",
+    "area": "Sector 16",
+    "latitude": 30.6944432,
+    "longitude": 76.83916099999999,
+    "place_id": "ChIJeWGFDEWTDzkRMc8yRCzP2zY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWGFDEWTDzkRMc8yRCzP2zY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:34"
+  },
+  {
+    "business_name": "Top Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171003",
+    "phone_number": "+91 96254 54000",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Pnb Bank, Bharari, Shimla, Himachal Pradesh 171003",
+    "area": "Bharari",
+    "latitude": 31.124360199999998,
+    "longitude": 77.1758708,
+    "place_id": "ChIJ0VxcaJp5BTkRE2AWVhQSseI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VxcaJp5BTkRE2AWVhQSseI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:34"
+  }
+]

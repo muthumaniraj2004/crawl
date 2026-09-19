@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dwarika Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "171204",
+    "phone_number": "+91 70283 42315",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Omerga, Maharashtra 413606",
+    "area": "171204",
+    "latitude": 17.844059299999998,
+    "longitude": 76.6013601,
+    "place_id": "ChIJX1cpaABbzzsRHzZt9s6PCaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1cpaABbzzsRHzZt9s6PCaI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:31:49"
+  },
+  {
+    "business_name": "Alvin Pizza Mehatpur",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Restaurant",
+    "pincode": "171204",
+    "phone_number": "+91 78767 03300",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Una road, near SBI Bank, Basdehra, Nangal, Mehatpur, Himachal Pradesh 174315",
+    "area": "Basdehra",
+    "latitude": 31.4103338,
+    "longitude": 76.34072429999999,
+    "place_id": "ChIJJ5x5TQDPGjkRHbVZyoNKebY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5x5TQDPGjkRHbVZyoNKebY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:31:49"
+  }
+]

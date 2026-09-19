@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Namdhari City Centre",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "171007",
+    "phone_number": "+91 98164 00088",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Samkhetar Road, near Girls School, Lower, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Lower, Samkhetar",
+    "latitude": 31.7126593,
+    "longitude": 76.9314837,
+    "place_id": "ChIJ90T8lDriBDkRnzWSCE7UJHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90T8lDriBDkRnzWSCE7UJHs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:03:22"
+  },
+  {
+    "business_name": "Yougal Sons",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "171007",
+    "phone_number": "+91 82838 48001",
+    "website": "https://www.yougalsons.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bazar, opp. Old Bus Stand, Akhara, Kullu, Himachal Pradesh 175101",
+    "area": "Akhara",
+    "latitude": 31.9642171,
+    "longitude": 77.1153408,
+    "place_id": "ChIJmztolVr3BDkR3fHSiIRdCCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmztolVr3BDkR3fHSiIRdCCo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:03:22"
+  }
+]

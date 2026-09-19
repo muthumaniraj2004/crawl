@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spice n Nuts",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Chocolate shop, Gift basket store",
+    "pincode": "171208",
+    "phone_number": "+91 80786 58303",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9-E, Kalwar Rd, opposite Bank of Maharashtra, Laxmi Nagar III, Jagannath Puri, Suraj Nagar, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Laxmi Nagar III, Jagannath Puri, Suraj Nagar, Jhotwara",
+    "latitude": 26.9446145,
+    "longitude": 75.74473069999999,
+    "place_id": "ChIJi5Ad1pyzbTkRRS_KfezoGyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5Ad1pyzbTkRRS_KfezoGyM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:38:37"
+  },
+  {
+    "business_name": "AMR NUTS & HAMPERS",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "171208",
+    "phone_number": "+91 82873 37502",
+    "website": "https://www.amrnutsandhampers.com/",
+    "rating": 5,
+    "reviews_count": 380,
+    "address": "Amr nuts & hampers, opposite Great Value Sharnam, society, Sector 104, Noida, Uttar Pradesh 201301",
+    "area": "society, Sector 104",
+    "latitude": 28.5409182,
+    "longitude": 77.3726461,
+    "place_id": "ChIJOUS-pVjnDDkRO9lZsoCTUtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUS-pVjnDDkRO9lZsoCTUtU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:38:37"
+  }
+]

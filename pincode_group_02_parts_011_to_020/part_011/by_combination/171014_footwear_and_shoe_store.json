@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dishant footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "171014",
+    "phone_number": "+91 88946 77295",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Main bazar kunihar, Kunihar, Himachal Pradesh 173207",
+    "area": "171014",
+    "latitude": 31.080631099999998,
+    "longitude": 76.9658298,
+    "place_id": "ChIJp8aIrDdlBTkRFJGxXDjSIKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8aIrDdlBTkRFJGxXDjSIKY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:16:07"
+  },
+  {
+    "business_name": "adidas Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Clothing store, Running store, Sportswear store",
+    "pincode": "171014",
+    "phone_number": "+91 94181 35623",
+    "website": "https://www.adidas.co.in/",
+    "rating": 3.8,
+    "reviews_count": 65,
+    "address": "Shop 30, Ground Flr, Mall Rd, Middle Bazar, The Mall, Shimla, Himachal Pradesh 171001",
+    "area": "Middle Bazar, The Mall",
+    "latitude": 31.104822199999997,
+    "longitude": 77.1733661,
+    "place_id": "ChIJSVa0ZZN4BTkRMsQMRVuesHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVa0ZZN4BTkRMsQMRVuesHA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:16:08"
+  }
+]

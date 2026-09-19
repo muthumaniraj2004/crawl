@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ushine Luxe Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician",
+    "pincode": "171211",
+    "phone_number": "+91 99152 11000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground & First Floor, SCO No 1-2, Peer Muchalla Rd, in front of Tricity Plaza, Sector 20, Panchkula, Sanauli, Punjab 140603",
+    "area": "Sector 20",
+    "latitude": 30.6604003,
+    "longitude": 76.8604944,
+    "place_id": "ChIJTV_3w8qVDzkRkS0XvTBOSM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTV_3w8qVDzkRkS0XvTBOSM0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:44:42"
+  },
+  {
+    "business_name": "Face 2 Face Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "171211",
+    "phone_number": "N/A",
+    "website": "https://face2face.salon/ghumarwin",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "FIRST FLOOR, above RED TAPE, Ghumarwin, Himachal Pradesh 174021",
+    "area": "171211",
+    "latitude": 31.4491451,
+    "longitude": 76.7047904,
+    "place_id": "ChIJhwCM4VI7BTkR69OGXgAD6ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwCM4VI7BTkR69OGXgAD6ZI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:44:43"
+  }
+]

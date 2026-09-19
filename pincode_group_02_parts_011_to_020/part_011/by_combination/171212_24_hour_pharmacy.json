@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MADHU MEDICOS SULTANPUR",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Pharmacy",
+    "pincode": "171212",
+    "phone_number": "+91 78330 10007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "main gate, mmu hospital, Laddo, Kumarhatti, Sultanpur, Himachal Pradesh 173229",
+    "area": "Laddo",
+    "latitude": 30.870506799999998,
+    "longitude": 77.0843565,
+    "place_id": "ChIJ7yCMe4yFDzkR7zJB4xZ2LwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yCMe4yFDzkR7zJB4xZ2LwI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:45:59"
+  },
+  {
+    "business_name": "24X7 Pharmex",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center",
+    "pincode": "171212",
+    "phone_number": "+91 93253 62539",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "CD signature Margao, 403602 403601, Borda, Margao, Goa 403601",
+    "area": "Borda",
+    "latitude": 15.2863963,
+    "longitude": 73.980223,
+    "place_id": "ChIJ1drt5IizvzsR0DSW0jqswjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1drt5IizvzsR0DSW0jqswjQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:46:00"
+  }
+]

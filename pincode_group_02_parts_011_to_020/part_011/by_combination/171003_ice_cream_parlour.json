@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JMH Provisional Store (Fouji Shop)",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "171003",
+    "phone_number": "+91 94590 27225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4644+MWV, Dhalli, Bhawana, Himachal Pradesh 171012",
+    "area": "Dhalli",
+    "latitude": 31.1067361,
+    "longitude": 77.2073087,
+    "place_id": "ChIJz4uZIwCDBTkR00AjLFXjUBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4uZIwCDBTkR00AjLFXjUBo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:48"
+  },
+  {
+    "business_name": "The Belgian Waffle Co",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cafe, Cake shop, Family restaurant, Dessert restaurant",
+    "pincode": "171003",
+    "phone_number": "+91 86997 48897",
+    "website": "https://thebelgianwaffle.co/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Highway Shopping Arcade, Market, opp. PC Jewllers, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Housing Board Colony, Sanjauli",
+    "latitude": 31.102688099999998,
+    "longitude": 77.1978476,
+    "place_id": "ChIJHUFZUiuDBTkRFtFOmb2NjyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUFZUiuDBTkRFtFOmb2NjyA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:55:48"
+  }
+]

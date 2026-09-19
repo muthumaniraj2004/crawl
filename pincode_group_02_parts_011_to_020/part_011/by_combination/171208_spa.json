@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Lavana Spa & Wellness",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "171208",
+    "phone_number": "+91 91402 36798",
+    "website": "http://thelavanaspa.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Rama Book Depot Chauraha, opposite Ambrosia Hotel, Prem Ganj, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "area": "Prem Ganj, Sipri Bazar",
+    "latitude": 25.4559468,
+    "longitude": 78.5502616,
+    "place_id": "ChIJyfEyrwpxdzkR-kjeyrCpczI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfEyrwpxdzkR-kjeyrCpczI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:39:27"
+  },
+  {
+    "business_name": "Golden Door Spa And Salon",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Day spa, Foot care, Foot massage parlor, Massage therapist, Spa and health club, Thai massage therapist",
+    "pincode": "171208",
+    "phone_number": "+91 95111 12905",
+    "website": "https://goldendoorspa.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "125/A 2nd Floor Upper Laziz Pizza Beside Blue Bells School Station Road, Jail Chauraha, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.4436984,
+    "longitude": 78.5709868,
+    "place_id": "ChIJV0zpVRV3dzkRqJLRqmT7ETk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0zpVRV3dzkRqJLRqmT7ETk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:39:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Pine Hill Cottage",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "171206",
+    "phone_number": "+91 94180 95355",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "Manali - Shanag, Nehru Kund Street, Tharoch, Himachal Pradesh 171210",
+    "area": "171206",
+    "latitude": 30.9504983,
+    "longitude": 77.6465478,
+    "place_id": "ChIJ2cBfYK5eDzkRNqLk_fX80cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cBfYK5eDzkRNqLk_fX80cI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:36:10"
+  },
+  {
+    "business_name": "Thira Chanshal",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "171206",
+    "phone_number": "+91 98055 58000",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Dodra-Kwar Rd, Larot, Himachal Pradesh 171208",
+    "area": "171206",
+    "latitude": 31.235894199999997,
+    "longitude": 77.94676419999999,
+    "place_id": "ChIJacJDzeAHBjkRLKxNRiuFavc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacJDzeAHBjkRLKxNRiuFavc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:36:10"
+  }
+]

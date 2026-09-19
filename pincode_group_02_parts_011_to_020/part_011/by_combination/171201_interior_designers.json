@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Graphite Graphics Architects",
+    "search_category": "Interior Designers",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "171201",
+    "phone_number": "+91 98825 35320",
+    "website": "https://graphitegraphics.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground floor, Oracle square, saraswati nagar road, near churan, pul Tehsil, Dharamshala, Himachal Pradesh 176215",
+    "area": "pul Tehsil",
+    "latitude": 32.206092399999996,
+    "longitude": 76.3291253,
+    "place_id": "ChIJrXB_UJRRGzkRLnCXyTZ-0I0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXB_UJRRGzkRLnCXyTZ-0I0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:27:15"
+  },
+  {
+    "business_name": "OYO 29592 Hotel Hidimba",
+    "search_category": "Interior Designers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "171201",
+    "phone_number": "+91 124 620 1184",
+    "website": "https://www.oyorooms.com/50601/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shalli Bazar, Naya Bazar, Narkanda, Theog, Himachal Pradesh 171201",
+    "area": "Shalli Bazar, Naya Bazar",
+    "latitude": 31.124374,
+    "longitude": 77.354923,
+    "place_id": "ChIJYQFXDnaFBTkRURmLEwgnGaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQFXDnaFBTkRURmLEwgnGaU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:27:15"
+  }
+]

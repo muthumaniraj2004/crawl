@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gautam Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Catering equipment rental service",
+    "all_categories": "Catering equipment rental service",
+    "pincode": "171018",
+    "phone_number": "+91 70182 92671",
+    "website": "https://www.facebook.com/shyamuboti",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GVRQ+VJJ, Kalohad, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "171018",
+    "latitude": 31.5416006,
+    "longitude": 76.8877511,
+    "place_id": "ChIJT9ZtHToZBTkRBRiESwe8qoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9ZtHToZBTkRBRiESwe8qoA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:20:28"
+  },
+  {
+    "business_name": "Shri Bankey Bihari Exclusive Catering Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "171018",
+    "phone_number": "+91 99536 79531",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "North Ex Mall, B-125, Sec 9, Rohini, Delhi, 110085",
+    "area": "Rajapur, Pocket 18, Sector 9, Rohini",
+    "latitude": 28.7144445,
+    "longitude": 77.12959029999999,
+    "place_id": "ChIJVVVVVUUBDTkRAPRPPnZP0e4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVUUBDTkRAPRPPnZP0e4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:20:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GPM fitness GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "171006",
+    "phone_number": "+91 82190 32525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GPM FITNESS GYM Shobha niwas, near the Orchid hotel, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Housing Board Colony, Sanjauli",
+    "latitude": 31.0992602,
+    "longitude": 77.2011799,
+    "place_id": "ChIJMVOxN8h5BTkRcP0nnzURoZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVOxN8h5BTkRcP0nnzURoZI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:49"
+  },
+  {
+    "business_name": "Calvin fitness Gym (Chakryal Bhattakuffer)",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "171006",
+    "phone_number": "+91 82194 87778",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bhattakufer, Shimla, Himachal Pradesh 171006",
+    "area": "Bhattakufer",
+    "latitude": 31.0956318,
+    "longitude": 77.2110055,
+    "place_id": "ChIJQdw5PgCDBTkRbdDiPK5Zboc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdw5PgCDBTkRbdDiPK5Zboc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:49"
+  }
+]

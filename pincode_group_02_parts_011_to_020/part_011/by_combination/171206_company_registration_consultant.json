@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MakeEasyFilings",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Auditor, Business management consultant, Chartered accountant, Consultant, Legal services",
+    "pincode": "171206",
+    "phone_number": "+91 89251 52220",
+    "website": "https://makeeasyfilings.in/",
+    "rating": 4.9,
+    "reviews_count": 114,
+    "address": "MakeEasyFilings, Shop No. F203 1st Floor, Spencer Plaza Mall, PHASE-3, Chennai, Tamil Nadu 600002",
+    "area": "PHASE-3",
+    "latitude": 13.0613,
+    "longitude": 80.2611,
+    "place_id": "ChIJ-ZhHMiddUjoREDM9vCgLPpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZhHMiddUjoREDM9vCgLPpc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:36:30"
+  },
+  {
+    "business_name": "CA ON WEB PVT LTD",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Chartered accountant, Legal services",
+    "pincode": "171206",
+    "phone_number": "+91 70658 18801",
+    "website": "https://www.caonweb.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2nd Floor, B-26, B Block, Sector 8, Noida, Uttar Pradesh 201301",
+    "area": "B Block, Sector 8",
+    "latitude": 28.594871899999998,
+    "longitude": 77.3302198,
+    "place_id": "ChIJNfJ0CKr8DDkRQP-peBLUpLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfJ0CKr8DDkRQP-peBLUpLU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:36:30"
+  }
+]

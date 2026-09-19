@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandel and Associates",
+    "search_category": "Architects",
+    "primary_category": "Structural engineer",
+    "all_categories": "Structural engineer, Building designer, Consultant, Land surveyor",
+    "pincode": "171006",
+    "phone_number": "+91 70180 19208",
+    "website": "http://chandelassociates.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Jiwanoo, Colony Road, Panthaghati, Shimla, Himachal Pradesh 171009",
+    "area": "Panthaghati",
+    "latitude": 31.0715856,
+    "longitude": 77.1849592,
+    "place_id": "ChIJIZt_rr5_BTkRqSQ0K7hyqm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZt_rr5_BTkRqSQ0K7hyqm8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:06"
+  },
+  {
+    "business_name": "Aakriti Associates",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Engineer, Interior designer",
+    "pincode": "171006",
+    "phone_number": "+91 98161 25886",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4622+WM9, Sanjauli Cemetery Rd, Cemetery, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Cemetery, Sanjauli",
+    "latitude": 31.102294699999998,
+    "longitude": 77.2017355,
+    "place_id": "ChIJhbdiP3OCBTkRty1HkMsEXNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbdiP3OCBTkRty1HkMsEXNY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:07"
+  }
+]

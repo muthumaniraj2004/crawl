@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Boot House",
+    "search_category": "Boutiques",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "171216",
+    "phone_number": "+91 94181 17685",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarswati Nagar, Sawra, Himachal Pradesh 171206",
+    "area": "Sarswati Nagar",
+    "latitude": 31.1228408,
+    "longitude": 77.7520242,
+    "place_id": "ChIJSdzrZaP5BTkR-X6rhCqfNbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdzrZaP5BTkR-X6rhCqfNbk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:53:07"
+  },
+  {
+    "business_name": "BANDS Orchard",
+    "search_category": "Boutiques",
+    "primary_category": "Orchard",
+    "all_categories": "Orchard, Packaging company, Packaging supply store",
+    "pincode": "171216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ramnagri, Himachal Pradesh 171216",
+    "area": "171216",
+    "latitude": 31.1307868,
+    "longitude": 77.776214,
+    "place_id": "ChIJ46_5bAD5BTkRXhNed4x5eYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46_5bAD5BTkRXhNed4x5eYw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:53:09"
+  }
+]

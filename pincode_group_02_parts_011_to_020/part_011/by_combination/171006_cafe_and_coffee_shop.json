@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delicacy point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "171006",
+    "phone_number": "+91 98825 39621",
+    "website": "https://www.zomato.com/shimla/delicacy-point-sanjauli",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "point fast food, Kashyap niwas, Lal bahadur delicacy, Bhattakufer, Shimla, Himachal Pradesh 171006",
+    "area": "Bhattakufer",
+    "latitude": 31.0934393,
+    "longitude": 77.2066561,
+    "place_id": "ChIJuyyvCsuDBTkRJP1vgKAgfs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyyvCsuDBTkRJP1vgKAgfs8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:26"
+  },
+  {
+    "business_name": "Big bug café",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "171006",
+    "phone_number": "+91 97521 18680",
+    "website": "https://www.instagram.com/bigbugcafe?igsh=YnNucXBhaTMwNXI4",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Guddu mal building, Sanjauli Chowk, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Sanjauli",
+    "latitude": 31.1035497,
+    "longitude": 77.1933166,
+    "place_id": "ChIJk8cbaDZ5BTkRGW0rM3LCvSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8cbaDZ5BTkRGW0rM3LCvSI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:28"
+  }
+]

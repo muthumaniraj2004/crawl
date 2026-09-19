@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Khand Medical centre Sangla",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "171208",
+    "phone_number": "+91 98165 85670",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shrikhand medical center V.p.o, colony, tehsil, Sangla, Himachal Pradesh 172106",
+    "area": "colony, tehsil",
+    "latitude": 31.4272617,
+    "longitude": 78.2635394,
+    "place_id": "ChIJIypqahYVBjkReWP52GEjMwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIypqahYVBjkReWP52GEjMwQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:38:58"
+  },
+  {
+    "business_name": "Medcure Pharma",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Corporate office",
+    "pincode": "171208",
+    "phone_number": "+91 92186 30050",
+    "website": "https://medcurepharma.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "SCO 5-6, NEAR HOTEL CITY LOOK SAI ROAD, DISTT, Baddi, Himachal Pradesh 173205",
+    "area": "171208",
+    "latitude": 30.9503164,
+    "longitude": 76.8108135,
+    "place_id": "ChIJ-etwy2f1DzkRUxqAF_iObNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-etwy2f1DzkRUxqAF_iObNk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:38:59"
+  }
+]

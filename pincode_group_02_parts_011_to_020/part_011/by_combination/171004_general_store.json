@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171004",
+    "phone_number": "+91 82197 55073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nunnal,-103, Shimla-4, Shimla, Himachal Pradesh 171004",
+    "area": "Chaura Maidan",
+    "latitude": 31.1025784,
+    "longitude": 77.1526477,
+    "place_id": "ChIJSzzEd-F4BTkRAAAAMIBLAwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzzEd-F4BTkRAAAAMIBLAwM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:57:38"
+  },
+  {
+    "business_name": "Jassal General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171004",
+    "phone_number": "+91 98570 99465",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "11, Near Police Station, Boileauganj, Shimla, Himachal Pradesh 171004",
+    "area": "Boileauganj",
+    "latitude": 31.09977,
+    "longitude": 77.1402959,
+    "place_id": "ChIJG_G5cBl5BTkRxANmzaHrWcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_G5cBl5BTkRxANmzaHrWcQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:57:38"
+  }
+]

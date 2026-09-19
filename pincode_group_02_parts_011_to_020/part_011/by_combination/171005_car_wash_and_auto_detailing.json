@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Velocity car wash & detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "171005",
+    "phone_number": "+91 77809 42902",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nh44 zodar stop mirbazar, Jammu and Kashmir 192221",
+    "area": "171005",
+    "latitude": 33.7037885,
+    "longitude": 75.1094688,
+    "place_id": "ChIJ501y_rIF4jgRmN6EBYonH3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ501y_rIF4jgRmN6EBYonH3g",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:04"
+  },
+  {
+    "business_name": "Negi Automobile",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "171005",
+    "phone_number": "+91 94183 12006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Negi Automobile, near The Horizon Hotel M.C. Parking, Crossing, Shimla, Himachal Pradesh 171005",
+    "area": "Crossing",
+    "latitude": 31.122655499999997,
+    "longitude": 77.13178529999999,
+    "place_id": "ChIJX1HB_D15BTkR8PFFeGPxfe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1HB_D15BTkR8PFFeGPxfe4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:00:05"
+  }
+]

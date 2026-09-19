@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep Chakrata Taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "171210",
+    "phone_number": "N/A",
+    "website": "https://chakratataxiservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "texi service, Chakrata, Uttarakhand 248123",
+    "area": "171210",
+    "latitude": 30.7016162,
+    "longitude": 77.8695772,
+    "place_id": "ChIJg6UZNjlLDzkRzN1k9Pj1QhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6UZNjlLDzkRzN1k9Pj1QhU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:42:38"
+  },
+  {
+    "business_name": "Rajesh tour and travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "171210",
+    "phone_number": "+91 75004 67230",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "Lal Kurti, Chakrata, Uttarakhand 248123",
+    "area": "171210",
+    "latitude": 30.700752599999998,
+    "longitude": 77.86227579999999,
+    "place_id": "ChIJS-3lDlxLDzkR4ycYBbXwb2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-3lDlxLDzkR4ycYBbXwb2c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:42:41"
+  }
+]

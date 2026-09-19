@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Enterprises Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "171015",
+    "phone_number": "+91 98728 74082",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhi Colony, Barnala, Punjab 148101",
+    "area": "Lakhi Colony",
+    "latitude": 30.3595525,
+    "longitude": 75.5363069,
+    "place_id": "ChIJ8Z8ih_jxEDkRfjexhKYYEMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Z8ih_jxEDkRfjexhKYYEMw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:18:19"
+  },
+  {
+    "business_name": "Andhra Gujarat Cargo Movers",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "171015",
+    "phone_number": "+91 73861 03044",
+    "website": "https://agcm.in/",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "FC8W+7H2, Cooperative Industrial Estate, Balanagar, Hyderabad, Telangana 500037",
+    "area": "Cooperative Industrial Estate, Balanagar",
+    "latitude": 17.465638,
+    "longitude": 78.446378,
+    "place_id": "ChIJEzsYWvGQyzsRRl5lIS527nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzsYWvGQyzsRRl5lIS527nE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:18:20"
+  }
+]

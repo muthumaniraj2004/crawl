@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Companify",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business to business service, Certified public accountant, Tax preparation service",
+    "pincode": "171006",
+    "phone_number": "+91 78272 98043",
+    "website": "https://www.companify.in/",
+    "rating": 4.9,
+    "reviews_count": 234,
+    "address": "2nd Floor, Sood Plaza, RZG-5, Main Palam Dabri Rd, above IndusInd Bank, Mahavir Enclave I, Mahavir Enclave Part 1, Mahavir Enclave, Dwarka, Delhi, 110045",
+    "area": "Mahavir Enclave I, Mahavir Enclave Part 1, Mahavir Enclave",
+    "latitude": 28.5997466,
+    "longitude": 77.0817431,
+    "place_id": "ChIJrbqKNWIbDTkRHZ0HvBdLuNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbqKNWIbDTkRHZ0HvBdLuNM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:40"
+  },
+  {
+    "business_name": "JustStart Technologies",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Consultant, Law firm",
+    "pincode": "171006",
+    "phone_number": "+91 93155 13354",
+    "website": "https://juststart.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "407 4th Floor, RG Trade Tower, Netaji Subhash Place, Shakurpur, New Delhi, Delhi, 110034",
+    "area": "Netaji Subhash Place, Shakurpur",
+    "latitude": 28.691526,
+    "longitude": 77.1513475,
+    "place_id": "ChIJjzsYDgkDDTkRb1qgdAkaXHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzsYDgkDDTkRb1qgdAkaXHg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:02:41"
+  }
+]

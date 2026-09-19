@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haryana Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Non Vegetarian Restaurant",
+    "pincode": "171208",
+    "phone_number": "+91 94165 63362",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 230,
+    "address": "Near Karan Gate Subzi Mandi, Karnal, Haryana 132001",
+    "area": "Dyal Singh Colony",
+    "latitude": 29.685694599999998,
+    "longitude": 76.9927403,
+    "place_id": "ChIJo8yKSRdwDjkR91cRS138u2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8yKSRdwDjkR91cRS138u2M",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:38:39"
+  },
+  {
+    "business_name": "Shimla Beef Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "171208",
+    "phone_number": "+91 90007 49543",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Dabeerpura South, Dabeerpura, Hyderabad, Telangana 500023",
+    "area": "Dabeerpura South, Dabeerpura",
+    "latitude": 17.3674102,
+    "longitude": 78.4868867,
+    "place_id": "ChIJf2tw0TqYyzsR3i1gfgKraJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2tw0TqYyzsR3i1gfgKraJY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:38:39"
+  }
+]

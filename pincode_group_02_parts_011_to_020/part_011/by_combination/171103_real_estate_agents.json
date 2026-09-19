@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandarmani Property Seller",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "171103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "GWJ2+XRP, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "171103",
+    "latitude": 31.532465499999997,
+    "longitude": 76.9020714,
+    "place_id": "ChIJp291E5oZBTkRWuNUNmlUjY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp291E5oZBTkRWuNUNmlUjY0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:26:08"
+  },
+  {
+    "business_name": "Property Dealers Palampur",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "171103",
+    "phone_number": "+91 98164 22227",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Varindra Stores, near Carnation, Tikka, Aima, Palampur, Himachal Pradesh 176061",
+    "area": "Tikka, Aima",
+    "latitude": 32.1165781,
+    "longitude": 76.5347218,
+    "place_id": "ChIJnWhgN9WzBDkRP1zBGLtqKyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWhgN9WzBDkRP1zBGLtqKyU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:26:08"
+  }
+]

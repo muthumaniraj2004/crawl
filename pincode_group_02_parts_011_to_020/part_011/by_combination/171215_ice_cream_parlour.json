@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "171215",
+    "phone_number": "+91 82080 71494",
+    "website": "https://houseoficecream.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "vita road, Kadegaon, Maharashtra 415304",
+    "area": "171215",
+    "latitude": 17.296473799999998,
+    "longitude": 74.33783869999999,
+    "place_id": "ChIJSW2cUm57wTsRFn58XhIcd6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSW2cUm57wTsRFn58XhIcd6s",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:51:09"
+  },
+  {
+    "business_name": "Rajnandinee Ice-cream Parlour(Amul Ice-Cream)& ColdDrinks",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "171215",
+    "phone_number": "+91 98607 02033",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "Gala No. 4, Vikas Society, Zenda Chowk, Vangi, Maharashtra 415305",
+    "area": "171215",
+    "latitude": 17.232523699999998,
+    "longitude": 74.3980315,
+    "place_id": "ChIJDRp3AX1xwTsRCFC0vrOLQxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRp3AX1xwTsRCFC0vrOLQxA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:51:09"
+  }
+]

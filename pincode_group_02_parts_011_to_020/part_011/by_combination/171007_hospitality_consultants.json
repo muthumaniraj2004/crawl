@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ludyal consulting services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "171007",
+    "phone_number": "+91 98050 73586",
+    "website": "http://www.ludyalconsulting.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "ward no. 6, Shop no. 12, first floor, Hamirpur Rd, near shishe wali gali, Hamirpur, Himachal Pradesh 177001",
+    "area": "Chakmoh, Kohta",
+    "latitude": 31.687859,
+    "longitude": 76.5204864,
+    "place_id": "ChIJh86XUZrVBDkRGvzonQL4aVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh86XUZrVBDkRGvzonQL4aVI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:04:15"
+  },
+  {
+    "business_name": "HOTEL CARDINAL ROYALE RETREAT",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "171007",
+    "phone_number": "+91 177 280 0042",
+    "website": "http://www.cardinalhotels.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "5, Victory Tunnel, Bawa Market, Shilli, Dingle, Shimla, Himachal Pradesh 171001",
+    "area": "Bawa Market, Shilli",
+    "latitude": 31.1063095,
+    "longitude": 77.1653037,
+    "place_id": "ChIJ5bDBng95BTkRQMWMk79M_FA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bDBng95BTkRQMWMk79M_FA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:04:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalayan Harvest Hub",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "171203",
+    "phone_number": "N/A",
+    "website": "https://www.himalayanharvesthub.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "VPO Sarahan, Teh Rampur, Rampur Bushahr, Himachal Pradesh 172102",
+    "area": "171203",
+    "latitude": 31.5167835,
+    "longitude": 77.7938376,
+    "place_id": "ChIJQRYahrPbBTkRKKG6-PebbTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRYahrPbBTkRKKG6-PebbTI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:29:55"
+  },
+  {
+    "business_name": "Organic Rasta",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "171203",
+    "phone_number": "+91 75038 72092",
+    "website": "https://www.organicrasta.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Castle, Organic Rasta Pvt. Ltd, Village, 3333, Pulag Rd, Naggar, Himachal Pradesh 175130",
+    "area": "171203",
+    "latitude": 32.107886199999996,
+    "longitude": 77.1969434,
+    "place_id": "ChIJe-y4jt1hBDkRnHc3rrkBWoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-y4jt1hBDkRnHc3rrkBWoc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:29:55"
+  }
+]

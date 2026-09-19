@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Garg Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "171018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 40,
+    "address": "Dr Garg clinic pathiar Chamunda davi road, Pathiar, Sarialkar, Himachal Pradesh 176047",
+    "area": "Pathiar",
+    "latitude": 32.1335523,
+    "longitude": 76.4146506,
+    "place_id": "ChIJ44K8aAlNGzkRC-XG07_irtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44K8aAlNGzkRC-XG07_irtw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:19:55"
+  },
+  {
+    "business_name": "Sharma health clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "171018",
+    "phone_number": "+91 94184 16132",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Q8HR+6VQ, Hospital Rd, Nadaun, Himachal Pradesh 177033",
+    "area": "171018",
+    "latitude": 31.7780913,
+    "longitude": 76.34222969999999,
+    "place_id": "ChIJ2201vBUuGzkRBJfYXOqC4D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2201vBUuGzkRBJfYXOqC4D0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:19:57"
+  }
+]

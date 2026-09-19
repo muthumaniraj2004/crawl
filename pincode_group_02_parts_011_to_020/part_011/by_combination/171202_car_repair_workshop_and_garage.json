@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "himalayan garag",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Mechanic",
+    "pincode": "171202",
+    "phone_number": "+91 70180 19703",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Pritam Singh Building, NH 705, near Dochi Bridge, Jubbal, Himachal Pradesh 171205",
+    "area": "171202",
+    "latitude": 31.117172999999998,
+    "longitude": 77.70317639999999,
+    "place_id": "ChIJ-y0OWWX3BTkR2NliYdMwxDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-y0OWWX3BTkR2NliYdMwxDE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:28:44"
+  },
+  {
+    "business_name": "Sharma Automobiles",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Machine workshop",
+    "all_categories": "Machine workshop",
+    "pincode": "171202",
+    "phone_number": "+91 78072 73250",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "Nehnar, Near ITI, Jubbal, Himachal Pradesh 171205",
+    "area": "171202",
+    "latitude": 31.1077998,
+    "longitude": 77.67289679999999,
+    "place_id": "ChIJDU0Ipwb3BTkRV7JR1K8vjt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDU0Ipwb3BTkRV7JR1K8vjt4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:28:44"
+  }
+]

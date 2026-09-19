@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahavir medical store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "171011",
+    "phone_number": "+91 94599 36314",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "near sbi bank, Syri, Himachal Pradesh 173207",
+    "area": "171011",
+    "latitude": 31.079137499999998,
+    "longitude": 77.0507344,
+    "place_id": "ChIJJa-KLAB7BTkRVo7PDFxSzOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJa-KLAB7BTkRVo7PDFxSzOM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:42"
+  },
+  {
+    "business_name": "VERMA MEDICAL STORE",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "171011",
+    "phone_number": "+91 78078 37525",
+    "website": "https://www.facebook.com/share/1KYqtgsoBa/?mibextid=LQQJ4d",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "opposite to new bus stand, Janog Ghat, Theog, Himachal Pradesh 171201",
+    "area": "Janog Ghat",
+    "latitude": 31.1185521,
+    "longitude": 77.3602456,
+    "place_id": "ChIJYye4JpuFBTkRsmH3mOpjBK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYye4JpuFBTkRsmH3mOpjBK0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doon House Cleaning Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "171203",
+    "phone_number": "N/A",
+    "website": "https://doonhousecleaningservice.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Doon House Cleaning Service, 171203, India",
+    "area": "171203",
+    "latitude": 30.3254284,
+    "longitude": 78.01713459999999,
+    "place_id": "ChIJp8mAMQDXCDkRDclhSgukulE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8mAMQDXCDkRDclhSgukulE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:31:22"
+  },
+  {
+    "business_name": "VK MASTER CLEANERS",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "171203",
+    "phone_number": "+91 98822 46400",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lanka Bekar, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Lanka Bekar, Dhalpur",
+    "latitude": 31.9526376,
+    "longitude": 77.1111334,
+    "place_id": "ChIJ7Yx2W973BDkROhKmeDCaPqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Yx2W973BDkROhKmeDCaPqw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:31:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma Electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "171103",
+    "phone_number": "+91 98170 35403",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Dhami, Himachal Pradesh 171103",
+    "area": "171103",
+    "latitude": 31.182079299999998,
+    "longitude": 77.0319938,
+    "place_id": "ChIJ4b2rjDhwBTkRUBLUfa__LQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4b2rjDhwBTkRUBLUfa__LQE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:25:28"
+  },
+  {
+    "business_name": "H K Electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Electronics store",
+    "pincode": "171103",
+    "phone_number": "+91 98571 65886",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Arki Atki, Arki, Himachal Pradesh 173208",
+    "area": "171103",
+    "latitude": 31.1536117,
+    "longitude": 76.9678749,
+    "place_id": "ChIJ2-zglztvBTkRJICg7ZltsQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-zglztvBTkRJICg7ZltsQ4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:25:30"
+  }
+]

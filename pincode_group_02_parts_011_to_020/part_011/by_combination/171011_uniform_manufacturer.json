@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Industries",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Sporting goods store, Sports Accessories Wholesaler, Sportswear store, Sportwear manufacturer",
+    "pincode": "171011",
+    "phone_number": "+91 98160 34570",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot 11A, Industrial Area Shoghi, Shoghi, Himachal Pradesh 171219",
+    "area": "Industrial Area Shoghi",
+    "latitude": 31.0364091,
+    "longitude": 77.1089281,
+    "place_id": "ChIJY3ajLMN_BTkRdp47PHT1unU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3ajLMN_BTkRdp47PHT1unU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:39"
+  },
+  {
+    "business_name": "Sakshi Enterprises",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Cell phone store, Clothing wholesaler, General store",
+    "pincode": "171011",
+    "phone_number": "+91 88945 75722",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4439+2QP, New Market, Totu, Shimla, Himachal Pradesh 171008",
+    "area": "New Market, Totu",
+    "latitude": 31.102587,
+    "longitude": 77.119438,
+    "place_id": "ChIJhcq8dG55BTkRCoCMkVCpFEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcq8dG55BTkRCoCMkVCpFEo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:41"
+  }
+]

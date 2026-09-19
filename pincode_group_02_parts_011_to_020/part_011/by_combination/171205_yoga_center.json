@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAIN ULTIMATE GYM (Neeraj Gym center)",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "171205",
+    "phone_number": "+91 79860 85411",
+    "website": "https://sain-ultimate-gym.vercel.app/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Third floor, IS Rawat building, opposite dawat restaurant, Sarswati Nagar, Sawra, Himachal Pradesh 171206",
+    "area": "Sarswati Nagar",
+    "latitude": 31.122626,
+    "longitude": 77.7518702,
+    "place_id": "ChIJG3yknhL5BTkRFAvMEGiXAos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3yknhL5BTkRFAvMEGiXAos",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:33:54"
+  },
+  {
+    "business_name": "Shanti Narayan Kutir Aol Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "171205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "address": "Seri, Summer Hill, Shimla, Himachal Pradesh 171014",
+    "area": "Summer Hill",
+    "latitude": 31.1371559,
+    "longitude": 77.1404349,
+    "place_id": "ChIJZUUy0uN5BTkRZ2gbfNhbBGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUUy0uN5BTkRZ2gbfNhbBGY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:33:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaul General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171204",
+    "phone_number": "+91 94598 22799",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Shop No7, Bharara Chowk, Shelag, Himachal Pradesh 172029",
+    "area": "171204",
+    "latitude": 31.311076999999997,
+    "longitude": 77.4529455,
+    "place_id": "ChIJryTNnoeXBTkRl-2V_AWvAHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryTNnoeXBTkRl-2V_AWvAHw",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:31:46"
+  },
+  {
+    "business_name": "Jagdish General Store",
+    "search_category": "General Store",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "171204",
+    "phone_number": "+91 88944 40356",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jagdish general Store, Khola, Himachal Pradesh 171204",
+    "area": "171204",
+    "latitude": 31.158969799999998,
+    "longitude": 77.5102079,
+    "place_id": "ChIJG9rCb9GNBTkRT6b1l6CKwGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9rCb9GNBTkRT6b1l6CKwGc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:31:47"
+  }
+]

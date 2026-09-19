@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saanvi Enterprises",
+    "search_category": "Banquet Hall",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Manufacturer",
+    "pincode": "171205",
+    "phone_number": "+91 82849 09000",
+    "website": "http://www.saanvibanquetchairs.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B 29, near maankanda street, Industrial Area C, Dhandari Kalan, Ludhiana, Punjab 141122",
+    "area": "Industrial Area C, Dhandari Kalan",
+    "latitude": 30.848052199999998,
+    "longitude": 75.90817679999999,
+    "place_id": "ChIJmfLQhMqCGjkRWSvmxig22cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfLQhMqCGjkRWSvmxig22cA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:34:23"
+  },
+  {
+    "business_name": "Hotel Bhagwati, Bar & Restaurant",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Hotel, Bar, Breakfast restaurant, Family restaurant, Restaurant",
+    "pincode": "171205",
+    "phone_number": "+91 62302 33117",
+    "website": "https://www.facebook.com/HotelBhagwatiRampur/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Main Bazaar, behind Children Park, Rajpur, Ward 6, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "Rajpur, Ward 6",
+    "latitude": 31.4507002,
+    "longitude": 77.6297852,
+    "place_id": "ChIJIyPWJxPBBTkRxTG6jPp-Jn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyPWJxPBBTkRxTG6jPp-Jn8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:34:24"
+  }
+]

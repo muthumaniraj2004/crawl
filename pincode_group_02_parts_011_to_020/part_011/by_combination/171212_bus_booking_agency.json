@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Northland Destinations",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "171212",
+    "phone_number": "+91 70183 62471",
+    "website": "http://www.northlanddestinations.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Narkanda, Himachal Pradesh 171213",
+    "area": "171212",
+    "latitude": 31.254554499999998,
+    "longitude": 77.455806,
+    "place_id": "ChIJXx8lZ62RBTkRqs4T9zzUG9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXx8lZ62RBTkRqs4T9zzUG9I",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:46:13"
+  },
+  {
+    "business_name": "Himachal tour and travler",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "171212",
+    "phone_number": "N/A",
+    "website": "http://deepaktourandtravlerbloger.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dharampur Madhan Palace, Theog, Himachal Pradesh 171201",
+    "area": "171212",
+    "latitude": 31.1767152,
+    "longitude": 77.3236656,
+    "place_id": "ChIJLwzXhOiFBTkR8QdFqkrqbs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwzXhOiFBTkR8QdFqkrqbs8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:46:13"
+  }
+]

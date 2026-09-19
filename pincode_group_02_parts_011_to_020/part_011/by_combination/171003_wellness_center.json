@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishram Spa By Siddha Wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Spa and health club",
+    "pincode": "171003",
+    "phone_number": "+91 86175 62504",
+    "website": "https://www.siddhawellness.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3rd floor, Larisa Resort, NH 5, near Joshi Bhawan, Kachi Ghatti, Shimla, Himachal Pradesh 171004",
+    "area": "Kachi Ghatti",
+    "latitude": 31.092093799999997,
+    "longitude": 77.1380073,
+    "place_id": "ChIJsRJ-fQB5BTkRlICknr2dhIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRJ-fQB5BTkRlICknr2dhIQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:56:39"
+  },
+  {
+    "business_name": "Aster Spa By Siddha Wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Health spa",
+    "pincode": "171003",
+    "phone_number": "+91 97339 95543",
+    "website": "http://www.siddhawellness.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5th Floor, Welcome heritage, Elysium Resort and Spa, near Geeta Mandir, Tutikandi, Shimla, Himachal Pradesh 171004",
+    "area": "Tutikandi",
+    "latitude": 31.094751,
+    "longitude": 77.152937,
+    "place_id": "ChIJJQ8rBcN5BTkRAPumvR4nZho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQ8rBcN5BTkRAPumvR4nZho",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:56:39"
+  }
+]

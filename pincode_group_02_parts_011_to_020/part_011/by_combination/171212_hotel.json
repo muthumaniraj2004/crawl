@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mount Paradise Inn Homestay",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "171212",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/mount-paradise-inn/home",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Village - Sunarghati, Po, Matiana, Shimla, Himachal Pradesh 171212",
+    "area": "Po",
+    "latitude": 31.1964123,
+    "longitude": 77.38949629999999,
+    "place_id": "ChIJeR6Pi-aRBTkR1ais7MxOEfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeR6Pi-aRBTkR1ais7MxOEfc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:46:38"
+  },
+  {
+    "business_name": "Hotel AAA Rooms and Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "171212",
+    "phone_number": "+91 70188 75814",
+    "website": "https://www.makemytrip.com/hotels/hotel_aaa_narkanda-details-narkanda.html",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Narkanda, Shillaru, Himachal Pradesh 171213",
+    "area": "171212",
+    "latitude": 31.209214,
+    "longitude": 77.4293028,
+    "place_id": "ChIJL9Hv8iORBTkR1-c_hgAyGII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9Hv8iORBTkR1-c_hgAyGII",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:46:42"
+  }
+]

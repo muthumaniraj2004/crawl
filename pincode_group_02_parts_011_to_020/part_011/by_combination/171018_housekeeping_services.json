@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maid in Hyderabad",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Home health care service, House cleaning service",
+    "pincode": "171018",
+    "phone_number": "+91 92564 29293",
+    "website": "https://maidservicesinindia.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sy No 64, Unit No 203, 2nd Floor Suite No.218, SBR CV Towers Sector-I, HUDA Techno Enclave, Madhapur, Hyderabad, Telangana 500081",
+    "area": "HUDA Techno Enclave, Madhapur",
+    "latitude": 17.444946599999998,
+    "longitude": 78.3856599,
+    "place_id": "ChIJ7fcWugaRyzsR5Goe8ber7GE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fcWugaRyzsR5Goe8ber7GE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:20:53"
+  },
+  {
+    "business_name": "Nature Home Stay",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "171018",
+    "phone_number": "+91 96251 43999",
+    "website": "http://www.naturehomemashobra.in/",
+    "rating": 5,
+    "reviews_count": 219,
+    "address": "Nature Home Stay Astha Home, beside Mashobra, Vill Jagoti, Mashobra, Himachal Pradesh 171007",
+    "area": "Vill Jagoti",
+    "latitude": 31.139564999999997,
+    "longitude": 77.22776999999999,
+    "place_id": "ChIJoXwJLqiDBTkR95A2qD-g4-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXwJLqiDBTkR95A2qD-g4-Y",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:20:54"
+  }
+]

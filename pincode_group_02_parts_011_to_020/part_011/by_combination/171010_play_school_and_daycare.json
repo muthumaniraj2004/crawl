@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Ville PreSchool",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "171010",
+    "phone_number": "N/A",
+    "website": "https://www.littleville.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no 22, Siddanthi Colony, Pargi, Telangana 501501",
+    "area": "Siddanthi Colony",
+    "latitude": 17.1649967,
+    "longitude": 77.8825949,
+    "place_id": "ChIJwZvwjDZjyTsReWGhbJwnTF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZvwjDZjyTsReWGhbJwnTF8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:09:43"
+  },
+  {
+    "business_name": "Bachpan Play School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool, Kindergarten School, Montessori school, Nursery school, Playgroup",
+    "pincode": "171010",
+    "phone_number": "+91 82197 98204",
+    "website": "https://palampur.bachpanglobal.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "behind Kali badi Mata mandir, near Gupta Flour mill, Ghuggar, Palampur, Himachal Pradesh 176061",
+    "area": "Ghuggar",
+    "latitude": 32.1149722,
+    "longitude": 76.5310109,
+    "place_id": "ChIJAQAAQMmzBDkRz2xoYH9A9EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQMmzBDkRz2xoYH9A9EI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:09:43"
+  }
+]

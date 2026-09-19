@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shandil's Inn Shimla",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "171009",
+    "phone_number": "+91 97361 06000",
+    "website": "https://shandilsresort.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shoghi, Shimla Bypass, near APG university, Shyar, Mehli, Shimla, Himachal Pradesh 171013",
+    "area": "Shyar, Mehli",
+    "latitude": 31.0655026,
+    "longitude": 77.1713936,
+    "place_id": "ChIJVc-7Kbl_BTkRpabd-BiyGxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVc-7Kbl_BTkRpabd-BiyGxo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:08:14"
+  },
+  {
+    "business_name": "Natures Goodwill Holidays",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "171009",
+    "phone_number": "+91 93175 96320",
+    "website": "https://naturesgoodwillholidays.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Naina Jeet Niwas, Shakti Vihar, Panthaghati, Shimla, Himachal Pradesh 171009",
+    "area": "Shakti Vihar, Panthaghati",
+    "latitude": 31.071125499999997,
+    "longitude": 77.17531199999999,
+    "place_id": "ChIJu1qFkjR_BTkRp-bpqPUbTfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1qFkjR_BTkRp-bpqPUbTfc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:08:14"
+  }
+]

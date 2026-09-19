@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Tyre",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service",
+    "pincode": "171205",
+    "phone_number": "+91 98152 18263",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 17,
+    "address": "SCO 210, Sector 48-C, Motor Market, Sector 48, Chandigarh, 160047",
+    "area": "Sector 48-C, Motor Market, Sector 48",
+    "latitude": 30.687405899999998,
+    "longitude": 76.7597002,
+    "place_id": "ChIJNSAdWGzsDzkR8tH3VDVkvig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSAdWGzsDzkR8tH3VDVkvig",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:34:01"
+  },
+  {
+    "business_name": "Verma Tyre House",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "171205",
+    "phone_number": "+91 92197 85252",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "VV6Q+RJP, Near Old Civil Court, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8620868,
+    "longitude": 77.8890866,
+    "place_id": "ChIJL5fUxHCzDjkRCEQ7PDjxjXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5fUxHCzDjkRCEQ7PDjxjXQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:34:01"
+  }
+]

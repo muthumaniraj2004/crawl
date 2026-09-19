@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TrueCare Surgicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Medical supply store, Surgical supply store",
+    "pincode": "171010",
+    "phone_number": "+91 70951 25777",
+    "website": "https://www.truecarehealth.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Door No 4-106, Topsy Bakery & Anu Furnitures, opp. Vivid Diagnostics Centre, adj. Road to Tipsy, Gangaram, Chanda Nagar, Hyderabad, Telangana 500050",
+    "area": "Gangaram, Chanda Nagar",
+    "latitude": 17.4942909,
+    "longitude": 78.32448149999999,
+    "place_id": "ChIJV4PQJ_eRyzsRdPQ2kQWPzo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4PQJ_eRyzsRdPQ2kQWPzo8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:09:06"
+  },
+  {
+    "business_name": "Medisys Enterprises",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Hospital, Hospital equipment and supplies, Surgical Products Wholesaler",
+    "pincode": "171010",
+    "phone_number": "+91 86869 40662",
+    "website": "http://www.medisysneeds.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Venkateshwara Temple, Sai Ratna Arcade, New Santoshnagar, Santosh Nagar, Hyderabad, Telangana 500059",
+    "area": "Sai Ratna Arcade, New Santoshnagar, Santosh Nagar",
+    "latitude": 17.3473055,
+    "longitude": 78.5050146,
+    "place_id": "ChIJ3zJdy9GZyzsRlHmof2xy_WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zJdy9GZyzsRlHmof2xy_WM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:09:06"
+  }
+]

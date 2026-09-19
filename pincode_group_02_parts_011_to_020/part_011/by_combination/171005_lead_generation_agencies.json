@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LeadsCampaign",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Data Entry Service Provider, Database Management Company, Corporate office",
+    "pincode": "171005",
+    "phone_number": "+91 93015 89433",
+    "website": "http://leadscampaign.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B-Wing, Shankar Shree Apartment, 201, Amravati Road, opposite Ankita Multiplex, Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "area": "Sanjay Nagar",
+    "latitude": 21.303142299999998,
+    "longitude": 76.2233342,
+    "place_id": "ChIJzU5plkGqsU4RYEMwsut5K0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU5plkGqsU4RYEMwsut5K0E",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:07"
+  },
+  {
+    "business_name": "Hello India Click | Best Digital Marketing company in Kolkata",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Advertising agency, E - Commerce Agency, Marketing agency, Marketing consultant, Website designer",
+    "pincode": "171005",
+    "phone_number": "+91 92307 54810",
+    "website": "https://www.helloindiaclick.com/",
+    "rating": 4.2,
+    "reviews_count": 212,
+    "address": "Dn-36, Salt lake, Collegemore 36, Street No. 13, DN Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "DN Block, Sector V, Bidhannagar",
+    "latitude": 22.5756913,
+    "longitude": 88.4326456,
+    "place_id": "ChIJyYZ9PPqV5aARGUT1aRXMcIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYZ9PPqV5aARGUT1aRXMcIA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DREAM MAKERS",
+    "search_category": "Boutiques",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Pen store",
+    "pincode": "171004",
+    "phone_number": "+91 82193 81229",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Janta store, below ISBT, near HOTEL THE GRAND WHITE, Tutikandi, Shimla, Himachal Pradesh 171004",
+    "area": "Tutikandi",
+    "latitude": 31.095088099999998,
+    "longitude": 77.152519,
+    "place_id": "ChIJrXQ8v_15BTkROiqk6RKdx2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXQ8v_15BTkROiqk6RKdx2w",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:57:57"
+  },
+  {
+    "business_name": "JD Fashion Studio",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "171004",
+    "phone_number": "+91 82190 38381",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sandal Estate, Lower Chakkar, Chakkar, Shimla, Himachal Pradesh 171005",
+    "area": "Sandal Estate, Lower Chakkar, Chakkar",
+    "latitude": 31.090246699999998,
+    "longitude": 77.1350868,
+    "place_id": "ChIJCVrZqGt5BTkRvaGdokTRI6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVrZqGt5BTkRvaGdokTRI6A",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:57:58"
+  }
+]

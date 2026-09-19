@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swami Vivekanand Institute",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "171201",
+    "phone_number": "+91 82194 38711",
+    "website": "https://www.svitheog.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shali tingar, Theog Byp Rd, Theog, Himachal Pradesh 171201",
+    "area": "171201",
+    "latitude": 31.122186499999998,
+    "longitude": 77.3519694,
+    "place_id": "ChIJ487WCtiFBTkRMfFEP3MThzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ487WCtiFBTkRMfFEP3MThzs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:27:38"
+  },
+  {
+    "business_name": "Chanakya academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "171201",
+    "phone_number": "+91 70182 93352",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "vikas cottage, near bdo office, prem ghat, Theog, shimla, Himachal Pradesh 171201",
+    "area": "prem ghat",
+    "latitude": 31.1185463,
+    "longitude": 77.3596295,
+    "place_id": "ChIJbXKxDN2FBTkREva9w9tco9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXKxDN2FBTkREva9w9tco9U",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:27:41"
+  }
+]

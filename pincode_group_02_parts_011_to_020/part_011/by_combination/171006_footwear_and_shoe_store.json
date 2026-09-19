@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Shoe Box",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "171006",
+    "phone_number": "+91 70180 44809",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "The shoe box, Lambidhar Dhalli, Shimla Bypass, near HP petrol pump, opposite Verma Trading Co, Sanjauli, Shimla, Himachal Pradesh 171012",
+    "area": "Sanjauli",
+    "latitude": 31.1088897,
+    "longitude": 77.2076472,
+    "place_id": "ChIJL87RKK-DBTkRkF7qGkD2pCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL87RKK-DBTkRkF7qGkD2pCg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:33"
+  },
+  {
+    "business_name": "Woodland",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Clothing store",
+    "pincode": "171006",
+    "phone_number": "+91 177 284 4040",
+    "website": "https://shop.woodlandworldwide.com/woodland-shoe-store-sanjauli-shimla-531864/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "Shop 2, Ground Floor, Chopra Complex, 2, Sanjauli Engine Ghar Rd, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Housing Board Colony, Sanjauli",
+    "latitude": 31.102487,
+    "longitude": 77.197895,
+    "place_id": "ChIJZykKd4ODBTkRzAP9iG3qGhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZykKd4ODBTkRzAP9iG3qGhY",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:01:35"
+  }
+]

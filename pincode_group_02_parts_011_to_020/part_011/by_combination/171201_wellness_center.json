@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Echoes of Nirvana",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Live music venue, Meditation center, Home Stay",
+    "pincode": "171201",
+    "phone_number": "+91 98102 05997",
+    "website": "https://www.echoesofnirvana.in/",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Court Road, Bagha Ghat, Theog, Himachal Pradesh 171201",
+    "area": "Bagha Ghat",
+    "latitude": 31.1122202,
+    "longitude": 77.3705767,
+    "place_id": "ChIJeW3_WDyFBTkR6kvriEmP68Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeW3_WDyFBTkR6kvriEmP68Q",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:27:25"
+  },
+  {
+    "business_name": "Apple Retreat Resort & Wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Cafe, Children's camp, Backpacker Hostel, Hotel, Home Stay, Campground",
+    "pincode": "171201",
+    "phone_number": "+91 70187 25367",
+    "website": "https://appleretreatresort.in/",
+    "rating": 4.8,
+    "reviews_count": 343,
+    "address": "Majhar Rd, Khalashi, Kufri, Himachal Pradesh 171209",
+    "area": "171201",
+    "latitude": 31.116265,
+    "longitude": 77.3161288,
+    "place_id": "ChIJzYbbxbaFBTkR4z9dpQKn9nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYbbxbaFBTkR4z9dpQKn9nE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:27:25"
+  }
+]

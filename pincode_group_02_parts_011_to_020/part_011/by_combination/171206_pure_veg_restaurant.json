@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Savera Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "171206",
+    "phone_number": "+91 86792 93388",
+    "website": "https://tour.panoee.net/6a8c1c2027451783628f448b",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sirmoor Rohru Road, Tiuni, Dehradun, Uttarakhand 248199",
+    "area": "171206",
+    "latitude": 30.945173099999998,
+    "longitude": 77.8502628,
+    "place_id": "ChIJZdjPToVTDzkRjluL-xkHJxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdjPToVTDzkRjluL-xkHJxs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:35:16"
+  },
+  {
+    "business_name": "Sol Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant, Vegan restaurant",
+    "pincode": "171206",
+    "phone_number": "+91 85447 97037",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 375,
+    "address": "Main Market Kaza, Kaza, Kaza Khas, Himachal Pradesh 172114",
+    "area": "171206",
+    "latitude": 32.2251559,
+    "longitude": 78.0724163,
+    "place_id": "ChIJ4Ul8XXGjBjkRFS3-nRtyxOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Ul8XXGjBjkRFS3-nRtyxOg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:35:17"
+  }
+]

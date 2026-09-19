@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Digital Photo Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "171011",
+    "phone_number": "+91 98161 13498",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shastri Building, Main Bazar, Shoghi Market, Shoghi, Shimla, Himachal Pradesh 171219",
+    "area": "Shoghi",
+    "latitude": 31.041648,
+    "longitude": 77.1265691,
+    "place_id": "ChIJfXM0uex-BTkRIZxx6D-VWQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXM0uex-BTkRIZxx6D-VWQI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:11:22"
+  },
+  {
+    "business_name": "Dalbir Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer, Wedding photographer",
+    "pincode": "171011",
+    "phone_number": "+91 80549 13087",
+    "website": "https://dalbirphotography.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SCO 23, Swastik Vihar, Sector 5, Panchkula, Haryana 134114",
+    "area": "Swastik Vihar, Sector 5",
+    "latitude": 30.7175901,
+    "longitude": 76.8506467,
+    "place_id": "ChIJ51tsmKeTDzkRcW8IShjr2D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51tsmKeTDzkRcW8IShjr2D0",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:11:23"
+  }
+]

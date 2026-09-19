@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sublime Associates Public Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "171213",
+    "phone_number": "+91 98821 13568",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khwangi, Reckong Peo, Himachal Pradesh 172107",
+    "area": "Khwangi",
+    "latitude": 31.5444069,
+    "longitude": 78.27000009999999,
+    "place_id": "ChIJt1eV6WdrBjkRWKLbd2WVU3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1eV6WdrBjkRWKLbd2WVU3I",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:48:53"
+  },
+  {
+    "business_name": "DHIMAN ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "171213",
+    "phone_number": "+91 98163 05511",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "HOUSE NO 748/3, Gunnu Ghat Masjid, near VETERINARY HOSPITAL, Telecom Colony, Nahan, Himachal Pradesh 173001",
+    "area": "Telecom Colony",
+    "latitude": 30.5627848,
+    "longitude": 77.29676119999999,
+    "place_id": "ChIJUxhvaSANDzkRQUvvmZqWtT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxhvaSANDzkRQUvvmZqWtT4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:48:54"
+  }
+]

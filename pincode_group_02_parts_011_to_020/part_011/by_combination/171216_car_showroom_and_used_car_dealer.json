@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeraj autoz",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "171216",
+    "phone_number": "N/A",
+    "website": "https://neerajautoz.justdial.com/",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "Una - Hamirpur Rd, Salouni, Himachal Pradesh 177119",
+    "area": "171216",
+    "latitude": 31.558355799999998,
+    "longitude": 76.494401,
+    "place_id": "ChIJA6UuSSsrBTkR6xIcNlJD8Ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6UuSSsrBTkR6xIcNlJD8Ag",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:53:20"
+  },
+  {
+    "business_name": "Auto World",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "171216",
+    "phone_number": "+91 92184 03149",
+    "website": "http://www.autoworld.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "478X+C6M, Mandi - Pathankot Rd, Sunehr, Himachal Pradesh 176001",
+    "area": "171216",
+    "latitude": 32.1160937,
+    "longitude": 76.2980479,
+    "place_id": "ChIJWXB_xbxPGzkRRSfzSb2n42c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXB_xbxPGzkRRSfzSb2n42c",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:53:24"
+  }
+]

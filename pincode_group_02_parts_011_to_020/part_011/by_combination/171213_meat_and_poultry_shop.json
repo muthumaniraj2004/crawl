@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Pooja Dhaba",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "171213",
+    "phone_number": "+91 98163 20071",
+    "website": "http://58.130.132.7/",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "8CRV+3W8, NH 5, Himachal Pradesh 172030",
+    "area": "171213",
+    "latitude": 31.3401608,
+    "longitude": 77.44482909999999,
+    "place_id": "ChIJSYEbaQCXBTkRBX45weEFLoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYEbaQCXBTkRBX45weEFLoQ",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:47:23"
+  },
+  {
+    "business_name": "Royal Organic farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "171213",
+    "phone_number": "+91 94185 71877",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7HPV+4P, Thana, Himachal Pradesh 172021",
+    "area": "171213",
+    "latitude": 31.285470399999998,
+    "longitude": 77.5946479,
+    "place_id": "ChIJhaEMdADtBTkRgo6u_-amX_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhaEMdADtBTkRgo6u_-amX_I",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:47:23"
+  }
+]

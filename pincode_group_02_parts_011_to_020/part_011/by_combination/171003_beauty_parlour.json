@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maheswari Beauty Saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "171003",
+    "phone_number": "+91 85808 07540",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Pizza. Com, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Housing Board Colony, Sanjauli",
+    "latitude": 31.1038565,
+    "longitude": 77.1953569,
+    "place_id": "ChIJh8juxqmDBTkRQ2D0OCit4-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8juxqmDBTkRQ2D0OCit4-k",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:56:34"
+  },
+  {
+    "business_name": "Paris Parkers",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Facial spa, Make-up artist, Nail salon",
+    "pincode": "171003",
+    "phone_number": "+91 91058 19000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 643,
+    "address": "above airtel store, Mall Road, opp. murari market, near axis bank atm, Solan, Himachal Pradesh 173212",
+    "area": "Mall Road, Bajoral Khurd",
+    "latitude": 30.9101181,
+    "longitude": 77.10372439999999,
+    "place_id": "ChIJw3d-XROBDzkRqaUpr4OZxAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3d-XROBDzkRqaUpr4OZxAA",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:56:36"
+  }
+]

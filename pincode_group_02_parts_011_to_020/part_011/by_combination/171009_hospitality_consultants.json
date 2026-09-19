@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Quality Vacations",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Car leasing service, Outdoor activity organiser, Sightseeing Tour Operator, Tour agency, Tour operator",
+    "pincode": "171009",
+    "phone_number": "+91 96502 10488",
+    "website": "https://www.thequalityvacations.com/",
+    "rating": 4.5,
+    "reviews_count": 253,
+    "address": "Hari Bhawan, near Vikas Nagar, near DA Sports Factory, Dev Nagar, Vikasnagar, Shimla, Himachal Pradesh 171009",
+    "area": "Dev Nagar, Vikasnagar",
+    "latitude": 31.0779462,
+    "longitude": 77.1800816,
+    "place_id": "ChIJ-yLg26tTOwkR-MjOt4fG8Cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yLg26tTOwkR-MjOt4fG8Cs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:07:55"
+  },
+  {
+    "business_name": "Asia Holidays & Hotel Consultant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "171009",
+    "phone_number": "+91 78076 13145",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rohal Villa, Sector-1, Phase, 1, New Shimla, Himachal Pradesh 171009",
+    "area": "New Shimla",
+    "latitude": 31.0780498,
+    "longitude": 77.1686472,
+    "place_id": "ChIJAQAAAMt4BTkRcHg3eIw6qIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAMt4BTkRcHg3eIw6qIE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:07:56"
+  }
+]

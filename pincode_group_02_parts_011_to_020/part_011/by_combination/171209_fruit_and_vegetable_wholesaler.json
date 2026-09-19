@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Fruits And Vegitables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "171209",
+    "phone_number": "+91 98171 30612",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nesr Petrolpump, Theog, Premghat, Theog, Himachal Pradesh 171201",
+    "area": "Premghat",
+    "latitude": 31.120903499999997,
+    "longitude": 77.3576164,
+    "place_id": "ChIJr0n6s5eFBTkRiuaGvR9itEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0n6s5eFBTkRiuaGvR9itEM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:40:18"
+  },
+  {
+    "business_name": "Cheog",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "171209",
+    "phone_number": "+91 94185 93712",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3886+VM4, Cheog, Himachal Pradesh 171012",
+    "area": "171209",
+    "latitude": 31.0671461,
+    "longitude": 77.3117127,
+    "place_id": "ChIJ_____5SGBTkR702mkasVSdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____5SGBTkR702mkasVSdM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:40:19"
+  }
+]

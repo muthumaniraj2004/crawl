@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANSAR MOTOR GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "171203",
+    "phone_number": "+91 98050 13227",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "56WJ+2PH, Dhanotu, Himachal Pradesh 176208",
+    "area": "171203",
+    "latitude": 32.1950579,
+    "longitude": 76.231861,
+    "place_id": "ChIJzeooJwBbGzkRvkn1wJcMjkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeooJwBbGzkRvkn1wJcMjkg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:30:30"
+  },
+  {
+    "business_name": "Raju Motor Garrage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "171203",
+    "phone_number": "+91 94182 05899",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 19,
+    "address": "Mohal, Himachal Pradesh 175126",
+    "area": "171203",
+    "latitude": 31.917018499999998,
+    "longitude": 77.1235458,
+    "place_id": "ChIJTbYSdiH3BDkRAPxjr0NCGdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbYSdiH3BDkRAPxjr0NCGdU",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:30:30"
+  }
+]

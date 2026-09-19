@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apella Studio",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Plus Size Clothing Store",
+    "pincode": "171203",
+    "phone_number": "+91 78076 22708",
+    "website": "https://apella.in/",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Red Apple Complex, Bhatanwali, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "171203",
+    "latitude": 30.4357783,
+    "longitude": 77.58420269999999,
+    "place_id": "ChIJax98mpIjDzkRWfhpNEhh50g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJax98mpIjDzkRWfhpNEhh50g",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:30:15"
+  },
+  {
+    "business_name": "Thakur Wedding Mall",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Wedding store",
+    "all_categories": "Wedding store",
+    "pincode": "171203",
+    "phone_number": "+91 98768 37228",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VPO CHALTE, Daulatpur, Chalet, Himachal Pradesh 177204",
+    "area": "171203",
+    "latitude": 31.7697595,
+    "longitude": 76.00333239999999,
+    "place_id": "ChIJVbSyFfkXGzkRniJM2rJKkz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbSyFfkXGzkRniJM2rJKkz4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:30:17"
+  }
+]

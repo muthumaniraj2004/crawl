@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIQUE HOTEL SUPPLIES",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Countertop store, Disposable Items shop, Plastic Products Supplier, Steel distributor",
+    "pincode": "171003",
+    "phone_number": "+91 90965 28181",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop no D9/10 Rizim plaza Near Fish Market, Morod, Mapusa, Goa 403507",
+    "area": "Morod",
+    "latitude": 15.5875069,
+    "longitude": 73.8130523,
+    "place_id": "ChIJRcI0aV_rvzsRz5M9LCTR1xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcI0aV_rvzsRz5M9LCTR1xc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:56:49"
+  },
+  {
+    "business_name": "Quick Hotel Supply",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "171003",
+    "phone_number": "N/A",
+    "website": "https://en-gb.facebook.com/QuickHotelSupply/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "48 Corner of Lin Lon Street, & Kyan Khinn St, Yangon, Myanmar (Burma)",
+    "area": "171003",
+    "latitude": 16.8084412,
+    "longitude": 96.1279059,
+    "place_id": "ChIJ0-ETWjjrwTARfFo3GOnb3BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-ETWjjrwTARfFo3GOnb3BM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:56:52"
+  }
+]

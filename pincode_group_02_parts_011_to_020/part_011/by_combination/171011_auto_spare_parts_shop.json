@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sk Auto Mobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "171011",
+    "phone_number": "+91 97057 01486",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "Rawal pally, Kodangal, Ravulpally, Telangana 509336",
+    "area": "171011",
+    "latitude": 17.047289499999998,
+    "longitude": 77.5270783,
+    "place_id": "ChIJZbqDhfYNyTsRzMQ-mLxocvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbqDhfYNyTsRzMQ-mLxocvM",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:56"
+  },
+  {
+    "business_name": "Kahlon Motors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto machine shop",
+    "all_categories": "Auto machine shop, Used auto parts store",
+    "pincode": "171011",
+    "phone_number": "+91 98885 38654",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 319,
+    "address": "Shop 63, Puda Market, Ladowali Rd, near Alaska Chowk, Master Tara Singh Nagar, Jalandhar, Punjab 144001",
+    "area": "Master Tara Singh Nagar",
+    "latitude": 31.323846,
+    "longitude": 75.5919263,
+    "place_id": "ChIJR_qdgeNbGjkRaYNXsyZpqgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_qdgeNbGjkRaYNXsyZpqgk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:10:56"
+  }
+]

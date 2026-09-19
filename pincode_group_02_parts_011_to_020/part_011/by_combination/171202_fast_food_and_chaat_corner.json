@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AGRA CHAT CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "171202",
+    "phone_number": "+91 154 355 2787",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "20 a public park, Sri Ganganagar, Rajasthan 335001",
+    "area": "Old Dhan Mandi",
+    "latitude": 29.9272392,
+    "longitude": 73.87192019999999,
+    "place_id": "ChIJZzowYWu1FzkRacN-NTpEQkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzowYWu1FzkRacN-NTpEQkc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:28:23"
+  },
+  {
+    "business_name": "Chaat Chaupati",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "171202",
+    "phone_number": "+91 78916 91678",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ridhi Sidhi Angan, Road, Ashok Nagar-B, Sri Ganganagar, Rajasthan 335001",
+    "area": "Ashok Nagar-B",
+    "latitude": 29.9186128,
+    "longitude": 73.88909629999999,
+    "place_id": "ChIJ2aHgQMC1FzkRgakowa0wIpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aHgQMC1FzkRgakowa0wIpc",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:28:23"
+  }
+]

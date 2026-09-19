@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhandari Medical Store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Shopping mall",
+    "pincode": "171214",
+    "phone_number": "+91 94188 02038",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "Bhandari Medical Store, near Sen Sec School, Bajaura, Himachal Pradesh 175125",
+    "area": "171214",
+    "latitude": 31.8461699,
+    "longitude": 77.16280379999999,
+    "place_id": "ChIJ74e7U1r4BDkRBKHNFc5139Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74e7U1r4BDkRBKHNFc5139Q",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:49:38"
+  },
+  {
+    "business_name": "Yuvrit Ayurveda Clinic - Brookefield | Treatment & Wellness - Panchakarma",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "171214",
+    "phone_number": "+91 70907 01700",
+    "website": "https://yuvrit.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd Floor, AECS Layout Main Rd, B Block, AECS Layout, Brookefield, Bengaluru, Karnataka 560037",
+    "area": "B Block, AECS Layout, Brookefield",
+    "latitude": 12.9646998,
+    "longitude": 77.7157722,
+    "place_id": "ChIJV65ciw4TrjsRmnigqIPHyeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV65ciw4TrjsRmnigqIPHyeI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:49:38"
+  }
+]

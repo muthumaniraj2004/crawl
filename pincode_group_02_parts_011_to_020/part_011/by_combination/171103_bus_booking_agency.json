@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tour Crafters",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "171103",
+    "phone_number": "+91 86279 74764",
+    "website": "http://www.tourcrafters.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Vill Bangar Rehan, PO Kuftu, Distt, Kunihar, Himachal Pradesh 173207",
+    "area": "171103",
+    "latitude": 31.0864487,
+    "longitude": 77.03427479999999,
+    "place_id": "ChIJJc29Ynx7BTkRg7aDfFiEixg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJc29Ynx7BTkRg7aDfFiEixg",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:25:21"
+  },
+  {
+    "business_name": "Hartwing Himachal",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "171103",
+    "phone_number": "+91 89884 34000",
+    "website": "https://www.hartwinghimachal.com/",
+    "rating": 5,
+    "reviews_count": 47,
+    "address": "Ashwani complex, Kingal, Himachal Pradesh 172024",
+    "area": "171103",
+    "latitude": 31.329636999999998,
+    "longitude": 77.4190145,
+    "place_id": "ChIJv-1Zd6GXBTkRlyAzZvzvUx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-1Zd6GXBTkRlyAzZvzvUx4",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:25:22"
+  }
+]

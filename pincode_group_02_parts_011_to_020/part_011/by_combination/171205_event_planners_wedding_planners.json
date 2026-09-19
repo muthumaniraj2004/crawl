@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Destination Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "171205",
+    "phone_number": "N/A",
+    "website": "http://www.selectindia.co/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "The Select 104 D, Global Business Park, Chandigarh, Zirakpur, Punjab 140603",
+    "area": "171205",
+    "latitude": 30.639572599999997,
+    "longitude": 76.8229644,
+    "place_id": "ChIJnTrD8vLsDzkRH4d3J6YemMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTrD8vLsDzkRH4d3J6YemMs",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:34:23"
+  },
+  {
+    "business_name": "Weddings By Vicky",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "171205",
+    "phone_number": "+91 80955 51234",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Weddings By Vicky, 171205, India",
+    "area": "171205",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJQ8TvU1sRrjsR091cFz5ANtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8TvU1sRrjsR091cFz5ANtk",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:34:23"
+  }
+]

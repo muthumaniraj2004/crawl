@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARMOR FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "171002",
+    "phone_number": "+91 86288 80897",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Swanal Garden, Phagli, Shimla, Himachal Pradesh 171004",
+    "area": "Swanal Garden, Phagli",
+    "latitude": 31.0996569,
+    "longitude": 77.1559728,
+    "place_id": "ChIJZT9dbPl5BTkRuv49BDXhquI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZT9dbPl5BTkRuv49BDXhquI",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:54:13"
+  },
+  {
+    "business_name": "Fitness Trekker Group",
+    "search_category": "Fitness Chains",
+    "primary_category": "Adventure Sports Center",
+    "all_categories": "Adventure Sports Center, Camping store, Hiking area, Mountaineering Class, Outdoor activity organiser, Rafting, Rock climbing, Tour operator, Travel agency",
+    "pincode": "171002",
+    "phone_number": "+91 94595 02753",
+    "website": "https://fitnesstrekkergroup.com/",
+    "rating": 4.9,
+    "reviews_count": 84,
+    "address": "near Hanuman Mandir, Kelti, Himachal Pradesh 171003",
+    "area": "171002",
+    "latitude": 31.121831399999998,
+    "longitude": 77.1866907,
+    "place_id": "ChIJwW1YY0N5BTkR2QU2Bfqa3GE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwW1YY0N5BTkR2QU2Bfqa3GE",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 05:54:14"
+  }
+]

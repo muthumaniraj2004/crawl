@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Contact lenses supplier, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "171202",
+    "phone_number": "+91 98160 55925",
+    "website": "https://www.vishaleyehospital.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "F78H+RV8, Nangal Rd, opp. D.A.V. Centenary Public School, near Indira Stadium, Malahat Nagar, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Malahat Nagar, Professor Colony",
+    "latitude": 31.465722799999998,
+    "longitude": 76.2791494,
+    "place_id": "ChIJc1Dl_YHaGjkRKr84-70kAN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1Dl_YHaGjkRKr84-70kAN8",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:28:38"
+  },
+  {
+    "business_name": "Dr. RISHI EYE INSTITUTE",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "171202",
+    "phone_number": "+91 70156 80440",
+    "website": "http://www.drrishieyeinstitute.com/",
+    "rating": 5,
+    "reviews_count": 8931,
+    "address": "opp. ANTI NARCOTIC CELL # 219, Sector 6, Karnal, Phusgarh Part, Haryana 132001",
+    "area": "Sector 6",
+    "latitude": 29.6781012,
+    "longitude": 77.00645759999999,
+    "place_id": "ChIJx2B0eyZwDjkRlmpVkv-rDxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2B0eyZwDjkRlmpVkv-rDxo",
+    "part_id": "part_011",
+    "crawled_at": "2026-09-19 06:28:39"
+  }
+]
