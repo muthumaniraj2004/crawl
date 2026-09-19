@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise Poultry Store",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "192301",
+    "phone_number": "+91 96228 76598",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Peerbagh, Srinagar, Jammu and Kashmir 190014",
+    "area": "Peerbagh",
+    "latitude": 34.0319584,
+    "longitude": 74.7818796,
+    "place_id": "ChIJP3ChbTWP4TgRqhJYF3b3uTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3ChbTWP4TgRqhJYF3b3uTA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:42"
+  },
+  {
+    "business_name": "Nagam",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "192301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "WQMR+873, Srinagar-Charar-i-Sharief Rd, Hadapora, Sogam, Jammu and Kashmir 191112",
+    "area": "Hadapora",
+    "latitude": 33.9332598,
+    "longitude": 74.790673,
+    "place_id": "ChIJsw0XNACN4TgRsRupum7PlU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsw0XNACN4TgRsRupum7PlU8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:42"
+  }
+]

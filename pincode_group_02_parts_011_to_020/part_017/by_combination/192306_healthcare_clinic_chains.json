@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAMLA HOSPITAL",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "192306",
+    "phone_number": "+91 60057 77241",
+    "website": "http://www.kamlahospital.in/",
+    "rating": 3.7,
+    "reviews_count": 42,
+    "address": "Bishnah, Jammu and Kashmir 181132",
+    "area": "192306",
+    "latitude": 32.6131937,
+    "longitude": 74.85756789999999,
+    "place_id": "ChIJ_ZqhxmibHjkRVb0k1Az_4AI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZqhxmibHjkRVb0k1Az_4AI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:31"
+  },
+  {
+    "business_name": "Dr. Asma’s diagnostic and imaging center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "192306",
+    "phone_number": "+91 78894 30880",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chaar i sharif, srinagar road, Hafroo Batpora, Chadoora, Sogam, Jammu and Kashmir 191113",
+    "area": "Hafroo Batpora",
+    "latitude": 33.943117199999996,
+    "longitude": 74.79791929999999,
+    "place_id": "ChIJv2N1XReN4TgRQw2g86PM5_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2N1XReN4TgRQw2g86PM5_U",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:32"
+  }
+]

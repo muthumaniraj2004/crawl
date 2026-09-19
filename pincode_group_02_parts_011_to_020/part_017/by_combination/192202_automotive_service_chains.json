@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meccano Auto",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting",
+    "pincode": "192202",
+    "phone_number": "+91 98906 27562",
+    "website": "https://meccanoauto.000webhostapp.com/",
+    "rating": 4.8,
+    "reviews_count": 209,
+    "address": "Central Bazar Road, Shankar Nagar, East Shankar Nagar, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar, Ramdaspeth",
+    "latitude": 21.1305381,
+    "longitude": 79.06279769999999,
+    "place_id": "ChIJpyxNOX3A1DsRC6nUZWlcLwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyxNOX3A1DsRC6nUZWlcLwc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:09:53"
+  },
+  {
+    "business_name": "Tyre Empire - Hosa Road Kasavanahalli ( Michelin - Bridgestone - Yokohama - Continental - Goodyear - Apollo- Pirelli -Ceat..)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Auto repair shop, Auto spring shop, Tire repair shop, Wheel alignment service",
+    "pincode": "192202",
+    "phone_number": "+91 63664 37850",
+    "website": "https://www.tyreempire.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "77, Hosa Rd, Electronic City, Bengaluru, Karnataka 560100",
+    "area": "Electronic City",
+    "latitude": 12.8808311,
+    "longitude": 77.6724577,
+    "place_id": "ChIJh7tI96hsrjsRvzowIbD0j2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7tI96hsrjsRvzowIbD0j2A",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:09:54"
+  }
+]

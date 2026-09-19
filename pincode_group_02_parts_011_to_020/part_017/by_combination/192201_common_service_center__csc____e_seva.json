@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIgital Seva Centre ( CSC)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "192201",
+    "phone_number": "+91 74067 62323",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "New, 80feet vajpayee road, Maithri Layout, Kadugodi, Bengaluru, Karnataka 560067",
+    "area": "Maithri Layout, Kadugodi",
+    "latitude": 12.9893182,
+    "longitude": 77.7597456,
+    "place_id": "ChIJGdOUsl4RrjsRgsGi5TgDvGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdOUsl4RrjsRgsGi5TgDvGc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:44"
+  },
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "192201",
+    "phone_number": "+91 75308 80140",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "545, Hanuman Mandir Rd, Chirag Dilli, New Delhi, Delhi 110017",
+    "area": "Chirag Dilli",
+    "latitude": 28.5387676,
+    "longitude": 77.2305533,
+    "place_id": "ChIJeb_bZnfjDDkRN82G8LU0ITc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeb_bZnfjDDkRN82G8LU0ITc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ahangersteelhouse",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer",
+    "pincode": "192201",
+    "phone_number": "N/A",
+    "website": "https://www.ahangersteelhouse.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "MominAbad, Sheer Pora, Anantnag, Jammu and Kashmir 192101",
+    "area": "MominAbad, Sheer Pora",
+    "latitude": 33.7242819,
+    "longitude": 75.1570918,
+    "place_id": "ChIJO9qMPAAP4jgRE6ZU7iza2YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9qMPAAP4jgRE6ZU7iza2YU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:22"
+  },
+  {
+    "business_name": "Shaan Cotton Industries (SCI) Anantnag",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Quilt shop",
+    "all_categories": "Quilt shop, Carpet wholesaler, Mattress store",
+    "pincode": "192201",
+    "phone_number": "+91 70514 78330",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Kulgad main road, Achabal, Jammu and Kashmir 192201",
+    "area": "192201",
+    "latitude": 33.6962031,
+    "longitude": 75.2088543,
+    "place_id": "ChIJ94eWeSgJ4jgRIqvLA1oMwnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94eWeSgJ4jgRIqvLA1oMwnc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Cosa Nostra",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192302",
+    "phone_number": "+91 97970 40809",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "bus stand, near, Policeline, Batpora, Jammu and Kashmir 192303",
+    "area": "Tak Mohalla",
+    "latitude": 33.716854,
+    "longitude": 74.833496,
+    "place_id": "ChIJVUxjfl764TgRTesW2-2skr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUxjfl764TgRTesW2-2skr8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:29"
+  },
+  {
+    "business_name": "Uttam The Taste Of South",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court, South Indian restaurant",
+    "pincode": "192302",
+    "phone_number": "+91 99044 13307",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 129,
+    "address": "nr. Railway Station, Raykanagar, Barelimill, Himatnagar, Gujarat 383001",
+    "area": "Raykanagar, Barelimill",
+    "latitude": 23.5903162,
+    "longitude": 72.9603234,
+    "place_id": "ChIJETCopPG5XTkRlm5wxJYnkbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETCopPG5XTkRlm5wxJYnkbQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Seva Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "192124",
+    "phone_number": "+91 98803 74936",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "No 19/4 Sreekanth Building, Kilari Road, Diwan Khan Ln, Bengaluru, Karnataka 560053",
+    "area": "Anchepet, Chickpet",
+    "latitude": 12.9719467,
+    "longitude": 77.5796251,
+    "place_id": "ChIJt6fi-AsWrjsR8lQp95BzdWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6fi-AsWrjsR8lQp95BzdWs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:01:54"
+  },
+  {
+    "business_name": "CSC center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "192124",
+    "phone_number": "N/A",
+    "website": "http://digitalseva.csc.gov.in/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Bus Stand E-606, The Courtyard, opp. Tarakpur, Ahilyanagar, Maharashtra 414003",
+    "area": "Sindhi Colony",
+    "latitude": 19.107920699999998,
+    "longitude": 74.741213,
+    "place_id": "ChIJ9UiDNY6x3DsRAU4Ogk9e76g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UiDNY6x3DsRAU4Ogk9e76g",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:01:54"
+  }
+]

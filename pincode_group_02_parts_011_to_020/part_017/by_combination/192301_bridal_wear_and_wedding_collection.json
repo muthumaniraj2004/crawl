@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Lehanga House",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "192301",
+    "phone_number": "+91 70065 72315",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10, Main Road, near Clock Tower, Srinagar, Pulwama, Jammu and Kashmir 192304",
+    "area": "Srinagar",
+    "latitude": 33.9584712,
+    "longitude": 74.9245079,
+    "place_id": "ChIJu_KYV5-L4TgR5EAfWHKIrcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_KYV5-L4TgR5EAfWHKIrcc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:23:00"
+  },
+  {
+    "business_name": "Wedding Bazar",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing store",
+    "pincode": "192301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Ward No 9 H.No. 15 Arya Smaj Gali, Jammu and Kashmir 182101",
+    "area": "Lambi Gali",
+    "latitude": 32.9231969,
+    "longitude": 75.1318661,
+    "place_id": "ChIJl4Nzz7zTHTkRz42oaEruojA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4Nzz7zTHTkRz42oaEruojA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:23:00"
+  }
+]

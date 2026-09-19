@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Costa Coffee",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "192202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "H5HM+7QQ, Wangund, Jammu and Kashmir 192221",
+    "area": "192202",
+    "latitude": 33.5782002,
+    "longitude": 75.1844955,
+    "place_id": "ChIJ93MuQAD3HTkRSsAGqHb6I6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93MuQAD3HTkRSsAGqHb6I6s",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:09:24"
+  },
+  {
+    "business_name": "Café HORMUZ",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "192202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shah i Hamdan Colony, Nowgam Kothar, Jammu and Kashmir 192201",
+    "area": "192202",
+    "latitude": 33.6913206,
+    "longitude": 75.26589129999999,
+    "place_id": "ChIJU9AleYAL4jgRd5ZtReh5Cxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9AleYAL4jgRd5ZtReh5Cxs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:09:24"
+  }
+]

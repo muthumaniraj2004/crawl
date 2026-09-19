@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KEBABOO foods Pvt Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer, Spices Wholesaler",
+    "pincode": "192231",
+    "phone_number": "+91 72986 84483",
+    "website": "http://kibaboo.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Brazlo, Jammu and Kashmir 192231",
+    "area": "192231",
+    "latitude": 33.6505965,
+    "longitude": 75.0549097,
+    "place_id": "ChIJMQw1d7cB4jgRT6vJE5lqodM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQw1d7cB4jgRT6vJE5lqodM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:17:42"
+  },
+  {
+    "business_name": "SS Traders & Co",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "192231",
+    "phone_number": "+91 70064 52941",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "opposite Police Station, Bongam, Kulgam, Jammu and Kashmir 192231",
+    "area": "192231",
+    "latitude": 33.6439156,
+    "longitude": 75.0160212,
+    "place_id": "ChIJb0Xxb_oB4jgRzfQHP86iMlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0Xxb_oB4jgRzfQHP86iMlQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:17:42"
+  }
+]

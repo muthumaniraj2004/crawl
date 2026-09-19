@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvam Eventz",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Caterer, Event management company",
+    "pincode": "192305",
+    "phone_number": "+91 98408 96331",
+    "website": "https://sarvameventz.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "LandMark - Our Lady Of Health Shrine, 915A, 28th St, B.V.Colony, Sastri Nagar, Vyasarpadi, Chennai, Tamil Nadu 600039",
+    "area": "B.V.Colony, Sastri Nagar, Vyasarpadi",
+    "latitude": 13.117649199999999,
+    "longitude": 80.25606909999999,
+    "place_id": "ChIJTyKsVDhlUjoRclntxTo0h88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyKsVDhlUjoRclntxTo0h88",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:30:18"
+  },
+  {
+    "business_name": "KIAAN The Signature Celebrations",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Corporate gift supplier, Event management company, Party planner, Restaurant supply store, Wedding planner, Wedding service, Wedding venue",
+    "pincode": "192305",
+    "phone_number": "+91 95664 52093",
+    "website": "https://kiaancelebrations.in/",
+    "rating": 4.9,
+    "reviews_count": 77,
+    "address": "KIAAN The Signature Celebrations, 7, Padikuppam Main Rd, above SBI ATM, Kamaraj Nagar, Gandhi Nagar, Anna Nagar West Extension, Chennai, Tamil Nadu 600040",
+    "area": "Kamaraj Nagar, Gandhi Nagar, Anna Nagar West Extension",
+    "latitude": 13.085436,
+    "longitude": 80.1924981,
+    "place_id": "ChIJeZ0VdgBlUjoR53EySTP0WiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZ0VdgBlUjoR53EySTP0WiI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:30:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree stitch boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing alteration service, Tailor",
+    "pincode": "192129",
+    "phone_number": "N/A",
+    "website": "http://www.instagram.com/shree_stitch.boutique/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Saharai Rd, Bhuda, Deeg, Dig, Rajasthan 321203",
+    "area": "Bhuda",
+    "latitude": 27.4674528,
+    "longitude": 77.3211663,
+    "place_id": "ChIJo8KS3ywFczkRNDqdr_ZHqRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8KS3ywFczkRNDqdr_ZHqRg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:06:14"
+  },
+  {
+    "business_name": "All About Lace",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store, Women's clothing store",
+    "pincode": "192129",
+    "phone_number": "+91 70064 41649",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ghanie mohalla, behind J&K Bank, Seer Hamdan, Jammu and Kashmir 192129",
+    "area": "192129",
+    "latitude": 33.7894518,
+    "longitude": 75.24249809999999,
+    "place_id": "ChIJgZNc8t4P4jgR_FSOC1obJiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZNc8t4P4jgR_FSOC1obJiM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:06:15"
+  }
+]

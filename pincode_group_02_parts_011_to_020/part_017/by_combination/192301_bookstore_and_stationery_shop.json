@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Book Seller",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "192301",
+    "phone_number": "+91 94191 11955",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Unnamed Road, 181102",
+    "area": "192301",
+    "latitude": 32.6086731,
+    "longitude": 74.7317139,
+    "place_id": "ChIJX7PjuVGRHjkRyM0stdngAIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7PjuVGRHjkRyM0stdngAIg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:23:47"
+  },
+  {
+    "business_name": "Bal Krishan Gupta & Sons Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Bag shop",
+    "pincode": "192301",
+    "phone_number": "+91 94191 59967",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ward no.7, Malik MARKET, Kishtwar, Jammu and Kashmir 182204",
+    "area": "192301",
+    "latitude": 33.3177168,
+    "longitude": 75.7632663,
+    "place_id": "ChIJtWS5LdkLHTkRetIqsR8dfJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWS5LdkLHTkRetIqsR8dfJE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:23:48"
+  }
+]

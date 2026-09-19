@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MZ RESORTS ACHABAL",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "192125",
+    "phone_number": "+91 95960 61575",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "90, Achabal Bypass, Achabal, Anantnag, Jammu and Kashmir 192201",
+    "area": "192125",
+    "latitude": 33.6847135,
+    "longitude": 75.2235456,
+    "place_id": "ChIJ1104Cu4J4jgRi2jJYSPzH5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1104Cu4J4jgRi2jJYSPzH5A",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:03:25"
+  },
+  {
+    "business_name": "Water Front Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "192125",
+    "phone_number": "+91 95415 58802",
+    "website": "https://waterfrontresorts.in/",
+    "rating": 5,
+    "reviews_count": 387,
+    "address": "near Rafting Point, Pahalgam, Jammu and Kashmir 192126",
+    "area": "192125",
+    "latitude": 33.9100533,
+    "longitude": 75.2812182,
+    "place_id": "ChIJhRgj7AIV4jgR-XeroirhHzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRgj7AIV4jgR-XeroirhHzA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:03:26"
+  }
+]

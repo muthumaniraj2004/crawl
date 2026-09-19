@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Earth Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Book store, Craft store, Incense supplier",
+    "pincode": "192233",
+    "phone_number": "+91 78071 78312",
+    "website": "https://www.facebook.com/myearthstore",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Gyuto Karmapa Temple, My Earth Store , PO, YOL Cantt Road, opp. Gyuto Monastery, Sidhbari, Himachal Pradesh 176057",
+    "area": "192233",
+    "latitude": 32.1850753,
+    "longitude": 76.3676224,
+    "place_id": "ChIJ26fOxSZSGzkR0XZ8oTgUdyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26fOxSZSGzkR0XZ8oTgUdyI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:20:59"
+  },
+  {
+    "business_name": "Valley Top Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "192233",
+    "phone_number": "+91 99065 92540",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "near Jammu & Kashmir Bank, Pahloo, Batpora, Pahloo, Jammu and Kashmir 192231",
+    "area": "Pahloo",
+    "latitude": 33.6361749,
+    "longitude": 75.04870269999999,
+    "place_id": "ChIJ____D9gA4jgRTQYZ0WkoIgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____D9gA4jgRTQYZ0WkoIgE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:20:59"
+  }
+]

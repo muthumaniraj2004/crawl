@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al-aziz physiotherapy clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "192233",
+    "phone_number": "+91 70065 86808",
+    "website": "https://alazizphysiotherapy.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "By pass road, near north nursing home, Handwara, Jammu and Kashmir 193221",
+    "area": "192233",
+    "latitude": 34.4063611,
+    "longitude": 74.2913921,
+    "place_id": "ChIJ9XrmHfId4TgRegPSt2eIXKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XrmHfId4TgRegPSt2eIXKk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:24"
+  },
+  {
+    "business_name": "Dr MUZZAMIL PT",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "192233",
+    "phone_number": "+91 97972 84092",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sheefu arcade, Naikoo Mohalla, Shopian, Jammu and Kashmir 192303",
+    "area": "Naikoo Mohalla",
+    "latitude": 33.7196778,
+    "longitude": 74.8344894,
+    "place_id": "ChIJeVoCNfX74TgRNnFIe8Z_n3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVoCNfX74TgRNnFIe8Z_n3s",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:26"
+  }
+]

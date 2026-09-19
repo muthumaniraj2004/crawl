@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aaxe Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint Manufacturer",
+    "all_categories": "Paint Manufacturer",
+    "pincode": "192232",
+    "phone_number": "+91 60066 13144",
+    "website": "https://www.aaxepaints.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Anphar laboratory, Lane no 21A, Phase III, Industrial Area, Gangayal, Jammu, Jammu and Kashmir 180010",
+    "area": "Phase III, Industrial Area, Gangayal",
+    "latitude": 32.6681466,
+    "longitude": 74.8667521,
+    "place_id": "ChIJr7OkZ5abHjkRlrUaanJkHCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7OkZ5abHjkRlrUaanJkHCY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:20:00"
+  },
+  {
+    "business_name": "Bombay Metal Mart",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "192232",
+    "phone_number": "+91 94191 86695",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shivaji Chowk, Railway Rd, Guru Nanak Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Guru Nanak Nagar",
+    "latitude": 32.7017075,
+    "longitude": 74.8703211,
+    "place_id": "ChIJi32b7KiEHjkRRFWdzXda6Es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi32b7KiEHjkRRFWdzXda6Es",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:20:01"
+  }
+]

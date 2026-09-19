@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Party Mart",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store, Party store, Event management company",
+    "pincode": "192202",
+    "phone_number": "+91 99894 45399",
+    "website": "https://partymart.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Laxmi kalyan Residency, plot no.249, 250, Madinaguda, Deepthisri Nagar, Hyderabad, Telangana 500049",
+    "area": "PJR Colony, Madinaguda, Deepthisri Nagar",
+    "latitude": 17.4994327,
+    "longitude": 78.3376584,
+    "place_id": "ChIJRZlKhIiSyzsRXhRSMfyexMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZlKhIiSyzsRXhRSMfyexMo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:12"
+  },
+  {
+    "business_name": "HAPPY EVENTS®",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Event planner, Event management company, Wedding planner",
+    "pincode": "192202",
+    "phone_number": "+91 84019 20851",
+    "website": "https://instagram.com/happyevents831?igshid=YmMyMTA2M2Y=",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Nr. Vishala Empire, 345, Haridarshan road, near Naroda - Dehgam Road, chokdi, Nava Naroda, Ahmedabad, Gujarat 382330",
+    "area": "chokdi, Nava Naroda",
+    "latitude": 23.0920861,
+    "longitude": 72.68653929999999,
+    "place_id": "ChIJ77aaTB-bXjkRsyBOQd2_hlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77aaTB-bXjkRsyBOQd2_hlI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:12"
+  }
+]

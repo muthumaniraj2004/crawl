@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAPA'S RESTURANT",
+    "search_category": "Organic Food Store",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store",
+    "pincode": "192201",
+    "phone_number": "+91 60064 86005",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "kms, On the way of Bijbehara to pahalgam, road (9, away from bijbehara, Anantnag, Jammu and Kashmir 192401",
+    "area": "192201",
+    "latitude": 33.8050195,
+    "longitude": 75.1897826,
+    "place_id": "ChIJE8TxwJgR4jgRQZ0clJ8Zzp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8TxwJgR4jgRQZ0clJ8Zzp0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:34"
+  },
+  {
+    "business_name": "Apple Valley Khan & Son's",
+    "search_category": "Organic Food Store",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "192201",
+    "phone_number": "+91 95963 55365",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "KP Rd, Seer Hamdan, Anantnag, Jammu and Kashmir 192129",
+    "area": "192201",
+    "latitude": 33.782243699999995,
+    "longitude": 75.2391837,
+    "place_id": "ChIJtSovo4UP4jgRGS2gigH16Fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSovo4UP4jgRGS2gigH16Fo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:34"
+  }
+]

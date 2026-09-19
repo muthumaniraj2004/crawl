@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "192305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "R272+H89, Litter, 192305",
+    "area": "192305",
+    "latitude": 33.8139147,
+    "longitude": 75.00086619999999,
+    "place_id": "ChIJd_owAE0d4jgRSzuVGLDCrRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_owAE0d4jgRSzuVGLDCrRY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:30:09"
+  },
+  {
+    "business_name": "Clippers Saloon & Spa",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "192305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "RX7X+W5V, Litter, Jammu and Kashmir 192305",
+    "area": "192305",
+    "latitude": 33.8148656,
+    "longitude": 74.9979238,
+    "place_id": "ChIJ_YYlWcod4jgRqpA1WeyB40I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YYlWcod4jgRqpA1WeyB40I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:30:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nature Fresh Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "192303",
+    "phone_number": "+91 191 358 9476",
+    "website": "http://www.jainsbynaturefreshfoods.in/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "plot no 4 & 5A phase 2 SICOP, Gangyal Industrial Area, Jammu, Jammu and Kashmir 180010",
+    "area": "Gangyal Industrial Area",
+    "latitude": 32.6757586,
+    "longitude": 74.8707886,
+    "place_id": "ChIJta-fdI6bHjkR23IPsOYtzEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJta-fdI6bHjkR23IPsOYtzEc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:05"
+  },
+  {
+    "business_name": "KC Food Products Pvt.Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "192303",
+    "phone_number": "+91 1923 220 382",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lane No.4, SIDCO Complex, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.6344938,
+    "longitude": 74.9289549,
+    "place_id": "ChIJZzLJBYmdHjkR-lZOP4UIyZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzLJBYmdHjkR-lZOP4UIyZc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:06"
+  }
+]

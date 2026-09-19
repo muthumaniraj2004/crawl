@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "General Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Auto insurance agency",
+    "all_categories": "Auto insurance agency",
+    "pincode": "192233",
+    "phone_number": "+91 88250 74217",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bagander Mohallah, Srinagar, Shopian, Jammu and Kashmir 192303",
+    "area": "Bagander Mohallah",
+    "latitude": 33.7161079,
+    "longitude": 74.8277793,
+    "place_id": "ChIJj7h4rkH74TgRdyUUgSb26Dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7h4rkH74TgRdyUUgSb26Dc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:14"
+  },
+  {
+    "business_name": "SHARIK COMPUTERS (CSC CHATRI PORA)",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "192233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MV9F+6PW, Chatri Pora, Jammu and Kashmir 192303",
+    "area": "192233",
+    "latitude": 33.6678797,
+    "longitude": 74.87407449999999,
+    "place_id": "ChIJOao80MP74TgRnFwmDrDkCH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOao80MP74TgRnFwmDrDkCH4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:14"
+  }
+]

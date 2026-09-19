@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nemat Trout Fish Farm",
+    "search_category": "Fish Market",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192211",
+    "phone_number": "+91 96225 19202",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "129, Verinag, Jammu and Kashmir 192212",
+    "area": "192211",
+    "latitude": 33.5501205,
+    "longitude": 75.23027069999999,
+    "place_id": "ChIJhSF6mWz3HTkReSeHac2awkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSF6mWz3HTkReSeHac2awkw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:12:39"
+  },
+  {
+    "business_name": "Modern Chicken & Fish Point",
+    "search_category": "Fish Market",
+    "primary_category": "Food broker",
+    "all_categories": "Food broker",
+    "pincode": "192211",
+    "phone_number": "+91 77808 27169",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Govt. Higher Secondary School, Doru Shahabad, Jammu and Kashmir 192211",
+    "area": "192211",
+    "latitude": 33.5727203,
+    "longitude": 75.2214345,
+    "place_id": "ChIJrc_niav3HTkRbF6mZ_0wbUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrc_niav3HTkRbF6mZ_0wbUE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:12:41"
+  }
+]

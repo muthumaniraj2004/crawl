@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khen Chen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant",
+    "pincode": "192221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HXPC+J5X, Khul, Jammu and Kashmir 192231",
+    "area": "192221",
+    "latitude": 33.586604,
+    "longitude": 74.9705096,
+    "place_id": "ChIJPwIPOgAB4jgRcmfqY3LzBXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwIPOgAB4jgRcmfqY3LzBXk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:05"
+  },
+  {
+    "business_name": "Crispice The Cafe N Grill",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "192221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 149,
+    "address": "P4G3+XH4, near Petrol pump, Wanpoh, Jammu and Kashmir 192231",
+    "area": "192221",
+    "latitude": 33.7273803,
+    "longitude": 75.10394749999999,
+    "place_id": "ChIJ9e9qpOkF4jgRqYqZ4a41hzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9e9qpOkF4jgRqYqZ4a41hzs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:06"
+  }
+]

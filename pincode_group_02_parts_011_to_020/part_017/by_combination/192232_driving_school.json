@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahil Bhat",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "192232",
+    "phone_number": "+91 95964 75727",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Jkbank, Katrasoo, Jammu and Kashmir 192232",
+    "area": "Jkbank",
+    "latitude": 33.6893725,
+    "longitude": 74.9952108,
+    "place_id": "ChIJD3kltbED4jgRx5jiIqKkn-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3kltbED4jgRx5jiIqKkn-Q",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:19:57"
+  },
+  {
+    "business_name": "Arto Anantnag driving test place",
+    "search_category": "Driving School",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "192232",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q3MQ+HCC, Bijbehara, Jammu and Kashmir 192124",
+    "area": "192232",
+    "latitude": 33.7839469,
+    "longitude": 75.0885081,
+    "place_id": "ChIJTaYkFQAb4jgRwkMMREoA-9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaYkFQAb4jgRwkMMREoA-9Y",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:19:57"
+  }
+]

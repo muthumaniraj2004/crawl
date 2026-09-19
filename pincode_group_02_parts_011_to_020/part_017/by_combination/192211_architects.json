@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Designers Group",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Interior designer",
+    "pincode": "192211",
+    "phone_number": "+91 70093 39066",
+    "website": "http://www.facebook.com/designersgroupamritsar",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "71, Defense Enclave, Bypass, Amritsar, Punjab 143001",
+    "area": "Defense Enclave, Bypass",
+    "latitude": 31.658497299999997,
+    "longitude": 74.8425919,
+    "place_id": "ChIJpWHoMURjGTkRdOhdnMSmBjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpWHoMURjGTkRdOhdnMSmBjU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:13:23"
+  },
+  {
+    "business_name": "Rethinking The Future",
+    "search_category": "Architects",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "192211",
+    "phone_number": "N/A",
+    "website": "https://re-thinkingthefuture.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "9A, DDA Flats, Block B, Nirman Vihar, Preet Vihar, New Delhi, Delhi, 110092",
+    "area": "Block B, Nirman Vihar, Preet Vihar",
+    "latitude": 28.6330368,
+    "longitude": 77.28677669999999,
+    "place_id": "ChIJ3yZFPCDjDDkRedrFH5lcbZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yZFPCDjDDkRedrFH5lcbZU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:13:23"
+  }
+]

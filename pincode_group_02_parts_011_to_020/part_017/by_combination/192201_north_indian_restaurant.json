@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Heritage Lounge Kokernag",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "192201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near j&k bank, Kokernag, Jammu and Kashmir 192202",
+    "area": "192201",
+    "latitude": 33.5908928,
+    "longitude": 75.294259,
+    "place_id": "ChIJQwePXQD1HTkRMO4StIy-O_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwePXQD1HTkRMO4StIy-O_Y",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:42"
+  },
+  {
+    "business_name": "AL HILAL FAST FOOD AND RESTAURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant",
+    "pincode": "192201",
+    "phone_number": "+91 70065 23237",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Larnoo, Guri Draman, Jammu and Kashmir 192202",
+    "area": "192201",
+    "latitude": 33.624231699999996,
+    "longitude": 75.3744796,
+    "place_id": "ChIJFX5IfpeLHTkRgWd5w0af0wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFX5IfpeLHTkRgWd5w0af0wk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:43"
+  }
+]

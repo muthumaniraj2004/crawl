@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "C3 Departmental Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192122",
+    "phone_number": "+91 88250 42243",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "Ground Floor, Landmark Complex, Karan Nagar, Srinagar, Jammu and Kashmir 190010",
+    "area": "Karan Nagar",
+    "latitude": 34.0795637,
+    "longitude": 74.7995292,
+    "place_id": "ChIJKQsDcJuP4TgR12kXFW6IPE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQsDcJuP4TgR12kXFW6IPE8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 05:58:55"
+  },
+  {
+    "business_name": "Kaichachkoot Toll Plaza",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Toll station",
+    "all_categories": "Toll station",
+    "pincode": "192122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 1369,
+    "address": "V2FV+P7X, NH 44, Amliar, 192122",
+    "area": "192122",
+    "latitude": 33.874361799999996,
+    "longitude": 75.04324249999999,
+    "place_id": "ChIJ74awreMf4jgR_wzPPbVGCHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74awreMf4jgR_wzPPbVGCHQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 05:58:55"
+  }
+]

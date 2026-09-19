@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plumbing Crew",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Waterproofing service",
+    "pincode": "192202",
+    "phone_number": "+91 73856 15866",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "chowk, near Zendha, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.1413977,
+    "longitude": 79.0648478,
+    "place_id": "ChIJv3hLcrurrWYRq21w52yA0MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3hLcrurrWYRq21w52yA0MY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:09:59"
+  },
+  {
+    "business_name": "Shakeel plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "192202",
+    "phone_number": "+91 90860 80913",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "above Lamber, Lamber, Banihal, Jammu and Kashmir 182146",
+    "area": "Lamber",
+    "latitude": 33.478293199999996,
+    "longitude": 75.1744421,
+    "place_id": "ChIJVZa4n7zxHTkRvIipbCfPXmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZa4n7zxHTkRvIipbCfPXmA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:00"
+  }
+]

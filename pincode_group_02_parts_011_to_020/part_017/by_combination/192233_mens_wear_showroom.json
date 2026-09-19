@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Plus",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "192233",
+    "phone_number": "+91 95964 84950",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kulgam Ghanta Ghar, 44, Kulgam, Jammu and Kashmir 192231",
+    "area": "192233",
+    "latitude": 33.6472225,
+    "longitude": 75.0219078,
+    "place_id": "ChIJKYGcqpkB4jgRF38DI9GAlx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYGcqpkB4jgRF38DI9GAlx0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:12"
+  },
+  {
+    "business_name": "Kasheerwear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "192233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near vehj mouj park, vehil, Jammu and Kashmir 192303",
+    "area": "vehil",
+    "latitude": 33.686757,
+    "longitude": 74.86423309999999,
+    "place_id": "ChIJ-aaVm1_74TgRDAaKKrvaios",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aaVm1_74TgRDAaKKrvaios",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:12"
+  }
+]

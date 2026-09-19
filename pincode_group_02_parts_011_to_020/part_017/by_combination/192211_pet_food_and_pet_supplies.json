@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aquarium pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "192211",
+    "phone_number": "+91 87170 00101",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shiva Nagar, Kathua, Jammu and Kashmir 184104",
+    "area": "Shiva Nagar",
+    "latitude": 32.3852532,
+    "longitude": 75.517111,
+    "place_id": "ChIJ0ScZZW1xHDkR-eVs3dB78AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ScZZW1xHDkR-eVs3dB78AA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:12:41"
+  },
+  {
+    "business_name": "Jammu pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "192211",
+    "phone_number": "+91 70066 96353",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Digiana, Sanjay Nagar, Jammu, Jammu and Kashmir 180010",
+    "area": "Digiana, Sanjay Nagar",
+    "latitude": 32.6871231,
+    "longitude": 74.8572923,
+    "place_id": "ChIJp0OOPp6bHjkRpAKLU0HQXP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0OOPp6bHjkRpAKLU0HQXP8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:12:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Opticians",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Optical Wholesaler",
+    "pincode": "192232",
+    "phone_number": "+91 172 507 3902",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 53, 54, Sukhna Path, Sector 19C, Sector 19, Chandigarh, 160019",
+    "area": "Sector 19C, Sector 19",
+    "latitude": 30.7277645,
+    "longitude": 76.793364,
+    "place_id": "ChIJVVVVmRztDzkRqrT6i7abDS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVmRztDzkRqrT6i7abDS0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:19:41"
+  },
+  {
+    "business_name": "Ioptics Sobha City Mall",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Ophthalmology clinic, Optical Products Manufacturer, Optometrist, Store, Sunglasses store",
+    "pincode": "192232",
+    "phone_number": "+91 85474 02725",
+    "website": "https://www.ioptics.online/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "FS-27 1st Floor, Sobha City Mall, Puzhakkal, Thrissur, Keralam 680553",
+    "area": "Puzhakkal",
+    "latitude": 10.549889799999999,
+    "longitude": 76.1831619,
+    "place_id": "ChIJ4TwktJzupzsRWbbjRxHuc1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TwktJzupzsRWbbjRxHuc1w",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:19:41"
+  }
+]

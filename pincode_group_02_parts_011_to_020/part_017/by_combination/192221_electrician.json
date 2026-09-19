@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jk electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "192221",
+    "phone_number": "+91 91038 68643",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nh44, Jammu and Kashmir 192202",
+    "area": "192221",
+    "latitude": 33.6246189,
+    "longitude": 75.1389981,
+    "place_id": "ChIJY11i8KEH4jgR6CVWIZRAjNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY11i8KEH4jgR6CVWIZRAjNo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:42"
+  },
+  {
+    "business_name": "Modern electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler",
+    "pincode": "192221",
+    "phone_number": "+91 84928 77092",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "QRFJ+7F9, Durga Nagar, Jammu, Jammu and Kashmir 180013",
+    "area": "Durga Nagar",
+    "latitude": 32.773122,
+    "longitude": 74.8312138,
+    "place_id": "ChIJP1eWJm-FHjkRbTbgGma_CFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1eWJm-FHjkRbTbgGma_CFw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:44"
+  }
+]

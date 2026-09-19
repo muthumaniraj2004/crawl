@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TSM clothes manufacturing",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer, Service establishment",
+    "pincode": "192201",
+    "phone_number": "N/A",
+    "website": "http://www.tsmfashionhub.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TSM clothes manufacturing, 192201, India",
+    "area": "192201",
+    "latitude": 33.7278866,
+    "longitude": 75.1482386,
+    "place_id": "ChIJ3zODwUIL4jgRZ64e6ffFcYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zODwUIL4jgRZ64e6ffFcYs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:52"
+  },
+  {
+    "business_name": "Aftab Uniform House",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "192201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P4WP+XJJ, Seepin, Sifan, Anantnag, Jammu and Kashmir 192101",
+    "area": "Seepin",
+    "latitude": 33.747471499999996,
+    "longitude": 75.1365304,
+    "place_id": "ChIJoZudVQAF4jgRb6c-pUE0Bbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZudVQAF4jgRb6c-pUE0Bbw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:52"
+  }
+]

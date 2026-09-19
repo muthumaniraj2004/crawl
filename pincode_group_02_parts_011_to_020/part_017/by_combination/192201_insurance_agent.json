@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zurich Kotak General Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Home insurance agency, Insurance company, Motorcycle insurance agency",
+    "pincode": "192201",
+    "phone_number": "+91 1800 266 4545",
+    "website": "https://www.kotakgeneral.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "4th Floor, Jai Coach Compound, 401, off Western Express Highway, NESCO, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "NESCO, Goregaon East",
+    "latitude": 19.1455768,
+    "longitude": 72.8552754,
+    "place_id": "ChIJGcDB95235zsRo99-DNssKYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcDB95235zsRo99-DNssKYk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:48"
+  },
+  {
+    "business_name": "Insurance services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "192201",
+    "phone_number": "+91 94505 34140",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Panditpur Rd, Panditpur, Uttar Pradesh 221302",
+    "area": "192201",
+    "latitude": 25.268690799999998,
+    "longitude": 82.9055269,
+    "place_id": "ChIJKa-g64DNjzkRxAmExqApm1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKa-g64DNjzkRxAmExqApm1M",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:48"
+  }
+]

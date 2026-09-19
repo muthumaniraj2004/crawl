@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jharokha Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "192221",
+    "phone_number": "+91 70062 23239",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Railway Road, near Shiv Mandir, opposite Pawan Ice Cream, Canal Road Extension, Trikuta Nagar, Jammu, Jammu and Kashmir 180010",
+    "area": "Canal Road Extension, Trikuta Nagar",
+    "latitude": 32.6908962,
+    "longitude": 74.8815425,
+    "place_id": "ChIJuw9JVFKdHjkRibnI0JuV7RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuw9JVFKdHjkRibnI0JuV7RU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:09"
+  },
+  {
+    "business_name": "Nescafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee store",
+    "pincode": "192221",
+    "phone_number": "+91 70062 02416",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 109,
+    "address": "near Raghunath Temple, Raghunath Bazar, Prem Nagar, Resham Ghar Colony, Jammu, Jammu and Kashmir 180001",
+    "area": "Raghunath Bazar, Prem Nagar, Resham Ghar Colony",
+    "latitude": 32.7298471,
+    "longitude": 74.8639482,
+    "place_id": "ChIJxcnH-oeEHjkRF0tXgcLkuys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxcnH-oeEHjkRF0tXgcLkuys",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lotus Yoga Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Fitness center, Health consultant",
+    "pincode": "192305",
+    "phone_number": "+91 93309 22521",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "K.B, C.ROAD, SHIBTALA, Tematha, Mankundu, Chandannagar, West Bengal 712137",
+    "area": "SHIBTALA, Tematha, Mankundu",
+    "latitude": 22.84542,
+    "longitude": 88.36350999999999,
+    "place_id": "ChIJi9yZRZCR-DkRQGkDb7AYqK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9yZRZCR-DkRQGkDb7AYqK8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:29:49"
+  },
+  {
+    "business_name": "YogaPeace",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "192305",
+    "phone_number": "+91 77373 71525",
+    "website": "https://yogapeace.org/",
+    "rating": 4.9,
+    "reviews_count": 672,
+    "address": "Krishna Kripa Krishna Kripa-2, A-23, Subhash Nagar Rd, near Science Park, Shastri Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016",
+    "area": "Shastri Nagar",
+    "latitude": 26.9396713,
+    "longitude": 75.7969641,
+    "place_id": "ChIJVWS8SOazbTkRqQbVw7EFscU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWS8SOazbTkRqQbVw7EFscU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:29:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "District Hospital Shopian",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "192303",
+    "phone_number": "+91 70067 77048",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "PRCM+CHR, Malik Mohalla, Naikoo Mohalla, Shopian, Jammu and Kashmir 192303",
+    "area": "Naikoo Mohalla",
+    "latitude": 33.7204981,
+    "longitude": 74.8351912,
+    "place_id": "ChIJMVvLWJX74TgRwoTx435TKZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVvLWJX74TgRwoTx435TKZo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:24"
+  },
+  {
+    "business_name": "Hilal Medicate",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "192303",
+    "phone_number": "+91 70063 32388",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "way Road, near Boys Higher Secondary four, Jammu and Kashmir 192303",
+    "area": "192303",
+    "latitude": 33.6768634,
+    "longitude": 74.8499267,
+    "place_id": "ChIJkfsz0P774TgRR9olJJHqwuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfsz0P774TgRR9olJJHqwuk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Oasis Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "192221",
+    "phone_number": "+91 79018 12394",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "3373/1, Ferozpur namaste Road, adjoining Ansal Plaza Mall, Gurdev Nagar, Ludhiana, Punjab 141001",
+    "area": "Gurdev Nagar",
+    "latitude": 30.898069099999997,
+    "longitude": 75.8211364,
+    "place_id": "ChIJM7BNDiCDGjkRpek87NQ-e5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7BNDiCDGjkRpek87NQ-e5c",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:49"
+  },
+  {
+    "business_name": "Health ayurvedha spa and salon",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "192221",
+    "phone_number": "+91 91036 32590",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Lane No.27, Yougal Complex, Greater Kailash, Jammu, Jammu and Kashmir 180011",
+    "area": "Greater Kailash",
+    "latitude": 32.6620495,
+    "longitude": 74.89875769999999,
+    "place_id": "ChIJgb_LvTedHjkRHUNww6Zt7Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgb_LvTedHjkRHUNww6Zt7Lc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:50"
+  }
+]

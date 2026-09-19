@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashmir Couriers",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "192221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Waltengoo Kund, Qazigund, Jammu and Kashmir 192221",
+    "area": "192221",
+    "latitude": 33.556506399999996,
+    "longitude": 75.1180535,
+    "place_id": "ChIJr_4UUM35HTkRCOos7NqGVzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_4UUM35HTkRCOos7NqGVzI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:17:16"
+  },
+  {
+    "business_name": "HIGHWAY TRANSPORT COMPANY",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Trucking company",
+    "all_categories": "Trucking company",
+    "pincode": "192221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "M4P8+JHR, Nepora, 192221",
+    "area": "192221",
+    "latitude": 33.6866039,
+    "longitude": 75.1163826,
+    "place_id": "ChIJD_yoBWQH4jgRJ4tcjQPayeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_yoBWQH4jgRJ4tcjQPayeI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:17:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cho Chos Cafe, Dalhousie",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant, Bar & grill",
+    "pincode": "192301",
+    "phone_number": "+91 97362 85999",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Cho Cho's Cafe, Mall Road, Garam Sadak, near Hilldaar Hotel, Dalhousie, Dalhauise, Himachal Pradesh 176304",
+    "area": "Moti Tiba",
+    "latitude": 32.534826599999995,
+    "longitude": 75.97484039999999,
+    "place_id": "ChIJk6ASGnKRHDkRWUxxozqF28w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6ASGnKRHDkRWUxxozqF28w",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:50"
+  },
+  {
+    "business_name": "The HYPE Restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192301",
+    "phone_number": "+91 77105 01111",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Railway Mod, Dhar Rd, Udhampur, Jammu and Kashmir 182101",
+    "area": "Karan Nagar",
+    "latitude": 32.9212416,
+    "longitude": 75.13775679999999,
+    "place_id": "ChIJ07pkBsfTHTkRf6nxPVgjVlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07pkBsfTHTkRf6nxPVgjVlo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:50"
+  }
+]

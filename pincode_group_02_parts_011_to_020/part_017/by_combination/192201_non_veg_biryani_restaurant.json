@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OnT Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192201",
+    "phone_number": "+91 96973 75173",
+    "website": "https://d-ontrestaurant.dotpe.in/",
+    "rating": 4.4,
+    "reviews_count": 215,
+    "address": "OnT Restaurant, NH244, Hangalgund, Kokernag, Jammu and Kashmir 192202",
+    "area": "192201",
+    "latitude": 33.5981169,
+    "longitude": 75.282382,
+    "place_id": "ChIJ5ScRdO31HTkRcMxmeUKEyv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ScRdO31HTkRcMxmeUKEyv4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:41"
+  },
+  {
+    "business_name": "Zaika House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Asian restaurant",
+    "all_categories": "Asian restaurant, Restaurant",
+    "pincode": "192201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Azadpora, Anchidora, Anantnag, Jammu and Kashmir 192101",
+    "area": "Azadpora, Anchidora",
+    "latitude": 33.7417361,
+    "longitude": 75.16256179999999,
+    "place_id": "ChIJS_0E_nkP4jgRRMW7YVWhUV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_0E_nkP4jgRRMW7YVWhUV0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:41"
+  }
+]

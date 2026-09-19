@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SM Gallery Panzgam",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "192305",
+    "phone_number": "+91 99060 86302",
+    "website": "http://www.smgallery.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Panzgam, Jammu and Kashmir 192301",
+    "area": "192305",
+    "latitude": 33.844602,
+    "longitude": 75.0269995,
+    "place_id": "ChIJq6x5Uacd4jgROQkKcQvO0SA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6x5Uacd4jgROQkKcQvO0SA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:30:29"
+  },
+  {
+    "business_name": "SHREERAM CYBER CAFE & GAME ZONE",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Video game store",
+    "pincode": "192305",
+    "phone_number": "+91 92709 27038",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No 3, Parvati Smruti Apartment, near Panchmukhi Hanuman Temple, opp. New Vinay Kirana Store, Vinay Nagar, Nashik, Maharashtra 422006",
+    "area": "Vinay Nagar",
+    "latitude": 19.980745199999998,
+    "longitude": 73.7916102,
+    "place_id": "ChIJoR3wYiPr3TsR3e_qhhVk42Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoR3wYiPr3TsR3e_qhhVk42Y",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:30:30"
+  }
+]

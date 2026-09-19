@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Buraaq Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "192306",
+    "phone_number": "+91 99066 69189",
+    "website": "https://www.buraaqcabs.com/",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Rajbagh, Srinagar, Jammu and Kashmir 190008",
+    "area": "Rajbagh",
+    "latitude": 34.0661987,
+    "longitude": 74.8287807,
+    "place_id": "ChIJYyvjWDWP4TgRO96AgmbLbgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyvjWDWP4TgRO96AgmbLbgU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:37"
+  },
+  {
+    "business_name": "Prime Adventure Tour",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Bus tour agency, Car leasing service, Car rental agency, Chauffeur service, Sightseeing Tour Operator, Tour operator, Tourist attraction, Travel agency",
+    "pincode": "192306",
+    "phone_number": "+91 97723 36888",
+    "website": "https://www.primeadventuretours.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Club Mahindra, Amer Rd, Kagdiwara, Brahampuri, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Kagdiwara, Brahampuri",
+    "latitude": 26.9440656,
+    "longitude": 75.8389724,
+    "place_id": "ChIJHeWpUwe0bTkRgZfzgvR-NGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHeWpUwe0bTkRgZfzgvR-NGw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:39"
+  }
+]

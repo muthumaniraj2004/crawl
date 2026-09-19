@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mata Vaishno dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192303",
+    "phone_number": "+91 95967 00905",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Dehri ralyote Manjakote, Jammu and Kashmir 185131",
+    "area": "192303",
+    "latitude": 33.535021,
+    "longitude": 74.2405124,
+    "place_id": "ChIJYRRWJe7V4TgRlp-Th629zYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRRWJe7V4TgRlp-Th629zYI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:09"
+  },
+  {
+    "business_name": "PIR PANJAL RESTAURANT AND CAFE",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192303",
+    "phone_number": "+91 96825 98233",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near Bdo office, Surankot, Jammu and Kashmir 185121",
+    "area": "192303",
+    "latitude": 33.6430119,
+    "longitude": 74.2601262,
+    "place_id": "ChIJDWcCehbT4TgR2QTsi2HGWsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWcCehbT4TgR2QTsi2HGWsc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "192305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R272+H92, Litter, 192305",
+    "area": "192305",
+    "latitude": 33.813893799999995,
+    "longitude": 75.00090279999999,
+    "place_id": "ChIJ06dLi3sd4jgRmIH_vz6RnbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06dLi3sd4jgRmIH_vz6RnbE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:29:36"
+  },
+  {
+    "business_name": "Zargar footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "192305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R272+GG7, Litter, 192305",
+    "area": "192305",
+    "latitude": 33.8137962,
+    "longitude": 75.0013085,
+    "place_id": "ChIJDWf5Q10d4jgRa2uagaeN-tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWf5Q10d4jgRa2uagaeN-tw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:29:36"
+  }
+]

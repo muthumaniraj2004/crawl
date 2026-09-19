@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ms Bodha General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192125",
+    "phone_number": "+91 94195 03940",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "10, Bodha Building, Sadar Bazar Mattan Rd, Anantnag, Jammu and Kashmir 192125",
+    "area": "192125",
+    "latitude": 33.7610004,
+    "longitude": 75.2099593,
+    "place_id": "ChIJ6V2frEAP4jgRqRiHzroDLKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6V2frEAP4jgRqRiHzroDLKE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:02:23"
+  },
+  {
+    "business_name": "SAMEER GENERAL STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192125",
+    "phone_number": "+91 91039 41356",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "90, KP Rd, Mattan, Anantnag, Jammu and Kashmir 192125",
+    "area": "192125",
+    "latitude": 33.7592936,
+    "longitude": 75.2101701,
+    "place_id": "ChIJAaXJ21sP4jgRt-cVeryhpZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaXJ21sP4jgRt-cVeryhpZY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:02:23"
+  }
+]

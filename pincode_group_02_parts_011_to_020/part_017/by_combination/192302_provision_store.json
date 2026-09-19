@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arabic Mart Wholesale provisional store",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "192302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "RVJ6+JMM, Bilowoder Gund, Jammu and Kashmir 193306",
+    "area": "192302",
+    "latitude": 33.8315905,
+    "longitude": 74.8616801,
+    "place_id": "ChIJGWPQw2Lx4TgRCqBaXTgg2vE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWPQw2Lx4TgRCqBaXTgg2vE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:18"
+  },
+  {
+    "business_name": "Sofi & sons",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "192302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "WW8R+XQR, Ratnipora, 192304",
+    "area": "192302",
+    "latitude": 33.9174986,
+    "longitude": 74.94189589999999,
+    "place_id": "ChIJw6YMLAj14TgRbqpzJnGWD_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6YMLAj14TgRbqpzJnGWD_o",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:20"
+  }
+]

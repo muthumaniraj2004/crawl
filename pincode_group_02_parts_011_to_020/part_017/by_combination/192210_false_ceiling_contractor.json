@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mac Enterprises",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Ceiling supplier",
+    "all_categories": "Ceiling supplier",
+    "pincode": "192210",
+    "phone_number": "+91 98407 90272",
+    "website": "https://www.macenterprises.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "B 3, N Block, SIDCO Industrial Estate, MMDA Colony, Arumbakkam, Chennai, Tamil Nadu 600106",
+    "area": "N Block, SIDCO Industrial Estate, MMDA Colony, Arumbakkam",
+    "latitude": 13.0639598,
+    "longitude": 80.2147912,
+    "place_id": "ChIJF6YsBZRmUjoRxvkC5LeWb0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6YsBZRmUjoRxvkC5LeWb0I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:11:43"
+  },
+  {
+    "business_name": "Gresham’s Drywall",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Dry wall contractor",
+    "all_categories": "Dry wall contractor, Service establishment, Remodeler",
+    "pincode": "192210",
+    "phone_number": "N/A",
+    "website": "http://www.greshamsdrywall.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gresham’s Drywall, 192210, India",
+    "area": "192210",
+    "latitude": 40.002497999999996,
+    "longitude": -75.1180146,
+    "place_id": "ChIJufJJFmC3xokRgjMHs09Zt-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJufJJFmC3xokRgjMHs09Zt-A",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:11:44"
+  }
+]

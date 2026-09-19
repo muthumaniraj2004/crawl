@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azad Hind Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Breakfast restaurant, Chinese restaurant, Dhaba, South Indian restaurant",
+    "pincode": "192304",
+    "phone_number": "+91 83369 05886",
+    "website": "http://azadhinddhaba.com/",
+    "rating": 4.2,
+    "reviews_count": 7341,
+    "address": "Gopalpur, P.S. Gurap, P.O. Majinan NH-2, near BPCL Pump, Gurap, West Bengal 712303",
+    "area": "192304",
+    "latitude": 23.0019363,
+    "longitude": 88.14647289999999,
+    "place_id": "ChIJ94FRKd1f-DkR7aTtLLtfNf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94FRKd1f-DkR7aTtLLtfNf8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:48"
+  },
+  {
+    "business_name": "Highway 130 dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "192304",
+    "phone_number": "+91 93154 64997",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "gol Chakkar, 130 meter road, Zeta II, Makora, Greater Noida, Uttar Pradesh 201310",
+    "area": "Zeta II",
+    "latitude": 28.5026706,
+    "longitude": 77.5355646,
+    "place_id": "ChIJLxq-SMzrDDkROjNmyG4k5L0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxq-SMzrDDkROjNmyG4k5L0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:50"
+  }
+]

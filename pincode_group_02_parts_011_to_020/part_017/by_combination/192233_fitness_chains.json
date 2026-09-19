@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Rocks Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "192233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "JVMX+W78, Nihama, 192233",
+    "area": "192233",
+    "latitude": 33.6347863,
+    "longitude": 74.898202,
+    "place_id": "ChIJW1pAm_H_4TgRTLc7OlAtkTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1pAm_H_4TgRTLc7OlAtkTg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:30"
+  },
+  {
+    "business_name": "Armco Fitness Hub Chimmer",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "192233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Aadibal 43, Chimmer, Jammu and Kashmir 192233",
+    "area": "Aadibal 43",
+    "latitude": 33.5654598,
+    "longitude": 74.98664889999999,
+    "place_id": "ChIJz2-SpEX_HTkR0E6AUI7jUo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2-SpEX_HTkR0E6AUI7jUo8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:30"
+  }
+]

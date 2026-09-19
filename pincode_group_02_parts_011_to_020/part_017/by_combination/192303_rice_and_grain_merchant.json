@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishita Food Products",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "192303",
+    "phone_number": "+91 97971 76707",
+    "website": "http://www.ishitafoods.com/",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "Birpur Industrial Complex,, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "192303",
+    "latitude": 32.6457674,
+    "longitude": 74.8950776,
+    "place_id": "ChIJCS2302CcHjkR8X2JmJLjzp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCS2302CcHjkR8X2JmJLjzp0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:02"
+  },
+  {
+    "business_name": "Organic Grain Merchant",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "192303",
+    "phone_number": "+91 84002 77437",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 361,
+    "address": "Anjani Mandir Rd, Pitambra Nagar, Jhansi, Uttar Pradesh 284002",
+    "area": "Pitambra Nagar",
+    "latitude": 25.4711848,
+    "longitude": 78.57927889999999,
+    "place_id": "ChIJkTXQC2Z3dzkRxNfQFz316ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTXQC2Z3dzkRxNfQFz316ks",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:05"
+  }
+]

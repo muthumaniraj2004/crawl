@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Monday Marketing Company",
+    "search_category": "SEO Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Advertising agency, Service establishment, Website designer",
+    "pincode": "192121",
+    "phone_number": "+91 96194 72727",
+    "website": "https://mondaymarketing.company/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Monday Marketing Company, 192121, India",
+    "area": "192121",
+    "latitude": 19.1102405,
+    "longitude": 72.9392855,
+    "place_id": "ChIJy6JmyXG5XwARXttaGwbTTMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6JmyXG5XwARXttaGwbTTMU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 05:57:02"
+  },
+  {
+    "business_name": "SEO4Trends - Freelance SEO Services provider in india",
+    "search_category": "SEO Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment",
+    "pincode": "192121",
+    "phone_number": "+91 84462 22512",
+    "website": "https://seo4trends.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SEO4Trends - Freelance SEO Services provider in india, 192121, India",
+    "area": "192121",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ04veSd8NjCMRklyTuW6vUiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04veSd8NjCMRklyTuW6vUiE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 05:57:02"
+  }
+]

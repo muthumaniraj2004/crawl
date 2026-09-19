@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankur auto king",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto machine shop, Auto spring shop, Car battery store, Crane service, RV repair shop",
+    "pincode": "192201",
+    "phone_number": "+91 88490 02125",
+    "website": "https://www.mobil.co.in/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Ankur autoking, Dahod Rd, Godhra, Vavadi Bujarg Part, Gujarat 389001",
+    "area": "192201",
+    "latitude": 22.7844634,
+    "longitude": 73.6713232,
+    "place_id": "ChIJvW0Eq9ADYTkR_sVBC1aSWdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvW0Eq9ADYTkR_sVBC1aSWdM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:14"
+  },
+  {
+    "business_name": "Towing service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "192201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q355+4F7, NH 19, Pilkhar, Uttar Pradesh 206003",
+    "area": "192201",
+    "latitude": 26.757791899999997,
+    "longitude": 79.0586616,
+    "place_id": "ChIJn9QgY2XhdTkRMxh5p4GGyDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9QgY2XhdTkRMxh5p4GGyDE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:14"
+  }
+]

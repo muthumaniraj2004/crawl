@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Residences",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "192303",
+    "phone_number": "+91 98990 55893",
+    "website": "http://www.luxuryresidences.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd Floor, Suncity Success Tower, Unit No 226, 227 & 228, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122018",
+    "area": "Sector 65",
+    "latitude": 28.408820199999997,
+    "longitude": 77.07061519999999,
+    "place_id": "ChIJ07ktlaUjDTkRSW9zzscNgso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07ktlaUjDTkRSW9zzscNgso",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:22"
+  },
+  {
+    "business_name": "HomeSharp",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "192303",
+    "phone_number": "+91 96068 99667",
+    "website": "https://homesharp.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rustomjee Central Park, Andheri - Kurla Rd, Chakala, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Chakala, Andheri East",
+    "latitude": 19.1144692,
+    "longitude": 72.8607609,
+    "place_id": "ChIJn1oQ3qJho4IRCP0O3j14nJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1oQ3qJho4IRCP0O3j14nJM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:22"
+  }
+]

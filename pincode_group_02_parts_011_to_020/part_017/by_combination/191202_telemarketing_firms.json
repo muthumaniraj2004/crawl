@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alfa Agencies",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "191202",
+    "phone_number": "+91 194 247 0712",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Municipal Road, Karan Nagar Rd, Shaheed Gunj, Srinagar, Jammu and Kashmir 190010",
+    "area": "Shaheed Gunj",
+    "latitude": 34.0788459,
+    "longitude": 74.7998301,
+    "place_id": "ChIJQbKKlfOP4TgRwnVOddzfeeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbKKlfOP4TgRwnVOddzfeeg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 05:53:23"
+  },
+  {
+    "business_name": "Sofi Sales Agency",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "191202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2VMQ+P86, Jammu and Kashmir 191101",
+    "area": "191202",
+    "latitude": 34.0342992,
+    "longitude": 74.888277,
+    "place_id": "ChIJO5SVrDmJ4TgRepm_bBNsLW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5SVrDmJ4TgRepm_bBNsLW0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 05:53:23"
+  }
+]

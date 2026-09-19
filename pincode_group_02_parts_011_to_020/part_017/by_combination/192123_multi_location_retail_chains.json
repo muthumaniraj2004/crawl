@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukthar's Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "192123",
+    "phone_number": "+91 95961 95269",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "W4M5+F6G, Tral - Arigam, Road, Shariefabad, Tral, Jammu and Kashmir 192123",
+    "area": "Shariefabad",
+    "latitude": 33.9326763,
+    "longitude": 75.10670139999999,
+    "place_id": "ChIJ3XheE58Z4jgRAjKl_wz5S2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XheE58Z4jgRAjKl_wz5S2k",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:00:38"
+  },
+  {
+    "business_name": "KH MART",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "192123",
+    "phone_number": "+91 99064 12208",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "near Jio Tower, Buchoo, Tral, Jammu and Kashmir 192123",
+    "area": "192123",
+    "latitude": 33.887082899999996,
+    "longitude": 75.08791029999999,
+    "place_id": "ChIJOYLmQc0Z4jgRtgoluh1QGi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYLmQc0Z4jgRtgoluh1QGi0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:00:38"
+  }
+]

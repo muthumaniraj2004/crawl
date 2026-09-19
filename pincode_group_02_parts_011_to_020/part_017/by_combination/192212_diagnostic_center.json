@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ace diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "192212",
+    "phone_number": "+91 70060 13062",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Nagbal banihal, near forrest deparment, Banihal, Jammu and Kashmir 182146",
+    "area": "192212",
+    "latitude": 33.437563499999996,
+    "longitude": 75.1951921,
+    "place_id": "ChIJw2ypLKfxHTkRf_YAONtsumw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2ypLKfxHTkRf_YAONtsumw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:14:42"
+  },
+  {
+    "business_name": "Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Cardiologist",
+    "all_categories": "Cardiologist",
+    "pincode": "192212",
+    "phone_number": "+91 94191 37537",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "460 A, Apsara Rd, opposite Boys HS school, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.6971857,
+    "longitude": 74.85806579999999,
+    "place_id": "ChIJGYRjn6CFHjkRIrEyXplFjcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYRjn6CFHjkRIrEyXplFjcs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:14:43"
+  }
+]

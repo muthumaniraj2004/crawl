@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty & Health Care Corporation",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Beauty Parlour, Stores and shopping",
+    "pincode": "192129",
+    "phone_number": "+91 80 4898 4602",
+    "website": "http://www.bhcc.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Deepali Chowk, 51, Sharda Niketan, near Saraswati Vihar, Block A, Pitampura, Delhi, 110034",
+    "area": "Block A, Pitampura",
+    "latitude": 28.698099,
+    "longitude": 77.1198969,
+    "place_id": "ChIJDd6wneYDDTkRNMrlXlX7CXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDd6wneYDDTkRNMrlXlX7CXQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:06:47"
+  },
+  {
+    "business_name": "Spa Traders",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "192129",
+    "phone_number": "+91 99892 58977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "207/a, Rebbena, Telangana 504292",
+    "area": "192129",
+    "latitude": 19.2570254,
+    "longitude": 79.4188587,
+    "place_id": "ChIJKwLHkHSrMjoRg_z7BNt1Nvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwLHkHSrMjoRg_z7BNt1Nvc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:06:47"
+  }
+]

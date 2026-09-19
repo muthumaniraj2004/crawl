@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swagat Inn Rooftop Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "192304",
+    "phone_number": "+91 79914 24281",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 57,
+    "address": "3rd floor, Shanti Plaza, near United Church, ESI Medical Colony, Chaudwar, Charibatia, Odisha 754028",
+    "area": "ESI Medical Colony",
+    "latitude": 20.541736,
+    "longitude": 85.910528,
+    "place_id": "ChIJkzsTB-ITGToR_33UhQX77zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzsTB-ITGToR_33UhQX77zs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:49"
+  },
+  {
+    "business_name": "Jassi De Parathe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Family restaurant, North Indian restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "192304",
+    "phone_number": "+91 99250 02706",
+    "website": "https://www.jassideparathe.com/",
+    "rating": 4.4,
+    "reviews_count": 11071,
+    "address": "107 & 108, Safal Pegasus, 106, 100 Feet Anand Nagar Rd, Chinar Bungalows, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+    "area": "Chinar Bungalows, Prahlad Nagar",
+    "latitude": 23.0123358,
+    "longitude": 72.51095029999999,
+    "place_id": "ChIJ0xLMVyibXjkRRVANQWi2jzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xLMVyibXjkRRVANQWi2jzo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:49"
+  }
+]

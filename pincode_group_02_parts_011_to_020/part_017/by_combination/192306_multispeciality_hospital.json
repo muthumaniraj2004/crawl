@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "North End Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "192306",
+    "phone_number": "+91 88995 60554",
+    "website": "http://northendhospital.com/",
+    "rating": 4.1,
+    "reviews_count": 130,
+    "address": "Taper Wari Pora, Jammu and Kashmir 193121",
+    "area": "192306",
+    "latitude": 34.2023043,
+    "longitude": 74.5111586,
+    "place_id": "ChIJua5upwSh4TgRHnMEO5_GITk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJua5upwSh4TgRHnMEO5_GITk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:22"
+  },
+  {
+    "business_name": "VALLEY SUPER SPECIALITY HEALTH CARE",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "192306",
+    "phone_number": "+91 70062 68567",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "National Highway, Kanispora, Jammu and Kashmir 193103",
+    "area": "192306",
+    "latitude": 34.217909,
+    "longitude": 74.399394,
+    "place_id": "ChIJ06_nK0EH4TgR8kRgJCqBGXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06_nK0EH4TgR8kRgJCqBGXY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:23"
+  }
+]

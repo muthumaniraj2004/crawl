@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R J departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "192125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Hardutooru, Achabal, Jammu and Kashmir 192201",
+    "area": "192125",
+    "latitude": 33.7250899,
+    "longitude": 75.2563658,
+    "place_id": "ChIJtSUWzsAN4jgR9-iE85caG2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSUWzsAN4jgR9-iE85caG2o",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:02:23"
+  },
+  {
+    "business_name": "Cash N Carry Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192125",
+    "phone_number": "+91 70068 31452",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Soyan wandevalgam, Jammu and Kashmir 192202",
+    "area": "192125",
+    "latitude": 33.5715668,
+    "longitude": 75.3323934,
+    "place_id": "ChIJXVbATtX1HTkR6Mgf_2j5RxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVbATtX1HTkR6Mgf_2j5RxQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:02:25"
+  }
+]

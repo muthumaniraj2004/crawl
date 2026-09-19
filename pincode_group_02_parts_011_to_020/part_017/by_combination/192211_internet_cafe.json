@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Net Nook Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "192211",
+    "phone_number": "+91 95966 79090",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Qrt No 233, Rehari Colony, Jammu, Jammu and Kashmir 180005",
+    "area": "Rehari Colony",
+    "latitude": 32.744243499999996,
+    "longitude": 74.8524066,
+    "place_id": "ChIJ9XH6oIuFHjkRIZ7kNCUinvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XH6oIuFHjkRIZ7kNCUinvI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:13:48"
+  },
+  {
+    "business_name": "CSC MEHMOODABAD",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "192211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Mehmood Abad, Jammu and Kashmir 192211",
+    "area": "192211",
+    "latitude": 33.583437499999995,
+    "longitude": 75.2044375,
+    "place_id": "ChIJUyaqwVb3HTkR_fY52F1a70M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyaqwVb3HTkR_fY52F1a70M",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:13:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super feed shop (SFS)",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "192304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Filling station, Near, Samboora Rd, near Filling station, Samboora, Pampore, Jammu and Kashmir 192121",
+    "area": "192304",
+    "latitude": 33.9729396,
+    "longitude": 74.9192462,
+    "place_id": "ChIJ-Qxi59uL4TgRCHaskYtniAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Qxi59uL4TgRCHaskYtniAo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:44"
+  },
+  {
+    "business_name": "Dream Pets and Aquatics",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "192304",
+    "phone_number": "+91 63606 04246",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "1/14, ground floor, Qamri complex, Rangikatte, Kargedde, Bhatkal, Karnataka 581320",
+    "area": "Rangikatte, Kargedde",
+    "latitude": 13.9994933,
+    "longitude": 74.5447026,
+    "place_id": "ChIJK5KBmthDvDsRo8O4-YdFtWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5KBmthDvDsRo8O4-YdFtWc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:45"
+  }
+]

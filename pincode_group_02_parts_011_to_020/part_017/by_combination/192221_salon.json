@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Beauty Lounge",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "192221",
+    "phone_number": "+91 97978 42428",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Devsar, Jammu and Kashmir 192231",
+    "area": "192221",
+    "latitude": 33.6347282,
+    "longitude": 75.0769311,
+    "place_id": "ChIJZdQvrP8H4jgR5fAx6YX7siU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdQvrP8H4jgR5fAx6YX7siU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:46"
+  },
+  {
+    "business_name": "SMART LOOK",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "192221",
+    "phone_number": "+91 60068 60051",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "2 Chowgam, Road, near Bonigam, Jammu and Kashmir 192221",
+    "area": "192221",
+    "latitude": 33.616892,
+    "longitude": 75.1160812,
+    "place_id": "ChIJt7t-Fd4H4jgRd224Byj7z_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7t-Fd4H4jgRd224Byj7z_I",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:49"
+  }
+]

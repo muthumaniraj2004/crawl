@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star medicate",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "192303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MXP4+M74, Shopian, Kachohalan, Jammu and Kashmir 192303",
+    "area": "192303",
+    "latitude": 33.6866299,
+    "longitude": 74.9557183,
+    "place_id": "ChIJvcqIjTz54TgRchMuRmQmJ7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcqIjTz54TgRchMuRmQmJ7w",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:54"
+  },
+  {
+    "business_name": "Movewell Physiotherapy Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "192303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mohanpora, Pakharpora, Jammu and Kashmir 191112",
+    "area": "Mohanpora",
+    "latitude": 33.814982799999996,
+    "longitude": 74.7634137,
+    "place_id": "ChIJfXO621Xv4TgRXJfH-vQinPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXO621Xv4TgRXJfH-vQinPQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:26:54"
+  }
+]

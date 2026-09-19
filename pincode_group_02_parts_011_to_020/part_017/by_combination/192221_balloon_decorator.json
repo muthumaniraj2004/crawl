@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Party Cool",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Balloon store, Children's party buffet, Children's party service, Party equipment rental service, Party store",
+    "pincode": "192221",
+    "phone_number": "+91 80 6242 9554",
+    "website": "https://partycool.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ground Floor, Main Market, H-2/A, Krishna Market, Block H, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Krishna Market, Block H, Kalkaji",
+    "latitude": 28.540689699999998,
+    "longitude": 77.2568246,
+    "place_id": "ChIJDZrxu7rjDDkRhkGSZlQbhSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZrxu7rjDDkRhkGSZlQbhSQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:55"
+  },
+  {
+    "business_name": "My Balloons My Party",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store, Party store, Event management company, Event planner",
+    "pincode": "192221",
+    "phone_number": "+91 82962 62642",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 973/708, first floor, New Thippasandra Main Rd, opposite to fabrio fashion, Seethappa Colony, HAL 3rd Stage, New Thippasandra, Bengaluru, Karnataka 560075",
+    "area": "Seethappa Colony, HAL 3rd Stage, New Thippasandra",
+    "latitude": 12.972278999999999,
+    "longitude": 77.6530714,
+    "place_id": "ChIJG6x4aIQXrjsRnakL6JchOFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6x4aIQXrjsRnakL6JchOFY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:56"
+  }
+]

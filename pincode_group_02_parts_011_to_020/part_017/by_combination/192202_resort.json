@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Woodstock",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Resort hotel, Ski resort",
+    "pincode": "192202",
+    "phone_number": "+91 1936 243 259",
+    "website": "https://hotelwoodstock.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Pahalgam Bazaar, Kashmir, Jammu and Kashmir 192126",
+    "area": "Chandanwari",
+    "latitude": 34.0157989,
+    "longitude": 75.3178829,
+    "place_id": "ChIJQzUM2KE_4jgRlcFPyyxZ-Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzUM2KE_4jgRlcFPyyxZ-Dw",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:14"
+  },
+  {
+    "business_name": "KAVYARD RESORT(A HOME STAY)",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "192202",
+    "phone_number": "+91 91030 36841",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Warwan Choidraman warwan, Warwan, Jammu and Kashmir 182205",
+    "area": "Warwan",
+    "latitude": 33.852776999999996,
+    "longitude": 75.5392231,
+    "place_id": "ChIJu23PKExl4jgRfzOlcwRGBig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu23PKExl4jgRfzOlcwRGBig",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:16"
+  }
+]

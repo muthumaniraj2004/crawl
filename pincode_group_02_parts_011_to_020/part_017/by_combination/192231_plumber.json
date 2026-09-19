@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Sanitary inspection",
+    "pincode": "192231",
+    "phone_number": "+91 60063 34434",
+    "website": "https://www.facebook.com/share/1FHDCdmR2t/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sangas, Jammu and Kashmir 192231",
+    "area": "192231",
+    "latitude": 33.6695889,
+    "longitude": 75.01703719999999,
+    "place_id": "ChIJCVkrFugD4jgRaB0oh-SxBwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVkrFugD4jgRaB0oh-SxBwc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:18:22"
+  },
+  {
+    "business_name": "Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "192231",
+    "phone_number": "+91 60059 13611",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Danipora, Ziyarat Rd Chimmer, D H, pora, Jammu and Kashmir 192233",
+    "area": "D H",
+    "latitude": 33.5829101,
+    "longitude": 74.955158,
+    "place_id": "ChIJYyuOHAb_4TgRU8LniMq1rRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyuOHAb_4TgRU8LniMq1rRs",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:18:24"
+  }
+]

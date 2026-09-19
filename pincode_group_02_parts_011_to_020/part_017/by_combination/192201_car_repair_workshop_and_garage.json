@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Repair service",
+    "pincode": "192201",
+    "phone_number": "+91 88550 09688",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 68,
+    "address": "47, Saket Nagar, square, Suyog Nagar, Nagpur, Maharashtra 440015",
+    "area": "BabulKheda, Suyog Nagar",
+    "latitude": 21.1069098,
+    "longitude": 79.0837646,
+    "place_id": "ChIJfUkfg-q_1DsRcQ6yyzvDwHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUkfg-q_1DsRcQ6yyzvDwHE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:06"
+  },
+  {
+    "business_name": "Car mechanic workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "192201",
+    "phone_number": "+91 95983 86487",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Sarai Meer, Shervan, Uttar Pradesh 276305",
+    "area": "192201",
+    "latitude": 26.0255904,
+    "longitude": 82.9170015,
+    "place_id": "ChIJcdXhdLuzkTkRwXSCE1U-FoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdXhdLuzkTkRwXSCE1U-FoE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:08:07"
+  }
+]

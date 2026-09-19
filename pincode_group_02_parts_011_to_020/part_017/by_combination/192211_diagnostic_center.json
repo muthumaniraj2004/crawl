@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madina Diagnostic dooru",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "192211",
+    "phone_number": "+91 70068 16623",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madina diagnostic, opp. court, Doru Shahabad, Anantnag, Jammu and Kashmir 192211",
+    "area": "192211",
+    "latitude": 33.5719461,
+    "longitude": 75.2237399,
+    "place_id": "ChIJf13p-QP3HTkRH1u1s4aOBdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf13p-QP3HTkRH1u1s4aOBdc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:13:02"
+  },
+  {
+    "business_name": "Atulaya Healthcare Dooru Anantnag",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "192211",
+    "phone_number": "+91 60055 19197",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Fire Station, Doru Shahabad, Jammu and Kashmir 192211",
+    "area": "192211",
+    "latitude": 33.572527,
+    "longitude": 75.2231606,
+    "place_id": "ChIJxQ_1oD73HTkRXIli12_baro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQ_1oD73HTkRXIli12_baro",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:13:02"
+  }
+]

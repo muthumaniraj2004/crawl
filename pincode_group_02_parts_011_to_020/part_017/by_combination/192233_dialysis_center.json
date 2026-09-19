@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashmir Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "192233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2PCG+JRJ, Badgam, Jammu and Kashmir 191111",
+    "area": "192233",
+    "latitude": 34.021590499999995,
+    "longitude": 74.72702129999999,
+    "place_id": "ChIJg_xZx1WR4TgRteiA7-eHTFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_xZx1WR4TgRteiA7-eHTFM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:25"
+  },
+  {
+    "business_name": "Nai Basti",
+    "search_category": "Dialysis Center",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "192233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P4PV+3HJ, Nai Basti, Anantnag, Jammu and Kashmir 192101",
+    "area": "Nai Basti",
+    "latitude": 33.7352054,
+    "longitude": 75.1438873,
+    "place_id": "ChIJt8NHlDMF4jgRzuj4ToKaW2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8NHlDMF4jgRzuj4ToKaW2s",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:28"
+  }
+]

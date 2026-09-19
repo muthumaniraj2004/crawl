@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Masroor Vlogs",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "192302",
+    "phone_number": "+91 77808 79426",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1saheen Complexes, Srinagar, Pulwama, Rajpora, Jammu and Kashmir 192302",
+    "area": "Srinagar",
+    "latitude": 33.8040599,
+    "longitude": 74.84046359999999,
+    "place_id": "ChIJtc-z0djx4TgRSByYR7akfAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtc-z0djx4TgRSByYR7akfAI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:58"
+  },
+  {
+    "business_name": "Travel",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "192302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arihal, Jammu and Kashmir 192301",
+    "area": "192302",
+    "latitude": 33.825368499999996,
+    "longitude": 74.9090338,
+    "place_id": "ChIJHcCpvQj34TgRdhHxD-xHVp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcCpvQj34TgRdhHxD-xHVp0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:58"
+  }
+]

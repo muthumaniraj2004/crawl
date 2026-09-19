@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAKEEZA CHICKEN CORNER",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "192126",
+    "phone_number": "+91 70062 48351",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "NH1A, Goriwon, Bijbehara, Jammu and Kashmir 192124",
+    "area": "Goriwon",
+    "latitude": 33.7924529,
+    "longitude": 75.1038896,
+    "place_id": "ChIJaTrExyAb4jgRQwDO0KLJu38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTrExyAb4jgRQwDO0KLJu38",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:04:09"
+  },
+  {
+    "business_name": "Fresh Greens n Reds",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Food manufacturing supply",
+    "pincode": "192126",
+    "phone_number": "+91 63742 42838",
+    "website": "http://www.freshgreensnreds.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2/28, Reddipatti Main Road, opposite to Anna statue, Avvai Nagar, Salem, Tamil Nadu 636302",
+    "area": "Avvai Nagar",
+    "latitude": 11.681725,
+    "longitude": 78.11306929999999,
+    "place_id": "ChIJdSiijhHxqzsRPRln-VL0KCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSiijhHxqzsRPRln-VL0KCA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:04:10"
+  }
+]

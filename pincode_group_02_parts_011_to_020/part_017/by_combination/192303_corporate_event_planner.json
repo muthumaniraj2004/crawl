@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eventique House",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Advertising agency, Entertainment agency, Event management company, Wedding planner, Wedding service",
+    "pincode": "192303",
+    "phone_number": "+91 98469 90222",
+    "website": "http://eventiquehouse.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Room No.4, Confident GEM, Nilampathinjamugal, Kakkanad 682030 Kakkanad, KAKKANAD, Kochi, Keralam 682039",
+    "area": "192303",
+    "latitude": 10.0023862,
+    "longitude": 76.3562668,
+    "place_id": "ChIJ07ThJSoNCDsRziHPKZg2KVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07ThJSoNCDsRziHPKZg2KVg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:04"
+  },
+  {
+    "business_name": "TONY EVENTS & TONY MODELS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner",
+    "pincode": "192303",
+    "phone_number": "+91 94463 77654",
+    "website": "http://tonymodels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "At. Subix Park, opp. St. Raphael's Cathedral, near Prasanna Lakshmi Kalyanamandapam, Thondikulam, Chakkanthara, Palakkad, Keralam 678006",
+    "area": "Thondikulam, Chakkanthara",
+    "latitude": 10.7699979,
+    "longitude": 76.6395326,
+    "place_id": "ChIJWQvBDfxtqDsRjfIyw0HCDlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQvBDfxtqDsRjfIyw0HCDlE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:27:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Butola caterer",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "192202",
+    "phone_number": "+91 89790 90221",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 1, Badripur Rd, near nine palms resort, Sanskar colony, Jogiwala, Defence Colony, Dehradun, Uttarakhand 248005",
+    "area": "Sanskar colony, Jogiwala, Defence Colony",
+    "latitude": 30.2811921,
+    "longitude": 78.0614798,
+    "place_id": "ChIJucl-Eug7CTkR5TE5y0ygyL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucl-Eug7CTkR5TE5y0ygyL8",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:13"
+  },
+  {
+    "business_name": "Panchhi Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner, Wedding service",
+    "pincode": "192202",
+    "phone_number": "+91 81938 93893",
+    "website": "https://www.instagram.com/panchhievents/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "D 4, Rajpur Rd, Chander Lok Colony, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Chander Lok Colony, Hathibarkala Salwala",
+    "latitude": 30.3433705,
+    "longitude": 78.0583834,
+    "place_id": "ChIJVx7EiNYpCTkRAgunjj6wxL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVx7EiNYpCTkRAgunjj6wxL4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:13"
+  }
+]

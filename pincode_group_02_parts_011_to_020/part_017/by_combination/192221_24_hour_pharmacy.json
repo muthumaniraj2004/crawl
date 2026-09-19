@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Net Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "192221",
+    "phone_number": "+91 96228 00271",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "opposite Nescafe, Vidhata Nagar, Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Vidhata Nagar, Bathindi",
+    "latitude": 32.7114907,
+    "longitude": 74.8998587,
+    "place_id": "ChIJ88FqajGDHjkRFTP8iYspDRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88FqajGDHjkRFTP8iYspDRA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:20"
+  },
+  {
+    "business_name": "Maruti chemist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "192221",
+    "phone_number": "+91 191 247 0837",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "shop no.17,18, Shiv market, railway station, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Trikuta Nagar",
+    "latitude": 32.705042899999995,
+    "longitude": 74.8763436,
+    "place_id": "ChIJ_1FJYwqDHjkRJIuCiHwaoMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1FJYwqDHjkRJIuCiHwaoMo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:20"
+  }
+]

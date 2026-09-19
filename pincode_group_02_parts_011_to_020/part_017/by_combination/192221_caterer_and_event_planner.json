@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AK Caterers, Moradabad",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "192221",
+    "phone_number": "+91 93685 98840",
+    "website": "http://akcaterers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opposite masjid, Bazar ganj, Katra puran Jaat, Pat Pat Sarai, Moradabad, Uttar Pradesh 244001",
+    "area": "Bazar ganj, Katra puran Jaat, Pat Pat Sarai",
+    "latitude": 28.839326,
+    "longitude": 78.7716129,
+    "place_id": "ChIJSygEUcH7CjkRKNRBUbi5I-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSygEUcH7CjkRKNRBUbi5I-k",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:55"
+  },
+  {
+    "business_name": "Hemraj Caterer",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "192221",
+    "phone_number": "+91 81939 00593",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dubey Complex, near Sai Hospital, Mansarover Colony, Line Par, Moradabad, Uttar Pradesh 244001",
+    "area": "Mansarover Colony, Line Par",
+    "latitude": 28.8402671,
+    "longitude": 78.75330079999999,
+    "place_id": "ChIJNcIzG8L7CjkRbD6wKrpuYGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcIzG8L7CjkRbD6wKrpuYGg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:55"
+  }
+]

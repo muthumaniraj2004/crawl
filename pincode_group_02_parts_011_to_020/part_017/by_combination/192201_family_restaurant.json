@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eatz Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "192201",
+    "phone_number": "+91 78898 36106",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Doni Pawa, Anantnag, Jammu and Kashmir 192210",
+    "area": "Doni Pawa",
+    "latitude": 33.7170031,
+    "longitude": 75.17351649999999,
+    "place_id": "ChIJIaHAA-QP4jgRLSCjcCdr1VU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaHAA-QP4jgRLSCjcCdr1VU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:45"
+  },
+  {
+    "business_name": "Suhana Aqua Farm",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192201",
+    "phone_number": "+91 97973 13279",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "KP Rd, Akad 47, Pahalgam, Anantnag, Jammu and Kashmir 192129",
+    "area": "Akad 47",
+    "latitude": 33.8164067,
+    "longitude": 75.2511945,
+    "place_id": "ChIJA-AQELUT4jgR5g8OjqZ2mdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-AQELUT4jgR5g8OjqZ2mdM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:07:45"
+  }
+]

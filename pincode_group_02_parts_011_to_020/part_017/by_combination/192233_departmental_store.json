@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheikh Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "192233",
+    "phone_number": "+91 94697 97578",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Partabpora, Shopian, Jammu and Kashmir 192303",
+    "area": "Partabpora",
+    "latitude": 33.717344,
+    "longitude": 74.834176,
+    "place_id": "ChIJCRc-z1364TgRAAAAMMRcnnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRc-z1364TgRAAAAMMRcnnQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:20:57"
+  },
+  {
+    "business_name": "Wagay General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Store",
+    "pincode": "192233",
+    "phone_number": "+91 78896 08741",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Wagay Genral Store, Arshipora, Gano Pora Arash, Jammu and Kashmir 192303",
+    "area": "Arshipora",
+    "latitude": 33.7132966,
+    "longitude": 74.8607614,
+    "place_id": "ChIJjQ4rGgD74TgRL4kVf8UKIP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQ4rGgD74TgRL4kVf8UKIP0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:20:57"
+  }
+]

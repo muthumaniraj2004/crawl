@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NATIONAL COMPUTER TRAINING INSTITUTION",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "192232",
+    "phone_number": "+91 70061 35284",
+    "website": "https://nctijk.co.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ward No1, Lane No 3, NCTI Computer Center, behind Hungry Point, Bari Brahmana, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.6365219,
+    "longitude": 74.9141351,
+    "place_id": "ChIJX3qjV9udHjkRjpVXm36X-bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3qjV9udHjkRjpVXm36X-bQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:20:26"
+  },
+  {
+    "business_name": "CSC HASSANPORA",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "192232",
+    "phone_number": "+91 96224 76008",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "CSC, Hassan Pora Bagh, Jammu and Kashmir 192124",
+    "area": "192232",
+    "latitude": 33.784249599999995,
+    "longitude": 75.0711121,
+    "place_id": "ChIJRWcXjv4b4jgRKDc0rRXEElY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWcXjv4b4jgRKDc0rRXEElY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:20:26"
+  }
+]

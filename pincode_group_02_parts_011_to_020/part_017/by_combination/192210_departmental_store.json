@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaash Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Asian grocery store",
+    "all_categories": "Asian grocery store, Nut store",
+    "pincode": "192210",
+    "phone_number": "+91 88250 62206",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1, DawlatAbad, Qazigund, Jammu and Kashmir 192221",
+    "area": "DawlatAbad",
+    "latitude": 33.621485899999996,
+    "longitude": 75.1414357,
+    "place_id": "ChIJN6XEEAkH4jgRMsRenP1Jr8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6XEEAkH4jgRMsRenP1Jr8g",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:52"
+  },
+  {
+    "business_name": "Goyal Mart - Department store Moradabad",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "192210",
+    "phone_number": "+91 591 297 1674",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "HC 31, Ram Ganga Vihar, Near Sale Tax Office, OP. R.S.D Hospital, Uttar Pradesh 244105",
+    "area": "Ram Ganga Vihar Phase 2",
+    "latitude": 28.873172699999998,
+    "longitude": 78.7537147,
+    "place_id": "ChIJPW1m63j7CjkR8SaQzYyBtDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPW1m63j7CjkR8SaQzYyBtDY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:10:52"
+  }
+]

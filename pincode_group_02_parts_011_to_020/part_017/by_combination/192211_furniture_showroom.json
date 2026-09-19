@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ks Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Bed shop, Bedroom furniture store, Furniture wholesaler, Modular home dealer, Office furniture store, Sofa store",
+    "pincode": "192211",
+    "phone_number": "+91 84859 66986",
+    "website": "http://www.kshomestore.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "National Highway, Akhnoor Road, Muthi, Jammu and Kashmir 181205",
+    "area": "Ganesh Vihar, Muthi",
+    "latitude": 32.7572584,
+    "longitude": 74.8109715,
+    "place_id": "ChIJWfZoz8WFHjkRWvqtSrDBH3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfZoz8WFHjkRWvqtSrDBH3A",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:13:25"
+  },
+  {
+    "business_name": "JK Timber Traders (JK Doors)",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Bed shop, Bedroom furniture store, Furniture maker, Furniture Manufacturer, Furniture wholesaler, Kitchen furniture store, Office furniture store, Sofa store",
+    "pincode": "192211",
+    "phone_number": "+91 77809 08338",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 72,
+    "address": "NH A1, near Shiv Temple, Gangayal, Jammu, Jammu and Kashmir 180010",
+    "area": "Gangayal",
+    "latitude": 32.675533,
+    "longitude": 74.86352699999999,
+    "place_id": "ChIJtXxZQ1ubHjkRFjwUSJRmiwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXxZQ1ubHjkRFjwUSJRmiwo",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:13:27"
+  }
+]

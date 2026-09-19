@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hayaat Book Shop and Note house",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "192233",
+    "phone_number": "+91 70064 19043",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 129,
+    "address": "College Rd, New Colony Batmaloo, Gagren, Shopian, Jammu and Kashmir 192303",
+    "area": "New Colony Batmaloo, Gagren",
+    "latitude": 33.714619299999995,
+    "longitude": 74.8353913,
+    "place_id": "ChIJtdyJhFv64TgRF7IZXgG4WQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdyJhFv64TgRF7IZXgG4WQA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:08"
+  },
+  {
+    "business_name": "Lone Computers",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, 3D printing service",
+    "pincode": "192233",
+    "phone_number": "+91 70067 79318",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dashipora, near Jamia Masjid, Shopian, Jammu and Kashmir 192303",
+    "area": "192233",
+    "latitude": 33.7034704,
+    "longitude": 74.86709429999999,
+    "place_id": "ChIJZbmR-3L74TgR5f84SAZiCXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbmR-3L74TgR5f84SAZiCXI",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bhat Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "192301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Malikpora Crossing, Circular Rd, Pulwama, Jammu and Kashmir 192301",
+    "area": "192301",
+    "latitude": 33.875855099999995,
+    "longitude": 74.9119805,
+    "place_id": "ChIJjfJwFNL14TgR5KTQQ-sIiMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfJwFNL14TgR5KTQQ-sIiMA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:43"
+  },
+  {
+    "business_name": "Wholesale",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "192301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VVCV+JRP, near Hilal Hotal, opposite Quality selection, Chandgam, Pulwama, Jammu and Kashmir 192301",
+    "area": "Chandgam",
+    "latitude": 33.871577099999996,
+    "longitude": 74.89457929999999,
+    "place_id": "ChIJISxay7D14TgR81aNnK5YnuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISxay7D14TgR81aNnK5YnuU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:22:43"
+  }
+]

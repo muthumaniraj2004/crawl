@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal vaishno Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "192302",
+    "phone_number": "+91 70062 37677",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Main Market, near BAKSHI RESTAURANT, Gulmarg, Forest Block, Jammu and Kashmir 193401",
+    "area": "192302",
+    "latitude": 34.053555599999996,
+    "longitude": 74.39868059999999,
+    "place_id": "ChIJE6VeDPKv4TgRLI6aR6JSxZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6VeDPKv4TgRLI6aR6JSxZg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:26"
+  },
+  {
+    "business_name": "Hotel Nazakat",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 53,
+    "address": "192305",
+    "area": "192302",
+    "latitude": 33.8014046,
+    "longitude": 74.9355353,
+    "place_id": "ChIJ33jF8M_34TgRWPD0n7MNVaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33jF8M_34TgRWPD0n7MNVaE",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:28"
+  }
+]

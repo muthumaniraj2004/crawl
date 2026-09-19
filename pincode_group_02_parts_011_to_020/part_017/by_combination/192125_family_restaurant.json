@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Treat House",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "Lazibal Anantnag, KP Rd, Anantnag, Jammu and Kashmir 192101",
+    "area": "Kadi Pora",
+    "latitude": 33.7361498,
+    "longitude": 75.1585249,
+    "place_id": "ChIJKROVVqoP4jgRW4W5aoR3Dcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKROVVqoP4jgRW4W5aoR3Dcg",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:02:36"
+  },
+  {
+    "business_name": "NABADH RESTAURANT AND CAFE",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "192125",
+    "phone_number": "+91 91498 24398",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Mattan, Jammu and Kashmir 192125",
+    "area": "192125",
+    "latitude": 33.7535435,
+    "longitude": 75.2007079,
+    "place_id": "ChIJ-We_OgAP4jgR7-715meY1Rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-We_OgAP4jgR7-715meY1Rc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:02:36"
+  }
+]

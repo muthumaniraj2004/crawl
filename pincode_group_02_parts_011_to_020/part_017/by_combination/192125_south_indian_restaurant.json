@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishnum Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Fast food restaurant, Vegetarian cafe and deli, Vegetarian restaurant",
+    "pincode": "192125",
+    "phone_number": "+91 73873 72929",
+    "website": "https://www.instagram.com/krishnumfoodfactory?igsi=MTgwb29paHg2b3R2NQ==",
+    "rating": 3.8,
+    "reviews_count": 3689,
+    "address": "1247, Wardha Rd, Near Sai Mandir, Sawarkar Nagar, Vivekanand Nagar, Nagpur, Maharashtra 440015",
+    "area": "Near Sai Mandir, Sawarkar Nagar, Vivekanand Nagar",
+    "latitude": 21.113456499999998,
+    "longitude": 79.0705837,
+    "place_id": "ChIJb_lx5Hu_1DsRLTUhuo6sMIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_lx5Hu_1DsRLTUhuo6sMIk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:02:35"
+  },
+  {
+    "business_name": "Sankalp - The Taste of South",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "192125",
+    "phone_number": "+91 96024 43884",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 434,
+    "address": "MTM CITY, 144-145, MTM High Street, near Landmark Hotel, Santosh Colony, Bhilwara, Rajasthan 311001",
+    "area": "Santosh Colony",
+    "latitude": 25.3504102,
+    "longitude": 74.6294968,
+    "place_id": "ChIJV1tFcADDaDkRQhCFedX9ZmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1tFcADDaDkRQhCFedX9ZmU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:02:35"
+  }
+]

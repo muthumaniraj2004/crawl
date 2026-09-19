@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virginia Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "192210",
+    "phone_number": "N/A",
+    "website": "http://www.virginiamalls.in/",
+    "rating": 3.6,
+    "reviews_count": 7749,
+    "address": "Whitefield Main Rd, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Palm Meadows, Whitefield",
+    "latitude": 12.9575403,
+    "longitude": 77.7451366,
+    "place_id": "ChIJE-ItAAoSrjsRkxeoLP1E1jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-ItAAoSrjsRkxeoLP1E1jc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:12:32"
+  },
+  {
+    "business_name": "Nexus Hyderabad Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "192210",
+    "phone_number": "N/A",
+    "website": "https://www.nexusmalls.com/nexus-hyderabad",
+    "rating": 4.4,
+    "reviews_count": 133540,
+    "address": "Kukatpally Housing Board Colony, K P H B Phase 9, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 9, Kukatpally",
+    "latitude": 17.484197899999998,
+    "longitude": 78.3889583,
+    "place_id": "ChIJncDH9p6RyzsRcbwTEbh1MeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncDH9p6RyzsRcbwTEbh1MeA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:12:32"
+  }
+]

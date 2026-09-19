@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Childcare clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "192306",
+    "phone_number": "+91 98702 46658",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 55,
+    "address": "Glenmore residency, Shop No 3, pakhadi, road, Kharegaon, Kalwa, Thane, Maharashtra 400605",
+    "area": "Kharegaon, Kalwa",
+    "latitude": 19.204320799999998,
+    "longitude": 72.9997298,
+    "place_id": "ChIJLXdyfXq_5zsRuDi__ZaCCWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXdyfXq_5zsRuDi__ZaCCWk",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:27"
+  },
+  {
+    "business_name": "Tinyz Kart (diaper shop)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "192306",
+    "phone_number": "+91 70064 14146",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chanpora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Chanpora",
+    "latitude": 34.0380734,
+    "longitude": 74.809293,
+    "place_id": "ChIJv1J9OHSP4TgRhxYL_Syi8YA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1J9OHSP4TgRhxYL_Syi8YA",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:28"
+  }
+]

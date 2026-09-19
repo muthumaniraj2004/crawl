@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "192306",
+    "phone_number": "+91 94191 39615",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Janipur Colony, Janipur, Jammu, Jammu and Kashmir 180007",
+    "area": "Janipur Colony, Janipur",
+    "latitude": 32.7623302,
+    "longitude": 74.84697589999999,
+    "place_id": "ChIJjV4JFjyEHjkR_Zax9nPdOAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjV4JFjyEHjkR_Zax9nPdOAY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:23"
+  },
+  {
+    "business_name": "Srinitha Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "192306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "9F4F+4WR, Kagaznagar, Telangana 504296",
+    "area": "192306",
+    "latitude": 19.3553536,
+    "longitude": 79.4747737,
+    "place_id": "ChIJAd52c6tWLToRB57OmDFs0t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAd52c6tWLToRB57OmDFs0t0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:31:26"
+  }
+]

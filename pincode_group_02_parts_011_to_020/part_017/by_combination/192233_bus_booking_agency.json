@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tajamul Tour And Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "192233",
+    "phone_number": "+91 78894 45134",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KMD Bus Stand, HX6X X7Q, Chimmer, Kulgam, Jammu and Kashmir 192233",
+    "area": "192233",
+    "latitude": 33.5626512,
+    "longitude": 74.9976988,
+    "place_id": "ChIJT8x9SfP_HTkRriR-ERM-Pq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8x9SfP_HTkRriR-ERM-Pq0",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:35"
+  },
+  {
+    "business_name": "BUS STAND(Khari)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "192233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "95M2+G89, Khari, Deogoal, 182145",
+    "area": "192233",
+    "latitude": 33.383793499999996,
+    "longitude": 75.15084569999999,
+    "place_id": "ChIJcwArB7TlHTkRgOMoKzOtpZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwArB7TlHTkRgOMoKzOtpZM",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ecom Express",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "192233",
+    "phone_number": "+91 83768 88888",
+    "website": "https://ecomexpress.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "PR8M+FM5, Tak Mohalla, Shopian, Jammu and Kashmir 192303",
+    "area": "Tak Mohalla",
+    "latitude": 33.7161495,
+    "longitude": 74.834222,
+    "place_id": "ChIJZ1YSr_n74TgRhxsEebGJGeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1YSr_n74TgRhxsEebGJGeQ",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:36"
+  },
+  {
+    "business_name": "Best Car Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Delivery service, Logistics service, Vehicle Shipping Agent",
+    "pincode": "192233",
+    "phone_number": "+91 88285 30010",
+    "website": "https://bestcartransport.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 06, kailash corner building, Plot No 08, near Metro Yards, Taloja Phase 1, Sector 2, Taloja, Panvel, Maharashtra 410208",
+    "area": "Taloja Phase 1, Sector 2, Taloja",
+    "latitude": 19.079875599999998,
+    "longitude": 73.0898931,
+    "place_id": "ChIJF8g5u9fr5zsR8PjULtXIl5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8g5u9fr5zsR8PjULtXIl5A",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:21:36"
+  }
+]

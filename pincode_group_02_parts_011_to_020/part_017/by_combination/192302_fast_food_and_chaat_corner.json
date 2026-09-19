@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hat Trick Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "192302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Mir Colony, Baramulla, NH-1A, Gharri Dupatta, Pattan, Pattan, Jammu and Kashmir 193121",
+    "area": "Khanday Mohalla",
+    "latitude": 34.158356,
+    "longitude": 74.55592899999999,
+    "place_id": "ChIJXfh0j5mh4TgRUS_DRVtwBVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfh0j5mh4TgRUS_DRVtwBVc",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:28"
+  },
+  {
+    "business_name": "192302",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "192302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "192302",
+    "area": "192302",
+    "latitude": 33.802348699999996,
+    "longitude": 74.8857989,
+    "place_id": "ChIJX-HDvh7w4TgR1Y-mVNXAuS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-HDvh7w4TgR1Y-mVNXAuS4",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:24:30"
+  }
+]

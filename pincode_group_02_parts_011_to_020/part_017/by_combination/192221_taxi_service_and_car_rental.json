@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Tour agency",
+    "pincode": "192221",
+    "phone_number": "+91 78419 41151",
+    "website": "https://starcabservices.in/",
+    "rating": 5,
+    "reviews_count": 231,
+    "address": "Damodar aashiyana building, Saibaba Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Saibaba Nagar, Kondhwa",
+    "latitude": 18.468909099999998,
+    "longitude": 73.8801826,
+    "place_id": "ChIJe4RW0BjrwjsR8qOI0l5YrdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4RW0BjrwjsR8qOI0l5YrdU",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:34"
+  },
+  {
+    "business_name": "R.K TAXI SERVICE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "192221",
+    "phone_number": "+91 98158 32555",
+    "website": "https://www.rktaxiservice.com/",
+    "rating": 5,
+    "reviews_count": 100,
+    "address": "11, Sector 43-A, Sector 43, Chandigarh, 160043",
+    "area": "Sector 43-A, Sector 43",
+    "latitude": 30.7210267,
+    "longitude": 76.74809979999999,
+    "place_id": "ChIJV_gqYZztDzkRHMiRnldO5gY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_gqYZztDzkRHMiRnldO5gY",
+    "part_id": "part_017",
+    "crawled_at": "2026-09-19 06:16:35"
+  }
+]
