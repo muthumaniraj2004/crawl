@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virat sports",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports complex",
+    "all_categories": "Sports complex",
+    "pincode": "209306",
+    "phone_number": "+91 79876 29793",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "E 147, front of KDMA, E Block, Barra 8, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "E Block, Barra 8, Barra",
+    "latitude": 26.432366,
+    "longitude": 80.2856904,
+    "place_id": "ChIJQ9uLJkxHnDkR26NgbxT0aCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9uLJkxHnDkR26NgbxT0aCs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:19"
+  },
+  {
+    "business_name": "GDS cricket academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "209306",
+    "phone_number": "+91 95619 61667",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "19/108, New Colony, Swaraj Nagar, Kanpur, Uttar Pradesh 208020",
+    "area": "New Colony, Swaraj Nagar",
+    "latitude": 26.4700231,
+    "longitude": 80.2430497,
+    "place_id": "ChIJ2XtNUAA3nDkR3sLUvAihTss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XtNUAA3nDkR3sLUvAihTss",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bucolic",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothes market, Clothing store, Fashion designer, Haute couture fashion house",
+    "pincode": "209217",
+    "phone_number": "+91 96965 13251",
+    "website": "http://www.bucolic.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7/109 ,C, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Khalasi Line, Swaroop Nagar",
+    "latitude": 26.484718299999997,
+    "longitude": 80.3209456,
+    "place_id": "ChIJ192lZxI5nDkRvTnlRwvd3Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ192lZxI5nDkRvTnlRwvd3Cc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:02:57"
+  },
+  {
+    "business_name": "Vrinda By Aina",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing store",
+    "pincode": "209217",
+    "phone_number": "+91 98071 78301",
+    "website": "https://www.vrindabyaina.in/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "2A/190, Azad Nagar, Nawabganj, Kanpur, Uttar Pradesh 208002",
+    "area": "Azad Nagar, Nawabganj",
+    "latitude": 26.5003331,
+    "longitude": 80.30650399999999,
+    "place_id": "ChIJR9VJZHo5nDkRyG4w5h5PGsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9VJZHo5nDkRyG4w5h5PGsM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:02:58"
+  }
+]

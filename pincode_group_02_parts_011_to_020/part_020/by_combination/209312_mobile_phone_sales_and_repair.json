@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barkaati Mobile Wala (BMW)",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Mobile phone repair shop",
+    "pincode": "209312",
+    "phone_number": "+91 99359 61933",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "4PGX+6J9, Kila Road Mirza Mandi, Damdama, Kalpi, Uttar Pradesh 285204",
+    "area": "Damdama",
+    "latitude": 26.1244651,
+    "longitude": 79.7476784,
+    "place_id": "ChIJga7KeuehnTkRF2wuWLFi2sA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJga7KeuehnTkRF2wuWLFi2sA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:22:57"
+  },
+  {
+    "business_name": "Shiva The Phone Spot",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "209312",
+    "phone_number": "+91 91252 25911",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Ward No 14 Neharu Nagar Bank Of Baroda Akbarpur Kanpur Dehat Kanpur, Uttar Pradesh 209101",
+    "area": "209312",
+    "latitude": 26.3802393,
+    "longitude": 79.9546415,
+    "place_id": "ChIJ-5Gumb63nTkR-eiz0cajlWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5Gumb63nTkR-eiz0cajlWU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:00"
+  }
+]

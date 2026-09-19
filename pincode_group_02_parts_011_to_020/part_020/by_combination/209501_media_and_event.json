@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "209501",
+    "phone_number": "+91 83188 72426",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tirwa colony, near home gard office, Farrukhabad, Patti Jeem, Uttar Pradesh 209601",
+    "area": "209501",
+    "latitude": 27.3644139,
+    "longitude": 79.6614376,
+    "place_id": "ChIJIz5lzIc3njkRPzbsmQFIFdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIz5lzIc3njkRPzbsmQFIFdc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:27:53"
+  },
+  {
+    "business_name": "Goinka Telecom",
+    "search_category": "Media and Event",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Cell phone accessory store, Cell phone store",
+    "pincode": "209501",
+    "phone_number": "+91 98385 83084",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nehru Rd, Ghumna Bazar, Manhari, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Ghumna Bazar, Manhari",
+    "latitude": 27.3894661,
+    "longitude": 79.5827162,
+    "place_id": "ChIJPzyXijUwnjkRatBFMLkG2yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzyXijUwnjkRatBFMLkG2yo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:27:54"
+  }
+]

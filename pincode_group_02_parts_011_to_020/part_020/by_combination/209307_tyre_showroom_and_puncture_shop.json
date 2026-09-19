@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "209307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G3J3+XXC, Maitha, Uttar Pradesh 209307",
+    "area": "209307",
+    "latitude": 26.5324362,
+    "longitude": 80.0548776,
+    "place_id": "ChIJvZiVagDLnTkRbfx_3Os3iMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZiVagDLnTkRbfx_3Os3iMI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:28"
+  },
+  {
+    "business_name": "Pardeep Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "209307",
+    "phone_number": "+91 72754 64963",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Shop No 10, 122/1- B, Gupta Market, Sarojini Nagar, Kabari Market, Kanpur, Uttar Pradesh 208012",
+    "area": "Gupta Market, Sarojini Nagar, Kabari Market",
+    "latitude": 26.4644829,
+    "longitude": 80.309362,
+    "place_id": "ChIJo5WDZohHnDkRZjd9HfdmZBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5WDZohHnDkRZjd9HfdmZBo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:29"
+  }
+]

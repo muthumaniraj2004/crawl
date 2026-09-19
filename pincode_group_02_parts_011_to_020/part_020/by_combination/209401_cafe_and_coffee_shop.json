@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good morning cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "209401",
+    "phone_number": "+91 81156 57357",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 47,
+    "address": "Near Jain Hospital, Ramadevi, Krishna Nagar, Kanpur, Uttar Pradesh 208007",
+    "area": "Near Jain Hospital, Ramadevi, Krishna Nagar",
+    "latitude": 26.411672,
+    "longitude": 80.38445709999999,
+    "place_id": "ChIJGR0XVQBBnDkRgQA2vTpLPgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGR0XVQBBnDkRgQA2vTpLPgo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:36"
+  },
+  {
+    "business_name": "Tealogy cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "209401",
+    "phone_number": "+91 70071 13943",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 47,
+    "address": "D 15,16, UPSIDA Industrial Area, Chakeri Ward, Rooma, Kanpur, Uttar Pradesh 209402",
+    "area": "Chakeri Ward",
+    "latitude": 26.3685184,
+    "longitude": 80.4267527,
+    "place_id": "ChIJDWdOci5DnDkRQ0HxCelmC_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWdOci5DnDkRQ0HxCelmC_Y",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:36"
+  }
+]

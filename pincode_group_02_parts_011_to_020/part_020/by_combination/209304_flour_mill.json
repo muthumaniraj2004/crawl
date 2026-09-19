@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APB ENTERPRIZES",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "209304",
+    "phone_number": "+91 97124 06740",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Bhisar, Kisan Nagar, Uttar Pradesh 209304",
+    "area": "Near",
+    "latitude": 26.4266701,
+    "longitude": 80.1485828,
+    "place_id": "ChIJVUk35thLnDkRRvwryYiv3QQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUk35thLnDkRRvwryYiv3QQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:31"
+  },
+  {
+    "business_name": "Gupta Atta Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "209304",
+    "phone_number": "+91 99194 16472",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13, Bhimsen Bypass Rd, Panki Padaw, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Panki Padaw, Panki",
+    "latitude": 26.460043199999998,
+    "longitude": 80.2230989,
+    "place_id": "ChIJRbWNz9dJnDkR9RI_yR1uzvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbWNz9dJnDkR9RI_yR1uzvQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudhir Auto Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "209307",
+    "phone_number": "+91 98386 96930",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Near Pepleshwar Mandir, Nehru Nagar, Ram Bagh, Kanpur, Uttar Pradesh 208012",
+    "area": "Near Pepleshwar Mandir, Nehru Nagar, Ram Bagh",
+    "latitude": 26.4725953,
+    "longitude": 80.3260949,
+    "place_id": "ChIJ5WAwQAA5nDkRRk0mk8cds8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WAwQAA5nDkRRk0mk8cds8w",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:25"
+  },
+  {
+    "business_name": "Chotu motors and car mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "209307",
+    "phone_number": "+91 73888 33182",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024",
+    "area": "Lakhanpur, Khyora",
+    "latitude": 26.4944542,
+    "longitude": 80.2796432,
+    "place_id": "ChIJpy1KboI5nDkRYsna5yqIQiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpy1KboI5nDkRYsna5yqIQiE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:25"
+  }
+]

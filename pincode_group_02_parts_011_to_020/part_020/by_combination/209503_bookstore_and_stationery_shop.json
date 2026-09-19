@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "209503",
+    "phone_number": "+91 92595 15561",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "B-76, near State Bank Of India, Deen Dayal Puram, Bareilly, Uttar Pradesh 243122",
+    "area": "Deen Dayal Puram",
+    "latitude": 28.3781924,
+    "longitude": 79.429884,
+    "place_id": "ChIJ52zro-AGoDkR-_nXtwkxytc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52zro-AGoDkR-_nXtwkxytc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:31:09"
+  },
+  {
+    "business_name": "Pipar goan",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "209503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9G47+55H, Pipar Gaon, Uttar Pradesh 209651",
+    "area": "209503",
+    "latitude": 27.355446299999997,
+    "longitude": 79.51299,
+    "place_id": "ChIJs9vMGQAvnjkRJ-jkU9z7lUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9vMGQAvnjkRJ-jkU9z7lUs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:31:09"
+  }
+]

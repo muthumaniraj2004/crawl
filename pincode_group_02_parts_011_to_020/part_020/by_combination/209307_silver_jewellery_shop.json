@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANUAPAM JWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "209307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bada bazar, Maitha, Uttar Pradesh 209307",
+    "area": "bada bazar",
+    "latitude": 26.5324773,
+    "longitude": 80.05694299999999,
+    "place_id": "ChIJoe5C6hDLnTkR7xdsjNO4BDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoe5C6hDLnTkR7xdsjNO4BDY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:07"
+  },
+  {
+    "business_name": "Shanti Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "209307",
+    "phone_number": "+91 89602 01076",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhaunti, Rania, Uttar Pradesh 209101",
+    "area": "Bhaunti",
+    "latitude": 26.4055143,
+    "longitude": 80.0720821,
+    "place_id": "ChIJz969Rh61nTkRpH7jNbPeLKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz969Rh61nTkRpH7jNbPeLKU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:07"
+  }
+]

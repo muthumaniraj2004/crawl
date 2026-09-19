@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANJUM FOOTWEARS",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209311",
+    "phone_number": "+91 83189 03412",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "ZAINAB BUILDING, Bhaunti, Rania, Uttar Pradesh 209101",
+    "area": "Bhaunti",
+    "latitude": 26.40244,
+    "longitude": 80.0720961,
+    "place_id": "ChIJ5Te73FW1nTkRq5GyJuWCUMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Te73FW1nTkRq5GyJuWCUMw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:19"
+  },
+  {
+    "business_name": "Fhutware",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209311",
+    "phone_number": "+91 78959 20850",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Navipur Navipur, Uttar Pradesh 209101",
+    "area": "209311",
+    "latitude": 26.3491866,
+    "longitude": 79.976748,
+    "place_id": "ChIJw1Drgw2xnTkRlXhcijPbDKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1Drgw2xnTkRlXhcijPbDKo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:19"
+  }
+]

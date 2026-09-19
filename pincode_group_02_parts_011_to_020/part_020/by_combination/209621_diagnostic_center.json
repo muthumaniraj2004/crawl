@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paliwal Diagnostics Pvt. Ltd.",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "209621",
+    "phone_number": "+91 84299 68217",
+    "website": "https://www.paliwaldiagnostics.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Auth. Collection Centre by Paliwal & Dr. Lal Path Labs, Sahab Ganj Centre, Sahab Ganj Chauraha, Manhari, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Manhari",
+    "latitude": 27.393311299999997,
+    "longitude": 79.5874582,
+    "place_id": "ChIJ0682ADYxnjkRpEPLnkR9_Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0682ADYxnjkRpEPLnkR9_Ys",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:38:35"
+  },
+  {
+    "business_name": "Avadh Ultrasound centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Radiologist",
+    "all_categories": "Radiologist",
+    "pincode": "209621",
+    "phone_number": "+91 63966 36500",
+    "website": "https://www.facebook.com/profile.php?id=61582063780823",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambedkar nagar Narkasha, near by Kadri gate Suraj garden, Manhari, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Manhari",
+    "latitude": 27.3908542,
+    "longitude": 79.59350839999999,
+    "place_id": "ChIJ78Py3tIxnjkRDzJ_asJsuWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78Py3tIxnjkRDzJ_asJsuWU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:38:36"
+  }
+]

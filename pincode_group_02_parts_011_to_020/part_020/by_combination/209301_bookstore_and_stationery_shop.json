@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Book and stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Scrapbooking store, Stationery store",
+    "pincode": "209301",
+    "phone_number": "+91 89711 20267",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 466,
+    "address": "near RNSIT Collage, Channasandra, Srinivaspura, Bengaluru, Karnataka 560098",
+    "area": "Channasandra, Srinivaspura",
+    "latitude": 12.9025927,
+    "longitude": 77.5193729,
+    "place_id": "ChIJ_7C4aJQ_rjsR_dfjFWcDVE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7C4aJQ_rjsR_dfjFWcDVE4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:05:33"
+  },
+  {
+    "business_name": "Pooja Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "209301",
+    "phone_number": "+91 99362 65019",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "HP6Q+V84, Jhinjhak, Uttar Pradesh 209302",
+    "area": "209301",
+    "latitude": 26.5621458,
+    "longitude": 79.7383396,
+    "place_id": "ChIJ577M69XpnTkRSJX9ajsWJWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ577M69XpnTkRSJX9ajsWJWQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:05:34"
+  }
+]

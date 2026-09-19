@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla catering services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Mobile caterer",
+    "pincode": "209303",
+    "phone_number": "+91 92143 81274",
+    "website": "https://shuklacatering.in/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "3d, 243, Awas Vikas Rd, Hanspuram, Namaskar, Kanpur, Uttar Pradesh 208021",
+    "area": "Hanspuram, Namaskar",
+    "latitude": 26.3980842,
+    "longitude": 80.3273231,
+    "place_id": "ChIJj4t8aYhHnDkR-8X6kB5Xxx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4t8aYhHnDkR-8X6kB5Xxx8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:47"
+  },
+  {
+    "business_name": "Lucknowala Catering Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Food manufacturer, Food products supplier, Restaurant supply store, Wedding buffet",
+    "pincode": "209303",
+    "phone_number": "+91 79057 41041",
+    "website": "https://lucknowalacatering.com/",
+    "rating": 4.7,
+    "reviews_count": 295,
+    "address": "10/708, Sector 10 Main Rd, Sector 10, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Sector 10, Indira Nagar",
+    "latitude": 26.8855079,
+    "longitude": 81.00285099999999,
+    "place_id": "ChIJ7fYxsipXmTkRVCzMR0fq_KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fYxsipXmTkRVCzMR0fq_KU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Licious",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "209304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "F7GR+9M6, Stadium Ln, P Block, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "P Block, Navin Nagar, Kakadeo",
+    "latitude": 26.4759179,
+    "longitude": 80.2916516,
+    "place_id": "ChIJxZpkIVs5nDkRlNPtEEwZoCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZpkIVs5nDkRlNPtEEwZoCQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:33"
+  },
+  {
+    "business_name": "Kamdhenu Cattle Feeds Private Limited",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Cattle farm",
+    "all_categories": "Cattle farm",
+    "pincode": "209304",
+    "phone_number": "+91 73900 03328",
+    "website": "http://www.kapilacattlefeed.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Fatehpur Roshnai Rania Kanpur Dehat, Uttar Pradesh 209101",
+    "area": "209304",
+    "latitude": 26.416393,
+    "longitude": 80.11226839999999,
+    "place_id": "ChIJ65j_znhHnDkRzIknYVztRa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65j_znhHnDkRzIknYVztRa0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:34"
+  }
+]

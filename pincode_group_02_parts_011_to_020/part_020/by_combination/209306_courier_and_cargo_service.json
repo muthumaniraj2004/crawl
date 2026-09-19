@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Express Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "209306",
+    "phone_number": "+91 85459 84140",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "2/12, Rail Bazar, Mirpur Cantonment, Cantt, Kanpur, Uttar Pradesh 208004",
+    "area": "Rail Bazar, Mirpur Cantonment, Cantt",
+    "latitude": 26.451935199999998,
+    "longitude": 80.3490412,
+    "place_id": "ChIJrc1jC9JHnDkRfTHfRh1kTgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrc1jC9JHnDkRfTHfRh1kTgs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:29"
+  },
+  {
+    "business_name": "DTDC Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "209306",
+    "phone_number": "+91 83170 57253",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "C88G+4QR, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Yashoda Nagar",
+    "latitude": 26.4153716,
+    "longitude": 80.326897,
+    "place_id": "ChIJAw1dVvlGnDkR9asfSCFZsik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAw1dVvlGnDkR9asfSCFZsik",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:29"
+  }
+]

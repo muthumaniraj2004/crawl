@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chain Wale Bhaiya",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "209303",
+    "phone_number": "+91 70657 03020",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sabji Mandi, Jagjivanpur Bamba, Uttar Pradesh 209101",
+    "area": "209303",
+    "latitude": 26.3949179,
+    "longitude": 79.97398079999999,
+    "place_id": "ChIJs5SmlMq3nTkRoBBz33tjxXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5SmlMq3nTkRoBBz33tjxXU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:28"
+  },
+  {
+    "business_name": "G.R. MOTORS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "209303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 61,
+    "address": "Mati Rd, near Over Bridge, Akbarpur South, Akbarpur, Uttar Pradesh 209101",
+    "area": "Akbarpur South",
+    "latitude": 26.376632999999998,
+    "longitude": 79.9519372,
+    "place_id": "ChIJ7zjzQmS3nTkRADgbSwTPBJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zjzQmS3nTkRADgbSwTPBJY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:30"
+  }
+]

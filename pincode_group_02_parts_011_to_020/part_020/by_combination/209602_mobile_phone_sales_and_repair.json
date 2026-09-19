@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Mobile Repairing",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "209602",
+    "phone_number": "+91 73097 73459",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Shiv Mandir, Jahan Ganj, Pataunja, Uttar Pradesh 209739",
+    "area": "209602",
+    "latitude": 27.2518854,
+    "longitude": 79.54787499999999,
+    "place_id": "ChIJLSrKfsolnjkRewK60cEXYUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSrKfsolnjkRewK60cEXYUc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:37:38"
+  },
+  {
+    "business_name": "Phone Nation",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "209602",
+    "phone_number": "+91 63860 28522",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Railway road, Shastri Nagar, Kamalganj, Uttar Pradesh 209724",
+    "area": "Shastri Nagar",
+    "latitude": 27.259886899999998,
+    "longitude": 79.63192269999999,
+    "place_id": "ChIJ29Mohhg7njkRsvuBVDi8weI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29Mohhg7njkRsvuBVDi8weI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:37:38"
+  }
+]

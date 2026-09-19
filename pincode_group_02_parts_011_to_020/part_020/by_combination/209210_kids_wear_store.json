@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Twists You",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "209210",
+    "phone_number": "+91 87267 57048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Javenagr, Bansathi, Uttar Pradesh 209204",
+    "area": "Javenagr",
+    "latitude": 26.5699513,
+    "longitude": 80.1577054,
+    "place_id": "ChIJk-Ok09YznDkRyWqXhuQimXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-Ok09YznDkRyWqXhuQimXE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:19"
+  },
+  {
+    "business_name": "Monu Raj Singh",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "209210",
+    "phone_number": "+91 63922 09016",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Kanpur, Dehat, Uttar Pradesh 209202",
+    "area": "209210",
+    "latitude": 26.8348068,
+    "longitude": 80.0409107,
+    "place_id": "ChIJ7yLggg1_njkRZFYQFaJoeP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yLggg1_njkRZFYQFaJoeP8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:19"
+  }
+]

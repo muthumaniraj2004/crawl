@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuradha Fashion",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing Accessories Store",
+    "pincode": "209209",
+    "phone_number": "+91 95066 76321",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kanpur - Sagar Hwy, Bidhnu, Uttar Pradesh 209214",
+    "area": "209209",
+    "latitude": 26.3157028,
+    "longitude": 80.2713643,
+    "place_id": "ChIJf4Ful4ZPnDkRKqoNGS4_1Ig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4Ful4ZPnDkRKqoNGS4_1Ig",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:29"
+  },
+  {
+    "business_name": "Shivam Readymade Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209209",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/shubham658gupta?igsh=MThtcjExZ3VoamZsbg==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NH 34, Bidhnu, Uttar Pradesh 209214",
+    "area": "209209",
+    "latitude": 26.3198883,
+    "longitude": 80.27339979999999,
+    "place_id": "ChIJO4acfIJPnDkR1gKM85gSfU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4acfIJPnDkR1gKM85gSfU0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:29"
+  }
+]

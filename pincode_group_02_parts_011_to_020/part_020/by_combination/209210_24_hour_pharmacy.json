@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AYAN MEDICAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209210",
+    "phone_number": "+91 97934 87395",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Madar Nagar, Jirik Pur, Uttar Pradesh 209868",
+    "area": "209210",
+    "latitude": 26.8807647,
+    "longitude": 80.1680848,
+    "place_id": "ChIJp_UWwHaBnjkRVTOznGNNFCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_UWwHaBnjkRVTOznGNNFCk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:26"
+  },
+  {
+    "business_name": "Zeelab Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "209210",
+    "phone_number": "+91 94150 41818",
+    "website": "https://zeelabpharmacy.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "25-1, Mall Rd, P.O HPO, P.S, Pheelkhana, Downtown, Kanpur, Uttar Pradesh 208001",
+    "area": "P.O HPO, P.S, Pheelkhana, Downtown",
+    "latitude": 26.4635784,
+    "longitude": 80.3584967,
+    "place_id": "ChIJC88KfKhHnDkR7z0IWoPbXDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC88KfKhHnDkR7z0IWoPbXDo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:27"
+  }
+]

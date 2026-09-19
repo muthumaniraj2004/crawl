@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anokhe Lal & Sons Family Resturant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "209602",
+    "phone_number": "+91 98898 23102",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 22,
+    "address": "fornt Chandra opticals, Barphur, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Barphur",
+    "latitude": 27.381847,
+    "longitude": 79.5956947,
+    "place_id": "ChIJbSOEXcwxnjkRV9dT4OoGn-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSOEXcwxnjkRV9dT4OoGn-M",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:36:40"
+  },
+  {
+    "business_name": "THE CROCKERY HOUSE",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family Restaurant",
+    "all_categories": "Family Restaurant",
+    "pincode": "209602",
+    "phone_number": "+91 78009 34237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4/2 Chowk Bazar Farrukhabad, Uttar Pradesh 209625",
+    "area": "Dilli Khyali Kuncha, Bhikampura",
+    "latitude": 27.391369899999997,
+    "longitude": 79.57922649999999,
+    "place_id": "ChIJyTa_6DQwnjkRu-k0HVk9-7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTa_6DQwnjkRu-k0HVk9-7o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:36:42"
+  }
+]

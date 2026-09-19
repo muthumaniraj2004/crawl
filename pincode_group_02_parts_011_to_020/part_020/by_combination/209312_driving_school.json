@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Kumar",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "209312",
+    "phone_number": "+91 89480 33738",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kanpur - Jhansi Hwy, Bhognipur, Uttar Pradesh 209111",
+    "area": "209312",
+    "latitude": 26.2057289,
+    "longitude": 79.8174232,
+    "place_id": "ChIJQXpsVzmjnTkRN-q8l4Lwl3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXpsVzmjnTkRN-q8l4Lwl3c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:22:24"
+  },
+  {
+    "business_name": "IACT Computer Education",
+    "search_category": "Driving School",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school, Computers",
+    "pincode": "209312",
+    "phone_number": "+91 96210 00777",
+    "website": "http://www.iacteducation.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4QC2+R56, Kagzipura, Kalpi Jalaun, SH 91, Kalpi, Uttar Pradesh 285204",
+    "area": "209312",
+    "latitude": 26.1220489,
+    "longitude": 79.750395,
+    "place_id": "ChIJtZRdOt2hnTkRY4FNytUIDPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZRdOt2hnTkRY4FNytUIDPY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:22:25"
+  }
+]

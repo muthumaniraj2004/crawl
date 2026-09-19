@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Devendra Awasthi",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Children Policlinic",
+    "pincode": "209305",
+    "phone_number": "+91 73550 70456",
+    "website": "http://manasmedicalcentre.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "784/3, W-1, Block, Saket Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "W-1, Block, Saket Nagar",
+    "latitude": 26.4336494,
+    "longitude": 80.3198183,
+    "place_id": "ChIJCQ896GZHnDkR7TYVSUP5-Ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQ896GZHnDkR7TYVSUP5-Ow",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:11:43"
+  },
+  {
+    "business_name": "Shweta Child Care Clinic Pvt Ltd",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric clinic",
+    "all_categories": "Pediatric clinic, Child health care center, Child psychiatrist, Child psychologist, Hospital",
+    "pincode": "209305",
+    "phone_number": "+91 99186 01013",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "Ratanlal Nagar Main Rd, Yadav Market, Barra 2, Gandhi Nagar, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Yadav Market, Barra 2, Gandhi Nagar, Barra",
+    "latitude": 26.4377012,
+    "longitude": 80.3023094,
+    "place_id": "ChIJE055N4I4nDkRkg9YINIW_JY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE055N4I4nDkRkg9YINIW_JY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:11:43"
+  }
+]

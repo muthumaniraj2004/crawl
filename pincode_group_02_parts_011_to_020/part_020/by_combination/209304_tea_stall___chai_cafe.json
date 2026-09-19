@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samocha : Stories Around Chai - PSIT",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "209304",
+    "phone_number": "+91 85059 95798",
+    "website": "https://www.samocha.co/",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Samocha Kiosk, NH 19, inside PSIT Campus, Kanpur, Bhisi Jargaon, Uttar Pradesh 209305",
+    "area": "209304",
+    "latitude": 26.450709999999997,
+    "longitude": 80.1906132,
+    "place_id": "ChIJZR7wPfJJnDkRhO61gHuA9mA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZR7wPfJJnDkRhO61gHuA9mA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:37"
+  },
+  {
+    "business_name": "Krishna Chay",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "209304",
+    "phone_number": "+91 88405 84460",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "near Jaina Palace, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Neemeshwar MahaMandir Society, Ratan Lal Nagar",
+    "latitude": 26.444963899999998,
+    "longitude": 80.28978239999999,
+    "place_id": "ChIJKyXlRa9HnDkREkhYlptnFzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyXlRa9HnDkREkhYlptnFzM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:40"
+  }
+]

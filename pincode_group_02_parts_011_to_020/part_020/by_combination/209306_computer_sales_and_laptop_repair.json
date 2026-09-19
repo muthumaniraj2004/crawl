@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Genius Point",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer networking service, Computer repair service, Computer software store, Store",
+    "pincode": "209306",
+    "phone_number": "+91 98390 31867",
+    "website": "https://v0-genius-point-website.vercel.app/",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "25/15, The Mall Rd, Near Sagar Market, Downtown, Kanpur, Uttar Pradesh 208001",
+    "area": "Near Sagar Market, Downtown",
+    "latitude": 26.461242,
+    "longitude": 80.35950199999999,
+    "place_id": "ChIJn6S8R1FHnDkR-XGcG6IzZUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6S8R1FHnDkR-XGcG6IzZUw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:24"
+  },
+  {
+    "business_name": "IT NEEDS - Laptop & Computer Repairing, Mobile Repairing Shop",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer service, Mobile phone repair shop",
+    "pincode": "209306",
+    "phone_number": "+91 87991 38858",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Somdut plaza, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.4740736,
+    "longitude": 80.347751,
+    "place_id": "ChIJQ5yBTqk5nDkRlnwI6k1FzMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5yBTqk5nDkRlnwI6k1FzMM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gozo Cabs – Outstation, Airport & Local Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Tour operator, Transportation service",
+    "pincode": "209303",
+    "phone_number": "N/A",
+    "website": "https://www.gozocabs.com/",
+    "rating": 4.2,
+    "reviews_count": 2573,
+    "address": "F - 210, UGF, Sushant shopping arcade, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009",
+    "area": "Sushant Lok Phase I, Sector 43",
+    "latitude": 28.460606,
+    "longitude": 77.078813,
+    "place_id": "ChIJd8WFlTAZDTkRsr32DBHP7es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8WFlTAZDTkRsr32DBHP7es",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:25"
+  },
+  {
+    "business_name": "Chiku Cab - Taxi Service in Lucknow",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "209303",
+    "phone_number": "+91 98180 22327",
+    "website": "https://chikucab.com/taxi-service-in-lucknow.html",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "shop no 15, City Complex, Manas Enclave, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Manas Enclave, Indira Nagar",
+    "latitude": 26.902882599999998,
+    "longitude": 81.0019489,
+    "place_id": "ChIJN82pdD9ZmTkR2zTdMC1T0o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN82pdD9ZmTkR2zTdMC1T0o0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:27"
+  }
+]

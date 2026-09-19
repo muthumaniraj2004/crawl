@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The ads spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "209503",
+    "phone_number": "+91 91203 43083",
+    "website": "https://theadsspaandsalon.in/",
+    "rating": 4.9,
+    "reviews_count": 916,
+    "address": "Shop No- 201 & 202 , 2nd Floor, Millennium Palace, Golf City Rd, Golf City, Sector B Ansal API, Lucknow, Muzaffar Nagar Ghusval, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.7825348,
+    "longitude": 80.98992799999999,
+    "place_id": "ChIJq-m9Uev0_AkRtXCCuyMcbO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-m9Uev0_AkRtXCCuyMcbO8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:52"
+  },
+  {
+    "business_name": "The Mango Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "209503",
+    "phone_number": "+91 70179 21477",
+    "website": "https://www.themangospa.in/",
+    "rating": 4.7,
+    "reviews_count": 331,
+    "address": "katra chand khan, Infront of St. Michael and All Angels Church, 945, near satellite bus stand, Old City, Bareilly, Uttar Pradesh 243001",
+    "area": "Old City, Sindhu Nagar",
+    "latitude": 28.352383,
+    "longitude": 79.43764759999999,
+    "place_id": "ChIJ95hWJuwBoDkR5ScmO4FNruI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95hWJuwBoDkR5ScmO4FNruI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:52"
+  }
+]

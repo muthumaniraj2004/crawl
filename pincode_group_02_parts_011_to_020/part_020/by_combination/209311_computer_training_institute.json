@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "I-TECH Computer Centre & Tanishka Computer Centre",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "209311",
+    "phone_number": "+91 89607 00100",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "C34C+6MF, rod, Bhaunti, Kisarva, Rania, Uttar Pradesh 209101",
+    "area": "Bhaunti",
+    "latitude": 26.4055695,
+    "longitude": 80.0716791,
+    "place_id": "ChIJF7QtNiC1nTkRS1OaJdhaREQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7QtNiC1nTkRS1OaJdhaREQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:21:09"
+  },
+  {
+    "business_name": "Dreams computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "209311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "73J8+G8, Gajner, Uttar Pradesh 209121",
+    "area": "209311",
+    "latitude": 26.2813034,
+    "longitude": 80.0658361,
+    "place_id": "ChIJ3UmtfWSznTkR61kr9FG7swY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UmtfWSznTkR61kr9FG7swY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:21:09"
+  }
+]

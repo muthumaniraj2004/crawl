@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janvi medical store and gauri clinic",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "209307",
+    "phone_number": "+91 97931 80163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ranjeet pur, Bhaupur, Uttar Pradesh 209307",
+    "area": "Ranjeet pur",
+    "latitude": 26.4711668,
+    "longitude": 80.1282031,
+    "place_id": "ChIJsxcGzdw1nDkREOSeF8pekiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxcGzdw1nDkREOSeF8pekiY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:15"
+  },
+  {
+    "business_name": "Medihelp Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "209307",
+    "phone_number": "+91 98398 00199",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "K, 117, 22, Sarvodaya Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "Moti Vihar Society, Sarvodaya Nagar",
+    "latitude": 26.4793314,
+    "longitude": 80.2978492,
+    "place_id": "ChIJcSzwsfE5nDkRTUXwhksu01U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSzwsfE5nDkRTUXwhksu01U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Maa",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Agricultural Product Wholesaler, Fertilizer Store",
+    "pincode": "209307",
+    "phone_number": "+91 82992 78070",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shree Maa, Kanpur - Lucknow Rd, Nawabganj, Parsandan, Uttar Pradesh 209859",
+    "area": "209307",
+    "latitude": 26.6220295,
+    "longitude": 80.68310029999999,
+    "place_id": "ChIJJeixI_oOnDkRX2dlHRh8qx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeixI_oOnDkRX2dlHRh8qx4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:25"
+  },
+  {
+    "business_name": "Kushwaha Fertilizer And Seeds",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "209307",
+    "phone_number": "+91 81818 56262",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karbak209304 Raniya, Road, Maitha, Kanpur, Uttar Pradesh 209101",
+    "area": "209307",
+    "latitude": 26.4367079,
+    "longitude": 80.0515168,
+    "place_id": "ChIJ5w9jsn61nTkRyHPhslAoTHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5w9jsn61nTkRyHPhslAoTHA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:25"
+  }
+]

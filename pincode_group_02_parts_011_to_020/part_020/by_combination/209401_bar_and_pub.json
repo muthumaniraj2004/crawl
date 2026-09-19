@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi sharab theka",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "209401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "89MM+5G2, Unnamed Road, Pipar Gawan, Uttar Pradesh 208021",
+    "area": "209401",
+    "latitude": 26.3328869,
+    "longitude": 80.3837617,
+    "place_id": "ChIJMxvj6ztDnDkRiQh8BBtHvYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxvj6ztDnDkRiQh8BBtHvYk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:37"
+  },
+  {
+    "business_name": "Petals Industry",
+    "search_category": "Bar and Pub",
+    "primary_category": "Brewpub",
+    "all_categories": "Brewpub",
+    "pincode": "209401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, near primary school, Tusaura, Garhinarwal, Uttar Pradesh 209401",
+    "area": "209401",
+    "latitude": 26.3036851,
+    "longitude": 80.4032751,
+    "place_id": "ChIJPUZX4RBDnDkRSBRUgjtZPkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUZX4RBDnDkRSBRUgjtZPkE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Ratan",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209210",
+    "phone_number": "N/A",
+    "website": "https://rajratan.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "106, 6, P Rd, Sisamau, Sisamau Bazar, Gandhi Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Sisamau, Sisamau Bazar, Gandhi Nagar",
+    "latitude": 26.468303199999998,
+    "longitude": 80.3268063,
+    "place_id": "ChIJD-Qn-YE4nDkR4hZ6vskZZpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-Qn-YE4nDkR4hZ6vskZZpA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:16"
+  },
+  {
+    "business_name": "Kanpur saree center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209210",
+    "phone_number": "N/A",
+    "website": "https://kanpursareecenter.blogspot.com/2019/12/kanpur-saree-center.html?m=1",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "50/172, Naughara, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Naughara, General Ganj",
+    "latitude": 26.461401,
+    "longitude": 80.3515475,
+    "place_id": "ChIJvZDX81xHnDkRRl8ttb7hs54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZDX81xHnDkRRl8ttb7hs54",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:18"
+  }
+]

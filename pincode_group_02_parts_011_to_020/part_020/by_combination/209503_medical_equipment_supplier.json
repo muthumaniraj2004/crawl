@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "209503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GCPP+Q73, Shamshabad, Uttar Pradesh 209503",
+    "area": "209503",
+    "latitude": 27.536878899999998,
+    "longitude": 79.4356576,
+    "place_id": "ChIJZXcIaCjVnzkRolBtQrX6Dvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXcIaCjVnzkRolBtQrX6Dvk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:32"
+  },
+  {
+    "business_name": "Anavi Medical store Faizbag",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "209503",
+    "phone_number": "+91 78976 00708",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Faizbag, Shamshabad, Uttar Pradesh 209503",
+    "area": "Faizbag",
+    "latitude": 27.5332242,
+    "longitude": 79.4366324,
+    "place_id": "ChIJ5SBQJqTVnzkRwxnpb-BpeBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SBQJqTVnzkRwxnpb-BpeBw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:32"
+  }
+]

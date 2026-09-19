@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaiholic cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209310",
+    "phone_number": "+91 78897 84752",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "117/72, Avon Market, Ambedkar Nagar, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Avon Market, Ambedkar Nagar, Navin Nagar, Kakadeo",
+    "latitude": 26.4775988,
+    "longitude": 80.2947653,
+    "place_id": "ChIJeyXocAA5nDkRUpFQdIApM_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyXocAA5nDkRUpFQdIApM_4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:18:31"
+  },
+  {
+    "business_name": "Yaari Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "209310",
+    "phone_number": "+91 98078 24545",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Keshav Nagar, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "Keshav Nagar, Juhi Kalan, Saket Nagar",
+    "latitude": 26.426180199999997,
+    "longitude": 80.3125345,
+    "place_id": "ChIJRTfIR3VHnDkRsygtKGI6zpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTfIR3VHnDkRsygtKGI6zpc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:18:31"
+  }
+]

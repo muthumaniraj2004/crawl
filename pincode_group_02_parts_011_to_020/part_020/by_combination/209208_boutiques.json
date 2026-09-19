@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehra emporium",
+    "search_category": "Boutiques",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "209208",
+    "phone_number": "+91 96829 59493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Sidhdheswari mod, Main Rd, Pukhrayan, Uttar Pradesh 209111",
+    "area": "209208",
+    "latitude": 26.2194653,
+    "longitude": 79.83459169999999,
+    "place_id": "ChIJ6YLHlk-lnTkR91uupbxfLIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YLHlk-lnTkR91uupbxfLIo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:55:45"
+  },
+  {
+    "business_name": "RASHI TRADERS",
+    "search_category": "Boutiques",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "209208",
+    "phone_number": "+91 97933 93827",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22, Main Rd, Mirpur, Pukhrayan, Uttar Pradesh 209111",
+    "area": "209208",
+    "latitude": 26.217971,
+    "longitude": 79.8329018,
+    "place_id": "ChIJofj73RylnTkRAg81nO3c2HU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofj73RylnTkRAg81nO3c2HU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:55:47"
+  }
+]

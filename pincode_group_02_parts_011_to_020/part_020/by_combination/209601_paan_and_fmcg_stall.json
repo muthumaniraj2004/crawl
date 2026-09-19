@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Paan Story",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "209601",
+    "phone_number": "+91 96536 38063",
+    "website": "https://www.thepaanstory.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Landmark:Opp:St.Michael Church, 4/30, Lady Jamshedji Rd, near Delhi Zaika, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+    "area": "Mahim West, Mahim",
+    "latitude": 19.0409413,
+    "longitude": 72.8407665,
+    "place_id": "ChIJ58YQySzJ5zsRDkuffI-7_ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58YQySzJ5zsRDkuffI-7_ms",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:34:52"
+  },
+  {
+    "business_name": "Yamu's Panchayat",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Flavours, Fragrances & Aroma Supplier, Gift shop, Hookah store, Smoke shop",
+    "pincode": "209601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 75,
+    "address": "Shop no 7, fantasy premises co op society, JP Rd, beside kotak mahindra bank, Aram Nagar Part 1, Aram Nagar, Seven Bunglow, Andheri West, Mumbai, Maharashtra 400061",
+    "area": "Aram Nagar Part 1, Aram Nagar, Seven Bunglow, Andheri West",
+    "latitude": 19.1296519,
+    "longitude": 72.815345,
+    "place_id": "ChIJJykp5wW25zsRk7arVLUtREk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJykp5wW25zsRk7arVLUtREk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:34:53"
+  }
+]

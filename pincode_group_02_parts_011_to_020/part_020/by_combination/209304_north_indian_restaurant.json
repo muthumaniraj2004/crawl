@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Da Dhaba Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209304",
+    "phone_number": "+91 93114 81195",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C49M+427 रामपुर कुखत बस स्टॉप, NH2, Raipur Kukhat, Uttar Pradesh 209304",
+    "area": "209304",
+    "latitude": 26.417790699999998,
+    "longitude": 80.13256129999999,
+    "place_id": "ChIJaaUFsStLnDkRKY7eaTp6kAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaUFsStLnDkRKY7eaTp6kAA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:39"
+  },
+  {
+    "business_name": "AANVI DHABA AND RESTAURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "209304",
+    "phone_number": "+91 96960 67902",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "C48Q+2PQ, Kisan Nagar, Bhisar, Uttar Pradesh 209304",
+    "area": "209304",
+    "latitude": 26.415062499999998,
+    "longitude": 80.1393125,
+    "place_id": "ChIJ79nUQwBLnDkRk4vVqbCL1E0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79nUQwBLnDkRk4vVqbCL1E0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:39"
+  }
+]

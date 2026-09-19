@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Certified public accountant, Lawyer",
+    "pincode": "209601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ganga nagar colony, near Brindavan School, Manhari, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Manhari",
+    "latitude": 27.388575399999997,
+    "longitude": 79.5908764,
+    "place_id": "ChIJFa0H3N4xnjkRCOkigBAlyl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFa0H3N4xnjkRCOkigBAlyl8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:36:08"
+  },
+  {
+    "business_name": "GOVT. APPROVED VALUER (Er. Ravindra Kumar)",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Real estate appraiser",
+    "all_categories": "Real estate appraiser, Auction house, Bankruptcy service, Building designer, Design engineer, Engineering consultant, Insolvency service, Real estate consultant",
+    "pincode": "209601",
+    "phone_number": "+91 89622 02868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Ram Nagar, Chauraha, Maseni, Farrukhabad, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Chauraha, Maseni",
+    "latitude": 27.3858528,
+    "longitude": 79.617925,
+    "place_id": "ChIJCybX1FIxnjkRDwvqIRX66N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCybX1FIxnjkRDwvqIRX66N0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:36:09"
+  }
+]

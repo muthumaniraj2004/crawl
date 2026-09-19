@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanpur_decoration and event",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Event planner",
+    "pincode": "209206",
+    "phone_number": "+91 63942 22584",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fattepur, Garatha, Uttar Pradesh 209208",
+    "area": "209206",
+    "latitude": 26.0970504,
+    "longitude": 80.0311364,
+    "place_id": "ChIJfbcQyqirnTkRgddi5LuNyG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbcQyqirnTkRgddi5LuNyG0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:54:30"
+  },
+  {
+    "business_name": "Red Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "209206",
+    "phone_number": "+91 63877 73492",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "j, 829, Gujaini Subji Mandi Rd, Gujaini, Kanpur, Uttar Pradesh 208022",
+    "area": "Gujaini",
+    "latitude": 26.4429113,
+    "longitude": 80.2784599,
+    "place_id": "ChIJfeavopNHnDkRZzu75Dzbp6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeavopNHnDkRZzu75Dzbp6A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:54:30"
+  }
+]

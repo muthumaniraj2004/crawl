@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirag e-moters & mart",
+    "search_category": "Malls",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BABA MARKET, BAZAAR, near DOOL, Dool, Kanpur, Uttar Pradesh 209307",
+    "area": "209307",
+    "latitude": 26.476592,
+    "longitude": 80.1584319,
+    "place_id": "ChIJD-YzfOc1nDkREgXDy8PUFyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-YzfOc1nDkREgXDy8PUFyc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:31"
+  },
+  {
+    "business_name": "BABA MARKET DOOL",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "209307",
+    "phone_number": "+91 87265 29727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "main road, Dool, Uttar Pradesh 209307",
+    "area": "209307",
+    "latitude": 26.4764184,
+    "longitude": 80.1586664,
+    "place_id": "ChIJ67UUgVc1nDkRVwiEvAe00Io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67UUgVc1nDkRVwiEvAe00Io",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:31"
+  }
+]

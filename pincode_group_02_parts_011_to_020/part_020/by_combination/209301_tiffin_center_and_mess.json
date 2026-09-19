@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homefoodi : Home Food Delivery",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "209301",
+    "phone_number": "+91 95601 07937",
+    "website": "https://www.homefoodi.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot No, Nukleus IT Park, 29, Sector 142, Noida, Uttar Pradesh 201304",
+    "area": "Sector 142",
+    "latitude": 28.502657,
+    "longitude": 77.4133818,
+    "place_id": "ChIJq5ei4PPpDDkR5iY1yqBICB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5ei4PPpDDkR5iY1yqBICB0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:04:32"
+  },
+  {
+    "business_name": "My Tiffinz",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "209301",
+    "phone_number": "+91 93230 26362",
+    "website": "http://www.mytiffinz.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Zircon CHS, off Lal Bahadur Shastri Marg, opp. Sheth Montana, Moti Nagar, Mulund Colony, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Moti Nagar, Mulund Colony, Mulund West",
+    "latitude": 19.1692109,
+    "longitude": 72.9362956,
+    "place_id": "ChIJ-4U3GZe55zsRww-FzyP8GRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4U3GZe55zsRww-FzyP8GRk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:04:32"
+  }
+]

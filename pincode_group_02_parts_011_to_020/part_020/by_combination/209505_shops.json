@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain colddrink shop",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "209505",
+    "phone_number": "+91 82188 56158",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.28, Sivara Rode, Birahampur Nirottampur, Kampil, Uttar Pradesh 209505",
+    "area": "209505",
+    "latitude": 27.6162934,
+    "longitude": 79.2750116,
+    "place_id": "ChIJD4Wh2RV7dTkRtjVUje14K0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4Wh2RV7dTkRtjVUje14K0o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:34:45"
+  },
+  {
+    "business_name": "Gulfam Repair Shop",
+    "search_category": "Shops",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "209505",
+    "phone_number": "+91 96282 54596",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Kampil, 0, Kampil - Kaimganj Rd, Kampil - Badaun Rd, Uttar Pradesh 209505",
+    "area": "209505",
+    "latitude": 27.611779799999997,
+    "longitude": 79.2765548,
+    "place_id": "ChIJ460ke_x7dTkRkipiJoi1ijA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ460ke_x7dTkRkipiJoi1ijA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:34:48"
+  }
+]

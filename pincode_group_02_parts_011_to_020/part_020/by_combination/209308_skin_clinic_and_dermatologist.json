@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Kumar",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "209308",
+    "phone_number": "+91 99356 36487",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "112/8 18 block Benajhabar, Shivaji Chouraha, Motilal, Harsh Nagar, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Motilal Swaroop Nagar, Khalasi Line, Swaroop Nagar",
+    "latitude": 26.479451599999997,
+    "longitude": 80.31978459999999,
+    "place_id": "ChIJxZD-Sn04nDkRsU03ilcudLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZD-Sn04nDkRsU03ilcudLw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:17:03"
+  },
+  {
+    "business_name": "Skin Essence",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "209308",
+    "phone_number": "+91 97699 46481",
+    "website": "http://www.skinessenceindia.com/",
+    "rating": 4.9,
+    "reviews_count": 489,
+    "address": "Shop number 3 &4, Ramjharukha Apartment, Swami Vivekanand Rd, Zalawad Nagar, Shree Ram Nagar, Andheri West, Mumbai, Maharashtra 400058",
+    "area": "Zalawad Nagar, Shree Ram Nagar, Andheri West",
+    "latitude": 19.1165014,
+    "longitude": 72.8436557,
+    "place_id": "ChIJ-6ri2NHJ5zsRtrztIXpLeXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6ri2NHJ5zsRtrztIXpLeXg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

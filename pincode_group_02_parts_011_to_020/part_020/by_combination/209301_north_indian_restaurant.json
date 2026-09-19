@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mewat hotal",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 34,
+    "address": "Sikandra Rd, Akbarpur, Muhammadpur, Uttar Pradesh 209101",
+    "area": "209301",
+    "latitude": 26.3736447,
+    "longitude": 79.8956393,
+    "place_id": "ChIJu78CS7-5nTkRJbpVIFdi5qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu78CS7-5nTkRJbpVIFdi5qg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:04:33"
+  },
+  {
+    "business_name": "Raj Mahal Family Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Coffee shop, Food court, Resort hotel, Restaurant, Tea store, Vegetarian restaurant",
+    "pincode": "209301",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/profile.php?id=100086620174332&mibextid=ZbWKwL",
+    "rating": 3.7,
+    "reviews_count": 571,
+    "address": "National Highway 2, Sikandra, Mahmudpur Buzurg, Uttar Pradesh 209125",
+    "area": "209301",
+    "latitude": 26.3828227,
+    "longitude": 79.6134728,
+    "place_id": "ChIJlTY0MhuTnTkRbu6UgKajKeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTY0MhuTnTkRbu6UgKajKeY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:04:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pure Veg Raj Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "209303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Daily Needs, near Uttaranchal, Mallital, Bhimtal, Uttarakhand 263136",
+    "area": "Mallital",
+    "latitude": 29.353537199999998,
+    "longitude": 79.5535132,
+    "place_id": "ChIJ6ZnUBTGZoDkRR3tiwgYpuek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZnUBTGZoDkRR3tiwgYpuek",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:07:54"
+  },
+  {
+    "business_name": "Pooja Dhaba - Pure Vegetarian",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Dhaba",
+    "pincode": "209303",
+    "phone_number": "+91 74091 70727",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dhikuli - near tarangi resort Dhikuli, Ramnagar, Uttarakhand 244715",
+    "area": "209303",
+    "latitude": 29.4606259,
+    "longitude": 79.1456924,
+    "place_id": "ChIJK9L9kQwRCjkR6GPN-Zjvkzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9L9kQwRCjkR6GPN-Zjvkzk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:07:54"
+  }
+]

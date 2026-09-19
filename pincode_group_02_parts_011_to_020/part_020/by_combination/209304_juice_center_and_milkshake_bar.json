@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Evergrill",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209304",
+    "phone_number": "+91 70116 59127",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "House no 17, Neemeshwar Mahamandir, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Neemeshwar Mahamandir, Ratan Lal Nagar",
+    "latitude": 26.445165499999998,
+    "longitude": 80.2868397,
+    "place_id": "ChIJlYFJZypHnDkRtKwL68LPmfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYFJZypHnDkRtKwL68LPmfc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:38"
+  },
+  {
+    "business_name": "Juicylicious",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Cafe, Ice cream shop",
+    "pincode": "209304",
+    "phone_number": "+91 93250 65330",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 223,
+    "address": "39, 11th A Cross Rd, opposite AMG Medical Store, R.T.Nagar, Kanaka Nagar, Post, Bengaluru, Karnataka 560045",
+    "area": "R.T.Nagar, Kanaka Nagar, Post",
+    "latitude": 13.037896199999999,
+    "longitude": 77.60709059999999,
+    "place_id": "ChIJYZRBP64XrjsRHxjP9LDSVZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZRBP64XrjsRHxjP9LDSVZw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:39"
+  }
+]

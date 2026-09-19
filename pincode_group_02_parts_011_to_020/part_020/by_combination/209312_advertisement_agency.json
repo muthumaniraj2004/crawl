@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDCREATION",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "209312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "59 Sadar Bazar, Bajariya Rd, Kalpi, Uttar Pradesh 285204",
+    "area": "209312",
+    "latitude": 26.1258883,
+    "longitude": 79.7443052,
+    "place_id": "ChIJqfgJPCehnTkRvJJdTnQFYOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfgJPCehnTkRvJJdTnQFYOk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:17"
+  },
+  {
+    "business_name": "Mani Advertising",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "209312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8XQ7+6C2, Mati Kishunpur, Uttar Pradesh 209101",
+    "area": "209312",
+    "latitude": 26.3380124,
+    "longitude": 79.96352929999999,
+    "place_id": "ChIJJV8Ha1exnTkRLhRR0BGWY9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJV8Ha1exnTkRLhRR0BGWY9k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:18"
+  }
+]

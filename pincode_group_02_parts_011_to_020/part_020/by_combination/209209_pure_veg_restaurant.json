@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandu's Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209209",
+    "phone_number": "+91 99566 92358",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "113/209, 113, Opposite Sharma Hospital, Near KVM Girls Degree College, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Opposite Sharma Hospital, Near KVM Girls Degree College, Khalasi Line, Swaroop Nagar",
+    "latitude": 26.4825372,
+    "longitude": 80.31479619999999,
+    "place_id": "ChIJM3XVmYI5nDkR47QLA_pYAOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3XVmYI5nDkR47QLA_pYAOE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:22"
+  },
+  {
+    "business_name": "Pandit Ratan Bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "209209",
+    "phone_number": "+91 70075 62838",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 36,
+    "address": "Apartment, Palm Court, 7/190-C Flat No :- 104 Second Floor, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Khalasi Line, Swaroop Nagar",
+    "latitude": 26.483479199999998,
+    "longitude": 80.3129756,
+    "place_id": "ChIJJWzWpkc5nDkR2MgU7sOY-pE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWzWpkc5nDkR2MgU7sOY-pE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Capital Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209622",
+    "phone_number": "+91 86579 45802",
+    "website": "https://thecapitalmall.com/",
+    "rating": 4.5,
+    "reviews_count": 11609,
+    "address": "Village, Achole Rd, off New Link Road, Nala Sopara, Yashvant Viva Twp, Nalasopara East, Vasai-Virar, Maharashtra 401209",
+    "area": "Nala Sopara, Yashvant Viva Township, Nalasopara East",
+    "latitude": 19.40712,
+    "longitude": 72.8218259,
+    "place_id": "ChIJA954tI-p5zsRtsk26WT4X_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA954tI-p5zsRtsk26WT4X_0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:22"
+  },
+  {
+    "business_name": "Silver Arc Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209622",
+    "phone_number": "+91 161 536 0001",
+    "website": "https://www.silverarcmall.com/",
+    "rating": 4.3,
+    "reviews_count": 11479,
+    "address": "622, Ferozepur Rd, Gurdev Nagar, Ludhiana, Punjab 141001",
+    "area": "Gurdev Nagar",
+    "latitude": 30.9004616,
+    "longitude": 75.8292513,
+    "place_id": "ChIJld2o7seDGjkRQ_PfKzjv_AI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJld2o7seDGjkRQ_PfKzjv_AI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:22"
+  }
+]

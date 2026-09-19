@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service",
+    "pincode": "209210",
+    "phone_number": "+91 80813 86908",
+    "website": "https://sharmataxiservices.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1/12, Laxmi Ratan Colony, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "area": "Laxmi Ratan Colony, Lajpat Nagar, Narainpurwa",
+    "latitude": 26.470171099999998,
+    "longitude": 80.3075313,
+    "place_id": "ChIJH5QQJINHnDkR9JUhWhARt1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5QQJINHnDkR9JUhWhARt1Y",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:42"
+  },
+  {
+    "business_name": "CabBazar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "209210",
+    "phone_number": "+91 87968 09009",
+    "website": "https://cabbazar.com/city/Kanpur",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "5th floor, part B, Chandak Imperial Square) 16, 105, Mall Rd, near Reserve Bank of India, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.4722285,
+    "longitude": 80.3549845,
+    "place_id": "ChIJbZ7qc2A5nDkRHXk2RyCo20A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZ7qc2A5nDkRHXk2RyCo20A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:43"
+  }
+]

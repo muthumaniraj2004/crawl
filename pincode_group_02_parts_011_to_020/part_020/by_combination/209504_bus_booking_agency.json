@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Travels (Bus Service)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "209504",
+    "phone_number": "+91 93593 95556",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "Rampur Rd, opp. Mohan x-ray, Gandhi Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Gandhi Nagar",
+    "latitude": 28.8260258,
+    "longitude": 78.7727549,
+    "place_id": "ChIJL7euvyn7CjkRoNPKojPyZZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7euvyn7CjkRoNPKojPyZZw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:14"
+  },
+  {
+    "business_name": "Radhika Travels agra",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Sightseeing Tour Operator",
+    "all_categories": "Sightseeing Tour Operator",
+    "pincode": "209504",
+    "phone_number": "+91 75005 56688",
+    "website": "http://radhikabusbooking.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "30/49, Chhipitola Rd, Rakabganj, Agra, Uttar Pradesh 282001",
+    "area": "Rakabganj",
+    "latitude": 27.1718674,
+    "longitude": 78.0113595,
+    "place_id": "ChIJrYDOHiZ3dDkRxq-zc-coLSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYDOHiZ3dDkRxq-zc-coLSU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:15"
+  }
+]

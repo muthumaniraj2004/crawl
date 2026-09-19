@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAIR STUDIO FAMILY SALOON",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "209503",
+    "phone_number": "+91 97958 17427",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near SURAJ OPICALS, Bholepur, Fatehgarh, Farrukhabad, Uttar Pradesh 209602",
+    "area": "Bholepur",
+    "latitude": 27.372083399999998,
+    "longitude": 79.6179666,
+    "place_id": "ChIJfZonGwAxnjkR5skWh_yAPEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZonGwAxnjkR5skWh_yAPEI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:51"
+  },
+  {
+    "business_name": "Super Sales",
+    "search_category": "Salon",
+    "primary_category": "Store",
+    "all_categories": "Store, Discount store",
+    "pincode": "209503",
+    "phone_number": "+91 97951 92968",
+    "website": "http://www.matrixprofessional.in/",
+    "rating": 4.3,
+    "reviews_count": 122,
+    "address": "Shop No. 56, Gate No.2, Mumtaz Market, opp. Gunge Nawab Park, Pratap Market, Kamla Market, Swadeshi Market, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Pratap Market, Kamla Market, Swadeshi Market, Aminabad",
+    "latitude": 26.846221,
+    "longitude": 80.925281,
+    "place_id": "ChIJ447TWLf9mzkRd77PONoFVNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ447TWLf9mzkRd77PONoFVNA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:53"
+  }
+]

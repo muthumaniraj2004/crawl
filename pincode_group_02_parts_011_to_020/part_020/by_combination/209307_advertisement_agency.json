@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janak advertising",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "209307",
+    "phone_number": "+91 63074 08472",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Marag, Maitha, Uttar Pradesh 209307",
+    "area": "209307",
+    "latitude": 26.534325199999998,
+    "longitude": 80.0552811,
+    "place_id": "ChIJ7WIBYADLnTkRytsgWHGGXfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WIBYADLnTkRytsgWHGGXfk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:28"
+  },
+  {
+    "business_name": "Creative signage studio",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Model design company",
+    "all_categories": "Model design company",
+    "pincode": "209307",
+    "phone_number": "+91 89577 60355",
+    "website": "https://www.creativesignstudio.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "shiwali marg, Kalyanpur, Kanpur, Basausi, Uttar Pradesh 209101",
+    "area": "Kalyanpur",
+    "latitude": 26.515473999999998,
+    "longitude": 80.1642352,
+    "place_id": "ChIJlUXBdhg1nDkRlpGhZWrUX20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUXBdhg1nDkRlpGhZWrUX20",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:29"
+  }
+]

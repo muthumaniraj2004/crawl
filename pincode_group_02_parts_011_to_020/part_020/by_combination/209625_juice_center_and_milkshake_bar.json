@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chedilal Shakes & Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Ice cream shop",
+    "pincode": "209625",
+    "phone_number": "+91 88745 98670",
+    "website": "https://www.facebook.com/chedilal1907/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "31/67, Hazratganj, opposite to Sahu Cinema., Lucknow, Uttar Pradesh 226001",
+    "area": "Sushanpura, Lalbagh",
+    "latitude": 26.8477693,
+    "longitude": 80.9444783,
+    "place_id": "ChIJO35LdAj9mzkRknzdwbg4rbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO35LdAj9mzkRknzdwbg4rbw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:33"
+  },
+  {
+    "business_name": "ALAM Market",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209625",
+    "phone_number": "+91 63949 88857",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6H2H+6P8, Jarari, Uttar Pradesh 209739",
+    "area": "209625",
+    "latitude": 27.2005475,
+    "longitude": 79.5793364,
+    "place_id": "ChIJsclbxSM9njkReDfi9YHdsW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsclbxSM9njkReDfi9YHdsW0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:35"
+  }
+]

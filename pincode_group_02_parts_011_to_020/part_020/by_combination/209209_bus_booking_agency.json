@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakti Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "209209",
+    "phone_number": "+91 522 392 5357",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 24,
+    "address": "29, Super Market, Bisheshwanath Rd, opp. Lalbagh Girls Inter College, Kaiserbagh Officer's Colony, Lalbagh, Lucknow, Uttar Pradesh 226001",
+    "area": "Kaiserbagh Officer's Colony, Lalbagh",
+    "latitude": 26.8461334,
+    "longitude": 80.9374552,
+    "place_id": "ChIJ5wzMraj9mzkRutc49JsYFVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wzMraj9mzkRutc49JsYFVQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:56"
+  },
+  {
+    "business_name": "Sethi Yatra Company",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209209",
+    "phone_number": "+91 93141 40697",
+    "website": "http://www.sethibus.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "towards, Kanpur Rd, opposite badnaam laddu wrong side, Jafar Khera, Chouraha, Alambagh, Lucknow, Uttar Pradesh 226023",
+    "area": "Jafar Khera, Chouraha, Alambagh",
+    "latitude": 26.8012184,
+    "longitude": 80.8952637,
+    "place_id": "ChIJU_pd1pP-mzkREglFSZCnX7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_pd1pP-mzkREglFSZCnX7k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:56"
+  }
+]

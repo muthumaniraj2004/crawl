@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Recruitment Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Executive search firm, Human resource consulting",
+    "pincode": "209301",
+    "phone_number": "N/A",
+    "website": "https://hrrecruitmentsolutions.com/",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "128 City Rd, London EC1V 2NX, United Kingdom",
+    "area": "209301",
+    "latitude": 51.5273469,
+    "longitude": -0.0888062,
+    "place_id": "ChIJ37FLDH4HbUgRIGgRaRMU3Ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37FLDH4HbUgRIGgRaRMU3Ag",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:05:44"
+  },
+  {
+    "business_name": "Dansk Hr Service",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "209301",
+    "phone_number": "N/A",
+    "website": "https://dhrs.dk/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Dansk Hr Service, 209301, India",
+    "area": "209301",
+    "latitude": 56.23008,
+    "longitude": 11.542499999999999,
+    "place_id": "ChIJpxocP3-P9qwRF2VfeU-aWUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxocP3-P9qwRF2VfeU-aWUM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:05:44"
+  }
+]

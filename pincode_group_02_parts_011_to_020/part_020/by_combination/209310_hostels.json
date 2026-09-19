@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Status club business Hotel",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast",
+    "pincode": "209310",
+    "phone_number": "+91 84004 22226",
+    "website": "http://statusclub.co.in/",
+    "rating": 4,
+    "reviews_count": 347,
+    "address": "Plot no 3, 4,5, Navin Market Ln, near Metro Station, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.474724,
+    "longitude": 80.34526509999999,
+    "place_id": "ChIJcXhOj6E4nDkRgHR9NBZctOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXhOj6E4nDkRgHR9NBZctOU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:19:21"
+  },
+  {
+    "business_name": "Backpackers Den",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "209310",
+    "phone_number": "+91 96952 72102",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 220,
+    "address": "69, Avas Vikas Colony, The Mall Avenue, Lucknow, Uttar Pradesh 226002",
+    "area": "Avas Vikas Colony, The Mall Avenue",
+    "latitude": 26.831916699999997,
+    "longitude": 80.94964879999999,
+    "place_id": "ChIJrTx_Qf78mzkRyqypOODTwrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTx_Qf78mzkRyqypOODTwrE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:19:21"
+  }
+]

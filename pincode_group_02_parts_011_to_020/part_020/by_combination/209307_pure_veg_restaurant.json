@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kohli sweet house",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C33C+R32, NH 19, Bhaunti, Rania, Uttar Pradesh 209101",
+    "area": "Bhaunti",
+    "latitude": 26.4045173,
+    "longitude": 80.0701369,
+    "place_id": "ChIJgQuSZde1nTkRr-Ywchzu2Go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQuSZde1nTkRr-Ywchzu2Go",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:58"
+  },
+  {
+    "business_name": "3f's hotel & Resort",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Vishayakpur rania Kanpur dehat, Uttar Pradesh 209101",
+    "area": "209307",
+    "latitude": 26.412929,
+    "longitude": 80.09771789999999,
+    "place_id": "ChIJJRtmJLu1nTkRsumYHw1JZDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRtmJLu1nTkRsumYHw1JZDU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:58"
+  }
+]

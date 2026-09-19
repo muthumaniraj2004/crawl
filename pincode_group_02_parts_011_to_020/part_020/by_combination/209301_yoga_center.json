@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurukul Fitness Club",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "209301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 10, Ganesh Ganj, near Reliance Tower, Rura, Uttar Pradesh 209303",
+    "area": "209301",
+    "latitude": 26.4875617,
+    "longitude": 79.89988989999999,
+    "place_id": "ChIJ8dB1rs7HnTkRUHQ3QcPd7LE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dB1rs7HnTkRUHQ3QcPd7LE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:04:54"
+  },
+  {
+    "business_name": "The Hit Gym By Shubh",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "209301",
+    "phone_number": "+91 70079 73148",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "The Hit Gym, near Baroda Gramin Bank Crossing, Jhinjhak, Uttar Pradesh 209302",
+    "area": "209301",
+    "latitude": 26.558311999999997,
+    "longitude": 79.7299479,
+    "place_id": "ChIJtTf0xtHpnTkRAAAAsKrpjkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTf0xtHpnTkRAAAAsKrpjkw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:04:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhulika Market",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "209308",
+    "phone_number": "+91 89576 19694",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 102,
+    "address": "12- Malviya Vihar Madhulika Market, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra",
+    "latitude": 26.4240662,
+    "longitude": 80.3045266,
+    "place_id": "ChIJdXlqdbRHnDkRQoHrHZWDy50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXlqdbRHnDkRQoHrHZWDy50",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:39"
+  },
+  {
+    "business_name": "Patara, Uttar Pradesh 209308",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "209308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patara, Uttar Pradesh",
+    "area": "209308",
+    "latitude": 26.2496753,
+    "longitude": 80.2098219,
+    "place_id": "ChIJwbKo1otRnDkRcUL8zD3URuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbKo1otRnDkRcUL8zD3URuw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:40"
+  }
+]

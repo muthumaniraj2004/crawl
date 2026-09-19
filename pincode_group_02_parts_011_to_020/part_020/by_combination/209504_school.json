@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Army Public School Fatehgarh",
+    "search_category": "School",
+    "primary_category": "High school",
+    "all_categories": "High school, School",
+    "pincode": "209504",
+    "phone_number": "+91 70806 67367",
+    "website": "http://apsfatehgarh.com/index.php?option=com_content&task=view&id=22&Itemid=26",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9JGF+GJX, Sheesham Bagh, Cantt Area, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Sheesham Bagh, Cantt Area",
+    "latitude": 27.376370299999998,
+    "longitude": 79.62409699999999,
+    "place_id": "ChIJcUpGpeswnjkR_DuNXWTPg0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUpGpeswnjkR_DuNXWTPg0M",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:39"
+  },
+  {
+    "business_name": "R.D.B.S public School",
+    "search_category": "School",
+    "primary_category": "Kindergarten School",
+    "all_categories": "Kindergarten School",
+    "pincode": "209504",
+    "phone_number": "+91 83540 97011",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Infront of BSA Office, Gulistan Colony, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Gulistan Colony",
+    "latitude": 27.3534401,
+    "longitude": 79.6290516,
+    "place_id": "ChIJTRht3sMxnjkRNnpiNpddFSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRht3sMxnjkRNnpiNpddFSs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:40"
+  }
+]

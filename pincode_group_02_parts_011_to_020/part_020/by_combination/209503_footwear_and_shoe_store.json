@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyoti Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209503",
+    "phone_number": "+91 80905 10686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "09, Farrukhabad, near Aaryavart Gramin Bank Ke Paaa, Shamshabad, Uttar Pradesh 209503",
+    "area": "209503",
+    "latitude": 27.5367398,
+    "longitude": 79.4371669,
+    "place_id": "ChIJ29qIAuDVnzkRG_IuKlFMkHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29qIAuDVnzkRG_IuKlFMkHU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:21"
+  },
+  {
+    "business_name": "Raj Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209503",
+    "phone_number": "+91 90445 83953",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2Khareta, Near, Road, Kaimganj, Nayamatpur Bhuksi, Uttar Pradesh 209503",
+    "area": "209503",
+    "latitude": 27.5668892,
+    "longitude": 79.4287643,
+    "place_id": "ChIJ3wlE5lTVnzkRMWR2vStIarA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wlE5lTVnzkRMWR2vStIarA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veatfresh",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Seafood market",
+    "pincode": "209209",
+    "phone_number": "+91 91962 57705",
+    "website": "http://veatfresh.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "LGF-3, Vinayak Complex, near Badshah Nagar Circle, Badshahnagar, Railway Colony, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Badshahnagar, Railway Colony, Mahanagar",
+    "latitude": 26.8703859,
+    "longitude": 80.95909379999999,
+    "place_id": "ChIJjRWSQhX9mzkRifNwCiyAkH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRWSQhX9mzkRifNwCiyAkH0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:18"
+  },
+  {
+    "business_name": "LUCKNOW MEAT WALA",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler, Meat packer, Meat processor, Meat products store",
+    "pincode": "209209",
+    "phone_number": "+91 78006 35000",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 25,
+    "address": "A 20, Nirala Nagar, Lucknow, Uttar Pradesh 226020",
+    "area": "Nirala Nagar",
+    "latitude": 26.8720118,
+    "longitude": 80.93908929999999,
+    "place_id": "ChIJ-3uz43f9mzkRAkksuhLX2iY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3uz43f9mzkRAkksuhLX2iY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:19"
+  }
+]

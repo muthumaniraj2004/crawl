@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIP Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "209502",
+    "phone_number": "+91 98381 10790",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purani sabzi Mandi, Kaimganj, Uttar Pradesh 209502",
+    "area": "209502",
+    "latitude": 27.5548003,
+    "longitude": 79.33636,
+    "place_id": "ChIJfVOfI7x_dTkREaZvtafCmrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVOfI7x_dTkREaZvtafCmrE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:28:43"
+  },
+  {
+    "business_name": "Bablu Tailor's Shop",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "209502",
+    "phone_number": "+91 95598 96502",
+    "website": "https://youtube.com/@mohdkaifkhan0786?feature=shared",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Patwan Gali, Kaimganj, Uttar Pradesh 209502",
+    "area": "209502",
+    "latitude": 27.551563899999998,
+    "longitude": 79.33944509999999,
+    "place_id": "ChIJcWdldAB_dTkRlAER8i8RMIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWdldAB_dTkRlAER8i8RMIY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:28:43"
+  }
+]

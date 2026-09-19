@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDIA EXPO CENTRE & MART",
+    "search_category": "Tradeshows",
+    "primary_category": "Conference center",
+    "all_categories": "Conference center, Convention center, Exhibition and trade center",
+    "pincode": "209205",
+    "phone_number": "+91 120 232 8011",
+    "website": "http://indiaexpomart.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot No. 23 –25 & 27- 29, Knowledge Park II, Greater Noida, Uttar Pradesh 201306",
+    "area": "Knowledge Park II",
+    "latitude": 28.4618471,
+    "longitude": 77.50054829999999,
+    "place_id": "ChIJ3-PXWtnBDDkR81iFSG8hBdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-PXWtnBDDkR81iFSG8hBdI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:53:16"
+  },
+  {
+    "business_name": "Indian Treasure",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "209205",
+    "phone_number": "+91 93352 30886",
+    "website": "http://www.perfectdreamevents.in/",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "10, Gendkhana, Husainabad, Lucknow, Uttar Pradesh 226003",
+    "area": "Husainabad",
+    "latitude": 26.872781,
+    "longitude": 80.8820535,
+    "place_id": "ChIJhXPYs3H_mzkRT15TWGynhk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXPYs3H_mzkRT15TWGynhk4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:53:16"
+  }
+]

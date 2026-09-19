@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar bhog",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "209311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 78,
+    "address": "9XHW+JW7, Uttar Pradesh 209101",
+    "area": "209311",
+    "latitude": 26.3790302,
+    "longitude": 79.9972915,
+    "place_id": "ChIJ2Xi7uua3nTkRxy1kpAQKuVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Xi7uua3nTkRxy1kpAQKuVw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:13"
+  },
+  {
+    "business_name": "Satwik Foods",
+    "search_category": "Family Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "209311",
+    "phone_number": "+91 83183 77820",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 28,
+    "address": "49/53,54, Pipal Wali Kothi, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Pipal Wali Kothi, General Ganj",
+    "latitude": 26.461546,
+    "longitude": 80.35289379999999,
+    "place_id": "ChIJu1YTIpNHnDkRrkRBdOsefiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1YTIpNHnDkRrkRBdOsefiM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:15"
+  }
+]

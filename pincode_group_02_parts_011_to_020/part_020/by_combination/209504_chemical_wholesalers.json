@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veeransh Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Agrochemicals Supplier, Chemical Exporter",
+    "pincode": "209504",
+    "phone_number": "+91 70168 55746",
+    "website": "https://www.veeranshchemicals.com/en",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1st floor, Tirupati Plaza, Office No 112, Road, near Mohit Park, above ICICI Bank, Chala, Vapi, Gujarat 396191",
+    "area": "Chala",
+    "latitude": 20.3850472,
+    "longitude": 72.9016377,
+    "place_id": "ChIJyaETtNTP4DsRZexNaJJoIao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaETtNTP4DsRZexNaJJoIao",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:59"
+  },
+  {
+    "business_name": "Kisan Agencies",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "209504",
+    "phone_number": "+91 86041 19494",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Mandi Rd, Farrukhabad, Papiha Pur, Uttar Pradesh 209602",
+    "area": "209504",
+    "latitude": 27.3640479,
+    "longitude": 79.59697109999999,
+    "place_id": "ChIJC7Hb7OMxnjkR2RX2mRb6Nb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7Hb7OMxnjkR2RX2mRb6Nb8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:33:01"
+  }
+]

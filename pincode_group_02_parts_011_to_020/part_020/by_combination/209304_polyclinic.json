@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj Medical Store And Anuj Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209304",
+    "phone_number": "+91 90269 74160",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sujanpur, Road, Bhimsen, Uttar Pradesh 209305",
+    "area": "209304",
+    "latitude": 26.4330619,
+    "longitude": 80.20782419999999,
+    "place_id": "ChIJW-9PNJlJnDkRQ6TErarXTmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-9PNJlJnDkRQ6TErarXTmw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:58"
+  },
+  {
+    "business_name": "Care Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "209304",
+    "phone_number": "+91 91298 42136",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Palra, Uttar Pradesh 209214",
+    "area": "209304",
+    "latitude": 26.3683581,
+    "longitude": 80.1635648,
+    "place_id": "ChIJL-OVxQNLnDkRv9oUZJEZmcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-OVxQNLnDkRv9oUZJEZmcU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:58"
+  }
+]

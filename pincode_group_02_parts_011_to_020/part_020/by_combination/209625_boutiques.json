@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S. S. Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "209625",
+    "phone_number": "+91 79838 46848",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Nakhas Rd, Bhikampura, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Bhikampura",
+    "latitude": 27.396456999999998,
+    "longitude": 79.5840293,
+    "place_id": "ChIJzbFgJl0xnjkRNVVWBHSECWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbFgJl0xnjkRNVVWBHSECWs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:47"
+  },
+  {
+    "business_name": "Shoppers Store | Deepgyan Retail Private Limited",
+    "search_category": "Boutiques",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service, Book store, Clothing store",
+    "pincode": "209625",
+    "phone_number": "+91 80054 10103",
+    "website": "https://shoppersstore.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6A-237, Awas Vikas Colony, Farrukhabad, Baglakhula, Uttar Pradesh 209625",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.384849199999998,
+    "longitude": 79.5996973,
+    "place_id": "ChIJY7PGmDYxnjkRO-7j7vwK6SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7PGmDYxnjkRO-7j7vwK6SY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:50"
+  }
+]

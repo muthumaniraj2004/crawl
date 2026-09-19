@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divyanshi Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209311",
+    "phone_number": "+91 79850 86650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4/3117 Avas Vikas Saray Maswanpur Road Near Pakka Talab, Uttar Pradesh 209101",
+    "area": "209311",
+    "latitude": 26.419635099999997,
+    "longitude": 80.0872053,
+    "place_id": "ChIJuQuMWhI3nDkRCLvAPQWkmmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQuMWhI3nDkRCLvAPQWkmmM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:01"
+  },
+  {
+    "business_name": "Kumar Provision Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73P4+J64, Ghatampur Rd, Gajner, Uttar Pradesh 209121",
+    "area": "209311",
+    "latitude": 26.2865091,
+    "longitude": 80.0555904,
+    "place_id": "ChIJFzkL-a-znTkRCop5hGi0vdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzkL-a-znTkRCop5hGi0vdc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:01"
+  }
+]

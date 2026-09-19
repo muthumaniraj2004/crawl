@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Clinic",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "209652",
+    "phone_number": "+91 97923 88371",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nebkarori, Road, Kanpur, Nibkarori, Uttar Pradesh 209652",
+    "area": "209652",
+    "latitude": 27.3215526,
+    "longitude": 79.3649695,
+    "place_id": "ChIJUY8zfsqJdTkRZ6Z6_9lFMxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUY8zfsqJdTkRZ6Z6_9lFMxk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:45:32"
+  },
+  {
+    "business_name": "Shivaay Pathology Lab",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "209652",
+    "phone_number": "+91 91407 12237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Neebkaroli Road, Kanpur, Nibkarori, Uttar Pradesh 209652",
+    "area": "209652",
+    "latitude": 27.3178515,
+    "longitude": 79.3634591,
+    "place_id": "ChIJvQ17Aq2JdTkR4BaEoU9IKgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQ17Aq2JdTkR4BaEoU9IKgQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:45:32"
+  }
+]

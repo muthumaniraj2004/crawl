@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joye Grand",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209307",
+    "phone_number": "+91 94280 56779",
+    "website": "N/A",
+    "rating": 1.4,
+    "reviews_count": null,
+    "address": "G7C2+FM4, CTI Pl, Govind Nagar, Kalyanpur, Kanpur, Gangpur Kachhar, Uttar Pradesh 208017",
+    "area": "Govind Nagar, Kalyanpur",
+    "latitude": 26.5211339,
+    "longitude": 80.25169609999999,
+    "place_id": "ChIJj1WDfw03nDkRE4PxwbwK-l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1WDfw03nDkRE4PxwbwK-l4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:53"
+  },
+  {
+    "business_name": "Amaltas Forest Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "209307",
+    "phone_number": "N/A",
+    "website": "https://www.amaltasworld.com/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "145, Kharagpur Bithoor, Kanpur, Uttar Pradesh 208093",
+    "area": "209307",
+    "latitude": 26.4577277,
+    "longitude": 80.120301,
+    "place_id": "ChIJG1nDdmQ1nDkRV9H-43ArsT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1nDdmQ1nDkRV9H-43ArsT8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:15:55"
+  }
+]

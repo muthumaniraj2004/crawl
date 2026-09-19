@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpana trading company",
+    "search_category": "Importers",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store",
+    "pincode": "209621",
+    "phone_number": "+91 99368 19264",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajepur, Uttar Pradesh 209625",
+    "area": "209621",
+    "latitude": 27.476813699999997,
+    "longitude": 79.658053,
+    "place_id": "ChIJb4aNceg1njkR9jJg4WFiCmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4aNceg1njkR9jJg4WFiCmU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:39:36"
+  },
+  {
+    "business_name": "Eastman Dealer",
+    "search_category": "Importers",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Battery Wholesaler, Solar energy system service, Solar energy equipment supplier, Solar panel maintenance service",
+    "pincode": "209621",
+    "phone_number": "+91 95557 18810",
+    "website": "https://eastmanbattery.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Om Battery Service, Laal Gate, Panchal Ghat Rd, Manhari, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Manhari",
+    "latitude": 27.387329899999997,
+    "longitude": 79.5895831,
+    "place_id": "ChIJgVoqvxMxnjkR74uD6Sot130",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVoqvxMxnjkR74uD6Sot130",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:39:39"
+  }
+]

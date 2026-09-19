@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maahi travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209401",
+    "phone_number": "N/A",
+    "website": "https://maahitravelindia.com/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Sarsaul, Uttar Pradesh 209402",
+    "area": "209401",
+    "latitude": 26.2818249,
+    "longitude": 80.4877233,
+    "place_id": "ChIJeTYufmBnnDkRhWkZlt5VG1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTYufmBnnDkRhWkZlt5VG1o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:24:03"
+  },
+  {
+    "business_name": "Aleem Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209401",
+    "phone_number": "+91 99361 13802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "87WW+4XH, Hamirpur Rd, Ramaipur, Jahanpur, Uttar Pradesh 209214",
+    "area": "209401",
+    "latitude": 26.345309699999998,
+    "longitude": 80.2974883,
+    "place_id": "ChIJeT5UpBdFnDkRXMZ-kGbRIts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeT5UpBdFnDkRXMZ-kGbRIts",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:24:07"
+  }
+]

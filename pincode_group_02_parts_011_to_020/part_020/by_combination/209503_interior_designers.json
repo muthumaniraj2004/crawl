@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khaka Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architect, Architecture firm, Interior architect office, Interior Decorator",
+    "pincode": "209503",
+    "phone_number": "+91 97600 97081",
+    "website": "https://khakainteriors.com/",
+    "rating": 4.9,
+    "reviews_count": 244,
+    "address": "4/753, Sector 4, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Sector 4, Gomti Nagar",
+    "latitude": 26.8251381,
+    "longitude": 81.0103706,
+    "place_id": "ChIJDeAb5WHjmzkRhHu9U8qpIes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeAb5WHjmzkRhHu9U8qpIes",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:49"
+  },
+  {
+    "business_name": "Shri Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior Decorator",
+    "pincode": "209503",
+    "phone_number": "N/A",
+    "website": "http://shridecor.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near Over bridge, Nekpur Kalan, Bholepur, Farrukhabad, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Nekpur Kalan, Bholepur",
+    "latitude": 27.375146599999997,
+    "longitude": 79.6107296,
+    "place_id": "ChIJeWBRNAAxnjkRmRSSQ0OB8Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWBRNAAxnjkRmRSSQ0OB8Gg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:50"
+  }
+]

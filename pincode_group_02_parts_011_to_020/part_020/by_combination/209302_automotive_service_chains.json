@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalini Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "209302",
+    "phone_number": "+91 99351 74331",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 59,
+    "address": "212, G T Road, Ramadevi, Ayodhya Market, Near Malik Complex, Safipur, Jajmau Sub Metro City, Kanpur, Uttar Pradesh 208007",
+    "area": "Ramadevi, Ayodhya Market, Near Malik Complex, Safipur, Jajmau Sub Metro City",
+    "latitude": 26.413623899999997,
+    "longitude": 80.3844902,
+    "place_id": "ChIJfXiqTTxBnDkRV1wuqKdj-qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXiqTTxBnDkRV1wuqKdj-qs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:46"
+  },
+  {
+    "business_name": "ScrapCentre.com",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Used auto parts store",
+    "all_categories": "Used auto parts store, Salvage yard, Scrap metal dealer",
+    "pincode": "209302",
+    "phone_number": "N/A",
+    "website": "https://scrapcentre.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "A-4, UPSIDC - Plastic City, Dibiyapur Lakhanpur, Mainputh, Dibiyapur, Uttar Pradesh 206246",
+    "area": "209302",
+    "latitude": 26.5695426,
+    "longitude": 79.5716073,
+    "place_id": "ChIJ4Rk8J8XvnTkRTU2kZmzf5SQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Rk8J8XvnTkRTU2kZmzf5SQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:46"
+  }
+]

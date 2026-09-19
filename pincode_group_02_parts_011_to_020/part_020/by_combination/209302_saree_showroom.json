@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind saree showroom",
+    "search_category": "Saree Showroom",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Main, market, Rasulabad, Kanpur, Uttar Pradesh 209306",
+    "area": "209302",
+    "latitude": 26.6779421,
+    "longitude": 79.7786622,
+    "place_id": "ChIJ7VSbIfXdnTkRaiSsdNj4wHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VSbIfXdnTkRaiSsdNj4wHw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:18"
+  },
+  {
+    "business_name": "Yug Vastralaya",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "209302",
+    "phone_number": "+91 77538 32764",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Purani kapda gali, Bada Chauraha, Jhinjhak, Uttar Pradesh 209302",
+    "area": "209302",
+    "latitude": 26.562953,
+    "longitude": 79.7361288,
+    "place_id": "ChIJnUPtaBbpnTkRts9u5Xsmo2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUPtaBbpnTkRts9u5Xsmo2w",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:18"
+  }
+]

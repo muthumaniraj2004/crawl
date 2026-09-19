@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store",
+    "pincode": "209401",
+    "phone_number": "+91 82998 22719",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "664, DBS Rd, B Block, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "B Block, Govind Nagar",
+    "latitude": 26.4527507,
+    "longitude": 80.3071756,
+    "place_id": "ChIJI8ALspFHnDkR0r81NIsABxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8ALspFHnDkR0r81NIsABxo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:24:41"
+  },
+  {
+    "business_name": "Authorised Samsung Service Center - Quick Fix",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Phone repair service, Repair service",
+    "pincode": "209401",
+    "phone_number": "+91 98399 55773",
+    "website": "https://servicecenter.samsungdigitalservicecenter.com/authorised-samsung-service-center-quick-fix-mobile-phone-repair-shop-canal-road-kanpur-389789/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No 25, 26A, Canal Rd, Naughara, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Naughara, General Ganj",
+    "latitude": 26.4628913,
+    "longitude": 80.358176,
+    "place_id": "ChIJr5Sb_8JHnDkRG2hRSgtaqU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5Sb_8JHnDkRG2hRSgtaqU0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:24:42"
+  }
+]

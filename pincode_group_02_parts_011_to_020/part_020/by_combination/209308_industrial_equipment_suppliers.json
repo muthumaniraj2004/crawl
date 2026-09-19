@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop",
+    "pincode": "209308",
+    "phone_number": "+91 73090 16831",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "119/9, Kalpi Rd, Jareeb Chowki, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Jareeb Chowki, Darshan Purwa",
+    "latitude": 26.4631372,
+    "longitude": 80.3218873,
+    "place_id": "ChIJ91YAZXxHnDkRCRlr5EWUHRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91YAZXxHnDkRCRlr5EWUHRQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:18:06"
+  },
+  {
+    "business_name": "Sai engineers&fabricators",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machine workshop",
+    "all_categories": "Machine workshop",
+    "pincode": "209308",
+    "phone_number": "+91 94556 81021",
+    "website": "https://sai-engineersfabricators.grexa.site/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Plot number- F 101, F 101, ispat nagar, Saraimita, Kanpur, Uttar Pradesh 208020",
+    "area": "ispat nagar, Saraimita",
+    "latitude": 26.444851999999997,
+    "longitude": 80.24341059999999,
+    "place_id": "ChIJIemxWYxHnDkRmcvoJWofOEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIemxWYxHnDkRmcvoJWofOEg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:18:06"
+  }
+]

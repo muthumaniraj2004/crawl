@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarang Restaurant and Banquet",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "209401",
+    "phone_number": "+91 92363 01978",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "6G2P+H38, Naugawangautam, Uttar Pradesh 209402",
+    "area": "209401",
+    "latitude": 26.201987,
+    "longitude": 80.535504,
+    "place_id": "ChIJlSlhMwBnnDkRFjlyS0hBqmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSlhMwBnnDkRFjlyS0hBqmE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:34"
+  },
+  {
+    "business_name": "South Indian food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balu's kitchen infront of alka krashi form house oriyara, chauraha, Ramaipur, Uttar Pradesh 209214",
+    "area": "chauraha",
+    "latitude": 26.344944899999998,
+    "longitude": 80.2973329,
+    "place_id": "ChIJtb79rexFnDkR6bW-wKy5yF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtb79rexFnDkR6bW-wKy5yF4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:23:34"
+  }
+]

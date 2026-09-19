@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla Sweets & Family Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Sweet shop, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "209306",
+    "phone_number": "+91 94530 16990",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "SH 21, Tirwaganj, Uttar Pradesh 209732",
+    "area": "209306",
+    "latitude": 26.952448099999998,
+    "longitude": 79.78628499999999,
+    "place_id": "ChIJc4QWtldynjkRHZJfY3jXwrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4QWtldynjkRHZJfY3jXwrQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:15"
+  },
+  {
+    "business_name": "Salt & Pepper South Indian Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "209306",
+    "phone_number": "+91 73889 80881",
+    "website": "https://salt-pepper-south-indian-restaurant.ueniweb.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "opp. Kisan Bazar, Tirwaganj, Uttar Pradesh 209732",
+    "area": "209306",
+    "latitude": 26.9519552,
+    "longitude": 79.7818834,
+    "place_id": "ChIJgYPdzmRznjkRTsK6bElN5jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYPdzmRznjkRTsK6bElN5jE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:15"
+  }
+]

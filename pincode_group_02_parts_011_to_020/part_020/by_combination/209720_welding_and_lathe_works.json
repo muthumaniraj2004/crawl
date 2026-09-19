@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Automobile Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "209720",
+    "phone_number": "+91 98800 72124",
+    "website": "http://sriautomobileworks.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "71, 45, Narasimha Layout, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "Narasimha Layout, Yeswanthpur",
+    "latitude": 13.0213102,
+    "longitude": 77.53650259999999,
+    "place_id": "ChIJyUlrZBI9rjsR0nFHrwVhTDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUlrZBI9rjsR0nFHrwVhTDc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:47:41"
+  },
+  {
+    "business_name": "Arul Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Tool & die shop",
+    "all_categories": "Tool & die shop",
+    "pincode": "209720",
+    "phone_number": "+91 94431 38002",
+    "website": "https://arulengineering.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HX3F+H53, YMCA Square, Nazareth, Tamil Nadu 628617",
+    "area": "YMCA Square",
+    "latitude": 8.5538963,
+    "longitude": 77.9729318,
+    "place_id": "ChIJ770t8oGJAzsRjBVDodpcVh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ770t8oGJAzsRjBVDodpcVh4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:47:42"
+  }
+]

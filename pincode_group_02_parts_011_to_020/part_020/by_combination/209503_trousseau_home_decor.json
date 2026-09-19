@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Wrapping Store",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "209503",
+    "phone_number": "+91 79762 13152",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PEARL APARTMENT, B-403, Satellite, Rajivnagar, Shyamal, Ahmedabad, Gujarat 380015",
+    "area": "Satellite, Rajivnagar, Shyamal",
+    "latitude": 23.0112176,
+    "longitude": 72.5332359,
+    "place_id": "ChIJA1SRIaGFXjkRQMA8WvqRWso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1SRIaGFXjkRQMA8WvqRWso",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:31:02"
+  },
+  {
+    "business_name": "The Trunk Stories",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Corporate gift supplier, Gift basket store, Packaging company",
+    "pincode": "209503",
+    "phone_number": "+91 97946 07498",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 12,
+    "address": "Pashupati Apartments, Parehta, Sikandarbagh, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Parehta, Sikandarbagh, Hazratganj",
+    "latitude": 26.854368899999997,
+    "longitude": 80.9541418,
+    "place_id": "ChIJi3ttn279mzkRVsbwNT6mF1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3ttn279mzkRVsbwNT6mF1E",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:31:02"
+  }
+]

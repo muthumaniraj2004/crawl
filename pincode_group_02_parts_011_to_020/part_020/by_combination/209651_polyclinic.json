@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE APEX POlYCLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "209651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "mod, near kamalganj, Jahan Ganj, Pataunja, Uttar Pradesh 209739",
+    "area": "209651",
+    "latitude": 27.251590699999998,
+    "longitude": 79.5546845,
+    "place_id": "ChIJ-4v-u8QznjkRXY364avD0o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4v-u8QznjkRXY364avD0o4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:43:33"
+  },
+  {
+    "business_name": "Sigh Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "209651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9FGQ+22V, Jinaiya Sithaiya, Uttar Pradesh 209651",
+    "area": "209651",
+    "latitude": 27.375201399999998,
+    "longitude": 79.4875991,
+    "place_id": "ChIJIQq8YwcvnjkR0Zg4MsWoihc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQq8YwcvnjkR0Zg4MsWoihc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:43:33"
+  }
+]

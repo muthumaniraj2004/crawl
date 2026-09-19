@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvar Plumbing Service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209301",
+    "phone_number": "+91 93699 45407",
+    "website": "https://jsdl.in/RSL-URB1752683637",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Indira Nagar Picnic Spot Road, Chandan Rd, Lucknow, Uttar Pradesh 226016",
+    "area": "Chandanapur, Indira Nagar",
+    "latitude": 26.899783199999998,
+    "longitude": 80.9985099,
+    "place_id": "ChIJU7u4gGJZmTkR_9B8ilt-Bfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7u4gGJZmTkR_9B8ilt-Bfw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:05:09"
+  },
+  {
+    "business_name": "Ravindra Pal",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FMJM+95R, Jaura, Uttar Pradesh 209310",
+    "area": "209301",
+    "latitude": 26.4809849,
+    "longitude": 79.68289949999999,
+    "place_id": "ChIJxeJoEADrnTkRc4JoYPTqSTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxeJoEADrnTkRc4JoYPTqSTQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:05:09"
+  }
+]

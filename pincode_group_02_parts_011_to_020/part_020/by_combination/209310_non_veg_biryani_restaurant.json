@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 33,
+    "address": "Jhinjhak, Mangalpur, Bypass Rd, Kanpur, Uttar Pradesh 209310",
+    "area": "209310",
+    "latitude": 26.5358116,
+    "longitude": 79.71303669999999,
+    "place_id": "ChIJ68-zUNDrnTkRTM8iLqAYhJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68-zUNDrnTkRTM8iLqAYhJY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:18:27"
+  },
+  {
+    "business_name": "Sutthi Mani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "209310",
+    "phone_number": "+91 63900 01496",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 563,
+    "address": "Lal Bangla St, Chandar Nagar, Lal Bangla, Jajmau, Kanpur, Uttar Pradesh 208007",
+    "area": "Chandar Nagar, Lal Bangla, Jajmau",
+    "latitude": 26.4241615,
+    "longitude": 80.38826329999999,
+    "place_id": "ChIJ3RiBqedBnDkRj5N6xc7AB4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RiBqedBnDkRj5N6xc7AB4Y",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:18:29"
+  }
+]

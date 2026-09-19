@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pvt",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Corporate office",
+    "pincode": "209301",
+    "phone_number": "+91 82991 95425",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Derapur, Uttar Pradesh 209301",
+    "area": "209301",
+    "latitude": 26.4188679,
+    "longitude": 79.793044,
+    "place_id": "ChIJ19apgXC_nTkRQUI0_qLBNoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19apgXC_nTkRQUI0_qLBNoE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:05:27"
+  },
+  {
+    "business_name": "Pankaj event management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "209301",
+    "phone_number": "+91 70682 71873",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parjani, Daya Ka Purva, Uttar Pradesh 209302",
+    "area": "209301",
+    "latitude": 26.5716961,
+    "longitude": 79.6763829,
+    "place_id": "ChIJ9fWcVQDpnTkRsIYnqvvPHmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fWcVQDpnTkRsIYnqvvPHmY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:05:27"
+  }
+]

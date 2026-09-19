@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Shekhar Mango Milk Shake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "209311",
+    "phone_number": "+91 86045 95124",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shivli Road, Tikra Kanpur, Kanpur, Uttar Pradesh 209217",
+    "area": "209311",
+    "latitude": 26.512479,
+    "longitude": 80.1918489,
+    "place_id": "ChIJtfFkkRk3nDkR1eKVOKEBP78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfFkkRk3nDkR1eKVOKEBP78",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:09"
+  },
+  {
+    "business_name": "Mix Fruit Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice Center and Milkshake Bar",
+    "all_categories": "Juice Center and Milkshake Bar",
+    "pincode": "209311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "F7JQ+X2J, Geeta Nagar Rd, Namak Factory Chauraha, Chhapeda Pulia, Chappera Pulia, Geeta Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Namak Factory Chauraha, Chhapeda Pulia, Chappera Pulia, Geeta Nagar, Kakadeo",
+    "latitude": 26.4824546,
+    "longitude": 80.2875274,
+    "place_id": "ChIJSUIdBBo4nDkRcZXzkjHRisM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUIdBBo4nDkRcZXzkjHRisM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:10"
+  }
+]

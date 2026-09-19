@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumkins Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Baby clothing store, Childrens Store, Clothing store",
+    "pincode": "209304",
+    "phone_number": "+91 72300 04281",
+    "website": "https://www.mumkins.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor, Z Square Mall, MG Road, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.4735768,
+    "longitude": 80.35255769999999,
+    "place_id": "ChIJERPuVrg5nDkR9G9qGaS9pVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERPuVrg5nDkR9G9qGaS9pVc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:45"
+  },
+  {
+    "business_name": "Talor",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "209304",
+    "phone_number": "+91 76077 13296",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C6Q3 XH6, Bhailamau, Bhautipratappur, Uttar Pradesh 209305",
+    "area": "209304",
+    "latitude": 26.439434199999997,
+    "longitude": 80.2037801,
+    "place_id": "ChIJnd7GkPZJnDkRMfwW4y9es8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnd7GkPZJnDkRMfwW4y9es8E",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:45"
+  }
+]

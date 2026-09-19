@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Krishna jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "209305",
+    "phone_number": "+91 73094 77330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Plot no 24, Gangaganj-4, Gangaganj Colony, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Gangaganj-4, Gangaganj Colony, Panki",
+    "latitude": 26.468019599999998,
+    "longitude": 80.22652649999999,
+    "place_id": "ChIJAwZE-aA3nDkRoJ3edv0hXgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwZE-aA3nDkRoJ3edv0hXgE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:11:32"
+  },
+  {
+    "business_name": "Meera Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "209305",
+    "phone_number": "+91 77860 10677",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "near SBI BANK, Shahpur, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Shahpur, Panki",
+    "latitude": 26.4679333,
+    "longitude": 80.2498476,
+    "place_id": "ChIJ9yUgdy03nDkR9R7wFjuMv1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yUgdy03nDkR9R7wFjuMv1Y",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:11:32"
+  }
+]

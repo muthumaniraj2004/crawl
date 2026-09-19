@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Ganga car washing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "209602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "9JC5+R4F, Nekpur Kalan, Farrukhabad, Uttar Pradesh 209601",
+    "area": "Nekpur Kalan",
+    "latitude": 27.3720674,
+    "longitude": 79.6078113,
+    "place_id": "ChIJN9rvUwAxnjkRFJsXndeCGrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9rvUwAxnjkRFJsXndeCGrI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:37:00"
+  },
+  {
+    "business_name": "The Car Guys",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "209602",
+    "phone_number": "+91 78750 54585",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 157,
+    "address": "Ruikar Colony, Kolhapur, Maharashtra 416005",
+    "area": "Ruikar Colony",
+    "latitude": 16.7014112,
+    "longitude": 74.2550566,
+    "place_id": "ChIJyXwRawABwTsRYat5YK4vFiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXwRawABwTsRYat5YK4vFiY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:37:00"
+  }
+]

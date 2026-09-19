@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tax Advisors",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "209209",
+    "phone_number": "N/A",
+    "website": "http://www.thetaxadvisors.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "15/20, FF, Block 14, Ashok Nagar, New Delhi, Delhi, 110018",
+    "area": "Block 14, Ashok Nagar",
+    "latitude": 28.637316499999997,
+    "longitude": 77.1047498,
+    "place_id": "ChIJLccKBwAFDTkRDCqMqKr-KW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLccKBwAFDTkRDCqMqKr-KW8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:58:39"
+  },
+  {
+    "business_name": "Ghanshyam S.Chawla Advocate",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer, Chartered accountant",
+    "pincode": "209209",
+    "phone_number": "+91 79744 95997",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "209, Gurunanak chowk First Floor Moshin, Market, M.G. (C.G, MG Rd, Raipur, Chhattisgarh 492001",
+    "area": "Moudhapara",
+    "latitude": 21.2486118,
+    "longitude": 81.63257349999999,
+    "place_id": "ChIJUapCxZbdKDoR0Uhy_kluxW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUapCxZbdKDoR0Uhy_kluxW0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:58:39"
+  }
+]

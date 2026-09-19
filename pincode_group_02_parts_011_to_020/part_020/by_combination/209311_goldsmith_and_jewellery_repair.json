@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashutosh Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Jewelry buyer, Jewelry designer, Jewelry manufacturer, Jewelry store",
+    "pincode": "209311",
+    "phone_number": "+91 77860 58714",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "11/39, near Lal Kuan, Gwai, Gwaltoli, Khalasi Line, Market, Kanpur, Uttar Pradesh 208002",
+    "area": "Gwai, Gwaltoli, Khalasi Line, Market",
+    "latitude": 26.4847209,
+    "longitude": 80.33409499999999,
+    "place_id": "ChIJJzIcCpE4nDkRkm5xS7-1EYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzIcCpE4nDkRkm5xS7-1EYY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:19"
+  },
+  {
+    "business_name": "Krishna lazer solding",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "209311",
+    "phone_number": "+91 512 238 7076",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahendra Plaza, 58/44 A, Birhana Rd, Naughara, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Naughara, General Ganj",
+    "latitude": 26.4627987,
+    "longitude": 80.3550971,
+    "place_id": "ChIJX02PeoxHnDkRyWKK2D81SzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX02PeoxHnDkRyWKK2D81SzQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:20:21"
+  }
+]

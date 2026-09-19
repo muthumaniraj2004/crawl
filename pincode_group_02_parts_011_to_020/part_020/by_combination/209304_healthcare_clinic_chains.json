@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachan Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "209304",
+    "phone_number": "+91 90440 46899",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 24,
+    "address": "Plot no. 34, near Maa Bhagwati Guest House, Hind Vihar, Barra 5, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Hind Vihar, Barra 5, Barra World Bank, Barra",
+    "latitude": 26.4378539,
+    "longitude": 80.29693,
+    "place_id": "ChIJIX8728BHnDkRhMvu9qQ7NZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIX8728BHnDkRhMvu9qQ7NZ4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:10:02"
+  },
+  {
+    "business_name": "My Medical",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209304",
+    "phone_number": "+91 81279 22933",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dada Nagar, Chauraha, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "Dada Nagar, Chauraha, Govind Nagar",
+    "latitude": 26.453889,
+    "longitude": 80.2942822,
+    "place_id": "ChIJP4t4WAlHnDkRqg5L2z_2sUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4t4WAlHnDkRqg5L2z_2sUc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:10:03"
+  }
+]

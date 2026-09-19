@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel shri Guru sharmnam palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209504",
+    "phone_number": "+91 94553 13233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9HM9+9HV, Farrukhabad Railway Station to Farrukhabad-Kaimganj Bypass Rd, Nangla Khairband, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Nangla Khairband",
+    "latitude": 27.383489599999997,
+    "longitude": 79.56892169999999,
+    "place_id": "ChIJQYBf9CExnjkRVlMY6rn9K-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYBf9CExnjkRVlMY6rn9K-E",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:35"
+  },
+  {
+    "business_name": "Three Star Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209504",
+    "phone_number": "+91 95483 54372",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "Bewar, Mallamai, Uttar Pradesh 206301",
+    "area": "209504",
+    "latitude": 27.225406,
+    "longitude": 79.2764747,
+    "place_id": "ChIJvYlrKgCNdTkRLwWeZzycl9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYlrKgCNdTkRLwWeZzycl9w",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:36"
+  }
+]

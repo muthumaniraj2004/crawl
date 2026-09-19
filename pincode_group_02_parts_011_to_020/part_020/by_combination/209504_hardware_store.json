@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "209504",
+    "phone_number": "+91 98371 92777",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 97,
+    "address": "244, Siklapur Rd, Gangapur Gangapur Bareilly, Uttar Pradesh 243003, Uttar Pradesh 243005",
+    "area": "Siklapur, Gangapur",
+    "latitude": 28.3614028,
+    "longitude": 79.42212839999999,
+    "place_id": "ChIJeWvBDCkHoDkRAaGxLpxQuFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWvBDCkHoDkRAaGxLpxQuFU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:17"
+  },
+  {
+    "business_name": "Devansh Roop Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "209504",
+    "phone_number": "+91 88089 28215",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "21 Near Bartal, Farrukhabad, Gali Ke Pass, Nawabganj, Uttar Pradesh 209504",
+    "area": "209504",
+    "latitude": 27.468618199999998,
+    "longitude": 79.4443718,
+    "place_id": "ChIJSzUntWsrnjkR5nic6swEg6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzUntWsrnjkR5nic6swEg6U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:32:19"
+  }
+]

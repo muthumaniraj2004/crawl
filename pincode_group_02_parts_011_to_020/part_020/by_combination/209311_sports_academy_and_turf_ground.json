@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Turf and Co",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club, Badminton court, Cricket club, Cricket ground, Futsal court",
+    "pincode": "209311",
+    "phone_number": "+91 88407 51788",
+    "website": "https://www.instagram.com/theturf1380?igsh=MTdsbGdvYnl1NnlzeQ%3D%3D&utm_source=qr",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Katri Piper Khera, Salman Plains, Uttar Pradesh 209862",
+    "area": "209311",
+    "latitude": 26.4379326,
+    "longitude": 80.4180777,
+    "place_id": "ChIJt8seaABBnDkRHerCiw5edvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8seaABBnDkRHerCiw5edvk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:21:12"
+  },
+  {
+    "business_name": "NCA kanpur",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground",
+    "pincode": "209311",
+    "phone_number": "+91 63876 74112",
+    "website": "https://www.instagram.com/nca_kanpur?igsh=c3ZtYjEwYXp1c3pn",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "Neer dabul pulia, 440/3, Central Park Rd, Vijay Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Vijay Nagar, Shastri Nagar",
+    "latitude": 26.466676,
+    "longitude": 80.29529699999999,
+    "place_id": "ChIJhZcGKCQ5nDkRwgFO-KKJOpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZcGKCQ5nDkRwgFO-KKJOpc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:21:13"
+  }
+]

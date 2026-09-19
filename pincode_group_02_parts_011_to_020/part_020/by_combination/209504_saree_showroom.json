@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saree House",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209504",
+    "phone_number": "+91 86875 02387",
+    "website": "https://www.facebook.com/saareehouse",
+    "rating": 4,
+    "reviews_count": 150,
+    "address": "Saree House Road, behind Guru Nanak Degree College, Barkherwa, Uttar Pradesh 262701",
+    "area": "Rajgarh, Maharaj Nagar",
+    "latitude": 27.9365383,
+    "longitude": 80.77954199999999,
+    "place_id": "ChIJq-lyAf00nzkRsIVZ_BoANjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-lyAf00nzkRsIVZ_BoANjo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:31:52"
+  },
+  {
+    "business_name": "Rajvadhu",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothes market, Clothing store, Clothing supplier, Clothing wholesaler, Saree Shop, Shopping mall, Work clothes store, Youth clothing store",
+    "pincode": "209504",
+    "phone_number": "+91 90279 16340",
+    "website": "https://rajvadhu.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rajvadhu, D1, D2- 35, near punjab national bank, Civil Lines, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Civil Lines",
+    "latitude": 28.979391,
+    "longitude": 79.39665409999999,
+    "place_id": "ChIJaZdTC-x_oDkRIdkQ6BzM4CA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZdTC-x_oDkRIdkQ6BzM4CA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:31:52"
+  }
+]

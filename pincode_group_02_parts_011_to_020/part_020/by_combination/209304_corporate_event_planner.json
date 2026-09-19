@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vansh decorator",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "209304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "F628+F24, Gambhirpur Rd, Bhautipratappur, Uttar Pradesh 209305",
+    "area": "209304",
+    "latitude": 26.451131,
+    "longitude": 80.21506509999999,
+    "place_id": "ChIJj-iULABJnDkRtKi6T9aLLEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-iULABJnDkRtKi6T9aLLEY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:10:34"
+  },
+  {
+    "business_name": "Sameer dj and Band",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "209304",
+    "phone_number": "+91 91405 66816",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bisayakpur, Fatehpur Roshanai, Uttar Pradesh 209101",
+    "area": "209304",
+    "latitude": 26.4133794,
+    "longitude": 80.1017851,
+    "place_id": "ChIJIdLpuA1LnDkRKau5zsh-Gg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdLpuA1LnDkRKau5zsh-Gg8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:10:36"
+  }
+]

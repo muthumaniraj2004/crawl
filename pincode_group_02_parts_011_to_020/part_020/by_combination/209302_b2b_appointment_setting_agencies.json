@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Edixity",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "209302",
+    "phone_number": "+91 77548 97689",
+    "website": "https://edixity.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "127/576, W-1, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "W-1, Juhi Kalan, Saket Nagar",
+    "latitude": 26.4350928,
+    "longitude": 80.3131241,
+    "place_id": "ChIJNQiFjENHnDkRPIMMfeN6HeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQiFjENHnDkRPIMMfeN6HeI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:07:40"
+  },
+  {
+    "business_name": "Konnect BPO Technologies (PVT) Ltd",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Accounting firm, Call center, BPO Company, Human resource consulting, Marketing agency, Payroll Service Provider, Recruiter, Telephone Marketing Agency",
+    "pincode": "209302",
+    "phone_number": "N/A",
+    "website": "http://www.konnectbpo.lk/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "107 Galle - Colombo Rd, Dehiwala-Mount Lavinia, Sri Lanka",
+    "area": "Kalubowila",
+    "latitude": 6.8566156,
+    "longitude": 79.86524519999999,
+    "place_id": "ChIJm1alNBBZ4joR8hSDtjRFXMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1alNBBZ4joR8hSDtjRFXMs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:07:40"
+  }
+]

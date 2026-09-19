@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taiba Food Product",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "209502",
+    "phone_number": "+91 96165 39965",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "H82W+2CG, Abdul Hasan Khan road, kalakhel, gird kaimganj, Kaimganj, Uttar Pradesh 209502",
+    "area": "209502",
+    "latitude": 27.5500518,
+    "longitude": 79.3460807,
+    "place_id": "ChIJ9UB3Z69_dTkRER5vz1H97xA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UB3Z69_dTkRER5vz1H97xA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:28:33"
+  },
+  {
+    "business_name": "Kaimganj",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "209502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "G8VW+G4Q, Kuberpur, Kaimganj, Uttar Pradesh 209502",
+    "area": "209502",
+    "latitude": 27.5438258,
+    "longitude": 79.34535869999999,
+    "place_id": "ChIJ2T6sTaR_dTkRqsVjIK3MEf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2T6sTaR_dTkRqsVjIK3MEf4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:28:33"
+  }
+]

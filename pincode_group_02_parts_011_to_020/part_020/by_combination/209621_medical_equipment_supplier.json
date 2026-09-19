@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhinav om medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "209621",
+    "phone_number": "+91 87077 53443",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deena, 1/31, Nagla Nain Road, Sheesham Bagh, Bholepur, Farrukhabad, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Sheesham Bagh, Bholepur",
+    "latitude": 27.370648,
+    "longitude": 79.6227751,
+    "place_id": "ChIJ_2AWd84xnjkRCS3AdDBBjWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2AWd84xnjkRCS3AdDBBjWs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:38:35"
+  },
+  {
+    "business_name": "Rathore Medical Agency",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "209621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9JJ6+PM8, Farrukhabad Rd, Nagla Pitam, Baglakhula, Uttar Pradesh 209601",
+    "area": "Nagla Pitam",
+    "latitude": 27.3817846,
+    "longitude": 79.61171259999999,
+    "place_id": "ChIJ_2UGG_wxnjkRRUKshjyOwEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2UGG_wxnjkRRUKshjyOwEg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:38:35"
+  }
+]

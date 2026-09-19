@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "209501",
+    "phone_number": "+91 87076 56952",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2Ngla Bilauna, Road, near Primary School, Kaimganj, Uttar Pradesh 209502",
+    "area": "209501",
+    "latitude": 27.504473299999997,
+    "longitude": 79.3714147,
+    "place_id": "ChIJHa-mc5-BdTkRB4v2ezWhTAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHa-mc5-BdTkRB4v2ezWhTAk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:27:42"
+  },
+  {
+    "business_name": "Ishant Rajput home",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "209501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F7CC+RF5, Behtamurlidhar, Uttar Pradesh 209502",
+    "area": "209501",
+    "latitude": 27.4714265,
+    "longitude": 79.2723139,
+    "place_id": "ChIJKx_LAgCDdTkR6y2JPo8A_dE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKx_LAgCDdTkR6y2JPo8A_dE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:27:42"
+  }
+]

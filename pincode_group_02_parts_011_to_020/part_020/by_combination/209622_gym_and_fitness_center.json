@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "209622",
+    "phone_number": "+91 93599 52582",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gauraipada Phase 2 Rd, Waliv, Golani Naka, Vasai East, Vasai-Virar, Maharashtra 401208",
+    "area": "Waliv, Golani Naka, Vasai East",
+    "latitude": 19.4182313,
+    "longitude": 72.860545,
+    "place_id": "ChIJ-Yk5gUyp5zsR-H8QDxdNBPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Yk5gUyp5zsR-H8QDxdNBPw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:40:18"
+  },
+  {
+    "business_name": "FIT WITH SHIV",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "209622",
+    "phone_number": "N/A",
+    "website": "http://www.instagram.com/fitwith_shiv/",
+    "rating": 5,
+    "reviews_count": 52,
+    "address": "1, 161, near Kailash medical store, Awas Vikas Colony, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.3820393,
+    "longitude": 79.6004516,
+    "place_id": "ChIJBY3deM8xnjkRhNJONB9-gGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBY3deM8xnjkRhNJONB9-gGE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:40:19"
+  }
+]

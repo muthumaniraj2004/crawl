@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sabri Furniture",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Furniture Manufacturer",
+    "pincode": "209308",
+    "phone_number": "+91 70808 40217",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patara, Uttar Pradesh 209308",
+    "area": "209308",
+    "latitude": 26.2333327,
+    "longitude": 80.1951782,
+    "place_id": "ChIJ0cNgMVNRnDkR7Wlt_0NGIls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cNgMVNRnDkR7Wlt_0NGIls",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:35"
+  },
+  {
+    "business_name": "Jonathan James",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209308",
+    "phone_number": "+91 73882 09345",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PATAA, Patara, Uttar Pradesh 209308",
+    "area": "PATAA",
+    "latitude": 26.2327108,
+    "longitude": 80.1982742,
+    "place_id": "ChIJOz-kveNRnDkRDdswEsahPZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOz-kveNRnDkRDdswEsahPZ8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:36"
+  }
+]

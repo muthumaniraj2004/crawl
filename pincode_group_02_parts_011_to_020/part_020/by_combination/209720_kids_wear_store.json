@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelkanth Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209720",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4GW2+C6M, Chhibramau, Uttar Pradesh 209721",
+    "area": "209720",
+    "latitude": 27.1460792,
+    "longitude": 79.5005372,
+    "place_id": "ChIJ6xT6WgAZnjkR3FmTfgj0pw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xT6WgAZnjkR3FmTfgj0pw0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:46:34"
+  },
+  {
+    "business_name": "Chitra Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209720",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ramabai Inter College Ke samne, Chhibramau, Uttar Pradesh 209721",
+    "area": "209720",
+    "latitude": 27.1472992,
+    "longitude": 79.498787,
+    "place_id": "ChIJJ12QcRQZnjkRii2beKpBiUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ12QcRQZnjkRii2beKpBiUk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:46:34"
+  }
+]

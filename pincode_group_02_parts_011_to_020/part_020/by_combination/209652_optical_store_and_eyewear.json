@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Optical shop and sunglasses",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "209652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9VFF+4J5, Boh, Haryana 133010",
+    "area": "Boh",
+    "latitude": 30.372758899999997,
+    "longitude": 76.8741043,
+    "place_id": "ChIJR3vwRQu3DzkRdqsBmtluBkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3vwRQu3DzkRdqsBmtluBkw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:45:02"
+  },
+  {
+    "business_name": "Ranjeet kumar Eye Mitra ( Opticians)",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "209652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "76R6+8R3, Jaswantnagar, Uttar Pradesh 205262",
+    "area": "209652",
+    "latitude": 27.290765699999998,
+    "longitude": 79.21203129999999,
+    "place_id": "ChIJSfCNegCPdTkR0REgEqgcXK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfCNegCPdTkR0REgEqgcXK0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:45:04"
+  }
+]

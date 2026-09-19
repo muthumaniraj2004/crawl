@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stone Emporium",
+    "search_category": "Granite Dealer",
+    "primary_category": "Marble supplier",
+    "all_categories": "Marble supplier, Building materials supplier, Flooring store, Tile store",
+    "pincode": "209210",
+    "phone_number": "+91 80 6507 2127",
+    "website": "http://stoneemporiumgreaternoida.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "D 30, opposite Ram Leela Maidan, Site 4, UPSIDC, Surajpur Site 4, Greater Noida, Uttar Pradesh 201315",
+    "area": "Site 4, UPSIDC, Surajpur Site 4",
+    "latitude": 28.4547471,
+    "longitude": 77.5301085,
+    "place_id": "ChIJOyD4OhrBDDkRhFGNFU8hO0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyD4OhrBDDkRhFGNFU8hO0s",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:49"
+  },
+  {
+    "business_name": "Royal Swastik Marbles",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier, Flooring contractor, Flooring store, Marble supplier, Marble contractor, Stone supplier, Tile store",
+    "pincode": "209210",
+    "phone_number": "+91 81785 85445",
+    "website": "https://swastikmarbles.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Chandan Hola, Chattarpur Mandir Rd, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Shahurpur, Chhatarpur",
+    "latitude": 28.4656009,
+    "longitude": 77.1893463,
+    "place_id": "ChIJAQAAACngDDkREIUyfqZbhZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAACngDDkREIUyfqZbhZw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:49"
+  }
+]

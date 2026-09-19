@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEAL MART",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209652",
+    "phone_number": "N/A",
+    "website": "https://officialdealmart.smartbiz.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagala matila, Sankisa Road, near shitauli, rajendra nagar, mohammadabad, Pakhna Hamir Khera, Uttar Pradesh 209625",
+    "area": "rajendra nagar",
+    "latitude": 27.335649699999998,
+    "longitude": 79.3167271,
+    "place_id": "ChIJmdJHQr6HdTkRjdJO2bX1-Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdJHQr6HdTkRjdJO2bX1-Oc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:46:15"
+  },
+  {
+    "business_name": "Neem Karoli Baba Dham",
+    "search_category": "Malls",
+    "primary_category": "Hindu temple",
+    "all_categories": "Hindu temple",
+    "pincode": "209652",
+    "phone_number": "+91 522 406 1369",
+    "website": "http://www.neebkaroribaba.com/",
+    "rating": 4.6,
+    "reviews_count": 2332,
+    "address": "Hanuman Mandir, Muran, Nibkarori, Uttar Pradesh 209652",
+    "area": "209652",
+    "latitude": 27.3178333,
+    "longitude": 79.3599648,
+    "place_id": "ChIJwyBohhKIdTkRM1pK9Cg9ZPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyBohhKIdTkRM1pK9Cg9ZPY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:46:17"
+  }
+]

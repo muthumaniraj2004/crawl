@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyendra Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209621",
+    "phone_number": "+91 63069 02928",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "05, Panchal Ghat Rd, near Bandha Chauraha, Bandha Chauraha, Fatehgarh, Farrukhabad, Uttar Pradesh 209621",
+    "area": "Bandha Chauraha",
+    "latitude": 27.403695799999998,
+    "longitude": 79.6322211,
+    "place_id": "ChIJIZAFHDIxnjkRddwwdTQ5Ep8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZAFHDIxnjkRddwwdTQ5Ep8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:38:19"
+  },
+  {
+    "business_name": "Ram Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209621",
+    "phone_number": "+91 94151 72778",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Nehru Rd, opp. Tiwari Gali, Devrampur, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Devrampur",
+    "latitude": 27.390283999999998,
+    "longitude": 79.5811963,
+    "place_id": "ChIJ-3_yBzUwnjkRwkLqagrEMe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3_yBzUwnjkRwkLqagrEMe0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:38:20"
+  }
+]

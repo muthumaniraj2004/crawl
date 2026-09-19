@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Auto Car Care",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "209208",
+    "phone_number": "+91 79851 88485",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "509 Magla Vihar Gadiyan Mod, Service Road, Gadiyana, Kanpur, Uttar Pradesh 208015",
+    "area": "Gadiyana, Daheli Sujanpur",
+    "latitude": 26.403608799999997,
+    "longitude": 80.3778189,
+    "place_id": "ChIJcxZmlLRDnDkRiYQ7ly8Zb68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxZmlLRDnDkRiYQ7ly8Zb68",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:56:08"
+  },
+  {
+    "business_name": "Renault Kanpur Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto Dent Removal Service Station, Auto Accessories Store, Renault dealer",
+    "pincode": "209208",
+    "phone_number": "+91 86018 73029",
+    "website": "https://www.renault.co.in/?utm_medium=googleplaces&utm_source=locator",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ground Floor, Kanpur, Kataraghan Shyam, Uttar Pradesh 209305",
+    "area": "209208",
+    "latitude": 26.4359766,
+    "longitude": 80.1778743,
+    "place_id": "ChIJy_7FDxhKnDkR0dsENcEzErk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_7FDxhKnDkR0dsENcEzErk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:56:09"
+  }
+]

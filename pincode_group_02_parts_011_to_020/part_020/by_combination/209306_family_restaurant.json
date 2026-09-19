@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SachinNitin Sweet",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209306",
+    "phone_number": "+91 63878 31856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SachinNitin Sweets Tisti, Kanpur, Tisti, Uttar Pradesh 209202",
+    "area": "209306",
+    "latitude": 26.7206463,
+    "longitude": 79.92235079999999,
+    "place_id": "ChIJs-XOHnTXnTkR13PkYnVe4V4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-XOHnTXnTkR13PkYnVe4V4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:19"
+  },
+  {
+    "business_name": "Kanha family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Jhinjhak tiraha, road, Rasulabad, kanpur, Uttar Pradesh 209306",
+    "area": "209306",
+    "latitude": 26.6763916,
+    "longitude": 79.779916,
+    "place_id": "ChIJo3Eq55XdnTkR4l5CMVHpc9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3Eq55XdnTkR4l5CMVHpc9A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narain Pharmacy Chemist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209306",
+    "phone_number": "+91 99353 86489",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Opp J K Cancer Hospital, Gutaiya, Model Town, Rawat Pur, Kanpur, Uttar Pradesh 208005",
+    "area": "Gutaiya, Model Town, Rawat Pur",
+    "latitude": 26.4814963,
+    "longitude": 80.3018067,
+    "place_id": "ChIJb5gtVmw4nDkRgpIElKATYbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5gtVmw4nDkRgpIElKATYbs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:29"
+  },
+  {
+    "business_name": "Health care pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209306",
+    "phone_number": "+91 89602 91406",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "5B-253, Swarn Jayanti Vihar, Daheli Sujanpur, Kanpur, Uttar Pradesh 208021",
+    "area": "Swarn Jayanti Vihar, Daheli Sujanpur",
+    "latitude": 26.384437499999997,
+    "longitude": 80.3537857,
+    "place_id": "ChIJf1kZQo5HnDkRZr0u7tRRywc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1kZQo5HnDkRZr0u7tRRywc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:32"
+  }
+]

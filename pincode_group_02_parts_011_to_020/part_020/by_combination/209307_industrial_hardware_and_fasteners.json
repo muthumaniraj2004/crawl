@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Trading Company",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "209307",
+    "phone_number": "+91 93691 32118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "167\\B Shop no-35 Dada Nagar Kanpur Pin-208022, Kanpur, Uttar Pradesh 208022",
+    "area": "Co-operative Industrial Estate, Sanjay Nagar",
+    "latitude": 26.454238,
+    "longitude": 80.28251569999999,
+    "place_id": "ChIJobCGNnFHnDkRUMaWuEt6ev8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobCGNnFHnDkRUMaWuEt6ev8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:21"
+  },
+  {
+    "business_name": "NEW INDIA IRON HARDWARE SUPPLIER",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "209307",
+    "phone_number": "+91 87955 39554",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near 77/34, Fadlan Ave, Hatia, Kanpur, Uttar Pradesh 208001",
+    "area": "Hatia",
+    "latitude": 26.463634199999998,
+    "longitude": 80.3465678,
+    "place_id": "ChIJl4lyF8ZHnDkRKtX927QIY-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4lyF8ZHnDkRKtX927QIY-A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:16:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A Magical Sip Cafe",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209402",
+    "phone_number": "+91 93694 09124",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 20,
+    "address": "91 B, Subhash Rd, near tri murti mandir, beside pappu sweets, Near HP Petrol Pump, Ramadevi, Lal Bungalow, Jajmau Sub Metro City, Kanpur, Uttar Pradesh 208007",
+    "area": "Near HP Petrol Pump, Ramadevi, Lal Bungalow, Jajmau Sub Metro City",
+    "latitude": 26.4148204,
+    "longitude": 80.3843553,
+    "place_id": "ChIJV_w0pk9BnDkRY7nUrM3Wv7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_w0pk9BnDkRY7nUrM3Wv7k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:25:20"
+  },
+  {
+    "business_name": "Pahalwan Ji Ka Special Matthha",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "209402",
+    "phone_number": "+91 96510 09098",
+    "website": "https://pahalwanjifoods.com/",
+    "rating": 4.4,
+    "reviews_count": 326,
+    "address": "358-D, Defence Colony, J K Puri, Kanpur, Uttar Pradesh 208010",
+    "area": "Defence Colony, J K Puri",
+    "latitude": 26.424651899999997,
+    "longitude": 80.39421999999999,
+    "place_id": "ChIJZYnUuItBnDkR8aGRvbO0Auk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYnUuItBnDkR8aGRvbO0Auk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:25:21"
+  }
+]

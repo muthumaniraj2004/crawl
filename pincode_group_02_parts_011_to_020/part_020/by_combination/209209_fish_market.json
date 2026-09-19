@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivhare Pashu Aahar",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store, Farmers' market",
+    "pincode": "209209",
+    "phone_number": "+91 98890 14526",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Lalu Ganj kora, Kanpur Nagar Road, near BOB Bank, Jahanabad, Uttar Pradesh 212659",
+    "area": "209209",
+    "latitude": 26.1051941,
+    "longitude": 80.36036,
+    "place_id": "ChIJm1cETnxZnDkR54KyT5EQuT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1cETnxZnDkR54KyT5EQuT4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:17"
+  },
+  {
+    "business_name": "Khimiyapur",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "209209",
+    "phone_number": "+91 93696 89447",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67H6+GX8, Kandhra, Uttar Pradesh 209209",
+    "area": "209209",
+    "latitude": 26.2287812,
+    "longitude": 80.26245709999999,
+    "place_id": "ChIJK8v7KQBRnDkRo-NFBnVCK1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8v7KQBRnDkRo-NFBnVCK1s",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:17"
+  }
+]

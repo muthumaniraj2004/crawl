@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Godrej Pashu Ahaar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "209651",
+    "phone_number": "+91 99195 09753",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8C3R+249, Tajpur Road, Avanti Bai Nagar, Mohammadabad, Uttar Pradesh 209651",
+    "area": "Avanti Bai Nagar",
+    "latitude": 27.3025323,
+    "longitude": 79.4403567,
+    "place_id": "ChIJ_6Glw0QmnjkRtg-ufUpdpdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6Glw0QmnjkRtg-ufUpdpdo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:43:11"
+  },
+  {
+    "business_name": "Baba Pet Care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Animal feed store",
+    "pincode": "209651",
+    "phone_number": "+91 94568 86695",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop Nomber 1, Baba Pet, Mini Byp, Karamchari Nagar, Izatnagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar, Izatnagar",
+    "latitude": 28.383000499999998,
+    "longitude": 79.3981661,
+    "place_id": "ChIJnV-kO2wHoDkR1xI-ZI43fbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnV-kO2wHoDkR1xI-ZI43fbs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:43:13"
+  }
+]

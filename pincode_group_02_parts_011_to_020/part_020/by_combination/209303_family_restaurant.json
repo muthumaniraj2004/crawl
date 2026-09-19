@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna green's",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209303",
+    "phone_number": "+91 63934 65151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 62,
+    "address": "9x7p+3p8, Industrial Area Phase 1, Nagin Jasi, Jainpur, Uttar Pradesh 209311",
+    "area": "Industrial Area Phase 1",
+    "latitude": 26.362769099999998,
+    "longitude": 79.98663189999999,
+    "place_id": "ChIJ7__eRgC3nTkRuQCDusKe2HU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7__eRgC3nTkRuQCDusKe2HU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:07:59"
+  },
+  {
+    "business_name": "Mr. Meat Walah - Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209303",
+    "phone_number": "+91 70687 39995",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mati Rd, Taktauli, Alam Chandpur, Uttar Pradesh 209101",
+    "area": "209303",
+    "latitude": 26.3523145,
+    "longitude": 79.9603826,
+    "place_id": "ChIJ3fL7Mza3nTkRiGZzFeqYFtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fL7Mza3nTkRiGZzFeqYFtI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:01"
+  }
+]

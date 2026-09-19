@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "209310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jaunra, Ruherie, Uttar Pradesh 206122",
+    "area": "209310",
+    "latitude": 26.495030099999997,
+    "longitude": 79.5977387,
+    "place_id": "ChIJjVpCcwDtnTkRxA0-MtmCgbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVpCcwDtnTkRxA0-MtmCgbs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:18:49"
+  },
+  {
+    "business_name": "Dynamic Enterprises",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "209310",
+    "phone_number": "+91 96953 43388",
+    "website": "http://dynamicent.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2c/3a/1d, Bypass Lucknow Rd, Phaphamau, Uttar Pradesh 211013",
+    "area": "209310",
+    "latitude": 25.5231651,
+    "longitude": 81.8645159,
+    "place_id": "ChIJlTDndgfKmjkRIXI-g7oMf0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTDndgfKmjkRIXI-g7oMf0c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:18:51"
+  }
+]

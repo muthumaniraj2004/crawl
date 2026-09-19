@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RA-RA House Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209651",
+    "phone_number": "+91 89338 71585",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "RA-RA House, Lakula Road, behind Kanha Hospital, Awas Vikas Colony, Farrukhabad, Baglakhula, Uttar Pradesh 209601",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.3853676,
+    "longitude": 79.6063746,
+    "place_id": "ChIJhZ5dWdcxnjkR5Q4rWkjD-NE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZ5dWdcxnjkR5Q4rWkjD-NE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:43:14"
+  },
+  {
+    "business_name": "Sani Non Veg Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209651",
+    "phone_number": "+91 73095 33200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "089, Bewar - Mohammadabad Rd, Mohammadabad, Uttar Pradesh 209651",
+    "area": "209651",
+    "latitude": 27.3050182,
+    "longitude": 79.43329109999999,
+    "place_id": "ChIJK2hIWIonnjkRQ7jq4KzBqHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2hIWIonnjkRQ7jq4KzBqHM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:43:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amir mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "209502",
+    "phone_number": "+91 97925 64701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7J5M+P44, Kamalganj, Uttar Pradesh 209724",
+    "area": "209502",
+    "latitude": 27.2594183,
+    "longitude": 79.6330717,
+    "place_id": "ChIJ0TrSAQA7njkRulYOCLoeYQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TrSAQA7njkRulYOCLoeYQE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:29:38"
+  },
+  {
+    "business_name": "Raj Mobile Communication",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Electronics Company",
+    "pincode": "209502",
+    "phone_number": "+91 97198 32660",
+    "website": "http://rajmobilekasganj.catalog.to/",
+    "rating": 4.3,
+    "reviews_count": 707,
+    "address": "Soot Ki Mandi, Jhanda Chowk, Kasganj, Uttar Pradesh 207123",
+    "area": "209502",
+    "latitude": 27.808222999999998,
+    "longitude": 78.64350879999999,
+    "place_id": "ChIJF80eoxfgdDkRfbk_gADHhc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF80eoxfgdDkRfbk_gADHhc4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:29:40"
+  }
+]

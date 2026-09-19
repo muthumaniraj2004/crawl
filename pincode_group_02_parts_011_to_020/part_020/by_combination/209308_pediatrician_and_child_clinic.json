@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMBA HOSPITAL",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Child health care center, Diagnostic center, Women's health clinic",
+    "pincode": "209308",
+    "phone_number": "+91 98394 51222",
+    "website": "http://ambahospital.com/",
+    "rating": 4.4,
+    "reviews_count": 148,
+    "address": "15/201, कोर्ट के पास, Green Park, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Green Park, Civil Lines",
+    "latitude": 26.478221299999998,
+    "longitude": 80.3486059,
+    "place_id": "ChIJmV-ahKM4nDkR77bJmWkGNJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmV-ahKM4nDkR77bJmWkGNJk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:17:05"
+  },
+  {
+    "business_name": "Shree Shivay Medical and General Store",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209308",
+    "phone_number": "+91 63888 92534",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "127/465, Near Bara Devi, Juhi Kalan, Mandir, Kanpur, Uttar Pradesh 208014",
+    "area": "Near Bara Devi, Juhi Kalan, Mandir",
+    "latitude": 26.437485199999998,
+    "longitude": 80.3238679,
+    "place_id": "ChIJwZwiMUlHnDkRAmnEf3TqPKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZwiMUlHnDkRAmnEf3TqPKw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

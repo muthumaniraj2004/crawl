@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Mind",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "209209",
+    "phone_number": "+91 93898 91999",
+    "website": "http://www.computermindtech.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "117/136, K Block, Geeta Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "K Block, Geeta Nagar, Kakadeo",
+    "latitude": 26.484021199999997,
+    "longitude": 80.29420879999999,
+    "place_id": "ChIJYwAWEBQ4nDkRmEDrnvgB9vE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwAWEBQ4nDkRmEDrnvgB9vE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:58:29"
+  },
+  {
+    "business_name": "Mera Lapy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer service, Computer Wholesaler, Used computer store",
+    "pincode": "209209",
+    "phone_number": "+91 91512 22244",
+    "website": "https://www.meralapy.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "12/16, Gwaltoli Ln, near Doctor Hussain Gali, Gwai, Khalasi Line, Permat, Kanpur, Uttar Pradesh 208002",
+    "area": "Gwai, Khalasi Line, Permat",
+    "latitude": 26.485916699999997,
+    "longitude": 80.3322323,
+    "place_id": "ChIJxYioVGc5nDkR3Bq4Q6v4tHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYioVGc5nDkR3Bq4Q6v4tHQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:58:29"
+  }
+]

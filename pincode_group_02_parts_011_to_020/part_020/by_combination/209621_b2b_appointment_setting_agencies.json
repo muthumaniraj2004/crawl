@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bada Business",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "209621",
+    "phone_number": "N/A",
+    "website": "https://badabusiness.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bada Business, 209621, India",
+    "area": "209621",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJK8V1f4CRq4MRkpNP_kFcqF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8V1f4CRq4MRkpNP_kFcqF4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:39:41"
+  },
+  {
+    "business_name": "BIZ KNOW INDIA PVT LTD",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, E-commerce service, Marketing agency, Web hosting company",
+    "pincode": "209621",
+    "phone_number": "N/A",
+    "website": "http://bizknowindia.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2/140, Nehru Yuva Kendra, Suhag Nagar, Firozabad, Uttar Pradesh 283203",
+    "area": "Nehru Yuva Kendra, Suhag Nagar",
+    "latitude": 27.155365699999997,
+    "longitude": 78.3784934,
+    "place_id": "ChIJq6q2CgBEdDkRSaIPB8ytXcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q2CgBEdDkRSaIPB8ytXcw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:39:41"
+  }
+]

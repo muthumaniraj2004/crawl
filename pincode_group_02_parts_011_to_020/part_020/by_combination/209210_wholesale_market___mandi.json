@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanpur market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "209210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "334, Naya Purwa, Shyam Nagar, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "Naya Purwa, Shyam Nagar, Kidwai Nagar",
+    "latitude": 26.439169999999997,
+    "longitude": 80.3299124,
+    "place_id": "ChIJzx91UwBHnDkR4NPMh084TWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzx91UwBHnDkR4NPMh084TWs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:00:42"
+  },
+  {
+    "business_name": "Beconganj Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "209210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 2786,
+    "address": "98/222, Colonel Faruque Rd, Talaq Mahal, Colonelganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Talaq Mahal, Colonelganj",
+    "latitude": 26.4705929,
+    "longitude": 80.3391918,
+    "place_id": "ChIJ4465a544nDkRtgU-sigk6Ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4465a544nDkRtgU-sigk6Ag",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:00:42"
+  }
+]

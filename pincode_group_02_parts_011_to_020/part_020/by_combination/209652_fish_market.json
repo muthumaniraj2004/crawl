@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurau weekly market",
+    "search_category": "Fish Market",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "209652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "885M+Q56, Pakhna, Gurau Shadi Nagar, Uttar Pradesh 209652",
+    "area": "209652",
+    "latitude": 27.309470299999997,
+    "longitude": 79.332824,
+    "place_id": "ChIJSXEwYQCJdTkRTXRsSgAvQXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXEwYQCJdTkRTXRsSgAvQXs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:44:45"
+  },
+  {
+    "business_name": "Fish Market Meerut",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "209652",
+    "phone_number": "+91 70371 24027",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Delhi Rd, near Plaza Cinema, Sotiganj, Meerut, Uttar Pradesh 250001",
+    "area": "Sotiganj",
+    "latitude": 28.991456499999998,
+    "longitude": 77.7026217,
+    "place_id": "ChIJl33QL1RkDDkRrH-ErbX_VAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl33QL1RkDDkRrH-ErbX_VAE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:44:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elegent Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "209501",
+    "phone_number": "+91 81279 62101",
+    "website": "http://elegenthomedecor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khatakpura, Siddiqui 2/13, Farrukhabad, Rampur Daferpur, Uttar Pradesh 209625",
+    "area": "209501",
+    "latitude": 27.4166132,
+    "longitude": 79.582819,
+    "place_id": "ChIJ_____78xnjkRqEfYBx6KC3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____78xnjkRqEfYBx6KC3k",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:27:52"
+  },
+  {
+    "business_name": "Calcutta Flower Decorator",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "209501",
+    "phone_number": "+91 90028 86489",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Bas Stand, 9HPQ HPQ, Farrukhabad, Uttar Pradesh 209625",
+    "area": "9HPQ HPQ",
+    "latitude": 27.3864168,
+    "longitude": 79.5894277,
+    "place_id": "ChIJl_LvHrIxnjkRjhRtiKW8xI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_LvHrIxnjkRjhRtiKW8xI8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:27:52"
+  }
+]

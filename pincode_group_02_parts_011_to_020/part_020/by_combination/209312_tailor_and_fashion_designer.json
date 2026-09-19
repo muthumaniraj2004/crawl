@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classyfy Fashion Designers",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Tailor",
+    "pincode": "209312",
+    "phone_number": "+91 73987 25616",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Station Rd, Kalpi, Uttar Pradesh 285204",
+    "area": "209312",
+    "latitude": 26.1192885,
+    "longitude": 79.75021939999999,
+    "place_id": "ChIJeQcRXqShnTkR-EtlEYL1J8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQcRXqShnTkR-EtlEYL1J8s",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:21:59"
+  },
+  {
+    "business_name": "@Bandan women tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "209312",
+    "phone_number": "+91 84001 65509",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kali Devi Mandir, Kila Rd, Kalpi, Uttar Pradesh 285204",
+    "area": "209312",
+    "latitude": 26.128936099999997,
+    "longitude": 79.7468765,
+    "place_id": "ChIJIcLdBiChnTkRdHsVRy5hYpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcLdBiChnTkRdHsVRy5hYpU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:22:01"
+  }
+]

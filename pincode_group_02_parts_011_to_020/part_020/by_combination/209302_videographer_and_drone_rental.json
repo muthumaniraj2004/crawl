@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Camera rental",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Camera store",
+    "all_categories": "Camera store",
+    "pincode": "209302",
+    "phone_number": "+91 77050 55139",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baba Ka Purwa, badha road, Khadra, Lucknow, Uttar Pradesh 226020",
+    "area": "Khadra",
+    "latitude": 26.879596,
+    "longitude": 80.9123949,
+    "place_id": "ChIJ6wFmQZP9mzkRNXCx3dEsVIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wFmQZP9mzkRNXCx3dEsVIk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:07:06"
+  },
+  {
+    "business_name": "Primes & Zooms",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Equipment rental agency",
+    "all_categories": "Equipment rental agency, Camera store, Cinema equipment supplier, Computer Rental Agency, Leasing service, Photography service",
+    "pincode": "209302",
+    "phone_number": "+91 87674 77102",
+    "website": "https://primesandzooms.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "A/1, Ashish, 1117, Lakaki Rd, Model Colony, Shivajinagar, Pune, Maharashtra 411016",
+    "area": "Model Colony, Shivajinagar",
+    "latitude": 18.531500299999998,
+    "longitude": 73.8423198,
+    "place_id": "ChIJd4d9bH6_wjsRHIKuxgV44LA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4d9bH6_wjsRHIKuxgV44LA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:07:07"
+  }
+]

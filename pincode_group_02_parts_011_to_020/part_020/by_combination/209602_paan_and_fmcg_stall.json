@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Snacks Pvt. Ltd",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "209602",
+    "phone_number": "+91 93350 99603",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "D44, Panki Industrial Area Site - II, Uttar Pradesh 208022",
+    "area": "Panki Site 3, Saraimita",
+    "latitude": 26.4377838,
+    "longitude": 80.255956,
+    "place_id": "ChIJAQAAAORHnDkRXuVmkwk0Alc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAORHnDkRXuVmkwk0Alc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:36:34"
+  },
+  {
+    "business_name": "Mahesh Namkeen Private Limited",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Food Processing Company",
+    "pincode": "209602",
+    "phone_number": "+91 95805 90590",
+    "website": "http://www.maheshnamkeen.com/",
+    "rating": 4.2,
+    "reviews_count": 171,
+    "address": "B-16 Amausi Industrial Area, Nadarganj, Amausi, Lucknow, Uttar Pradesh 226008",
+    "area": "Nadarganj, Amausi",
+    "latitude": 26.769237,
+    "longitude": 80.868544,
+    "place_id": "ChIJC4bYqzv5mzkREBAzJKxh4SE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4bYqzv5mzkREBAzJKxh4SE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:36:34"
+  }
+]

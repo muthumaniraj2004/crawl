@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Queen collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209622",
+    "phone_number": "+91 97172 67295",
+    "website": "https://www.instagram.com/queen_collection_76?igsi=bWUxMXprd3k3cmh4&utm_source=qr",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WELCOME PLAZA MARKET, 27, Farrukhabad - Aliganj Rd, Bhikampura, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Bhikampura",
+    "latitude": 27.3931151,
+    "longitude": 79.5769172,
+    "place_id": "ChIJOVkRAgAxnjkRJ8U9Iv4fooM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVkRAgAxnjkRJ8U9Iv4fooM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:40:08"
+  },
+  {
+    "business_name": "A.S. Wooden Block",
+    "search_category": "Boutiques",
+    "primary_category": "Scrapbooking store",
+    "all_categories": "Scrapbooking store, Stamp shop",
+    "pincode": "209622",
+    "phone_number": "N/A",
+    "website": "https://www.aswoodenblock.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nakhas Rd, near Mata ji school, Shahidganj Narayanda, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Shahidganj Narayanda",
+    "latitude": 27.397585199999998,
+    "longitude": 79.5920312,
+    "place_id": "ChIJA4f9EF8xnjkRs7B7--per_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4f9EF8xnjkRs7B7--per_c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:40:08"
+  }
+]

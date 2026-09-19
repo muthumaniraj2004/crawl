@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anoop Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209303",
+    "phone_number": "+91 96483 33511",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "25, Akbarpur Rd, Rura, Nariha, Uttar Pradesh 209101",
+    "area": "209303",
+    "latitude": 26.4097008,
+    "longitude": 79.9433138,
+    "place_id": "ChIJjx7eo723nTkRAAAAMOeItzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjx7eo723nTkRAAAAMOeItzY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:05"
+  },
+  {
+    "business_name": "pappu shoeparlur",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "209303",
+    "phone_number": "+91 91982 83557",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "to, near bay rps inter college, Rura, Shivli, Uttar Pradesh 209303",
+    "area": "209303",
+    "latitude": 26.4929718,
+    "longitude": 79.9003458,
+    "place_id": "ChIJU-QuWO7HnTkRaKeGowT9h84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-QuWO7HnTkRaKeGowT9h84",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:08:05"
+  }
+]

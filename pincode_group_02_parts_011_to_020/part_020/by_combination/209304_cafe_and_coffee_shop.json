@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BARCODE CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "209304",
+    "phone_number": "+91 73484 92014",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 48,
+    "address": "571, Dabouli-1, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Dabouli-1, Neemeshwar MahaMandir Society, Ratan Lal Nagar",
+    "latitude": 26.446066499999997,
+    "longitude": 80.28657319999999,
+    "place_id": "ChIJD9kKRoxHnDkR0cOxQTJ9qiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9kKRoxHnDkR0cOxQTJ9qiQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:41"
+  },
+  {
+    "business_name": "Cafe Coffee day",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Takeout restaurant, Pastry shop, Restaurant, Sandwich shop",
+    "pincode": "209304",
+    "phone_number": "+91 93050 24955",
+    "website": "https://www.cafecoffeeday.com/store-locator/uttar-pradesh/kanpur/rave-moti-mall/inside-rave-moti-mall",
+    "rating": 3.9,
+    "reviews_count": 133,
+    "address": "Inside Rave Moti Mall, Rawatpur Main Rd, Sarvodaya Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "Moti Vihar Society, Sarvodaya Nagar",
+    "latitude": 26.4812995,
+    "longitude": 80.3000423,
+    "place_id": "ChIJ1UbX0hI4nDkRRl7QjsRmDrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UbX0hI4nDkRRl7QjsRmDrU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:41"
+  }
+]

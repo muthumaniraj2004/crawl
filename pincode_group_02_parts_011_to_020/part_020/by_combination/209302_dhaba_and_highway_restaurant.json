@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Vaishno Dhaba Shivli",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209302",
+    "phone_number": "+91 80091 24804",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JVR7+6PJ, SH68, sheoli, Kanpur, Daheli, Uttar Pradesh 209204",
+    "area": "sheoli",
+    "latitude": 26.6405915,
+    "longitude": 79.8642699,
+    "place_id": "ChIJF2jmCrvNnTkRS8BtniI1f98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2jmCrvNnTkRS8BtniI1f98",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:15"
+  },
+  {
+    "business_name": "katiyar Dhabha",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 34,
+    "address": "SH68, Baranpur Kahijari, Uttar Pradesh 209204",
+    "area": "209302",
+    "latitude": 26.6004874,
+    "longitude": 79.94798689999999,
+    "place_id": "ChIJIw6CSLjPnTkRlc4wwwirbO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIw6CSLjPnTkRlc4wwwirbO0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:17"
+  }
+]

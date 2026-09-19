@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fab Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "209503",
+    "phone_number": "+91 87969 95550",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "RST Enclave, Ram Vihar, Johripur, New Delhi, Ghaziabad, Delhi 201102",
+    "area": "RST Enclave, Ram Vihar, Johripur",
+    "latitude": 28.7185924,
+    "longitude": 77.2894835,
+    "place_id": "ChIJ22ogxab8DDkR2C4zwMhg5eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22ogxab8DDkR2C4zwMhg5eQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:22"
+  },
+  {
+    "business_name": "Chic style hub",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier",
+    "pincode": "209503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moh. Tadwali haweli, Shamshabad, Uttar Pradesh 209503",
+    "area": "209503",
+    "latitude": 27.536271499999998,
+    "longitude": 79.4394035,
+    "place_id": "ChIJ90lRF53VnzkRAvTJB-q9wUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90lRF53VnzkRAvTJB-q9wUk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:22"
+  }
+]

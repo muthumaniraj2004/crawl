@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Vaishno South Indian Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G8RG+9VM Kamaal Market, near Transport Chauraha, Kaimganj, Uttar Pradesh 209502",
+    "area": "209502",
+    "latitude": 27.540953599999998,
+    "longitude": 79.3271685,
+    "place_id": "ChIJxwYP5bR_dTkRA1MCgu7Lx3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwYP5bR_dTkRA1MCgu7Lx3s",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:28:37"
+  },
+  {
+    "business_name": "Deep Plaza",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "209502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 66,
+    "address": "H85H+JCJ, Chilouli, Kaimganj, Uttar Pradesh 209502",
+    "area": "209502",
+    "latitude": 27.559080599999998,
+    "longitude": 79.32852009999999,
+    "place_id": "ChIJA1WrzgV_dTkRlW5FmUk3hOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1WrzgV_dTkRlW5FmUk3hOg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:28:37"
+  }
+]

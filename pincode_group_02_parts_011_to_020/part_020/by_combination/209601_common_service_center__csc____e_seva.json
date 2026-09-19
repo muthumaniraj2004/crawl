@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JNI COMMON SERVICE CENTER CSC",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "State government office",
+    "all_categories": "State government office, Data Entry Service Provider, E-commerce service, Internet service provider",
+    "pincode": "209601",
+    "phone_number": "+91 94555 22555",
+    "website": "http://jnilive.mobi/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Awas Vikas Colony, Farrukhabad, Uttar Pradesh 209601",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.381307999999997,
+    "longitude": 79.60033299999999,
+    "place_id": "ChIJzSatj1kwnjkRkpQuT8n77W4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSatj1kwnjkRkpQuT8n77W4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:35:59"
+  },
+  {
+    "business_name": "CSC KYOLADIYA",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "209601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "CPX3+GCJ, BAS 3, Kyolaria, Uttar Pradesh 262406",
+    "area": "209601",
+    "latitude": 28.452925099999998,
+    "longitude": 79.69735519999999,
+    "place_id": "ChIJUfBzGjMYoDkRoASPnFrgoEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfBzGjMYoDkRoASPnFrgoEk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:36:00"
+  }
+]

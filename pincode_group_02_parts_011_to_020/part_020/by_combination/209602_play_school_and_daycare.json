@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abc school wahidpur",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "209602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Abc, Bhikampura, Farrukhabad, Uttar Pradesh 209602",
+    "area": "Bhikampura",
+    "latitude": 27.3987314,
+    "longitude": 79.5862235,
+    "place_id": "ChIJV1jKBOMxnjkRsLb8q8m0o2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1jKBOMxnjkRsLb8q8m0o2U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:37:31"
+  },
+  {
+    "business_name": "उत्कर्ष पाल पैलेस",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "209602",
+    "phone_number": "+91 76781 69592",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "8HFC+M75, Sitauli, Uttar Pradesh 209602",
+    "area": "209602",
+    "latitude": 27.3241412,
+    "longitude": 79.5707292,
+    "place_id": "ChIJE6UwAYU7njkRkh0kdkTzCQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6UwAYU7njkRkh0kdkTzCQs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:37:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Fabric store, Tailor",
+    "pincode": "209302",
+    "phone_number": "+91 98395 14131",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "Shop No 4, Ground floor, 22/4, Block 4, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "Block 4, Govind Nagar",
+    "latitude": 26.449437999999997,
+    "longitude": 80.30203499999999,
+    "place_id": "ChIJz_OmupNHnDkRPHUMcUaIWt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_OmupNHnDkRPHUMcUaIWt8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:26"
+  },
+  {
+    "business_name": "Krishna Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "209302",
+    "phone_number": "+91 98390 35001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khalasi Line, Arya Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Khalasi Line, Arya Nagar",
+    "latitude": 26.48378,
+    "longitude": 80.321433,
+    "place_id": "ChIJ1Qdv4Ik4nDkRtodWIk6t2J4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Qdv4Ik4nDkRtodWIk6t2J4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:26"
+  }
+]

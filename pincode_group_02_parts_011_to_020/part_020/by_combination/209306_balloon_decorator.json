@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam balloon event",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "209306",
+    "phone_number": "+91 93360 40893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "130/94 b, Babu Purva Colony, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "Babu Purva Colony, Kidwai Nagar",
+    "latitude": 26.4312382,
+    "longitude": 80.33918609999999,
+    "place_id": "ChIJT80W80JHnDkRqPOpMCf5bz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT80W80JHnDkRqPOpMCf5bz0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:06"
+  },
+  {
+    "business_name": "KWALITY DECORATIONS",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "209306",
+    "phone_number": "+91 92194 80460",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "117/N/851, Tulsi Nagar, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Tulsi Nagar, Navin Nagar, Kakadeo",
+    "latitude": 26.4808523,
+    "longitude": 80.2903829,
+    "place_id": "ChIJv2jfCso5nDkRUbPVSwGCHfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2jfCso5nDkRUbPVSwGCHfk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:14:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sapna Cosmetics",
+    "search_category": "Boutiques",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "209210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P3QV+W95, Pura, Uttar Pradesh 209210",
+    "area": "209210",
+    "latitude": 26.739749099999997,
+    "longitude": 80.09351099999999,
+    "place_id": "ChIJ57FRTADVnTkRBRvBb0vvrCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57FRTADVnTkRBRvBb0vvrCM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:25"
+  },
+  {
+    "business_name": "Pantaloons (Rave Moti Mall, Kanpur)",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Children's clothing store, Dress store, Formal Clothing Store, Men's clothing store, Western apparel store, Women's clothing store, Youth clothing store",
+    "pincode": "209210",
+    "phone_number": "+91 80 4713 8148",
+    "website": "https://stores.pantaloons.com/pantaloons/stores-in-kanpur/stores-in-rawat-pur/pantaloons-in-rawat-pur-kanpur--7d2666f8-008d-4c85-a683-4c64edee002f/home",
+    "rating": 4.7,
+    "reviews_count": 407,
+    "address": "1st Floor, 117K/13, Rave@Moti, Rawatpur Main Rd, Mall, Rawat Pur, Kanpur, Uttar Pradesh 208025",
+    "area": "Mall, Moti Vihar Society, Rawat Pur",
+    "latitude": 26.4816774,
+    "longitude": 80.3003571,
+    "place_id": "ChIJu_a1aN05nDkRyWhFkOMU3CI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_a1aN05nDkRyWhFkOMU3CI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:59:27"
+  }
+]

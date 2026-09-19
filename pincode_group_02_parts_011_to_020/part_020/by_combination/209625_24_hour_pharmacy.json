@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209625",
+    "phone_number": "+91 82992 48554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "LIC Officers Colony, Awas Vikas Colony, Farrukhabad, Uttar Pradesh 209601",
+    "area": "LIC Officers Colony, Awas Vikas Colony",
+    "latitude": 27.3800837,
+    "longitude": 79.598722,
+    "place_id": "ChIJyb5hfRkxnjkRqSXgf7R4dWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyb5hfRkxnjkRqSXgf7R4dWM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:49"
+  },
+  {
+    "business_name": "NATH MEDICAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "209625",
+    "phone_number": "+91 91513 68140",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Lal gate, near cenara ATM, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Manhari",
+    "latitude": 27.3873255,
+    "longitude": 79.5874267,
+    "place_id": "ChIJLdJTW0kwnjkR8qUtBhtJqds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdJTW0kwnjkR8qUtBhtJqds",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:50"
+  }
+]

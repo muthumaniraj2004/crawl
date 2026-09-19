@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suneel Kumar",
+    "search_category": "Wellness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "209625",
+    "phone_number": "+91 77698 12409",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Naksha, Ambedkar Nagar, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Ambedkar Nagar, Manhari",
+    "latitude": 27.391332199999997,
+    "longitude": 79.5916397,
+    "place_id": "ChIJEcPLMgAxnjkRZZeSUJziymA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcPLMgAxnjkRZZeSUJziymA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:42:21"
+  },
+  {
+    "business_name": "Pal Tant House",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "209625",
+    "phone_number": "+91 97110 72349",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05 Roshanabad Road Farrukhabad Aabaj Pur, near Raja Bhaiya Cold Storage, Farrukhabad, Uttar Pradesh 209625",
+    "area": "209625",
+    "latitude": 27.4126221,
+    "longitude": 79.54299879999999,
+    "place_id": "ChIJNU7lyU4vnjkR1eeJwTLoy1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNU7lyU4vnjkR1eeJwTLoy1g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:42:21"
+  }
+]

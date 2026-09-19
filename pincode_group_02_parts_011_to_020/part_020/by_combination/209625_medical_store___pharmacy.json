@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajeev Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209625",
+    "phone_number": "+91 63875 23587",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Awas Vikas Rd, Awas Vikas Colony, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.3816605,
+    "longitude": 79.6005162,
+    "place_id": "ChIJc7NE7VkwnjkRrboXW2EdIwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7NE7VkwnjkRrboXW2EdIwg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:48"
+  },
+  {
+    "business_name": "SK Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209625",
+    "phone_number": "+91 72700 01905",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thana Maudarwaza front of Zamadar Masjid, Farrukhabad, Uttar Pradesh 209625",
+    "area": "209625",
+    "latitude": 27.3869841,
+    "longitude": 79.5852468,
+    "place_id": "ChIJe-IcC1cxnjkR-sciPFNGDPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-IcC1cxnjkR-sciPFNGDPc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:41:50"
+  }
+]

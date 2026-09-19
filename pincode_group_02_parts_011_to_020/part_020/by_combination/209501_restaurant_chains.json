@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAAP HOUSE",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209501",
+    "phone_number": "+91 73553 64750",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1/161, near R.K Hospital, Awas Vikas Colony, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.3819999,
+    "longitude": 79.60040579999999,
+    "place_id": "ChIJZzKMKckxnjkRgPVhOniAxWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzKMKckxnjkRgPVhOniAxWI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:27:06"
+  },
+  {
+    "business_name": "Food Central cafe & restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209501",
+    "phone_number": "+91 86010 26805",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "9HW9+9H4, Bhikampura, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Bhikampura",
+    "latitude": 27.3958981,
+    "longitude": 79.5689675,
+    "place_id": "ChIJA6reB8gxnjkRB4UB7oQ6uC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6reB8gxnjkRB4UB7oQ6uC4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:27:07"
+  }
+]

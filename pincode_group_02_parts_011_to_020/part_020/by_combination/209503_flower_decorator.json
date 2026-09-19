@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahendra Flower",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "209503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "2, Phool Bagh, Maharani Laxmi Bai Colony, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "area": "Maharani Laxmi Bai Colony, Lashkar",
+    "latitude": 26.2119756,
+    "longitude": 78.1719497,
+    "place_id": "ChIJc_BEKqPFdjkRNbTSuAytvDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_BEKqPFdjkRNbTSuAytvDM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:30:58"
+  },
+  {
+    "business_name": "Goga Ji Flower",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "209503",
+    "phone_number": "+91 78301 03254",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "03, Bankiya, Uttar Pradesh 205301",
+    "area": "209503",
+    "latitude": 27.2330299,
+    "longitude": 79.25569999999999,
+    "place_id": "ChIJjzzc4VmPdTkRT5jpGjUfXHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzzc4VmPdTkRT5jpGjUfXHI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:31:00"
+  }
+]

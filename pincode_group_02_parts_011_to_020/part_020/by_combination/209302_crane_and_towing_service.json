@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliable towing service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "209302",
+    "phone_number": "+91 98221 90816",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "449, near Ganpati Temple, Gaothan, Shivajinagar, Pune, Maharashtra 411005",
+    "area": "Gaothan, Shivajinagar",
+    "latitude": 18.5250248,
+    "longitude": 73.85069039999999,
+    "place_id": "ChIJa9T5y4DAwjsRHgvs29TXdHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa9T5y4DAwjsRHgvs29TXdHg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:46"
+  },
+  {
+    "business_name": "Shakti crane service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "209302",
+    "phone_number": "+91 99917 07439",
+    "website": "https://shaktitowingcraneservice.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ward no 8, more, opposite Hanuman mandir, Sultanpur, Farukh Nagar, Haryana 122506",
+    "area": "Sultanpur",
+    "latitude": 28.4466732,
+    "longitude": 76.8292884,
+    "place_id": "ChIJEdRAPOgVDTkRozfv5apY9DA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdRAPOgVDTkRozfv5apY9DA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:06:46"
+  }
+]

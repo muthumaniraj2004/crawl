@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMS SHOP",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Cell phone accessory store, Courier service, Educational consultant, Internet cafe, Mobile phone repair shop, Money transfer service, Photo agency, Watch store",
+    "pincode": "209305",
+    "phone_number": "+91 93351 71414",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 14,
+    "address": "Shop No. 117/O, 404, &, Kakadav Road, near Hari Girls Hostel, opp. SBI, Tulsi Nagar, Geeta Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Tulsi Nagar, Geeta Nagar, Kakadeo",
+    "latitude": 26.481041899999997,
+    "longitude": 80.291265,
+    "place_id": "ChIJ17fAGhE4nDkRZtszsKj6QQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17fAGhE4nDkRZtszsKj6QQ0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:02"
+  },
+  {
+    "business_name": "Amit Electronics",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "209305",
+    "phone_number": "+91 99354 21830",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 220,
+    "address": "MIG 90, Shastri Chowk, Barra-3, Neemeshwar MahaMandir Society, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra-3, Neemeshwar MahaMandir Society, Barra World Bank, Barra",
+    "latitude": 26.4430382,
+    "longitude": 80.2941611,
+    "place_id": "ChIJpbxFBOpHnDkR5mfl_H_o8WY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbxFBOpHnDkR5mfl_H_o8WY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:02"
+  }
+]

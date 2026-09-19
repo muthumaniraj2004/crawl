@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sugar Queen's",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "209209",
+    "phone_number": "+91 70522 51961",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "house no 3114, Awas Vikas 3, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas 3, Kalyanpur",
+    "latitude": 26.4829458,
+    "longitude": 80.2455142,
+    "place_id": "ChIJ_bQVGmg3nDkRCA1NwW7lM-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bQVGmg3nDkRCA1NwW7lM-E",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:21"
+  },
+  {
+    "business_name": "Model Bakery | Vikas Nagar",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "209209",
+    "phone_number": "+91 77060 59111",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "123-A, Zoo Rd, Vikas Nagar, Khyora, Kanpur, Uttar Pradesh 208024",
+    "area": "Vikas Nagar, Khyora",
+    "latitude": 26.492911199999998,
+    "longitude": 80.2861738,
+    "place_id": "ChIJS_goODs4nDkRa846WOFOROU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_goODs4nDkRa846WOFOROU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 05:57:22"
+  }
+]

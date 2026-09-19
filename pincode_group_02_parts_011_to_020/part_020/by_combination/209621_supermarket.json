@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajeet Singh",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209621",
+    "phone_number": "+91 82990 39202",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "7625, Panchal Ghat Rd, Farrukhabad, Katri Amethi Kohna, Uttar Pradesh 209621",
+    "area": "209621",
+    "latitude": 27.402316799999998,
+    "longitude": 79.62968839999999,
+    "place_id": "ChIJ-cxAASQxnjkRbg1xGopzRLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cxAASQxnjkRbg1xGopzRLo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:38:05"
+  },
+  {
+    "business_name": "RK TRADERS",
+    "search_category": "Supermarket",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "209621",
+    "phone_number": "+91 87076 93588",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BLM HOSPITAL, RK TRADERS, Kanpur Rd, Farrukhabad, Uttar Pradesh 209601",
+    "area": "PWD Colony",
+    "latitude": 27.3650582,
+    "longitude": 79.6310604,
+    "place_id": "ChIJU_OC-bwwnjkRO5LwT4rzT5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_OC-bwwnjkRO5LwT4rzT5U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:38:06"
+  }
+]

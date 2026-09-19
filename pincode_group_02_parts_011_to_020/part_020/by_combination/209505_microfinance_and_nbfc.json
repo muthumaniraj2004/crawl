@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDB FINANCIAL SERVICES LTD",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Business development service, Car finance and loan company, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "209505",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "First Floor, 7, Barhpur, 289, Fatehpur Road, Uttar Pradesh 209625",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.381211699999998,
+    "longitude": 79.5962107,
+    "place_id": "ChIJF4DSOMYxnjkRcWJY0a-wMz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4DSOMYxnjkRcWJY0a-wMz0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:34:26"
+  },
+  {
+    "business_name": "Union Bank of India",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Public Sector Bank",
+    "pincode": "209505",
+    "phone_number": "+91 93218 30031",
+    "website": "https://unionbankofindia.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "eAB Farrukhabad 1/65 bajariya aliganj chauraha, Farrukhabad Rd, Fatehgarh, Farrukhabad, Uttar Pradesh 209601",
+    "area": "Phoos Banglow Colony",
+    "latitude": 27.366505,
+    "longitude": 79.63229,
+    "place_id": "ChIJIy6dbLwwnjkRxev9F_41NZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIy6dbLwwnjkRxev9F_41NZc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:34:27"
+  }
+]

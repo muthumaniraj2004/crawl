@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shops for rent",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency",
+    "pincode": "209625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rampura, Fatehgarh, Ram Pura, Uttar Pradesh 209602",
+    "area": "Rampura",
+    "latitude": 27.3527551,
+    "longitude": 79.6113233,
+    "place_id": "ChIJOZwE_YoxnjkRmB8-3aDB5eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZwE_YoxnjkRmB8-3aDB5eM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:42:50"
+  },
+  {
+    "business_name": "KB Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Office space rental agency, Property investment company, Property management company, Real estate rental agency",
+    "pincode": "209625",
+    "phone_number": "+91 88961 06183",
+    "website": "https://kbproperties.co.in/",
+    "rating": 4.8,
+    "reviews_count": 114,
+    "address": "3/333, Viram Khand-3, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand-3, Gomti Nagar",
+    "latitude": 26.846248199999998,
+    "longitude": 81.0022185,
+    "place_id": "ChIJi5Q6e_fjmzkR5Qeofa6qVJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5Q6e_fjmzkR5Qeofa6qVJ0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:42:51"
+  }
+]

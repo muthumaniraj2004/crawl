@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Ram Shankar Smarak Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "209308",
+    "phone_number": "+91 76170 06546",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No. P-10, Vijay Nagar, Kanpur Road, P Block, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "P Block, Navin Nagar, Kakadeo",
+    "latitude": 26.475333499999998,
+    "longitude": 80.28604849999999,
+    "place_id": "ChIJfXtUFgU4nDkR26c-v6eVBIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXtUFgU4nDkR26c-v6eVBIk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:17:05"
+  },
+  {
+    "business_name": "Dr. M. L. Tripathi. Dr. Piyush Tripathi Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "209308",
+    "phone_number": "+91 90447 73925",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shanidev H Block, Sanjeevan Road, opp. BOI, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Kidwai Nagar",
+    "latitude": 26.4279957,
+    "longitude": 80.3341768,
+    "place_id": "ChIJYfuBWBpHnDkRieEntkVFtw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfuBWBpHnDkRieEntkVFtw4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kahan Educational Services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "209305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "244/6, Vijay Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Vijay Nagar, Shastri Nagar",
+    "latitude": 26.4674285,
+    "longitude": 80.29695679999999,
+    "place_id": "ChIJKfe_FeM5nDkROagq6_RIvkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfe_FeM5nDkROagq6_RIvkY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:12:31"
+  },
+  {
+    "business_name": "Alankrat Consultancy Services LLP",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "209305",
+    "phone_number": "+91 83188 02529",
+    "website": "https://www.alankrat.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "118/456, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Kaushalpuri, Darshan Purwa",
+    "latitude": 26.467565999999998,
+    "longitude": 80.3102933,
+    "place_id": "ChIJD3ZvQiY5nDkRy9lNOWuMfdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3ZvQiY5nDkRy9lNOWuMfdE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:12:31"
+  }
+]

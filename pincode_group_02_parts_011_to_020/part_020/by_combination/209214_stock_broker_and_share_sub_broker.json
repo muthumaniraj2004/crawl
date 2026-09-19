@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stock Trading",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "209214",
+    "phone_number": "+91 97116 79806",
+    "website": "https://upstox.com/open-account/?f=W1RM",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stock Trading, 209214, India",
+    "area": "209214",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJr2SHBGt8YUsRQo0dEQ2448A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2SHBGt8YUsRQo0dEQ2448A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:02:11"
+  },
+  {
+    "business_name": "FinnovationZ",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "209214",
+    "phone_number": "N/A",
+    "website": "https://www.finnovationz.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FinnovationZ, 209214, India",
+    "area": "209214",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJT8oRQ6Thtk0R3V7QkAOgvjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8oRQ6Thtk0R3V7QkAOgvjo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:02:11"
+  }
+]

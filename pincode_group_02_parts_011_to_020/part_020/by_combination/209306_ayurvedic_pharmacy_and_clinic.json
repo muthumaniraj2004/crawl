@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Medical Hall",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "209306",
+    "phone_number": "+91 88084 91392",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 31 GP-3, Near, Hamirpur Rd, Juhi Kalan, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Near Juhi Gaushala, Juhi Kalan, Kidwai Nagar",
+    "latitude": 26.429997999999998,
+    "longitude": 80.3212065,
+    "place_id": "ChIJhW0jKqhHnDkRzSqMCv7jmXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhW0jKqhHnDkRzSqMCv7jmXI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:29"
+  },
+  {
+    "business_name": "Truefarm Ayurveda",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical office",
+    "all_categories": "Medical office",
+    "pincode": "209306",
+    "phone_number": "+91 93542 34464",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "125/18, L Block, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "L Block, Govind Nagar",
+    "latitude": 26.447922,
+    "longitude": 80.3155321,
+    "place_id": "ChIJVbIQOy1HnDkR3ZBBmTnIvNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbIQOy1HnDkR3ZBBmTnIvNc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambrosia the Fern Kanpur",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Eclectic restaurant",
+    "all_categories": "Eclectic restaurant",
+    "pincode": "209304",
+    "phone_number": "+91 90447 54405",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Fatehpur Roshanai, Gajner - Raipur Rd, industrial area, Rania, Kanpur, Uttar Pradesh 209101",
+    "area": "industrial area",
+    "latitude": 26.418821899999998,
+    "longitude": 80.1190316,
+    "place_id": "ChIJeyHgeWxLnDkRXQNX0HKb-gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyHgeWxLnDkRXQNX0HKb-gg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:39"
+  },
+  {
+    "business_name": "Happy Belly",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Tiffin Service Provider, Breakfast restaurant, Delivery service, Health food restaurant, Takeout restaurant, Salad shop, Vegetarian restaurant",
+    "pincode": "209304",
+    "phone_number": "+91 82990 59462",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "120/202, Lajpat Nagar Rd, Laxmi Ratan Colony, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "area": "Laxmi Ratan Colony, Lajpat Nagar, Narainpurwa",
+    "latitude": 26.4682148,
+    "longitude": 80.3079526,
+    "place_id": "ChIJcaFxgzA5nDkRQxd2tslI1gc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaFxgzA5nDkRQxd2tslI1gc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:09:39"
+  }
+]

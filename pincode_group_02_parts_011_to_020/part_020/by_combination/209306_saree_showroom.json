@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopal Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209306",
+    "phone_number": "+91 99363 06706",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rahimpur Bishdhan, Kanpur Nagar, Bilhaur, Rahimpur Bishdhan, Uttar Pradesh 209202",
+    "area": "Kanpur Nagar",
+    "latitude": 26.8254493,
+    "longitude": 79.9050171,
+    "place_id": "ChIJR1XyC-93njkRAAAAsDBZWVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1XyC-93njkRAAAAsDBZWVg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:19"
+  },
+  {
+    "business_name": "Shyam Garments",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "209306",
+    "phone_number": "+91 94511 34445",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shyam Collection, Sisodiya Market, Kanpur Road, Rasulabad, Uttar Pradesh 209306",
+    "area": "209306",
+    "latitude": 26.6810111,
+    "longitude": 79.77880689999999,
+    "place_id": "ChIJzcPfV4TdnTkRv7b_sZpjcmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcPfV4TdnTkRv7b_sZpjcmI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 06:13:19"
+  }
+]
