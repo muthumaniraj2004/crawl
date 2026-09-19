@@ -1,0 +1,90 @@
+name: Run Pincode Crawler Group 02 (Parts 011 to 020)
+
+on:
+  workflow_dispatch:
+    inputs:
+      part_number:
+        description: 'Choose Split Part to Crawl (011 to 020) or "all"'
+        required: false
+        default: 'all'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-single-part:
+    if: ${{ github.event.inputs.part_number != 'all' && github.event.inputs.part_number != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install pandas requests
+
+      - name: Run Crawler Part ${{ github.event.inputs.part_number }}
+        run: |
+          PART_RAW="${{ github.event.inputs.part_number }}"
+          PART_PAD=$(printf "%03d" "$PART_RAW")
+          echo "Launching pincode_group_02_parts_011_to_020/crawler_part_$PART_PAD.py..."
+          python pincode_group_02_parts_011_to_020/crawler_part_$PART_PAD.py
+
+      - name: Upload Scraped Output Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: group-02-leads-part-${{ github.event.inputs.part_number }}
+          if-no-files-found: ignore
+          path: |
+            pincode_group_02_parts_011_to_020/part_*/by_combination/*.json
+            pincode_group_02_parts_011_to_020/part_*/master/*.csv
+            pincode_group_02_parts_011_to_020/part_*/master/*.json
+
+  crawl-group-matrix:
+    if: ${{ github.event.inputs.part_number == 'all' || github.event.inputs.part_number == '' }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix:
+        part: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install pandas requests
+
+      - name: Run Part ${{ matrix.part }} in Parallel Matrix
+        run: |
+          PART_PAD=$(printf "%03d" "${{ matrix.part }}")
+          echo "Launching pincode_group_02_parts_011_to_020/crawler_part_$PART_PAD.py in parallel..."
+          python pincode_group_02_parts_011_to_020/crawler_part_$PART_PAD.py
+
+      - name: Upload Output for Part ${{ matrix.part }}
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: group-02-leads-part-${{ matrix.part }}
+          if-no-files-found: ignore
+          path: |
+            pincode_group_02_parts_011_to_020/part_*/by_combination/*.json
+            pincode_group_02_parts_011_to_020/part_*/master/*.csv
+            pincode_group_02_parts_011_to_020/part_*/master/*.json
