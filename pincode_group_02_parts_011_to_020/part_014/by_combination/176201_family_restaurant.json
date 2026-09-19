@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family restaurant prime",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, G T Road, Bodh Kangra Village, Bodh, Jassur, Nurpur, Himachal Pradesh 176201",
+    "area": "Bodh Kangra Village, Bodh",
+    "latitude": 32.285092899999995,
+    "longitude": 75.8668114,
+    "place_id": "ChIJOQxPDwCDHDkR9cbolc3rLdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQxPDwCDHDkR9cbolc3rLdw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:52:49"
+  },
+  {
+    "business_name": "Shahi Darbar restaurant and cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Buffet restaurant",
+    "all_categories": "Buffet restaurant, Family restaurant",
+    "pincode": "176201",
+    "phone_number": "+91 77101 95609",
+    "website": "https://www.instagram.com/shahi_darbaar_pathankot?utm_source=qr&igsi=eGMxaWNmYXVqdDE4",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "My plaza, Dalhousie Road, near ICICI BANK and Bank of Baroda, Pathankot, Punjab 145001",
+    "area": "176201",
+    "latitude": 32.2729394,
+    "longitude": 75.66540359999999,
+    "place_id": "ChIJDYbuAQB_HDkRAZwqPxmUWQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYbuAQB_HDkRAZwqPxmUWQA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:52:49"
+  }
+]

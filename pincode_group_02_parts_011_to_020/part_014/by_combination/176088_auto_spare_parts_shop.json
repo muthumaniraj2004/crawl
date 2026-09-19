@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK AUTOMOBILES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176088",
+    "phone_number": "+91 70182 08342",
+    "website": "https://s.kautomobile.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Govt. Degree College, Jaisinghpur, Bhuhara, Himachal Pradesh 176095",
+    "area": "176088",
+    "latitude": 31.902235299999997,
+    "longitude": 76.6080247,
+    "place_id": "ChIJIcLC1vbPBDkRXxxPS9NcVSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcLC1vbPBDkRXxxPS9NcVSs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:13:44"
+  },
+  {
+    "business_name": "Beas Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service",
+    "pincode": "176088",
+    "phone_number": "+91 94182 70270",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaisinghpur vill, P.O, Tehsil, Halehr, Jaisinghpur, Himachal Pradesh 176091",
+    "area": "P.O, Tehsil",
+    "latitude": 31.8999189,
+    "longitude": 76.6182552,
+    "place_id": "ChIJexEv-ZXPBDkRqV2-mAdDk-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexEv-ZXPBDkRqV2-mAdDk-A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:13:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176115",
+    "phone_number": "+91 98163 14264",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite shitla mata mandir, Baijnath, Sitala Devi, Himachal Pradesh 176125",
+    "area": "176115",
+    "latitude": 32.0325629,
+    "longitude": 76.64344249999999,
+    "place_id": "ChIJRaujjmK5BDkRR8imqmD_FnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRaujjmK5BDkRR8imqmD_FnA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:54"
+  },
+  {
+    "business_name": "S Medicine Centre and clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Doctor, Pharmacy",
+    "pincode": "176115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Neri - Bajnath Rd, Pansoa, Himachal Pradesh 176125",
+    "area": "176115",
+    "latitude": 32.0099318,
+    "longitude": 76.6515111,
+    "place_id": "ChIJhzvv6ge4BDkRJowqyj_5sLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzvv6ge4BDkRJowqyj_5sLg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:55"
+  }
+]

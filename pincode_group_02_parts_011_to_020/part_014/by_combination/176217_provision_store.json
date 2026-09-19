@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Walia General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176217",
+    "phone_number": "N/A",
+    "website": "http://www.walia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Walia Niwas, Dharamshala Road, Gharoh, Chakban Gharo, Himachal Pradesh 176217",
+    "area": "176217",
+    "latitude": 32.2173155,
+    "longitude": 76.279541,
+    "place_id": "ChIJJRGWi-5RGzkRJxSKNxVh7UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRGWi-5RGzkRJxSKNxVh7UM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:19:33"
+  },
+  {
+    "business_name": "Krishan Pathania General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "57XG+3M3, Upper oder, Swala, Upperla Odar, Himachal Pradesh 176217",
+    "area": "Upper oder",
+    "latitude": 32.19763,
+    "longitude": 76.2766832,
+    "place_id": "ChIJIUw4No5RGzkRklgV-6FOrAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUw4No5RGzkRklgV-6FOrAc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:19:33"
+  }
+]

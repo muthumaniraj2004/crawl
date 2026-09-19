@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zenith Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "176216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "68WG+7F4, Dharamkot Rd, near Organic Thali, Dharamkot, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",
+    "area": "Dharamkot, McLeod Ganj",
+    "latitude": 32.2456434,
+    "longitude": 76.3262125,
+    "place_id": "ChIJAcAJM9JWGzkR1y0M9xuC22E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcAJM9JWGzkR1y0M9xuC22E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:19:01"
+  },
+  {
+    "business_name": "Ara Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176216",
+    "phone_number": "+91 98051 40639",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 137,
+    "address": "Balreh, Himachal Pradesh 176216",
+    "area": "176216",
+    "latitude": 32.2608836,
+    "longitude": 76.31882929999999,
+    "place_id": "ChIJyaIPMztXGzkR8-aQCRlJE2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaIPMztXGzkR8-aQCRlJE2w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:19:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exclusive Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store",
+    "pincode": "176211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "V.po, Dunera,teh.dhar kalan, Disst, near by vk hospital, near by sk aluminium work, Dunera, Punjab 145022",
+    "area": "176211",
+    "latitude": 32.438205499999995,
+    "longitude": 75.88993219999999,
+    "place_id": "ChIJFc3N_lKFHDkRthxlCdLh8OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFc3N_lKFHDkRthxlCdLh8OY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:44"
+  },
+  {
+    "business_name": "Rivu collections",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176211",
+    "phone_number": "+91 98166 44298",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "opp. gurudwara Singh sabha, Akhara, Kullu, Himachal Pradesh 175101",
+    "area": "Akhara",
+    "latitude": 31.963562999999997,
+    "longitude": 77.1152765,
+    "place_id": "ChIJRd2jFab2BDkRAAAAMOxZ00I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRd2jFab2BDkRAAAAMOxZ00I",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:44"
+  }
+]

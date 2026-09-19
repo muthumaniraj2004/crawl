@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kasol Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Cafe, Guest house, Hotel, Restaurant, Serviced accommodation, Youth Hostel",
+    "pincode": "176109",
+    "phone_number": "+91 75683 69786",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Malana Village Rd, near jari, Kasol, Himachal Pradesh 175105",
+    "area": "176109",
+    "latitude": 32.002029199999996,
+    "longitude": 77.24245669999999,
+    "place_id": "ChIJH14PgVBfBDkR22Qz0CY77MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH14PgVBfBDkR22Qz0CY77MQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:41:16"
+  },
+  {
+    "business_name": "Zostel Kasol (Katagla)",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "176109",
+    "phone_number": "+91 11 4113 3717",
+    "website": "https://www.zostel.com/zostel/kasol/zostel-kasol-katagala-kslh539",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Village, Katagla, Kasol, Himachal Pradesh 175105",
+    "area": "Katagla",
+    "latitude": 32.010849199999996,
+    "longitude": 77.2952268,
+    "place_id": "ChIJ74hvMt9dBDkRnf6RDp7zD0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74hvMt9dBDkRnf6RDp7zD0U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:41:16"
+  }
+]

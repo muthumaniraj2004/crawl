@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivazee Tour and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176110",
+    "phone_number": "N/A",
+    "website": "https://shivazeetourandtravels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VPO Karot, Sujanpur Tira, Himachal Pradesh 176110",
+    "area": "VPO Karot",
+    "latitude": 31.833866299999997,
+    "longitude": 76.5055567,
+    "place_id": "ChIJI8tJQdjNBDkRTBOHD7zdDjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8tJQdjNBDkRTBOHD7zdDjQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:42:34"
+  },
+  {
+    "business_name": "Travel Talkies LLP",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Corporate office",
+    "pincode": "176110",
+    "phone_number": "+91 82650 07070",
+    "website": "http://www.mytraveltalkies.com/",
+    "rating": 4.6,
+    "reviews_count": 2573,
+    "address": "Banog Village & Post Office, Totu, Rampur Keonthal, Shimla, Himachal Pradesh 171004",
+    "area": "Totu",
+    "latitude": 31.0977556,
+    "longitude": 77.123745,
+    "place_id": "ChIJmTiE31l5BTkReqPsAwjdm8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTiE31l5BTkReqPsAwjdm8k",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:42:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaikunth Resorts",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176091",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 134,
+    "address": "Mandi - Pathankot Rd, Takhniar, Himachal Pradesh 176206",
+    "area": "176091",
+    "latitude": 32.2211042,
+    "longitude": 76.1261676,
+    "place_id": "ChIJo69DCKtfGzkRLeApUUeyDVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo69DCKtfGzkRLeApUUeyDVo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:19:15"
+  },
+  {
+    "business_name": "Himachal Heritage Village",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "176091",
+    "phone_number": "+91 98167 99960",
+    "website": "https://www.himachalheritagevillage.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Thala Rd, Kandi, Palampur, Thala Warla, Himachal Pradesh 176061",
+    "area": "Kandi",
+    "latitude": 32.145952799999996,
+    "longitude": 76.5365308,
+    "place_id": "ChIJxzj_RTuyBDkR7KHWWrP6eBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzj_RTuyBDkR7KHWWrP6eBM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:19:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Financial Services",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, Financial planner, Health insurance agency, Investment company, Investment service, Life insurance agency, Motorcycle insurance agency",
+    "pincode": "176091",
+    "phone_number": "+91 70185 39267",
+    "website": "http://ranafinancialservices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "first floor, bus stand, Kohala, Jawalamukhi, Himachal Pradesh 176031",
+    "area": "Kohala",
+    "latitude": 31.875237199999997,
+    "longitude": 76.3203091,
+    "place_id": "ChIJ4YULT-MxGzkRJYtd7SfPbdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YULT-MxGzkRJYtd7SfPbdY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:19:33"
+  },
+  {
+    "business_name": "Punjab National Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Public Sector Bank",
+    "all_categories": "Public Sector Bank",
+    "pincode": "176091",
+    "phone_number": "+91 1800 1800",
+    "website": "https://locate.pnb.bank.in/punjab-national-bank-jaisinghpur-banks-jaisingh-pur-kangra-507594/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4,
+    "reviews_count": 16,
+    "address": "Ground Floor, Buhare Da Baag, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "Buhare Da Baag",
+    "latitude": 31.897798899999998,
+    "longitude": 76.5998171,
+    "place_id": "ChIJN7Pl6SbPBDkRhjthIHO9G0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7Pl6SbPBDkRhjthIHO9G0M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:19:33"
+  }
+]

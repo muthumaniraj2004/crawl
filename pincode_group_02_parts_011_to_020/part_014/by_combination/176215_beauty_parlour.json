@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dazzling Beauty Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "176215",
+    "phone_number": "N/A",
+    "website": "https://dazzling-beauty-salon.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Post office-dari, vill, near ITI-Stadium Road, Barol, Dharamshala, Himachal Pradesh 176215",
+    "area": "Barol",
+    "latitude": 32.198555299999995,
+    "longitude": 76.3334782,
+    "place_id": "ChIJNWKE13hRGzkR_FKGq2cwH1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWKE13hRGzkR_FKGq2cwH1E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:16:46"
+  },
+  {
+    "business_name": "Neha shine studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Home health care service",
+    "pincode": "176215",
+    "phone_number": "+91 60068 47410",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kotwali Bazar Rd, Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.2170027,
+    "longitude": 76.31849729999999,
+    "place_id": "ChIJW9LBf2RRGzkR8rXysnCBWv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9LBf2RRGzkR8rXysnCBWv0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:16:46"
+  }
+]

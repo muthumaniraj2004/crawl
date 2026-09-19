@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The cutting chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "176103",
+    "phone_number": "+91 98821 20098",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Municipal shopping complex, Kotwali Bazar Rd, opposite canara bank, Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.2170027,
+    "longitude": 76.31849729999999,
+    "place_id": "ChIJtSn8OX1RGzkRDUOUuY4oD9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSn8OX1RGzkRDUOUuY4oD9o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:35:08"
+  },
+  {
+    "business_name": "MBA CHAI WALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Fast food restaurant, Takeout restaurant, Restaurant",
+    "pincode": "176103",
+    "phone_number": "+91 82194 40594",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop no. 5, block-B, HRTC complex, Bus Stand Rd, near New, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.103209,
+    "longitude": 76.53425179999999,
+    "place_id": "ChIJkYsCXHqzBDkRx4p1q2Er1gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYsCXHqzBDkRx4p1q2Er1gg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:35:08"
+  }
+]

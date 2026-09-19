@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "176092",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH 39, Main Market, Daroh, Droh Khas, Himachal Pradesh 176092",
+    "area": "Main Market",
+    "latitude": 32.0001094,
+    "longitude": 76.478282,
+    "place_id": "ChIJf8BCLIi1BDkRSntlUHCX3Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8BCLIi1BDkRSntlUHCX3Gg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:01"
+  },
+  {
+    "business_name": "Mcll'o sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "176092",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 41,
+    "address": "68QF+GWC, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2388171,
+    "longitude": 76.3247907,
+    "place_id": "ChIJHawLBX9RGzkRALd2SPhgZds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHawLBX9RGzkRALd2SPhgZds",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:04"
+  }
+]

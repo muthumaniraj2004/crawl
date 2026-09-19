@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aggarwal Distributors",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store, Appliance store, Countertop store, Gift shop, Kitchen supply store, Hotel supply store",
+    "pincode": "176219",
+    "phone_number": "+91 82888 70247",
+    "website": "https://horeca247.in/",
+    "rating": 4.5,
+    "reviews_count": 440,
+    "address": "SCO 30, Madhya Marg, Sector 26, Chandigarh, 160019",
+    "area": "Sector 26",
+    "latitude": 30.7268297,
+    "longitude": 76.80418279999999,
+    "place_id": "ChIJizOG6yHtDzkRIm99GzbXhkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizOG6yHtDzkRIm99GzbXhkY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:23:28"
+  },
+  {
+    "business_name": "Hotel Deepak Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176219",
+    "phone_number": "+91 97661 25666",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Mumbai Hwy, beside Indian Oil Petrol pump, pati, Kerur, Shirgapur, Maharashtra 413603",
+    "area": "pati",
+    "latitude": 17.7906937,
+    "longitude": 76.1676832,
+    "place_id": "ChIJGwDAEcvpxTsR3CSb2UFxvxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwDAEcvpxTsR3CSb2UFxvxc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:23:29"
+  }
+]

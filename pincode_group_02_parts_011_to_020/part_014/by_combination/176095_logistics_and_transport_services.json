@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BGFC transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "176095",
+    "phone_number": "N/A",
+    "website": "http://professionalscs.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop no 07, regency hotel, Neelam Chowk, Bhiwadi, Rajasthan 301019",
+    "area": "176095",
+    "latitude": 28.211703,
+    "longitude": 76.8465684,
+    "place_id": "ChIJf4sn95s3DTkRMG1QB_4b8aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4sn95s3DTkRMG1QB_4b8aw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:25:31"
+  },
+  {
+    "business_name": "Noida Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "176095",
+    "phone_number": "+91 87556 38823",
+    "website": "https://noidatransport.in/",
+    "rating": 4.8,
+    "reviews_count": 187,
+    "address": "Shop No 3, Transport, Goswami Market, Chhijarsi, Chhajarsi Colony, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Chhijarsi, Chhajarsi Colony, Sector 63",
+    "latitude": 28.6304919,
+    "longitude": 77.39053489999999,
+    "place_id": "ChIJ2UirChbvDDkRw6JSw7WSjhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UirChbvDDkRw6JSw7WSjhw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:25:32"
+  }
+]

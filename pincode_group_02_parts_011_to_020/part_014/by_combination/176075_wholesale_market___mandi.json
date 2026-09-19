@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Emporium",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176075",
+    "phone_number": "+91 98055 17455",
+    "website": "https://kiranemporium.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kiran Emporium, Bhootnath Bazar, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Bhootnath Bazar, Samkhetar",
+    "latitude": 31.710176699999998,
+    "longitude": 76.9318037,
+    "place_id": "ChIJazbpSz7jBDkRKyfN9y21iZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazbpSz7jBDkRKyfN9y21iZI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:16"
+  },
+  {
+    "business_name": "Azadpur Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market, Supermarket",
+    "pincode": "176075",
+    "phone_number": "N/A",
+    "website": "http://www.apmcazadpurdelhi.com/",
+    "rating": 4,
+    "reviews_count": 3546,
+    "address": "Shop no. B-724, new sabji mandi, Azadpur Rd, Block B, New Sabzi Mandi, Azadpur, Delhi, 110033",
+    "area": "Block B, New Sabzi Mandi, Azadpur",
+    "latitude": 28.712867499999998,
+    "longitude": 77.1719498,
+    "place_id": "ChIJAQAA0IoBDTkR2FykSyQcvFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA0IoBDTkR2FykSyQcvFY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:17"
+  }
+]

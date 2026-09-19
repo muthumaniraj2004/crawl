@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medicare Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176087",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "p.o thore, teh, near Main Bazar, Vill, Badhal, Dehra Gopipur, Himachal Pradesh 177105",
+    "area": "Vill",
+    "latitude": 31.8768823,
+    "longitude": 76.1427389,
+    "place_id": "ChIJf2oAQQA_GzkRCdBm4kmLdeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2oAQQA_GzkRCdBm4kmLdeY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:55"
+  },
+  {
+    "business_name": "MK Healthcare - Branch Office",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "176087",
+    "phone_number": "N/A",
+    "website": "https://www.mkhealthcare.co.in/",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "V.P.O Gahlian, Near Kangra Central Cooperative Bank, Distt, &, Teh, Kangra, Himachal Pradesh 176029",
+    "area": "176087",
+    "latitude": 32.0320198,
+    "longitude": 76.2032993,
+    "place_id": "ChIJW9zvLQlHGzkR9RJMVQmH76c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9zvLQlHGzkR9RJMVQmH76c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:56"
+  }
+]

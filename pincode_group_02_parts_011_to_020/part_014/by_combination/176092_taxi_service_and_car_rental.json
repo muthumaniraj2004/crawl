@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Car Rental - Taxi service Shimla",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Sightseeing Tour Operator, Tour agency, Tour operator, Travel agency",
+    "pincode": "176092",
+    "phone_number": "+91 70181 23371",
+    "website": "https://rajeshcarrental.com/",
+    "rating": 4.9,
+    "reviews_count": 384,
+    "address": "Future concepts, SDA Complex, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "SDA Complex, Kasumpti",
+    "latitude": 31.0787892,
+    "longitude": 77.18271829999999,
+    "place_id": "ChIJMRqOnF55BTkRSm2-76TViQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRqOnF55BTkRSm2-76TViQs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:33"
+  },
+  {
+    "business_name": "Amit Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Transportation service",
+    "pincode": "176092",
+    "phone_number": "+91 85804 18694",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "bus stand, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "176092",
+    "latitude": 31.991249699999997,
+    "longitude": 76.7899214,
+    "place_id": "ChIJR2I1bBjBBDkRcOli6D85bmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2I1bBjBBDkRcOli6D85bmQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:34"
+  }
+]

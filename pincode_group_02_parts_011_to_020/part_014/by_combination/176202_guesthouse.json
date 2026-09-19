@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PWD Rest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "176202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 14,
+    "address": "Dev Bharari Rd, Suliali, Dev Bharari, Himachal Pradesh 176211",
+    "area": "176202",
+    "latitude": 32.376162799999996,
+    "longitude": 75.8809388,
+    "place_id": "ChIJy6ANrDiDHDkRMMMHIAMdITY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6ANrDiDHDkRMMMHIAMdITY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:55:29"
+  },
+  {
+    "business_name": "Sharma Guest House and resturant",
+    "search_category": "Guesthouse",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "Ward no 7, Niazpur bus stand, Nurpur, Himachal Pradesh 176202",
+    "area": "176202",
+    "latitude": 32.2963379,
+    "longitude": 75.88005919999999,
+    "place_id": "ChIJy3gtsA6DHDkRmmQjQuzKpug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3gtsA6DHDkRmmQjQuzKpug",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:55:29"
+  }
+]

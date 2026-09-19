@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Vaishno Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "176093",
+    "phone_number": "+91 94593 92775",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kufri - Chail Rd, opposite HD Public School, Janedghat, Himachal Pradesh 171218",
+    "area": "176093",
+    "latitude": 30.9898803,
+    "longitude": 77.207759,
+    "place_id": "ChIJw15EPAiABTkRU7CVahlJ-Qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw15EPAiABTkRU7CVahlJ-Qw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:44"
+  },
+  {
+    "business_name": "Chanson Dhaba by Sardar Ji",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176093",
+    "phone_number": "+91 99999 95025",
+    "website": "https://www.chansondhaba.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kufri - Chail Rd, chalanda chowk, Chail, Himachal Pradesh 173217",
+    "area": "chalanda chowk",
+    "latitude": 31.0024284,
+    "longitude": 77.22809629999999,
+    "place_id": "ChIJFZP30FOBBTkREbCcTNRX7gc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZP30FOBBTkREbCcTNRX7gc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Department of Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "176087",
+    "phone_number": "+91 94191 40760",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Vetinery college, Holta, Palampur, Banuri, Himachal Pradesh 176062",
+    "area": "Holta",
+    "latitude": 32.1044388,
+    "longitude": 76.56157329999999,
+    "place_id": "ChIJJzz21DaxBDkRBtCEJdzfGZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzz21DaxBDkRBtCEJdzfGZE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:23"
+  },
+  {
+    "business_name": "Neerala Chicken Corner",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant, Chicken shop",
+    "pincode": "176087",
+    "phone_number": "+91 98166 19997",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 46,
+    "address": "Rajpur, chowk, Palampur, Himachal Pradesh 176067",
+    "area": "176087",
+    "latitude": 32.088409399999996,
+    "longitude": 76.5371641,
+    "place_id": "ChIJKyZ1hPezBDkRhlKjH_0y2e4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyZ1hPezBDkRhlKjH_0y2e4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:23"
+  }
+]

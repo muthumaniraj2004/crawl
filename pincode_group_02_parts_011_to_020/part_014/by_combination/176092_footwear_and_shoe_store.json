@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Garments And Footwear Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176092",
+    "phone_number": "+91 85805 33262",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near PNB Bank, Main market, Daroh, Droh Khas, Himachal Pradesh 176092",
+    "area": "Main market",
+    "latitude": 31.9993129,
+    "longitude": 76.4780347,
+    "place_id": "ChIJJxqd9Aa1BDkRFr29q_Pb9Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxqd9Aa1BDkRFr29q_Pb9Os",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:13"
+  },
+  {
+    "business_name": "Mochi Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176092",
+    "phone_number": "+91 186 405 3051",
+    "website": "https://store.mochishoes.com/mochi-shoes-shop-pathankot-punjab-pcm",
+    "rating": 4.8,
+    "reviews_count": 270,
+    "address": "Shop No.1,Tuli Mall, Dalhousie Road, near Jai Shani Dev Mandir, Pathankot, Punjab 145001",
+    "area": "Bhadroya",
+    "latitude": 32.2732235,
+    "longitude": 75.67523829999999,
+    "place_id": "ChIJp-rVuFl_HDkRAF18Hz9OA6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-rVuFl_HDkRAF18Hz9OA6E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eco homes Apartments",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Guest house",
+    "pincode": "176217",
+    "phone_number": "+91 88949 88842",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dharamshala, Himachal Pradesh 176215",
+    "area": "176217",
+    "latitude": 32.2314375,
+    "longitude": 76.3274375,
+    "place_id": "ChIJw5jfbjVRGzkReuQMF2qXD-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5jfbjVRGzkReuQMF2qXD-8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:06"
+  },
+  {
+    "business_name": "Dhaularrealestate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "176217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near radio colony, Jawahar Nagar, Dharamshala, Pat, Himachal Pradesh 176215",
+    "area": "Jawahar Nagar",
+    "latitude": 32.1937779,
+    "longitude": 76.3183525,
+    "place_id": "ChIJ985zbUpRGzkR9B4Z5C6jWLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ985zbUpRGzkR9B4Z5C6jWLA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:08"
+  }
+]

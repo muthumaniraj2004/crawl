@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Accounts Service",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "176202",
+    "phone_number": "+91 70180 17526",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Opp New Bus Stand, near SBI ATM, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.110576,
+    "longitude": 76.2784702,
+    "place_id": "ChIJ2clWdkxPGzkRA5jAobyGIVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2clWdkxPGzkRA5jAobyGIVY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:55:52"
+  },
+  {
+    "business_name": "AK ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Service establishment",
+    "pincode": "176202",
+    "phone_number": "+91 70185 42101",
+    "website": "https://www.aktaxbro.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "AK ASSOCIATES, 176202, India",
+    "area": "176202",
+    "latitude": 31.470728299999998,
+    "longitude": 76.26884299999999,
+    "place_id": "ChIJ7Z5Y-nl-iIYRvVGKJ-zP2vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Z5Y-nl-iIYRvVGKJ-zP2vw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:55:52"
+  }
+]

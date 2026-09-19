@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jakhar Pet store and dog kennel",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Dog cafe",
+    "pincode": "176084",
+    "phone_number": "+91 98573 12285",
+    "website": "http://jakharpetshop.blogspot.in/p",
+    "rating": 3.7,
+    "reviews_count": 44,
+    "address": "Sidhbari, Dharamshala, Himachal Pradesh 176215",
+    "area": "176084",
+    "latitude": 32.189447099999995,
+    "longitude": 76.3565698,
+    "place_id": "ChIJiUa577dRGzkRtE3eEUBHVG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUa577dRGzkRtE3eEUBHVG4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:06:14"
+  },
+  {
+    "business_name": "The Pets Kingdom",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "176084",
+    "phone_number": "+91 70181 00234",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "The Pets Kingdom, near Old Petrol Pump, Hatwas, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "Hatwas",
+    "latitude": 32.1099107,
+    "longitude": 76.3903304,
+    "place_id": "ChIJo0vrGwBNGzkR0JXQM6x6Ncg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0vrGwBNGzkR0JXQM6x6Ncg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:06:14"
+  }
+]

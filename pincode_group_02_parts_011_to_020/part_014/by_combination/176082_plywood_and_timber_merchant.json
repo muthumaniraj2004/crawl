@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhardwaj hardware store",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176082",
+    "phone_number": "+91 70180 51257",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khundian, Pihri, Himachal Pradesh 176030",
+    "area": "176082",
+    "latitude": 31.909495699999997,
+    "longitude": 76.38265179999999,
+    "place_id": "ChIJ8cynJXI1GzkRUpwOoR0Hl4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cynJXI1GzkRUpwOoR0Hl4o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:03:21"
+  },
+  {
+    "business_name": "Chawla Brothers",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "176082",
+    "phone_number": "+91 98141 21197",
+    "website": "https://www.chawlabrothers.in/",
+    "rating": 4.4,
+    "reviews_count": 68,
+    "address": "Nakodar Road, Opposite Hamilton Tower Flats, Near Wadala Chowk, Jalandhar, Punjab 144001",
+    "area": "Near Wadala Chowk, Bootan Pind",
+    "latitude": 31.2975192,
+    "longitude": 75.5593375,
+    "place_id": "ChIJKW2H0alpGjkRHOuTjekiAK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKW2H0alpGjkRHOuTjekiAK8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:03:22"
+  }
+]

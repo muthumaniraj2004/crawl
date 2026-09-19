@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guleria Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "573C+M4M, MDR44, Gagal Khas, Gaggal, Himachal Pradesh 176209",
+    "area": "176208",
+    "latitude": 32.154224,
+    "longitude": 76.2702931,
+    "place_id": "ChIJoaiUzqlaGzkRUZ0Wkb-Znwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaiUzqlaGzkRUZ0Wkb-Znwc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:29"
+  },
+  {
+    "business_name": "Dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "176208",
+    "phone_number": "+91 70181 98718",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, Nerti, Rait, Himachal Pradesh 176208",
+    "area": "176208",
+    "latitude": 32.1847649,
+    "longitude": 76.2142617,
+    "place_id": "ChIJBzce1INbGzkRtjKtei3Yx_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzce1INbGzkRtjKtei3Yx_8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:30"
+  }
+]

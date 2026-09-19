@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bassi Grocery Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BPO, near Handpump Teshil and, Bhadyara Khas, Kangra, Himachal Pradesh 176209",
+    "area": "176208",
+    "latitude": 32.1500404,
+    "longitude": 76.2382413,
+    "place_id": "ChIJlSNo5jlbGzkR_lsUwnt1D0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSNo5jlbGzkR_lsUwnt1D0s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:03"
+  },
+  {
+    "business_name": "Stop n shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "176208",
+    "phone_number": "+91 189 229 2096",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Jayanti vihar colony, Himachal Pradesh 176001",
+    "area": "New Kangra",
+    "latitude": 32.1069728,
+    "longitude": 76.2704782,
+    "place_id": "ChIJO51Hfa5FGzkRAMzVlRWU9dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO51Hfa5FGzkRAMzVlRWU9dA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:04"
+  }
+]

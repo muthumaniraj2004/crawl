@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176083",
+    "phone_number": "+91 73408 88493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chamba Rd, near civil Hospital, Chowgan Bazar, Nurpur, Himachal Pradesh 176202",
+    "area": "Chowgan Bazar",
+    "latitude": 32.307707799999996,
+    "longitude": 75.8939007,
+    "place_id": "ChIJicugOi-DHDkR_FFv1g_nHAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicugOi-DHDkR_FFv1g_nHAg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:04:51"
+  },
+  {
+    "business_name": "Elation Pharma",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Pharmacy",
+    "pincode": "176083",
+    "phone_number": "+91 99881 55054",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WWFG+4HW, Sansarpur, Reri, Himachal Pradesh 176501",
+    "area": "176083",
+    "latitude": 31.922867,
+    "longitude": 75.926442,
+    "place_id": "ChIJEXUIEY8TGzkRirQMO_SWh-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXUIEY8TGzkRirQMO_SWh-4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:04:53"
+  }
+]

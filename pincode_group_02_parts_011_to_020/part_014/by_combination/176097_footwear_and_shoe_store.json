@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream Footwear Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176097",
+    "phone_number": "+91 98825 99882",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "V.P.O UPPER KHOLI (Kaled, Road, Kangra, Himachal Pradesh 176056",
+    "area": "176097",
+    "latitude": 32.1083399,
+    "longitude": 76.3178551,
+    "place_id": "ChIJR8zqZCRPGzkRCIrjzbsccpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8zqZCRPGzkRCIrjzbsccpc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:28:31"
+  },
+  {
+    "business_name": "Rs footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176097",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "goma market, Panchrukhi, Ladoh, Himachal Pradesh 176103",
+    "area": "176097",
+    "latitude": 32.056559199999995,
+    "longitude": 76.56471739999999,
+    "place_id": "ChIJPahvPQC3BDkROQZ9jsEBVDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPahvPQC3BDkROQZ9jsEBVDw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:28:33"
+  }
+]

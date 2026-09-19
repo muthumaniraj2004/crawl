@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orion Enterprises",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "176090",
+    "phone_number": "+91 98058 51418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Hari niwas, Dhalli, Shimla, Bhawana, Himachal Pradesh 171012",
+    "area": "Dhalli",
+    "latitude": 31.1069903,
+    "longitude": 77.20960199999999,
+    "place_id": "ChIJh5Zsl1-DBTkRce-g6fXwbyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5Zsl1-DBTkRce-g6fXwbyE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:17:16"
+  },
+  {
+    "business_name": "Magnum Agencies",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Hardware store, Plywood supplier",
+    "pincode": "176090",
+    "phone_number": "+91 88944 15000",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 132,
+    "address": "New Shimla Rd, B.C.S., BCS Market, New Shimla, Shimla, Himachal Pradesh 171009",
+    "area": "B.C.S., BCS Market, New Shimla",
+    "latitude": 31.0844886,
+    "longitude": 77.1719155,
+    "place_id": "ChIJ1Ys_17d4BTkR4cD9iGn9J3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Ys_17d4BTkR4cD9iGn9J3E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:17:18"
+  }
+]

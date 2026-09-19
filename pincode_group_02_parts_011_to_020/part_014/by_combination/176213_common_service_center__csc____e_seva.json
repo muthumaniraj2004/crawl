@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common service centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "176213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "25A, Sher Shah Suri Nagar, Indore, Madhya Pradesh 452016",
+    "area": "Sher Shah Suri Nagar",
+    "latitude": 22.7418039,
+    "longitude": 75.92147899999999,
+    "place_id": "ChIJXYXVttLjYjkRyCChZv9E6QY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYXVttLjYjkRyCChZv9E6QY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:13:32"
+  },
+  {
+    "business_name": "Common Service Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176213",
+    "phone_number": "+91 89584 95009",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27, 5, Subhash Nagar, Pardesipura, Indore, Madhya Pradesh 452011",
+    "area": "Subhash Nagar, Pardesipura",
+    "latitude": 22.741328,
+    "longitude": 75.87045119999999,
+    "place_id": "ChIJ065XG2T9YjkRAAAAsIJfeQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ065XG2T9YjkRAAAAsIJfeQo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:13:32"
+  }
+]

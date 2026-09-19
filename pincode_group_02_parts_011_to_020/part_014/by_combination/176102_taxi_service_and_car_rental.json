@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arla taxi stand",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "176102",
+    "phone_number": "+91 82196 37372",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "3GM2+C8G, Raipur Tea Estate, Himachal Pradesh 176102",
+    "area": "176102",
+    "latitude": 32.0835625,
+    "longitude": 76.50082809999999,
+    "place_id": "ChIJ656CLQCzBDkRKImy1k3J0kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ656CLQCzBDkRKImy1k3J0kc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:54"
+  },
+  {
+    "business_name": "Mahavir Taxi Union",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176102",
+    "phone_number": "+91 98165 08287",
+    "website": "https://mahavirtaxiunion.com/",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "VPO, opposite Hanuman Mandir, Maranda, Palampur, Himachal Pradesh 176102",
+    "area": "Maranda",
+    "latitude": 32.0833881,
+    "longitude": 76.5158979,
+    "place_id": "ChIJ66BrqmzppScRfNVZeE-_32M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66BrqmzppScRfNVZeE-_32M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:54"
+  }
+]

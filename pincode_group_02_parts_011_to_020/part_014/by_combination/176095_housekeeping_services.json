@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mads Multiclean",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Janitorial service",
+    "all_categories": "Janitorial service, Cleaning Services, Pool cleaning service, Property maintenance, Sanitation service",
+    "pincode": "176095",
+    "phone_number": "+91 63934 82802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H-2, 117, Pandu Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Pandu Nagar",
+    "latitude": 26.4729358,
+    "longitude": 80.29421789999999,
+    "place_id": "ChIJr9ZHjKI5nDkRQMupJ9KI44E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9ZHjKI5nDkRQMupJ9KI44E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:26:14"
+  },
+  {
+    "business_name": "Williamsport Housekeeping",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "176095",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 78,
+    "address": "Williamsport Housekeeping, 176095, India",
+    "area": "176095",
+    "latitude": 41.291141499999995,
+    "longitude": -76.9924399,
+    "place_id": "ChIJlar2psmnz4kRtrzV6ASdTUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlar2psmnz4kRtrzV6ASdTUI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:26:14"
+  }
+]

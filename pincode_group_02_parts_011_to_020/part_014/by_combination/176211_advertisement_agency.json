@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Advertisers",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Print shop",
+    "pincode": "176211",
+    "phone_number": "N/A",
+    "website": "https://malikadvertisers.justdial.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pathania Market, Dalhousie Rd, near SBI Bank, Dunera, Punjab 145022",
+    "area": "176211",
+    "latitude": 32.4435256,
+    "longitude": 75.8924546,
+    "place_id": "ChIJy6vwS76FHDkRrsCyrEOVpZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6vwS76FHDkRrsCyrEOVpZA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:12:03"
+  },
+  {
+    "business_name": "Branding agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "176211",
+    "phone_number": "+91 97803 30017",
+    "website": "https://binding1.odoo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Branding agency, 176211, India",
+    "area": "176211",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJAQDBksNQPIwRcEy_bCVZFkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDBksNQPIwRcEy_bCVZFkA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:12:03"
+  }
+]

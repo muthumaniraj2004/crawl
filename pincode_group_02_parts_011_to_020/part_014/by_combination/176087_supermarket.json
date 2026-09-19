@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jitender Genral store",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "176087",
+    "phone_number": "+91 94183 55880",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Maniara, Pahra Rd, Kasba, Himachal Pradesh 176087",
+    "area": "176087",
+    "latitude": 32.0256885,
+    "longitude": 76.5300299,
+    "place_id": "ChIJLdB5IXi1BDkR_x2cxyiKP5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdB5IXi1BDkR_x2cxyiKP5g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:19"
+  },
+  {
+    "business_name": "Radhe Enterprises",
+    "search_category": "Supermarket",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176087",
+    "phone_number": "+91 79017 16214",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop 17, Upper Ground Floor, Srishti Complex, near Bus Stand, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1013282,
+    "longitude": 76.5336535,
+    "place_id": "ChIJHc-I_eazBDkRsQNC3eLClKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHc-I_eazBDkRsQNC3eLClKU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:22"
+  }
+]

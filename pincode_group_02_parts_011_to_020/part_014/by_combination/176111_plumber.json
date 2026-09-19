@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil plumber badhera",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "176111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V.P.O, Badhera, Himachal Pradesh 177023",
+    "area": "176111",
+    "latitude": 31.7024561,
+    "longitude": 76.5895847,
+    "place_id": "ChIJJwuxQovXBDkR2P-xhatJmAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwuxQovXBDkR2P-xhatJmAw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:27"
+  },
+  {
+    "business_name": "Pawan plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "176111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "piyo botal, tehsil, Gahar, Arki, Himachal Pradesh 173208",
+    "area": "piyo botal, tehsil",
+    "latitude": 31.1469059,
+    "longitude": 76.9664664,
+    "place_id": "ChIJI_D_kVRvBTkR_L9_iRhQm78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_D_kVRvBTkR_L9_iRhQm78",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:29"
+  }
+]

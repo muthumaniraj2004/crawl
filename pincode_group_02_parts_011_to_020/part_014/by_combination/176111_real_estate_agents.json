@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JP Tower",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Condominium rental agency",
+    "all_categories": "Condominium rental agency",
+    "pincode": "176111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 2, 20, Kakru, Hamirpur, Himachal Pradesh 177020",
+    "area": "176111",
+    "latitude": 31.706251299999998,
+    "longitude": 76.5142243,
+    "place_id": "ChIJ19Wj6LrVBDkRfsSiARV7zPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19Wj6LrVBDkRfsSiARV7zPo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:06"
+  },
+  {
+    "business_name": "Gaurav HOUSE",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "176111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MHV8+RJ, Ropa, Himachal Pradesh 177001",
+    "area": "176111",
+    "latitude": 31.6945227,
+    "longitude": 76.5665494,
+    "place_id": "ChIJSaHKEgDXBDkREviJUO9DCTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaHKEgDXBDkREviJUO9DCTA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:06"
+  }
+]

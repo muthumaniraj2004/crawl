@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hans Milk Agency",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ward No 3, Ladwara, Himachal Pradesh 176208",
+    "area": "Ward No 3",
+    "latitude": 32.177824,
+    "longitude": 76.22039079999999,
+    "place_id": "ChIJJ-eRzodbGzkRVL2pqHyHijA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-eRzodbGzkRVL2pqHyHijA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:09"
+  },
+  {
+    "business_name": "INDIAN FROZEN FOOD",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturing supply",
+    "all_categories": "Food manufacturing supply",
+    "pincode": "176208",
+    "phone_number": "+91 88881 44083",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kavitgaon, Maharashtra 413202",
+    "area": "176208",
+    "latitude": 18.170598899999998,
+    "longitude": 75.199821,
+    "place_id": "ChIJDfpYAABjxDsRxVm1qYSkZsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfpYAABjxDsRxVm1qYSkZsw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:11"
+  }
+]

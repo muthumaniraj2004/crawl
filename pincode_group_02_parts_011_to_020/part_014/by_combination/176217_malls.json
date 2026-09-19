@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Gen. Store",
+    "search_category": "Malls",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176217",
+    "phone_number": "+91 82192 44560",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ward no 7 vpo sudhed 176215, Dharamshala, Himachal Pradesh 176217",
+    "area": "176217",
+    "latitude": 32.2150039,
+    "longitude": 76.3018068,
+    "place_id": "ChIJtYXjwulQGzkRJHrPKUN1kXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYXjwulQGzkRJHrPKUN1kXc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:20"
+  },
+  {
+    "business_name": "RANA Pet care",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "176217",
+    "phone_number": "+91 98160 21756",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "677J+5VP, Unnamed Road, Garh, Himachal Pradesh 176217",
+    "area": "176217",
+    "latitude": 32.2129585,
+    "longitude": 76.2821883,
+    "place_id": "ChIJDRAiIfdRGzkRt5APsP2taN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRAiIfdRGzkRt5APsP2taN8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:22"
+  }
+]

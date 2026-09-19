@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhay Rajput General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "9VGG+4X, Suliali, Lohar Pura, Himachal Pradesh 176211",
+    "area": "176211",
+    "latitude": 32.3753192,
+    "longitude": 75.8773867,
+    "place_id": "ChIJD4dve2uFHDkRLx8fjPWlHfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4dve2uFHDkRLx8fjPWlHfw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:28"
+  },
+  {
+    "business_name": "General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9WF5+947, Kukher, Kohla Dalialan, Himachal Pradesh 176211",
+    "area": "176211",
+    "latitude": 32.3734128,
+    "longitude": 75.90779909999999,
+    "place_id": "ChIJXT08JQCbHDkR6N9QKkFW_xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXT08JQCbHDkR6N9QKkFW_xI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:30"
+  }
+]

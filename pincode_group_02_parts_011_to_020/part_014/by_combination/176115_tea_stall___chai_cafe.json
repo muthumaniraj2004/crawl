@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "We Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "176115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "SH6, Narsapur, Telangana 502313",
+    "area": "176115",
+    "latitude": 17.7448119,
+    "longitude": 78.2797555,
+    "place_id": "ChIJf12WNu4LzDsRFnPDptJrLKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf12WNu4LzDsRFnPDptJrLKc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:33"
+  },
+  {
+    "business_name": "Tealogy Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176115",
+    "phone_number": "+91 89208 69179",
+    "website": "https://tealogy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 2, Mauli Baidwan, Sector 80, Sahibzada Ajit Singh Nagar, Punjab 140308",
+    "area": "Sector 80",
+    "latitude": 30.6729071,
+    "longitude": 76.7236243,
+    "place_id": "ChIJ59hXZW3vDzkRtMnnqDGDTBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59hXZW3vDzkRtMnnqDGDTBI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:33"
+  }
+]

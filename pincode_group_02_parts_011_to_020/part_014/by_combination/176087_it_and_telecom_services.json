@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhiman Telecom Patti",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "176087",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bodhal road, near Grahmin bank, Chandropa, Holsu, Himachal Pradesh 176067",
+    "area": "176087",
+    "latitude": 32.0599808,
+    "longitude": 76.5441877,
+    "place_id": "ChIJB6gCBG-1BDkR6-dQOINMPP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6gCBG-1BDkR6-dQOINMPP4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:12:41"
+  },
+  {
+    "business_name": "Jio Centre Palampur",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "176087",
+    "phone_number": "+91 1860 893 3333",
+    "website": "https://www.jio.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Ghuggar, Palampur, Himachal Pradesh 176061",
+    "area": "Ghuggar",
+    "latitude": 32.1111375,
+    "longitude": 76.5338281,
+    "place_id": "ChIJfcudpcOzBDkRrPkCI2b7hq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcudpcOzBDkRrPkCI2b7hq4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:12:43"
+  }
+]

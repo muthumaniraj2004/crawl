@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Captain’s Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176087",
+    "phone_number": "+91 76786 66986",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Chimbalhar, Palampur, Himachal Pradesh 176061",
+    "area": "Chimbalhar",
+    "latitude": 32.111092299999996,
+    "longitude": 76.50250679999999,
+    "place_id": "ChIJ7ygDa6-zBDkRKsLMmciFj10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ygDa6-zBDkRKsLMmciFj10",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:28"
+  },
+  {
+    "business_name": "Palampur Tea Gardens",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Park",
+    "pincode": "176087",
+    "phone_number": "+91 98570 30605",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Hotel T Bud - Neuggal Rd, Lohna, Himachal Pradesh, Palampur, Himachal Pradesh 176061",
+    "area": "Lohna, Himachal Pradesh",
+    "latitude": 32.1188429,
+    "longitude": 76.5395806,
+    "place_id": "ChIJL2kChdqzBDkR9znug_-5N8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2kChdqzBDkR9znug_-5N8c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:28"
+  }
+]

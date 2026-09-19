@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shopping Complex Chamba",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "176207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "Rajiv Gandhi Complex, Museum Rd, Chowgan Mohalla, Chamba, Himachal Pradesh 176310",
+    "area": "Chowgan Mohalla",
+    "latitude": 32.5572297,
+    "longitude": 76.1228292,
+    "place_id": "ChIJ98U008i9HDkRGBPFxaorEt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98U008i9HDkRGBPFxaorEt4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:59"
+  },
+  {
+    "business_name": "Paonta One Multiplex Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "176207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 8,
+    "address": "CJR6+FVJ, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "176207",
+    "latitude": 30.4412101,
+    "longitude": 77.61214129999999,
+    "place_id": "ChIJ4UvKogAjDzkRkl9LlsD82QQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UvKogAjDzkRkl9LlsD82QQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:00"
+  }
+]

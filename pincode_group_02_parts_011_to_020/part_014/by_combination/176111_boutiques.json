@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandraas",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176111",
+    "phone_number": "N/A",
+    "website": "https://nandraas.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "PO, Saphal, Chauri, Himachal Pradesh 176111",
+    "area": "PO",
+    "latitude": 31.7552737,
+    "longitude": 76.5611052,
+    "place_id": "ChIJ6zM67ZvRBDkR1QE3H2m7sEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zM67ZvRBDkR1QE3H2m7sEg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:03"
+  },
+  {
+    "business_name": "Akshitta trading company",
+    "search_category": "Boutiques",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176111",
+    "phone_number": "+91 98160 09983",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "NH 3, Katyara, Himachal Pradesh 177027",
+    "area": "176111",
+    "latitude": 31.714836199999997,
+    "longitude": 76.5453674,
+    "place_id": "ChIJt3n8JADVBDkRZ4n6UxMpeJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3n8JADVBDkRZ4n6UxMpeJE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:05"
+  }
+]

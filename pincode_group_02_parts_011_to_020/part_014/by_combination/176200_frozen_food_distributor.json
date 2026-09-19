@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best in taste",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "176200",
+    "phone_number": "+91 22 2852 1441",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "amar industrial estate, 22, andheri kurla road, Safed Pul, Saki Naka, Mumbai, Maharashtra 400072",
+    "area": "Safed Pul, Saki Naka",
+    "latitude": 19.101741,
+    "longitude": 72.885789,
+    "place_id": "ChIJDceqnmXI5zsR1PjO8N7eizE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDceqnmXI5zsR1PjO8N7eizE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:50:56"
+  },
+  {
+    "business_name": "Passi Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer, Fruit and vegetable processing",
+    "pincode": "176200",
+    "phone_number": "+91 90588 85848",
+    "website": "http://www.rubenz.in/",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Plot no 1 Himalaya crusher road Ajitpur, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Kankhal",
+    "latitude": 29.883415499999998,
+    "longitude": 78.1347514,
+    "place_id": "ChIJYd2p88VFCTkRn3CVUetS7vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYd2p88VFCTkRn3CVUetS7vc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:50:56"
+  }
+]

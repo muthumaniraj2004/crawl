@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Bike Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Auto repair shop",
+    "pincode": "176087",
+    "phone_number": "+91 75596 70042",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Industrial Area, Ratti, Galma, Himachal Pradesh 175008",
+    "area": "Industrial Area",
+    "latitude": 31.601111999999997,
+    "longitude": 76.8989972,
+    "place_id": "ChIJWTlRv9wfBTkRpS2SL1aipUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTlRv9wfBTkRpS2SL1aipUI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:59"
+  },
+  {
+    "business_name": "Hero Cycle Works Karsog",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "176087",
+    "phone_number": "+91 97362 07794",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Mehta Hotel and Restaurant, Karsog, Himachal Pradesh 175011",
+    "area": "176087",
+    "latitude": 31.3854933,
+    "longitude": 77.2053506,
+    "place_id": "ChIJL3o6Q5WhBTkR1MiUB8SlV9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3o6Q5WhBTkR1MiUB8SlV9g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:59"
+  }
+]

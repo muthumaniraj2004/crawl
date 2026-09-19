@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dheeraj Bike Repair Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "176210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "333V+X93, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176210",
+    "latitude": 32.0548794,
+    "longitude": 76.09341409999999,
+    "place_id": "ChIJ1Zjt1FZDGzkRUoU3R0R5kqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Zjt1FZDGzkRUoU3R0R5kqA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:09:16"
+  },
+  {
+    "business_name": "Doga Auto Warks",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "176210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sfeda, Chonk, Harchakian, Pargor Khas, Himachal Pradesh 176210",
+    "area": "176210",
+    "latitude": 32.1154423,
+    "longitude": 76.097201,
+    "place_id": "ChIJK4HqYb1DGzkRp3bYMVGsmhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4HqYb1DGzkRp3bYMVGsmhU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:09:19"
+  }
+]

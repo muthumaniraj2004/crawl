@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shavnam medical store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176085",
+    "phone_number": "+91 78764 54277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palampur Rd, Pharer, Samula Khas, Himachal Pradesh 176064",
+    "area": "Pharer",
+    "latitude": 32.079839899999996,
+    "longitude": 76.4740156,
+    "place_id": "ChIJxVIREQCzBDkRFMqayu7NOwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVIREQCzBDkRFMqayu7NOwg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:08:13"
+  },
+  {
+    "business_name": "pharer",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176085",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3FHF+RJC, Pharer, Samula Khas, Himachal Pradesh 176064",
+    "area": "Pharer",
+    "latitude": 32.0795968,
+    "longitude": 76.4741059,
+    "place_id": "ChIJmXtpZACzBDkRi2v-I5KDfRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXtpZACzBDkRi2v-I5KDfRQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:08:15"
+  }
+]

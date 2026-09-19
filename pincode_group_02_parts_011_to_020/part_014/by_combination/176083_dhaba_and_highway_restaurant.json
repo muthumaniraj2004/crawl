@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Greenwood Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "176083",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "X6Q8+JGM, NH 503, Balsun, Gagehr, Himachal Pradesh 176029",
+    "area": "176083",
+    "latitude": 31.989081,
+    "longitude": 76.21629999999999,
+    "place_id": "ChIJNanBivFHGzkRzdV13L5qH3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNanBivFHGzkRzdV13L5qH3M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:04:27"
+  },
+  {
+    "business_name": "Sahil Da Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "176083",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "X5P3+XGF, SH 22, Kangra, Jhaklehr, Himachal Pradesh 176028",
+    "area": "176083",
+    "latitude": 31.9874369,
+    "longitude": 76.1538114,
+    "place_id": "ChIJawXdDOhAGzkRrRIjd5rPTUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawXdDOhAGzkRrRIjd5rPTUw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:04:27"
+  }
+]

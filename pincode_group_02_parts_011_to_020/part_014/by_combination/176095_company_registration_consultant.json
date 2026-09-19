@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Filing Point",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service, Accounting firm, Business development service, Business management consultant, Chartered accountant, Consultant",
+    "pincode": "176095",
+    "phone_number": "+91 72999 72500",
+    "website": "https://filingpoint.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "II Floor, Gopi Nivas, New, 2, Padmanabhan St, Kodambakkam, Chennai, Tamil Nadu 600024",
+    "area": "China Raji Thottam, Kodambakkam",
+    "latitude": 13.0500177,
+    "longitude": 80.22915019999999,
+    "place_id": "ChIJt_5mSHVnUjoR63sfTFZQhOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_5mSHVnUjoR63sfTFZQhOs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:26:13"
+  },
+  {
+    "business_name": "BBSR Services",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business administration service, Business management consultant, Chartered accountant, Corporate office, Insurance company, License bureau, Tax preparation service",
+    "pincode": "176095",
+    "phone_number": "+91 93482 44435",
+    "website": "https://www.bbsrservices.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot No-587/588, Antaryami Niwas, Ground Floor Mahaveer Nagar, Garage Chhak, Lewis Rd, Samantarapur, Bhubaneswar, Odisha 751002",
+    "area": "Samantarapur, Old Town",
+    "latitude": 20.2327787,
+    "longitude": 85.8425759,
+    "place_id": "ChIJtb_wtYmnGToR7EU4DMiS-Pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtb_wtYmnGToR7EU4DMiS-Pw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:26:13"
+  }
+]

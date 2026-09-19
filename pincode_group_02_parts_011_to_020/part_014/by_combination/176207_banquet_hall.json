@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virsa Banquet Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "176207",
+    "phone_number": "+91 93187 77718",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shubh Khera, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "176207",
+    "latitude": 30.4476187,
+    "longitude": 77.6243848,
+    "place_id": "ChIJ02BxTAAjDzkRBi57fwFRt9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02BxTAAjDzkRBi57fwFRt9o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:16"
+  },
+  {
+    "business_name": "Bhardwaj Banquet Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "176207",
+    "phone_number": "+91 88949 27725",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 43,
+    "address": "Upper Jalukari, Chamba, Himachal Pradesh 176318",
+    "area": "Upper Jalukari",
+    "latitude": 32.5476434,
+    "longitude": 76.1355667,
+    "place_id": "ChIJVVVVFUu8HDkRIteHaQnwR8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFUu8HDkRIteHaQnwR8w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:18"
+  }
+]

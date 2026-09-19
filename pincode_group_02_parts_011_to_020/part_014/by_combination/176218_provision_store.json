@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavya general store",
+    "search_category": "Provision Store",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "176218",
+    "phone_number": "+91 70182 29525",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sidhbari, Dharamshala, Himachal Pradesh 176215",
+    "area": "176218",
+    "latitude": 32.1878598,
+    "longitude": 76.3622814,
+    "place_id": "ChIJ-Vhw7b5RGzkRk3z7vmql1oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Vhw7b5RGzkRk3z7vmql1oo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:27"
+  },
+  {
+    "business_name": "Neelam Sharma General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176218",
+    "phone_number": "+91 98162 60575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 12, Fatehpur, Sidhbari, Himachal Pradesh 176215",
+    "area": "176218",
+    "latitude": 32.1921648,
+    "longitude": 76.3588769,
+    "place_id": "ChIJdfJEH1tRGzkRp-trhoWTxJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfJEH1tRGzkRp-trhoWTxJg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:27"
+  }
+]

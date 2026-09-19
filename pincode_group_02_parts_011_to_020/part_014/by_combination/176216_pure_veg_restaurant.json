@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mangat Ram Fast Food Corner(pure veg)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Hawker stall",
+    "pincode": "176216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "View Point, Talnu Road, Naddi, Dharamshala, Himachal Pradesh 176216",
+    "area": "Naddi",
+    "latitude": 32.2537045,
+    "longitude": 76.30281889999999,
+    "place_id": "ChIJv2yJnztXGzkRwSbAqdYeS1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2yJnztXGzkRwSbAqdYeS1M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:17:54"
+  },
+  {
+    "business_name": "Annapurna cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "176216",
+    "phone_number": "+91 88942 74853",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Upper Dharamkot, opp. Heena Cafe, Bhagsu Nag, McLeod Ganj, Dharamshala, Himachal Pradesh 176219",
+    "area": "Bhagsu Nag, McLeod Ganj",
+    "latitude": 32.250858799999996,
+    "longitude": 76.3292554,
+    "place_id": "ChIJY-TxCgBXGzkR1ycpJG16EG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-TxCgBXGzkR1ycpJG16EG8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:17:54"
+  }
+]

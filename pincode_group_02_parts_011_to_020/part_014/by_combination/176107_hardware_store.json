@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mata Shree Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Granite supplier, Marble supplier, Paint store, Sanitation service, Tile store",
+    "pincode": "176107",
+    "phone_number": "+91 94591 11159",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shimla - Kangra Rd, Kohala, Jawalamukhi, Himachal Pradesh 176031",
+    "area": "Kohala",
+    "latitude": 31.871476899999998,
+    "longitude": 76.3195535,
+    "place_id": "ChIJXarn4KAxGzkRomg62SLiMPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXarn4KAxGzkRomg62SLiMPo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:37:30"
+  },
+  {
+    "business_name": "Anilsteel& hardware store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purba, Vill.panjladhar, Himachal Pradesh 176084",
+    "area": "176107",
+    "latitude": 31.9656459,
+    "longitude": 76.4496691,
+    "place_id": "ChIJZa8ynWA1GzkR0MVi4ohXl-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZa8ynWA1GzkR0MVi4ohXl-o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:37:30"
+  }
+]

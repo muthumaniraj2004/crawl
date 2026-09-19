@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maya Rana boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "176217",
+    "phone_number": "+91 98822 20154",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "market Hadaroad, Chari, Dharamshala, Himachal Pradesh 176217",
+    "area": "176217",
+    "latitude": 32.2073721,
+    "longitude": 76.2610535,
+    "place_id": "ChIJDapRcuVbGzkRUMIJhb-f-fQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDapRcuVbGzkRUMIJhb-f-fQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:19:56"
+  },
+  {
+    "business_name": "Ani collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176217",
+    "phone_number": "+91 78767 25344",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "main bazar charri, beside Charri hospital, Chari, Himachal Pradesh 176217",
+    "area": "176217",
+    "latitude": 32.206023699999996,
+    "longitude": 76.26087849999999,
+    "place_id": "ChIJo1B6RQhbGzkR49IwIYOM4rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1B6RQhbGzkR49IwIYOM4rU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:19:56"
+  }
+]

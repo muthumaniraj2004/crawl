@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Medical Agency",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176107",
+    "phone_number": "+91 94183 68233",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WFG5+PVC, Dist:, SH 39, Hamirpur, Himachal Pradesh 176107",
+    "area": "176107",
+    "latitude": 31.9268075,
+    "longitude": 76.4596388,
+    "place_id": "ChIJ6fWlW5LSBDkRKM5hZspG60c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fWlW5LSBDkRKM5hZspG60c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:37:10"
+  },
+  {
+    "business_name": "Shiv Sai Medical Store Kehrian Jawali.H.p.",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "176107",
+    "phone_number": "+91 98163 55346",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Kehrian, near SBI ATM, Jawali, Himachal Pradesh 176023",
+    "area": "Lab",
+    "latitude": 32.145787999999996,
+    "longitude": 76.01148169999999,
+    "place_id": "ChIJ04mm7G5mGzkRycPlq7UiLLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04mm7G5mGzkRycPlq7UiLLo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:37:11"
+  }
+]

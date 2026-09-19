@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma ji da dhaba (HPMC Juice bar)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "176111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PGG4+JG, Chauki, Himachal Pradesh 177020",
+    "area": "176111",
+    "latitude": 31.7265733,
+    "longitude": 76.5063328,
+    "place_id": "ChIJ9YJsfQDTBDkRb8_nn4G5UYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YJsfQDTBDkRb8_nn4G5UYE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:43:50"
+  },
+  {
+    "business_name": "Himachali Zaika",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "176111",
+    "phone_number": "+91 94188 17111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "bus stop, Koti Resort - Rd, Sadhora, Baldeyan, Mashobra, Himachal Pradesh 171007",
+    "area": "Sadhora",
+    "latitude": 31.156976999999998,
+    "longitude": 77.21001,
+    "place_id": "ChIJqerBV5WDBTkRO6c5ZvXhBIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqerBV5WDBTkRO6c5ZvXhBIg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:43:50"
+  }
+]

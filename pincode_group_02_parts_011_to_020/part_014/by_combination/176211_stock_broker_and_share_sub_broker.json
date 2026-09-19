@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Infinn",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "176211",
+    "phone_number": "+91 98113 30094",
+    "website": "http://infinn.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3rd floor, M3M, SCO 25, Sector 113, Bajghera, Gurugram, Haryana 122017",
+    "area": "Sector 113, Bajghera",
+    "latitude": 28.528780599999997,
+    "longitude": 77.0233422,
+    "place_id": "ChIJ_bPWym0bDTkRdyzpAtL_f64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bPWym0bDTkRdyzpAtL_f64",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:11:48"
+  },
+  {
+    "business_name": "Lofit Stock Training Institute",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "176211",
+    "phone_number": "N/A",
+    "website": "https://loftstocktraining.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House No-715, Sector 14 Rd, Sector 14, Sonipat, Haryana 131001",
+    "area": "Sector 14",
+    "latitude": 28.9969143,
+    "longitude": 77.0346086,
+    "place_id": "ChIJT-q7XBGxDTkR5oe2xFSEbec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-q7XBGxDTkR5oe2xFSEbec",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:11:49"
+  }
+]

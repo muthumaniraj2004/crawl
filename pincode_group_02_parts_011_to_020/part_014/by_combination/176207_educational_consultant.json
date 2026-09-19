@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiksha Med",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Career guidance service, Consultant, Counselor, Doctor, Government college, Medical Center, Private College, Student career counseling office",
+    "pincode": "176207",
+    "phone_number": "+91 90414 41449",
+    "website": "https://shikshamed.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, SCO 80-81-82, opposite Passport Office, Sector 34A, Sector 34, Chandigarh, 160022",
+    "area": "Sector 34A, Sector 34",
+    "latitude": 30.723482399999998,
+    "longitude": 76.7689857,
+    "place_id": "ChIJ-e4bdszvDzkRmkS3qowSpH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-e4bdszvDzkRmkS3qowSpH4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:32"
+  },
+  {
+    "business_name": "MediPedia Overseas Education Pvt. Ltd.",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Career guidance service, Medical school, Student career counseling office",
+    "pincode": "176207",
+    "phone_number": "+91 99153 13255",
+    "website": "https://medipediaoverseas.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FIRST FLOOR, SCO-348-349, near Helix institute, Sector 34A, Sector 34, Chandigarh, 160022",
+    "area": "Sector 34A, Sector 34",
+    "latitude": 30.722061399999998,
+    "longitude": 76.76694549999999,
+    "place_id": "ChIJaWBKPXcpEDkRimCIgQ1whTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWBKPXcpEDkRimCIgQ1whTM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:32"
+  }
+]

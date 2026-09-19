@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adi",
+    "search_category": "Electrician",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "176097",
+    "phone_number": "N/A",
+    "website": "https://adi-4.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adi, 176097, India",
+    "area": "176097",
+    "latitude": 30.732280399999997,
+    "longitude": 76.7707136,
+    "place_id": "ChIJvUKMlRjPBDkRmoI3yQZ2cLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUKMlRjPBDkRmoI3yQZ2cLs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:28:58"
+  },
+  {
+    "business_name": "Ama chemical earthing solution",
+    "search_category": "Electrician",
+    "primary_category": "Electrical engineer",
+    "all_categories": "Electrical engineer",
+    "pincode": "176097",
+    "phone_number": "+91 79834 83310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1181,
+    "address": "aashvi health care building, 14/2, canal road, near Daily needs plus, Aishwarya Sharda Vihar, Govind Vihar, Dehradun, Gujrara Mansingh, Uttarakhand 248001",
+    "area": "Aishwarya Sharda Vihar, Govind Vihar",
+    "latitude": 30.3648009,
+    "longitude": 78.0935196,
+    "place_id": "ChIJlXXWhsrXCDkR_fkgy4eiBXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXXWhsrXCDkR_fkgy4eiBXE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:28:59"
+  }
+]

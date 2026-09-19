@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitin Auto Spare",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176075",
+    "phone_number": "+91 62399 07286",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Shop no, 70, Railway Road, Nangal, Punjab 140124",
+    "area": "176075",
+    "latitude": 31.3738194,
+    "longitude": 76.3733412,
+    "place_id": "ChIJrwNaZOvNGjkRDxOL2Pl05Eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwNaZOvNGjkRDxOL2Pl05Eg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:56:03"
+  },
+  {
+    "business_name": "Sai car accessories",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Car stereo store",
+    "all_categories": "Car stereo store",
+    "pincode": "176075",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Ambari, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176075",
+    "latitude": 32.1132805,
+    "longitude": 76.4084323,
+    "place_id": "ChIJjQShBVRNGzkR6J3QdT9CGPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQShBVRNGzkR6J3QdT9CGPM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:56:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Northern Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176102",
+    "phone_number": "+91 74000 00037",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 76,
+    "address": "near Cambradge School, Palampur, Himachal Pradesh 176067",
+    "area": "176102",
+    "latitude": 32.0876313,
+    "longitude": 76.5279156,
+    "place_id": "ChIJk3jdjFrABDkRFDBrZLaXn10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3jdjFrABDkRFDBrZLaXn10",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:54"
+  },
+  {
+    "business_name": "Trikutta all Bharat or Nepal Tour",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency, Service establishment",
+    "pincode": "176102",
+    "phone_number": "N/A",
+    "website": "https://g.co/kgs/qXyCqxS",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Trikutta all Bharat or Nepal Tour, 176102, India",
+    "area": "176102",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJwetXYokP6AMRv5hZUMB6Kps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwetXYokP6AMRv5hZUMB6Kps",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Factory",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176088",
+    "phone_number": "+91 93568 22808",
+    "website": "https://www.juicefactory.info/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rukhmani sankul, Waman Nagar, Konark Nagar, Jule, Solapur, Maharashtra 413004",
+    "area": "Konark Nagar, Jule",
+    "latitude": 17.6360551,
+    "longitude": 75.9123415,
+    "place_id": "ChIJodDERrfbxTsRSHz7Wwxmizo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodDERrfbxTsRSHz7Wwxmizo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:13:19"
+  },
+  {
+    "business_name": "India Juice centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "176088",
+    "phone_number": "+91 90216 19286",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 1, Main Road, near Bastand, Aurad, Maharashtra 413522",
+    "area": "176088",
+    "latitude": 18.0535854,
+    "longitude": 76.924497,
+    "place_id": "ChIJFUHZtzQXzzsResxXrCqutjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUHZtzQXzzsResxXrCqutjI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:13:19"
+  }
+]

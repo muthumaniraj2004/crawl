@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Koda dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "176091",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "VHXX+R5W, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "176091",
+    "latitude": 31.8996043,
+    "longitude": 76.59794889999999,
+    "place_id": "ChIJF6_ccQTPBDkRyfoEc2LIKEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6_ccQTPBDkRyfoEc2LIKEQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:18:26"
+  },
+  {
+    "business_name": "Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "176091",
+    "phone_number": "+91 98570 02477",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "NH 3, Patehar, Himachal Pradesh 177203",
+    "area": "176091",
+    "latitude": 31.708152,
+    "longitude": 76.166243,
+    "place_id": "ChIJJY9oTzwjGzkRLa26t0EQ0kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJY9oTzwjGzkRLa26t0EQ0kE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:18:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Highway Diner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176115",
+    "phone_number": "+91 78389 68851",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Mandi - Pathankot Rd, Dhar Bagi, Himachal Pradesh 175032",
+    "area": "176115",
+    "latitude": 32.0511372,
+    "longitude": 76.65749579999999,
+    "place_id": "ChIJp5pN0YG5BDkRMEtTX8_hP0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5pN0YG5BDkRMEtTX8_hP0w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:33"
+  },
+  {
+    "business_name": "The Marinated",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "176115",
+    "phone_number": "+91 98278 17273",
+    "website": "http://www.themarinated.co.in/",
+    "rating": 4.1,
+    "reviews_count": 338,
+    "address": "Amrita Complex, Bombay Chowk, Jharsuguda, Odisha 768203",
+    "area": "BTM Colony",
+    "latitude": 21.8759345,
+    "longitude": 84.0122609,
+    "place_id": "ChIJrS_MD1vnIDoRqsygS1jasBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrS_MD1vnIDoRqsygS1jasBk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:34"
+  }
+]

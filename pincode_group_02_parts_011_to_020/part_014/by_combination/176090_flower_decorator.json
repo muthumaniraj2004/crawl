@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kullu Manali Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "176090",
+    "phone_number": "+91 88942 25143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "34WM+QP8, Dhobi, Duwara, Bashkola, Himachal Pradesh 175129",
+    "area": "Dhobi",
+    "latitude": 32.096856599999995,
+    "longitude": 77.13417299999999,
+    "place_id": "ChIJORdKJ3eLBDkR3lLZADPwG0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORdKJ3eLBDkR3lLZADPwG0A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:17:32"
+  },
+  {
+    "business_name": "Rohit Enterprises",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "176090",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Dakri Chowk, distt, opp. pizza story, Ghumarwin, Himachal Pradesh 174021",
+    "area": "176090",
+    "latitude": 31.4344596,
+    "longitude": 76.71323249999999,
+    "place_id": "ChIJC-fNWDQ7BTkRvjRDK5tw6bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-fNWDQ7BTkRvjRDK5tw6bk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:17:32"
+  }
+]

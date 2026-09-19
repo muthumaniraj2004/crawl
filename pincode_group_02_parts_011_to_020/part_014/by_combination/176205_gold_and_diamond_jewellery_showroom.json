@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepti Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "176205",
+    "phone_number": "+91 98162 40033",
+    "website": "https://www.deeptijewellers.in/",
+    "rating": 5,
+    "reviews_count": 147,
+    "address": "Chowk Bazar, Lower Bazar, Ganj Bazar, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ganj Bazar, Bajoral Khurd",
+    "latitude": 30.9088341,
+    "longitude": 77.106371,
+    "place_id": "ChIJc4x_T0qBDzkRlaF_xfLzHWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4x_T0qBDzkRlaF_xfLzHWo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:59:58"
+  },
+  {
+    "business_name": "Kanishka Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Gold dealer, Jeweler, Gemstone Jeweler, Silversmith",
+    "pincode": "176205",
+    "phone_number": "+91 97361 51111",
+    "website": "http://www.kanishkajeweller.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lower Bazar, Ganj Bazar, Upper Bazar, Ram Bazar, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ganj Bazar, Upper Bazar, Ram Bazar",
+    "latitude": 30.9093906,
+    "longitude": 77.1059054,
+    "place_id": "ChIJEWpDnv-BDzkRnKgND-YOpvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWpDnv-BDzkRnKgND-YOpvc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:59:59"
+  }
+]

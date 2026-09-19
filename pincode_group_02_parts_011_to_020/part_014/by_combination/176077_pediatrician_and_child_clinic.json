@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Vimal Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "176077",
+    "phone_number": "+91 1902 222 621",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "X488+5FX, Akhara, Kullu, Himachal Pradesh 175101",
+    "area": "Akhara",
+    "latitude": 31.965498999999998,
+    "longitude": 77.1162487,
+    "place_id": "ChIJgUh1rqf2BDkRO3wzCBfBWfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUh1rqf2BDkRO3wzCBfBWfk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:59:31"
+  },
+  {
+    "business_name": "Sharma Clinic, Nursing Home & Childrens Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital",
+    "pincode": "176077",
+    "phone_number": "+91 98160 56477",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 22,
+    "address": "opp. Hotel Tirupati Classic, Model Town, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Model Town, Siyal",
+    "latitude": 32.2427456,
+    "longitude": 77.1880797,
+    "place_id": "ChIJ092KWgeIBDkRyezV7ikjuYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ092KWgeIBDkRyezV7ikjuYk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:59:31"
+  }
+]

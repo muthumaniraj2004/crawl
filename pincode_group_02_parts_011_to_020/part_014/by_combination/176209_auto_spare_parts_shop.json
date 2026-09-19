@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree ganesh Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176209",
+    "phone_number": "+91 70187 87925",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mandi - Pathankot Rd, Matour, Patrakar, Himachal Pradesh 176001",
+    "area": "176209",
+    "latitude": 32.1355931,
+    "longitude": 76.2909318,
+    "place_id": "ChIJUVB4dlZPGzkRZvoYPDKQByo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVB4dlZPGzkRZvoYPDKQByo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:26"
+  },
+  {
+    "business_name": "Sandeep automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto machine shop",
+    "all_categories": "Auto machine shop",
+    "pincode": "176209",
+    "phone_number": "+91 92184 11069",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "47WH+M6F, Jhiklichhi, Himachal Pradesh 176209",
+    "area": "176209",
+    "latitude": 32.146684799999996,
+    "longitude": 76.2780557,
+    "place_id": "ChIJRcUUCgJQGzkRhl-irO-nS1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcUUCgJQGzkRhl-irO-nS1w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:26"
+  }
+]

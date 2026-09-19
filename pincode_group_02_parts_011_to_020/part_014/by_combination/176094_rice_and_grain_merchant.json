@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jashn Foods",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "176094",
+    "phone_number": "+91 73030 96264",
+    "website": "https://www.jashnfoods.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Village Jadoli, Panauri Rd, Tehsil, Gharaunda, Haryana 132114",
+    "area": "Tehsil",
+    "latitude": 29.5413622,
+    "longitude": 76.9957617,
+    "place_id": "ChIJRUauGT4ZDTkR4K_Gdb4Bs90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUauGT4ZDTkR4K_Gdb4Bs90",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:23:17"
+  },
+  {
+    "business_name": "Ashapuri, Himachal Pradesh 176094",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "176094",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashapuri, Himachal Pradesh",
+    "area": "176094",
+    "latitude": 31.987747199999998,
+    "longitude": 76.5603828,
+    "place_id": "ChIJgycW6aHJBDkR8_IHmyAJdyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgycW6aHJBDkR8_IHmyAJdyY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:23:18"
+  }
+]

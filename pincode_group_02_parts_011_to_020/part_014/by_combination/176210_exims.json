@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roma Pharma Pvt. Ltd",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "176210",
+    "phone_number": "+91 80 6834 3307",
+    "website": "http://www.romapharma.co.in/",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Roma House, Mall Road, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Mall Road, Bajoral Khurd",
+    "latitude": 30.9111884,
+    "longitude": 77.10360399999999,
+    "place_id": "ChIJVVVVQbWGDzkRPwmc-qGdy8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVQbWGDzkRPwmc-qGdy8U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:13"
+  },
+  {
+    "business_name": "Lifecare Psychiatry Care",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "176210",
+    "phone_number": "+91 93180 58855",
+    "website": "http://psychiatry-care.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "70/1 Dharampur, Sai Rd, near Export Promotion Zone, Baddi, Himachal Pradesh 173205",
+    "area": "176210",
+    "latitude": 30.9463919,
+    "longitude": 76.8045223,
+    "place_id": "ChIJXTRZvl_1DzkRCGVzCSiyf8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTRZvl_1DzkRCGVzCSiyf8c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:13"
+  }
+]

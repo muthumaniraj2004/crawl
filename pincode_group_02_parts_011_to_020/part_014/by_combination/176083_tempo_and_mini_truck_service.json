@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan Car Rental",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Bus tour agency, Car leasing service, Car rental agency, Minibus taxi service, Sightseeing Tour Operator, Taxi stand, Tour agency, Tour operator, Travel agency",
+    "pincode": "176083",
+    "phone_number": "+91 95170 08002",
+    "website": "http://www.taxirentalchandigarh.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Thakur Dwara Rd, Sector 13, Chandigarh, 160101",
+    "area": "Sector 13",
+    "latitude": 30.7129853,
+    "longitude": 76.8352172,
+    "place_id": "ChIJiV6eNzCTDzkRqAUI2Fnxomw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiV6eNzCTDzkRqAUI2Fnxomw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:05:00"
+  },
+  {
+    "business_name": "Transport Service Small Truck",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "176083",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balanagar Main Rd, Ferozguda, Bowenpally, Hyderabad, Telangana 500042",
+    "area": "Ferozguda, Bowenpally",
+    "latitude": 17.463520799999998,
+    "longitude": 78.4561583,
+    "place_id": "ChIJn6MjiLiRyzsRv5BSAPNktdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6MjiLiRyzsRv5BSAPNktdc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:05:00"
+  }
+]

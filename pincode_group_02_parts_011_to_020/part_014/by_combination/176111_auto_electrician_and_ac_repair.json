@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSD Enterprises - AC Repair & Service Center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Appliance repair service, Microwave oven repair service, Refrigerator repair service, Television repair service, Washer & dryer repair service",
+    "pincode": "176111",
+    "phone_number": "+91 84370 34501",
+    "website": "https://www.bsdenterprises.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop Number 6, Housing Board Complex, BEL Colony, Sector 14, Panchkula, Haryana 134113",
+    "area": "BEL Colony, Sector 14",
+    "latitude": 30.6783564,
+    "longitude": 76.8437453,
+    "place_id": "ChIJfxttqKWUDzkRD6LQETpDUiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxttqKWUDzkRD6LQETpDUiA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:17"
+  },
+  {
+    "business_name": "Deepak Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176111",
+    "phone_number": "+91 97363 60008",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "opp. ESSAR PETROL PUMP, CHOWKIWALA, Nalagarh, Himachal Pradesh 174101",
+    "area": "CHOWKIWALA",
+    "latitude": 31.0436719,
+    "longitude": 76.69853309999999,
+    "place_id": "ChIJT-8AmghbBTkR0uQxUO5G_0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-8AmghbBTkR0uQxUO5G_0o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:18"
+  }
+]

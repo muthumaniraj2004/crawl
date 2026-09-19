@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AhSaas Café & BNB",
+    "search_category": "Fish Market",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176216",
+    "phone_number": "+91 98824 55177",
+    "website": "http://experince.in/cafe/ahsaas_cafe",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "7833+3VM, Naddi, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",
+    "area": "Naddi, McLeod Ganj",
+    "latitude": 32.2527191,
+    "longitude": 76.3046617,
+    "place_id": "ChIJG-ylHgBXGzkRvQ-WrmsmSiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-ylHgBXGzkRvQ-WrmsmSiQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:17:47"
+  },
+  {
+    "business_name": "Mimo’s Grill & Fry",
+    "search_category": "Fish Market",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Brunch restaurant, Cafe, Chinese restaurant, Chinese takeaway, Fast food restaurant, Indian restaurant, Lunch restaurant, Snack bar",
+    "pincode": "176216",
+    "phone_number": "+91 78766 29519",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 50,
+    "address": "Khanyara, Thehr, Himachal Pradesh 176218",
+    "area": "176216",
+    "latitude": 32.2132596,
+    "longitude": 76.3558627,
+    "place_id": "ChIJC95-e4pXGzkRTE6AeCrTGe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC95-e4pXGzkRTE6AeCrTGe8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:17:47"
+  }
+]

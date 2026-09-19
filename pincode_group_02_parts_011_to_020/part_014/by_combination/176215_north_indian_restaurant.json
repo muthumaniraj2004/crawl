@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "176215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "68VC+2GJ, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2425758,
+    "longitude": 76.3212781,
+    "place_id": "ChIJyZOgJKxXGzkRHc77mqqUx5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZOgJKxXGzkRHc77mqqUx5w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:16:00"
+  },
+  {
+    "business_name": "Shankar Chat Bhandar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "176215",
+    "phone_number": "+91 98827 69999",
+    "website": "https://shankarchatbandar.com.free/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Temple Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2380047,
+    "longitude": 76.3238568,
+    "place_id": "ChIJVeXBhSxRGzkRVIyy7x4HRuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeXBhSxRGzkRVIyy7x4HRuI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:16:00"
+  }
+]

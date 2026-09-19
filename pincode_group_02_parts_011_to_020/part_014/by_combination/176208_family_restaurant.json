@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saffron Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "176208",
+    "phone_number": "+91 70181 69527",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bagli-Dharamshala Road NH503 Village Ansoli, Matour, Himachal Pradesh 176001",
+    "area": "176208",
+    "latitude": 32.1391586,
+    "longitude": 76.2946773,
+    "place_id": "ChIJQXP7JDFPGzkRdKUB65_BzEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXP7JDFPGzkRdKUB65_BzEw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:16"
+  },
+  {
+    "business_name": "Kangra Kitchen by Hotel River Retreat",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dharamsala Highway, Dharamsala Rd, Gaggal, Himachal Pradesh 176209",
+    "area": "176208",
+    "latitude": 32.1557171,
+    "longitude": 76.2682514,
+    "place_id": "ChIJ2wr-lxhbGzkRry4FEv7Zo40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wr-lxhbGzkRry4FEv7Zo40",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:18"
+  }
+]

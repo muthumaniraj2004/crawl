@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shane e Himachal boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "56Q5+3W6, Rait, Himachal Pradesh 176208",
+    "area": "176208",
+    "latitude": 32.1876549,
+    "longitude": 76.20976569999999,
+    "place_id": "ChIJJcDEVEFbGzkRH-MUkiKqtOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcDEVEFbGzkRH-MUkiKqtOw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:26"
+  },
+  {
+    "business_name": "Rudar fashion hub",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176208",
+    "phone_number": "+91 95691 49790",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V.P.O.Rait,Tehsil, Rait, Himachal Pradesh 176208",
+    "area": "176208",
+    "latitude": 32.1845499,
+    "longitude": 76.2143306,
+    "place_id": "ChIJER0HxTRbGzkReuedYUhBOdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJER0HxTRbGzkReuedYUhBOdA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:27"
+  }
+]

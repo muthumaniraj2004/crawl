@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wine Shop",
+    "search_category": "Shops",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "56P6+J73, Rait, Himachal Pradesh 176208",
+    "area": "176208",
+    "latitude": 32.1865072,
+    "longitude": 76.2106872,
+    "place_id": "ChIJ7_mtuzJbGzkRuvqQnK-mjnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_mtuzJbGzkRuvqQnK-mjnc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:06:47"
+  },
+  {
+    "business_name": "Blackbird Store",
+    "search_category": "Shops",
+    "primary_category": "Disposable Items shop",
+    "all_categories": "Disposable Items shop",
+    "pincode": "176208",
+    "phone_number": "+91 98160 92167",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rait, Thirdi, Himachal Pradesh 176208",
+    "area": "176208",
+    "latitude": 32.1822051,
+    "longitude": 76.2064441,
+    "place_id": "ChIJbWIEbgBbGzkRNXa00QpF59E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWIEbgBbGzkRNXa00QpF59E",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:06:47"
+  }
+]

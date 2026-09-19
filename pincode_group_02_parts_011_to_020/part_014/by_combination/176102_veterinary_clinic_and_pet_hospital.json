@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal care Services",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "176102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GWH3+R4J, Hattur, Maharashtra 413224",
+    "area": "176102",
+    "latitude": 17.5295876,
+    "longitude": 75.90277139999999,
+    "place_id": "ChIJ9dLcuQF3xjsRSgaRHBqH5c4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dLcuQF3xjsRSgaRHBqH5c4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:48"
+  },
+  {
+    "business_name": "Veterinary Hospital Kamalapur",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "176102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "HXMM+57C, Kamalapur, Karnataka 585313",
+    "area": "176102",
+    "latitude": 17.5829385,
+    "longitude": 76.98312609999999,
+    "place_id": "ChIJ9Ra0yIzNyDsRUlsleb96bqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Ra0yIzNyDsRUlsleb96bqs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhandari General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176085",
+    "phone_number": "+91 78764 52959",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "New Colony v.p.o parour, near Govind Jeevan ashram, Palampur, Himachal Pradesh 176064",
+    "area": "176085",
+    "latitude": 32.0843424,
+    "longitude": 76.4629424,
+    "place_id": "ChIJuUZZZhSzBDkRjmlfJxzZLzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUZZZhSzBDkRjmlfJxzZLzg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:07:51"
+  },
+  {
+    "business_name": "Parmar Online Multi Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Service establishment",
+    "pincode": "176085",
+    "phone_number": "N/A",
+    "website": "https://www.mydash101.com/parmaronlinemultistore",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parmar Online Multi Store, 176085, India",
+    "area": "176085",
+    "latitude": 31.0782194,
+    "longitude": 77.1590212,
+    "place_id": "ChIJgbkxmUh4boIR9pbUKfs7C2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbkxmUh4boIR9pbUKfs7C2g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:07:54"
+  }
+]

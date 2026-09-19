@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishana Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "176076",
+    "phone_number": "+91 98169 25425",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MDR56, Baijnath, Himachal Pradesh 176125",
+    "area": "176076",
+    "latitude": 32.0498207,
+    "longitude": 76.6463492,
+    "place_id": "ChIJaV87nSu4BDkRB-2kWXaCqmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaV87nSu4BDkRB-2kWXaCqmc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:22"
+  },
+  {
+    "business_name": "Ajay sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176076",
+    "phone_number": "+91 98168 10210",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "main, market, Paprola, Kasba Paprola, Himachal Pradesh 176115",
+    "area": "176076",
+    "latitude": 32.0535338,
+    "longitude": 76.63423399999999,
+    "place_id": "ChIJI0ui9za3BDkRRF4nSmB7zmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0ui9za3BDkRRF4nSmB7zmw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:25"
+  }
+]

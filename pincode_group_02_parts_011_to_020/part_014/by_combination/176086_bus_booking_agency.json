@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Edit Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "176086",
+    "phone_number": "+91 98166 11655",
+    "website": "https://www.beditravels.com/faqs.html",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "68QF+XJ5, Dal Lake-Mcleod Ganj, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2398847,
+    "longitude": 76.3241012,
+    "place_id": "ChIJ8f5hGh1RGzkRq0M109gwbks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8f5hGh1RGzkRq0M109gwbks",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:10:16"
+  },
+  {
+    "business_name": "Jitendra Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "176086",
+    "phone_number": "+91 98162 35900",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bhuntar, Himachal Pradesh 175125",
+    "area": "176086",
+    "latitude": 31.8808898,
+    "longitude": 77.1508013,
+    "place_id": "ChIJe6PFjSr4BDkRb-GVnLNkUSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6PFjSr4BDkRb-GVnLNkUSs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:10:16"
+  }
+]

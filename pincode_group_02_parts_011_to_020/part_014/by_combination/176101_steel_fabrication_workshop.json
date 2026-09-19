@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Miller Steel Fabrication LLC",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Metal supplier",
+    "pincode": "176101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "107 Two Taverns Rd, Littlestown, PA 17340, United States",
+    "area": "176101",
+    "latitude": 39.7820051,
+    "longitude": -77.1640826,
+    "place_id": "ChIJA1I_P-xSyIkRnbkOklPq54c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1I_P-xSyIkRnbkOklPq54c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:01"
+  },
+  {
+    "business_name": "GB Metal Fabrication LLC",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Welder",
+    "all_categories": "Welder, Aluminum welder, Art restoration service, Real Estate Builders & Construction Company, Furniture maker, Metal fabricator, Metal working shop, Railing contractor, Steelwork design service",
+    "pincode": "176101",
+    "phone_number": "N/A",
+    "website": "http://www.gbmetalfabrication.com/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "5542 Poplar St, Harrisburg, PA 17112, United States",
+    "area": "176101",
+    "latitude": 40.317203,
+    "longitude": -76.7927127,
+    "place_id": "ChIJbUXOlGbHyIkRJ1mM6gcc3oQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUXOlGbHyIkRJ1mM6gcc3oQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:01"
+  }
+]

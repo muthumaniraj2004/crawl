@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Popular Engineering Works",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "176084",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, opposite Post Office, Gaggal, Himachal Pradesh 176209",
+    "area": "176084",
+    "latitude": 32.156176699999996,
+    "longitude": 76.2725542,
+    "place_id": "ChIJq7rQ6QdQGzkRjrszKFUHrhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7rQ6QdQGzkRjrszKFUHrhg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:06:50"
+  },
+  {
+    "business_name": "All Car Machanic",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "176084",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "6PRQ+7MV, Nal, Himachal Pradesh 174011",
+    "area": "176084",
+    "latitude": 31.240749899999997,
+    "longitude": 76.7391779,
+    "place_id": "ChIJD6j4UrhBBTkRrc8IV3ISN7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6j4UrhBBTkRrc8IV3ISN7g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:06:51"
+  }
+]

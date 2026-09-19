@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lenit Pharmaceuticals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "176089",
+    "phone_number": "+91 94170 14574",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No 2, Industrial Area, Raja Ka Bagh Nanglar PO, Tehsil, Giora, Nurpur, Himachal Pradesh 176201",
+    "area": "Tehsil",
+    "latitude": 32.2642059,
+    "longitude": 75.8141844,
+    "place_id": "ChIJ9bCe1s59GzkRo_J-dtc_eGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bCe1s59GzkRo_J-dtc_eGo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:16:20"
+  },
+  {
+    "business_name": "Chandigarh Chemicals Baddi",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "176089",
+    "phone_number": "+91 98160 44655",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Plot no. 99, Dic, Industrial Area, Baddi, Himachal Pradesh 173205",
+    "area": "Industrial Area",
+    "latitude": 30.9278844,
+    "longitude": 76.80318,
+    "place_id": "ChIJycBGgjv1DzkRdiu0QU9fCx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycBGgjv1DzkRdiu0QU9fCx4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:16:21"
+  }
+]

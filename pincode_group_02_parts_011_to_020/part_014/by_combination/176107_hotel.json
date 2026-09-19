@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Downtown",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Guest house, Resort hotel",
+    "pincode": "176107",
+    "phone_number": "+91 94187 04444",
+    "website": "https://hoteldowntownkangra.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Kangra Rd, Housing Board Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Housing Board Colony",
+    "latitude": 32.0977204,
+    "longitude": 76.27158519999999,
+    "place_id": "ChIJn9GNOn5PGzkRfdOnhO5_TRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9GNOn5PGzkRfdOnhO5_TRE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:37:49"
+  },
+  {
+    "business_name": "Hotel Maurya",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176107",
+    "phone_number": "+91 94181 01788",
+    "website": "http://www.hotelmauryakangra.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Dharamshalla Road, near Post Office, Kangra, Himachal Pradesh 176001",
+    "area": "New Kangra",
+    "latitude": 32.1048469,
+    "longitude": 76.2742359,
+    "place_id": "ChIJHZ-_HIFPGzkRuDp9PKQr1uQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZ-_HIFPGzkRuDp9PKQr1uQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:37:52"
+  }
+]

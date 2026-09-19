@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Interior designer",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "176207",
+    "phone_number": "+91 82195 70251",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chuari Khas, Himachal Pradesh 176302",
+    "area": "176207",
+    "latitude": 32.432899899999995,
+    "longitude": 76.0097117,
+    "place_id": "ChIJG6Jl2miZHDkRBgD4yYGDQt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6Jl2miZHDkRBgD4yYGDQt0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:06"
+  },
+  {
+    "business_name": "Studio 7 Architects & Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architectural designer, Architecture firm, Building designer, Interior Decorator, Architect, Landscape designer, Vastu consultant",
+    "pincode": "176207",
+    "phone_number": "+91 99144 53555",
+    "website": "https://studio7architectsinteriors.in/",
+    "rating": 4.7,
+    "reviews_count": 130,
+    "address": "12, Phase, 1, Sarabha Nagar Ext Rd, Chhabra Colony, Shaheed Bhagat Singh Nagar, Ludhiana, Punjab 142022",
+    "area": "Chhabra Colony, Shaheed Bhagat Singh Nagar",
+    "latitude": 30.861193399999998,
+    "longitude": 75.8111425,
+    "place_id": "ChIJVcvPMluCGjkROTuErfzxyQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcvPMluCGjkROTuErfzxyQY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:07"
+  }
+]

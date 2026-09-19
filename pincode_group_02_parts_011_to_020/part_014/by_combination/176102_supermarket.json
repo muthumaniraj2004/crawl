@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Fruit Store....estd 1957",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "176102",
+    "phone_number": "+91 80910 55636",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maranda, Palampur, Kasoti, Himachal Pradesh 176102",
+    "area": "Maranda",
+    "latitude": 32.083687499999996,
+    "longitude": 76.51593749999999,
+    "place_id": "ChIJiYtPIYizBDkRUfXy25e7Px8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYtPIYizBDkRUfXy25e7Px8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:16"
+  },
+  {
+    "business_name": "Local Market Nalti",
+    "search_category": "Supermarket",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "176102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 179,
+    "address": "3FJJ+9H7, Sulah-Naltti Pull Rd, Salan, Samula Khas, Himachal Pradesh 176064",
+    "area": "176102",
+    "latitude": 32.080903899999996,
+    "longitude": 76.48143089999999,
+    "place_id": "ChIJrwf4OGCzBDkRM6e4OX4mmwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwf4OGCzBDkRM6e4OX4mmwU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hira Traders Handloom House",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "176087",
+    "phone_number": "+91 80073 68829",
+    "website": "https://sites.google.com/view/hiratradershandloomhouse",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market, Tehsil road, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "176087",
+    "latitude": 31.8820056,
+    "longitude": 76.2152376,
+    "place_id": "ChIJQYJoj4g5GzkR2BaSaHxztcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYJoj4g5GzkR2BaSaHxztcs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:12:27"
+  },
+  {
+    "business_name": "S.R. Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "176087",
+    "phone_number": "+91 94182 75247",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "Vill.Pharer,Distt Kangra, Palampur, Himachal Pradesh 176064",
+    "area": "Pharer",
+    "latitude": 32.0782533,
+    "longitude": 76.4720186,
+    "place_id": "ChIJEXt9p9W1BDkRgmEoDehkM3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXt9p9W1BDkRgmEoDehkM3s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:12:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Food processing equipment",
+    "all_categories": "Food processing equipment",
+    "pincode": "176210",
+    "phone_number": "+91 98724 51727",
+    "website": "https://www.amarindustry.com/",
+    "rating": 3.8,
+    "reviews_count": 17,
+    "address": "1454, Amar Industries, Cheel Mandi, near Bus Stand, Town Hall, Katra Ahluwalia, Amritsar, Punjab 143006",
+    "area": "Town Hall, Katra Ahluwalia",
+    "latitude": 31.626329499999997,
+    "longitude": 74.8799958,
+    "place_id": "ChIJ_____7tkGTkRH2D9COunN0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____7tkGTkRH2D9COunN0g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:11"
+  },
+  {
+    "business_name": "BMF Group",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Agricultural production",
+    "all_categories": "Agricultural production",
+    "pincode": "176210",
+    "phone_number": "+91 99165 34195",
+    "website": "https://www.bmfgroup.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Harishkopa, Saithia, West Bengal 731234",
+    "area": "176210",
+    "latitude": 23.931072399999998,
+    "longitude": 87.6504837,
+    "place_id": "ChIJ_eNc8Lrl-TkRjogfV8GYzTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_eNc8Lrl-TkRjogfV8GYzTM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elegance salon and academy",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176085",
+    "phone_number": "+91 189 424 0655",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "New colony, near Shri Govind Aashram, Paraur, Palampur, Himachal Pradesh 176064",
+    "area": "176085",
+    "latitude": 32.0843335,
+    "longitude": 76.4635957,
+    "place_id": "ChIJBUJwYsezBDkRPMtarvpSrMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUJwYsezBDkRPMtarvpSrMQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:08:42"
+  },
+  {
+    "business_name": "New Look Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176085",
+    "phone_number": "+91 82195 85048",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pandit Dheera Road, near Shasi, Paror Khas, Paraur, Himachal Pradesh 176064",
+    "area": "176085",
+    "latitude": 32.0775406,
+    "longitude": 76.45850539999999,
+    "place_id": "ChIJuZDBsICzBDkRoq-a41OKNp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZDBsICzBDkRoq-a41OKNp8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:08:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DELHI AUTOMOBILES",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "176205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "47XF+JRR, beside Tata motors, Ichhi Khas, Gaggal, Himachal Pradesh 176209",
+    "area": "176205",
+    "latitude": 32.149113899999996,
+    "longitude": 76.2745305,
+    "place_id": "ChIJSVxiDABRGzkR9R9orZbEutI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVxiDABRGzkR9R9orZbEutI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:00:19"
+  },
+  {
+    "business_name": "ACC Tractor Workshop",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "176205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "7VM7+QH5, Jachh, Himachal Pradesh 176201",
+    "area": "176205",
+    "latitude": 32.284383,
+    "longitude": 75.86397529999999,
+    "place_id": "ChIJ--GPpISCHDkR3zGs3-xTH-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--GPpISCHDkR3zGs3-xTH-g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:00:19"
+  }
+]

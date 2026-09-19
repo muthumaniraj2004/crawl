@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "96, Bara Bazar Rd, Mallital, Nainital, Uttarakhand 263001",
+    "area": "Mallital",
+    "latitude": 29.3925014,
+    "longitude": 79.4522187,
+    "place_id": "ChIJoV1hbAChoDkR0jcbOkUd9Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoV1hbAChoDkR0jcbOkUd9Z8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:40:28"
+  },
+  {
+    "business_name": "Ratan Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176109",
+    "phone_number": "+91 98996 07593",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "89, Navyug Market, Ghaziabad, NCR, Region, Uttar Pradesh 201001",
+    "area": "Aavas Vikas Colony, Navyug Market, Naya Ganj",
+    "latitude": 28.667372,
+    "longitude": 77.4271687,
+    "place_id": "ChIJd6cqnrXxDDkRqeBeanqVOns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6cqnrXxDDkRqeBeanqVOns",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:40:28"
+  }
+]

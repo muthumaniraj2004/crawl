@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalia paints and Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176203",
+    "phone_number": "+91 85804 76767",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "SH 22, Raja Ka Talab, Bari, Himachal Pradesh 176051",
+    "area": "176203",
+    "latitude": 32.215562999999996,
+    "longitude": 75.91207899999999,
+    "place_id": "ChIJo3vYWQBjGzkRjufDAZ9o0Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3vYWQBjGzkRjufDAZ9o0Ck",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:56:55"
+  },
+  {
+    "business_name": "Jai brijeswari hardware store",
+    "search_category": "Hardware Store",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "176203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8WX6+G22, Sadwan Khas, Himachal Pradesh 176202",
+    "area": "176203",
+    "latitude": 32.348750599999995,
+    "longitude": 75.9100311,
+    "place_id": "ChIJOYx6dgCdHDkRJ6J8Fy1xpxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYx6dgCdHDkRJ6J8Fy1xpxU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:56:56"
+  }
+]

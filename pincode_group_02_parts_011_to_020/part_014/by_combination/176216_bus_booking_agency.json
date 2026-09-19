@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TRAVEL ZONE",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176216",
+    "phone_number": "+91 98168 80379",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 54,
+    "address": "UPPER, Bhagsu Nag, Dharamshala, Himachal Pradesh 176216",
+    "area": "Bhagsu Nag",
+    "latitude": 32.2443592,
+    "longitude": 76.33293259999999,
+    "place_id": "ChIJB3hEWsxWGzkRXcSwUDE9Jxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3hEWsxWGzkRXcSwUDE9Jxw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:18:24"
+  },
+  {
+    "business_name": "Locals of Himachal",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176216",
+    "phone_number": "N/A",
+    "website": "http://buntytravelandtrek.online/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "Mains Square, Market, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2367801,
+    "longitude": 76.3236731,
+    "place_id": "ChIJzeYM3NhRGzkRfZ3PacWlTkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeYM3NhRGzkRfZ3PacWlTkM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:18:24"
+  }
+]

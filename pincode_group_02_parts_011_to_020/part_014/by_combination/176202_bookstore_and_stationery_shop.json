@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Stationary Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "176202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Rana Stationary Store, Link Road, Fatehpur, Badukhar, Badiali, Himachal Pradesh 176053",
+    "area": "Fatehpur",
+    "latitude": 32.0821079,
+    "longitude": 75.907607,
+    "place_id": "ChIJQZePbttvGzkRp1xRYNs48qM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZePbttvGzkRp1xRYNs48qM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:55:40"
+  },
+  {
+    "business_name": "Ramesh Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "176202",
+    "phone_number": "+91 98167 31218",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "near Sr. Sec School, ganoh, Panjahra Baraswalan, Himachal Pradesh 176051",
+    "area": "176202",
+    "latitude": 32.246338,
+    "longitude": 75.8903387,
+    "place_id": "ChIJURXQ6S99GzkRs-ToFlOvkkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURXQ6S99GzkRs-ToFlOvkkc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:55:41"
+  }
+]

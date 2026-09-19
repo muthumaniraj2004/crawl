@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Food Exchange",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176087",
+    "phone_number": "+91 80912 90901",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 41,
+    "address": "4G4M+3PF, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1051493,
+    "longitude": 76.5342983,
+    "place_id": "ChIJLS9fKBGzBDkRv8X-SN8WJPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLS9fKBGzBDkRv8X-SN8WJPA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:33"
+  },
+  {
+    "business_name": "Sri Om Sweets & Snacks Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176087",
+    "phone_number": "+91 78077 83550",
+    "website": "https://www.sriomsweetsandrestaurant.com/",
+    "rating": 4.3,
+    "reviews_count": 17,
+    "address": "Main Market, Sangrai Chowk, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1094365,
+    "longitude": 76.5357044,
+    "place_id": "ChIJmUqbT4azBDkRSrPsFsmr27g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUqbT4azBDkRSrPsFsmr27g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:33"
+  }
+]

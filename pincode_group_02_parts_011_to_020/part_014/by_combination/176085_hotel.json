@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Akashdeep Dharamshala",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Cottage, Guest house, Inn, Lodge, Motel, Home Stay, Villa",
+    "pincode": "176085",
+    "phone_number": "+91 94188 04997",
+    "website": "https://hotelakashdeep.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Hotel Akashdeep PO Bhagsunag Teh, Distt, Dharamshala, Himachal Pradesh 176216",
+    "area": "176085",
+    "latitude": 32.2429189,
+    "longitude": 76.3321514,
+    "place_id": "ChIJ6zHXSWdXGzkRLmfFGWp8Amc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zHXSWdXGzkRLmfFGWp8Amc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:08:54"
+  },
+  {
+    "business_name": "Hotel Sky Pie",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176085",
+    "phone_number": "+91 94186 05966",
+    "website": "http://www.hotelskypie.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Hotel Sky pie, opposite vaishno devi temple, Bhagsu Nag, Dharamshala, Himachal Pradesh 176216",
+    "area": "Bhagsu Nag",
+    "latitude": 32.244945099999995,
+    "longitude": 76.33268919999999,
+    "place_id": "ChIJI7NzW8xWGzkR-rE0lqLlWRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7NzW8xWGzkR-rE0lqLlWRo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:08:54"
+  }
+]

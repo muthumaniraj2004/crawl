@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaango",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "176101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "47CP+HQC, Shimla - Kangra Rd, Bhawan, Birta, Himachal Pradesh 176001",
+    "area": "176101",
+    "latitude": 32.1213238,
+    "longitude": 76.2871095,
+    "place_id": "ChIJrT0wTgBPGzkRG5_iItUtyY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrT0wTgBPGzkRG5_iItUtyY0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:31:43"
+  },
+  {
+    "business_name": "SeKan Spices Kangra",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "176101",
+    "phone_number": "+91 88948 44600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-Industrial Estate Kangra, Near Bus Stand, Opp. Hotel Grand Raj, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.1114199,
+    "longitude": 76.2787431,
+    "place_id": "ChIJaz5TPZZFGzkRrlZp77I5lAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaz5TPZZFGzkRrlZp77I5lAc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:31:44"
+  }
+]

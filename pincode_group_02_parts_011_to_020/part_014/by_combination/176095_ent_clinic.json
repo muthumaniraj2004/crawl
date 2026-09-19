@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAIN ENT HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176095",
+    "phone_number": "+91 141 404 2541",
+    "website": "http://jainenthospital.org/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "23-24, nr. Vidhan Sabha, Pankaj Singhvi Marg, Satya Vihar, Indra Puri, Vidhayak Nagar, Lalkothi, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Satya Vihar, Indra Puri, Vidhayak Nagar, Lalkothi",
+    "latitude": 26.891525899999998,
+    "longitude": 75.8002997,
+    "place_id": "ChIJpfkJWSG0bTkRr3rSBA-mz4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfkJWSG0bTkRr3rSBA-mz4Y",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:25:22"
+  },
+  {
+    "business_name": "Sensible Senses ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "176095",
+    "phone_number": "+91 98761 37469",
+    "website": "http://www.sensiblesensesenthospital.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "c block, 63 - 64, Green Avenue, Amritsar, Punjab 143001",
+    "area": "Green Avenue",
+    "latitude": 31.6507044,
+    "longitude": 74.8660702,
+    "place_id": "ChIJFWzaS6NkGTkR7uICNramlsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWzaS6NkGTkR7uICNramlsU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:25:22"
+  }
+]

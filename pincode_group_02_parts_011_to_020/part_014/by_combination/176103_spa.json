@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soul Spa",
+    "search_category": "Spa",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "176103",
+    "phone_number": "+91 97819 73665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2F, Spring Valley Resorts Bhagsunag, Distt, Upper, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",
+    "area": "Upper, McLeod Ganj",
+    "latitude": 32.2430229,
+    "longitude": 76.3318953,
+    "place_id": "ChIJZQm43ApXGzkRN37BmqbfHCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQm43ApXGzkRN37BmqbfHCA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:35:55"
+  },
+  {
+    "business_name": "Sonam Massage & Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "176103",
+    "phone_number": "+91 78764 02258",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Black Magic under ground, Jogiwara Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2375478,
+    "longitude": 76.3242922,
+    "place_id": "ChIJg8cMQc5RGzkRgtqSO0J_Oc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8cMQc5RGzkRgtqSO0J_Oc4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:35:57"
+  }
+]

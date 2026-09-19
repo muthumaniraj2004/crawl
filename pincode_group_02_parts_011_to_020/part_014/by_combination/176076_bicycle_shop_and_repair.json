@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wild camping riders",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle rental service",
+    "all_categories": "Bicycle rental service",
+    "pincode": "176076",
+    "phone_number": "+91 70184 65685",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near pnb, New Kather, Bhanat, Solan, Himachal Pradesh 173213",
+    "area": "New Kather, Bhanat",
+    "latitude": 30.912982799999998,
+    "longitude": 77.0969406,
+    "place_id": "ChIJva9Mj-2HDzkRC1KpWDzfhpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJva9Mj-2HDzkRC1KpWDzfhpE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:55"
+  },
+  {
+    "business_name": "Leader Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "176076",
+    "phone_number": "+91 97379 55857",
+    "website": "http://www.leaderbicycles.com/",
+    "rating": 3.9,
+    "reviews_count": 240,
+    "address": "railway station, Campa Cola Rd, opposite dhandari kalan, Industrial Area C, Dhandari Kalan, Ludhiana, Punjab 141003",
+    "area": "Industrial Area C, Dhandari Kalan",
+    "latitude": 30.8667137,
+    "longitude": 75.913758,
+    "place_id": "ChIJxX7J_G2dGjkRyqzGkZfaR3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxX7J_G2dGjkRyqzGkZfaR3o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kangra Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "176202",
+    "phone_number": "+91 98174 47700",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Ward Number 3, Kangra Tailors, Main Bazaar, Rajpur, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "Rajpur",
+    "latitude": 31.4491239,
+    "longitude": 77.6288222,
+    "place_id": "ChIJo-mQNvDBBTkRWXLozhR22xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-mQNvDBBTkRWXLozhR22xs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:54:44"
+  },
+  {
+    "business_name": "Amar Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "176202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "472F+835, near Sainik Rest House, New Kangra, Kangra, Himachal Pradesh 176001",
+    "area": "New Kangra",
+    "latitude": 32.1007546,
+    "longitude": 76.2727292,
+    "place_id": "ChIJyQLQhklPGzkRSsOO0_gV6nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQLQhklPGzkRSsOO0_gV6nc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:54:44"
+  }
+]

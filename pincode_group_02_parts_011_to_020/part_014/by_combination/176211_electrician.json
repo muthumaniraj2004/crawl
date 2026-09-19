@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Assistant Engineer Electrical Sub-Division",
+    "search_category": "Electrician",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "176211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Bus Stop, Suliali, Himachal Pradesh 176211",
+    "area": "176211",
+    "latitude": 32.3745279,
+    "longitude": 75.8869363,
+    "place_id": "ChIJx8425nmFHDkRTBZygh7rvQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8425nmFHDkRTBZygh7rvQM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:11:13"
+  },
+  {
+    "business_name": "SHARMA ELECTRICAL Sadwan",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "176211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sadwan Khas, Himachal Pradesh 176202",
+    "area": "176211",
+    "latitude": 32.348750599999995,
+    "longitude": 75.9100311,
+    "place_id": "ChIJK3ZZNsedHDkRDdO3XE7xqu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3ZZNsedHDkRDdO3XE7xqu8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:11:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bachha Bhai confectionery shop",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "62QW+44F, Mandi - Pathankot Rd, Kotla, Latehr, Himachal Pradesh 176205",
+    "area": "Kotla",
+    "latitude": 32.2377099,
+    "longitude": 76.04521299999999,
+    "place_id": "ChIJ-de2VABhGzkRVkIyNv1cMms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-de2VABhGzkRVkIyNv1cMms",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:01:24"
+  },
+  {
+    "business_name": "Khan kariyana store",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "176205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "6X32+2H6, Harnota Khas, Himachal Pradesh 176021",
+    "area": "176205",
+    "latitude": 32.202532,
+    "longitude": 75.9514059,
+    "place_id": "ChIJARXW7jBjGzkRwqhKJ9nrVjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARXW7jBjGzkRwqhKJ9nrVjY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:01:25"
+  }
+]

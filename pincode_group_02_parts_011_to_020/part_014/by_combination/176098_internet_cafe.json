@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny cyber cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Computer networking service",
+    "all_categories": "Computer networking service",
+    "pincode": "176098",
+    "phone_number": "+91 94189 95118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R9FV+CJC, Ghatta Rd, Majhin, Himachal Pradesh 176032",
+    "area": "176098",
+    "latitude": 31.823566099999997,
+    "longitude": 76.394019,
+    "place_id": "ChIJw9UKTgAzGzkRV8fhuJuYdnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9UKTgAzGzkRV8fhuJuYdnY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:31:05"
+  },
+  {
+    "business_name": "DHARMA SERVICE CENTRE",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "176098",
+    "phone_number": "+91 93718 88699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "QGWJ+MC, Sandrara, Himachal Pradesh 176111",
+    "area": "176098",
+    "latitude": 31.796688699999997,
+    "longitude": 76.5311687,
+    "place_id": "ChIJX9NkGQHTBDkRTWmVLxrOtDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9NkGQHTBDkRTWmVLxrOtDg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:31:05"
+  }
+]

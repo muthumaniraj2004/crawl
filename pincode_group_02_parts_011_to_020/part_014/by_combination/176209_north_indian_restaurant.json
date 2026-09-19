@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhasa Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "176209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "59R2+C9W, Garh, Fatehpur, Himachal Pradesh 176215",
+    "area": "176209",
+    "latitude": 32.1911015,
+    "longitude": 76.35095749999999,
+    "place_id": "ChIJkUnPJptRGzkRidQhl4QlXGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUnPJptRGzkRidQhl4QlXGA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:00"
+  },
+  {
+    "business_name": "Joggi Da Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "176209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "4862+WJ7, Khas Kachhiari, Himachal Pradesh 176001",
+    "area": "176209",
+    "latitude": 32.1122977,
+    "longitude": 76.301541,
+    "place_id": "ChIJdVZLXaRPGzkR6j-OVqritxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVZLXaRPGzkR6j-OVqritxM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:03"
+  }
+]

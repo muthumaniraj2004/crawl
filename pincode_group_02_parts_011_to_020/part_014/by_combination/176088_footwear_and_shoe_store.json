@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shambhu shoes store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176088",
+    "phone_number": "+91 78070 26022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harsi Pattan Rd, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "176088",
+    "latitude": 31.8988542,
+    "longitude": 76.600199,
+    "place_id": "ChIJU1s1-grPBDkR90m-MBfN4_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1s1-grPBDkR90m-MBfN4_0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:13:28"
+  },
+  {
+    "business_name": "Kalsi Brother's",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176088",
+    "phone_number": "+91 90152 84208",
+    "website": "https://sites.google.com/view/kalsibrothers/about-us",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 4, Harsi Pattan Rd, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "176088",
+    "latitude": 31.898810899999997,
+    "longitude": 76.60026289999999,
+    "place_id": "ChIJ_bNjJcfPBDkRO-d6_mSp3ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bNjJcfPBDkRO-d6_mSp3ec",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:13:28"
+  }
+]

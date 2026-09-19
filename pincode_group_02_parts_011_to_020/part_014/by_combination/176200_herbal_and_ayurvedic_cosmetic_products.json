@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ThinkAyurvedaFirst",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store",
+    "pincode": "176200",
+    "phone_number": "+91 91000 52961",
+    "website": "http://thinkayurvedafirst.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6-149/5, B/1, KKRs Gowtham School Rd, Unit 300, Hyderabad, Telangana 500043",
+    "area": "Unit 300",
+    "latitude": 17.5548584,
+    "longitude": 78.40101709999999,
+    "place_id": "ChIJm-sgHWSOyzsRAH76YZD3B9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-sgHWSOyzsRAH76YZD3B9c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:51:47"
+  },
+  {
+    "business_name": "Essential Mart",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, General store, Lingerie store",
+    "pincode": "176200",
+    "phone_number": "+91 98780 40162",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bhupindra Rd, Civil Lines, Patiala, Punjab 147001",
+    "area": "Civil Lines",
+    "latitude": 30.3434448,
+    "longitude": 76.3790361,
+    "place_id": "ChIJd8zGbbkoEDkR4zOMQ2YIMq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8zGbbkoEDkR4zOMQ2YIMq4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:51:47"
+  }
+]

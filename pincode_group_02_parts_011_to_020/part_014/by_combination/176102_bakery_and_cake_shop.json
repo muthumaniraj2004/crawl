@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The cake shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176102",
+    "phone_number": "+91 98051 96609",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajpur Tanda road, Palampur, Saralu, Himachal Pradesh 176061",
+    "area": "176102",
+    "latitude": 32.0854614,
+    "longitude": 76.52972869999999,
+    "place_id": "ChIJUwJWpkSzBDkRchbDiUORNeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwJWpkSzBDkRchbDiUORNeM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:22"
+  },
+  {
+    "business_name": "Papa Baker's and Fast Food",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176102",
+    "phone_number": "+91 82195 66941",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Mandi - Pathankot Rd, Maranda, Thakurdwara, Kasoti, Himachal Pradesh 176102",
+    "area": "Maranda, Thakurdwara",
+    "latitude": 32.082921299999995,
+    "longitude": 76.5110842,
+    "place_id": "ChIJ8Zvzf4ezBDkRctIbt-lHK2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Zvzf4ezBDkRctIbt-lHK2g",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:22"
+  }
+]

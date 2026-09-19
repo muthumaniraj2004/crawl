@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishant Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "176109",
+    "phone_number": "+91 79743 79054",
+    "website": "https://www.vishantcleaningservices.in/",
+    "rating": 4.9,
+    "reviews_count": 58,
+    "address": "I-53, Awadhpuri, Gwarighat, Jabalpur, Madhya Pradesh 482008",
+    "area": "Awadhpuri, Gwarighat",
+    "latitude": 23.112809,
+    "longitude": 79.9256284,
+    "place_id": "ChIJqQ3vtKAZrYERxnMp9wJ6j2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQ3vtKAZrYERxnMp9wJ6j2M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:41:37"
+  },
+  {
+    "business_name": "Maid in Hyderabad",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Home health care service, Cleaning Services",
+    "pincode": "176109",
+    "phone_number": "+91 92564 29293",
+    "website": "https://maidservicesinindia.com/",
+    "rating": 4.5,
+    "reviews_count": 184,
+    "address": "Sy No 64, Unit No 203, 2nd Floor Suite No.218, SBR CV Towers Sector-I, HUDA Techno Enclave, Madhapur, Hyderabad, Telangana 500081",
+    "area": "HUDA Techno Enclave, Madhapur",
+    "latitude": 17.444946599999998,
+    "longitude": 78.3856599,
+    "place_id": "ChIJ7fcWugaRyzsR5Goe8ber7GE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fcWugaRyzsR5Goe8ber7GE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:41:37"
+  }
+]

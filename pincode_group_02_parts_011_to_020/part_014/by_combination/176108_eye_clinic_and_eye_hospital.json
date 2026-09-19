@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Chandigarh Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176108",
+    "phone_number": "+91 62801 71445",
+    "website": "http://www.nceh.co.in/",
+    "rating": 4.9,
+    "reviews_count": 226,
+    "address": "SCO 120 Omaxe Clockton Street New Chandigarh, Mullanpur Garibdass, Punjab 140901",
+    "area": "176108",
+    "latitude": 30.812055599999997,
+    "longitude": 76.7016299,
+    "place_id": "ChIJ4-fTi6_xDzkRKcAeXYw0uAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-fTi6_xDzkRKcAeXYw0uAg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:38:58"
+  },
+  {
+    "business_name": "Sahni Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "176108",
+    "phone_number": "+91 98172 05555",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 207,
+    "address": "Sahni Complex, Rajgarh Rd, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.906285299999997,
+    "longitude": 77.1064298,
+    "place_id": "ChIJBfq2CfuBDzkRAO7N7Bf_rLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfq2CfuBDzkRAO7N7Bf_rLc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:38:59"
+  }
+]

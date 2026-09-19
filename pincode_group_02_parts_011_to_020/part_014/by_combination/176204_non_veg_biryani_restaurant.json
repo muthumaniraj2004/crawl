@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Western Pendu",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "176204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 90,
+    "address": "MDR42, Malot, Himachal Pradesh 176402",
+    "area": "176204",
+    "latitude": 32.2038703,
+    "longitude": 75.6866237,
+    "place_id": "ChIJlYc05q2BGzkRhkaGeTWDKJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYc05q2BGzkRhkaGeTWDKJE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:58:04"
+  },
+  {
+    "business_name": "Hotel Vedant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 38,
+    "address": "Kandwal Damtal Rd, Bhadroya, Himachal Pradesh 176403",
+    "area": "176204",
+    "latitude": 32.2543661,
+    "longitude": 75.686278,
+    "place_id": "ChIJLYiSa_mBGzkRyJBgWP7Iksw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYiSa_mBGzkRyJBgWP7Iksw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:58:04"
+  }
+]

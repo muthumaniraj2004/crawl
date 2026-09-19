@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tip Top Enterprises",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "176089",
+    "phone_number": "+91 98053 98098",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Chobin Chowk, opp. SBI, Baijnath, Himachal Pradesh 176125",
+    "area": "176089",
+    "latitude": 32.0502383,
+    "longitude": 76.6425374,
+    "place_id": "ChIJkYFbjSq4BDkR8Zq9Zj60lp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYFbjSq4BDkR8Zq9Zj60lp4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:15:12"
+  },
+  {
+    "business_name": "Malhotra uniform",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "176089",
+    "phone_number": "+91 88942 20008",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 18,
+    "address": "New Nalagarh Rd, Phase III, Phase2, Rakh Ram Singh, Nalagarh, Himachal Pradesh 174101",
+    "area": "Phase III, Phase2",
+    "latitude": 31.042628899999997,
+    "longitude": 76.7071285,
+    "place_id": "ChIJkSQt4JJbBTkRCy2ZSL1UdhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSQt4JJbBTkRCy2ZSL1UdhQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:15:13"
+  }
+]

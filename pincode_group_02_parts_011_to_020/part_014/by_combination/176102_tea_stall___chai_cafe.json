@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Thakur",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176102",
+    "phone_number": "+91 98827 01592",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Amit Tea Stall, nearby Railway Crossing, Arla, Raudi, Himachal Pradesh 176102",
+    "area": "176102",
+    "latitude": 32.0836805,
+    "longitude": 76.50458669999999,
+    "place_id": "ChIJ_azRAU-zBDkR_tFg_INQNA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_azRAU-zBDkR_tFg_INQNA0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:23"
+  },
+  {
+    "business_name": "India Tea House",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "176102",
+    "phone_number": "+91 93269 59326",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No. 09, Rupa Bhavani Rd, near Chitle Hospital, Songla, Jawaharlal Housing Society, Keshav Nagra, Solapur, Maharashtra 413001",
+    "area": "Songla, Jawaharlal Housing Society, Keshav Nagra",
+    "latitude": 17.6603128,
+    "longitude": 75.9065423,
+    "place_id": "ChIJfa7vWXHaxTsRBJjdgrn-saE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfa7vWXHaxTsRBJjdgrn-saE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:23"
+  }
+]

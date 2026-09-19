@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176090",
+    "phone_number": "+91 99898 13369",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ragala, 1-1-91, Bhadradri, Kothagudem, Palwancha, Telangana 507115",
+    "area": "Bhadradri",
+    "latitude": 17.626396,
+    "longitude": 80.6769053,
+    "place_id": "ChIJv3iOL_0bNDoRghUbpSxM9ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3iOL_0bNDoRghUbpSxM9ms",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:16:38"
+  },
+  {
+    "business_name": "GK Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "176090",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P9Q8+WFM, Chinchghar, Sakharoli, Maharashtra 415710",
+    "area": "176090",
+    "latitude": 17.739863,
+    "longitude": 73.3661078,
+    "place_id": "ChIJfQhYEwDd6TsRgat98aPlcy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQhYEwDd6TsRgat98aPlcy0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:16:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "176094",
+    "phone_number": "+91 99156 86087",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 411,
+    "address": "Rd, Civil Lines, Ludhiana, Punjab 141001 Government, Government College Rd, Punjab, 141001",
+    "area": "Civil Lines",
+    "latitude": 30.910871,
+    "longitude": 75.8331369,
+    "place_id": "ChIJ263JOr-DGjkRYYpDLm13ryQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ263JOr-DGjkRYYpDLm13ryQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:24:21"
+  },
+  {
+    "business_name": "Sahitya Sangam Jammu",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "176094",
+    "phone_number": "+91 93840 67229",
+    "website": "http://sahityasangam.in/",
+    "rating": 4,
+    "reviews_count": 258,
+    "address": "opposite BJP Office, Kacchi Chawni, Ambphalla, Old Heritage City, Jammu, Jammu and Kashmir 180001",
+    "area": "Kacchi Chawni, Ambphalla, Old Heritage City",
+    "latitude": 32.7392827,
+    "longitude": 74.8674381,
+    "place_id": "ChIJ17aYyUmFHjkR1aE29pyXY5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17aYyUmFHjkR1aE29pyXY5o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:24:21"
+  }
+]

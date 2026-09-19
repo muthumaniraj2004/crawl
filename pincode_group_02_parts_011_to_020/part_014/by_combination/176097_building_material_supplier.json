@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N. K. traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176097",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "main market sujanpur, palampur road, Jangal, Himachal Pradesh 176082",
+    "area": "176097",
+    "latitude": 31.861233,
+    "longitude": 76.4993752,
+    "place_id": "ChIJjTToF5nNBDkRkK4VHtGah-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTToF5nNBDkRkK4VHtGah-c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:28:58"
+  },
+  {
+    "business_name": "Mahadev marble",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile contractor",
+    "all_categories": "Tile contractor",
+    "pincode": "176097",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhawarna - Jaisinghpur Rd, Saul Banehr, Har, Himachal Pradesh 176096",
+    "area": "176097",
+    "latitude": 31.903966599999997,
+    "longitude": 76.53841,
+    "place_id": "ChIJq57mAADNBDkRDtA9REfY0go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq57mAADNBDkRDtA9REfY0go",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:29:00"
+  }
+]

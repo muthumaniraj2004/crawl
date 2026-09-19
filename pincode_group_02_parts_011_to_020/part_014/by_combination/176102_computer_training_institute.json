@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Itaynix",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "176102",
+    "phone_number": "+91 85888 03111",
+    "website": "https://itaynix.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3GJ7+WCF, Maranda, Kasoti, Himachal Pradesh 176102",
+    "area": "Maranda",
+    "latitude": 32.0823125,
+    "longitude": 76.5135469,
+    "place_id": "ChIJd3QwdAC1BDkRzwmjanpv3kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3QwdAC1BDkRzwmjanpv3kU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:34:24"
+  },
+  {
+    "business_name": "GAUTAM INSTITUTE OF SKILL DEVELOPMENT BHAWARNA",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Service establishment",
+    "pincode": "176102",
+    "phone_number": "+91 82190 26313",
+    "website": "https://www.shikshasanchar.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "GAUTAM INSTITUTE OF SKILL DEVELOPMENT BHAWARNA, 176102, India",
+    "area": "176102",
+    "latitude": 32.0410752,
+    "longitude": 76.4992189,
+    "place_id": "ChIJ4UbtWIefD6QRa1U899WHj4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UbtWIefD6QRa1U899WHj4s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:34:24"
+  }
+]

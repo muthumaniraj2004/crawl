@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "True Care Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176108",
+    "phone_number": "+91 89882 79000",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Aleo Po Manali Land Mark:, opposite Hotel Lords Regency Tehsil, Manali, Himachal Pradesh 175131",
+    "area": "Manali",
+    "latitude": 32.2395737,
+    "longitude": 77.19250869999999,
+    "place_id": "ChIJUbCoXbeJBDkROjTCIcNBwks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbCoXbeJBDkROjTCIcNBwks",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:38:57"
+  },
+  {
+    "business_name": "Dr. SANDHYA'S CHILDRENS CLINIC",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital, Children Policlinic, Hospital, Pediatric clinic",
+    "pincode": "176108",
+    "phone_number": "+91 86881 55860",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 30,
+    "address": "H.NO 4, 17/1, Road, near Double Bed Room, near South Indian Bank, Bahadurpally, Hyderabad, Telangana 500043",
+    "area": "Bahadurpally",
+    "latitude": 17.55818,
+    "longitude": 78.4415851,
+    "place_id": "ChIJ3UztOrWPyzsRGK2q4xbMfm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UztOrWPyzsRGK2q4xbMfm0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:38:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angel One Ltd. - Amit Sood",
+    "search_category": "Insurance Agent",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "176084",
+    "phone_number": "+91 79824 32251",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market, near HP PWD Rest House, Thural, Batahan, Himachal Pradesh 176107",
+    "area": "176084",
+    "latitude": 31.9263895,
+    "longitude": 76.45982,
+    "place_id": "ChIJFZnQECrLBDkR71XoIgD_-ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZnQECrLBDkR71XoIgD_-ns",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:07:27"
+  },
+  {
+    "business_name": "Sai Insurance Solutions",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "176084",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dharamsala Rd, Adarsh Colony, Birta, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.1139589,
+    "longitude": 76.28141819999999,
+    "place_id": "ChIJ6-ZGg6JPGzkRNGRRIBZ_sG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-ZGg6JPGzkRNGRRIBZ_sG0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:07:29"
+  }
+]

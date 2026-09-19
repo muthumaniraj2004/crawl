@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kash n' Karry",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "68FG+97C, Upmuhal, Dharamshala, Himachal Pradesh 176215",
+    "area": "Upmuhal",
+    "latitude": 32.2234409,
+    "longitude": 76.3255459,
+    "place_id": "ChIJL6kcyixRGzkRcSBbPpeXpY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6kcyixRGzkRcSBbPpeXpY0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:17:42"
+  },
+  {
+    "business_name": "Naddi Vegetable Shop",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "176216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7823+R78, Naddi, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",
+    "area": "Naddi, McLeod Ganj",
+    "latitude": 32.2520314,
+    "longitude": 76.3031926,
+    "place_id": "ChIJT2Eg9R9XGzkR4pzBQTK9H-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2Eg9R9XGzkR4pzBQTK9H-8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:17:43"
+  }
+]

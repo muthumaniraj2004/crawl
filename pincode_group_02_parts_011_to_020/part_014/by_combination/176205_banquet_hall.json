@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepawali Palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "176205",
+    "phone_number": "+91 98164 18357",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kuthehr, Himachal Pradesh 176210",
+    "area": "176205",
+    "latitude": 32.2039581,
+    "longitude": 76.0536142,
+    "place_id": "ChIJ2RWzWBxnGzkRAz50PpiDQ78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RWzWBxnGzkRAz50PpiDQ78",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:00:40"
+  },
+  {
+    "business_name": "Community Hall Kotla",
+    "search_category": "Banquet Hall",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "176205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "62RW+6RJ, Kotla, Balah, Himachal Pradesh 176205",
+    "area": "Kotla",
+    "latitude": 32.2405975,
+    "longitude": 76.04701899999999,
+    "place_id": "ChIJr1_vhT5hGzkRP1ORHtU0VAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1_vhT5hGzkRP1ORHtU0VAE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:00:40"
+  }
+]

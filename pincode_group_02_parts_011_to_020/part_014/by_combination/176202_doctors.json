@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parkash Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "176202",
+    "phone_number": "+91 80913 31989",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Parkash hospital vpo, teh, Suliali, Nurpur, Himachal Pradesh 176211",
+    "area": "176202",
+    "latitude": 32.3748901,
+    "longitude": 75.887378,
+    "place_id": "ChIJr-AdxN6FHDkREwdSYKJveec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-AdxN6FHDkREwdSYKJveec",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:54:52"
+  },
+  {
+    "business_name": "𝗗𝗿. 𝗣𝗿𝗮𝘃𝗲𝗲𝗻 𝗧𝗵𝗮𝗸𝘂𝗿",
+    "search_category": "Doctors",
+    "primary_category": "Neurosurgeon",
+    "all_categories": "Neurosurgeon",
+    "pincode": "176202",
+    "phone_number": "+91 77278 34376",
+    "website": "https://www.facebook.com/share/1Avq3LqHTR/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "City Hospital, Palampur Rd, opp. Sant Hyundai, Kangra, Ghurkari Khas, Himachal Pradesh 176001",
+    "area": "Kangra",
+    "latitude": 32.1249602,
+    "longitude": 76.29595239999999,
+    "place_id": "ChIJbXvOcChPGzkRFC9JqmNGdtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXvOcChPGzkRFC9JqmNGdtc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:54:52"
+  }
+]

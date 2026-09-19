@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acme Advertising Co",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "176071",
+    "phone_number": "+91 80138 01359",
+    "website": "http://www.acmeadvertiser.com/",
+    "rating": 4.7,
+    "reviews_count": 43,
+    "address": "2nd Floor, Sector 4, A 1/ 23-24, Pocket 1, Sector 4, Rohini, Delhi, 110085",
+    "area": "Pocket 1, Sector 4, Rohini",
+    "latitude": 28.705743199999997,
+    "longitude": 77.1022283,
+    "place_id": "ChIJO_B8FKUGDTkRhg5BX57S0AE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_B8FKUGDTkRhg5BX57S0AE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:53:21"
+  },
+  {
+    "business_name": "JM PUBLICITY INDIA PVT.LTD.",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "176071",
+    "phone_number": "+91 76786 97162",
+    "website": "http://www.jmadvertising.org/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "44A, Jangpura Rd, Bhogal, Jangpura, New Delhi, Delhi 110014",
+    "area": "Bhogal, Jangpura",
+    "latitude": 28.581766,
+    "longitude": 77.250986,
+    "place_id": "ChIJW2scvAfjDDkRGVtAIjwZuO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2scvAfjDDkRGVtAIjwZuO0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:53:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sethi Auto Mobile",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "176091",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V6HF+W66 Deepu Auto Clinic, Dehra Rd, Nehran Pukhar, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "176091",
+    "latitude": 31.8797985,
+    "longitude": 76.22301329999999,
+    "place_id": "ChIJ2XoNwXg5GzkR1PCd34fvQlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XoNwXg5GzkR1PCd34fvQlQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:18:55"
+  },
+  {
+    "business_name": "Onkar autoworks chambi",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "176091",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chambi, Himachal Pradesh 176208",
+    "area": "176091",
+    "latitude": 32.1871493,
+    "longitude": 76.2177255,
+    "place_id": "ChIJHf9hij1bGzkRhfjoUi728oQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHf9hij1bGzkRhfjoUi728oQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:18:55"
+  }
+]

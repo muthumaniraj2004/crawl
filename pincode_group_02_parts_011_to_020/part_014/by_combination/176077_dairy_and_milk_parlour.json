@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehta Amul Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176077",
+    "phone_number": "+91 70188 32081",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Mandi - Pathankot Rd, Baijnath, Himachal Pradesh 176125",
+    "area": "176077",
+    "latitude": 32.0500724,
+    "longitude": 76.64528709999999,
+    "place_id": "ChIJiVg6a-K5BDkRnnZ-hXocIzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVg6a-K5BDkRnnZ-hXocIzc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:59:04"
+  },
+  {
+    "business_name": "Mother Dairy Palampur",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "176077",
+    "phone_number": "+91 1800 180 1018",
+    "website": "https://www.motherdairy.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "4G3M+3PQ, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1027109,
+    "longitude": 76.534373,
+    "place_id": "ChIJN97h1-izBDkRCEik3Rpkllk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN97h1-izBDkRCEik3Rpkllk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:59:06"
+  }
+]

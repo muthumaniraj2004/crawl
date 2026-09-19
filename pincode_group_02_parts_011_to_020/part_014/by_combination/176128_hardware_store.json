@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brijesh Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176128",
+    "phone_number": "+91 89880 88888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Near Police Chownki, vpo. chauntra, Joginder Nagar, Himachal Pradesh 175032",
+    "area": "176128",
+    "latitude": 32.0159871,
+    "longitude": 76.73242379999999,
+    "place_id": "ChIJaU5FzjTHBDkRdQUZEiZ79do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaU5FzjTHBDkRdQUZEiZ79do",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:49:47"
+  },
+  {
+    "business_name": "VERMA TRADERS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Village paniru p.o baag teh lad bharol, distt, Baijnath, Himachal Pradesh 175032",
+    "area": "176128",
+    "latitude": 32.0125933,
+    "longitude": 76.6674061,
+    "place_id": "ChIJ6VxobRy5BDkRc4TvnOaEdsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VxobRy5BDkRc4TvnOaEdsY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:49:47"
+  }
+]

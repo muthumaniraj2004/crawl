@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Fresh Pick",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "176215",
+    "phone_number": "+91 93179 71247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "The Fresh Pick, The City Square, |, Dari, Dharamshala, Hodal, Himachal Pradesh 176215",
+    "area": "|, Dari",
+    "latitude": 32.1941959,
+    "longitude": 76.3459535,
+    "place_id": "ChIJAeddBZ1RGzkR1LUr4buXqJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeddBZ1RGzkR1LUr4buXqJc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:15:51"
+  },
+  {
+    "business_name": "Lajwanti Nursery",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery, Flower delivery, Wholesale plant nursery",
+    "pincode": "176215",
+    "phone_number": "+91 93189 88922",
+    "website": "http://www.lajwantinursery.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "124 Vir Bhawan, ShyamNagar, Dharamshala, Himachal Pradesh 176215",
+    "area": "Ram Nagar",
+    "latitude": 32.215103,
+    "longitude": 76.3211,
+    "place_id": "ChIJF2dx7B5RGzkRThXDkt46YCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2dx7B5RGzkRThXDkt46YCY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:15:52"
+  }
+]

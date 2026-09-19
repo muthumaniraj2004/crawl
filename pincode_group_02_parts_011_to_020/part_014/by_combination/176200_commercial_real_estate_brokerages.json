@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Property",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "176200",
+    "phone_number": "+91 98161 24750",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shamsherpur, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "176200",
+    "latitude": 30.4414108,
+    "longitude": 77.6105925,
+    "place_id": "ChIJhRNO44cjDzkRL4ZsbFUVJ7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRNO44cjDzkRL4ZsbFUVJ7M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:52:17"
+  },
+  {
+    "business_name": "PNR Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "176200",
+    "phone_number": "+91 98676 06869",
+    "website": "http://pnrrealty.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "G- 130, B Wing, EXPRESS ZONE, Western Express Hwy, opp. Reliance Energy, Malad, Panch Bawadi, Malad East, Mumbai, Maharashtra 400097",
+    "area": "Malad, Panch Bawadi, Malad East",
+    "latitude": 19.1764466,
+    "longitude": 72.8582421,
+    "place_id": "ChIJVVWlE-625zsRSRpux7xsVlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWlE-625zsRSRpux7xsVlk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:52:19"
+  }
+]

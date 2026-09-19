@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shamu Canteen",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "176207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "65F4+F4, Dadroli, Himachal Pradesh 176206",
+    "area": "176207",
+    "latitude": 32.2237072,
+    "longitude": 76.1553443,
+    "place_id": "ChIJpSzZW-NfGzkRHnBZ79lSc8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSzZW-NfGzkRHnBZ79lSc8c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:03:24"
+  },
+  {
+    "business_name": "Jaram Tea house Trilokpur nh 154",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mandi - Pathankot Rd, Tilok Nath, Himachal Pradesh 176225",
+    "area": "176207",
+    "latitude": 32.2284752,
+    "longitude": 76.07232549999999,
+    "place_id": "ChIJvXAvyOBhGzkRsz_RefZpqfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXAvyOBhGzkRsz_RefZpqfg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:03:24"
+  }
+]

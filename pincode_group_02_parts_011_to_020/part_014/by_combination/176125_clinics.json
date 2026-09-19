@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Centre",
+    "search_category": "Clinics",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "176125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2JQR+QWQ, Ustehr, Himachal Pradesh 176125",
+    "area": "176125",
+    "latitude": 32.0394521,
+    "longitude": 76.64237159999999,
+    "place_id": "ChIJbwwTwh25BDkRUJZ_96OdAI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwwTwh25BDkRUJZ_96OdAI8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:47:39"
+  },
+  {
+    "business_name": "Kumar Clinics",
+    "search_category": "Clinics",
+    "primary_category": "Occupational medical physician",
+    "all_categories": "Occupational medical physician",
+    "pincode": "176125",
+    "phone_number": "+91 94187 30787",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazar, Baijnath, Himachal Pradesh 176125",
+    "area": "176125",
+    "latitude": 32.0500617,
+    "longitude": 76.6454815,
+    "place_id": "ChIJDYC-2UC5BDkRokZMIdMFi1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYC-2UC5BDkRokZMIdMFi1A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:47:39"
+  }
+]

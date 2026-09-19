@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshi General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Store",
+    "pincode": "176115",
+    "phone_number": "+91 85859 06685",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Chakol, Nohra, Baijnath Nohra, Baijnath, Himachal Pradesh 176125",
+    "area": "176115",
+    "latitude": 32.021122399999996,
+    "longitude": 76.6428543,
+    "place_id": "ChIJE_GBFgC5BDkR5CHpwRy_Ty0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_GBFgC5BDkR5CHpwRy_Ty0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:30"
+  },
+  {
+    "business_name": "Awasthi General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176115",
+    "phone_number": "+91 82199 90156",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "168, Baijnath, Himachal Pradesh 176125",
+    "area": "176115",
+    "latitude": 32.0499832,
+    "longitude": 76.6440089,
+    "place_id": "ChIJ7YdG8Ra5BDkR1d6bLOaY_zY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YdG8Ra5BDkR1d6bLOaY_zY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:45:30"
+  }
+]

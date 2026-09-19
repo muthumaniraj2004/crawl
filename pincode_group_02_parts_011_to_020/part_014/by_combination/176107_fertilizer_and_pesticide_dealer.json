@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orchard Enterprises",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer, Agricultural service, Agricultural Seed Store",
+    "pincode": "176107",
+    "phone_number": "+91 80 3592 9084",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Ram Bhag, Akhara Bazar, Main Road, Himachal Pradesh 175101",
+    "area": "Akhara",
+    "latitude": 31.9630965,
+    "longitude": 77.1149063,
+    "place_id": "ChIJs59HTaX3BDkR_WYh97J9rKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs59HTaX3BDkR_WYh97J9rKA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:38:20"
+  },
+  {
+    "business_name": "Pesticides and insecticide",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agrochemicals Supplier",
+    "all_categories": "Agrochemicals Supplier",
+    "pincode": "176107",
+    "phone_number": "+91 80992 00003",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vpo, Ratnari, Himachal Pradesh 171225",
+    "area": "Vpo",
+    "latitude": 31.2266685,
+    "longitude": 77.530413,
+    "place_id": "ChIJrdfoui2TBTkRB0LzfAKVibI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdfoui2TBTkRB0LzfAKVibI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:38:20"
+  }
+]

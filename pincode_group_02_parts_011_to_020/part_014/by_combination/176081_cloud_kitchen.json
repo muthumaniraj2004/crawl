@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176081",
+    "phone_number": "+91 89284 12108",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 59,
+    "address": "Flat 5C, Fifth Floor, Ma Tara Enclave, 89/6, Vivekananda Rd, near Radhika Town School Ground, Kali Tala, Bangur Park, Rishra, West Bengal 712248",
+    "area": "Kali Tala, Bangur Park, Rishra",
+    "latitude": 22.722495,
+    "longitude": 88.3453808,
+    "place_id": "ChIJ-fHNIyyb-DkRrppsHdBuJHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fHNIyyb-DkRrppsHdBuJHg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:01:05"
+  },
+  {
+    "business_name": "Epicurean The Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176081",
+    "phone_number": "+91 77808 86778",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 128,
+    "address": "Vishal Nagar, Talab Tillo, Jammu, Jammu and Kashmir 180002",
+    "area": "Vishal Nagar, Talab Tillo",
+    "latitude": 32.7351464,
+    "longitude": 74.8296718,
+    "place_id": "ChIJ0U0IOeGFHjkRW6MsRUYFErE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U0IOeGFHjkRW6MsRUYFErE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:01:05"
+  }
+]

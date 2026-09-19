@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Kelsang Dhonden Sorig Herbal Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176092",
+    "phone_number": "+91 189 222 1461",
+    "website": "https://sorigherbalclinic.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "68PF+XM9 Ashoka Niwas, Jogiwara Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176219",
+    "area": "McLeod Ganj",
+    "latitude": 32.229033699999995,
+    "longitude": 76.3259882,
+    "place_id": "ChIJ705AnC5RGzkRZ8x7t6oZgoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ705AnC5RGzkRZ8x7t6oZgoQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:23"
+  },
+  {
+    "business_name": "Sorig Tibetan herbal clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176092",
+    "phone_number": "+91 98160 88742",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Major District Road 45, Chakban Gharo, Himachal Pradesh 176217",
+    "area": "176092",
+    "latitude": 32.2125832,
+    "longitude": 76.29008979999999,
+    "place_id": "ChIJwxh2t5VQGzkRvdu3V9WyT9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxh2t5VQGzkRvdu3V9WyT9U",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:24"
+  }
+]

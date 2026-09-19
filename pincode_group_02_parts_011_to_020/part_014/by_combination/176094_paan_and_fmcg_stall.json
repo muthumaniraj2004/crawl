@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punj Confectionary",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176094",
+    "phone_number": "+91 89880 48513",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "1 Saproon Bypas, Saproon, Solan, Himachal Pradesh 173212",
+    "area": "The Mall, Saproon",
+    "latitude": 30.907656699999997,
+    "longitude": 77.0936164,
+    "place_id": "ChIJAU17uDCHDzkRRzFSjxgGDM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAU17uDCHDzkRRzFSjxgGDM8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:23:18"
+  },
+  {
+    "business_name": "Shashi Pansari",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176094",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Baba Rudru Rd, Una, Nari, Himachal Pradesh 174303",
+    "area": "176094",
+    "latitude": 31.525306299999997,
+    "longitude": 76.23853989999999,
+    "place_id": "ChIJdzLgytTZGjkRL52_xczi4os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzLgytTZGjkRL52_xczi4os",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:23:18"
+  }
+]

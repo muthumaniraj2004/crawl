@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoe Camp",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176095",
+    "phone_number": "+91 78294 00001",
+    "website": "https://www.facebook.com/shoecampjal",
+    "rating": 4.4,
+    "reviews_count": 123,
+    "address": "Bazar Sheikhan, Ali Mohalla, Jalandhar, Punjab 144001",
+    "area": "Bazar Sheikhan, Ali Mohalla",
+    "latitude": 31.3294832,
+    "longitude": 75.5751105,
+    "place_id": "ChIJvWOR7F9aGjkRCwK1uMGWYN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWOR7F9aGjkRCwK1uMGWYN8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:25:11"
+  },
+  {
+    "business_name": "Shoe Love",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176095",
+    "phone_number": "+91 98727 47799",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 114,
+    "address": "1, Ishmeet Singh Rd, Shastri Nagar, Model Town, Ludhiana, Punjab 141002",
+    "area": "Shastri Nagar, Model Town",
+    "latitude": 30.8890909,
+    "longitude": 75.83642499999999,
+    "place_id": "ChIJhcM2U7ODGjkRzx2rzBRfIvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcM2U7ODGjkRzx2rzBRfIvE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:25:11"
+  }
+]

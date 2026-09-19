@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "176204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6V73+6JM, Mehta, Himachal Pradesh 176204",
+    "area": "176204",
+    "latitude": 32.2130876,
+    "longitude": 75.85404869999999,
+    "place_id": "ChIJ73dIePV8GzkRPazI_CEP-nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73dIePV8GzkRPazI_CEP-nE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:57:58"
+  },
+  {
+    "business_name": "Flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "176204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6VQ4+QF4, Bhatoli Lamian, Himachal Pradesh 176204",
+    "area": "176204",
+    "latitude": 32.239378699999996,
+    "longitude": 75.856212,
+    "place_id": "ChIJYVU9SNF9GzkRMjJMEG2PPE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVU9SNF9GzkRMjJMEG2PPE0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:58:00"
+  }
+]

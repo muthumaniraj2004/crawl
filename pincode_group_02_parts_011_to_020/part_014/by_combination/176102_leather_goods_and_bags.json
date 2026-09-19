@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather Junction",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Bag shop, Leather goods store",
+    "pincode": "176102",
+    "phone_number": "+91 79805 04944",
+    "website": "https://leatherjunction.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Picnic Garden, Tiljala, Kolkata, West Bengal 700039",
+    "area": "Picnic Garden, Tiljala",
+    "latitude": 22.5302395,
+    "longitude": 88.38037299999999,
+    "place_id": "ChIJuWs_TAB3AjoRrhNipITFekw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWs_TAB3AjoRrhNipITFekw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:36"
+  },
+  {
+    "business_name": "Leather Junction",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather wholesaler",
+    "all_categories": "Leather wholesaler",
+    "pincode": "176102",
+    "phone_number": "N/A",
+    "website": "https://leatherjunction.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 536, near Health center, Sector 2, VIP Nagar, Kolkata, West Bengal 700100",
+    "area": "Sector 2, VIP Nagar",
+    "latitude": 22.524947599999997,
+    "longitude": 88.39931469999999,
+    "place_id": "ChIJAQAAEKl2AjoRdtWoZmSIijU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAEKl2AjoRdtWoZmSIijU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:36"
+  }
+]

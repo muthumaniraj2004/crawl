@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Regal Metal Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Aluminum welder",
+    "all_categories": "Aluminum welder, Machine shop, Metal fabricator, Powder coating service, Welder",
+    "pincode": "176210",
+    "phone_number": "N/A",
+    "website": "http://www.regalmetalworks.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "601 Walnut Alley, New Cumberland, PA 17070, United States",
+    "area": "176210",
+    "latitude": 40.230959899999995,
+    "longitude": -76.867227,
+    "place_id": "ChIJKYb_MkrAyIkRtKUhy-ZlVCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYb_MkrAyIkRtKUhy-ZlVCo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:06"
+  },
+  {
+    "business_name": "DVH Metals",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "176210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9932 Buchanan Trail W, Mercersburg, PA 17236, United States",
+    "area": "176210",
+    "latitude": 39.808533499999996,
+    "longitude": -77.8794729,
+    "place_id": "ChIJy9IFx6iRyYkR59-o0SUSil4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9IFx6iRyYkR59-o0SUSil4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:10:06"
+  }
+]

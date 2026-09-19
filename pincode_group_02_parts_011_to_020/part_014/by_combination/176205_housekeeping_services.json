@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Just Kleen Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "176205",
+    "phone_number": "+91 82888 79759",
+    "website": "https://justkleenservices.com/",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "sector 82 a, Marbella Grand, G-1003, Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.648182799999997,
+    "longitude": 76.74101859999999,
+    "place_id": "ChIJTewolufrDzkRPbWZaqWg1CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTewolufrDzkRPbWZaqWg1CQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:01:07"
+  },
+  {
+    "business_name": "Ekatra Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services, Pest control service, Sanitation service, Water Tank Cleaners",
+    "pincode": "176205",
+    "phone_number": "+91 70066 18098",
+    "website": "http://www.ekatraservices.com/",
+    "rating": 4.5,
+    "reviews_count": 69,
+    "address": "no 7, 194-B, Lane, Ram Vihar, Janipur, Jammu, Jammu and Kashmir 180007",
+    "area": "Ram Vihar, Janipur",
+    "latitude": 32.7556874,
+    "longitude": 74.846751,
+    "place_id": "ChIJ9ZgZVDKFHjkRTmpSNAT8qi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZgZVDKFHjkRTmpSNAT8qi4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:01:07"
+  }
+]

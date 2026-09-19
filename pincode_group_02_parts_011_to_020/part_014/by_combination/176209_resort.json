@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angels Inn Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Event venue, Fine dining restaurant, Inn, Party planner, Resort hotel, Restaurant, Swimming pool",
+    "pincode": "176209",
+    "phone_number": "+91 84377 19061",
+    "website": "http://www.angelsinnresorts.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Khanyara Rd, Tahu, Himachal Pradesh 176215",
+    "area": "176209",
+    "latitude": 32.2175876,
+    "longitude": 76.33288739999999,
+    "place_id": "ChIJ17KHh6xRGzkRlclJnzQEApY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17KHh6xRGzkRlclJnzQEApY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:55"
+  },
+  {
+    "business_name": "Imperial Heights Dharamshala",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "176209",
+    "phone_number": "+91 94599 00702",
+    "website": "https://www.imperialheights.com/",
+    "rating": 4.1,
+    "reviews_count": 677,
+    "address": "Khanyara Rd, Dharamshala, Sokani Da Kot, Himachal Pradesh 176215",
+    "area": "176209",
+    "latitude": 32.2085173,
+    "longitude": 76.3691982,
+    "place_id": "ChIJO8-iAiFRGzkRhCyfD0aDCI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8-iAiFRGzkRhCyfD0aDCI4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:57"
+  }
+]

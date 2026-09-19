@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chowan",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176086",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "WG9W+WX8, Unnamed Road, Chowan, Sai, Himachal Pradesh 176096",
+    "area": "176086",
+    "latitude": 31.919778299999997,
+    "longitude": 76.5474617,
+    "place_id": "ChIJ5bm4AtXLBDkRieBwaIzh7j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bm4AtXLBDkRieBwaIzh7j4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:09:33"
+  },
+  {
+    "business_name": "J M D BAKERY",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Bakery and Cake Shop",
+    "pincode": "176086",
+    "phone_number": "+91 98056 59391",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Khera, Khaira Uparla, Himachal Pradesh 176086",
+    "area": "176086",
+    "latitude": 31.9899055,
+    "longitude": 76.52930119999999,
+    "place_id": "ChIJZc8keAzKBDkRzxDBM9DLdew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZc8keAzKBDkRzxDBM9DLdew",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:09:34"
+  }
+]

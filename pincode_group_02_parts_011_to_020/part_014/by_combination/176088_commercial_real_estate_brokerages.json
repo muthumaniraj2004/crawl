@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mid Penn Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Real estate agent",
+    "pincode": "176088",
+    "phone_number": "N/A",
+    "website": "https://midpennrealty.com/",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "128 W Main St Ste 101, Bloomsburg, PA 17815, United States",
+    "area": "176088",
+    "latitude": 41.001979,
+    "longitude": -76.458742,
+    "place_id": "ChIJw3-YgXOHxYkRQcPhpOtQcEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3-YgXOHxYkRQcPhpOtQcEE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:14:34"
+  },
+  {
+    "business_name": "John Rainville, BrokersRealty.com",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "176088",
+    "phone_number": "N/A",
+    "website": "https://www.johnrainville.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "610 Lowther Rd, Lewisberry, PA 17339, United States",
+    "area": "176088",
+    "latitude": 40.1705088,
+    "longitude": -76.83202539999999,
+    "place_id": "ChIJYYZ3lLzryIkRYKtEHC-VuUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYZ3lLzryIkRYKtEHC-VuUA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:14:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRIVATSA",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "176216",
+    "phone_number": "+91 189 222 1234",
+    "website": "https://www.hyatt.com/hyatt-regency/en-US/dhmrm-hyatt-regency-dharamshala-resort/meetings",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hyatt Regency, Village Dharamkot, Resort, Dharamshala, Himachal Pradesh 176215",
+    "area": "Village Dharamkot, Resort",
+    "latitude": 32.2429117,
+    "longitude": 76.3274289,
+    "place_id": "ChIJAxByp7hXGzkRFheQhbJYJs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxByp7hXGzkRFheQhbJYJs4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:18:44"
+  },
+  {
+    "business_name": "Shani Marriage Palace Lower Sunhet",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "176216",
+    "phone_number": "+91 98052 71636",
+    "website": "https://www.radiantus.buzz/wedding",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shani marriage palace lohar, near Shani dev mandir lohar, Sunhet, Dehra Gopipur, Himachal Pradesh 177104",
+    "area": "Sunhet",
+    "latitude": 31.861141,
+    "longitude": 76.2341418,
+    "place_id": "ChIJbVenMhg7GzkRgvSeafAgRPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVenMhg7GzkRgvSeafAgRPA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:18:45"
+  }
+]

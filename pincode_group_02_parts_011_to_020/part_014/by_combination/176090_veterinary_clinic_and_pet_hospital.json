@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary Hospital & Animal Husbandry Office",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Veterans hospital",
+    "pincode": "176090",
+    "phone_number": "+91 1905 223 077",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 28,
+    "address": "PW3M+4X2, Mangvayin, Mandi, Himachal Pradesh 175001",
+    "area": "Mangvayin",
+    "latitude": 31.702756299999997,
+    "longitude": 76.93487879999999,
+    "place_id": "ChIJt4UiAxbiBDkRfAmaPXpSvUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4UiAxbiBDkRfAmaPXpSvUI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:17:03"
+  },
+  {
+    "business_name": "LakeSyde Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "176090",
+    "phone_number": "+91 98729 87235",
+    "website": "https://swoofi.app/VetWebsitePreview?vet_id=6a13ffa401f5f1e3a7e47f4c",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No - 106, Inner Market, Bay, Sector 7-C, Chandigarh, 160019",
+    "area": "Sector 7-C, Sector 7",
+    "latitude": 30.733834599999998,
+    "longitude": 76.8027123,
+    "place_id": "ChIJVzgHKfvtDzkROLDdxcnw308",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzgHKfvtDzkROLDdxcnw308",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

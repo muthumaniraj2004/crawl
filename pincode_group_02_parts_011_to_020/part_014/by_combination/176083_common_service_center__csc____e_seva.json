@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "176083",
+    "phone_number": "+91 98037 28852",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPO SIHUNTA, Distt, Chamba, Himachal Pradesh 176207",
+    "area": "176083",
+    "latitude": 32.3019971,
+    "longitude": 76.0887333,
+    "place_id": "ChIJQyo4gS1fGzkRoqOaz8MxSPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyo4gS1fGzkRoqOaz8MxSPE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:05:34"
+  },
+  {
+    "business_name": "Csc Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "176083",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2FJ7+M98, Palampur, Kural, Himachal Pradesh 176083",
+    "area": "176083",
+    "latitude": 32.0316633,
+    "longitude": 76.46344669999999,
+    "place_id": "ChIJQdmWVwC1BDkRFYNrTZp31Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdmWVwC1BDkRFYNrTZp31Lo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:05:36"
+  }
+]

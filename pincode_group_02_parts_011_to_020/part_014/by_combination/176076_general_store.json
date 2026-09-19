@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176076",
+    "phone_number": "+91 78767 71050",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2JHV+CRF, Chakol, Himachal Pradesh 176125",
+    "area": "176076",
+    "latitude": 32.0289419,
+    "longitude": 76.6447189,
+    "place_id": "ChIJjazCTAC5BDkRkJJIjYttBI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjazCTAC5BDkRkJJIjYttBI0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:21"
+  },
+  {
+    "business_name": "Milap General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176076",
+    "phone_number": "+91 98827 06750",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kandi, Baijnath, Himachal Pradesh 176115",
+    "area": "176076",
+    "latitude": 32.0545939,
+    "longitude": 76.6428256,
+    "place_id": "ChIJ5dxhBhO5BDkRGjr-j9Oy6P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dxhBhO5BDkRGjr-j9Oy6P4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:21"
+  }
+]

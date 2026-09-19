@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Total Hospitality International (THI Hospitality Consultants Pvt. Ltd)",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "176108",
+    "phone_number": "+91 94409 44111",
+    "website": "http://thiconsultant.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rd Number 15/2, Vasanth Nagar, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Vasanth Nagar, Kukatpally",
+    "latitude": 17.493453799999997,
+    "longitude": 78.3837879,
+    "place_id": "ChIJUU8XIMaQyzsRwTJy0sUHPoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUU8XIMaQyzsRwTJy0sUHPoc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:39:38"
+  },
+  {
+    "business_name": "RB Hotel Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "176108",
+    "phone_number": "+91 96902 27009",
+    "website": "https://www.rbhotelconsultants.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RB Hotel Consultants, 176108, India",
+    "area": "176108",
+    "latitude": 23.001548399999997,
+    "longitude": 5.1233103,
+    "place_id": "ChIJcUPIXKuWvakRq_UAfqRCSEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUPIXKuWvakRq_UAfqRCSEA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:39:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay cement store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176076",
+    "phone_number": "+91 88943 91421",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "2J6H+P9R, Langhu, Himachal Pradesh 176125",
+    "area": "176076",
+    "latitude": 32.0118627,
+    "longitude": 76.6283993,
+    "place_id": "ChIJUXaNoOS3BDkRD4IZDIyGLaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXaNoOS3BDkRD4IZDIyGLaY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:58:04"
+  },
+  {
+    "business_name": "MRD ENTERPRISES BHUANA",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "176076",
+    "phone_number": "+91 94182 24826",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashapuri Rd, killi, Bhuana, Gher, Himachal Pradesh 176076",
+    "area": "killi",
+    "latitude": 32.001957,
+    "longitude": 76.6033848,
+    "place_id": "ChIJkwTZH-zJBDkR7xmvU610heE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwTZH-zJBDkR7xmvU610heE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:58:04"
+  }
+]

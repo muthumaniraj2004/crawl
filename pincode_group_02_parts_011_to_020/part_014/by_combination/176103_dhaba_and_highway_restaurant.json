@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satvik Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "176103",
+    "phone_number": "+91 82199 68640",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "J4RF+9F4, Chandigarh-Chintapurni-Dharamshala Rd, Amb, Badaun, Himachal Pradesh 177211",
+    "area": "176103",
+    "latitude": 31.6408842,
+    "longitude": 76.12370469999999,
+    "place_id": "ChIJrWcA-6whGzkRyASQ37OMLyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWcA-6whGzkRyASQ37OMLyI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:35:12"
+  },
+  {
+    "business_name": "Himalaya Vaishno Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "176103",
+    "phone_number": "+91 98161 82609",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Hoshiarpur Road ,Gagret, near Hp Petrol Pump, Gagret, Himachal Pradesh 177201",
+    "area": "176103",
+    "latitude": 31.655538699999997,
+    "longitude": 76.0517176,
+    "place_id": "ChIJdQpoJj0fGzkRy9UupDSADto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQpoJj0fGzkRy9UupDSADto",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:35:12"
+  }
+]

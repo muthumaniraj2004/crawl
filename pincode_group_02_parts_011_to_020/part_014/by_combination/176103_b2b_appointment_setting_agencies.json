@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kestone",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "176103",
+    "phone_number": "+91 11 4050 8888",
+    "website": "https://kestoneglobal.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "1st Floor, Pash Building, A45, Block B, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block B, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.520429999999998,
+    "longitude": 77.29246599999999,
+    "place_id": "ChIJq6qqqmHhDDkRqexJulfiLh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqmHhDDkRqexJulfiLh8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:36:43"
+  },
+  {
+    "business_name": "Thermosun Engineering and Power India Pvt. Ltd.",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Solar Energy Company",
+    "all_categories": "Solar Energy Company, Energy equipment and solutions, Solar energy system service, Solar energy equipment supplier, Solar panel maintenance service, Solar photovoltaic power plant",
+    "pincode": "176103",
+    "phone_number": "+91 80779 14097",
+    "website": "https://thermosun.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st Floor, D-2/208, Savitri Nagar, Savitri Nagar Village, Sheikh Sarai, New Delhi, Delhi 110017",
+    "area": "Savitri Nagar, Savitri Nagar Village, Sheikh Sarai",
+    "latitude": 28.540034,
+    "longitude": 77.22037,
+    "place_id": "ChIJFayv3xjiDDkRyKgzEXPQ_3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFayv3xjiDDkRyKgzEXPQ_3I",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:36:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Logbaag Stays, Bir",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Home Stay",
+    "pincode": "176128",
+    "phone_number": "+91 88592 50956",
+    "website": "https://logbaag.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhairu Chowk, Stain, Ahju, Bir, Himachal Pradesh 175032",
+    "area": "Stain",
+    "latitude": 32.029627,
+    "longitude": 76.70687319999999,
+    "place_id": "ChIJ9eJhF7-5BDkRHAYSqvQkN6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eJhF7-5BDkRHAYSqvQkN6k",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:50:06"
+  },
+  {
+    "business_name": "The Hosteller Rishikesh, Ganges",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "176128",
+    "phone_number": "+91 98101 87717",
+    "website": "https://www.thehosteller.com/hostels/the-hosteller-rishikesh-ganges",
+    "rating": 4.7,
+    "reviews_count": 5815,
+    "address": "Dharam Yatri Niwas, PO, Laxman Jhula, LJ, Rishikesh, Uttarakhand 249302",
+    "area": "Laxman Jhula",
+    "latitude": 30.124638599999997,
+    "longitude": 78.3306315,
+    "place_id": "ChIJg8bQX5UXCTkRRMNTep_NWeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8bQX5UXCTkRRMNTep_NWeo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:50:08"
+  }
+]

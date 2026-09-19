@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonal's Craft Shed",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "176115",
+    "phone_number": "+91 93129 47899",
+    "website": "http://www.craftshed.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no Ground Floor, Spectrum Metro, 9b 10a, Gardenia Gateway, Sector 75, Noida, Uttar Pradesh 201316",
+    "area": "Gardenia Gateway, Sector 75",
+    "latitude": 28.572742899999998,
+    "longitude": 77.3793925,
+    "place_id": "ChIJPdIvGYnlDDkRFJv69ez6G3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdIvGYnlDDkRFJv69ez6G3Y",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:46:32"
+  },
+  {
+    "business_name": "EVOK SPACES / Godrej Interio",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Carpet store",
+    "pincode": "176115",
+    "phone_number": "+91 98160 07124",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Dharamsala Rd, Kangra, Birta, Himachal Pradesh 176001",
+    "area": "176115",
+    "latitude": 32.120097,
+    "longitude": 76.2860661,
+    "place_id": "ChIJsRpz62pPGzkR3SBOg2e80-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRpz62pPGzkR3SBOg2e80-Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:46:33"
+  }
+]

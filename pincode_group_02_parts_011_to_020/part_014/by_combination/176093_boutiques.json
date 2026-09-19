@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rrose petalls boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "176093",
+    "phone_number": "+91 79860 95151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 60, Phase 1, omaxe Omaxe, New Chandigarh, Punjab 140901",
+    "area": "176093",
+    "latitude": 30.812726899999998,
+    "longitude": 76.7022649,
+    "place_id": "ChIJ2Z58P7vxDzkR3BPcWYm4wFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Z58P7vxDzkR3BPcWYm4wFs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:56"
+  },
+  {
+    "business_name": "Pink Rose Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "176093",
+    "phone_number": "+91 99884 42372",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Booth no 96, Janta market, sce 27 D, D, Sector 27D, Sector 27, Chandigarh, 160019",
+    "area": "Sector 27D, Sector 27",
+    "latitude": 30.7244703,
+    "longitude": 76.7967681,
+    "place_id": "ChIJbyTX1-LtDzkRMIQ7n8AG18c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyTX1-LtDzkRMIQ7n8AG18c",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:56"
+  }
+]

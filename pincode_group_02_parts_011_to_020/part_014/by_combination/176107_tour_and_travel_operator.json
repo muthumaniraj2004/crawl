@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay tour and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176107",
+    "phone_number": "+91 98163 98737",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thural, Halun, Himachal Pradesh 176107",
+    "area": "176107",
+    "latitude": 31.925765799999997,
+    "longitude": 76.4597445,
+    "place_id": "ChIJYYMcBzfLBDkROD0Q435DiBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYMcBzfLBDkROD0Q435DiBM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:37:27"
+  },
+  {
+    "business_name": "Himalyan tour and travels (कुमेर कटोच))",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "176107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V.P.O, Thural, Palampur, Himachal Pradesh 176107",
+    "area": "176107",
+    "latitude": 31.9244286,
+    "longitude": 76.4585531,
+    "place_id": "ChIJuZNo1SDLBDkRjGTjcs41TgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZNo1SDLBDkRjGTjcs41TgI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:37:27"
+  }
+]

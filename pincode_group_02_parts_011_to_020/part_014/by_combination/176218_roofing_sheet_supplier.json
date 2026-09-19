@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Martin's Roofing LLC",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Roofing contractor",
+    "all_categories": "Roofing contractor, Building materials store",
+    "pincode": "176218",
+    "phone_number": "N/A",
+    "website": "https://martinsmetalroofing.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "260 Walnut Bottom Rd, Shippensburg, PA 17257, United States",
+    "area": "176218",
+    "latitude": 40.0634313,
+    "longitude": -77.4681545,
+    "place_id": "ChIJE3hF3JwOyYkR6U-3HoXmhas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3hF3JwOyYkR6U-3HoXmhas",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:22:18"
+  },
+  {
+    "business_name": "SHREE VINAYAK STEELS",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "176218",
+    "phone_number": "+91 98293 23737",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "HVR2+W38, Madanganj, Kishangarh, Rajasthan 305801",
+    "area": "Madanganj",
+    "latitude": 26.5922891,
+    "longitude": 74.8501969,
+    "place_id": "ChIJU7SebznxazkRDzSDaPkUJmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7SebznxazkRDzSDaPkUJmQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:22:19"
+  }
+]

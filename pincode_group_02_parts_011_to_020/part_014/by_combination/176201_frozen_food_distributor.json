@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharti Mega Mart",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Cell phone accessory store, Confectionery store, Dairy store, Grocery store, Grocery delivery service, Ice cream shop, Indian grocery store, Pen store, Pet store",
+    "pincode": "176201",
+    "phone_number": "+91 95927 76600",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "468, New Shastri Nagar, Shastri Nagar, Pathankot, Punjab 145001",
+    "area": "New Shastri Nagar, Shastri Nagar",
+    "latitude": 32.2795626,
+    "longitude": 75.6400507,
+    "place_id": "ChIJH4VqME1_HDkRkH2bA5u1BxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4VqME1_HDkRkH2bA5u1BxQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:52:43"
+  },
+  {
+    "business_name": "Reliance SMART Bazaar",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "176201",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-hypermarket-dalhousie-road-pathankot-279857/Home",
+    "rating": 3.6,
+    "reviews_count": 52,
+    "address": "Novelty Mall, Mamun, Pathankot, Punjab 145001",
+    "area": "Mamun",
+    "latitude": 32.2752578,
+    "longitude": 75.6972859,
+    "place_id": "ChIJ3zCS8QN_HDkRya9f6cdZrCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zCS8QN_HDkRya9f6cdZrCs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:52:44"
+  }
+]

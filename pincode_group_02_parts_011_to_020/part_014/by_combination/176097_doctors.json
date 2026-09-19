@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jangal Beri Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176097",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "VHC9+437, Himachal Pradesh 176109",
+    "area": "176097",
+    "latitude": 31.8702956,
+    "longitude": 76.5676687,
+    "place_id": "ChIJk584k4vOBDkROeTcK23WIeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk584k4vOBDkROeTcK23WIeY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:28:38"
+  },
+  {
+    "business_name": "Life Line Laboratory",
+    "search_category": "Doctors",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory, Ophthalmologist",
+    "pincode": "176097",
+    "phone_number": "+91 98161 71512",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Primary Health Center, Jangal Beri, Tira Sujanpur, Himachal Pradesh 176109",
+    "area": "176097",
+    "latitude": 31.8707739,
+    "longitude": 76.5675474,
+    "place_id": "ChIJQzrPBADPBDkRvXRk_4aMrBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzrPBADPBDkRvXRk_4aMrBk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:28:39"
+  }
+]

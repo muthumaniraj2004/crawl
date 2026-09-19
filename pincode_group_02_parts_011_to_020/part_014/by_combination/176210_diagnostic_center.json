@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshay medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176210",
+    "phone_number": "+91 82192 49467",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Durana, Khairian, Himachal Pradesh 176210",
+    "area": "176210",
+    "latitude": 32.1625861,
+    "longitude": 76.0929894,
+    "place_id": "ChIJl_VjT_VdGzkRpUNItxg6oYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_VjT_VdGzkRpUNItxg6oYo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:09:05"
+  },
+  {
+    "business_name": "Kamlesh diagnostic Lab",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory, Hospital",
+    "pincode": "176210",
+    "phone_number": "+91 98577 84584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Civil hospital road, Lab, Jawali, Himachal Pradesh 176023",
+    "area": "Lab",
+    "latitude": 32.1426955,
+    "longitude": 76.0135237,
+    "place_id": "ChIJudAAQ2pmGzkRBMxBvdD2l7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudAAQ2pmGzkRBMxBvdD2l7Y",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:09:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Costa Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176208",
+    "phone_number": "+91 87916 98552",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "road, Patti modha, Begampur, Kanth, Uttar Pradesh 244501",
+    "area": "Patti modha",
+    "latitude": 29.0647323,
+    "longitude": 78.6343464,
+    "place_id": "ChIJgWS0rOitCzkRS8ff1GEGqpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWS0rOitCzkRS8ff1GEGqpk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:15"
+  },
+  {
+    "business_name": "Gopal ji Chat bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "176208",
+    "phone_number": "+91 98379 33111",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Deen Dayal Nagar - 1, DM 52, Sri Sai Mandir Rd, Moradabad, Uttar Pradesh 244105",
+    "area": "H.I.G., Deen Dayal Nagar-I",
+    "latitude": 28.8649533,
+    "longitude": 78.7508735,
+    "place_id": "ChIJk8s_lU35CjkRut60iZFWEH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8s_lU35CjkRut60iZFWEH0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:16"
+  }
+]

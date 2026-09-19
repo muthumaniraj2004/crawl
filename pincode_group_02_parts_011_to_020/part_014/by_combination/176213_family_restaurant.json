@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Doon Food Van Manufacturer",
+    "search_category": "Family Restaurant",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "176213",
+    "phone_number": "+91 82793 94308",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jivaredi, Shimla Bypass Rd, near IDBI Bank, Dehradun, Uttarakhand 248007",
+    "area": "176213",
+    "latitude": 30.2981804,
+    "longitude": 77.93885209999999,
+    "place_id": "ChIJF4S4224pDzkRjDkjxGuzFLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4S4224pDzkRjDkjxGuzFLo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:12:26"
+  },
+  {
+    "business_name": "Machinery Hub",
+    "search_category": "Family Restaurant",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Corporate office",
+    "pincode": "176213",
+    "phone_number": "+91 99102 05064",
+    "website": "https://www.machineryhub.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Plot no 23/17 Matiyala Village, near Old Achar Factory, Uttam Nagar, Delhi, 110059",
+    "area": "Block D, Uttam Nagar",
+    "latitude": 28.6113315,
+    "longitude": 77.0447125,
+    "place_id": "ChIJuep64TcFDTkRxJxkrwaoKd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuep64TcFDTkRxJxkrwaoKd8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:12:26"
+  }
+]

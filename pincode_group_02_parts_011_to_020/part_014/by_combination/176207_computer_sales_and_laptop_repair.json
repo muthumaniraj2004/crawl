@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dell - Exclusive store",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "176207",
+    "phone_number": "+91 92185 00924",
+    "website": "http://www.sunshinecomputer.co.in/",
+    "rating": 4.9,
+    "reviews_count": 556,
+    "address": "NH-72 Near Sri Vishwakarma Chowk, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "Main Bazar",
+    "latitude": 30.4387032,
+    "longitude": 77.6258639,
+    "place_id": "ChIJdW0LJqEjDzkR9loZl0PfGBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdW0LJqEjDzkR9loZl0PfGBA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:33"
+  },
+  {
+    "business_name": "Mobiles & Laptops Care",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer Hardware Company, Computer store, Computer service, Computer software store, Computer Wholesaler, Mobile phone repair shop, Used computer store",
+    "pincode": "176207",
+    "phone_number": "+91 90281 43999",
+    "website": "http://mobileslaptopscare.nowfloats.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Malegon - Nampur Rd, opposite DYSP Bungalow, Camp, Malegaon, Maharashtra 423105",
+    "area": "Camp",
+    "latitude": 20.5712179,
+    "longitude": 74.50748589999999,
+    "place_id": "ChIJkf__D_GZ3jsRN5nKdJDB2RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkf__D_GZ3jsRN5nKdJDB2RU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:04:35"
+  }
+]

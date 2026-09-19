@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thor",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food restaurant",
+    "all_categories": "Health food restaurant, Cafe, Nutritionist, Restaurant, Sports nutrition store",
+    "pincode": "176215",
+    "phone_number": "+91 98050 50279",
+    "website": "http://thorexpress.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "old chari, road, Kotwali Bazar Rd, near Lenskart showroom, Loharkadi Upper Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Loharkadi Upper Sudher",
+    "latitude": 32.221392699999996,
+    "longitude": 76.31784739999999,
+    "place_id": "ChIJoeqrDKRRGzkRRRUyPaNoDbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeqrDKRRGzkRRRUyPaNoDbo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:15:50"
+  },
+  {
+    "business_name": "MUSCLEUP NUTRITION - SIDHBARI (DHARAMSHALA)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Vitamin & supplements store",
+    "all_categories": "Vitamin & supplements store",
+    "pincode": "176215",
+    "phone_number": "N/A",
+    "website": "https://muscleupnutrition.co.in/",
+    "rating": 5,
+    "reviews_count": 176,
+    "address": "Dharamshala - Palampur Rd, near Gyuto Monastery Gate, Sidhbari, Dharamshala, Himachal Pradesh 176215",
+    "area": "176215",
+    "latitude": 32.185173,
+    "longitude": 76.3678,
+    "place_id": "ChIJrXjBFeFbGzkRVbOjPUEuGV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXjBFeFbGzkRVbOjPUEuGV0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:15:50"
+  }
+]

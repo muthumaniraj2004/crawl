@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Metro Salon",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "176091",
+    "phone_number": "+91 85806 16790",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village and Post office, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "176091",
+    "latitude": 31.8987147,
+    "longitude": 76.59803889999999,
+    "place_id": "ChIJ96XUGeLPBDkR0vWy3ftSDYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96XUGeLPBDkR0vWy3ftSDYQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:19:05"
+  },
+  {
+    "business_name": "Brothers saloon jaisinghpur",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176091",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VHXX+8F5, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "176091",
+    "latitude": 31.8982572,
+    "longitude": 76.59873329999999,
+    "place_id": "ChIJSUevdgDPBDkRmbh839jflP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUevdgDPBDkRmbh839jflP8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:19:05"
+  }
+]

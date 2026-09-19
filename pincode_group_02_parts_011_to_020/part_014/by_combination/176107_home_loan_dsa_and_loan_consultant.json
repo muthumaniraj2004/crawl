@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Financial Services",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Educational consultant, Insurance agency, Investment service, Financial planner, Tax consultant",
+    "pincode": "176107",
+    "phone_number": "+91 98963 25463",
+    "website": "http://www.saifinancialservicess.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv Colony, Plot No : 36, Swami Vivekanand Marg, near Udham Singh Chowk, near Radha, Sunderpur, Kurukshetra, Haryana 136118",
+    "area": "Sunderpur",
+    "latitude": 29.9641381,
+    "longitude": 76.8666255,
+    "place_id": "ChIJScRr4xdHDjkRbHB__NTlmYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScRr4xdHDjkRbHB__NTlmYo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:38:06"
+  },
+  {
+    "business_name": "JD Financial Services",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "176107",
+    "phone_number": "+91 97297 44582",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sector 13 Rd, near Rama Dry Cleaner, Sector 13, Kurukshetra, Haryana 136118",
+    "area": "Sector 13",
+    "latitude": 29.9720834,
+    "longitude": 76.855705,
+    "place_id": "ChIJQZSBd45HDjkRmsPstZLRR7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZSBd45HDjkRmsPstZLRR7M",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:38:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Melted Cheese Cafe",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176215",
+    "phone_number": "+91 94599 50505",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 451,
+    "address": "Civil Lines, Jawahar Nagar, Dharamshala, Himachal Pradesh 176215",
+    "area": "Jawahar Nagar",
+    "latitude": 32.2004322,
+    "longitude": 76.3211888,
+    "place_id": "ChIJ4ZpkbgFRGzkRhrvIhp0bjTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZpkbgFRGzkRhrvIhp0bjTo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:16:03"
+  },
+  {
+    "business_name": "Cafe spirala",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "176215",
+    "phone_number": "+91 99750 99175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Dharamkot, Dharamshala, Himachal Pradesh 176216",
+    "area": "Dharamkot",
+    "latitude": 32.246624499999996,
+    "longitude": 76.3258615,
+    "place_id": "ChIJYy1nZwBXGzkRHw3zqPOAE84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYy1nZwBXGzkRHw3zqPOAE84",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:16:05"
+  }
+]

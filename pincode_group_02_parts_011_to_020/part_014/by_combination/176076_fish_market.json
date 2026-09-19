@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Walia daily need shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fruit wholesaler",
+    "all_categories": "Fruit wholesaler",
+    "pincode": "176076",
+    "phone_number": "+91 88948 37274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "tehsil Baijnath, Vpo Rajot, Baijnath, Himachal Pradesh 176063",
+    "area": "176076",
+    "latitude": 32.0238911,
+    "longitude": 76.5945981,
+    "place_id": "ChIJa1vlw063BDkRqKApvYTRspo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1vlw063BDkRqKApvYTRspo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:18"
+  },
+  {
+    "business_name": "Meat Market Association",
+    "search_category": "Fish Market",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler, Market",
+    "pincode": "176076",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sarovar Path, Sector 21C, Sector 21, Chandigarh, 160022",
+    "area": "Sector 21C, Sector 21",
+    "latitude": 30.725079599999997,
+    "longitude": 76.7781807,
+    "place_id": "ChIJ-dgjLKrtDzkRh5SDLDsDCOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dgjLKrtDzkRh5SDLDsDCOI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:20"
+  }
+]

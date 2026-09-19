@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trek and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Sightseeing Tour Operator, Taxi service, Tour operator, Transportation service",
+    "pincode": "176207",
+    "phone_number": "+91 80912 23476",
+    "website": "https://trekandtravels.co.in/",
+    "rating": 5,
+    "reviews_count": 240,
+    "address": "Tehsil, Village Panchpulla, Dalhousie Rd, P.O, Dalhousie, Himachal Pradesh 176304",
+    "area": "P.O",
+    "latitude": 32.5289606,
+    "longitude": 75.98896859999999,
+    "place_id": "ChIJsZLi36ORHDkRF9rn7zl9OpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZLi36ORHDkRF9rn7zl9OpY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:03:58"
+  },
+  {
+    "business_name": "Taxi Stand Samot",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 71,
+    "address": "Samot, Kasba Samot, Himachal Pradesh 176207",
+    "area": "Samot",
+    "latitude": 32.3320017,
+    "longitude": 76.0705761,
+    "place_id": "ChIJ1-5Ng7ufHDkRKanB9QO9RHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-5Ng7ufHDkRKanB9QO9RHg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:03:58"
+  }
+]

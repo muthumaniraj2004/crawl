@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Suit Bazaar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176082",
+    "phone_number": "+91 91297 00005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "The Suit, Bus Stand, Bazaar Main Chowk, Pahra, Kothi, Himachal Pradesh 176087",
+    "area": "176082",
+    "latitude": 32.029120299999995,
+    "longitude": 76.53654209999999,
+    "place_id": "ChIJiw6FYKW1BDkRteEB8buO2Ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiw6FYKW1BDkRteEB8buO2Ps",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:02:51"
+  },
+  {
+    "business_name": "Shree Balaji Cloth Depo",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176082",
+    "phone_number": "+91 98826 04924",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "Saptu Road, solan, near railway Station, Dharampur, Himachal Pradesh 173209",
+    "area": "176082",
+    "latitude": 30.900332199999998,
+    "longitude": 77.0242221,
+    "place_id": "ChIJ5_jErheGDzkRZ1CiIAyPCsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_jErheGDzkRZ1CiIAyPCsM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:02:51"
+  }
+]

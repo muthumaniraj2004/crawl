@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store, Mobile phone repair shop, Phone repair service",
+    "pincode": "176203",
+    "phone_number": "+91 96668 57797",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Narayankhed Rd, Turkapally, Narayankhed (CT), Telangana 502286",
+    "area": "Turkapally",
+    "latitude": 18.036778299999998,
+    "longitude": 77.7742643,
+    "place_id": "ChIJR60z8Z2izjsRhd9yyfwhqsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR60z8Z2izjsRhd9yyfwhqsg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:57:29"
+  },
+  {
+    "business_name": "Apna Telecom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Oldsmobile dealer",
+    "pincode": "176203",
+    "phone_number": "+91 78891 45252",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, Cabin No 211, Sco 1010-1011, above Radhe Mobile Mall, Sector 22B, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.735783599999998,
+    "longitude": 76.77715169999999,
+    "place_id": "ChIJZ145qiPtDzkR1mgYQ_RS9IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ145qiPtDzkR1mgYQ_RS9IU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:57:29"
+  }
+]

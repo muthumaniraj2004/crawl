@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurveda House",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Guest house, Retreat center",
+    "pincode": "176093",
+    "phone_number": "+91 94181 35759",
+    "website": "http://www.himalayanayurveda.com/",
+    "rating": 4.6,
+    "reviews_count": 45,
+    "address": "Dharamkot Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",
+    "area": "McLeod Ganj",
+    "latitude": 32.2455575,
+    "longitude": 76.32865699999999,
+    "place_id": "ChIJq6qqqtVWGzkRyQ6vJ0_2F1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqtVWGzkRyQ6vJ0_2F1o",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:57"
+  },
+  {
+    "business_name": "Ayurvigyan Panchkarma and Wellness Centre",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Holistic medicine practitioner, Naturopathic practitioner, Physiotherapy Center, Wellness center, Yoga studio",
+    "pincode": "176093",
+    "phone_number": "+91 82198 57901",
+    "website": "https://ayurvigyanpanchkarma.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ward No. 1, H.No. 198, near Pine Roots School, Krishna Nagar, Himachal Pradesh 177001",
+    "area": "Krishna Nagar",
+    "latitude": 31.6951295,
+    "longitude": 76.5039585,
+    "place_id": "ChIJF5GZGBDVBDkR-eAUgwiDLBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5GZGBDVBDkR-eAUgwiDLBU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:59"
+  }
+]

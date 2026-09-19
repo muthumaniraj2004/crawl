@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirana Basket",
+    "search_category": "Supermarket",
+    "primary_category": "Discount supermarket",
+    "all_categories": "Discount supermarket",
+    "pincode": "176209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dharamsala Rd, Birta, Kangra, Himachal Pradesh 176001",
+    "area": "176209",
+    "latitude": 32.1215164,
+    "longitude": 76.2869226,
+    "place_id": "ChIJN1DBvG5PGzkR-_N-PlzYrHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1DBvG5PGzkR-_N-PlzYrHs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:06:49"
+  },
+  {
+    "business_name": "Grocery",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176209",
+    "phone_number": "+91 98051 40868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No 1, 001, Kangra, Himachal Pradesh 176001",
+    "area": "176209",
+    "latitude": 32.1233977,
+    "longitude": 76.28067659999999,
+    "place_id": "ChIJfUzCiXpPGzkROOLlj9fbsWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUzCiXpPGzkROOLlj9fbsWY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:06:49"
+  }
+]

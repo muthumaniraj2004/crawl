@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalideep Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "176209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "47MW+98C, Kangra Rd, Matour, Nandehr, Himachal Pradesh 176001",
+    "area": "176209",
+    "latitude": 32.1334401,
+    "longitude": 76.295776,
+    "place_id": "ChIJ1QgTE9ZPGzkRf9CX1hQ37xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QgTE9ZPGzkRf9CX1hQ37xI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:22"
+  },
+  {
+    "business_name": "Osho Nisarga Foundation",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center, Non-profit organization",
+    "pincode": "176209",
+    "phone_number": "+91 94180 37370",
+    "website": "https://oshonisarga.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Village -Sheela, P.O, Passu-Pantehar, Dharamshala, Sheehla, Himachal Pradesh 176215",
+    "area": "Passu-Pantehar",
+    "latitude": 32.1768231,
+    "longitude": 76.3243952,
+    "place_id": "ChIJz6PZWLZRGzkRTeHrU2SkI0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6PZWLZRGzkRTeHrU2SkI0A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:24"
+  }
+]

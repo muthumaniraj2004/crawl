@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One Stop Chemist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176208",
+    "phone_number": "+91 73997 38080",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sidheshwar Temple Area, Solapur, Maharashtra 413007",
+    "area": "Sidheshwar Temple Area",
+    "latitude": 17.675912099999998,
+    "longitude": 75.904585,
+    "place_id": "ChIJCfyBFH7axTsRRVc-IqqrAxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfyBFH7axTsRRVc-IqqrAxk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:26"
+  },
+  {
+    "business_name": "MEDICAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QR23+X3J, Mastiwal, Punjab 144207",
+    "area": "176208",
+    "latitude": 31.752510599999997,
+    "longitude": 75.80264559999999,
+    "place_id": "ChIJyx4RDwAJGzkRVFvpL7_5HFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyx4RDwAJGzkRVFvpL7_5HFk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:26"
+  }
+]

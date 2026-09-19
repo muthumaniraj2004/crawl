@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon Terra Cafe",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176210",
+    "phone_number": "+91 98883 22250",
+    "website": "http://www.instagram.com/moonterracafe",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Basement, Star Complex, Main Rd, Gandhi Nagar Mohalla, Banga Rural, Banga, Punjab 144505",
+    "area": "Gandhi Nagar Mohalla",
+    "latitude": 31.1842202,
+    "longitude": 75.99723139999999,
+    "place_id": "ChIJZ8nF1LiVGjkRHcx61xTFIeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8nF1LiVGjkRHcx61xTFIeo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:08:48"
+  },
+  {
+    "business_name": "The Bunksters Mcleodganj, Dharamkot RD",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Hotel",
+    "pincode": "176210",
+    "phone_number": "+91 62305 54134",
+    "website": "https://thebunksters.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Dharamkot Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",
+    "area": "McLeod Ganj",
+    "latitude": 32.2432258,
+    "longitude": 76.3299779,
+    "place_id": "ChIJF2Wd2CVRGzkRk8ZoCn0v7CI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2Wd2CVRGzkRk8ZoCn0v7CI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:08:48"
+  }
+]

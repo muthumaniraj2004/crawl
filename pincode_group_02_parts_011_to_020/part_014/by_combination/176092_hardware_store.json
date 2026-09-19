@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zakir husain",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176092",
+    "phone_number": "+91 86290 82450",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Buin, Himachal Pradesh 176316",
+    "area": "176092",
+    "latitude": 32.8248025,
+    "longitude": 76.1407157,
+    "place_id": "ChIJyY06wHLDHDkRrrRhL5Mu8K0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyY06wHLDHDkRrrRhL5Mu8K0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:37"
+  },
+  {
+    "business_name": "Himachal Trunk House",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176092",
+    "phone_number": "+91 70189 40456",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shali Bazar, Theog, Himachal Pradesh 171201",
+    "area": "Shali Bazar",
+    "latitude": 31.1228874,
+    "longitude": 77.3558659,
+    "place_id": "ChIJ87rqQhaFBTkRkrZrHFiz1lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87rqQhaFBTkRkrZrHFiz1lE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:20:37"
+  }
+]

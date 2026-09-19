@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepika's World",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift basket store",
+    "all_categories": "Gift basket store",
+    "pincode": "176200",
+    "phone_number": "+91 96353 56551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 36,
+    "address": "Zonal Center, Jadabendra Panja Ave, Khudiram Colony, Y-1, Sagarbhanga, Durgapur, West Bengal 713211",
+    "area": "Khudiram Colony, Y-1, Sagarbhanga",
+    "latitude": 23.4971674,
+    "longitude": 87.32848949999999,
+    "place_id": "ChIJXey1UC5x9zkRd9SDWKduoKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXey1UC5x9zkRd9SDWKduoKo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:51:55"
+  },
+  {
+    "business_name": "Home decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "176200",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P.O. bassa waziran, Tehsil, Village Matholi, distt, Nurpur, Himachal Pradesh 176202",
+    "area": "176200",
+    "latitude": 32.300134199999995,
+    "longitude": 75.8853465,
+    "place_id": "ChIJaVTQwtWDHDkRRdd6P-aloiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVTQwtWDHDkRRdd6P-aloiY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:51:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Noor property Consultants",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "176109",
+    "phone_number": "+91 79866 09941",
+    "website": "http://realestateamritsar.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dream City, Amritsar, Punjab 143001",
+    "area": "Dream City",
+    "latitude": 31.584201,
+    "longitude": 74.9603583,
+    "place_id": "ChIJq6qq6oV9GTkR6f3hd3ob7eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6oV9GTkR6f3hd3ob7eU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:41:38"
+  },
+  {
+    "business_name": "Bhvya Properties Consultant Shimla",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "176109",
+    "phone_number": "+91 98164 11168",
+    "website": "https://www.facebook.com/bhvyapropertiessml/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Daulat niwas, BCS Main Rd, Vikasnagar, Shimla, Himachal Pradesh 171009",
+    "area": "Vikasnagar",
+    "latitude": 31.081823,
+    "longitude": 77.17606549999999,
+    "place_id": "ChIJh-hrh4t5BTkRXcnQtmpqNRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-hrh4t5BTkRXcnQtmpqNRQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:41:39"
+  }
+]

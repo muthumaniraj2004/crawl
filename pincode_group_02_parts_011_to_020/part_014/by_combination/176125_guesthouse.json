@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Billing View - Baijnath",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176125",
+    "phone_number": "+91 98160 41883",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 58,
+    "address": "Hotel Billing View, near Petrol Pump, Baijnath, Himachal Pradesh 176125",
+    "area": "176125",
+    "latitude": 32.0547706,
+    "longitude": 76.6502252,
+    "place_id": "ChIJrZygiPe5BDkRev321VLNUhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZygiPe5BDkRev321VLNUhQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:48:18"
+  },
+  {
+    "business_name": "Vivek Home Stay",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "176125",
+    "phone_number": "+91 70450 25659",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 73,
+    "address": "Chougan, Baijnath, Himachal Pradesh 176077",
+    "area": "176125",
+    "latitude": 32.0364432,
+    "longitude": 76.72097649999999,
+    "place_id": "ChIJSVe2O7i4BDkRSFHj9k4fqVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVe2O7i4BDkRSFHj9k4fqVg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:48:20"
+  }
+]

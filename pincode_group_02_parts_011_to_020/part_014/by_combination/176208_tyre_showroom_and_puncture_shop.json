@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "https://store.apollotyres.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "National Highway 20, Gaggal, Himachal Pradesh 176209",
+    "area": "176208",
+    "latitude": 32.1529074,
+    "longitude": 76.2703435,
+    "place_id": "ChIJs9nA3KlaGzkRiF7w11X9UkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9nA3KlaGzkRiF7w11X9UkE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:41"
+  },
+  {
+    "business_name": "Rajol",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "176208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "56FW+3GJ, Rajol, Behkari, Himachal Pradesh 176208",
+    "area": "176208",
+    "latitude": 32.17324,
+    "longitude": 76.24522999999999,
+    "place_id": "ChIJD-fYcwBbGzkR5Fz5I0iCjvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-fYcwBbGzkR5Fz5I0iCjvE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:05:42"
+  }
+]

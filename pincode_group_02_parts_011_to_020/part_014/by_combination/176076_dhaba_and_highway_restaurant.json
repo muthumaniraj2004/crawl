@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "176076",
+    "phone_number": "+91 95016 44481",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "State Highway 18, Jasso Majara, Punjab 144501",
+    "area": "176076",
+    "latitude": 31.203600599999998,
+    "longitude": 75.8666925,
+    "place_id": "ChIJRSPRXTKNGjkRsRgrBobzKw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSPRXTKNGjkRsRgrBobzKw4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:23"
+  },
+  {
+    "business_name": "Kandhola Highway Vaishno family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Punjabi restaurant, Vegetarian restaurant",
+    "pincode": "176076",
+    "phone_number": "+91 94172 51990",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Rajpura, Punjab 148026",
+    "area": "176076",
+    "latitude": 30.261749199999997,
+    "longitude": 76.1311011,
+    "place_id": "ChIJDZvA92E2EDkR6CE6wMC8Ge8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZvA92E2EDkR6CE6wMC8Ge8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:23"
+  }
+]

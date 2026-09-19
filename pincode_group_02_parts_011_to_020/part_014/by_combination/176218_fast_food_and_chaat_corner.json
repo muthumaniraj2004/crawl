@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandigarh Chaat Co.",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, North Indian restaurant, Snack bar",
+    "pincode": "176218",
+    "phone_number": "+91 88470 86080",
+    "website": "https://chandigarhchaatco.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "11, Sector 35 Market Rd, 35C, Sector 35, Chandigarh, 160022",
+    "area": "35C, Sector 35",
+    "latitude": 30.724112899999998,
+    "longitude": 76.7601952,
+    "place_id": "ChIJXf-J5dLtDzkRx-NYmcCLvPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXf-J5dLtDzkRx-NYmcCLvPI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:37"
+  },
+  {
+    "business_name": "Krekuu Goodness of Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "176218",
+    "phone_number": "+91 77106 65333",
+    "website": "https://www.krekuu.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Booth No. 85, JLPL Market, New Airport Road, Sector 66 A, Sahibzada Ajit Singh Nagar, Punjab 140306",
+    "area": "Sector 66 A",
+    "latitude": 30.6580399,
+    "longitude": 76.7383559,
+    "place_id": "ChIJ19-5dc_rDzkRLJhaulgjuSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19-5dc_rDzkRLJhaulgjuSI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:37"
+  }
+]

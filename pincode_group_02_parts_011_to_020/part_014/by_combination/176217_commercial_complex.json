@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JK Business Corporation (The Wholesale stationery shop)",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "176217",
+    "phone_number": "+91 98168 02500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "for dharamshala hospital, shortcut road, Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.2173079,
+    "longitude": 76.31856669999999,
+    "place_id": "ChIJqbfBO4BRGzkRrjRUea_4ahk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbfBO4BRGzkRrjRUea_4ahk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:22"
+  },
+  {
+    "business_name": "Dhingra Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "176217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "6868+QF2, Chilgari, Dharamshala, Himachal Pradesh 176215",
+    "area": "Chilgari",
+    "latitude": 32.2118789,
+    "longitude": 76.3161411,
+    "place_id": "ChIJL5isH-JQGzkRqifWc9uOeC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5isH-JQGzkRqifWc9uOeC4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:23"
+  }
+]

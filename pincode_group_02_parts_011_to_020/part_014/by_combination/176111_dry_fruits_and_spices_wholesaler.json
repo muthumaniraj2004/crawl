@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpatjee",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Grocery delivery service, Indian grocery store, Spices Wholesaler, Wholesale grocer",
+    "pincode": "176111",
+    "phone_number": "+91 95821 51625",
+    "website": "http://www.wegrocer.in/",
+    "rating": 4.9,
+    "reviews_count": 160,
+    "address": "59/4341, Padam Singh Rd, Block 29, Block 1, Regar Pura, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block 29, Block 1, Regar Pura, Karol Bagh",
+    "latitude": 28.650038,
+    "longitude": 77.1870174,
+    "place_id": "ChIJo3PNup4CDTkRdDuhhlCqkL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3PNup4CDTkRdDuhhlCqkL0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:43:43"
+  },
+  {
+    "business_name": "We Grocer",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Indian grocery store, Spices Wholesaler",
+    "pincode": "176111",
+    "phone_number": "+91 95821 51625",
+    "website": "http://www.wegrocer.in/",
+    "rating": 4.9,
+    "reviews_count": 68,
+    "address": "H1/70, Pocket 2, Sector 11, Rohini, New Delhi, Delhi, 110085",
+    "area": "Pocket 2, Sector 11, Rohini",
+    "latitude": 28.735083999999997,
+    "longitude": 77.1126431,
+    "place_id": "ChIJ094K3BsBDTkRUPSnubDdasU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ094K3BsBDTkRUPSnubDdasU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:43:43"
+  }
+]

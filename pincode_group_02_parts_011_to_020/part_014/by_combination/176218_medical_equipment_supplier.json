@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pardeep Chemists",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "176218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "First Flour, near Taxi Stand, Fatehpur, Garh, Himachal Pradesh 176215",
+    "area": "176218",
+    "latitude": 32.1903655,
+    "longitude": 76.3555504,
+    "place_id": "ChIJaYPFwAxRGzkR0O2AGLfWiRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYPFwAxRGzkR0O2AGLfWiRQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:58"
+  },
+  {
+    "business_name": "SK Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "H5CX+X7H, SH 25, dhusara, Himachal Pradesh 174302",
+    "area": "dhusara",
+    "latitude": 31.5724482,
+    "longitude": 76.19824059999999,
+    "place_id": "ChIJ0ZZvsnnZGjkRBda2MfYw8b8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZZvsnnZGjkRBda2MfYw8b8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:21:58"
+  }
+]

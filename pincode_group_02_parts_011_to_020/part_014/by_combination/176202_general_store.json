@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agnihotri General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Margh, Sadwan, Nurpur, Himachal Pradesh 176202",
+    "area": "Sadwan",
+    "latitude": 32.3398806,
+    "longitude": 75.9096254,
+    "place_id": "ChIJ_Uy-soOdHDkRyflqbD7yxdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Uy-soOdHDkRyflqbD7yxdo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:54:30"
+  },
+  {
+    "business_name": "Pambra confectionery store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5XCH+W24, Jawali, Ladhiar, Himachal Pradesh 176021",
+    "area": "176202",
+    "latitude": 32.1722643,
+    "longitude": 75.9775635,
+    "place_id": "ChIJX5i9BgBlGzkRDSxw4LYe8l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5i9BgBlGzkRDSxw4LYe8l4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:54:31"
+  }
+]

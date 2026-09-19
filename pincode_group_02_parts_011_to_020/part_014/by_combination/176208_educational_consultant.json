@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryans Academy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Consultant, Visa Agent",
+    "pincode": "176208",
+    "phone_number": "+91 90417 90419",
+    "website": "http://aryansacademy.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SCO 48,49&50, Garha Rd, opp. PIMS HOSPITAL, adjoining umed grand hotel, Choti Baradari Part 2, Choti Baradari, Jalandhar, Punjab 144001",
+    "area": "Choti Baradari Part 2, Choti Baradari",
+    "latitude": 31.3044586,
+    "longitude": 75.59357899999999,
+    "place_id": "ChIJCxoSm7RbGjkRhLpeldOqve8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxoSm7RbGjkRhLpeldOqve8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:06:16"
+  },
+  {
+    "business_name": "Go Global Consultants Moga",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Visa Agent",
+    "pincode": "176208",
+    "phone_number": "+91 97814 00900",
+    "website": "https://goglobalmoga.com/index.php",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "R5CG+PFR Go global Consultant, Sub, Jail Wali Gali, Civil Lines, Friends Colony, Moga, Punjab 142001",
+    "area": "Civil Lines, Friends Colony",
+    "latitude": 30.8217735,
+    "longitude": 75.17613639999999,
+    "place_id": "ChIJX9PJ5owIGjkRSh42-OeZHcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9PJ5owIGjkRSh42-OeZHcc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:06:16"
+  }
+]

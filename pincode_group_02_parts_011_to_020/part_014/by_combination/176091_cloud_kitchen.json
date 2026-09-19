@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BEST CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176091",
+    "phone_number": "+91 99906 80799",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A 268 K No 48-49, near by Walia Advocate, Desu Colony, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Desu Colony, Chhatarpur",
+    "latitude": 28.506853399999997,
+    "longitude": 77.1780055,
+    "place_id": "ChIJw7K97yMfDTkRjGftHz1k1WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7K97yMfDTkRjGftHz1k1WE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:18:26"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "176091",
+    "phone_number": "+91 70118 94825",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 22,
+    "address": "2D, Panchsheel Vihar, Block H, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Panchsheel Vihar, Block H, Khirki Extension, Malviya Nagar",
+    "latitude": 28.5325825,
+    "longitude": 77.22164959999999,
+    "place_id": "ChIJA_X_rsHjDDkRcEiHa0jkrhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_X_rsHjDDkRcEiHa0jkrhQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:18:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "176086",
+    "phone_number": "+91 98058 27547",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Bhawarna - Jaisinghpur Rd, Tarehla, Panjlehr, Himachal Pradesh 176086",
+    "area": "176086",
+    "latitude": 31.9316212,
+    "longitude": 76.5298662,
+    "place_id": "ChIJRxsJJPPLBDkRjWLLl0N9NgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxsJJPPLBDkRjWLLl0N9NgM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:09:43"
+  },
+  {
+    "business_name": "Pahadi Rasoi",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Soup kitchen",
+    "pincode": "176086",
+    "phone_number": "+91 72041 82425",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Village- Chander,P.O. kharul, Teh. Palampur, Dist, Kangra, Himachal Pradesh 176092",
+    "area": "176086",
+    "latitude": 31.976146,
+    "longitude": 76.4975284,
+    "place_id": "ChIJpf2AWmzLBDkR7ujhSVfTixU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpf2AWmzLBDkR7ujhSVfTixU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:09:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manali Bikes Rental",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Two Wheeler Rental Agency",
+    "all_categories": "Two Wheeler Rental Agency, Motorcycle shop",
+    "pincode": "176101",
+    "phone_number": "+91 88944 88530",
+    "website": "https://manalibikesrental.com/",
+    "rating": 4.9,
+    "reviews_count": 134,
+    "address": "NH-21, near hotel Natraj, Rangri, Manali, Himachal Pradesh 175131",
+    "area": "Rangri",
+    "latitude": 32.226562099999995,
+    "longitude": 77.189205,
+    "place_id": "ChIJ3bVj5hoavmoRki1u08Ds5Hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bVj5hoavmoRki1u08Ds5Hs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:32:11"
+  },
+  {
+    "business_name": "Bikes World - Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle club, Bicycle rack, Bicycle repair shop, Bicycle wholesaler, Supplier, Electric bicycle store, Road cycling, Store, Wholesaler",
+    "pincode": "176101",
+    "phone_number": "+91 99881 00228",
+    "website": "https://thebikesworld.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ferozepur Rd, opp. City Plaza, near HOTEL PALM COURT, Mahavir Nagar, Barewal Awana, Ludhiana, Punjab 141012",
+    "area": "Mahavir Nagar, Barewal Awana",
+    "latitude": 30.8834874,
+    "longitude": 75.77891819999999,
+    "place_id": "ChIJDxffxsuDGjkRpWGXw3-38EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxffxsuDGjkRpWGXw3-38EY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:32:13"
+  }
+]

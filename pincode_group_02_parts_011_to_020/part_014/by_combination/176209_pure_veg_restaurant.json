@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Rasoi",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "176209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 212,
+    "address": "McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2359602,
+    "longitude": 76.32395439999999,
+    "place_id": "ChIJ5TAkECxRGzkR1UYet1Czvbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TAkECxRGzkR1UYet1Czvbw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:06:59"
+  },
+  {
+    "business_name": "Luscious burger co.",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Hamburger restaurant",
+    "all_categories": "Hamburger restaurant",
+    "pincode": "176209",
+    "phone_number": "N/A",
+    "website": "https://www.lusciousburgerco.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Rajput sabha complex, Pushp Vihar Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Pushp Vihar Colony",
+    "latitude": 32.105000499999996,
+    "longitude": 76.27425509999999,
+    "place_id": "ChIJo6u8W6RPGzkRZ5b6Nl0OVlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6u8W6RPGzkRZ5b6Nl0OVlU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dadwal General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Asian grocery store",
+    "pincode": "176202",
+    "phone_number": "+91 62304 37335",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dadwal General Store, Road, Kangra, Ror, Himachal Pradesh 176051",
+    "area": "176202",
+    "latitude": 32.2423134,
+    "longitude": 75.87115659999999,
+    "place_id": "ChIJg8bMLwAfGzkRL0a5jYb7wxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8bMLwAfGzkRL0a5jYb7wxU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:54:26"
+  },
+  {
+    "business_name": "Sanjeev Kumar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176202",
+    "phone_number": "+91 88941 11721",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 25, Chowgan Bazar, Kangra, Nurpur, Himachal Pradesh 176202",
+    "area": "Chowgan Bazar",
+    "latitude": 32.304229299999996,
+    "longitude": 75.89392219999999,
+    "place_id": "ChIJ3ZSiyFqDHDkRYj7fmy8Wd-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZSiyFqDHDkRYj7fmy8Wd-w",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:54:26"
+  }
+]

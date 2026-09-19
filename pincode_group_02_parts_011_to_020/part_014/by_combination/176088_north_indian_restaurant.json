@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishav Cafe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Tibetan restaurant",
+    "all_categories": "Tibetan restaurant, Chinese restaurant",
+    "pincode": "176088",
+    "phone_number": "+91 70180 00618",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 561,
+    "address": "near Hotel Uhl, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "176088",
+    "latitude": 31.9904431,
+    "longitude": 76.79458819999999,
+    "place_id": "ChIJ-_ZUfE_ABDkRq13MMbwemcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_ZUfE_ABDkRq13MMbwemcA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:13:19"
+  },
+  {
+    "business_name": "Mirchi Machan Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176088",
+    "phone_number": "+91 82190 17293",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 95,
+    "address": "Vill. Dhelu ,Thesil Joginder nagar, Mandi, P.O, Dohag, Himachal Pradesh 175015",
+    "area": "P.O",
+    "latitude": 31.9937935,
+    "longitude": 76.7849542,
+    "place_id": "ChIJDdnk-4fBBDkRqB1D8d68C7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdnk-4fBBDkRqB1D8d68C7Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:13:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jatin hair salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "176087",
+    "phone_number": "+91 85807 82401",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Jatin hair salon vill-chandropa, po, Patti, Palampur, Himachal Pradesh 176067",
+    "area": "Patti",
+    "latitude": 32.0675004,
+    "longitude": 76.53568229999999,
+    "place_id": "ChIJKaV5AYe1BDkR6W3elJjsvoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKaV5AYe1BDkR6W3elJjsvoM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:12:14"
+  },
+  {
+    "business_name": "The Divine Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176087",
+    "phone_number": "+91 78763 66619",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3GMH+VMJ, Panchrukhi Rd, Rajpur, Himachal Pradesh 176067",
+    "area": "176087",
+    "latitude": 32.0847103,
+    "longitude": 76.5291522,
+    "place_id": "ChIJA-Vh3hG1BDkR76xMjpM5LCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-Vh3hG1BDkR76xMjpM5LCQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:12:14"
+  }
+]

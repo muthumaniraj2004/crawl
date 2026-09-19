@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivratri Fair",
+    "search_category": "Exhibitions",
+    "primary_category": "Fairground",
+    "all_categories": "Fairground",
+    "pincode": "176125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3J2V+FMR, Mandir Rd, Baijnath, Himachal Pradesh 176125",
+    "area": "176125",
+    "latitude": 32.0512438,
+    "longitude": 76.64414409999999,
+    "place_id": "ChIJu-WI3yq4BDkRLczIGLa412Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-WI3yq4BDkRLczIGLa412Y",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:48:50"
+  },
+  {
+    "business_name": "Abhay's Art Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Art museum",
+    "all_categories": "Art museum",
+    "pincode": "176125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Bir-Billing Rd, Gunehr, Bir, Himachal Pradesh 176077",
+    "area": "176125",
+    "latitude": 32.0444477,
+    "longitude": 76.7264675,
+    "place_id": "ChIJ3e9FNcm4BDkRx4qZImEbDOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3e9FNcm4BDkRx4qZImEbDOI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:48:51"
+  }
+]

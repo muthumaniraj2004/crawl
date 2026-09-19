@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Himalayan Bites",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176082",
+    "phone_number": "+91 93170 33189",
+    "website": "https://sites.google.com/view/the-himalayan-bites/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st floor, near SBI Bank, opposite Sood Parking, Bhuntar, Himachal Pradesh 175125",
+    "area": "176082",
+    "latitude": 31.882186599999997,
+    "longitude": 77.1484701,
+    "place_id": "ChIJc2gidsT3BDkR6DUJCUSq9N8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2gidsT3BDkR6DUJCUSq9N8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:02:49"
+  },
+  {
+    "business_name": "Freq Cafe",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176082",
+    "phone_number": "+91 87670 00028",
+    "website": "http://freq.cafe/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "KALKA- SHIMLA HIGHWAY, NH-22, Dharampur, Himachal Pradesh 173209",
+    "area": "176082",
+    "latitude": 30.897081999999997,
+    "longitude": 77.0145397,
+    "place_id": "ChIJYYNyoX-HDzkRSb7_-Hw0bus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYNyoX-HDzkRSb7_-Hw0bus",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:02:49"
+  }
+]

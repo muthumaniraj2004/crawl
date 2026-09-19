@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Comical Travel",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "176111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Comical Travel, 176111, India",
+    "area": "176111",
+    "latitude": 30.732280399999997,
+    "longitude": 76.7707136,
+    "place_id": "ChIJvxW5I1ZCr4URv-Qg5lwAgrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxW5I1ZCr4URv-Qg5lwAgrQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:20"
+  },
+  {
+    "business_name": "Kartar Travels Tourist Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Bus charter, Bus company, Bus tour agency, Car rental agency, Minibus taxi service, Transportation service, Travel agency, Van rental agency",
+    "pincode": "176111",
+    "phone_number": "+91 73800 27102",
+    "website": "http://www.kartartravels.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kiran Travels, opp. ISBT Road, Kajheri Village, Sector 43, Chandigarh, 160036",
+    "area": "Kajheri Village, Sector 43",
+    "latitude": 30.715100099999997,
+    "longitude": 76.7429046,
+    "place_id": "ChIJZczNGE_tDzkREiLJ5kXFOog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZczNGE_tDzkREiLJ5kXFOog",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vashudha Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "176125",
+    "phone_number": "+91 88944 21222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vashudha Garments, Baijnath, Himachal Pradesh 176125",
+    "area": "176125",
+    "latitude": 32.0500969,
+    "longitude": 76.64643939999999,
+    "place_id": "ChIJO9terc65BDkRL3UUEe4kv1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9terc65BDkRL3UUEe4kv1Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:47:29"
+  },
+  {
+    "business_name": "FASHION POINT",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176125",
+    "phone_number": "+91 98161 54264",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Main Bazaar, Baijnath, Himachal Pradesh 176125",
+    "area": "176125",
+    "latitude": 32.0496769,
+    "longitude": 76.6457337,
+    "place_id": "ChIJkeWwniu4BDkR16ilUkKldxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkeWwniu4BDkR16ilUkKldxw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:47:29"
+  }
+]

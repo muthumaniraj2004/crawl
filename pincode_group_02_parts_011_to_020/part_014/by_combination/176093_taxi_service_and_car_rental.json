@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajputana Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency",
+    "pincode": "176093",
+    "phone_number": "+91 99830 10250",
+    "website": "https://rajputanacabs.in/",
+    "rating": 4.6,
+    "reviews_count": 3242,
+    "address": "Gopi Nagar Vistar, 24, Delhi Bypass, Jaisinghpura Khor, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302027",
+    "area": "Jaisinghpura Khor",
+    "latitude": 26.950204,
+    "longitude": 75.8643963,
+    "place_id": "ChIJ5VgmsOewbTkRBx1Nl3LRtxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VgmsOewbTkRBx1Nl3LRtxc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:22:12"
+  },
+  {
+    "business_name": "HIMACHAL TAXI RENTAL",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176093",
+    "phone_number": "+91 70181 13141",
+    "website": "http://himachaltaxirental.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Shop, Ground Floor, Mehta Complex, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.9043726,
+    "longitude": 77.107188,
+    "place_id": "ChIJq6qeFkyBDzkRItNYGcEkPrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qeFkyBDzkRItNYGcEkPrs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:22:12"
+  }
+]

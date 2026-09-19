@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARAT AUTOS",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto machine shop",
+    "all_categories": "Auto machine shop",
+    "pincode": "176091",
+    "phone_number": "+91 98169 79780",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop 204, Guru Nanak Mkt, Sector 3, Parwanoo, Himachal Pradesh 173220",
+    "area": "Sector 3",
+    "latitude": 30.8387116,
+    "longitude": 76.9617741,
+    "place_id": "ChIJt7Ni1j6PDzkRLZqagdmt81A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7Ni1j6PDzkRLZqagdmt81A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:18:48"
+  },
+  {
+    "business_name": "Ravi Mechanical Shop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "176091",
+    "phone_number": "+91 98161 81588",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 6,
+    "address": "65GQ+6W5, Simsa Village, Manali, Himachal Pradesh 175131",
+    "area": "Simsa Village",
+    "latitude": 32.225519,
+    "longitude": 77.1898643,
+    "place_id": "ChIJZaAzvx6IBDkRI6czturIZvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaAzvx6IBDkRI6czturIZvE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:18:48"
+  }
+]

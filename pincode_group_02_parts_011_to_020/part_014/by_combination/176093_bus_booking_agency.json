@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travel Wikipedia Tour And Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator",
+    "pincode": "176093",
+    "phone_number": "+91 98053 01009",
+    "website": "https://www.travelwikipedia.com/",
+    "rating": 4.3,
+    "reviews_count": 224,
+    "address": "Amar Complex, 05, The Mall, Solan, Himachal Pradesh 173212",
+    "area": "The Mall, Bajoral Khurd",
+    "latitude": 30.909562599999997,
+    "longitude": 77.101463,
+    "place_id": "ChIJNdvKTJSHDzkRqw4xMU_1DZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdvKTJSHDzkRqw4xMU_1DZ8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:22:11"
+  },
+  {
+    "business_name": "Royal Travels Raipur",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176093",
+    "phone_number": "+91 82250 97862",
+    "website": "https://www.royalraipur.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Pagariya Complex, SH 9, Pandri, Raipur, Chhattisgarh 492004",
+    "area": "Pandri",
+    "latitude": 21.251354199999998,
+    "longitude": 81.6459227,
+    "place_id": "ChIJaddXVaLdKDoRVfG9vIu4Bck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaddXVaLdKDoRVfG9vIu4Bck",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:22:12"
+  }
+]

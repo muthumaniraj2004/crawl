@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StockAnts",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "176115",
+    "phone_number": "+91 93217 65323",
+    "website": "https://www.stockants.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "407, On, Runwal Square, Lal Bahadur Shastri Marg, Vardhman Nagar, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Vardhman Nagar, Mulund West",
+    "latitude": 19.1819627,
+    "longitude": 72.94702,
+    "place_id": "ChIJu2Sk78q55zsRuAjgquGK4ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2Sk78q55zsRuAjgquGK4ZM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:46:52"
+  },
+  {
+    "business_name": "Call for All",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment company",
+    "all_categories": "Investment company",
+    "pincode": "176115",
+    "phone_number": "N/A",
+    "website": "https://callforall.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "OFFICE NO 8A UPPER, City Square Building, Sehdev Market, Jalandhar, Punjab 144001",
+    "area": "Sehdev Market",
+    "latitude": 31.321087499999997,
+    "longitude": 75.5827248,
+    "place_id": "ChIJSxvOnCZbGjkRWrNsF07fr7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxvOnCZbGjkRWrNsF07fr7A",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:46:52"
+  }
+]

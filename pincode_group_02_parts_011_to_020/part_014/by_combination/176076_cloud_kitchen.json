@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khana King",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Vegetarian restaurant",
+    "pincode": "176076",
+    "phone_number": "+91 89500 49922",
+    "website": "https://www.khanaking.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NH 205, KOTHI, Bilaspur, Himachal Pradesh 174001",
+    "area": "KOTHI",
+    "latitude": 31.3345885,
+    "longitude": 76.73670969999999,
+    "place_id": "ChIJm8a9_Ew_BTkRCql2brUrd5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8a9_Ew_BTkRCql2brUrd5s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:27"
+  },
+  {
+    "business_name": "Cool Kitchen & Co.-Tiffin Service/Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery",
+    "pincode": "176076",
+    "phone_number": "+91 99581 02916",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "5th Floor, Savitry Towers, 91,T-55, Sector 91, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Sector 91",
+    "latitude": 30.7008554,
+    "longitude": 76.6788091,
+    "place_id": "ChIJUfmU9urvDzkRoG6BpAc_8lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfmU9urvDzkRoG6BpAc_8lc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:57:29"
+  }
+]

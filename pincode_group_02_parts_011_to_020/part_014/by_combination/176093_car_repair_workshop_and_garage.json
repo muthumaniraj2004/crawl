@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Autoways Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop, Auto bodywork mechanic, Auto painting, Auto restoration service, Mechanic",
+    "pincode": "176093",
+    "phone_number": "+91 99881 06875",
+    "website": "https://www.facebook.com/autowaysworkshop/",
+    "rating": 4.9,
+    "reviews_count": 942,
+    "address": "Green Park Colony, Street no-3, Sirhind - Patiala Rd, Patiala, Punjab 147004",
+    "area": "Green Park Colony",
+    "latitude": 30.3655314,
+    "longitude": 76.4016687,
+    "place_id": "ChIJg3rmtSkmEDkRVIMkk_uKGhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3rmtSkmEDkRVIMkk_uKGhM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:22:06"
+  },
+  {
+    "business_name": "SAI DENTING AND PAINTING",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "176093",
+    "phone_number": "+91 98165 71186",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bohni, Himachal Pradesh 177001",
+    "area": "176093",
+    "latitude": 31.6691772,
+    "longitude": 76.558258,
+    "place_id": "ChIJYxkkOJDXBDkR13rTPNmEBfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxkkOJDXBDkR13rTPNmEBfE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:22:08"
+  }
+]

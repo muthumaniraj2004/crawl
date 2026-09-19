@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mintu Lala Shop Dhati",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176093",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Upper Dhati, Dhati, Baun, Himachal Pradesh 176093",
+    "area": "176093",
+    "latitude": 31.9589446,
+    "longitude": 76.4999261,
+    "place_id": "ChIJ-eFlsdPLBDkRyGtLxczWHF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eFlsdPLBDkRyGtLxczWHF4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:32"
+  },
+  {
+    "business_name": "Fair Price Shop Ratan Lal",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176093",
+    "phone_number": "+91 86288 90722",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 10,
+    "address": "3F9F+747, Vill.jassun po.raipur, Salan, Himachal Pradesh 176085",
+    "area": "176093",
+    "latitude": 32.0681744,
+    "longitude": 76.4728015,
+    "place_id": "ChIJ2YI8NKO0BDkR5laNc2AlSJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YI8NKO0BDkR5laNc2AlSJc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:35"
+  }
+]

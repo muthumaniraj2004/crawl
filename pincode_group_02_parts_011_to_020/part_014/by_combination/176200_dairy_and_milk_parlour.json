@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "176200",
+    "phone_number": "+91 97369 99998",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Gol Market, Sai Road, To, Baddi, Nalagarh, Himachal Pradesh 173205",
+    "area": "176200",
+    "latitude": 30.9314766,
+    "longitude": 76.7995593,
+    "place_id": "ChIJfXYBroX1DzkRI37UBVsD3w8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXYBroX1DzkRI37UBVsD3w8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:50:50"
+  },
+  {
+    "business_name": "Alka Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, General store",
+    "pincode": "176200",
+    "phone_number": "+91 99276 88613",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7XXX+3R8, Sewla Kala, Chowk, GMS Rd, Sewla Kalan, Majra, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Majra",
+    "latitude": 30.2987848,
+    "longitude": 78.00027829999999,
+    "place_id": "ChIJ3Qu6UDQqCTkRFFusz-RUApk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Qu6UDQqCTkRFFusz-RUApk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:50:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himachal Tea House",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "176093",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 38,
+    "address": "Baddi -Barotiwala Rd, Baddi, Himachal Pradesh 173205",
+    "area": "176093",
+    "latitude": 30.9303046,
+    "longitude": 76.8172572,
+    "place_id": "ChIJnfcaCj71DzkRIHKfeGXatbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfcaCj71DzkRIHKfeGXatbY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:41"
+  },
+  {
+    "business_name": "Bhagi Rath Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Bakery and Cake Shop",
+    "pincode": "176093",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 20,
+    "address": "Shop No. 9, HPU, Summer Hill, Shimla, Himachal Pradesh 171005",
+    "area": "Summer Hill",
+    "latitude": 31.109489999999997,
+    "longitude": 77.139568,
+    "place_id": "ChIJSaDarQV5BTkRm8or8-6TpIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaDarQV5BTkRm8or8-6TpIc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:43"
+  }
+]

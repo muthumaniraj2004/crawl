@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "German Bakery Restaurant Bar-Restaurants/Bakery/Bar in Mcleodganj",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Fast food restaurant, Breakfast restaurant, Coffee shop, European restaurant, German restaurant, Italian restaurant",
+    "pincode": "176210",
+    "phone_number": "+91 98166 21098",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "main chowk, Bhagsunag Rd, near taxi Stand, Bhagsu Nag, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",
+    "area": "Bhagsu Nag, McLeod Ganj",
+    "latitude": 32.2436612,
+    "longitude": 76.3329586,
+    "place_id": "ChIJk85X8sxWGzkRLmW0Kmfuy6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk85X8sxWGzkRLmW0Kmfuy6s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:08:43"
+  },
+  {
+    "business_name": "Bhagsu Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176210",
+    "phone_number": "+91 78078 54689",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 25,
+    "address": "Police Line, near Police Ground, Jawahar Nagar, Dharamshala, Himachal Pradesh 176215",
+    "area": "Jawahar Nagar",
+    "latitude": 32.2045497,
+    "longitude": 76.3229581,
+    "place_id": "ChIJJzBfgN1RGzkRwY_mBMYlUJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzBfgN1RGzkRwY_mBMYlUJ0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:08:46"
+  }
+]

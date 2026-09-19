@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Art In Motion Dance Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "176111",
+    "phone_number": "+91 90151 81056",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Friends Colony, Nalagarh, Himachal Pradesh 174101",
+    "area": "Friends Colony",
+    "latitude": 31.0474194,
+    "longitude": 76.7195551,
+    "place_id": "ChIJBWiVq7lbBTkRMUCS921HRog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWiVq7lbBTkRMUCS921HRog",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:51"
+  },
+  {
+    "business_name": "Hans Folk Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "176111",
+    "phone_number": "+91 98037 57000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 154,
+    "address": "Sco 41 Puda Market, opp. Happy High School, Gurdaspur, Punjab 143521",
+    "area": "Zafarpur",
+    "latitude": 32.049226499999996,
+    "longitude": 75.408692,
+    "place_id": "ChIJzfIqJpSNGzkRyTZVtANC_S8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfIqJpSNGzkRyTZVtANC_S8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:44:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Littlewild Agri Private Limited",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Health and beauty shop",
+    "pincode": "176102",
+    "phone_number": "+91 99999 19014",
+    "website": "http://www.mountaintreestore.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 9, 100, Chowki, Palampur, Himachal Pradesh 176061",
+    "area": "176102",
+    "latitude": 32.0977253,
+    "longitude": 76.5198198,
+    "place_id": "ChIJ6VKtKxWzBDkRRUo-ezuxJJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VKtKxWzBDkRRUo-ezuxJJo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:16"
+  },
+  {
+    "business_name": "M/S Sushil Dairy Farm",
+    "search_category": "Organic Food Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "176102",
+    "phone_number": "+91 82199 80551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bye-Pass Road, Mandi - Pathankot Rd, Bhatu Palam, Himachal Pradesh 176067",
+    "area": "176102",
+    "latitude": 32.0873393,
+    "longitude": 76.5351625,
+    "place_id": "ChIJpRYrVVOzBDkRYg7oKZ0ed28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRYrVVOzBDkRYg7oKZ0ed28",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:33:16"
+  }
+]

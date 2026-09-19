@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangrur Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "176203",
+    "phone_number": "N/A",
+    "website": "http://sangrurcafe.com/",
+    "rating": 4.9,
+    "reviews_count": 574,
+    "address": "opp. PRTC Workshop, Mubarik Mehal Colony, Sangrur, Punjab 148001",
+    "area": "Mubarik Mehal Colony",
+    "latitude": 30.249869399999998,
+    "longitude": 75.8403185,
+    "place_id": "ChIJ1zd7BbtREDkRK7N042z1mVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1zd7BbtREDkRK7N042z1mVU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:57:27"
+  },
+  {
+    "business_name": "guru hari krishan cyber cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "176203",
+    "phone_number": "+91 86278 17839",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "near pdc heath care, matralion, kunja, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "matralion",
+    "latitude": 30.4478473,
+    "longitude": 77.6479385,
+    "place_id": "ChIJy64_RJEjDzkRs00Qmar0dQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy64_RJEjDzkRs00Qmar0dQ4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:57:27"
+  }
+]

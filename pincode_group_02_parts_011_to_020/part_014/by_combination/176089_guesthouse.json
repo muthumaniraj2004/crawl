@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PWD Rest House (Sandhol)",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "176089",
+    "phone_number": "N/A",
+    "website": "http://himatithi.nic.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VJ7X+3WP, Sandhol, Naingal, Himachal Pradesh 176090",
+    "area": "176089",
+    "latitude": 31.8627094,
+    "longitude": 76.64983029999999,
+    "place_id": "ChIJe22312TFBDkRqIkDmJJo_lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe22312TFBDkRqIkDmJJo_lw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:15:53"
+  },
+  {
+    "business_name": "Sudhir Homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176089",
+    "phone_number": "+91 98050 13542",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sudhir Thakur Village- Balla, near Kendriya vidyalaye, Sandhol, Himachal Pradesh 176090",
+    "area": "176089",
+    "latitude": 31.859245299999998,
+    "longitude": 76.6513787,
+    "place_id": "ChIJDRuOivfFBDkRgOKU43iAaJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRuOivfFBDkRgOKU43iAaJY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:15:55"
+  }
+]

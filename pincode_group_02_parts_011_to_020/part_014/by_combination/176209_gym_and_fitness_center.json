@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal fitness centre zim",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "47C9+Q2M, near kcc Bank, Zamanabad, Kangra, Himachal Pradesh 176001",
+    "area": "Zamanabad",
+    "latitude": 32.121961999999996,
+    "longitude": 76.26755589999999,
+    "place_id": "ChIJ0704cQBFGzkRscmexRbXuB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0704cQBFGzkRscmexRbXuB0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:22"
+  },
+  {
+    "business_name": "The City Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "58WC+798, Jawahar Nagar, Dharamshala, Himachal Pradesh 176215",
+    "area": "Jawahar Nagar",
+    "latitude": 32.1956675,
+    "longitude": 76.3209408,
+    "place_id": "ChIJxy5PMTpRGzkRSgnOdCErsNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxy5PMTpRGzkRSgnOdCErsNo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:24"
+  }
+]

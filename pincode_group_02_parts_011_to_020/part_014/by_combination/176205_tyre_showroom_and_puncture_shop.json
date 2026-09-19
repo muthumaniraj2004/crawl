@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Michelin tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "176205",
+    "phone_number": "+91 89299 59856",
+    "website": "https://www.michelin.in/",
+    "rating": 4.3,
+    "reviews_count": 23,
+    "address": "Mandi - Pathankot Rd, Baras Balkar, Balla, Himachal Pradesh 176209",
+    "area": "176205",
+    "latitude": 32.143279299999996,
+    "longitude": 76.28182079999999,
+    "place_id": "ChIJRbcyxPxPGzkRCxc9vKHRLXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbcyxPxPGzkRCxc9vKHRLXQ",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:00:18"
+  },
+  {
+    "business_name": "Sharma tyre",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service",
+    "pincode": "176205",
+    "phone_number": "+91 94181 78381",
+    "website": "https://www.apollotyres.com/content/orbit/apollo/in/en/car-suv-tyres/dealer-listing-page.html/?latitude=31.6125799&longitude=76.55460310000001",
+    "rating": 4.3,
+    "reviews_count": 42,
+    "address": "Vpo bhota, Bhota, Himachal Pradesh 176041",
+    "area": "176205",
+    "latitude": 31.607149399999997,
+    "longitude": 76.5651238,
+    "place_id": "ChIJATCnEZopBTkR5o_RwbmNQco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATCnEZopBTkR5o_RwbmNQco",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:00:18"
+  }
+]

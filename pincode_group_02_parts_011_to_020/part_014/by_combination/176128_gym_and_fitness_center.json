@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Core Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176128",
+    "phone_number": "+91 82191 98280",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 393,
+    "address": "Post Office Building,2nd Floor, near Gandhi Ground, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "Dhauladhar Colony",
+    "latitude": 32.1077236,
+    "longitude": 76.3808142,
+    "place_id": "ChIJo_ze6uhNGzkRC0ByDnbkHyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_ze6uhNGzkRC0ByDnbkHyo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:49:35"
+  },
+  {
+    "business_name": "Fitness Club gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176128",
+    "phone_number": "+91 90190 31111",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 28,
+    "address": "Aland, Karnataka 585302",
+    "area": "176128",
+    "latitude": 17.5657909,
+    "longitude": 76.56640929999999,
+    "place_id": "ChIJRxCLm76syDsR0Ur31RnCaTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxCLm76syDsR0Ur31RnCaTE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:49:36"
+  }
+]

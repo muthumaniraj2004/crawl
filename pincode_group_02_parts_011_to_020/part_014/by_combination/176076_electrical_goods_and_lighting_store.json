@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Wholesaler household appliances",
+    "all_categories": "Wholesaler household appliances",
+    "pincode": "176076",
+    "phone_number": "+91 78886 56548",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Nurpur Road, Indora, Himachal Pradesh 176401",
+    "area": "176076",
+    "latitude": 32.1414725,
+    "longitude": 75.6897037,
+    "place_id": "ChIJy81WHEKCGzkR6C1HXnutxkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy81WHEKCGzkR6C1HXnutxkg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:58:00"
+  },
+  {
+    "business_name": "Khanna Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "176076",
+    "phone_number": "+91 75893 71265",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jassur, Jasur Khas, Himachal Pradesh 176201",
+    "area": "176076",
+    "latitude": 32.2790289,
+    "longitude": 75.8482658,
+    "place_id": "ChIJg3bcukWBHDkR0n2Q2if8-CM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3bcukWBHDkR0n2Q2if8-CM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:58:01"
+  }
+]

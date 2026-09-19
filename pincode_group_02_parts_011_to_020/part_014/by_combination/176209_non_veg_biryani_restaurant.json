@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reshu Restaurant Kangra",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Fast food restaurant, Restaurant",
+    "pincode": "176209",
+    "phone_number": "+91 94189 12440",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "474F+48Q, College Rd, New Kangra, Kangra, Himachal Pradesh 176001",
+    "area": "New Kangra",
+    "latitude": 32.1053363,
+    "longitude": 76.2733652,
+    "place_id": "ChIJ32VlHYFPGzkR8PU0ohduycE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32VlHYFPGzkR8PU0ohduycE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:06:58"
+  },
+  {
+    "business_name": "Food Safari Dharamshala",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Italian restaurant",
+    "all_categories": "Italian restaurant",
+    "pincode": "176209",
+    "phone_number": "+91 82198 54037",
+    "website": "http://www.foodsafari.cc/",
+    "rating": 4.3,
+    "reviews_count": 779,
+    "address": "49, Civil Lines Rd, Jawahar Nagar, Dharamshala, Himachal Pradesh 176213",
+    "area": "Jawahar Nagar",
+    "latitude": 32.1996687,
+    "longitude": 76.3209246,
+    "place_id": "ChIJU5p5GmdRGzkRHDutNYQXILg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5p5GmdRGzkRHDutNYQXILg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:07:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Washing machine and refrigerator repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Washer & dryer repair service",
+    "all_categories": "Washer & dryer repair service",
+    "pincode": "176083",
+    "phone_number": "+91 98165 18825",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House no 132 vill garh khas, po, malkher, Palampur, Himachal Pradesh 176093",
+    "area": "malkher",
+    "latitude": 31.966287599999998,
+    "longitude": 76.4850646,
+    "place_id": "ChIJNewTQNjLBDkRceC1QgF664s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNewTQNjLBDkRceC1QgF664s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:05:09"
+  },
+  {
+    "business_name": "Ajay Refrigeration",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service",
+    "pincode": "176083",
+    "phone_number": "+91 98058 52045",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "3GMJ+9JR, Panchrukhi Rd, Rajpur, Himachal Pradesh 176067",
+    "area": "176083",
+    "latitude": 32.0834961,
+    "longitude": 76.53152039999999,
+    "place_id": "ChIJf0mGigm0BDkRdLWDCza4JjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0mGigm0BDkRdLWDCza4JjI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:05:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant",
+    "pincode": "176093",
+    "phone_number": "+91 94180 96973",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 371,
+    "address": "Forsyth Ganj-Mcleod Ganj, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2373307,
+    "longitude": 76.32432829999999,
+    "place_id": "ChIJwQV1ZixRGzkRKWZyAhKLxiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQV1ZixRGzkRKWZyAhKLxiY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:43"
+  },
+  {
+    "business_name": "Raseela Resto",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Catering food and drink supplier, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "176093",
+    "phone_number": "+91 93170 11123",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 120,
+    "address": "Barol, Dharamshala, Jhikli Barol, Himachal Pradesh 176215",
+    "area": "Barol",
+    "latitude": 32.2037028,
+    "longitude": 76.3307128,
+    "place_id": "ChIJI9zKTzhRGzkRdz-VSZyhok0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9zKTzhRGzkRdz-VSZyhok0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:21:45"
+  }
+]

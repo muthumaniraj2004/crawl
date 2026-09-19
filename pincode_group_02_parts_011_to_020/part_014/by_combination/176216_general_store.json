@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhardwaj General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176216",
+    "phone_number": "+91 98822 71143",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Tibetan Library Rd, Upper Gamroo, Upmuhal, Dharamshala, Himachal Pradesh 176215",
+    "area": "Upper Gamroo, Upmuhal",
+    "latitude": 32.223470299999995,
+    "longitude": 76.32251939999999,
+    "place_id": "ChIJsywQWgBRGzkR1wCF_Rg7sHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsywQWgBRGzkR1wCF_Rg7sHs",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:17:47"
+  },
+  {
+    "business_name": "Monu General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176216",
+    "phone_number": "+91 98726 61315",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kotwali Bazar Rd, Khazanchi Mohalla, Upmuhal, Dharamshala, Himachal Pradesh 176215",
+    "area": "Khazanchi Mohalla, Upmuhal",
+    "latitude": 32.2219147,
+    "longitude": 76.322097,
+    "place_id": "ChIJT6lbCY5RGzkR34BJCeAc9gI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6lbCY5RGzkR34BJCeAc9gI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:17:47"
+  }
+]

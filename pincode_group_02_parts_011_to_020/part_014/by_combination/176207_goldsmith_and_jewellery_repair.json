@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "176207",
+    "phone_number": "+91 98160 22353",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nahan Market, Ramkundi, Nahan, Himachal Pradesh 173001",
+    "area": "Ramkundi",
+    "latitude": 30.5603987,
+    "longitude": 77.2938465,
+    "place_id": "ChIJI07T5w4MDzkRcU3GzZikCcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI07T5w4MDzkRcU3GzZikCcc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:03:36"
+  },
+  {
+    "business_name": "DKS Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "176207",
+    "phone_number": "+91 88987 82786",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 1 Corner View Society 15th Rd, &, 33rd Rd, Corner, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Corner, Bandra West",
+    "latitude": 19.0653248,
+    "longitude": 72.8315144,
+    "place_id": "ChIJhRkQphPJ5zsRPP2H6t6fpsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRkQphPJ5zsRPP2H6t6fpsE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:03:37"
+  }
+]

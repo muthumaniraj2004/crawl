@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "176085",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pharer, Palampur, Samula Khas, Himachal Pradesh 176064",
+    "area": "Pharer",
+    "latitude": 32.0792584,
+    "longitude": 76.4723491,
+    "place_id": "ChIJ3eL9OYm1BDkRdaQZJRpG1-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eL9OYm1BDkRdaQZJRpG1-s",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:09:14"
+  },
+  {
+    "business_name": "Domestic & International Courier & Cargo Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "176085",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Navde, Taloja, Panvel, Maharashtra 410208",
+    "area": "Navde, Taloja",
+    "latitude": 19.052276799999998,
+    "longitude": 73.0998247,
+    "place_id": "ChIJDcPsnPDp5zsRluswuNsVPTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcPsnPDp5zsRluswuNsVPTk",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:09:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meccano Auto",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting",
+    "pincode": "176219",
+    "phone_number": "+91 98906 27562",
+    "website": "https://meccanoauto.000webhostapp.com/",
+    "rating": 4.8,
+    "reviews_count": 209,
+    "address": "Central Bazar Road, Shankar Nagar, East Shankar Nagar, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar, Ramdaspeth",
+    "latitude": 21.1305381,
+    "longitude": 79.06279769999999,
+    "place_id": "ChIJpyxNOX3A1DsRC6nUZWlcLwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyxNOX3A1DsRC6nUZWlcLwc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:23:51"
+  },
+  {
+    "business_name": "Car perfect",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto painting, Mechanic, Garage",
+    "pincode": "176219",
+    "phone_number": "+91 79726 99918",
+    "website": "https://car-perfect.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 358,
+    "address": "plot no 372, road, opp. manavata high school, near rameshwari, kukde layout, Rameshwari, Nagpur, Maharashtra 440027",
+    "area": "kukde layout, Rameshwari",
+    "latitude": 21.1166105,
+    "longitude": 79.09203649999999,
+    "place_id": "ChIJ6ag6s3e_1DsR50x0tI3B1cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ag6s3e_1DsR50x0tI3B1cI",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:23:51"
+  }
+]

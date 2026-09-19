@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajat salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "176202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7VXJ+GQ5, near Hanuman Mandir, Nurpur, Himachal Pradesh 176202",
+    "area": "176202",
+    "latitude": 32.298781999999996,
+    "longitude": 75.8821519,
+    "place_id": "ChIJzXeJRgCDHDkRSDCH7Ls5jhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXeJRgCDHDkRSDCH7Ls5jhw",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:55:20"
+  },
+  {
+    "business_name": "Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176202",
+    "phone_number": "+91 75900 11000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No .8, Hanuman, Market, Nurpur, Himachal Pradesh 176202",
+    "area": "176202",
+    "latitude": 32.298985699999996,
+    "longitude": 75.8816921,
+    "place_id": "ChIJp0fKk0aDHDkR75x69Q1xql4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0fKk0aDHDkR75x69Q1xql4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:55:20"
+  }
+]

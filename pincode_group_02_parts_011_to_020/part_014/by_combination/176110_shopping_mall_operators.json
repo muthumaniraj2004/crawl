@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rave@Moti Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Cafe",
+    "pincode": "176110",
+    "phone_number": "+91 512 238 6250",
+    "website": "http://ravemoti.com/mainpage.html",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "117 / K / 13, Gutaiya, Moti Vihar Society, Rawat Pur, Kanpur, Uttar Pradesh 208025",
+    "area": "Gutaiya, Moti Vihar Society, Rawat Pur",
+    "latitude": 26.481226799999998,
+    "longitude": 80.29999959999999,
+    "place_id": "ChIJf6w8w2w4nDkRtU3Ojyb2Hjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6w8w2w4nDkRtU3Ojyb2Hjo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:43:37"
+  },
+  {
+    "business_name": "Z Square Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "176110",
+    "phone_number": "+91 98385 05267",
+    "website": "http://www.zsquaremall.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Zsquare, Mall Rd, Downtown, Kanpur, Uttar Pradesh 208001",
+    "area": "Downtown",
+    "latitude": 26.4732591,
+    "longitude": 80.3528144,
+    "place_id": "ChIJizpgRaY4nDkR1U-sY1-uGW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizpgRaY4nDkR1U-sY1-uGW8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:43:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JBM suppliers",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "176102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dramman, Kulhar, Himachal Pradesh 176206",
+    "area": "176102",
+    "latitude": 32.227854199999996,
+    "longitude": 76.1663204,
+    "place_id": "ChIJJ49mJLRfGzkRE3_hOVtXDcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ49mJLRfGzkRE3_hOVtXDcE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:34:03"
+  },
+  {
+    "business_name": "Ram Singh & company",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "176102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No-32, Huda, Manav Chowk, Ambala, Haryana 134003",
+    "area": "Manav Chowk",
+    "latitude": 30.368113299999997,
+    "longitude": 76.7676628,
+    "place_id": "ChIJQ1hBZgDJDzkREMKs2U-JeO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1hBZgDJDzkREMKs2U-JeO0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:34:03"
+  }
+]

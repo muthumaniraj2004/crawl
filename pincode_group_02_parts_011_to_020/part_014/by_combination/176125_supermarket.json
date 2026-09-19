@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santokh Singh And Sons",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176125",
+    "phone_number": "+91 98165 37855",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SHOP NO 11, MAIN MARKET, near KANGRA CENTRAL BANK PARROLA, Baijnath, D P F Ghatta, Himachal Pradesh 175032",
+    "area": "176125",
+    "latitude": 32.0349548,
+    "longitude": 76.6731944,
+    "place_id": "ChIJH9EwgFm5BDkR2qeEtf3lnwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9EwgFm5BDkR2qeEtf3lnwg",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:47:12"
+  },
+  {
+    "business_name": "SHARMA CONFECTIONARY",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176125",
+    "phone_number": "+91 86799 92536",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SHOP NO 1, MAIN MARKET, near BUS STAND, VPO, Paprola, D P F Ghatta, Himachal Pradesh 175032",
+    "area": "VPO",
+    "latitude": 32.0367829,
+    "longitude": 76.6740718,
+    "place_id": "ChIJ0XUOM_y5BDkR8nODDW6jn68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XUOM_y5BDkR8nODDW6jn68",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:47:14"
+  }
+]

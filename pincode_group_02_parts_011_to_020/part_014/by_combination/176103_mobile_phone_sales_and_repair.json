@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Communication",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Electronics store",
+    "pincode": "176103",
+    "phone_number": "+91 85266 60005",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.4, near Education Board, Jawahar Nagar, Dharamshala, Himachal Pradesh 176215",
+    "area": "Jawahar Nagar",
+    "latitude": 32.1976872,
+    "longitude": 76.32029519999999,
+    "place_id": "ChIJ00EgZVNQGzkRC-8tkASjFq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00EgZVNQGzkRC-8tkASjFq0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:36:18"
+  },
+  {
+    "business_name": "Cosmos Electronics Computer Store",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store",
+    "pincode": "176103",
+    "phone_number": "+91 92185 55559",
+    "website": "https://mobile.mi.com/",
+    "rating": 4.2,
+    "reviews_count": 47,
+    "address": "Near State Bank Of Patiala, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1067432,
+    "longitude": 76.53479349999999,
+    "place_id": "ChIJL90Qw1SzBDkRPi9htXLUmMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL90Qw1SzBDkRPi9htXLUmMM",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:36:21"
+  }
+]

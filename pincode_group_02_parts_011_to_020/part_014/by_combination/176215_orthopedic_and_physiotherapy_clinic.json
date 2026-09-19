@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tibetan Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital",
+    "pincode": "176215",
+    "phone_number": "+91 98336 20411",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Jogiwara Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2364823,
+    "longitude": 76.3260304,
+    "place_id": "ChIJS3vYCDdRGzkRiiaa2xlDKZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3vYCDdRGzkRiiaa2xlDKZE",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:16:20"
+  },
+  {
+    "business_name": "Punjab Surgical & Medicine Centre",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Pharmacy",
+    "pincode": "176215",
+    "phone_number": "+91 98554 68600",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 16,
+    "address": "#12,13, G.T.B Market, T.B Hospital, Patiala, Punjab 147001",
+    "area": "Sheran Wala Gate",
+    "latitude": 30.336005399999998,
+    "longitude": 76.399153,
+    "place_id": "ChIJ2YMxBfIoEDkRXU9PFT6dQbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YMxBfIoEDkRXU9PFT6dQbc",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 07:16:22"
+  }
+]

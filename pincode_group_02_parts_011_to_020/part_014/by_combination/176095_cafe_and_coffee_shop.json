@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Yol Village cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176095",
+    "phone_number": "+91 82787 20187",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "49W9+C3G, Dhaloon Rd, DHALOON, panjpulli,5, pulli, Karah Pura, Himachal Pradesh 176056",
+    "area": "DHALOON, panjpulli,5, pulli",
+    "latitude": 32.145537499999996,
+    "longitude": 76.36698439999999,
+    "place_id": "ChIJq7MgQwBNGzkR2_VGgNWYhVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7MgQwBNGzkR2_VGgNWYhVo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:25:04"
+  },
+  {
+    "business_name": "The coffea cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176095",
+    "phone_number": "+91 70185 78047",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Post office Rehan teh, distt, nurpur, Rehan, Himachal Pradesh 176022",
+    "area": "176095",
+    "latitude": 32.1638436,
+    "longitude": 75.90798099999999,
+    "place_id": "ChIJCZHleEZlGzkRvB63tLOMdTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZHleEZlGzkRvB63tLOMdTY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:25:06"
+  }
+]

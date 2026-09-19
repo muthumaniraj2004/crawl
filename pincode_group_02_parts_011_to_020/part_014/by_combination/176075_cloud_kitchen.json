@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shallu'z kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "176075",
+    "phone_number": "+91 62301 09390",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 73,
+    "address": "Oberoi's niwas, near neena pahwa hospital, Adarsh Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.117164599999995,
+    "longitude": 76.2835406,
+    "place_id": "ChIJgRKoviVPGzkRcOs79EzVjU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRKoviVPGzkRcOs79EzVjU4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:55:35"
+  },
+  {
+    "business_name": "The cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176075",
+    "phone_number": "+91 99889 98984",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 30 first floor, opp. more supermarket, Sector 125, Sunny Enclave, Kharar, Punjab 140301",
+    "area": "Sector 125, Sunny Enclave",
+    "latitude": 30.7463567,
+    "longitude": 76.6687038,
+    "place_id": "ChIJabbcGRrvDzkREwV41ugER9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabbcGRrvDzkREwV41ugER9Y",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 05:55:36"
+  }
+]

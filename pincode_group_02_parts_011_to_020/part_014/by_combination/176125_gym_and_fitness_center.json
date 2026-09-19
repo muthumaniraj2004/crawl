@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Viking Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "V.P.O Rakkar, Baijnath, RAKKAR, Baijnath, Himachal Pradesh 176063",
+    "area": "Baijnath",
+    "latitude": 32.0551165,
+    "longitude": 76.6496528,
+    "place_id": "ChIJR24J6-K5BDkRP6QP1Etz3LY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR24J6-K5BDkRP6QP1Etz3LY",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:47:46"
+  },
+  {
+    "business_name": "Dimple Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "176125",
+    "phone_number": "+91 94184 20555",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganesh Bazar, Tehsil, Baijnath, Himachal Pradesh 176115",
+    "area": "Tehsil",
+    "latitude": 32.0530636,
+    "longitude": 76.6465259,
+    "place_id": "ChIJi_oe4MC5BDkR8DfQ6iqbl1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_oe4MC5BDkR8DfQ6iqbl1Q",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:47:46"
+  }
+]

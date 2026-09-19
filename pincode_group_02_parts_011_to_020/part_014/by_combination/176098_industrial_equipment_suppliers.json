@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawna enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "176098",
+    "phone_number": "+91 98166 03676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Tal, P.O, VILL, Buli, Bhatawan, Himachal Pradesh 176098",
+    "area": "P.O, VILL",
+    "latitude": 31.804103599999998,
+    "longitude": 76.4478109,
+    "place_id": "ChIJC_TYoRAtGzkRT8-cNk-96-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_TYoRAtGzkRT8-cNk-96-8",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:31:21"
+  },
+  {
+    "business_name": "Azad Industries",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "176098",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill. Barain, PO Karot, Sujanpur Tira, Himachal Pradesh 176110",
+    "area": "176098",
+    "latitude": 31.833858999999997,
+    "longitude": 76.5054652,
+    "place_id": "ChIJk-azjCzNBDkRTjik5i3HgSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-azjCzNBDkRTjik5i3HgSU",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:31:24"
+  }
+]

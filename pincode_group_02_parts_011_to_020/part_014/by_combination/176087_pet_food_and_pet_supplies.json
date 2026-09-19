@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kangra pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "176087",
+    "phone_number": "+91 78071 74014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palampur Rd, near by TATA motors, Ghurkari, Kangra, Himachal Pradesh 176001",
+    "area": "176087",
+    "latitude": 32.120309999999996,
+    "longitude": 76.2991567,
+    "place_id": "ChIJVYURnaBPGzkR5pQigAf3yA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYURnaBPGzkR5pQigAf3yA0",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:26"
+  },
+  {
+    "business_name": "Pets Mart & Care Centre",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Service establishment",
+    "pincode": "176087",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/petsmar768",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Pets Mart & Care Centre, 176087, India",
+    "area": "176087",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJTSsLjThRGzkRJntPdgT-GIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSsLjThRGzkRJntPdgT-GIo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:11:29"
+  }
+]

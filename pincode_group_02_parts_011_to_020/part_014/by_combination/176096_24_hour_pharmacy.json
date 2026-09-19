@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pharmacy Shop",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176096",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "334P+JXQ, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176096",
+    "latitude": 32.056584,
+    "longitude": 76.087486,
+    "place_id": "ChIJUev88QpCGzkRJ9a_Q1PHOik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUev88QpCGzkRJ9a_Q1PHOik",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:26:55"
+  },
+  {
+    "business_name": "Stay well pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176096",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "Jogiwara Rd, near post office, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2369774,
+    "longitude": 76.32484319999999,
+    "place_id": "ChIJVyhbd8ZRGzkR-lmJ-n1v8kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyhbd8ZRGzkR-lmJ-n1v8kA",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:26:55"
+  }
+]

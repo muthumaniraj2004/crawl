@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Millets Cafe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "176111",
+    "phone_number": "+91 75900 53064",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Manoh, Himachal Pradesh 176044",
+    "area": "Manoh",
+    "latitude": 31.6030187,
+    "longitude": 76.6716208,
+    "place_id": "ChIJX4JebEYnBTkRCfikjojyLSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4JebEYnBTkRCfikjojyLSo",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:43:52"
+  },
+  {
+    "business_name": "AMAN cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176111",
+    "phone_number": "+91 89889 53616",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "vill. kot p.o balh bihal, bijhari, Himachal Pradesh 176040",
+    "area": "176111",
+    "latitude": 31.7027407,
+    "longitude": 76.5238447,
+    "place_id": "ChIJU-bdH6TVBDkRj2yHTxE3DF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-bdH6TVBDkRj2yHTxE3DF4",
+    "part_id": "part_014",
+    "crawled_at": "2026-09-19 06:43:52"
+  }
+]
