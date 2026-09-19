@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Expert Spanners",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Air compressor repair service, Auto body shop, Auto bodywork mechanic",
+    "pincode": "181145",
+    "phone_number": "+91 98417 00603",
+    "website": "https://www.expertspanners.com/",
+    "rating": 4.3,
+    "reviews_count": 1086,
+    "address": "1/21, Rajiv Gandhi Salai, opposite Chemmanchery, near IDBI Bank, Aalamaram, Sholinganallur, Semmanjeri, Chennai, Tamil Nadu 600119",
+    "area": "Aalamaram, Sholinganallur",
+    "latitude": 12.86013,
+    "longitude": 80.2266769,
+    "place_id": "ChIJk8CZIzFbUjoRuBERYMQU6Rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8CZIzFbUjoRuBERYMQU6Rw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:52"
+  },
+  {
+    "business_name": "Mech N Tricks",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Garage",
+    "all_categories": "Garage, Auto painting, Auto Accessories Store, Car dealer, Car wash, Mechanic",
+    "pincode": "181145",
+    "phone_number": "+91 96000 26868",
+    "website": "https://mechntricks.in/",
+    "rating": 5,
+    "reviews_count": 76,
+    "address": "9, Kalaignar Karunanidhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+    "area": "Sholinganallur",
+    "latitude": 12.8983727,
+    "longitude": 80.24279659999999,
+    "place_id": "ChIJ_Rjd8UFdUjoRZTBrkFOuuK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Rjd8UFdUjoRZTBrkFOuuK4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:52"
+  }
+]

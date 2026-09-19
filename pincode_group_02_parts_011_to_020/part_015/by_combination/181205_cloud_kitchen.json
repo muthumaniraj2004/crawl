@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mom's Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "181205",
+    "phone_number": "+91 94192 37189",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1 Jewal, near V Mart, Jammu, Jammu and Kashmir 180016",
+    "area": "Resham Ghar Colony",
+    "latitude": 32.7263117,
+    "longitude": 74.8568179,
+    "place_id": "ChIJx6dCx4aFHjkRO8P5Zq8OkEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6dCx4aFHjkRO8P5Zq8OkEM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:28:27"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "181205",
+    "phone_number": "+91 79950 11002",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7-1-861, Siddharth School Rd, Mankamma Thota, Karimnagar, Telangana 505001",
+    "area": "Mankamma Thota",
+    "latitude": 18.440143499999998,
+    "longitude": 79.11136049999999,
+    "place_id": "ChIJyyuONunZzDsRd32KBJKy-gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyyuONunZzDsRd32KBJKy-gs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:28:27"
+  }
+]

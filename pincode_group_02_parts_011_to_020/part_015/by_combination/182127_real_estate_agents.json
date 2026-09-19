@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalit kumar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "182127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P57H+WF3, Puany, Mujaltha, Jammu and Kashmir 182127",
+    "area": "182127",
+    "latitude": 32.714084,
+    "longitude": 75.178287,
+    "place_id": "ChIJCWAjWfI7HDkRqAhnp1Sz_EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWAjWfI7HDkRqAhnp1Sz_EM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:52:04"
+  },
+  {
+    "business_name": "Aditya Green Hotel and Restaurant",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "182127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Q46X+88J, Chiani, Jammu and Kashmir 182127",
+    "area": "182127",
+    "latitude": 32.7604606,
+    "longitude": 75.1492672,
+    "place_id": "ChIJ3fPfNQAvHDkR8z_XKgM0vwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fPfNQAvHDkR8z_XKgM0vwg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:52:07"
+  }
+]

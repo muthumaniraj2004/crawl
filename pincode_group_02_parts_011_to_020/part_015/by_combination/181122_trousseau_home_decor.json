@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CASAMORE",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Cutlery store, Interior Decorator",
+    "pincode": "181122",
+    "phone_number": "+91 91494 53042",
+    "website": "https://instagram.com/casamoree",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "near wave Mall, Qasim Nagar, Jammu, Jammu and Kashmir 181152",
+    "area": "Qasim Nagar",
+    "latitude": 32.7124076,
+    "longitude": 74.8929484,
+    "place_id": "ChIJOzcD5PWDHjkR62p9h6x7m1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzcD5PWDHjkR62p9h6x7m1A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:03:02"
+  },
+  {
+    "business_name": "Art Deco Villa, Jammu",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Art studio",
+    "all_categories": "Art studio",
+    "pincode": "181122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "MVVV+C82, 369, Sector 1, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Sector 1, Channi Himat",
+    "latitude": 32.6932872,
+    "longitude": 74.8964333,
+    "place_id": "ChIJ310-B_GdHjkRk7LXLBpn3dM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ310-B_GdHjkRk7LXLBpn3dM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:03:02"
+  }
+]

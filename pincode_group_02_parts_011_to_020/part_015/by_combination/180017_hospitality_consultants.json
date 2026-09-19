@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S R Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "180017",
+    "phone_number": "+91 94192 15916",
+    "website": "http://buildingsclinique.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No 18 Ward No 2, Indra Nagar, Udhampur, Jammu and Kashmir 182101",
+    "area": "Indra Nagar",
+    "latitude": 32.9298097,
+    "longitude": 75.14067399999999,
+    "place_id": "ChIJ5fHgTADTHTkREO_wry-P0wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fHgTADTHTkREO_wry-P0wU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:48:07"
+  },
+  {
+    "business_name": "Swastik Trading Agencies Udhampur",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Electrical appliance wholesaler",
+    "all_categories": "Electrical appliance wholesaler",
+    "pincode": "180017",
+    "phone_number": "+91 96221 28402",
+    "website": "https://swastikelectric.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "NH1A, Shiv Nagar, Udhampur, Jammu and Kashmir 182101",
+    "area": "Shiv Nagar",
+    "latitude": 32.9261202,
+    "longitude": 75.1297412,
+    "place_id": "ChIJTT-1PevSHTkRHtpACHsa9do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTT-1PevSHTkRHtpACHsa9do",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:48:09"
+  }
+]

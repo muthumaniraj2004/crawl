@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arika Grand",
+    "search_category": "Hotel",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Restaurant",
+    "pincode": "181207",
+    "phone_number": "+91 95419 00905",
+    "website": "http://www.arikagrand.com/",
+    "rating": 4.5,
+    "reviews_count": 363,
+    "address": "Jammu Pathankot National Highway, Morh, Chappar, Hiranagar, Jammu and Kashmir 184142",
+    "area": "181207",
+    "latitude": 32.4940996,
+    "longitude": 75.25720059999999,
+    "place_id": "ChIJwcfA9TkTHDkRIh768pZLck4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcfA9TkTHDkRIh768pZLck4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:33:06"
+  },
+  {
+    "business_name": "HOTEL BRAHAM LAXMI",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "181207",
+    "phone_number": "+91 99060 23555",
+    "website": "https://www.instagram.com/hotelbrahamlaxmi",
+    "rating": 4.7,
+    "reviews_count": 142,
+    "address": "Railway Road, near Railway Station, Chak Dayala, Jammu and Kashmir 184144",
+    "area": "181207",
+    "latitude": 32.4791141,
+    "longitude": 75.3043385,
+    "place_id": "ChIJB771f74THDkRh-_kQV4DhM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB771f74THDkRh-_kQV4DhM4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:33:06"
+  }
+]

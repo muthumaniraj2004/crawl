@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Learning Hub Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "182126",
+    "phone_number": "+91 78895 11024",
+    "website": "https://learninghubeducation.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Jobs Alertz Cafe, Upper, Rehambal, Udhampur, Jammu and Kashmir 182121",
+    "area": "Upper",
+    "latitude": 32.8934807,
+    "longitude": 75.0799741,
+    "place_id": "ChIJibeKNfwtHDkREJ2ilfsNh6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibeKNfwtHDkREJ2ilfsNh6o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:49:56"
+  },
+  {
+    "business_name": "JM Computers Csc And Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "182126",
+    "phone_number": "+91 78896 12499",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "6, Manwal, Jammu and Kashmir 181224",
+    "area": "182126",
+    "latitude": 32.7562874,
+    "longitude": 75.15159729999999,
+    "place_id": "ChIJWTGniqAvHDkRPH-4XBL0b9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTGniqAvHDkRPH-4XBL0b9s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:49:56"
+  }
+]

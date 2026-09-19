@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogashram",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "181122",
+    "phone_number": "N/A",
+    "website": "http://www.yogashram.info/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ward no 8, XWWQ+8R6, yogashram, hansali, Katra, Jammu and Kashmir 182301",
+    "area": "hansali",
+    "latitude": 32.9945196,
+    "longitude": 74.93896529999999,
+    "place_id": "ChIJf69wdz15HjkR7i_4BidaQFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf69wdz15HjkR7i_4BidaQFA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:02:24"
+  },
+  {
+    "business_name": "THE FITNESS CULTURE",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181122",
+    "phone_number": "+91 97974 53454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Purkhoo, near manhas hardware store, camp, Domana, Jammu, Jammu and Kashmir 181206",
+    "area": "camp, Domana",
+    "latitude": 32.799436,
+    "longitude": 74.785096,
+    "place_id": "ChIJDVuiRfWHHjkRN00CS8bhRis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVuiRfWHHjkRN00CS8bhRis",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:02:24"
+  }
+]

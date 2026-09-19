@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Paradise Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Home Stay",
+    "pincode": "181145",
+    "phone_number": "+91 84929 18197",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "33, near Wine Shop, Bari Brahmana, Samba, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.6441874,
+    "longitude": 74.9108103,
+    "place_id": "ChIJ_542obudHjkRKtQ-qc8qjO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_542obudHjkRKtQ-qc8qjO8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:13"
+  },
+  {
+    "business_name": "Sp hospitality",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "181145",
+    "phone_number": "+91 70062 37018",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "bbia club, Bari brahmana, SIDCO Complex, Jammu, Jammu and Kashmir 181133",
+    "area": "SIDCO Complex",
+    "latitude": 32.6412437,
+    "longitude": 74.9276418,
+    "place_id": "ChIJK_FgvXadHjkR2zGEVj70luE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_FgvXadHjkR2zGEVj70luE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:16"
+  }
+]

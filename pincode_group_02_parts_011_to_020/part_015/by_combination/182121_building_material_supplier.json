@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babbu Cement And Hardware Store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "182121",
+    "phone_number": "+91 94191 46313",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vill Chak Bagtha, Domel Road, Jammu and Kashmir 182320",
+    "area": "182121",
+    "latitude": 32.9603858,
+    "longitude": 74.9581293,
+    "place_id": "ChIJNWEEybJ_HjkRm_KTYwp8P5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWEEybJ_HjkRm_KTYwp8P5E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:42:05"
+  },
+  {
+    "business_name": "CHAUHAN TRADERS",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "182121",
+    "phone_number": "+91 95413 72338",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Tan Kun Darorian, Katra, Jammu and Kashmir 182301",
+    "area": "182121",
+    "latitude": 32.9762353,
+    "longitude": 74.9333587,
+    "place_id": "ChIJwV4cTBx5HjkRP1I5MvnuPeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwV4cTBx5HjkRP1I5MvnuPeo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:42:06"
+  }
+]

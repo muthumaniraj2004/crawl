@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P&P Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181123",
+    "phone_number": "+91 94191 55578",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bantalab Road, opp. Crpf Camp, Patoli, Jammu, Jammu and Kashmir 181123",
+    "area": "Patoli",
+    "latitude": 32.7818749,
+    "longitude": 74.823469,
+    "place_id": "ChIJtxtis66HHjkRF_QQrSE7f0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxtis66HHjkRF_QQrSE7f0A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:21"
+  },
+  {
+    "business_name": "The London Salon And Curls & Curves Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Health and beauty shop",
+    "pincode": "181123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 27,
+    "address": "The London Salon And Curls & Curves Gym, Bantalab Road, behind Basant Palace, Barnai, Patoli, Jammu, Jammu and Kashmir 181123",
+    "area": "Barnai, Patoli",
+    "latitude": 32.7798114,
+    "longitude": 74.8214338,
+    "place_id": "ChIJvVEBqkOHHjkRAsQQJtKDfg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVEBqkOHHjkRAsQQJtKDfg8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:21"
+  }
+]

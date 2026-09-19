@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhau feed traders",
+    "search_category": "Fish Market",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Agricultural Product Wholesaler",
+    "pincode": "181203",
+    "phone_number": "+91 70510 96030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main market, Pallanwala, Jammu and Kashmir 181204",
+    "area": "181203",
+    "latitude": 32.8410291,
+    "longitude": 74.4628207,
+    "place_id": "ChIJT-EkEgBZHjkRFelpPlmgim0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-EkEgBZHjkRFelpPlmgim0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:24:38"
+  },
+  {
+    "business_name": "GURU KIRPA ELECTRICAL SHOP",
+    "search_category": "Fish Market",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler",
+    "pincode": "181203",
+    "phone_number": "+91 78899 53512",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bani chowk, Jammu, Dori, Jammu and Kashmir 181203",
+    "area": "181203",
+    "latitude": 32.938822,
+    "longitude": 74.4642861,
+    "place_id": "ChIJZRpOMRZbHjkRCkGJSCvJZ0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRpOMRZbHjkRCkGJSCvJZ0A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:24:38"
+  }
+]

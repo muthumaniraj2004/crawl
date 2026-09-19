@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magbeth",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store, Stationery wholesaler",
+    "pincode": "181224",
+    "phone_number": "+91 95414 42481",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 221,
+    "address": "Main Road Naik Bagh Natipora, Nowgam, Srinagar, Jammu and Kashmir 190015",
+    "area": "Nowgam",
+    "latitude": 34.0351042,
+    "longitude": 74.8189417,
+    "place_id": "ChIJASkb1rWP4TgReSdofrKZtHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASkb1rWP4TgReSdofrKZtHw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:37:00"
+  },
+  {
+    "business_name": "Gupkari The Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store, Store",
+    "pincode": "181224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "4RV2+FPR, Ganderbal Rd, Dar Mohalla, Soura, Srinagar, Jammu and Kashmir 190011",
+    "area": "Dar Mohalla, Soura",
+    "latitude": 34.1437449,
+    "longitude": 74.8017654,
+    "place_id": "ChIJOYmp0syF4TgRp7wiN8S_NuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYmp0syF4TgRp7wiN8S_NuY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:37:02"
+  }
+]

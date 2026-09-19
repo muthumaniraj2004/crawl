@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "जनरल स्टोर",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W45J+MGF, Kaller Himmat, Udhampur, Jammu and Kashmir 182101",
+    "area": "Kaller Himmat",
+    "latitude": 32.9091875,
+    "longitude": 75.1312969,
+    "place_id": "ChIJO_OfOQDTHTkRYfkAzFnPbzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_OfOQDTHTkRYfkAzFnPbzE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:48:47"
+  },
+  {
+    "business_name": "Kaka General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182126",
+    "phone_number": "+91 84929 39117",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 24,
+    "address": "Q4CR+WPP, Kathar (Manwal Railway Station Road), Jammu, Jammu and Kashmir 181224",
+    "area": "182126",
+    "latitude": 32.7723264,
+    "longitude": 75.1418417,
+    "place_id": "ChIJX61_YTIuHDkRY48K49031e4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX61_YTIuHDkRY48K49031e4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:48:50"
+  }
+]

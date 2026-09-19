@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZAINSTYRES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "181121",
+    "phone_number": "+91 70066 28255",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 9,
+    "address": "Jaggi Darbar, Patoli, Paloura, Jammu, Jammu and Kashmir 181121",
+    "area": "Patoli, Paloura",
+    "latitude": 32.7629747,
+    "longitude": 74.8376676,
+    "place_id": "ChIJJ1DggWaFHjkRw895xsLYuUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1DggWaFHjkRw895xsLYuUc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:00:37"
+  },
+  {
+    "business_name": "Chadha Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "181121",
+    "phone_number": "+91 91496 25306",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "L No1, Surya Vanshi Nagar, Lower, Roop Nagar, Jammu, Jammu and Kashmir 180001",
+    "area": "Lower, Roop Nagar",
+    "latitude": 32.7639007,
+    "longitude": 74.82607089999999,
+    "place_id": "ChIJvyBaLPqFHjkRvblTH6tk5Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyBaLPqFHjkRvblTH6tk5Bw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:00:37"
+  }
+]

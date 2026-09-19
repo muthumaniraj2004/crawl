@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Bartan Store",
+    "search_category": "Bar and Pub",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "181132",
+    "phone_number": "+91 99061 01635",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Bus Stand, Near PNB's old branch Old, Bishnah, Jammu and Kashmir 181132",
+    "area": "181132",
+    "latitude": 32.61082,
+    "longitude": 74.85948499999999,
+    "place_id": "ChIJD78nfeabHjkRsNDF7LnMQ08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD78nfeabHjkRsNDF7LnMQ08",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:45"
+  },
+  {
+    "business_name": "PAAHUN LOUNGE & RESTAURANT",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Near Boarding Gate 05, SHA, First Floor, Jammu Civil Airport, Satwari, Raipur Satwari, Jammu, Jammu and Kashmir 180003",
+    "area": "Satwari, Raipur Satwari",
+    "latitude": 32.6817463,
+    "longitude": 74.8424273,
+    "place_id": "ChIJ4W1kmlSbHjkRozjB_DV5b38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4W1kmlSbHjkRozjB_DV5b38",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:45"
+  }
+]

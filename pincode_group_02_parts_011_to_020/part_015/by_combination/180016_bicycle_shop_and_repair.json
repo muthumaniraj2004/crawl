@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramdev Cycle Sales & Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "180016",
+    "phone_number": "+91 97837 81002",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sr. No. 209, Nali Road, opp. Ajit Auto Care, Bhagirathi Nagar, Sadhunana Tupe Vasti, Sade Satra Nali, Hadapsar, Pune, Maharashtra 411028",
+    "area": "Bhagirathi Nagar, Sadhunana Tupe Vasti, Sade Satra Nali, Hadapsar",
+    "latitude": 18.5079377,
+    "longitude": 73.9426431,
+    "place_id": "ChIJLT3w-xvCwjsRnCTD1F8DCnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLT3w-xvCwjsRnCTD1F8DCnk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:41"
+  },
+  {
+    "business_name": "Shirdi Cycle Stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Tire shop, Used tire shop",
+    "pincode": "180016",
+    "phone_number": "+91 96739 87212",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Barshi Road, beside Garad Garden, Latur, Maharashtra 413531",
+    "area": "180016",
+    "latitude": 18.403778499999998,
+    "longitude": 76.5571697,
+    "place_id": "ChIJV8flM-SDzzsRFGV94msVjjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8flM-SDzzsRFGV94msVjjk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:41"
+  }
+]

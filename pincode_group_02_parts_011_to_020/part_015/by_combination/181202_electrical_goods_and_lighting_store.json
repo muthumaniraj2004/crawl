@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janyal Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "181202",
+    "phone_number": "+91 84928 97186",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road Near Hp Petroleum Jourian, Jammu, Jammu and Kashmir 181202",
+    "area": "181202",
+    "latitude": 32.8334638,
+    "longitude": 74.58288189999999,
+    "place_id": "ChIJqeJ5-uNfHjkRc5wgqaHhuhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeJ5-uNfHjkRc5wgqaHhuhA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:23:28"
+  },
+  {
+    "business_name": "Sharma Service Point & Car Accessories",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "181202",
+    "phone_number": "+91 98581 23124",
+    "website": "http://www.kuldevs.com/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "near tiny palace, Jourian, Jammu and Kashmir 181202",
+    "area": "181202",
+    "latitude": 32.8350545,
+    "longitude": 74.57512489999999,
+    "place_id": "ChIJkeGmIfZfHjkRs_bRdDC_uX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkeGmIfZfHjkRs_bRdDC_uX4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:23:31"
+  }
+]

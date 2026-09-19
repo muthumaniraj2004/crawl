@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Select Rice House",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "181122",
+    "phone_number": "+91 91499 80979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dream Land, 15, Old Janipur, Janipur, Jammu, Jammu and Kashmir 180007",
+    "area": "Old Janipur, Janipur",
+    "latitude": 32.758555699999995,
+    "longitude": 74.8488675,
+    "place_id": "ChIJAdacfZiFHjkRZmJFMLCyEAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdacfZiFHjkRZmJFMLCyEAE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:01:53"
+  },
+  {
+    "business_name": "Sharda traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "181122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QQM9+9Q8, Jammu, Jammu and Kashmir 18",
+    "area": "181122",
+    "latitude": 32.7834253,
+    "longitude": 74.76937889999999,
+    "place_id": "ChIJh4-SGJ2JHjkRGTGZIz7ltwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4-SGJ2JHjkRGTGZIz7ltwU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:01:55"
+  }
+]

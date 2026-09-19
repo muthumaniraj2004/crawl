@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vansh Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "180018",
+    "phone_number": "+91 94691 72727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Talab Tillo Main Road, opp. Vijay Rice Mill, Bharat Nagar, Jammu, Jammu and Kashmir 180002",
+    "area": "Bharat Nagar",
+    "latitude": 32.7363753,
+    "longitude": 74.82883799999999,
+    "place_id": "ChIJMTNMn1SEHjkR9i0Mp7Frgbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTNMn1SEHjkR9i0Mp7Frgbg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:15"
+  },
+  {
+    "business_name": "Ambica Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "180018",
+    "phone_number": "+91 94175 00909",
+    "website": "https://www.ambicamedicos.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Kanan Plaza, Main Chowk, Vishal Nagar, Talab Tillo, Jammu, Jammu and Kashmir 180002",
+    "area": "Vishal Nagar, Talab Tillo",
+    "latitude": 32.7349165,
+    "longitude": 74.8305946,
+    "place_id": "ChIJfQRcJ1SFHjkRFbZGRdn9Xac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQRcJ1SFHjkRFbZGRdn9Xac",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:17"
+  }
+]

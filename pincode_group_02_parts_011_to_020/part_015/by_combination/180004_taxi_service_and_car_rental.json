@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jammu Car Rental Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Minibus taxi service, Taxi service",
+    "pincode": "180004",
+    "phone_number": "+91 96972 15318",
+    "website": "http://jammucarrental.org.in.diyuholidays.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No. 7 & 21, Shiv Market Railway Station, 1st Floor, near Shiv Temple, Trikuta Nagar, Jammu, Jammu and Kashmir 180020",
+    "area": "Trikuta Nagar",
+    "latitude": 32.7031898,
+    "longitude": 74.8814136,
+    "place_id": "ChIJ7S_rGGuDHjkRjihU1kMpDmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7S_rGGuDHjkRjihU1kMpDmM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:41"
+  },
+  {
+    "business_name": "Jammu Local Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "180004",
+    "phone_number": "+91 91033 78452",
+    "website": "https://jammulocaltaxi.avnoortourandtravels.in.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, Nawabad, Jammu, Jammu and Kashmir 180016",
+    "area": "Nawabad",
+    "latitude": 32.724334,
+    "longitude": 74.852227,
+    "place_id": "ChIJO54aowuFHjkRfa2_But_f70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO54aowuFHjkRfa2_But_f70",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:43"
+  }
+]

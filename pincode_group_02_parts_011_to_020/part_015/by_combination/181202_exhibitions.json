@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajender Park",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Park",
+    "pincode": "181202",
+    "phone_number": "+91 194 247 9548",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "PRFX+P2X, Cannal Head Rd, near Chander Bhaga, Bhagwati Nagar, Canal Road, Jammu, Jammu and Kashmir 180016",
+    "area": "Bhagwati Nagar, Canal Road",
+    "latitude": 32.7243683,
+    "longitude": 74.8476062,
+    "place_id": "ChIJPT1VcfOEHjkR5l4Z0q-j9Mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPT1VcfOEHjkR5l4Z0q-j9Mw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:24:23"
+  },
+  {
+    "business_name": "N R traders",
+    "search_category": "Exhibitions",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler",
+    "pincode": "181202",
+    "phone_number": "+91 88993 34056",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eid Gah Road, Residency Rd, near Mc Donald's, Prem Nagar, Old Heritage City, Jammu, Jammu and Kashmir 180001",
+    "area": "Prem Nagar, Old Heritage City",
+    "latitude": 32.7292232,
+    "longitude": 74.8680384,
+    "place_id": "ChIJz8ak2a2FHjkRsPL2GknNYoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8ak2a2FHjkRsPL2GknNYoY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:24:24"
+  }
+]

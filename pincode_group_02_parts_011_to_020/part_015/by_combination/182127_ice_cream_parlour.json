@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas magotra ice cream parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "182127",
+    "phone_number": "+91 60058 37577",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "lake, Mansar, Jammu, Jammu and Kashmir 184121",
+    "area": "182127",
+    "latitude": 32.6944346,
+    "longitude": 75.1504775,
+    "place_id": "ChIJZ8tOiaslHDkRDCLCymCSgj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8tOiaslHDkRDCLCymCSgj4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:50:49"
+  },
+  {
+    "business_name": "Rahul Amul Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "182127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Manwal, Jammu and Kashmir 182117",
+    "area": "182127",
+    "latitude": 32.7697795,
+    "longitude": 75.1308225,
+    "place_id": "ChIJqbpl2WkvHDkRonS9Oq2FTEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbpl2WkvHDkRonS9Oq2FTEU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:50:49"
+  }
+]

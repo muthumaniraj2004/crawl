@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Misra Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Bag shop, Bookbinder, Copy shop, Courier service, Office supply store, School supply store",
+    "pincode": "181206",
+    "phone_number": "+91 94191 88003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no 303/A, Apsara Rd, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.69834,
+    "longitude": 74.857907,
+    "place_id": "ChIJ-6zuIrGEHjkRvaScZD54oh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6zuIrGEHjkRvaScZD54oh4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:31:23"
+  },
+  {
+    "business_name": "Yak Book Channel",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "181206",
+    "phone_number": "+91 94191 83450",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 22,
+    "address": "Pacca Danga, Afghan Town, wadha vehra, Jammu, Jammu and Kashmir 180001",
+    "area": "Afghan Town, wadha vehra",
+    "latitude": 32.7383175,
+    "longitude": 74.87187,
+    "place_id": "ChIJ189d4OeFHjkR0GFYMkBdTw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ189d4OeFHjkR0GFYMkBdTw8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:31:24"
+  }
+]

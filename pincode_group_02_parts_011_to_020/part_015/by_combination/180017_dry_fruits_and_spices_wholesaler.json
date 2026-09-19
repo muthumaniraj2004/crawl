@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waadi Superfoods",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, E-commerce service",
+    "pincode": "180017",
+    "phone_number": "+91 97972 37977",
+    "website": "https://waadisuperfoods.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ward No. 4, 91/1, Rahimabad, Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Rahimabad, Bathindi",
+    "latitude": 32.7077948,
+    "longitude": 74.9124969,
+    "place_id": "ChIJL4nWTqWDHjkRxg91UCsc-VI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4nWTqWDHjkRxg91UCsc-VI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:46:55"
+  },
+  {
+    "business_name": "Fruit shop",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "180017",
+    "phone_number": "+91 70066 75604",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9, Mangal Market, Railway Station, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Trikuta Nagar",
+    "latitude": 32.705312899999996,
+    "longitude": 74.8776251,
+    "place_id": "ChIJA-zuDpaDHjkRY6dzYpHbePw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-zuDpaDHjkRY6dzYpHbePw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:46:55"
+  }
+]

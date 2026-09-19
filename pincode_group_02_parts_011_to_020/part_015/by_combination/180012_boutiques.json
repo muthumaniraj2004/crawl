@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sargam boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "180012",
+    "phone_number": "+91 95968 29369",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Trikuta Nagar",
+    "latitude": 32.6950342,
+    "longitude": 74.8776817,
+    "place_id": "ChIJaQExcwCDHjkRN31kCgaFb2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQExcwCDHjkRN31kCgaFb2E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:41"
+  },
+  {
+    "business_name": "Vasuki Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "180012",
+    "phone_number": "+91 90865 96596",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 6,
+    "address": "12/4, near Punjab National Bank, Trikuta Nagar, Jammu, Jammu and Kashmir 180020",
+    "area": "Trikuta Nagar",
+    "latitude": 32.6948899,
+    "longitude": 74.8777839,
+    "place_id": "ChIJG9Nd71SDHjkRykO9TLjQH1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9Nd71SDHjkRykO9TLjQH1s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:42"
+  }
+]

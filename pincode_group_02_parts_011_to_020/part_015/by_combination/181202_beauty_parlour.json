@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "181202",
+    "phone_number": "+91 60061 16599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Laxmi Beauty Parlour, near Bawa Katto Mandir, Devipur, Jammu, Jammu and Kashmir 181201",
+    "area": "181202",
+    "latitude": 32.8635914,
+    "longitude": 74.6516583,
+    "place_id": "ChIJMQnDz85hHjkRmBVGYqLkcl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQnDz85hHjkRmBVGYqLkcl8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:23:38"
+  },
+  {
+    "business_name": "Pandey Saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "181202",
+    "phone_number": "+91 78897 46165",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rakh Malal, Chak Bhagwan, Jammu and Kashmir 181203",
+    "area": "181202",
+    "latitude": 32.836064,
+    "longitude": 74.5283268,
+    "place_id": "ChIJBwOZfF9fHjkRT69fJoCFGhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwOZfF9fHjkRT69fJoCFGhg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:23:39"
+  }
+]

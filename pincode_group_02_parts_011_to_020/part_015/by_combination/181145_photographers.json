@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NV Photo Works",
+    "search_category": "Photographers",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "181145",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/Navjotphotoworks",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Channi Himmat Jammu, Jammu City, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.690978199999996,
+    "longitude": 74.8887824,
+    "place_id": "ChIJRVVVVbScHjkRU0NYwMYggM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVVVVbScHjkRU0NYwMYggM0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:14"
+  },
+  {
+    "business_name": "Friends Digital Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "181145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Road, opp. IDRS School Road, Sainik Colony, Chowadhi, Jammu, Jammu and Kashmir 180011",
+    "area": "Sainik Colony, Chowadhi",
+    "latitude": 32.6864323,
+    "longitude": 74.9278362,
+    "place_id": "ChIJrczBlbKdHjkRZ5dIp-ZA9lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrczBlbKdHjkRZ5dIp-ZA9lU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:15"
+  }
+]

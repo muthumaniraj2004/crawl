@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gadget Care Sales & Services",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Pawn shop, Repair service",
+    "pincode": "180019",
+    "phone_number": "+91 99976 69449",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 708,
+    "address": "ground floor, Raj Plaza, 23, Rajpur Rd, Ravindrapuri, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Ravindrapuri, Hathibarkala Salwala",
+    "latitude": 30.335698999999998,
+    "longitude": 78.054045,
+    "place_id": "ChIJR2nBCtApCTkRipS9xREemVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2nBCtApCTkRipS9xREemVg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:04"
+  },
+  {
+    "business_name": "L4Care | Microsoldering",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Cell phone store",
+    "pincode": "180019",
+    "phone_number": "+91 75105 00150",
+    "website": "http://www.l4care.in/",
+    "rating": 5,
+    "reviews_count": 399,
+    "address": "Calicut Mukkam Road, Kunnamangalam, Keralam 673571",
+    "area": "180019",
+    "latitude": 11.3074122,
+    "longitude": 75.881636,
+    "place_id": "ChIJBcq9k69dpjsRBn4sdDrLNnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcq9k69dpjsRBn4sdDrLNnU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:04"
+  }
+]

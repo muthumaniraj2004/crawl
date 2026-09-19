@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "180013",
+    "phone_number": "+91 60052 49259",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lane 4, Durga Nagar, Jammu, Jammu and Kashmir 180013",
+    "area": "Durga Nagar",
+    "latitude": 32.772153599999996,
+    "longitude": 74.8270579,
+    "place_id": "ChIJ4358ux-FHjkRuqc1XMMCDME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4358ux-FHjkRuqc1XMMCDME",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:10"
+  },
+  {
+    "business_name": "Kesar Departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Store",
+    "pincode": "180013",
+    "phone_number": "+91 97960 84316",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Main Road, Lower Thather, Jammu, Jammu and Kashmir 181123",
+    "area": "Lower Thather",
+    "latitude": 32.7939837,
+    "longitude": 74.8209311,
+    "place_id": "ChIJWd43EMiHHjkRg_Wv814eyGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWd43EMiHHjkRg_Wv814eyGI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:12"
+  }
+]

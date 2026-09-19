@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Stationery shop",
+    "search_category": "Shops",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "181201",
+    "phone_number": "+91 97973 67682",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Barui morh, Barola, Akhnoor, Jammu and Kashmir 181201",
+    "area": "181201",
+    "latitude": 32.961525699999996,
+    "longitude": 74.7364446,
+    "place_id": "ChIJqWtAMPhlHjkRm9-dL7U4c8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWtAMPhlHjkRm9-dL7U4c8c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:22:42"
+  },
+  {
+    "business_name": "Mantu Barber Shop",
+    "search_category": "Shops",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "181201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lehar, Akhnoor, Gandharwan, Jammu and Kashmir 181201",
+    "area": "Lehar",
+    "latitude": 32.9587802,
+    "longitude": 74.7102958,
+    "place_id": "ChIJg4iOX1VlHjkRtVFJFZKU-zU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4iOX1VlHjkRtVFJFZKU-zU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:22:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Multi Task",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "181122",
+    "phone_number": "+91 70060 03921",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22/2, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Trikuta Nagar",
+    "latitude": 32.7456295,
+    "longitude": 74.8412362,
+    "place_id": "ChIJi_QoNyaFHjkRufjLxyvqxwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_QoNyaFHjkRufjLxyvqxwI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:03:40"
+  },
+  {
+    "business_name": "HR CALLS",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "181122",
+    "phone_number": "+91 92097 20268",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "305, Narhe Rd, Phase 2, Wadgaon Budruk, Narhe, Pune, Maharashtra 411041",
+    "area": "Phase 2, Wadgaon Budruk, Narhe",
+    "latitude": 18.4576121,
+    "longitude": 73.8245278,
+    "place_id": "ChIJdftZ5ZGVwjsRIrJtiy_2yVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdftZ5ZGVwjsRIrJtiy_2yVI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:03:42"
+  }
+]

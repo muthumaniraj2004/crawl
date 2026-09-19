@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dogra Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "180016",
+    "phone_number": "+91 96221 71170",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhagwati Nagar, Talab Tillo, Jammu, Jammu and Kashmir 180016",
+    "area": "Bhagwati Nagar, Talab Tillo",
+    "latitude": 32.7245625,
+    "longitude": 74.8346875,
+    "place_id": "ChIJjfkNk4WFHjkR7c-vLgQSMaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfkNk4WFHjkR7c-vLgQSMaE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:12"
+  },
+  {
+    "business_name": "Thakur Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "180016",
+    "phone_number": "+91 99061 24849",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main Road, near Church, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.700284599999996,
+    "longitude": 74.8536834,
+    "place_id": "ChIJNddxuQWFHjkRWXClxJ-9RKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNddxuQWFHjkRWXClxJ-9RKk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:12"
+  }
+]

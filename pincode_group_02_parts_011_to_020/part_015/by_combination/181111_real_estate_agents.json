@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANISH KUMAR & ASSOCIATES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "181111",
+    "phone_number": "+91 97968 15394",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "181132",
+    "area": "181111",
+    "latitude": 32.6049858,
+    "longitude": 74.8430273,
+    "place_id": "ChIJ2eYAbNmbHjkRSYPcmZz18NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2eYAbNmbHjkRSYPcmZz18NU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:59:39"
+  },
+  {
+    "business_name": "Lucky properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "181111",
+    "phone_number": "+91 98556 96555",
+    "website": "https://lucky-properties.com/",
+    "rating": 5,
+    "reviews_count": 41,
+    "address": "Lucky properties, chowk, near dental one, New Dashmesh Nagar, Dhilwan, Jalandhar, Punjab 144005",
+    "area": "New Dashmesh Nagar, Dhilwan",
+    "latitude": 31.319745599999997,
+    "longitude": 75.63342999999999,
+    "place_id": "ChIJ7SWb2P5ZGjkRwnhRXAWn644",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SWb2P5ZGjkRwnhRXAWn644",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:59:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jammu And Kashmir Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "181124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ravidas Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Ravidas Nagar",
+    "latitude": 22.7918672,
+    "longitude": 75.908048,
+    "place_id": "ChIJ6aGANCwdYzkRhK6x8dXdQtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6aGANCwdYzkRhK6x8dXdQtE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:51"
+  },
+  {
+    "business_name": "Dhurwe Hotel and Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "181124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 51,
+    "address": "NH 44, Dharna, Maharashtra 445302",
+    "area": "181124",
+    "latitude": 20.1105788,
+    "longitude": 78.59235749999999,
+    "place_id": "ChIJXXDfHG-p0zsRTQvfB7IunBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXDfHG-p0zsRTQvfB7IunBY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:54"
+  }
+]

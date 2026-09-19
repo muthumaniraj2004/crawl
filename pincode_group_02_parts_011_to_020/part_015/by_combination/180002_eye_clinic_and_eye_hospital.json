@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Drishti Opticals",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "180002",
+    "phone_number": "+91 94192 22212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PRR7+7FP, Anand Nagar Road, Bohri, Jammu, Jammu and Kashmir 180002",
+    "area": "Bohri",
+    "latitude": 32.7407167,
+    "longitude": 74.8137158,
+    "place_id": "ChIJw9ujzrqFHjkRnhpJM9Li-zg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9ujzrqFHjkRnhpJM9Li-zg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:22:33"
+  },
+  {
+    "business_name": "Gayatri Eye Clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist",
+    "pincode": "180002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "PRRC+2PR, Hazuri Bagh Road, Colonels Colony, Jammu, 180002",
+    "area": "Colonels Colony",
+    "latitude": 32.7401234,
+    "longitude": 74.821756,
+    "place_id": "ChIJEQ_3kgiFHjkRLqfw9RHa5_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQ_3kgiFHjkRLqfw9RHa5_E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:22:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "dogra computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "182121",
+    "phone_number": "+91 77809 33795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 2, saraswati nagar, Railway Rd, opp. j&k bank arli, Katra, Jammu and Kashmir 182301",
+    "area": "182121",
+    "latitude": 32.986674799999996,
+    "longitude": 74.9340174,
+    "place_id": "ChIJhwCqi115HjkR0FxkE3qDSIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwCqi115HjkR0FxkE3qDSIo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:42:36"
+  },
+  {
+    "business_name": "Elite I.T Solutions Laptop Store",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Used computer store",
+    "all_categories": "Used computer store, Computer service, Computer store, Repair service",
+    "pincode": "182121",
+    "phone_number": "+91 98581 16240",
+    "website": "https://api.whatsapp.com/send/?phone=919858116240&text&type=phone_number&app_absent=0",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH1, Srinagar Bypass, opposite Vishal Mega Mart, Alnoor Colony, Hyderpora, Srinagar, Jammu and Kashmir 190014",
+    "area": "Alnoor Colony, Hyderpora",
+    "latitude": 34.046403,
+    "longitude": 74.7888121,
+    "place_id": "ChIJr-0q1C-P4TgRRfo0VCw3dJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-0q1C-P4TgRRfo0VCw3dJk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:42:36"
+  }
+]

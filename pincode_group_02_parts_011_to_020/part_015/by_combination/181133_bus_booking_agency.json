@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suchani Bus Stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "181133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "J2F3+WFP, Suchani, Jammu and Kashmir 181143",
+    "area": "181133",
+    "latitude": 32.624828799999996,
+    "longitude": 75.0037006,
+    "place_id": "ChIJ7V2bOAAnHDkRP5Lyj2U35jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7V2bOAAnHDkRP5Lyj2U35jE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:12:09"
+  },
+  {
+    "business_name": "Kanika Travels & Cargo",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "181133",
+    "phone_number": "+91 72909 09872",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No 10 Ambedkar Market Mori Gate Gol Chakar Delhi 110006, New Delhi, Delhi 110054",
+    "area": "Block K, Railway Colony, Tis Hazari",
+    "latitude": 28.6660151,
+    "longitude": 77.221206,
+    "place_id": "ChIJPzQdotT9DDkRwdvaD-7KbAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzQdotT9DDkRwdvaD-7KbAM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:12:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Sweets and Resturant",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "182121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH44, Kallar Himiti, Karan Nagar, Udhampur, Jammu and Kashmir 182141",
+    "area": "Kallar Himiti, Karan Nagar",
+    "latitude": 32.916325,
+    "longitude": 75.14189449999999,
+    "place_id": "ChIJUdFYNrXTHTkR9tGXTZRcC8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdFYNrXTHTkR9tGXTZRcC8k",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:21"
+  },
+  {
+    "business_name": "Khajuria sweet shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "182121",
+    "phone_number": "+91 94199 10601",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Panthal Near Devi Pindi chowk, Katra, Sumdrani, Jammu and Kashmir 182121",
+    "area": "182121",
+    "latitude": 32.9755038,
+    "longitude": 74.9792776,
+    "place_id": "ChIJ2y64A2fXHTkRFDavl8OLiRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2y64A2fXHTkRFDavl8OLiRU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:25"
+  }
+]

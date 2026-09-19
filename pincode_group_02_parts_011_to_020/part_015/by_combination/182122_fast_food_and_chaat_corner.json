@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indore Chaat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "182122",
+    "phone_number": "+91 88665 02936",
+    "website": "https://facebook.com/indorchathousesatellite/",
+    "rating": 4.1,
+    "reviews_count": 1244,
+    "address": "8, sagar towar, off Mansi Towers, JAYMA SOCIETY, Vastrapur, Ahmedabad, Gujarat 380015",
+    "area": "JAYMA SOCIETY, Vastrapur",
+    "latitude": 23.0311691,
+    "longitude": 72.5257103,
+    "place_id": "ChIJjddo0suEXjkRUWspqgWat-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjddo0suEXjkRUWspqgWat-Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:43:20"
+  },
+  {
+    "business_name": "Anupam Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "182122",
+    "phone_number": "+91 79760 33732",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 127,
+    "address": "A-414, Shivanand Marg, Block-B, Sector 4, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Block-B, Sector 4, Malviya Nagar",
+    "latitude": 26.851189899999998,
+    "longitude": 75.8187674,
+    "place_id": "ChIJ_3qNqBK2bTkRZW0Hig9I8Ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3qNqBK2bTkRZW0Hig9I8Ko",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:43:21"
+  }
+]

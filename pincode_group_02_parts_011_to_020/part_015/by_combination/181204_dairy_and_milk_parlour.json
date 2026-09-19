@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARATH MILK AND ICECREAM PARLOUR",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Ice cream shop",
+    "pincode": "181204",
+    "phone_number": "+91 76599 49173",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "near Kg To PG institutions, beside Kanakadurga Iron Depo and Hardwares, Gambhiraopet, Telangana 505304",
+    "area": "181204",
+    "latitude": 18.309106399999997,
+    "longitude": 78.56951629999999,
+    "place_id": "ChIJnx2NFcZXzDsRan5-kfds6K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnx2NFcZXzDsRan5-kfds6K8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:26:25"
+  },
+  {
+    "business_name": "PATEL MILK CENTRE",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "181204",
+    "phone_number": "+91 98486 71232",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Mahalaxmi Colony, Armur, Telangana 503224",
+    "area": "Mahalaxmi Colony",
+    "latitude": 18.785538,
+    "longitude": 78.2922262,
+    "place_id": "ChIJGwsdMXbAzTsRIPX7ap_jYRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwsdMXbAzTsRIPX7ap_jYRc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:26:25"
+  }
+]

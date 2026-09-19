@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Enterprises",
+    "search_category": "Resort",
+    "primary_category": "Cooler Supplier",
+    "all_categories": "Cooler Supplier, Electronics manufacturer, Electronics store",
+    "pincode": "180010",
+    "phone_number": "+91 94191 12305",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "63, Phase 1, Industrial Area, Gangyal, opp. Coco Cola, Jammu, Jammu and Kashmir 180010",
+    "area": "Gangyal Industrial Area",
+    "latitude": 32.673499,
+    "longitude": 74.8680129,
+    "place_id": "ChIJp-7uJlybHjkRRGRZj2pnbtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-7uJlybHjkRRGRZj2pnbtA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:36:37"
+  },
+  {
+    "business_name": "Infinite Services",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "180010",
+    "phone_number": "+91 91031 96926",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Between Sharma Resorts and HP Petrol Pump, The Coriander House, Road, Chowadhi, Jammu, Jammu and Kashmir 180011",
+    "area": "Chowadhi",
+    "latitude": 32.6844587,
+    "longitude": 74.9157561,
+    "place_id": "ChIJu1adtr2dHjkRxCQUBza6YT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1adtr2dHjkRxCQUBza6YT4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:36:38"
+  }
+]

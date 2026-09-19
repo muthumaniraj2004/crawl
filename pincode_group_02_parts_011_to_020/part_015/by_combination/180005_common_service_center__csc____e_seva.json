@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIgital Seva Centre ( CSC)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "180005",
+    "phone_number": "+91 74067 62323",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "New, 80feet vajpayee road, Maithri Layout, Kadugodi, Bengaluru, Karnataka 560067",
+    "area": "Maithri Layout, Kadugodi",
+    "latitude": 12.9893182,
+    "longitude": 77.7597456,
+    "place_id": "ChIJGdOUsl4RrjsRgsGi5TgDvGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdOUsl4RrjsRgsGi5TgDvGc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:29:15"
+  },
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "180005",
+    "phone_number": "+91 99108 50462",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "B 100, Block B, Jivan Park, Uttam Nagar, New Delhi, Delhi, 110059",
+    "area": "Block B, Jivan Park, Uttam Nagar",
+    "latitude": 28.616220499999997,
+    "longitude": 77.0719245,
+    "place_id": "ChIJezoAlM4EDTkRbeJnpXZqNks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezoAlM4EDTkRbeJnpXZqNks",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:29:17"
+  }
+]

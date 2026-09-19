@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "180005",
+    "phone_number": "+91 83759 68050",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "468 bc road, chungi, opp. SHS hospital, Rehari Colony, Jammu, Jammu and Kashmir 180005",
+    "area": "Rehari Colony",
+    "latitude": 32.7468894,
+    "longitude": 74.84998209999999,
+    "place_id": "ChIJS7WE9feFHjkRyXvG9VxWu4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7WE9feFHjkRyXvG9VxWu4c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:29:38"
+  },
+  {
+    "business_name": "Exhibitions India Group",
+    "search_category": "Tradeshows",
+    "primary_category": "International trade consultant",
+    "all_categories": "International trade consultant",
+    "pincode": "180005",
+    "phone_number": "+91 11 4279 5000",
+    "website": "http://www.exhibitionsindia.com/",
+    "rating": 4.4,
+    "reviews_count": 138,
+    "address": "C-103, Industrial Estate, Okhla Phase III, Okhla, New Delhi, Delhi 110020",
+    "area": "Industrial Estate, Okhla Phase III, Okhla",
+    "latitude": 28.550535,
+    "longitude": 77.2707645,
+    "place_id": "ChIJrbT-r4gWrjsRXiRj_n77XO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbT-r4gWrjsRXiRj_n77XO4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:29:39"
+  }
+]

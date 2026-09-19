@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eden Organic Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "181145",
+    "phone_number": "+91 73388 90721",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "414, 1st Cross Street, Lazar Nagar, Avadi, Chennai 71, near Lucky store, Chennai, Tamil Nadu 600071",
+    "area": "Kamaraj Nagar",
+    "latitude": 13.1055564,
+    "longitude": 80.0987881,
+    "place_id": "ChIJo4-CK0BjUjoRhvIzCgslQEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4-CK0BjUjoRhvIzCgslQEw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:06"
+  },
+  {
+    "business_name": "Uzhavu Organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Health food store, Organic farm, Organic shop",
+    "pincode": "181145",
+    "phone_number": "+91 95662 42794",
+    "website": "http://uzhavu.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "12/176,Annai Kasturibai Indira Gandhi Street, opp. to VIDHYA MATRIC HIGHER SECONDARY SCHOOL, Medavakkam, Tamil Nadu 600100",
+    "area": "Medavakkam",
+    "latitude": 12.912189099999999,
+    "longitude": 80.1942613,
+    "place_id": "ChIJHfPnvBtcUjoRn47IH2t7Sq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfPnvBtcUjoRn47IH2t7Sq4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:06"
+  }
+]

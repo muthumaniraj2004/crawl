@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AG Enterprises",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer",
+    "pincode": "181101",
+    "phone_number": "+91 70062 36183",
+    "website": "https://ag-enterprises.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ADDA, near HDFC ATM, Sarore, Samba, Jammu and Kashmir 181133",
+    "area": "181101",
+    "latitude": 32.620913699999996,
+    "longitude": 74.9250449,
+    "place_id": "ChIJsdCRgCqdHjkR3DLyRsuAIrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdCRgCqdHjkR3DLyRsuAIrI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:05"
+  },
+  {
+    "business_name": "Sahil Auto Mobile Workshop",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Bicycle repair shop",
+    "pincode": "181101",
+    "phone_number": "+91 96825 71917",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sahil Auto Mobile Workshop Harsa Dabber, Road, near by rice mill, Arnia, Bishnah, Jammu and Kashmir 181132",
+    "area": "181101",
+    "latitude": 32.5941944,
+    "longitude": 74.8489772,
+    "place_id": "ChIJ963FqViZHjkRJWmyhEkpVWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ963FqViZHjkRJWmyhEkpVWU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:06"
+  }
+]

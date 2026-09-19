@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baker Choice",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "181221",
+    "phone_number": "+91 78895 44098",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Bazar Kandoli Nagrota, Jammu, Jammu and Kashmir 181221",
+    "area": "181221",
+    "latitude": 32.8004113,
+    "longitude": 74.9173855,
+    "place_id": "ChIJDzojmnqBHjkR5PjvcSw7-BA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzojmnqBHjkR5PjvcSw7-BA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:33:56"
+  },
+  {
+    "business_name": "A.R bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "181221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Toll post kandoli nagrota, Nagrota, Jammu and Kashmir 181221",
+    "area": "Durga Vihar",
+    "latitude": 32.8066283,
+    "longitude": 74.9215243,
+    "place_id": "ChIJ0cBluimBHjkRWH8xHyRr6QQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cBluimBHjkRWH8xHyRr6QQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:33:56"
+  }
+]

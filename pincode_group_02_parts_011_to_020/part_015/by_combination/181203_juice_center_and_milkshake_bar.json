@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "181203",
+    "phone_number": "+91 62814 66635",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside post office, Jogipet, Telangana 502270",
+    "area": "181203",
+    "latitude": 17.8365026,
+    "longitude": 78.07171509999999,
+    "place_id": "ChIJa1zL9u8FzDsRWXg5CpNxF4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1zL9u8FzDsRWXg5CpNxF4Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:24:42"
+  },
+  {
+    "business_name": "Sai Chill hub ice cream drinks & Bakery",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "181203",
+    "phone_number": "+91 83410 54349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "LIG 184, Bharat Heavy Electricals Limited, Hyderabad, Telangana 502032",
+    "area": "Bharat Heavy Electricals Limited",
+    "latitude": 17.5037415,
+    "longitude": 78.3032494,
+    "place_id": "ChIJMemQzGvtyzsRIip1aSj9VeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMemQzGvtyzsRIip1aSj9VeQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:24:43"
+  }
+]

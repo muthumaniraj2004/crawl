@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh Fish Corner",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "182121",
+    "phone_number": "+91 96222 82457",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Om Poultry Chopra, Bikram Enclave, Hsop, Udhampur, Jammu and Kashmir 182121",
+    "area": "Bikram Enclave, Hsop",
+    "latitude": 32.9077506,
+    "longitude": 75.08383529999999,
+    "place_id": "ChIJ5RGByTnTHTkREuiwR-0IdEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RGByTnTHTkREuiwR-0IdEM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:18"
+  },
+  {
+    "business_name": "Dara poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "182121",
+    "phone_number": "+91 70069 52072",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pangara jagir khambli, Khambli near Raja mandlik, Jammu and Kashmir 182101",
+    "area": "182121",
+    "latitude": 32.9632518,
+    "longitude": 75.0815557,
+    "place_id": "ChIJ9Y1hcMPTHTkRXUS7a26AYhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Y1hcMPTHTkRXUS7a26AYhU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:19"
+  }
+]

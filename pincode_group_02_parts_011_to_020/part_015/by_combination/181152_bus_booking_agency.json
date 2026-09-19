@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Tour And Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Taxi service",
+    "pincode": "181152",
+    "phone_number": "+91 97960 02222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop no 54, Mangal Market, Railway Station, Trikuta Nagar, Jammu, Jammu and Kashmir 180020",
+    "area": "Trikuta Nagar",
+    "latitude": 32.699940399999996,
+    "longitude": 74.8818624,
+    "place_id": "ChIJBed1MkGDHjkRa-cH529ylEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBed1MkGDHjkRa-cH529ylEA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:42"
+  },
+  {
+    "business_name": "Mir Travel Agency",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "181152",
+    "phone_number": "+91 94192 61182",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 37,
+    "address": "Lane No. 3, Bathindi Rd, Vidhata Nagar, Bathindi, Jammu, Jammu and Kashmir 181152",
+    "area": "Vidhata Nagar, Bathindi",
+    "latitude": 32.7120509,
+    "longitude": 74.8991096,
+    "place_id": "ChIJe5lRyjiDHjkRGXRv5KRlkW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5lRyjiDHjkRGXRv5KRlkW4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:44"
+  }
+]

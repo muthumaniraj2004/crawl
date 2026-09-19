@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Relaxe Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa",
+    "pincode": "180005",
+    "phone_number": "+91 11 4657 1711",
+    "website": "https://relaxespa.com/",
+    "rating": 4.8,
+    "reviews_count": 594,
+    "address": "Shop no 12A, Southern park mall, Pamposh Enclave, District Centre, Sector 6, Saket, Delhi, New Delhi, Delhi 110017",
+    "area": "Pamposh Enclave, District Centre, Sector 6, Saket",
+    "latitude": 28.5273941,
+    "longitude": 77.2192415,
+    "place_id": "ChIJ4SnEl-PhDDkRVOWKHw6uNUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SnEl-PhDDkRVOWKHw6uNUY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:28:53"
+  },
+  {
+    "business_name": "Golden Thai Unisex Spa Centre",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "180005",
+    "phone_number": "+91 62807 79795",
+    "website": "https://golden-thai-unisex.grexa.site/",
+    "rating": 4.6,
+    "reviews_count": 130,
+    "address": "B 27/209, Dugri Rd, D-Block, Model Town Extension, Model Town, Ludhiana, Punjab 141002",
+    "area": "D-Block, Model Town Extension, Model Town",
+    "latitude": 30.8805265,
+    "longitude": 75.8482211,
+    "place_id": "ChIJ9anQbU2DGjkRTj8Z2zWFKKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9anQbU2DGjkRTj8Z2zWFKKc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:28:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy Lights",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Hardware store",
+    "pincode": "180018",
+    "phone_number": "+91 94191 02576",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 14,
+    "address": "Main Road, Lower, Roop Nagar, Jammu, Jammu and Kashmir 180013",
+    "area": "Lower, Roop Nagar",
+    "latitude": 32.7645982,
+    "longitude": 74.8286148,
+    "place_id": "ChIJBSSDXi2EHjkRvqsyIT1v6H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSSDXi2EHjkRvqsyIT1v6H0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:35"
+  },
+  {
+    "business_name": "New Ever Light Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electrical repair shop",
+    "pincode": "180018",
+    "phone_number": "+91 98484 03778",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop No-25/6, Near S.K. Gardens Function Hall, Mansurabad Road, L. B. Nagar, Telangana 500068",
+    "area": "Sai Harsa Residency, Aaditya Nagar, L. B. Nagar",
+    "latitude": 17.3533182,
+    "longitude": 78.55716149999999,
+    "place_id": "ChIJG4Lch82ZyzsRVeEjudAmnXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4Lch82ZyzsRVeEjudAmnXA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:37"
+  }
+]

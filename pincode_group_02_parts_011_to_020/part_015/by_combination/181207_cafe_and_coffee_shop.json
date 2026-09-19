@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Coffee day - Victoria Estate",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Takeout restaurant, Pastry shop, Restaurant, Sandwich shop",
+    "pincode": "181207",
+    "phone_number": "+91 1800 102 5093",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ground Floor, Victoria Estate Defence Road, Chowk, Pangoli, Punjab 145001",
+    "area": "Victoria Estate",
+    "latitude": 32.30888,
+    "longitude": 75.6723035,
+    "place_id": "ChIJx3Pk21Z-HDkRTfXcQE-YZGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3Pk21Z-HDkRTfXcQE-YZGM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:32:15"
+  },
+  {
+    "business_name": "Cafe Coffee Day - Check Post",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Dessert restaurant, Sandwich shop, Vegetarian restaurant",
+    "pincode": "181207",
+    "phone_number": "+91 1800 102 5093",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near Vaishno Devi Material Check Post, Katra, Purana Droorh, Jammu and Kashmir 182301",
+    "area": "181207",
+    "latitude": 32.9981982,
+    "longitude": 74.93959389999999,
+    "place_id": "ChIJezAZCvJ4HjkRw80rynyOGYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezAZCvJ4HjkRw80rynyOGYM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:32:15"
+  }
+]

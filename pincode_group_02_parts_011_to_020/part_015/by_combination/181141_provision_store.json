@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anamika Provisional Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "181141",
+    "phone_number": "+91 96223 85627",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dug, 1, Dug Main Bazaar, Samba, Jammu and Kashmir 181141",
+    "area": "181141",
+    "latitude": 32.493331999999995,
+    "longitude": 74.9004997,
+    "place_id": "ChIJlUSMOcahHjkR7DT9KzH2m3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUSMOcahHjkR7DT9KzH2m3I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:22"
+  },
+  {
+    "business_name": "Best Buy Provisional Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "181141",
+    "phone_number": "+91 78898 67272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NH 44, near Gurha Morh, Vijaypur, Gorah Salathian, Jammu and Kashmir 184120",
+    "area": "181141",
+    "latitude": 32.5684993,
+    "longitude": 75.0131652,
+    "place_id": "ChIJg3H1jrohHDkRh3FofpBs1JE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3H1jrohHDkRh3FofpBs1JE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:23"
+  }
+]

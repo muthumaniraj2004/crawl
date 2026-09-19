@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Toufiq Umer Auto Spare Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "182125",
+    "phone_number": "+91 91034 44638",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nh-44, behind Jamia Masjid, Chander Kote, Jammu and Kashmir 182148",
+    "area": "182125",
+    "latitude": 33.2041058,
+    "longitude": 75.28775569999999,
+    "place_id": "ChIJWyXu70zBHTkRnvFqAPcmugI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyXu70zBHTkRnvFqAPcmugI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:47:28"
+  },
+  {
+    "business_name": "SM SPARE & LUBE HOUSE",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Auto machine shop, Wholesaler",
+    "pincode": "182125",
+    "phone_number": "+91 94191 94161",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "2nd location, Bus Stand, NH-44, Mehar, Ramban, Jammu and Kashmir 182144",
+    "area": "Mehar",
+    "latitude": 33.2381384,
+    "longitude": 75.2403054,
+    "place_id": "ChIJfQM_q5TDHTkRPhGmBKToqFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQM_q5TDHTkRPhGmBKToqFI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:47:28"
+  }
+]

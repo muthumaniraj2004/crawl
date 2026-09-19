@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharabi adda",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "181102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JP3J+XJ2, Ranbir Singh Pura, 181102",
+    "area": "181102",
+    "latitude": 32.6048991,
+    "longitude": 74.73153099999999,
+    "place_id": "ChIJz_I0Z82RHjkRyVySG06DaA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_I0Z82RHjkRyVySG06DaA8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:56:31"
+  },
+  {
+    "business_name": "The Snack Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "181102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "HRG8+P96, Chak Harni, Bishna, Jammu and Kashmir 181132",
+    "area": "181102",
+    "latitude": 32.576796,
+    "longitude": 74.815882,
+    "place_id": "ChIJ688pBlmZHjkRjan1A3-L7yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ688pBlmZHjkRjan1A3-L7yE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:56:35"
+  }
+]

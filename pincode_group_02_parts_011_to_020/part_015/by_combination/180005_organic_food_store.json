@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAHADUR VEGETABLE SHOP",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "180005",
+    "phone_number": "+91 96221 74849",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "opposite Axis Bank, Panjtirthi, Jammu, Jammu and Kashmir 180001",
+    "area": "Panjtirthi",
+    "latitude": 32.7412055,
+    "longitude": 74.87136389999999,
+    "place_id": "ChIJoX36T2SFHjkRzZacMQP9jas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoX36T2SFHjkRzZacMQP9jas",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:27:54"
+  },
+  {
+    "business_name": "FarmSeHomes",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "180005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 3,
+    "address": "57 New, Rehari Road, Jammu, Jammu and Kashmir 180005",
+    "area": "Ambphalla",
+    "latitude": 32.7407986,
+    "longitude": 74.86019449999999,
+    "place_id": "ChIJSfBHrpmFHjkRfjrziyDV0nQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfBHrpmFHjkRfjrziyDV0nQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:27:54"
+  }
+]

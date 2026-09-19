@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Fish Store",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "180013",
+    "phone_number": "+91 77808 90808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Chowk, Bantalab Road, near kV School, Jammu, Jammu and Kashmir 181123",
+    "area": "Barnai, Dina Nagar, Upper Barnai",
+    "latitude": 32.7795941,
+    "longitude": 74.8238853,
+    "place_id": "ChIJJQVThH6GHjkR0koh-MXpqVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQVThH6GHjkR0koh-MXpqVQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:14"
+  },
+  {
+    "business_name": "Chinore Fish House",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "180013",
+    "phone_number": "+91 91497 02237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chinore, Jammu, Jammu and Kashmir 180013",
+    "area": "Chinore",
+    "latitude": 32.775394,
+    "longitude": 74.8288949,
+    "place_id": "ChIJ27DsJOmHHjkR2yJR4Om7giI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27DsJOmHHjkR2yJR4Om7giI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:17"
+  }
+]

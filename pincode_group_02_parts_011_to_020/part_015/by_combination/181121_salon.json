@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Impression Beauty Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "181121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Pillar Number - 91, 92, Akhnoor Road, opp. BSF, near KC Gurukul School, Manorama Vihar, Paloura, Jammu, Jammu and Kashmir 181121",
+    "area": "Manorama Vihar, Paloura",
+    "latitude": 32.7476778,
+    "longitude": 74.8230444,
+    "place_id": "ChIJY1mZcrSFHjkRyfn-5T2UGk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1mZcrSFHjkRyfn-5T2UGk4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:00:53"
+  },
+  {
+    "business_name": "Style Paradise Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "181121",
+    "phone_number": "+91 70062 91212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G-37, Shanti Nagar, Toph, Sherkhania, Jammu, Jammu and Kashmir 180001",
+    "area": "Shanti Nagar, Toph",
+    "latitude": 32.7428609,
+    "longitude": 74.8405765,
+    "place_id": "ChIJ9-UnQp-FHjkR1WkzicST8A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-UnQp-FHjkR1WkzicST8A4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:00:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Life Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "180010",
+    "phone_number": "+91 99061 00631",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 26,
+    "address": "Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.6329432,
+    "longitude": 74.9150519,
+    "place_id": "ChIJ80XVwmadHjkRM--VHnstaXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80XVwmadHjkRM--VHnstaXM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:35:54"
+  },
+  {
+    "business_name": "St.Joseph's Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Community center",
+    "pincode": "180010",
+    "phone_number": "+91 1923 222 307",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Barjani Talab, Smailpur, Bari Brahmana, Jammu and Kashmir 181133",
+    "area": "Meen Sarkar",
+    "latitude": 32.6336205,
+    "longitude": 74.9459309,
+    "place_id": "ChIJLUuKweqdHjkRHd4spjvRmeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUuKweqdHjkRHd4spjvRmeo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:35:54"
+  }
+]

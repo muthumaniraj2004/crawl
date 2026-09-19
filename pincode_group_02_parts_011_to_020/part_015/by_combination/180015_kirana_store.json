@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Ram Sanjay Kumar",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "180015",
+    "phone_number": "+91 94191 97548",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 36,
+    "address": "Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.6896675,
+    "longitude": 74.889579,
+    "place_id": "ChIJDWzF2rOcHjkRag0lSEznOEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWzF2rOcHjkRag0lSEznOEA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:04"
+  },
+  {
+    "business_name": "Swastik Super Shoppee",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "180015",
+    "phone_number": "+91 97973 29200",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 17,
+    "address": "Ist Main Road, Sector 2, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Sector 2, Channi Himat",
+    "latitude": 32.692807099999996,
+    "longitude": 74.89361509999999,
+    "place_id": "ChIJQaqFWbScHjkRF91ve3qwr98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaqFWbScHjkRF91ve3qwr98",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:05"
+  }
+]

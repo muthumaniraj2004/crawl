@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirupati cycle mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "182124",
+    "phone_number": "+91 91456 27383",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nanded naka, Udgir, Maharashtra 413517",
+    "area": "Nanded naka",
+    "latitude": 18.3991529,
+    "longitude": 77.10644839999999,
+    "place_id": "ChIJj3nk-lurzzsR8VwDK52Co3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3nk-lurzzsR8VwDK52Co3E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:45:40"
+  },
+  {
+    "business_name": "Raj Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "182124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "chowk, Wasser Lachkhazana, Kuleed, Kishtwar, Jammu and Kashmir 182204",
+    "area": "Wasser Lachkhazana, Kuleed",
+    "latitude": 33.3236656,
+    "longitude": 75.7613526,
+    "place_id": "ChIJW9OHGn8LHTkR6j9_dCWKdM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9OHGn8LHTkR6j9_dCWKdM8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:45:40"
+  }
+]

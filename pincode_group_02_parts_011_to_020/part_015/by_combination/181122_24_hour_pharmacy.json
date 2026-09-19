@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "181122",
+    "phone_number": "+91 98582 38811",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "nearCamridge International school, Akhnoor road, Jammu, Jammu and Kashmir 181206",
+    "area": "181122",
+    "latitude": 32.8008685,
+    "longitude": 74.7894673,
+    "place_id": "ChIJkQynI-aHHjkRiT4ZW2H7nHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQynI-aHHjkRiT4ZW2H7nHs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:02:14"
+  },
+  {
+    "business_name": "Care and Cure PharmX",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "181122",
+    "phone_number": "+91 84928 99278",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 53,
+    "address": "Tunia Danga, Dhar Road, Majalta, near PHC Hospital Khoon, Jammu and Kashmir 184205",
+    "area": "181122",
+    "latitude": 32.6652221,
+    "longitude": 75.2784495,
+    "place_id": "ChIJoVuHu2Y5HDkR28tPl5q-BaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVuHu2Y5HDkR28tPl5q-BaA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:02:17"
+  }
+]

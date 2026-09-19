@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Baker's",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "181132",
+    "phone_number": "+91 94692 04001",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NH-1A, Tarore, Jammu and Kashmir 181133",
+    "area": "181132",
+    "latitude": 32.6035004,
+    "longitude": 74.9475993,
+    "place_id": "ChIJ0Vtx_zqfHjkR3tt6ph-2ZvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Vtx_zqfHjkR3tt6ph-2ZvM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:36"
+  },
+  {
+    "business_name": "Caffeen’s",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "181132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "JXJ3+WM6, Bari Brahmana, Ismail Pur, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.632173,
+    "longitude": 74.954148,
+    "place_id": "ChIJ2c0cXACdHjkRj2Y_6gAIJTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2c0cXACdHjkRj2Y_6gAIJTs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:38"
+  }
+]

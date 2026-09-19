@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hamleys",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store, Baby store, Game store, Gift shop, Stationery store",
+    "pincode": "180012",
+    "phone_number": "+91 88799 75198",
+    "website": "https://stores.hamleys.in/hamleys-the-finest-toy-shop-in-the-world-wave-mall-jammu-toy-shop-channi-rama-jammu-299181/Home",
+    "rating": 4.9,
+    "reviews_count": 707,
+    "address": "Shop No 27 to 32, 1st Floor, Wave Mall, opposite Bathindi Road, Malik Market, Guru Tegh Bahadur Nagar, Channi Himat, Rama, Jammu, Jammu and Kashmir 181152",
+    "area": "Malik Market, Guru Tegh Bahadur Nagar, Channi Himat",
+    "latitude": 32.7099638,
+    "longitude": 74.8934326,
+    "place_id": "ChIJkdZ0TQKDHjkRBuiB8nlybGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdZ0TQKDHjkRBuiB8nlybGg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:35"
+  },
+  {
+    "business_name": "Petals",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "180012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "381 A, Shastri Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Shastri Nagar",
+    "latitude": 32.6942349,
+    "longitude": 74.855598,
+    "place_id": "ChIJiQPKbrSEHjkR3PiLWBpt9x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQPKbrSEHjkR3PiLWBpt9x0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:37"
+  }
+]

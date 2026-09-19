@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Square One Trading Co",
+    "search_category": "Departmental Store",
+    "primary_category": "Discount supermarket",
+    "all_categories": "Discount supermarket",
+    "pincode": "180007",
+    "phone_number": "+91 94197 85870",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 35,
+    "address": "QR6G+QF4, Paloura Top, Paloura, Barbai, Jammu, 181205",
+    "area": "Paloura Top, Paloura",
+    "latitude": 32.761882899999996,
+    "longitude": 74.8262134,
+    "place_id": "ChIJoyOwPM2FHjkR6elAlBEeteE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyOwPM2FHjkR6elAlBEeteE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:31:44"
+  },
+  {
+    "business_name": "Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "180007",
+    "phone_number": "+91 95967 39796",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashaq Hussain Ramzanpura, near Eid Gha, Jammu, Jammu and Kashmir 180007",
+    "area": "Housing Colony",
+    "latitude": 32.7650055,
+    "longitude": 74.8450735,
+    "place_id": "ChIJbZZbV6qFHjkRVQ0IGS7R5ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZZbV6qFHjkRVQ0IGS7R5ug",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:31:45"
+  }
+]

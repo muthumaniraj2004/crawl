@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Balloon Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment",
+    "pincode": "180020",
+    "phone_number": "N/A",
+    "website": "http://www.myballoondecor.com/",
+    "rating": 4,
+    "reviews_count": 52,
+    "address": "My Balloon Decor, 180020, India",
+    "area": "180020",
+    "latitude": 28.370205499999997,
+    "longitude": 76.9460778,
+    "place_id": "ChIJHX_QL6wZDTkRXZhklq12l0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHX_QL6wZDTkRXZhklq12l0g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:53:36"
+  },
+  {
+    "business_name": "Dreamy Balloon Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "180020",
+    "phone_number": "+91 88520 80696",
+    "website": "https://dreamyballoondecor.com/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Dreamy Balloon Decor, 180020, India",
+    "area": "180020",
+    "latitude": 28.588290999999998,
+    "longitude": 77.426614,
+    "place_id": "ChIJAXKdZECNOCARDF4CCt01_cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXKdZECNOCARDF4CCt01_cQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:53:38"
+  }
+]

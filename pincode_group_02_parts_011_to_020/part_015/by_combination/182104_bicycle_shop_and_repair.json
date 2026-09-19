@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pineapple Bike Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Bicycle club, Service establishment",
+    "pincode": "182104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Pineapple Bike Shop, 182104, India",
+    "area": "182104",
+    "latitude": null,
+    "longitude": null,
+    "place_id": "ChIJeYSLRVFZxIkR6kz9nLE8uHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYSLRVFZxIkR6kz9nLE8uHY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:40:04"
+  },
+  {
+    "business_name": "Deepak Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "182104",
+    "phone_number": "+91 93277 35036",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Near Raghunath School, Memko - Bapunagar Road, Lal Bahadur Shastri Rd, Vimal Jyoti Society, Hirawadi, Saijpur Bogha, Ahmedabad, Gujarat 382345",
+    "area": "Vimal Jyoti Society, Hirawadi, Saijpur Bogha",
+    "latitude": 23.047007699999998,
+    "longitude": 72.6327721,
+    "place_id": "ChIJs5Yd_b2GXjkRnNrWBHXvR8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5Yd_b2GXjkRnNrWBHXvR8w",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:40:08"
+  }
+]

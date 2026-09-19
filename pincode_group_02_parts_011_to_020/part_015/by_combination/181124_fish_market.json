@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jhatka Meat Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "181124",
+    "phone_number": "+91 84930 69568",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bsf, Manorama Vihar, Paloura, Jammu, Jammu and Kashmir 180002",
+    "area": "Manorama Vihar, Paloura",
+    "latitude": 32.7455004,
+    "longitude": 74.8226336,
+    "place_id": "ChIJt8IAOu-FHjkRgpzIAzQV4T0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8IAOu-FHjkRgpzIAzQV4T0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:45"
+  },
+  {
+    "business_name": "Fish Market, indapur",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "181124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "32W8+C4Q, APMC, Indapur, Maharashtra 413120",
+    "area": "APMC",
+    "latitude": 18.094720499999998,
+    "longitude": 75.0177534,
+    "place_id": "ChIJ2zatbi15xDsRsjIYZR0Mhmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zatbi15xDsRsjIYZR0Mhmk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:46"
+  }
+]

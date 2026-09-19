@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart n Royal car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "181221",
+    "phone_number": "+91 90862 41181",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khanpur, Nagrota, Jammu and Kashmir 181221",
+    "area": "Khanpur",
+    "latitude": 32.7879375,
+    "longitude": 74.8986875,
+    "place_id": "ChIJx9UJu0qBHjkRc-O2cRI5ov0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9UJu0qBHjkRc-O2cRI5ov0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:34:25"
+  },
+  {
+    "business_name": "Car washing station Khanpur Nagrota bypass",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto repair shop",
+    "pincode": "181221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Bypass Rd, Nagrota, Jammu and Kashmir 181221",
+    "area": "181221",
+    "latitude": 32.7834594,
+    "longitude": 74.8881727,
+    "place_id": "ChIJwX4vUQuBHjkRZtc4HvyzSLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwX4vUQuBHjkRZtc4HvyzSLY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:34:25"
+  }
+]

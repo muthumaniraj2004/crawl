@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tasty Chicken Wala",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "180012",
+    "phone_number": "+91 70513 86357",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Shop F, 7, Sector 14, Guru Nanak Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Sector 14, Guru Nanak Nagar",
+    "latitude": 32.6984896,
+    "longitude": 74.8731249,
+    "place_id": "ChIJpdJyeZGFHjkRV0KlhLOusvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdJyeZGFHjkRV0KlhLOusvI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:27"
+  },
+  {
+    "business_name": "Spicy Grillz",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant",
+    "pincode": "180012",
+    "phone_number": "+91 94191 12495",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "MVWG+J73, Main Market, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Trikuta Nagar",
+    "latitude": 32.6965103,
+    "longitude": 74.8756733,
+    "place_id": "ChIJI6BB-SODHjkRrFJK5z5pIT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6BB-SODHjkRrFJK5z5pIT8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:30"
+  }
+]

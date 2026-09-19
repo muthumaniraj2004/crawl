@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Multispeciality Clinic",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Gastroenterologist",
+    "all_categories": "Gastroenterologist, Endoscopist, Gynecologist, Hepatologist, Orthopedic clinic, Radiologist",
+    "pincode": "180013",
+    "phone_number": "+91 99060 08512",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "F-11, Bantalab Road, near Vitasta Hospital, Swarn Vihar, Rajinder Nagar, Durga Nagar, Jammu, Jammu and Kashmir 181123",
+    "area": "Swarn Vihar, Rajinder Nagar, Durga Nagar",
+    "latitude": 32.768274399999996,
+    "longitude": 74.8158243,
+    "place_id": "ChIJ2VPX17GFHjkRP8zUVDXyXdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VPX17GFHjkRP8zUVDXyXdw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:38"
+  },
+  {
+    "business_name": "Janki Jeevant Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "180013",
+    "phone_number": "+91 94197 84343",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "QRPH+HRV, Nardani Bajwan, Jammu, Jammu and Kashmir 181123",
+    "area": "Nardani Bajwan",
+    "latitude": 32.7870969,
+    "longitude": 74.8291588,
+    "place_id": "ChIJcXQTegCHHjkRPR3tHBG0DUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXQTegCHHjkRPR3tHBG0DUg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:38"
+  }
+]

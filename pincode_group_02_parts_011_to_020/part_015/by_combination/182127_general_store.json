@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Enterprises",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182127",
+    "phone_number": "+91 94199 24549",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5, Manwal, Pingar, Jammu and Kashmir 181224",
+    "area": "182127",
+    "latitude": 32.768411799999996,
+    "longitude": 75.1483949,
+    "place_id": "ChIJbaAKhjAvHDkRLBUMy4tk5VA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbaAKhjAvHDkRLBUMy4tk5VA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:50:41"
+  },
+  {
+    "business_name": "Amit general store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "182127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "R4PX+HWP Nikki nallian roundomail, Udhampur, Sunal, Jammu and Kashmir 182126",
+    "area": "182127",
+    "latitude": 32.836461299999996,
+    "longitude": 75.1498185,
+    "place_id": "ChIJ56Zm9vgtHDkR3mkMR_WSbeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56Zm9vgtHDkR3mkMR_WSbeE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:50:42"
+  }
+]

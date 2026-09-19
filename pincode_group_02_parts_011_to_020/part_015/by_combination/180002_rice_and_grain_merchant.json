@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Sai Food Grains",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "180002",
+    "phone_number": "+91 99599 99964",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 30,
+    "address": "Swamik Nagar, AS Rao Nagar, Secunderabad, Telangana 500062",
+    "area": "Swamik Nagar, AS Rao Nagar",
+    "latitude": 17.477736999999998,
+    "longitude": 78.5529981,
+    "place_id": "ChIJHQCmaJ2byzsR-hsSA_Vua1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQCmaJ2byzsR-hsSA_Vua1M",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:22:08"
+  },
+  {
+    "business_name": "Guru Nanak Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "180002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QPP6+FV9, Jammu, Jammu and Kashmir 181206",
+    "area": "180002",
+    "latitude": 32.7861733,
+    "longitude": 74.7122203,
+    "place_id": "ChIJAXaCWgCJHjkRg2GDGNB5WBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXaCWgCJHjkRg2GDGNB5WBk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:22:10"
+  }
+]

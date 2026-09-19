@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalimar Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "181131",
+    "phone_number": "+91 97966 48390",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 25,
+    "address": "Shop No.6, General Bus Stand, Resham Ghar Colony, Jammu, Jammu and Kashmir 180016",
+    "area": "Resham Ghar Colony",
+    "latitude": 32.727604899999996,
+    "longitude": 74.859291,
+    "place_id": "ChIJg1W0446EHjkR6Dc4G-6Yo5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1W0446EHjkR6Dc4G-6Yo5I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:08:19"
+  },
+  {
+    "business_name": "nannu tour & travels jammu",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Garment Exporter",
+    "all_categories": "Garment Exporter",
+    "pincode": "181131",
+    "phone_number": "+91 90700 18888",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "KIRPIND, RS Pura Rd, Jammu, Jammu and Kashmir 181101",
+    "area": "181131",
+    "latitude": 32.613803499999996,
+    "longitude": 74.7943037,
+    "place_id": "ChIJ6VxiikWbHjkRRxTKESr-KQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VxiikWbHjkRRxTKESr-KQw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:08:19"
+  }
+]

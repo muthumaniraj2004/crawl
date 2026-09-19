@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kings pets shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "180019",
+    "phone_number": "+91 98857 02627",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 173,
+    "address": "Azam Pura, Siddipet, Telangana 502103",
+    "area": "Azam Pura",
+    "latitude": 18.104374,
+    "longitude": 78.8488307,
+    "place_id": "ChIJxTb2C5vtzDsR2TROlJ47iaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTb2C5vtzDsR2TROlJ47iaU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:49"
+  },
+  {
+    "business_name": "DOG MART",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "180019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chowk, Sanjay Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Sanjay Nagar",
+    "latitude": 32.6953269,
+    "longitude": 74.86072,
+    "place_id": "ChIJFw3dWZuFHjkRuQb3dr4AtcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFw3dWZuFHjkRuQb3dr4AtcE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramya Electricals",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "180003",
+    "phone_number": "+91 98411 35626",
+    "website": "https://www.ramyaelectricals.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "76, Brahmin St, Pattravakkam, Tiny Sector, Sidco Industrial Estate, Ambattur, Chennai, Tamil Nadu 600058",
+    "area": "Pattravakkam, Tiny Sector, Sidco Industrial Estate, Ambattur",
+    "latitude": 13.1090194,
+    "longitude": 80.16703179999999,
+    "place_id": "ChIJx2PvTpZjUjoRHUHhesznxuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2PvTpZjUjoRHUHhesznxuM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:25:45"
+  },
+  {
+    "business_name": "Mototech Industrial Sollutions",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "180003",
+    "phone_number": "+91 99940 19222",
+    "website": "https://www.indiamart.com/mototechindustrialsolutions/",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "D2, Industrial Estate,, thttanchavadi,, lawspet,, Puducherry, 605009",
+    "area": "Thattanchavady",
+    "latitude": 11.9457138,
+    "longitude": 79.8062376,
+    "place_id": "ChIJgSHSm3JhUzoRJD8__Bp-IAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSHSm3JhUzoRJD8__Bp-IAE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:25:46"
+  }
+]

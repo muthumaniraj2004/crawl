@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Built Theory",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "180016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Auqaf Complex, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.7032363,
+    "longitude": 74.8578636,
+    "place_id": "ChIJDwRtQACFHjkRUF8CuVcrSTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwRtQACFHjkRUF8CuVcrSTM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:52"
+  },
+  {
+    "business_name": "Architect Mohit Bedi",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "180016",
+    "phone_number": "+91 80823 83515",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "On Road Vikas Lane, Talab Tillo Rd, near ICICI Bank, Jammu, Jammu and Kashmir 180016",
+    "area": "Garden Avenue, Bhagwati Nagar",
+    "latitude": 32.7309603,
+    "longitude": 74.8369111,
+    "place_id": "ChIJh_JSanOFHjkR4TA8WIeRK10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_JSanOFHjkR4TA8WIeRK10",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:54"
+  }
+]

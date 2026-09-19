@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Social Sack",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "180011",
+    "phone_number": "+91 97969 41086",
+    "website": "https://socialsack.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "108, Sunjwan Rd, near BN BED COLLEGE, Zubairabad, Nawabad, Jammu, Jammu and Kashmir 180011",
+    "area": "Zubairabad, Nawabad",
+    "latitude": 32.7071746,
+    "longitude": 74.90393449999999,
+    "place_id": "ChIJ8ShpqDCDHjkRwx63HkUiD44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ShpqDCDHjkRwx63HkUiD44",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:07"
+  },
+  {
+    "business_name": "Digitines office",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization",
+    "pincode": "180011",
+    "phone_number": "N/A",
+    "website": "http://www.digitines.in/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "lane 22, Greater Kailash, Jammu, Jammu and Kashmir 180011",
+    "area": "Greater Kailash",
+    "latitude": 32.6659375,
+    "longitude": 74.8976875,
+    "place_id": "ChIJ19JFWgCdHjkRhY70r8RvtK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19JFWgCdHjkRhY70r8RvtK4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:08"
+  }
+]

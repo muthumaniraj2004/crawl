@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sohil General Store",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store, Wholesaler",
+    "pincode": "182125",
+    "phone_number": "+91 91496 10557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Govindpura, Ramban, Jammu and Kashmir 182144",
+    "area": "Govindpura",
+    "latitude": 33.2249832,
+    "longitude": 75.2415419,
+    "place_id": "ChIJpxsbp6bDHTkRz51uSzN-c7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxsbp6bDHTkRz51uSzN-c7Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:46:53"
+  },
+  {
+    "business_name": "IndianOil",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump, Compressed natural gas station, Diesel fuel supplier, Fuel supplier",
+    "pincode": "182125",
+    "phone_number": "+91 70061 43343",
+    "website": "https://locator.iocl.com/indianoil-gouri-auto-fuels-petrol-pump-bain-udhampur-239179/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4,
+    "reviews_count": 123,
+    "address": "Ground Floor Udhampur Ramban, Road, Narsooh, Bain, Jammu and Kashmir 182141",
+    "area": "182125",
+    "latitude": 33.020278,
+    "longitude": 75.246527,
+    "place_id": "ChIJ7XBr-K_PHTkR6sTRpfdNlUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XBr-K_PHTkR6sTRpfdNlUE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:46:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Makoons Play School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Day care center",
+    "all_categories": "Day care center, Preschool, Kindergarten School, Nursery school, Playgroup, Primary school",
+    "pincode": "182125",
+    "phone_number": "+91 99065 60299",
+    "website": "https://makoons.com/makoonsplayschool/ramban",
+    "rating": null,
+    "reviews_count": null,
+    "address": "District road, near SP office, Maitra, Jammu and Kashmir 182144",
+    "area": "182125",
+    "latitude": 33.230640799999996,
+    "longitude": 75.2403822,
+    "place_id": "ChIJSeDGyafDHTkRMwYhXn9aCpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeDGyafDHTkRMwYhXn9aCpg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:48:03"
+  },
+  {
+    "business_name": "BVM School - Kids Wing",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "182125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "66RQ+594, NH 44, Ramban, Jammu and Kashmir 182144",
+    "area": "182125",
+    "latitude": 33.240387399999996,
+    "longitude": 75.2384593,
+    "place_id": "ChIJneSW7U3DHTkR2TeMEhO79t8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneSW7U3DHTkR2TeMEhO79t8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:48:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "181145",
+    "phone_number": "+91 73877 47714",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nagar Parishad Complex, Ram Nagar, Khadkali, Udgir, Maharashtra 413517",
+    "area": "Ram Nagar, Khadkali",
+    "latitude": 18.390077899999998,
+    "longitude": 77.11790909999999,
+    "place_id": "ChIJGSOFtjirzzsRrWeYMvWiK0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSOFtjirzzsRrWeYMvWiK0Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:30"
+  },
+  {
+    "business_name": "Himalaya Optical Bowbazar",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center, Optometrist, Sunglasses store",
+    "pincode": "181145",
+    "phone_number": "+91 33 4070 1096",
+    "website": "https://himalayaoptical.com/a/store-locator/himalaya-optical-bowbazar.html",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "301/B, Bepin Behari Ganguly St, Poddar Court, Lal Bazar, Kolkata, West Bengal 700012",
+    "area": "Poddar Court, Lal Bazar",
+    "latitude": 22.5717905,
+    "longitude": 88.3541412,
+    "place_id": "ChIJ56XEfK93AjoRGp0RBVGQJwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56XEfK93AjoRGp0RBVGQJwc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:30"
+  }
+]

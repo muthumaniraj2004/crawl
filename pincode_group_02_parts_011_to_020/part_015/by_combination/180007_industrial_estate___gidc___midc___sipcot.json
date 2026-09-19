@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Industries",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Steel industry",
+    "all_categories": "Steel industry",
+    "pincode": "180007",
+    "phone_number": "+91 97978 69678",
+    "website": "https://www.msindustries.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MS Industries, Industrial Growth Centre, Sidco Phase ll, Khunmoh, Srinagar, Jammu and Kashmir 191101",
+    "area": "180007",
+    "latitude": 34.0614657,
+    "longitude": 74.9447874,
+    "place_id": "ChIJGbvHAcWJ4TgRuKhgy1ve_BE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbvHAcWJ4TgRuKhgy1ve_BE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:33:38"
+  },
+  {
+    "business_name": "M.S. Industries",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Steel industry",
+    "all_categories": "Steel industry",
+    "pincode": "180007",
+    "phone_number": "+91 90860 34008",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "IGC Phase 1, Near Polica Station SIDCO, SIDCO, Samba, Jammu and Kashmir 184121",
+    "area": "SIDCO Industrial Area Samba, SIDCO",
+    "latitude": 32.5549408,
+    "longitude": 75.0974742,
+    "place_id": "ChIJg6IaD1YjHDkR-5xoRSG3-Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6IaD1YjHDkR-5xoRSG3-Jo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:33:38"
+  }
+]

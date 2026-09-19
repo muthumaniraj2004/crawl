@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Black scissors",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "181145",
+    "phone_number": "+91 97973 84458",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, near by sb uniform, Sainik colony, Chowadhi, Jammu, Jammu and Kashmir 181145",
+    "area": "Sainik colony, Chowadhi",
+    "latitude": 32.688772,
+    "longitude": 74.9325683,
+    "place_id": "ChIJbw-Nw2GdHjkRasnNae0D9L4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbw-Nw2GdHjkRasnNae0D9L4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:02"
+  },
+  {
+    "business_name": "Universe Beauty Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Eyelash salon, Facial spa, Fencing salon, Make-up artist, Nail salon, Tanning salon, Hairdresser",
+    "pincode": "181145",
+    "phone_number": "+91 62833 26217",
+    "website": "https://www.universebeautysalon.com/",
+    "rating": 4.9,
+    "reviews_count": 168,
+    "address": "Grand Trunk Rd, near OCM Mill, Sandhu Colony, Chheharta, Amritsar, Punjab 143105",
+    "area": "Sandhu Colony, Chheharta",
+    "latitude": 31.6288575,
+    "longitude": 74.8091623,
+    "place_id": "ChIJqwhwqwtlGTkRe-iFW9gsLxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwhwqwtlGTkRe-iFW9gsLxA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:04"
+  }
+]

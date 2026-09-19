@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahil Service Station",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Air conditioning repair service, Electrician",
+    "pincode": "181132",
+    "phone_number": "+91 70068 74261",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "44, JW5R+QHP National Highway, patli morh, near old toll, Thandi Khui, plaaza, Jammu and Kashmir 181133",
+    "area": "181132",
+    "latitude": 32.6094375,
+    "longitude": 74.94143749999999,
+    "place_id": "ChIJT2P1hRGfHjkRQHjbouiJbQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2P1hRGfHjkRQHjbouiJbQY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:10:13"
+  },
+  {
+    "business_name": "Arun Automobile",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "181132",
+    "phone_number": "+91 84938 57557",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "Link road, Dabuj, Jakh, Jammu and Kashmir 184120",
+    "area": "Dabuj",
+    "latitude": 32.5877157,
+    "longitude": 74.9646791,
+    "place_id": "ChIJ5V_JiCCeHjkRax7Xf95OZbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5V_JiCCeHjkRax7Xf95OZbE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:10:13"
+  }
+]

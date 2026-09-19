@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subash softy ice cream corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "182121",
+    "phone_number": "+91 20 1726 6822",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jammu Rd, Katra, Jammu and Kashmir 182301",
+    "area": "182121",
+    "latitude": 32.9911781,
+    "longitude": 74.9300897,
+    "place_id": "ChIJDUoVy8x5HjkRTL1ymZoLTtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUoVy8x5HjkRTL1ymZoLTtE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:28"
+  },
+  {
+    "business_name": "7 star ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "182121",
+    "phone_number": "+91 60061 70978",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "kashmir road, Domel Katra Rd, Katra, Jammu and Kashmir 182301",
+    "area": "182121",
+    "latitude": 32.9918337,
+    "longitude": 74.9314768,
+    "place_id": "ChIJPeFK2RJ5HjkRjVoMWC2p_6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeFK2RJ5HjkRjVoMWC2p_6g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:29"
+  }
+]

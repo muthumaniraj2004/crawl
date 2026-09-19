@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Special milk cake",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "181201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "RGH8+HR4, near M.E.S tubewell, Khour, Khour Camp, Jammu and Kashmir 181203",
+    "area": "181201",
+    "latitude": 32.8288849,
+    "longitude": 74.5170675,
+    "place_id": "ChIJ4xWSDQBfHjkRnsSu4ZDUZTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xWSDQBfHjkRnsSu4ZDUZTw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:20:53"
+  },
+  {
+    "business_name": "Amul Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "181201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VJ2H+77, Chak Badialan, Jammu and Kashmir 181202",
+    "area": "181201",
+    "latitude": 32.8506875,
+    "longitude": 74.6281875,
+    "place_id": "ChIJ-dl2PwBhHjkRR3tqZWCcKmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dl2PwBhHjkRR3tqZWCcKmw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:20:54"
+  }
+]

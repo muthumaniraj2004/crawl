@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rustam Health Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181205",
+    "phone_number": "+91 97976 34232",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Road, Lower Muthi, Jammu, Jammu and Kashmir 181205",
+    "area": "Lower Muthi",
+    "latitude": 32.751661399999996,
+    "longitude": 74.8019151,
+    "place_id": "ChIJ0Y4oaBaFHjkRqEhwQTAApe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Y4oaBaFHjkRqEhwQTAApe0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:28:46"
+  },
+  {
+    "business_name": "Muscle Nutrition Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Hno .85, Dream city, Swarn Vihar, Durga Nagar, Jammu, Jammu and Kashmir 181205",
+    "area": "Swarn Vihar, Durga Nagar",
+    "latitude": 32.767168999999996,
+    "longitude": 74.8182612,
+    "place_id": "ChIJJ3xEvM2FHjkRJTZjEHQpNek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3xEvM2FHjkRJTZjEHQpNek",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:28:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modi Fashion Ways",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "182101",
+    "phone_number": "+91 70066 85217",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Court Road, Slathia Chowk, Udhampur, Ladan, Jammu and Kashmir 182101",
+    "area": "Slathia Chowk",
+    "latitude": 32.924897,
+    "longitude": 75.1389081,
+    "place_id": "ChIJ9y4qfqrTHTkRWywkfCJt8w4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9y4qfqrTHTkRWywkfCJt8w4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:39:24"
+  },
+  {
+    "business_name": "Aqua service solution",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "182101",
+    "phone_number": "N/A",
+    "website": "https://t.ly/oJmGt",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adarsh Colony, Udhampur, Ladan, Jammu and Kashmir 182101",
+    "area": "Adarsh Colony",
+    "latitude": 32.9208397,
+    "longitude": 75.1348362,
+    "place_id": "ChIJB_QpFk3THTkR8-hq1MY4vbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_QpFk3THTkR8-hq1MY4vbg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:39:26"
+  }
+]

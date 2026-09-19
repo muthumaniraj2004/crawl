@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EXIDE BATTERIES",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "181143",
+    "phone_number": "+91 70064 75923",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jammu 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.699162099999995,
+    "longitude": 74.8615082,
+    "place_id": "ChIJUVeszbGEHjkRzF7w11jSd6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVeszbGEHjkRzF7w11jSd6Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:51"
+  },
+  {
+    "business_name": "ELITE BATTERIES",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "181143",
+    "phone_number": "+91 99609 14963",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khaja Nagar, Dharashiv, Maharashtra 413501",
+    "area": "Khaja Nagar",
+    "latitude": 18.1742878,
+    "longitude": 76.043615,
+    "place_id": "ChIJwbZc8zWixTsRKG3CvbNQOlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbZc8zWixTsRKG3CvbNQOlM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:51"
+  }
+]

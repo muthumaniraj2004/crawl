@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.A Bakers Hub",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "180016",
+    "phone_number": "+91 88996 75854",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Park, Sidhra Ragora Near, Majhin, Jammu, Jammu and Kashmir 180017",
+    "area": "Majhin",
+    "latitude": 32.7322847,
+    "longitude": 74.86028619999999,
+    "place_id": "ChIJkTooUMWFHjkR__f-OQMXOc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTooUMWFHjkR__f-OQMXOc0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:06"
+  },
+  {
+    "business_name": "Jai Hind Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "180016",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/jaihindbakery",
+    "rating": 3.4,
+    "reviews_count": 14,
+    "address": "PRFQ+22V, near Gole Pully, opposite Vardhman Jeweller, Talab Tillo, Jammu, Jammu and Kashmir 180016",
+    "area": "Talab Tillo",
+    "latitude": 32.7226129,
+    "longitude": 74.837554,
+    "place_id": "ChIJpfJQwPWFHjkRJma0xCNK4Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfJQwPWFHjkRJma0xCNK4Bw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:06"
+  }
+]

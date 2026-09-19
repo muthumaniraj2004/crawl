@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAAS Info",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "180015",
+    "phone_number": "+91 93630 91412",
+    "website": "https://maasinfo.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No.7/4, Vijayalakshmi St, Mahalingapuram, Nungambakkam, Chennai, Tamil Nadu 600034",
+    "area": "Mahalingapuram, Nungambakkam",
+    "latitude": 13.0577668,
+    "longitude": 80.23351459999999,
+    "place_id": "ChIJeUNsXXtvqTsRGdNB_IZyi3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUNsXXtvqTsRGdNB_IZyi3Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:44:53"
+  },
+  {
+    "business_name": "SSTCLOUD",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Computer security service",
+    "all_categories": "Computer security service, Computer support and services, Service establishment, Process server",
+    "pincode": "180015",
+    "phone_number": "+91 90159 37199",
+    "website": "https://sstcloud.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "SSTCLOUD, 180015, India",
+    "area": "180015",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ55tziRCdaYsRn8FUzZPYFTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55tziRCdaYsRn8FUzZPYFTA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:44:55"
+  }
+]

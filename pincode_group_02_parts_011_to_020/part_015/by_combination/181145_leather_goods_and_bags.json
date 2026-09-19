@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Italian Leathers",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Bag shop",
+    "pincode": "181145",
+    "phone_number": "+91 94404 08085",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "8-3-903/F/11, Shop No. 13 & 14, Ameerpet, Hyderabad, Telangana 500073",
+    "area": "Pratap Nagar, Nagarjuna Nagar colony, Ameerpet",
+    "latitude": 17.431913299999998,
+    "longitude": 78.4466684,
+    "place_id": "ChIJh166q86QyzsRxYl6RvwAuqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh166q86QyzsRxYl6RvwAuqI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:28"
+  },
+  {
+    "business_name": "GIRLIE",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Cosmetics store, Jewelry store, Perfume store, Shoe store",
+    "pincode": "181145",
+    "phone_number": "+91 79 2656 2011",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 635,
+    "address": "Unit - 1, Urja House, swastik char Rasta, Chimanlal Girdharlal Rd, Swastik Society, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Swastik Society, Navrangpura",
+    "latitude": 23.0371848,
+    "longitude": 72.5613305,
+    "place_id": "ChIJS9VSQ_OEXjkRf39FYuV6KFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9VSQ_OEXjkRf39FYuV6KFM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:28"
+  }
+]

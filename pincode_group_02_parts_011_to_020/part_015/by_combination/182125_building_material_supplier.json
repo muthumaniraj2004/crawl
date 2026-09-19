@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baru cement and shuttering store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "182125",
+    "phone_number": "+91 98581 69978",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chenani Road Chenani Jammu and Kashmir, 182141",
+    "area": "182125",
+    "latitude": 33.0335068,
+    "longitude": 75.284453,
+    "place_id": "ChIJxei3wQ3JHTkRPv3RnwczUu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxei3wQ3JHTkRPv3RnwczUu8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:47:39"
+  },
+  {
+    "business_name": "Khajuria Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Cement Supplier",
+    "pincode": "182125",
+    "phone_number": "+91 60064 15639",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Maitra, Ramban, Jammu and Kashmir 182144",
+    "area": "182125",
+    "latitude": 33.2318406,
+    "longitude": 75.24393479999999,
+    "place_id": "ChIJc-VSzjzDHTkRqWVFzaG-YDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-VSzjzDHTkRqWVFzaG-YDU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:47:40"
+  }
+]

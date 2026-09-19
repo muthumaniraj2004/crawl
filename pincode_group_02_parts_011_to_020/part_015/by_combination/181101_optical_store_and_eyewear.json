@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lensfit.in",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Glass repair service, Optical Products Manufacturer, Sunglasses store",
+    "pincode": "181101",
+    "phone_number": "+91 99063 54319",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near gurudwara, Dablehar, Jammu, Jammu and Kashmir 181101",
+    "area": "181101",
+    "latitude": 32.5777153,
+    "longitude": 74.7740717,
+    "place_id": "ChIJdeg1jqOXHjkRt5ycYa8lbfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdeg1jqOXHjkRt5ycYa8lbfg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:46"
+  },
+  {
+    "business_name": "Eye style optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "181101",
+    "phone_number": "+91 97976 12586",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Airport Road, opp. Reliance,Smart point, Upper Gadigarh, Jammu, Jammu and Kashmir 181101",
+    "area": "Upper Gadigarh",
+    "latitude": 32.6726859,
+    "longitude": 74.8401635,
+    "place_id": "ChIJtdhr4IibHjkRlBn0VNl8qkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdhr4IibHjkRlBn0VNl8qkg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:50"
+  }
+]

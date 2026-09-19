@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RN Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier",
+    "pincode": "181205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Lower muthi, Lale-Da-Bagh, Jammu, Jammu and Kashmir 181205",
+    "area": "Lale-Da-Bagh",
+    "latitude": 32.757211999999996,
+    "longitude": 74.80298739999999,
+    "place_id": "ChIJ568ODwOFHjkRfl4zLvplAy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ568ODwOFHjkRfl4zLvplAy0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:29:03"
+  },
+  {
+    "business_name": "Nath Electric Works",
+    "search_category": "Electrician",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "181205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "QRH9+2W3, Barnai, Dina Nagar, Patoli, Jammu, Jammu and Kashmir 181123",
+    "area": "Barnai, Dina Nagar, Patoli",
+    "latitude": 32.7774862,
+    "longitude": 74.8198846,
+    "place_id": "ChIJJ45ucmCHHjkRdM9r8G-VtLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ45ucmCHHjkRdM9r8G-VtLg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:29:04"
+  }
+]

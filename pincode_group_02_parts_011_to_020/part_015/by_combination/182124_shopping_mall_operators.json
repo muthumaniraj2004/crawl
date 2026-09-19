@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CENTRAL",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "182124",
+    "phone_number": "N/A",
+    "website": "https://www.centralbankofindia.co.in/en",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Treasure Island Next Mall Regal Circle, RNT Marg, Indore, Madhya Pradesh 452001",
+    "area": "Flim Colony, South Tukoganj",
+    "latitude": 22.718134,
+    "longitude": 75.87129709999999,
+    "place_id": "ChIJSSd89_r9YjkR0FkhdqAAIjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSd89_r9YjkR0FkhdqAAIjg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:46:48"
+  },
+  {
+    "business_name": "Phoenix Pride Of India",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "182124",
+    "phone_number": "N/A",
+    "website": "https://www.phoenixcitadel.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kushabhau Thackrey Rd, Junction, Indore, Madhya Pradesh 452016",
+    "area": "Junction",
+    "latitude": 22.7463101,
+    "longitude": 75.9353807,
+    "place_id": "ChIJreE9nc3jYjkR9T9Yn-Y-r-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreE9nc3jYjkR9T9Yn-Y-r-s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:46:48"
+  }
+]

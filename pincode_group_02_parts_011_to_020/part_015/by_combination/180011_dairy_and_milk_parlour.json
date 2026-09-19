@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul Ice Cream Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "180011",
+    "phone_number": "+91 1800 258 3333",
+    "website": "https://amul.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MWP3+V2V, Sector 7 Rd, Sector-7, Channi Himat, Jammu, 180015",
+    "area": "Sector-7, Channi Himat",
+    "latitude": 32.687239399999996,
+    "longitude": 74.9025316,
+    "place_id": "ChIJc95zIdidHjkRMo2OV71NDBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc95zIdidHjkRMo2OV71NDBw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:37:24"
+  },
+  {
+    "business_name": "Khan Bhai dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "180011",
+    "phone_number": "+91 94191 31562",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Unnamed Road, Durga Nagar, Jammu, Jammu and Kashmir 180013",
+    "area": "Durga Nagar",
+    "latitude": 32.7734594,
+    "longitude": 74.8248,
+    "place_id": "ChIJG4GCh7GFHjkRdVCX_n7T9wI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4GCh7GFHjkRdVCX_n7T9wI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:37:26"
+  }
+]

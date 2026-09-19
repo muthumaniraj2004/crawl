@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PURAN GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "181206",
+    "phone_number": "+91 94198 29420",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Jammu 181206",
+    "area": "181206",
+    "latitude": 32.7593124,
+    "longitude": 74.78245679999999,
+    "place_id": "ChIJp-0VO_iFHjkR1rF21Scfzh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-0VO_iFHjkR1rF21Scfzh0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:31:12"
+  },
+  {
+    "business_name": "Dayal House MFG DIV",
+    "search_category": "Guesthouse",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "181206",
+    "phone_number": "+91 87976 26262",
+    "website": "http://dayalhouse.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dayal House MFG DIV, Bantalab Road, opp. Kangra fort, Barnai, Lower Barnai, Jammu, Jammu and Kashmir 181205",
+    "area": "Barnai, Lower Barnai",
+    "latitude": 32.7661742,
+    "longitude": 74.8078298,
+    "place_id": "ChIJSfXpydeFHjkRevD9_Q3DxT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfXpydeFHjkRevD9_Q3DxT8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:31:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dehradun Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "180018",
+    "phone_number": "+91 98713 37888",
+    "website": "https://www.dehraduntaxiservice.in/",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "Saraswati Vihar, Chowk, Mata Mandir Rd, Dharampur, Dehradun, Uttarakhand 248121",
+    "area": "Bahuguna Colony, Dharampur",
+    "latitude": 30.2933451,
+    "longitude": 78.04034519999999,
+    "place_id": "ChIJDae5K60pCTkR3YRsulfL4us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDae5K60pCTkR3YRsulfL4us",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:32"
+  },
+  {
+    "business_name": "PARDESHI TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Minibus taxi service",
+    "all_categories": "Minibus taxi service, Car leasing service, Car rental agency, Taxi service",
+    "pincode": "180018",
+    "phone_number": "+91 93011 11115",
+    "website": "https://pardeshitravels.com/",
+    "rating": 4.8,
+    "reviews_count": 57,
+    "address": "Gast Ka Tazia, Nai Sadak, Gwalior, Madhya Pradesh 474001",
+    "area": "Daulat Ganj",
+    "latitude": 26.203287099999997,
+    "longitude": 78.1546366,
+    "place_id": "ChIJS7KsbNPFdjkRn6SD18f3CaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7KsbNPFdjkRn6SD18f3CaU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:32"
+  }
+]

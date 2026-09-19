@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snm",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "181124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QR28+R9F, Paloura Top, Muthi, Jammu, Jammu and Kashmir 181124",
+    "area": "Paloura Top, Muthi",
+    "latitude": 32.7514395,
+    "longitude": 74.8158181,
+    "place_id": "ChIJA5QZvFyFHjkR5dDAwgafXxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5QZvFyFHjkR5dDAwgafXxI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:55"
+  },
+  {
+    "business_name": "Lords Inn Jammu",
+    "search_category": "Bar and Pub",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Family restaurant",
+    "pincode": "181124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "B C Road, Near Bus Stand, Jammu, Jammu and Kashmir 180001",
+    "area": "Resham Ghar Colony",
+    "latitude": 32.7295064,
+    "longitude": 74.8590612,
+    "place_id": "ChIJSQokVIiEHjkRDO6LTa-iVZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQokVIiEHjkRDO6LTa-iVZg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:58"
+  }
+]

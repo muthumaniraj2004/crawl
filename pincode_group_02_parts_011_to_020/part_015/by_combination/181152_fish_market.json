@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Special Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "181152",
+    "phone_number": "+91 70063 23499",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bathindi Rd, near Police Station, Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Bathindi",
+    "latitude": 32.712162,
+    "longitude": 74.9025996,
+    "place_id": "ChIJ_0LAFnyDHjkR8C40GwLSTEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0LAFnyDHjkR8C40GwLSTEw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:02"
+  },
+  {
+    "business_name": "Ranjan Fish Corner",
+    "search_category": "Fish Market",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "181152",
+    "phone_number": "+91 60050 00257",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Bathindi, Nowabad, Jammu, Jammu and Kashmir 180011",
+    "area": "Bathindi",
+    "latitude": 32.7086091,
+    "longitude": 74.9019048,
+    "place_id": "ChIJs4O8Iy-DHjkRS98ZzmuaFQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4O8Iy-DHjkRS98ZzmuaFQo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:02"
+  }
+]

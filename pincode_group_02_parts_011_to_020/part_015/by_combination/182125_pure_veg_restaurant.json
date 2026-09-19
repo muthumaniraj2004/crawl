@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Punjabi dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "182125",
+    "phone_number": "+91 91498 41831",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near peer baba, Sunari Mohalla, Ramban, Kawbagh, Jammu and Kashmir 182144",
+    "area": "Sunari Mohalla",
+    "latitude": 33.2413297,
+    "longitude": 75.2354761,
+    "place_id": "ChIJz3ZnOJnDHTkRnBY956eLdbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3ZnOJnDHTkRnBY956eLdbs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:47:00"
+  },
+  {
+    "business_name": "Mansa Ram And Sons",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "182125",
+    "phone_number": "+91 70065 46624",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "3, Nh44, Ramban, Chanderkote, Jammu and Kashmir 182144",
+    "area": "182125",
+    "latitude": 33.1905388,
+    "longitude": 75.3001377,
+    "place_id": "ChIJW7W8BfHBHTkRbUkfhbBe3sA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7W8BfHBHTkRbUkfhbBe3sA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:47:00"
+  }
+]

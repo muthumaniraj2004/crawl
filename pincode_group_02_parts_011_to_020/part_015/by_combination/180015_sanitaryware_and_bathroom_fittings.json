@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "International Sales Corporation",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Plumbing supply store",
+    "pincode": "180015",
+    "phone_number": "+91 44 2522 6015",
+    "website": "http://www.insco1972.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "32, (16, Errabalu St, next to Bank Of India, Parry's Corner, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Parry's Corner, George Town",
+    "latitude": 13.0912106,
+    "longitude": 80.2874913,
+    "place_id": "ChIJp_2R0lFvUjoRJFmIyNRaJ6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_2R0lFvUjoRJFmIyNRaJ6Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:51"
+  },
+  {
+    "business_name": "Shah Sanitary Stores",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Tile store, Glass & mirror shop",
+    "pincode": "180015",
+    "phone_number": "+91 95000 19241",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "New no:12, old no:17, Vannier Street, Errabalu Chetty St, near Bank Of India, Chennai, Tamil Nadu 600001",
+    "area": "Mannadi, George Town",
+    "latitude": 13.09217,
+    "longitude": 80.2874168,
+    "place_id": "ChIJzx2S3U9vUjoRGSBmINW3N8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzx2S3U9vUjoRGSBmINW3N8Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:51"
+  }
+]

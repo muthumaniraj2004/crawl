@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sattvik Soul",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "181201",
+    "phone_number": "+91 70063 42698",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No - 2, AMR Multiplex, Jammu Rd, near Dominos, Katra, Jammu and Kashmir 182301",
+    "area": "181201",
+    "latitude": 32.9902198,
+    "longitude": 74.9274686,
+    "place_id": "ChIJc-NNv-p5HjkRLnVC_F7mR88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-NNv-p5HjkRLnVC_F7mR88",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:21:05"
+  },
+  {
+    "business_name": "NewYork Pizzeria Akhnoor",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181201",
+    "phone_number": "+91 88995 96407",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Akhnoor Palace, road, near St Francis school, Jourian, Akhnoor, Jammu and Kashmir 181201",
+    "area": "181201",
+    "latitude": 32.8943654,
+    "longitude": 74.73130549999999,
+    "place_id": "ChIJHzvfFWVjHjkRA-E8tWKexAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzvfFWVjHjkRA-E8tWKexAA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:21:05"
+  }
+]

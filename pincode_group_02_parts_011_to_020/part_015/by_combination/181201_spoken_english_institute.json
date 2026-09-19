@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classzone Tutorial",
+    "search_category": "Spoken English Institute",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service",
+    "pincode": "181201",
+    "phone_number": "+91 91030 38728",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No. 2, Ice Factory, Near, Reasi, Jammu and Kashmir 182311",
+    "area": "181201",
+    "latitude": 33.0859349,
+    "longitude": 74.8346218,
+    "place_id": "ChIJYSv1MqdxHjkRjIFsyFJhXWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSv1MqdxHjkRjIFsyFJhXWQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:22:05"
+  },
+  {
+    "business_name": "Bright star public school samwan",
+    "search_category": "Spoken English Institute",
+    "primary_category": "General education school",
+    "all_categories": "General education school",
+    "pincode": "181201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Pingiari, Jammu and Kashmir 181201",
+    "area": "181201",
+    "latitude": 32.8908173,
+    "longitude": 74.6301668,
+    "place_id": "ChIJe6uWEeNhHjkR8XBpjp4yzX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6uWEeNhHjkR8XBpjp4yzX0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:22:05"
+  }
+]

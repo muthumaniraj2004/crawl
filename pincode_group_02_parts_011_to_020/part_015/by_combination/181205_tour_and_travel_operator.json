@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shakti Enterprises",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator",
+    "pincode": "181205",
+    "phone_number": "+91 78895 01598",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Khosla Medicate, Lower Muthi, Jammu, Jammu and Kashmir 181205",
+    "area": "Lower Muthi",
+    "latitude": 32.7564499,
+    "longitude": 74.8064569,
+    "place_id": "ChIJmwQKgiqFHjkRceqrV-utuXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwQKgiqFHjkRceqrV-utuXY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:28:53"
+  },
+  {
+    "business_name": "Summer Holidays Tours and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "181205",
+    "phone_number": "+91 90865 47970",
+    "website": "https://www.summerholidays.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no-3, Camp Road, near BSNL Exchange, Talab Tillo, Jammu, Jammu and Kashmir 180002",
+    "area": "Talab Tillo",
+    "latitude": 32.7319172,
+    "longitude": 74.81179929999999,
+    "place_id": "ChIJBxpCw7rH6w8RTvsdNEemLsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxpCw7rH6w8RTvsdNEemLsA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:28:56"
+  }
+]

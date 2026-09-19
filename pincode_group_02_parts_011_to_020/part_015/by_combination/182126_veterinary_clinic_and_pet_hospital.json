@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Paradise Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Emergency veterinarian service, Pet boarding service, Pet groomer, Pet store, Pet supply store, Veterinary pharmacy",
+    "pincode": "182126",
+    "phone_number": "+91 99204 82188",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 459,
+    "address": "Bunglow no. 18, Meadows Green, Near Casa Rio Gate 1 Casa Rio Road, Lodha Casa Rio Gold Rd, Maharashtra 421204",
+    "area": "Nilaje",
+    "latitude": 19.1501581,
+    "longitude": 73.0761766,
+    "place_id": "ChIJXQMfjJy_5zsR6zzi9w7SlmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQMfjJy_5zsR6zzi9w7SlmQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:49:15"
+  },
+  {
+    "business_name": "Animal Care Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "182126",
+    "phone_number": "+91 70058 72739",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "9P23+J7J, Hmarveng, Jangnomphai, Churachandpur, Manipur 795128",
+    "area": "Hmarveng, Jangnomphai",
+    "latitude": 24.3518583,
+    "longitude": 93.70321129999999,
+    "place_id": "ChIJk-nE_NOzTjcRs2YKN0pb0t8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-nE_NOzTjcRs2YKN0pb0t8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:49:18"
+  }
+]

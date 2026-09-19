@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MahaRiceTraders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "181124",
+    "phone_number": "+91 95537 37061",
+    "website": "https://www.maharicetraders.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 1, EWS 529, Rd Number 3, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally",
+    "latitude": 17.4917086,
+    "longitude": 78.3984119,
+    "place_id": "ChIJX8MwrUaRyzsRD0auzBVacUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8MwrUaRyzsRD0auzBVacUk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:45"
+  },
+  {
+    "business_name": "Karthik Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler, Rice mill",
+    "pincode": "181124",
+    "phone_number": "+91 99634 17241",
+    "website": "http://www.karthikricemill.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramadugu, Telangana 503164",
+    "area": "181124",
+    "latitude": 18.618523,
+    "longitude": 78.3105844,
+    "place_id": "ChIJATNteWq3zTsRTldC-jqljOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATNteWq3zTsRTldC-jqljOU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:45"
+  }
+]

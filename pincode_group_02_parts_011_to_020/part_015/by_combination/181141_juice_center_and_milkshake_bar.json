@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Masti Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Juice shop",
+    "pincode": "181141",
+    "phone_number": "+91 90331 33201",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1438,
+    "address": "C3, Asopalav Apartments, Arihant Nagar, Shahibag, Ahmedabad, Gujarat 380016",
+    "area": "Arihant Nagar, Shahibag",
+    "latitude": 23.0566705,
+    "longitude": 72.5990295,
+    "place_id": "ChIJr6zScBKEXjkRVMd7f9hclS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6zScBKEXjkRVMd7f9hclS0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:29"
+  },
+  {
+    "business_name": "Freshop Ice Cream And Shake Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fruit parlor",
+    "pincode": "181141",
+    "phone_number": "+91 80828 50555",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 13,
+    "address": "Akhnoor Palace, Shop No 2 Opp St Francis Hr Sec School Jourian Road, Akhnoor, Jammu and Kashmir 181201",
+    "area": "Arya Samaj Mohalla",
+    "latitude": 32.895831699999995,
+    "longitude": 74.7313602,
+    "place_id": "ChIJtSEG35djHjkRRz8l3leg4j0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSEG35djHjkRRz8l3leg4j0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cloud Kitchen Restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "181145",
+    "phone_number": "+91 91079 83333",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Apple City, 101, near HP petrol bunk, Chaitanya Ananya, Seegehalli, Kadugodi, Bengaluru, Shigehalli, Karnataka 560115",
+    "area": "Chaitanya Ananya, Seegehalli, Kadugodi",
+    "latitude": 13.008306399999999,
+    "longitude": 77.7588426,
+    "place_id": "ChIJk4fsCGgPrjsRVe75SCEu9OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4fsCGgPrjsRVe75SCEu9OA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:16"
+  },
+  {
+    "business_name": "Cloud Kitchen - Kovur",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "181145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "246J+W78, Kundrathur Main Rd, Kovur, Periyapanicheri, Tharapakkam, Periyapanicheri, Tamil Nadu 600128",
+    "area": "Kovur, Periyapanicheri, Tharapakkam",
+    "latitude": 13.012283,
+    "longitude": 80.130703,
+    "place_id": "ChIJMdTih4ZhUjoRmdKqziURyvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdTih4ZhUjoRmdKqziURyvM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Manoj Dry Fruit",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "182125",
+    "phone_number": "+91 97964 51111",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "7, Main Bazar, Katra, Jammu and Kashmir 182301",
+    "area": "182125",
+    "latitude": 32.9925168,
+    "longitude": 74.9330231,
+    "place_id": "ChIJcQlbjrN5HjkRGMRHsk3gMec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQlbjrN5HjkRGMRHsk3gMec",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:46:52"
+  },
+  {
+    "business_name": "NISHATI’s Mini Mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Indian grocery store",
+    "pincode": "182125",
+    "phone_number": "+91 88037 60137",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "opposite Hotel Hill Top Main market, Batote, Jammu and Kashmir 182143",
+    "area": "182125",
+    "latitude": 33.1234132,
+    "longitude": 75.3201382,
+    "place_id": "ChIJ_1nIIyXHHTkRNejaYGo0WHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1nIIyXHHTkRNejaYGo0WHU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:46:52"
+  }
+]

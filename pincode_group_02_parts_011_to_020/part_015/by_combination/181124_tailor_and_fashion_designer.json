@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ameya Couture",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Boutique",
+    "pincode": "181124",
+    "phone_number": "+91 98838 28581",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no, Tapavan Apartment, 5, opposite to SBI Bank, Chinar Park, Tegharia, Baguiati, Kolkata, West Bengal 700157",
+    "area": "Chinar Park, Tegharia, Baguiati",
+    "latitude": 22.6218611,
+    "longitude": 88.43934759999999,
+    "place_id": "ChIJAYa2zR2f-DkRrnmeb301fYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYa2zR2f-DkRrnmeb301fYQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:59"
+  },
+  {
+    "business_name": "Fashion Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing alteration service",
+    "all_categories": "Clothing alteration service",
+    "pincode": "181124",
+    "phone_number": "+91 99084 67095",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Goshala Road, Buswatarag Nagar, Bodhan, Telangana 503185",
+    "area": "Buswatarag Nagar",
+    "latitude": 18.656374,
+    "longitude": 77.8894933,
+    "place_id": "ChIJD1Gh51N2zjsR065c7MKRtKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1Gh51N2zjsR065c7MKRtKI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:06:01"
+  }
+]

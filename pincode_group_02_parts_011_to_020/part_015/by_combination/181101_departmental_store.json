@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VK PROVISIONAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, General store",
+    "pincode": "181101",
+    "phone_number": "+91 78897 62769",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VK PROVISIONAL STORE, Bye Pass Road, Bishnah, Jammu, Jammu and Kashmir 181132",
+    "area": "181101",
+    "latitude": 32.6107856,
+    "longitude": 74.85189729999999,
+    "place_id": "ChIJBRTOUaubHjkROiX-K9RHM3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRTOUaubHjkROiX-K9RHM3I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:23"
+  },
+  {
+    "business_name": "Fair & Fixed Price Department Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "181101",
+    "phone_number": "+91 94191 40457",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "main bazar market, near j&k bank atm, Bishnah, Jammu, Jammu and Kashmir 181132",
+    "area": "181101",
+    "latitude": 32.6111864,
+    "longitude": 74.85499349999999,
+    "place_id": "ChIJLQ3qRzSbHjkRBir2Sk3JWQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQ3qRzSbHjkRBir2Sk3JWQs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:23"
+  }
+]

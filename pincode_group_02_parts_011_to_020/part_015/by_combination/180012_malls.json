@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Columbia Sportswear, Wave Mall, Jammu",
+    "search_category": "Malls",
+    "primary_category": "Outdoor sports store",
+    "all_categories": "Outdoor sports store, Clothing store",
+    "pincode": "180012",
+    "phone_number": "+91 191 354 8838",
+    "website": "https://columbiasportswear.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No. 13, Upper Ground Floor, Wave mall Channai Rama, opp. Bathindi Road, Jammu, Jammu and Kashmir 180015",
+    "area": "Malik Market, Guru Tegh Bahadur Nagar, Channi Himat",
+    "latitude": 32.7093728,
+    "longitude": 74.8930748,
+    "place_id": "ChIJUfwBtQWDHjkRb3oQzfpJVUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfwBtQWDHjkRb3oQzfpJVUI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:08"
+  },
+  {
+    "business_name": "Sahil One Stop Shop",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "180012",
+    "phone_number": "+91 97976 38220",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 93,
+    "address": "Sector 3, Trikuta Nagar, Jammu, Jammu and Kashmir 180020",
+    "area": "Sector 3, Trikuta Nagar",
+    "latitude": 32.695378999999996,
+    "longitude": 74.87685739999999,
+    "place_id": "ChIJR2V6AVWDHjkRIZlmkOzFnVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2V6AVWDHjkRIZlmkOzFnVQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:09"
+  }
+]

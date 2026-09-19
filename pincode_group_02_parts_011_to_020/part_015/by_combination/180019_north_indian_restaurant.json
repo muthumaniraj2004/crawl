@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J TOWN",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Cafe, North Indian restaurant",
+    "pincode": "180019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 57,
+    "address": "Geri Route Sidra, NH 44, Sidhra, Jammu and Kashmir 180019",
+    "area": "180019",
+    "latitude": 32.7615877,
+    "longitude": 74.9155246,
+    "place_id": "ChIJ__HqmhmDHjkRx_-gRMRuKNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__HqmhmDHjkRx_-gRMRuKNE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:52"
+  },
+  {
+    "business_name": "Domino's Pizza | Sidhra, Jammu",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "180019",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 4.5,
+    "reviews_count": 270,
+    "address": "Shop No.1, Khasra No. 179 min, Khata No. 148 min, Khewat No. 59, Ground Floor, at, Main Market, near KIA Showroom, Sidhra, Jammu, Jammu and Kashmir 180019",
+    "area": "Sidhra",
+    "latitude": 32.7612405,
+    "longitude": 74.91249359999999,
+    "place_id": "ChIJqSWpqiyDHjkRHQCU4sEiWz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSWpqiyDHjkRHQCU4sEiWz4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:53"
+  }
+]

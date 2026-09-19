@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parsvnath Developers Ltd",
+    "search_category": "Property Developers",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "180012",
+    "phone_number": "+91 191 247 4074",
+    "website": "https://www.parsvnath.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, bahu plaza, 111-B2, Vidhata Nagar, South Block, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Vidhata Nagar, South Block, Trikuta Nagar",
+    "latitude": 32.7044992,
+    "longitude": 74.8727797,
+    "place_id": "ChIJJXGb6aeEHjkR3pUib4vjuU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXGb6aeEHjkR3pUib4vjuU0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:40:52"
+  },
+  {
+    "business_name": "Dar Properties and Builder's",
+    "search_category": "Property Developers",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "180012",
+    "phone_number": "+91 77809 19440",
+    "website": "https://www.facebook.com/Darbuilders1?mibextid=ZbWKwL",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "KP Rd, Iqbal Abad, Anantnag, Pai Bugh, Jammu and Kashmir 192125",
+    "area": "Iqbal Abad",
+    "latitude": 33.7456989,
+    "longitude": 75.1863961,
+    "place_id": "ChIJh9Uc-xsP4jgRmVqfw3KXiJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9Uc-xsP4jgRmVqfw3KXiJU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:40:53"
+  }
+]

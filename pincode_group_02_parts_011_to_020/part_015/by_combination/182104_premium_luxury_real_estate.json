@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homeonline",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "182104",
+    "phone_number": "+91 88753 44344",
+    "website": "https://www.homeonline.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "21, opp. Board Office Chouraha, Near Board Office, No 6 Locality, Shivaji Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near Board Office, No 6 Locality, Shivaji Nagar",
+    "latitude": 23.2305121,
+    "longitude": 77.4307029,
+    "place_id": "ChIJy-UsS2dCfDkR2s1AUIbdf-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-UsS2dCfDkR2s1AUIbdf-U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:40:55"
+  },
+  {
+    "business_name": "REIAS India Real Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Condominium rental agency, Consultant, Industrial real estate agency, Property investment company, Property management company, Real estate agent, Real estate rental agency, Retail space rental agency",
+    "pincode": "182104",
+    "phone_number": "+91 99999 64462",
+    "website": "https://www.reiasindia.com/",
+    "rating": 4.8,
+    "reviews_count": 42,
+    "address": "First Floor, M3M Cosmopolitan, R-2131, Badshahpur, Sector 66, Gurugram, Haryana 122018",
+    "area": "Badshahpur, Sector 66",
+    "latitude": 28.401860199999998,
+    "longitude": 77.05973809999999,
+    "place_id": "ChIJo2cN01AfDTkR_XWTUbuHQZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2cN01AfDTkR_XWTUbuHQZM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:40:57"
+  }
+]

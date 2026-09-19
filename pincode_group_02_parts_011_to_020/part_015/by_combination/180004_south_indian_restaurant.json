@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalyan fast food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "180004",
+    "phone_number": "+91 88259 10418",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1775/f, gandhinagar, Shastri Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "gandhinagar, Shastri Nagar",
+    "latitude": 32.6940952,
+    "longitude": 74.8602896,
+    "place_id": "ChIJPbePtxCFHjkRXHL61tZZ1iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbePtxCFHjkRXHL61tZZ1iw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:11"
+  },
+  {
+    "business_name": "SambharSa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "180004",
+    "phone_number": "+91 70434 71866",
+    "website": "https://sambharsa.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "ground floor, Siddharaj Z Square, Podar International School, Shop No. East-012A, Road, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Kudasan",
+    "latitude": 23.1750758,
+    "longitude": 72.6298479,
+    "place_id": "ChIJ6ZDpMzkrXDkRgr4N0fPsQLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZDpMzkrXDkRgr4N0fPsQLs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:11"
+  }
+]

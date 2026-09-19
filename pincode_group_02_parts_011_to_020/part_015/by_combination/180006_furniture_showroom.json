@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VK Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Furniture Manufacturer",
+    "pincode": "180006",
+    "phone_number": "+91 96823 36632",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bahu Fort, Gorkha Nagar, Jammu, Jammu and Kashmir 180006",
+    "area": "Gorkha Nagar",
+    "latitude": 32.7226818,
+    "longitude": 74.883135,
+    "place_id": "ChIJGTvZ1QaDHjkRZqQHtEFotoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTvZ1QaDHjkRZqQHtEFotoQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:30:45"
+  },
+  {
+    "business_name": "Nandni showrooom",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "180006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 35,
+    "address": "Gandharwan, Jammu and Kashmir 181201",
+    "area": "180006",
+    "latitude": 32.9616875,
+    "longitude": 74.71431249999999,
+    "place_id": "ChIJI5h1_FFlHjkRumrhw5M39-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5h1_FFlHjkRumrhw5M39-E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:30:46"
+  }
+]

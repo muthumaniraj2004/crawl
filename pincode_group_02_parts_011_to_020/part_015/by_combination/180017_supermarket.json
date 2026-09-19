@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alfalah Supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "180017",
+    "phone_number": "+91 77809 28889",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Upper Bathindi, 0, Alfalah, Opposite Achieving Goal Institute, Umarabad, Bathindi, Jammu, Jammu and Kashmir 181152",
+    "area": "Bathindi",
+    "latitude": 32.7111216,
+    "longitude": 74.9209607,
+    "place_id": "ChIJPa7nkwaDHjkR3PorIsElYb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPa7nkwaDHjkR3PorIsElYb4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:46:52"
+  },
+  {
+    "business_name": "KARGIL COLONY",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "180017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "PW84+9W8, Madina super market, Kargil colony, Bathindi, Jammu, Jammu and Kashmir 181152",
+    "area": "Kargil colony, Bathindi",
+    "latitude": 32.7165183,
+    "longitude": 74.90560529999999,
+    "place_id": "ChIJNcz9xWyDHjkR7m-cm5SpQVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcz9xWyDHjkR7m-cm5SpQVs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:46:52"
+  }
+]

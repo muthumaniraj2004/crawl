@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Home Studio",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Ceramics wholesaler, Hardware store, Home improvement store",
+    "pincode": "180004",
+    "phone_number": "+91 99008 68203",
+    "website": "https://myhomestudio.co/",
+    "rating": 4.6,
+    "reviews_count": 335,
+    "address": "Metro Station, No:17, 12th A Main Rd, opp. water tank, next to BTM, KEB Colony, Stage, BTM 1st Stage, Bengaluru, Karnataka 560029",
+    "area": "KEB Colony, Stage, BTM 1st Stage",
+    "latitude": 12.916859899999999,
+    "longitude": 77.60754109999999,
+    "place_id": "ChIJVVVVEHX5rjsR7j_fN8VV1Fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVEHX5rjsR7j_fN8VV1Fs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:46"
+  },
+  {
+    "business_name": "Kerovit Studio, A Kajaria Company - Premium range of Faucets, Sanitaryware, Showers & More in Jammu",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "180004",
+    "phone_number": "+91 94191 12941",
+    "website": "https://www.kerovit.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivalik Agencies, Marble Market Rd, opp. Khorana Marble, Trikuta Nagar, Jammu, Jammu and Kashmir 180020",
+    "area": "Trikuta Nagar",
+    "latitude": 32.685944299999996,
+    "longitude": 74.8822653,
+    "place_id": "ChIJbRTmQUudHjkR9jBcMV5_J48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRTmQUudHjkR9jBcMV5_J48",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:48"
+  }
+]

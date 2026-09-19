@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smokie Paradise Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "morh, Gurha, Vijaypur, Jammu and Kashmir 184120",
+    "area": "181141",
+    "latitude": 32.5688564,
+    "longitude": 75.0118569,
+    "place_id": "ChIJT1jU04UhHDkRdR9hwsOiWJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1jU04UhHDkRdR9hwsOiWJ4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:35"
+  },
+  {
+    "business_name": "Your Favourite Food",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181141",
+    "phone_number": "+91 70511 96532",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near Nav Barat School, Palouta, Ramgarh, Samba, Jammu and Kashmir 184120",
+    "area": "Palouta",
+    "latitude": 32.5359471,
+    "longitude": 75.0053848,
+    "place_id": "ChIJoeU2Z74fHDkRLf2cAMU0U8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeU2Z74fHDkRLf2cAMU0U8U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:38"
+  }
+]

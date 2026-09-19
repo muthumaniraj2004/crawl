@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Alpine",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Grill, Event venue, Fast food restaurant, Momo restaurant",
+    "pincode": "181145",
+    "phone_number": "+91 72505 05013",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 37,
+    "address": "Hills, Barmini, Bathindi, Jammu, Jammu and Kashmir 181152",
+    "area": "Bathindi",
+    "latitude": 32.7220161,
+    "longitude": 74.9494004,
+    "place_id": "ChIJIaLSz8mDHjkRgA3IKuA7Oho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaLSz8mDHjkRgA3IKuA7Oho",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:16"
+  },
+  {
+    "business_name": "Indian Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee store, Restaurant",
+    "pincode": "181145",
+    "phone_number": "+91 90077 98519",
+    "website": "https://indiancoffeehouse.in/",
+    "rating": 4.1,
+    "reviews_count": 41812,
+    "address": "15, Bankim Chatterjee St, College Square West, College Street, Kolkata, West Bengal 700073",
+    "area": "College Square West, College Street",
+    "latitude": 22.576147499999998,
+    "longitude": 88.36393059999999,
+    "place_id": "ChIJ3-ggXk12AjoRXEpZDw8zZNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-ggXk12AjoRXEpZDw8zZNw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surbhi enterprises",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "182125",
+    "phone_number": "+91 87160 10599",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Shiv Temple, Garhi, Jammu and Kashmir 182121",
+    "area": "182125",
+    "latitude": 32.899378299999995,
+    "longitude": 75.0690102,
+    "place_id": "ChIJBZ4c89PTHTkRIGbw8senkZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZ4c89PTHTkRIGbw8senkZw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:47:31"
+  },
+  {
+    "business_name": "GoWild Adventures",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Adventure Sports Center",
+    "all_categories": "Adventure Sports Center, Tour agency, Tour operator",
+    "pincode": "182125",
+    "phone_number": "+91 70061 09348",
+    "website": "http://katra.gowildadventures.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vaishno Devi, Domel Katra Rd, near by Evoke Life Style, Katra, Jammu and Kashmir 182301",
+    "area": "182125",
+    "latitude": 32.987078499999996,
+    "longitude": 74.9323588,
+    "place_id": "ChIJj_geIKt5HjkRS_-In2lYIFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_geIKt5HjkRS_-In2lYIFw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:47:31"
+  }
+]

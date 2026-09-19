@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joy Coffee Jammu",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "181101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "JW7P+87W, Jammu, Jammu and Kashmir 181133",
+    "area": "181101",
+    "latitude": 32.6133625,
+    "longitude": 74.9357031,
+    "place_id": "ChIJoX11RwCdHjkRx2PpwIhjmt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoX11RwCdHjkRx2PpwIhjmt8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:35"
+  },
+  {
+    "business_name": "Cookie Dosa Point",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "WARD NO 1, R S PURA, 181102",
+    "area": "181101",
+    "latitude": 32.6079717,
+    "longitude": 74.7321604,
+    "place_id": "ChIJySzCceCRHjkRJ3-tAT4izrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySzCceCRHjkRJ3-tAT4izrc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharda Enterprises",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "180017",
+    "phone_number": "+91 60059 73676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No B11, Lane No 15, Jagti Rd, Nagrota, Jagti, Jammu and Kashmir 181221",
+    "area": "180017",
+    "latitude": 32.8161577,
+    "longitude": 74.9096287,
+    "place_id": "ChIJ9xPloImBHjkRtdETthn-NuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xPloImBHjkRtdETthn-NuU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:46:54"
+  },
+  {
+    "business_name": "GRACE KERALA STORE",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Confectionery store",
+    "pincode": "180017",
+    "phone_number": "+91 99060 78054",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 24,
+    "address": "Princeton English academy high school, near Princeton English Academy High School, Garhi, Farna, Jammu and Kashmir 182121",
+    "area": "180017",
+    "latitude": 32.9029927,
+    "longitude": 75.0721026,
+    "place_id": "ChIJLaDuHQHTHTkRfAx8ekdsO3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLaDuHQHTHTkRfAx8ekdsO3s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:46:54"
+  }
+]

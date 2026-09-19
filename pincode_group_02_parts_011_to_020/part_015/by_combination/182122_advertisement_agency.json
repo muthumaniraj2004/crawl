@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Advertising Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "182122",
+    "phone_number": "+91 99060 76677",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Al Aziz complex, Barzulla, Srinagar, Jammu and Kashmir 190005",
+    "area": "Barzulla",
+    "latitude": 34.0497193,
+    "longitude": 74.8009106,
+    "place_id": "ChIJUSzQvpOP4TgRpDyhhhs0WN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSzQvpOP4TgRpDyhhhs0WN8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:44:53"
+  },
+  {
+    "business_name": "Kashmir Ads",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "182122",
+    "phone_number": "+91 72980 77077",
+    "website": "https://www.kashmirads.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gilkar Villa, 2nd Floor, near Astan Sharif, Barbar Shah, Baghwanpora, Srinagar, Jammu and Kashmir 190001",
+    "area": "Barbar Shah, Baghwanpora",
+    "latitude": 34.093415799999995,
+    "longitude": 74.7945742,
+    "place_id": "ChIJo49f9FuP4TgR3C5mrndCRRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo49f9FuP4TgR3C5mrndCRRs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:44:53"
+  }
+]

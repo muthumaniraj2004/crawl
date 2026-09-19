@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Auto repair shop, Tire repair shop",
+    "pincode": "181143",
+    "phone_number": "+91 94191 72350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway Rd, near Jyoti Palace, Vijaypur, Samba, Jammu and Kashmir 184120",
+    "area": "181143",
+    "latitude": 32.5693877,
+    "longitude": 75.0202016,
+    "place_id": "ChIJl7FJrFMhHDkRYOpHH4IyeEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7FJrFMhHDkRYOpHH4IyeEQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:53"
+  },
+  {
+    "business_name": "Tara Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "181143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 7,
+    "address": "HXR8+288, Jakh, 181143",
+    "area": "181143",
+    "latitude": 32.5900454,
+    "longitude": 74.96581359999999,
+    "place_id": "ChIJQQH58SCeHjkRtQIEyPQecDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQH58SCeHjkRtQIEyPQecDk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:53"
+  }
+]

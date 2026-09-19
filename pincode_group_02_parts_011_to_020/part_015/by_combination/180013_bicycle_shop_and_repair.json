@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dogra Cycle Work",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "180013",
+    "phone_number": "+91 96220 43637",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Main Road, Patta Bohri, Jammu, Jammu and Kashmir 180002",
+    "area": "Patta Bohri",
+    "latitude": 32.7414677,
+    "longitude": 74.82046919999999,
+    "place_id": "ChIJwVuuTTaFHjkRJZGw7WSh9FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVuuTTaFHjkRJZGw7WSh9FU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:52"
+  },
+  {
+    "business_name": "BlueJay Bicycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "180013",
+    "phone_number": "+91 78899 58225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, near River Edge, Ashpeer, Sopore, Jammu and Kashmir 193201",
+    "area": "Ashpeer",
+    "latitude": 34.2789989,
+    "longitude": 74.4627993,
+    "place_id": "ChIJuzyP_WYJ4TgR_kTPRX1T3xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzyP_WYJ4TgR_kTPRX1T3xs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:55"
+  }
+]

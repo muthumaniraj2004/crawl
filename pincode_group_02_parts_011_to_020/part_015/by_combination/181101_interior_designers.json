@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "interionest",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "181101",
+    "phone_number": "+91 70066 42929",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near ring road, road, Bari Brahmana, Bishnah, Jammu, Jammu and Kashmir 181132",
+    "area": "Bari Brahmana",
+    "latitude": 32.617073,
+    "longitude": 74.8665968,
+    "place_id": "ChIJ6dkhsCqbHjkRbUiQzMELrPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dkhsCqbHjkRbUiQzMELrPI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:19"
+  },
+  {
+    "business_name": "Gaffari interior design",
+    "search_category": "Interior Designers",
+    "primary_category": "Carpenter",
+    "all_categories": "Carpenter",
+    "pincode": "181101",
+    "phone_number": "+91 95418 29878",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward 6, main market, Tahsil Bajar, Ranbir Singh Pura, Jammu, Jammu and Kashmir 181102",
+    "area": "181101",
+    "latitude": 32.6048991,
+    "longitude": 74.73153099999999,
+    "place_id": "ChIJUdgdhqeRHjkR-ohDPDRLPIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdgdhqeRHjkR-ohDPDRLPIA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:19"
+  }
+]

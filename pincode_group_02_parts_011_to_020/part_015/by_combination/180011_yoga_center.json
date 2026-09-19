@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brothers Arena Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "180011",
+    "phone_number": "+91 88250 68196",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Near BN Chowk Bathindi, Sunjwan, Jammu, Jammu and Kashmir 180011",
+    "area": "Sunjwan",
+    "latitude": 32.7054234,
+    "longitude": 74.9081363,
+    "place_id": "ChIJr1Zhjj2DHjkRh8uBX3vcZtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1Zhjj2DHjkRh8uBX3vcZtc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:37:57"
+  },
+  {
+    "business_name": "Women Alive",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "180011",
+    "phone_number": "+91 94191 04585",
+    "website": "https://www.facebook.com/pages/Women-Alive/146007332185747",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "MVQW+GCQ, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.6889654,
+    "longitude": 74.8959982,
+    "place_id": "ChIJ6SUpbbacHjkRd_tRj4BtUCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SUpbbacHjkRd_tRj4BtUCc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:37:59"
+  }
+]

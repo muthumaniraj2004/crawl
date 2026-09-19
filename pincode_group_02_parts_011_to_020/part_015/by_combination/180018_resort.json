@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghav Resort",
+    "search_category": "Resort",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "180018",
+    "phone_number": "+91 60062 40733",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 203,
+    "address": "Anand nagar, Lane 9, Talab Tillo Rd, Tamwal, Bohri, Jammu, Jammu and Kashmir 181206",
+    "area": "Tamwal, Bohri",
+    "latitude": 32.7432228,
+    "longitude": 74.8018493,
+    "place_id": "ChIJ4WHuAbKFHjkRdhArc5z9Vno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WHuAbKFHjkRdhArc5z9Vno",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:59"
+  },
+  {
+    "business_name": "SUKRALA RESORTS",
+    "search_category": "Resort",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "180018",
+    "phone_number": "+91 94196 09500",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 51,
+    "address": "Sarore, Tehsil Bishnah, Distt, Jammu, Jammu and Kashmir 181133",
+    "area": "180018",
+    "latitude": 32.5990665,
+    "longitude": 74.9022726,
+    "place_id": "ChIJPYvogHKfHjkRqDvynJlrqIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYvogHKfHjkRqDvynJlrqIU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:59"
+  }
+]

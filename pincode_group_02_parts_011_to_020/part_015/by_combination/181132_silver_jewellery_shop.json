@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharam jewellers by abhishek",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "181132",
+    "phone_number": "+91 97975 70007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main bazar, Bishnah, Jammu, Jammu and Kashmir 181132",
+    "area": "181132",
+    "latitude": 32.610610799999996,
+    "longitude": 74.8557853,
+    "place_id": "ChIJz0fsuGebHjkRd3bjKj9u6TU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0fsuGebHjkRd3bjKj9u6TU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:46"
+  },
+  {
+    "business_name": "Anand Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "181132",
+    "phone_number": "+91 96220 23640",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Main bazar, lower, Bishnah, Jammu, Jammu and Kashmir 181132",
+    "area": "lower",
+    "latitude": 32.6101275,
+    "longitude": 74.8562984,
+    "place_id": "ChIJ6cJmRxebHjkR3bKY3C5v0E4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cJmRxebHjkR3bKY3C5v0E4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:46"
+  }
+]

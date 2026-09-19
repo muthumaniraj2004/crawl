@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plathia medical shop",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "181111",
+    "phone_number": "+91 96220 24251",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite govt. School, Sohagpur, Pandori Manhasan, Jammu and Kashmir 181131",
+    "area": "181111",
+    "latitude": 32.5237153,
+    "longitude": 74.81752469999999,
+    "place_id": "ChIJnefgrS2ZHjkRN6g66zI8XiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnefgrS2ZHjkRN6g66zI8XiE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:58:33"
+  },
+  {
+    "business_name": "Shalamar Jammu",
+    "search_category": "Clinics",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "181111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "PVM6+5M5, Shalamar, Rehari Colony, Jammu, Jammu and Kashmir 180001",
+    "area": "Shalamar, Rehari Colony",
+    "latitude": 32.7328975,
+    "longitude": 74.8617249,
+    "place_id": "ChIJwz-0DwCFHjkRoEETH36pT7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwz-0DwCFHjkRoEETH36pT7M",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:58:35"
+  }
+]

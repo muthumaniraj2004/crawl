@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Computer Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer service",
+    "pincode": "180015",
+    "phone_number": "+91 99163 06513",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 1612,
+    "address": "No 20/3, Laxmaiah Complex, opp. Metro Station, behind TATA motors, Vidya Nagar, T. Dasarahalli, Bengaluru, Karnataka 560057",
+    "area": "Vidya Nagar, T. Dasarahalli",
+    "latitude": 13.0425823,
+    "longitude": 77.5124204,
+    "place_id": "ChIJ0Q-2etc8rjsRyoKWorShi0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Q-2etc8rjsRyoKWorShi0c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:44:29"
+  },
+  {
+    "business_name": "TechGeek Laptop Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store, Used computer store",
+    "pincode": "180015",
+    "phone_number": "+91 82177 57250",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 579,
+    "address": "54/A, 1st Floor, Above Axis Bank ATM St.James Church Street, Dasarahalli Main Rd, Mariyannapalya, Hebbal Kempapura, Bengaluru, Karnataka 560024",
+    "area": "Mariyannapalya, Hebbal Kempapura",
+    "latitude": 13.0489701,
+    "longitude": 77.6119233,
+    "place_id": "ChIJtXrucwUXrjsR3OPIUZcmBSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXrucwUXrjsR3OPIUZcmBSA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:44:29"
+  }
+]

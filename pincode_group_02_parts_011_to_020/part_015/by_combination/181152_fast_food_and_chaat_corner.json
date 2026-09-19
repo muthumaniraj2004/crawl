@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuldeep Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "181152",
+    "phone_number": "+91 77809 56128",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "4, Narwal, University of Jammu, Railway Colony, Jammu, Jammu and Kashmir 180012",
+    "area": "Narwal, University of Jammu, Railway Colony",
+    "latitude": 32.710934,
+    "longitude": 74.8753025,
+    "place_id": "ChIJVXoMa1-DHjkRpGbIxpC3UlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXoMa1-DHjkRpGbIxpC3UlY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:11"
+  },
+  {
+    "business_name": "Momo Nation Cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Restaurant",
+    "pincode": "181152",
+    "phone_number": "+91 90860 96869",
+    "website": "http://www.momonationcafe.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Railway Station Line, Adjacent Jai Hind Tower, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.6840428,
+    "longitude": 74.88831069999999,
+    "place_id": "ChIJIU0fy2udHjkRXg5JHhUTSkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIU0fy2udHjkRXg5JHhUTSkw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:12"
+  }
+]

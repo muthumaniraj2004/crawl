@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hospital/Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "180019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "M5H3+GJC, Rampura Industrial Area, Tri Nagar, Delhi, 110035",
+    "area": "Rampura Industrial Area, Tri Nagar",
+    "latitude": 28.6788201,
+    "longitude": 77.1540212,
+    "place_id": "ChIJdb_0IUwCDTkRvctV9GHGN2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdb_0IUwCDTkRvctV9GHGN2o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:51:09"
+  },
+  {
+    "business_name": "Ojas Hospital and Maternity Center",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre",
+    "pincode": "180019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Ramchandra Nagar, Udgir, Maharashtra 413517",
+    "area": "Ramchandra Nagar",
+    "latitude": 18.3980003,
+    "longitude": 77.10719,
+    "place_id": "ChIJ8Y77YyaqzzsR-IEC6bdQSec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Y77YyaqzzsR-IEC6bdQSec",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:51:09"
+  }
+]

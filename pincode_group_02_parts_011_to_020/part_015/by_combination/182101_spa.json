@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty Vip2 Saloon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Facial spa",
+    "pincode": "182101",
+    "phone_number": "+91 95969 70763",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tallab Salian, Lambi Gali, Udhampur, Jammu and Kashmir 182101",
+    "area": "Tallab Salian, Lambi Gali",
+    "latitude": 32.9182598,
+    "longitude": 75.1287005,
+    "place_id": "ChIJceJYpR_THTkRjdZFhsfU56E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceJYpR_THTkRjdZFhsfU56E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:38:30"
+  },
+  {
+    "business_name": "Sonia beauty parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "182101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Womens College Rd, Chabutra Bazaar, Dina Nagar, Udhampur, Jammu and Kashmir 182101",
+    "area": "Chabutra Bazaar, Dina Nagar",
+    "latitude": 32.9177185,
+    "longitude": 75.128604,
+    "place_id": "ChIJidd3YVjTHTkR52XkPQ9VjbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidd3YVjTHTkR52XkPQ9VjbI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:38:30"
+  }
+]

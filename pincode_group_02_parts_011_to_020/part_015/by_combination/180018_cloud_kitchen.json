@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fat indian cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery",
+    "pincode": "180018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "near Vedanta public school, Chhatrapati Nagar, Rewa, Madhya Pradesh 486001",
+    "area": "Chhatrapati Nagar",
+    "latitude": 24.5294025,
+    "longitude": 81.3171148,
+    "place_id": "ChIJ8ams8uJbhDkRPqEAOuVRwak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ams8uJbhDkRPqEAOuVRwak",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:03"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Cloud Kitchen",
+    "all_categories": "Cloud Kitchen",
+    "pincode": "180018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GPW4+HJH, 100 Feet Rd, Sector 12, Rto Road, Roopsagar, Udaipur, Rajasthan 313002",
+    "area": "Sector 12, Rto Road, Roopsagar",
+    "latitude": 24.546441599999998,
+    "longitude": 73.7066052,
+    "place_id": "ChIJXQQuRADvZzkRx9rAaO9m9H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQQuRADvZzkRx9rAaO9m9H0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:03"
+  }
+]

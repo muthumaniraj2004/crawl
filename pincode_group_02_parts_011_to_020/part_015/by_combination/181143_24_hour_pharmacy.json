@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elixir pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "181143",
+    "phone_number": "+91 80823 93840",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vijaypur, Gorah Salathian, Jammu and Kashmir 184120",
+    "area": "181143",
+    "latitude": 32.5674518,
+    "longitude": 75.0177052,
+    "place_id": "ChIJS_1CI8ghHDkRGGJr_tNoAeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_1CI8ghHDkRGGJr_tNoAeE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:36"
+  },
+  {
+    "business_name": "Gaytri pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "181143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gali no 1, near AIIMS, Vijaypur, Samba, Jammu and Kashmir 184120",
+    "area": "181143",
+    "latitude": 32.5636535,
+    "longitude": 75.0300634,
+    "place_id": "ChIJZTFqnLIhHDkRwvWM_H3Rqnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTFqnLIhHDkRwvWM_H3Rqnw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:38"
+  }
+]

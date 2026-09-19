@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "181207",
+    "phone_number": "+91 98250 50246",
+    "website": "http://www.parasconsultants.co.in/",
+    "rating": 4.6,
+    "reviews_count": 12,
+    "address": "3rd Floor, Centaur Complex, Vijay Cross Rd, opp. Bank of Maharashtra, Sarvottam Nagar Society, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Sarvottam Nagar Society, Navrangpura",
+    "latitude": 23.0426309,
+    "longitude": 72.54979209999999,
+    "place_id": "ChIJydxBAZSEXjkROlZbuJFzwzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydxBAZSEXjkROlZbuJFzwzk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:33:07"
+  },
+  {
+    "business_name": "S & HOSPITALITY SERVICES",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Hospitality Consultants",
+    "all_categories": "Hospitality Consultants",
+    "pincode": "181207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jammu 180001",
+    "area": "Bakshi Nagar",
+    "latitude": 32.7389738,
+    "longitude": 74.84418819999999,
+    "place_id": "ChIJt_pa-1uEHjkRq3afD5ijSeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_pa-1uEHjkRq3afD5ijSeI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:33:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JammuBasket",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service, E-commerce service",
+    "pincode": "180004",
+    "phone_number": "+91 99066 07569",
+    "website": "http://www.jammubasket.com/",
+    "rating": 4.8,
+    "reviews_count": 95,
+    "address": "486-A, near Laxmi Narayan Mandir, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.7005505,
+    "longitude": 74.8615183,
+    "place_id": "ChIJbc5s1hGDHjkR7K1J8A16gRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbc5s1hGDHjkR7K1J8A16gRo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:02"
+  },
+  {
+    "business_name": "Mahajan super shoppee",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "180004",
+    "phone_number": "+91 90862 90862",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "near Mahajan super shoppee, Shastri Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Shastri Nagar",
+    "latitude": 32.6932186,
+    "longitude": 74.8546667,
+    "place_id": "ChIJ0x53NHuFHjkRn1N0TDXwVAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0x53NHuFHjkRn1N0TDXwVAM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:02"
+  }
+]

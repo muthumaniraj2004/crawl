@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamraaz Restaurant",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Country food restaurant, Health food restaurant, Restaurant, Kashmiri restaurant",
+    "pincode": "180013",
+    "phone_number": "+91 96229 07191",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "General Bus Stand Rd, Mehandi Kadal, Anantnag, Jammu and Kashmir 192101",
+    "area": "Mehandi Kadal",
+    "latitude": 33.733572099999996,
+    "longitude": 75.1470198,
+    "place_id": "ChIJgebBawAF4jgR62wbf3LSKl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgebBawAF4jgR62wbf3LSKl4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:22"
+  },
+  {
+    "business_name": "Mahesh Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "180013",
+    "phone_number": "+91 79952 91570",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 47,
+    "address": "Khanapur, Telangana 504203",
+    "area": "180013",
+    "latitude": 19.0409327,
+    "longitude": 78.6493816,
+    "place_id": "ChIJ353lsKWCzTsRdVk4ElYha1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ353lsKWCzTsRdVk4ElYha1s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:41:23"
+  }
+]

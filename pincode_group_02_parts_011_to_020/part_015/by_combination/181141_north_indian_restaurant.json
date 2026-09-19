@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mexicanpanda",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "181141",
+    "phone_number": "+91 92205 80200",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Link Road, near Jsn academy, badali, Vijaypur, Badhwal, Jammu and Kashmir 184120",
+    "area": "badali",
+    "latitude": 32.5651632,
+    "longitude": 74.98899469999999,
+    "place_id": "ChIJj2Q-2iIhHDkREhgRceSIhrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2Q-2iIhHDkREhgRceSIhrE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:31"
+  },
+  {
+    "business_name": "KAka punjabi dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 65,
+    "address": "NH 44, Banihal, Jammu and Kashmir 182146",
+    "area": "181141",
+    "latitude": 33.430346899999996,
+    "longitude": 75.2001956,
+    "place_id": "ChIJaZZtH0TvHTkRln4HXUpDitg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZZtH0TvHTkRln4HXUpDitg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:34"
+  }
+]

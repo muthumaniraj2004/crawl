@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CB Farms",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Coffee shop",
+    "pincode": "181201",
+    "phone_number": "+91 96220 80380",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "Police Station, near Akhnoor Road, Jammu, Jammu and Kashmir 181201",
+    "area": "181201",
+    "latitude": 32.8980129,
+    "longitude": 74.7451674,
+    "place_id": "ChIJQ6ZXe1hjHjkR1mxRYjw8fEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6ZXe1hjHjkR1mxRYjw8fEc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:21:05"
+  },
+  {
+    "business_name": "Bawa Ji Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "181201",
+    "phone_number": "+91 90181 64324",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QQJJ+JM2, Machine Domana, near Post Office, Domana, Jammu, Jammu and Kashmir 181206",
+    "area": "Domana",
+    "latitude": 32.7824838,
+    "longitude": 74.7826621,
+    "place_id": "ChIJ90q4YXSHHjkR7SmyQXWww6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90q4YXSHHjkR7SmyQXWww6s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:21:06"
+  }
+]

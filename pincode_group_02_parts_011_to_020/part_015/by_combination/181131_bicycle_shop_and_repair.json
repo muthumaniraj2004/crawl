@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saini Automobiles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "181131",
+    "phone_number": "+91 95969 77028",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Saini Automobiles ,Arnia road ,Sheikhpur ,181131, Jammu and Kashmir 181141",
+    "area": "181131",
+    "latitude": 32.5356284,
+    "longitude": 74.8563183,
+    "place_id": "ChIJ4U4EpDuZHjkRUUC5uf2ip4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4U4EpDuZHjkRUUC5uf2ip4I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:08:16"
+  },
+  {
+    "business_name": "Pawan Auto Mobile",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "181131",
+    "phone_number": "+91 60055 95221",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7 K C, Morh, Bishnah, Jammu and Kashmir 181132",
+    "area": "181131",
+    "latitude": 32.6130344,
+    "longitude": 74.85942299999999,
+    "place_id": "ChIJCYEXoJibHjkRk7Qiawoge1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYEXoJibHjkRk7Qiawoge1E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:08:18"
+  }
+]

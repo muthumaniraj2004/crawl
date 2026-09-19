@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SSSIT",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "181145",
+    "phone_number": "+91 40 2315 0987",
+    "website": "http://www.sssit.info/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MIG-224, 2nd Floor, beside R S Brothers, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally",
+    "latitude": 17.4936218,
+    "longitude": 78.40081789999999,
+    "place_id": "ChIJ05XNu-yRyzsRsxX90GFWUWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05XNu-yRyzsRsxX90GFWUWM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:22"
+  },
+  {
+    "business_name": "Karan computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Vocational school",
+    "pincode": "181145",
+    "phone_number": "+91 80081 23636",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "first floor, Bata, bus stop, above fashion mela store, near Bata, Nala Bazar, Maruthi Veedhi, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Nala Bazar, Maruthi Veedhi, Shivaji Nagar",
+    "latitude": 17.43598,
+    "longitude": 78.4941113,
+    "place_id": "ChIJbZY4VMCZyzsR1cSu925vD3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZY4VMCZyzsR1cSu925vD3g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:22"
+  }
+]

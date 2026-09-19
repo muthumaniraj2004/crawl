@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baru resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "181205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "QR42+QX4, Lower Muthi, Jammu, Jammu and Kashmir 181205",
+    "area": "Lower Muthi",
+    "latitude": 32.7568919,
+    "longitude": 74.8024634,
+    "place_id": "ChIJ0xzp5jGFHjkRIGAKfHz4w0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xzp5jGFHjkRIGAKfHz4w0s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:29:19"
+  },
+  {
+    "business_name": "PR RESORT",
+    "search_category": "Resort",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "181205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "QQ5J+QX4, Sangram Pur, Jammu, 181205",
+    "area": "Sangram Pur",
+    "latitude": 32.7595534,
+    "longitude": 74.7825719,
+    "place_id": "ChIJ2f3SLACFHjkRRJhDLqkcthw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2f3SLACFHjkRRJhDLqkcthw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:29:19"
+  }
+]

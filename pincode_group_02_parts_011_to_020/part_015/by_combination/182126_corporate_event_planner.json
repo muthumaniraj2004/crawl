@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dynamic events 23",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "182126",
+    "phone_number": "+91 98862 30396",
+    "website": "http://dynamicevents23.in/",
+    "rating": 5,
+    "reviews_count": 102,
+    "address": "Hariyabbe Hiriyur,(T) Chitradurga (D, Karnataka 577546",
+    "area": "182126",
+    "latitude": 14.0562651,
+    "longitude": 76.8086957,
+    "place_id": "ChIJC1OfjsqNsDsRCLnldsNWAcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1OfjsqNsDsRCLnldsNWAcI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:49:54"
+  },
+  {
+    "business_name": "Pal events crew",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "182126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pal events crew, 182126, India",
+    "area": "182126",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJkQA4TMw9rjsRpOIXJw3nPK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQA4TMw9rjsRpOIXJw3nPK8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:49:56"
+  }
+]

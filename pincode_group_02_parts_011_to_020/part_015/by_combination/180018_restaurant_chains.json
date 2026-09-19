@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bollywood Curry Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fish restaurant",
+    "pincode": "180018",
+    "phone_number": "+91 80974 52887",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 260,
+    "address": "Ghat 13, Boulevard Rd, Dal Lake, Gagribal, Srinagar, Jammu and Kashmir 190001",
+    "area": "Dal Lake, Gagribal",
+    "latitude": 34.0885339,
+    "longitude": 74.8430482,
+    "place_id": "ChIJU842mT2P4TgRpGGo_h_ZWKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU842mT2P4TgRpGGo_h_ZWKY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:05"
+  },
+  {
+    "business_name": "Salsa Fast Food & Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "180018",
+    "phone_number": "+91 94192 31756",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 246,
+    "address": "Udheywalla Road, opposite Indian oil petrol pump, Manorama Vihar, Paloura, Jammu, Jammu and Kashmir 180018",
+    "area": "Manorama Vihar, Paloura",
+    "latitude": 32.743196999999995,
+    "longitude": 74.816783,
+    "place_id": "ChIJ7yZpGbqFHjkRnymZ2DzLlnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yZpGbqFHjkRnymZ2DzLlnA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy Gym 2.0",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181101",
+    "phone_number": "+91 94191 48577",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MBS College Road, Digiana, Jeevan Nagar, Jammu, Jammu and Kashmir 181101",
+    "area": "Digiana, Jeevan Nagar",
+    "latitude": 32.6786457,
+    "longitude": 74.8478409,
+    "place_id": "ChIJwYJcqs6bHjkRTv5KF4OdZx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYJcqs6bHjkRTv5KF4OdZx4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:58"
+  },
+  {
+    "business_name": "La Krishna",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "JRV7+CF9, RS Pura Road, Shri Madhopur, Miran Sahib, Jammu and Kashmir 181101",
+    "area": "Shri Madhopur",
+    "latitude": 32.6435442,
+    "longitude": 74.81372549999999,
+    "place_id": "ChIJ__y7pveaHjkR0yn0WhhGr54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__y7pveaHjkR0yn0WhhGr54",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:00"
+  }
+]

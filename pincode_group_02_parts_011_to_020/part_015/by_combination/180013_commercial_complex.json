@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blinkit Store",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "180013",
+    "phone_number": "N/A",
+    "website": "http://blinkit.com/",
+    "rating": 3.8,
+    "reviews_count": 51,
+    "address": "QR8J+Q9P, Muthi, Jammu, Jammu and Kashmir 180013",
+    "area": "Muthi",
+    "latitude": 32.7669565,
+    "longitude": 74.830941,
+    "place_id": "ChIJzddtNACFHjkRbcirV1j3A7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzddtNACFHjkRbcirV1j3A7Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:01"
+  },
+  {
+    "business_name": "S K Building Material",
+    "search_category": "Commercial Complex",
+    "primary_category": "Duty free store",
+    "all_categories": "Duty free store",
+    "pincode": "180013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "67, Chinore, Jammu, Jammu and Kashmir 181123",
+    "area": "Chinore",
+    "latitude": 32.7793992,
+    "longitude": 74.83307669999999,
+    "place_id": "ChIJn2JizUOHHjkRSMeGi1A0NtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2JizUOHHjkRSMeGi1A0NtY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:01"
+  }
+]

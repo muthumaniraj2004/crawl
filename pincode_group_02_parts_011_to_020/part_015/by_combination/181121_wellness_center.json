@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RS WELLNESS CENTER",
+    "search_category": "Wellness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181121",
+    "phone_number": "+91 72986 71118",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jammu 180007",
+    "area": "Janipur",
+    "latitude": 32.7550543,
+    "longitude": 74.8498077,
+    "place_id": "ChIJ9281EECEHjkR_XL_ey9RimI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9281EECEHjkR_XL_ey9RimI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:00:59"
+  },
+  {
+    "business_name": "Jammu Paloura Ayurvadic Dispencry",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "181121",
+    "phone_number": "+91 99108 13366",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "H .no 157, Main Road, near Government Dispensary, Patoli, Paloura, Jammu, Jammu and Kashmir 181121",
+    "area": "Patoli, Paloura",
+    "latitude": 32.7617601,
+    "longitude": 74.83823989999999,
+    "place_id": "ChIJrz2KizCEHjkR9-Ymvufr0EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrz2KizCEHjkR9-Ymvufr0EY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:00:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Solis Wellness Retreat Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Tourist attraction",
+    "pincode": "180006",
+    "phone_number": "+91 99150 47200",
+    "website": "http://www.soliswellnessretreat.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tharoli, Punjab 146110",
+    "area": "180006",
+    "latitude": 31.5247863,
+    "longitude": 76.0156325,
+    "place_id": "ChIJ64ClJqbhGjkRl8Juz-sawds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64ClJqbhGjkRl8Juz-sawds",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:30:51"
+  },
+  {
+    "business_name": "ES Enterprises (Asclepius Wellness Authorised Franchise)",
+    "search_category": "Wellness Center",
+    "primary_category": "Vitamin & supplements store",
+    "all_categories": "Vitamin & supplements store, Herbal medicine store",
+    "pincode": "180006",
+    "phone_number": "+91 70060 27152",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "ES Enterprises, Neter Kothian, Barnai, Kailash Vihar, Jammu, Jammu and Kashmir 181205",
+    "area": "Barnai, Kailash Vihar",
+    "latitude": 32.7627686,
+    "longitude": 74.80138579999999,
+    "place_id": "ChIJr-9kmFOFHjkR0WtspyoonvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-9kmFOFHjkR0WtspyoonvY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:30:52"
+  }
+]

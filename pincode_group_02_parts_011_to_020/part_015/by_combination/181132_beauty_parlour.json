@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishika Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Facial spa",
+    "all_categories": "Facial spa",
+    "pincode": "181132",
+    "phone_number": "+91 96223 21841",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "K C, Morh, near Mahavir Medical Store, Bishnah, Jammu and Kashmir 181132",
+    "area": "181132",
+    "latitude": 32.6132188,
+    "longitude": 74.8586485,
+    "place_id": "ChIJpasPfYGbHjkRejThSRXs1BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpasPfYGbHjkRejThSRXs1BM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:10:28"
+  },
+  {
+    "business_name": "Palvee Beauty Parlour & Training Centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "181132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward no. 3, Bishnah Rd, near Naveen Shiksha Kendra School, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.6425488,
+    "longitude": 74.9098696,
+    "place_id": "ChIJT1h9JgCdHjkRqjWxY94HEEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1h9JgCdHjkRqjWxY94HEEE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:10:30"
+  }
+]

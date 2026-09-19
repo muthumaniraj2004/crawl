@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KIWI INTERNATIONAL TRAVELS PVT.LTD",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tourist information center",
+    "all_categories": "Tourist information center",
+    "pincode": "181101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ranbir Singh Pura, Kirpind, Jammu, Jammu and Kashmir 181101",
+    "area": "Ranbir Singh Pura",
+    "latitude": 32.6048991,
+    "longitude": 74.73153099999999,
+    "place_id": "ChIJiWVo21GRHjkRWHp_E4lTAUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWVo21GRHjkRWHp_E4lTAUQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:05"
+  },
+  {
+    "business_name": "Jammu Amarnath Tour by Holiday Expert",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "181101",
+    "phone_number": "+91 90860 98619",
+    "website": "http://jammuamarnathtour.in.holidayinntourandtravels.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "RS Pura Rd, opposite Karan Gate, Karan Bagh, Jammu, Jammu and Kashmir 180016",
+    "area": "Karan Bagh",
+    "latitude": 32.6678772,
+    "longitude": 74.8381849,
+    "place_id": "ChIJRU3NWDebHjkRwF9byMmIMPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRU3NWDebHjkRwF9byMmIMPg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DK Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "180007",
+    "phone_number": "+91 70064 64283",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Bantalab Road, Durga Nagar, Jammu, Jammu and Kashmir 181123",
+    "area": "Durga Nagar",
+    "latitude": 32.772492,
+    "longitude": 74.8317448,
+    "place_id": "ChIJgycRMR2FHjkRYZhGiqGZru0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgycRMR2FHjkRYZhGiqGZru0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:32:20"
+  },
+  {
+    "business_name": "Pal Kia - Certified Pre Owned Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "180007",
+    "phone_number": "N/A",
+    "website": "https://palkia.in/kia-certified-pre-owned/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Jammu Akhnoor Hwy, opp. Pillar No. 5, Suraj Nagar, Jammu, Jammu and Kashmir 180016",
+    "area": "Suraj Nagar",
+    "latitude": 32.7318474,
+    "longitude": 74.8426898,
+    "place_id": "ChIJP6YpwuaFHjkRm4PDWOZPPaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6YpwuaFHjkRm4PDWOZPPaY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:32:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "181102",
+    "phone_number": "+91 92905 21466",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "opposite Muncipal Office, near Old Bus Stand, Pillidi, Pagidimari, Medak, Telangana 502110",
+    "area": "Pillidi, Pagidimari",
+    "latitude": 18.0433164,
+    "longitude": 78.2615952,
+    "place_id": "ChIJhTGa2RIVzDsRPf0EQFodmsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhTGa2RIVzDsRPf0EQFodmsI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:56:30"
+  },
+  {
+    "business_name": "Tiffino Tiffin Services",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Service establishment",
+    "pincode": "181102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tiffino Tiffin Services, 181102, India",
+    "area": "181102",
+    "latitude": 18.518632,
+    "longitude": 73.932653,
+    "place_id": "ChIJhcT-9ITpwjsRQYUnXGKuRsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcT-9ITpwjsRQYUnXGKuRsA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:56:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fit Formula Studio",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181124",
+    "phone_number": "+91 96221 46672",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "PRWP+GC5, Toph Sherkhanian, Jammu, Jammu and Kashmir 181121",
+    "area": "Toph Sherkhanian",
+    "latitude": 32.7462631,
+    "longitude": 74.8360938,
+    "place_id": "ChIJ_UyeBRqFHjkRcpz_PQoge1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UyeBRqFHjkRcpz_PQoge1M",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:06:18"
+  },
+  {
+    "business_name": "Vfc Fitness Club Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "181124",
+    "phone_number": "+91 60056 89151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Chandan Vihar, Muthi, Jammu, Jammu and Kashmir 181123",
+    "area": "Muthi",
+    "latitude": 32.7557517,
+    "longitude": 74.8176244,
+    "place_id": "ChIJM0AEI9qFHjkR7Ad1M2f7sFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0AEI9qFHjkR7Ad1M2f7sFc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:06:19"
+  }
+]

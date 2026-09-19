@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bakaya Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "180019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1105, A Block, Palm Reviera Apartments, Jammu, Jammu and Kashmir 180019",
+    "area": "180019",
+    "latitude": 32.7578582,
+    "longitude": 74.88872239999999,
+    "place_id": "ChIJpZnEjh2DHjkRCyjGc8V4MXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZnEjh2DHjkRCyjGc8V4MXA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:12"
+  },
+  {
+    "business_name": "Majid Amin Bhat",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "180019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QV2X+R68, Jammu, & Kashmir 180019",
+    "area": "180019",
+    "latitude": 32.752251799999996,
+    "longitude": 74.8982307,
+    "place_id": "ChIJTzL3OACDHjkRr9Xc3czQCeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzL3OACDHjkRr9Xc3czQCeU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:12"
+  }
+]

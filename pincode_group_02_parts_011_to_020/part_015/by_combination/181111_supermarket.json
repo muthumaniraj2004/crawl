@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kissan Karyana Super Market, Dablehar",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "181111",
+    "phone_number": "+91 95308 57163",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "Vpo, Dablehar, Mehsian, Jammu and Kashmir 181111",
+    "area": "Vpo",
+    "latitude": 32.5839937,
+    "longitude": 74.76438809999999,
+    "place_id": "ChIJIZsl1w6XHjkRqt7Sfs0qgG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZsl1w6XHjkRqt7Sfs0qgG4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:58:06"
+  },
+  {
+    "business_name": "Ranjeet General Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "181111",
+    "phone_number": "+91 97966 08655",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "Village Sidher, and Kashmir, RS Pura Rd, Ranbir Singh Pura, 181102",
+    "area": "181111",
+    "latitude": 32.5952912,
+    "longitude": 74.7222127,
+    "place_id": "ChIJ8-JOuHCRHjkRkdnuh-DS5wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-JOuHCRHjkRkdnuh-DS5wY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:58:06"
+  }
+]

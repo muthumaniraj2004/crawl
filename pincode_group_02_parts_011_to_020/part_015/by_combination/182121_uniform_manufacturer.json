@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "182121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Village kah flata, near yash pal tea stall, seen thakran, Udhampur, Jammu and Kashmir 182121",
+    "area": "seen thakran",
+    "latitude": 32.9005867,
+    "longitude": 75.04454009999999,
+    "place_id": "ChIJZ_gwsMbVHTkRXh8tarmc2_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_gwsMbVHTkRXh8tarmc2_A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:37"
+  },
+  {
+    "business_name": "UNCLE SAM 57 APPAREL CLOTHING",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "182121",
+    "phone_number": "+91 98585 29387",
+    "website": "https://www.sambhai.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VAISHNO DEVI, near HOTEL JIJ, Katra, Jammu and Kashmir 182301",
+    "area": "182121",
+    "latitude": 32.9915491,
+    "longitude": 74.9318698,
+    "place_id": "ChIJawwmC5p5HjkR6-MzFqGLe8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawwmC5p5HjkR6-MzFqGLe8U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:39"
+  }
+]

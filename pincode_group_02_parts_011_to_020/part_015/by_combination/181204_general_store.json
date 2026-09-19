@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Gen Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "181204",
+    "phone_number": "+91 94194 06197",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarmala, Khore, Kaleeth, Jammu and Kashmir 181204",
+    "area": "Sarmala",
+    "latitude": 32.8685867,
+    "longitude": 74.4890126,
+    "place_id": "ChIJw7AlXDVZHjkR2KsiWJqLgZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7AlXDVZHjkR2KsiWJqLgZ4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:26:28"
+  },
+  {
+    "business_name": "sanjay pansari",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "181204",
+    "phone_number": "+91 91077 52169",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5 Sailawali chowk, near shiv mandir, Jammu and Kashmir 181204",
+    "area": "181204",
+    "latitude": 32.8575187,
+    "longitude": 74.4706435,
+    "place_id": "ChIJhUWukF5ZHjkR0feVx3QG2w8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUWukF5ZHjkR0feVx3QG2w8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:26:28"
+  }
+]

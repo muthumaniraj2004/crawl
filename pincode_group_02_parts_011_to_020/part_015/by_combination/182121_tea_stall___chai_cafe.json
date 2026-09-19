@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "182121",
+    "phone_number": "+91 96826 65256",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "opp. Hotel Sunrise, Katra, Jammu and Kashmir 182301",
+    "area": "182121",
+    "latitude": 32.9873374,
+    "longitude": 74.9290599,
+    "place_id": "ChIJs4WqcKl5HjkRCz02wu9gYSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4WqcKl5HjkRCz02wu9gYSQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:23"
+  },
+  {
+    "business_name": "NRI TAPRIVALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "182121",
+    "phone_number": "+91 466588844",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 55,
+    "address": "Ban Ganga Rd, Katra, Jammu and Kashmir 182301",
+    "area": "182121",
+    "latitude": 32.9931522,
+    "longitude": 74.9322646,
+    "place_id": "ChIJzeF3aHl5HjkRq-ImbLo1eaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeF3aHl5HjkRq-ImbLo1eaA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:23"
+  }
+]

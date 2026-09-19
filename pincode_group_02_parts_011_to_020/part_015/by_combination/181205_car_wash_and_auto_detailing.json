@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAR DETAILING STUDIO",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "181205",
+    "phone_number": "+91 76748 96219",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HF8G+XXW, Gundlapochampally, Hyderabad, Telangana 500100",
+    "area": "Gundlapochampally",
+    "latitude": 17.5673436,
+    "longitude": 78.4774735,
+    "place_id": "ChIJMSmWfQCFyzsREauYtEENNHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSmWfQCFyzsREauYtEENNHM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:28:50"
+  },
+  {
+    "business_name": "Exotic Car Foam Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "181205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot no 10, E/P, Colony Rd, Sai Colony, Anmagal Hayathnagar, Hyderabad, Telangana 501505",
+    "area": "Sai Colony",
+    "latitude": 17.3220646,
+    "longitude": 78.6079792,
+    "place_id": "ChIJjQS5nh6hyzsRGO5Q_iOIudM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQS5nh6hyzsRGO5Q_iOIudM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:28:50"
+  }
+]

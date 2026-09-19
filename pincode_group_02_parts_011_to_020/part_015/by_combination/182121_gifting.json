@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "182121",
+    "phone_number": "+91 70510 05454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Ward No 7, Atm Chintamani Road, Upper Bazar Karra, near Jammu And Kashmir, Katra, Jammu and Kashmir 182320",
+    "area": "182121",
+    "latitude": 32.9944583,
+    "longitude": 74.93758509999999,
+    "place_id": "ChIJ4WimzIt5HjkRRnbbZ2vkiEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WimzIt5HjkRRnbbZ2vkiEI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:42:25"
+  },
+  {
+    "business_name": "Murari Gift Center",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "182121",
+    "phone_number": "+91 78893 40030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vaishno Devi Main Bazar, Naya Bazar, Katra, Jammu and Kashmir 182301",
+    "area": "Naya Bazar",
+    "latitude": 32.9922399,
+    "longitude": 74.9322479,
+    "place_id": "ChIJy0FM3sZ5HjkRelOgM-IXzOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0FM3sZ5HjkRelOgM-IXzOc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:42:25"
+  }
+]

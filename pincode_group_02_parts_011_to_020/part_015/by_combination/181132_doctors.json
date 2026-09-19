@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagat mohalla",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "181132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JV65+8QH, Bishnah, Jammu and Kashmir 181132",
+    "area": "181132",
+    "latitude": 32.6108195,
+    "longitude": 74.8594853,
+    "place_id": "ChIJ-Xa6KQCbHjkRCoZ4fXqC-Fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Xa6KQCbHjkRCoZ4fXqC-Fc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:59"
+  },
+  {
+    "business_name": "Dr Sushil Sharma clinic",
+    "search_category": "Doctors",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "181132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "JV75+59V, Bishnah, Jammu and Kashmir 181132",
+    "area": "181132",
+    "latitude": 32.6129752,
+    "longitude": 74.8584175,
+    "place_id": "ChIJEwaBKgCbHjkRgq1KSlf6gkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwaBKgCbHjkRgq1KSlf6gkk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:59"
+  }
+]

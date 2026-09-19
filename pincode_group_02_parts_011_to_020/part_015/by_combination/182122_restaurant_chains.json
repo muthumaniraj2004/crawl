@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TAJ PLAZA",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Sweet shop, Local government office, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "182122",
+    "phone_number": "+91 78893 88812",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 422,
+    "address": "National Highway 44 Udhampur, Chenani, Jammu and Kashmir 182142",
+    "area": "182122",
+    "latitude": 33.0361502,
+    "longitude": 75.2777478,
+    "place_id": "ChIJI0hB67DJHTkRQtwvVSQsqqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0hB67DJHTkRQtwvVSQsqqA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:43:22"
+  },
+  {
+    "business_name": "Rustic House",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Modern Indian restaurant",
+    "all_categories": "Modern Indian restaurant, Cafe, Chinese restaurant, Fast food restaurant, Italian restaurant, Thai restaurant",
+    "pincode": "182122",
+    "phone_number": "+91 97201 55555",
+    "website": "https://www.instagram.com/_rustic_house/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "77/2, Civil Lines, 77/2, IIT Road, above Karisma Boutique, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8733701,
+    "longitude": 77.8941996,
+    "place_id": "ChIJwVfF1WKzDjkRj82PYSoDsH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVfF1WKzDjkRj82PYSoDsH4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:43:23"
+  }
+]

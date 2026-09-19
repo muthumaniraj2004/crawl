@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Air Rooms",
+    "search_category": "Hotel",
+    "primary_category": "Furnished apartment building",
+    "all_categories": "Furnished apartment building, Home Stay, Student housing center",
+    "pincode": "181203",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/sunderbanirooms/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "ward no 8, kathanu near ITI & Back side of Krishna Petol Pump, Sunderbani, Jammu and Kashmir 185153",
+    "area": "181203",
+    "latitude": 33.0563541,
+    "longitude": 74.4901043,
+    "place_id": "ChIJM6uY9hdFHjkRfD5oyx8llhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6uY9hdFHjkRfD5oyx8llhw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:25:39"
+  },
+  {
+    "business_name": "Shivam Hotel And Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "181203",
+    "phone_number": "+91 99063 90851",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 122,
+    "address": "Rajouri Sunder Bani Jammu and Kashmir, Sunder Bani, Jammu and Kashmir 185153",
+    "area": "181203",
+    "latitude": 33.046870999999996,
+    "longitude": 74.489155,
+    "place_id": "ChIJUw5PKbZFHjkRGid82FlMQaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUw5PKbZFHjkRGid82FlMQaI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:25:39"
+  }
+]

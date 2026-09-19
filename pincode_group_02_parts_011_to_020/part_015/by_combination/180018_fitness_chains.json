@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anytime Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "180018",
+    "phone_number": "+91 79777 53478",
+    "website": "https://www.anytimefitness.com/en-in/locations/mumbai-maharashtra-in-1086",
+    "rating": 4.7,
+    "reviews_count": 621,
+    "address": "2nd Floor, Turquoise Bldg, August Kranti Rd, near Shalimar Hotel, Kemps Corner, Malabar Hill, Mumbai, Maharashtra 400026",
+    "area": "Kemps Corner, Malabar Hill",
+    "latitude": 18.964033,
+    "longitude": 72.8061985,
+    "place_id": "ChIJN8gCUm7P5zsRWeSedY8vinM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8gCUm7P5zsRWeSedY8vinM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:25"
+  },
+  {
+    "business_name": "THE FITNESS LANE",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Women's personal trainer",
+    "pincode": "180018",
+    "phone_number": "+91 97553 32283",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 219,
+    "address": "Nariman point, 660, Main Rd, opposite KIBS hospital, Sector R, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Sector R, Mahalaxmi Nagar",
+    "latitude": 22.7574144,
+    "longitude": 75.912273,
+    "place_id": "ChIJ4dEANUEdYzkRwpqFeWjNh8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dEANUEdYzkRwpqFeWjNh8g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:49:25"
+  }
+]

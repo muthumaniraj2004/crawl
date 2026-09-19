@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House Of Milkshakes",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Soft drinks shop",
+    "all_categories": "Soft drinks shop, Cafe",
+    "pincode": "181145",
+    "phone_number": "+91 99515 80485",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Pt-176, opp: Astalaxmi Temple, Vasavi Colony, Kothapet, Hyderabad, Telangana 500102",
+    "area": "Vasavi Colony, Kothapet",
+    "latitude": 17.3654369,
+    "longitude": 78.54753389999999,
+    "place_id": "ChIJGwlWhKeZyzsRuYtrfiukw20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwlWhKeZyzsRuYtrfiukw20",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:22"
+  },
+  {
+    "business_name": "Mithu Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181145",
+    "phone_number": "+91 98880 49002",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "G.T. Road,Near Old Bus Stand,, Khanna, Punjab 141401",
+    "area": "Anant Nagar",
+    "latitude": 30.704283,
+    "longitude": 76.22154379999999,
+    "place_id": "ChIJG0gRLisQEDkRYNLnvl_J8HM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0gRLisQEDkRYNLnvl_J8HM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "181124",
+    "phone_number": "+91 78888 74764",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No. 01, Grand Trunk Rd, opp. Khalsa Diwan School, near Canal Office, Model Town, Rani Ka Bagh, Mohindra Colony, Amritsar, Punjab 143001",
+    "area": "Model Town, Rani Ka Bagh, Mohindra Colony",
+    "latitude": 31.634522999999998,
+    "longitude": 74.862203,
+    "place_id": "ChIJKcbqaNllGTkRkaTVAJ3p900",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcbqaNllGTkRkaTVAJ3p900",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:06:06"
+  },
+  {
+    "business_name": "Munish Medical Agency",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "181124",
+    "phone_number": "+91 99887 20136",
+    "website": "https://munishmed.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiva Ji Nagar, Salaria Nagar, Pathankot, Punjab 145001",
+    "area": "Shiva Ji Nagar, Salaria Nagar",
+    "latitude": 32.2626422,
+    "longitude": 75.6523364,
+    "place_id": "ChIJw6dNrGV_HDkRPF3JyPtYDDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6dNrGV_HDkRPF3JyPtYDDE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:06:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muzffer Hussain Realestate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "180017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QV3P+8GF, Sidhra, Jammu and Kashmir 180019",
+    "area": "180017",
+    "latitude": 32.7533125,
+    "longitude": 74.8863065,
+    "place_id": "ChIJzbhGh_uDHjkRt_VHiUv18yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbhGh_uDHjkRt_VHiUv18yE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:48:30"
+  },
+  {
+    "business_name": "Room’s for Rent",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex, Short term apartment rental agency",
+    "pincode": "180017",
+    "phone_number": "+91 78895 43263",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Ramotra General Store, Rathian, Udhampur, Jammu and Kashmir 182101",
+    "area": "180017",
+    "latitude": 32.890951699999995,
+    "longitude": 75.1340104,
+    "place_id": "ChIJd7b0NWYtHDkRZl4grhTh2HQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7b0NWYtHDkRZl4grhTh2HQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:48:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Rice Mills",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "182126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "J28C+52P, Bodsarkalan, Uttar Pradesh 222129",
+    "area": "182126",
+    "latitude": 25.615462599999997,
+    "longitude": 83.0200643,
+    "place_id": "ChIJI6QbeMLRkTkRp6carhxHe2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6QbeMLRkTkRp6carhxHe2s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:50:23"
+  },
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "182126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Takhel, Manipur 795005",
+    "area": "182126",
+    "latitude": 24.820198299999998,
+    "longitude": 94.04956849999999,
+    "place_id": "ChIJ46lZagAhSTcRUNP7zJHoHAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46lZagAhSTcRUNP7zJHoHAs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:50:24"
+  }
+]

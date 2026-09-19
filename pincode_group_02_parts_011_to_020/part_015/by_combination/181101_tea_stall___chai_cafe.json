@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kala Veer Di Hatti",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Indian sweets shop, Restaurant",
+    "pincode": "181101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "JP4P+WF4, Main Road, Ranbir Singh Pura, 181102",
+    "area": "181101",
+    "latitude": 32.6072592,
+    "longitude": 74.736211,
+    "place_id": "ChIJH43GI6yRHjkRJ64AY4cMmq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH43GI6yRHjkRJ64AY4cMmq4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:31"
+  },
+  {
+    "business_name": "Mr Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Coffee shop",
+    "pincode": "181101",
+    "phone_number": "+91 91105 70666",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 45,
+    "address": "H No 4-56, Manchipaa road besaid ps twon Mopal, opp. Srinivas Election Shop, Mopal, Telangana 503230",
+    "area": "181101",
+    "latitude": 18.619387,
+    "longitude": 78.12214,
+    "place_id": "ChIJnZe8XWvPzTsRV6ofP8gfLiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZe8XWvPzTsRV6ofP8gfLiE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:32"
+  }
+]

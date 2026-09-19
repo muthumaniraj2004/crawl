@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Steel Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator, Store",
+    "pincode": "181123",
+    "phone_number": "+91 94697 00003",
+    "website": "https://singhsteelworks.in/",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Old Chinore Road, Bantalab Road, opp. Power House, Jammu, Jammu and Kashmir 181123",
+    "area": "Durga Nagar",
+    "latitude": 32.7769267,
+    "longitude": 74.8259394,
+    "place_id": "ChIJzZ7lo32HHjkRj2Bl3aB9c2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZ7lo32HHjkRj2Bl3aB9c2U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:22"
+  },
+  {
+    "business_name": "Vijay Steel Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Industrial consultant",
+    "all_categories": "Industrial consultant",
+    "pincode": "181123",
+    "phone_number": "+91 99063 72799",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Digiana, Sanjay Nagar, Jammu, Jammu and Kashmir 180010",
+    "area": "Digiana, Sanjay Nagar",
+    "latitude": 32.6880745,
+    "longitude": 74.8556069,
+    "place_id": "ChIJ74Y2t8ObHjkRj378Cnxh5Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74Y2t8ObHjkRj378Cnxh5Ck",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:05:25"
+  }
+]

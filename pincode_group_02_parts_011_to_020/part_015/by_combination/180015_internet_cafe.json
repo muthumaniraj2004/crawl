@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meet Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "180015",
+    "phone_number": "+91 90702 02626",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CHATHA MORH, Karan Bagh, Jammu, Jammu and Kashmir 181101",
+    "area": "Karan Bagh",
+    "latitude": 32.6691295,
+    "longitude": 74.83854149999999,
+    "place_id": "ChIJh4dGZdSbHjkRlnzzYz-S-WA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4dGZdSbHjkRlnzzYz-S-WA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:44:28"
+  },
+  {
+    "business_name": "Sachin Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "180015",
+    "phone_number": "+91 70060 60406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 2, Nai Basti Rd, near Ram Darbar Mandir, Shastri Nagar, Jammu, Jammu and Kashmir 180003",
+    "area": "Shastri Nagar",
+    "latitude": 32.6926329,
+    "longitude": 74.8524042,
+    "place_id": "ChIJW8KWReqFHjkRlMZWI6A_ULU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8KWReqFHjkRlMZWI6A_ULU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:44:29"
+  }
+]

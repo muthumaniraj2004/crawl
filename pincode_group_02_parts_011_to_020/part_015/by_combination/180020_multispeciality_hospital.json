@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Super Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Obstetrician-gynecologist, Health consultant, Neurologist, Neurosurgeon, Orthopedic clinic",
+    "pincode": "180020",
+    "phone_number": "+91 79997 02984",
+    "website": "https://bestsuperspecialityhospital.com/",
+    "rating": 4.6,
+    "reviews_count": 1105,
+    "address": "1352, Home Science College Rd, near Ashish Hospital, Napier Town, Jabalpur, Madhya Pradesh 482002",
+    "area": "Napier Town",
+    "latitude": 23.1601718,
+    "longitude": 79.9231365,
+    "place_id": "ChIJu7Y92wOugTkR5tMUnw-fWms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7Y92wOugTkR5tMUnw-fWms",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:58"
+  },
+  {
+    "business_name": "Choudhary Hospital - Best Health Care Centre in Jammu | Trauma And Emergency Care | Ultrasound | CT Scan Centre",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Ambulance service, Diagnostic center, Medical diagnostic imaging center, Specialized clinic, Specialized hospital",
+    "pincode": "180020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 36,
+    "address": "Jammu Akhnoor Hwy, Akhnoor, Galali, Jammu and Kashmir 181201",
+    "area": "180020",
+    "latitude": 32.9046805,
+    "longitude": 74.7452179,
+    "place_id": "ChIJneIh0gRjHjkRslmQiM0n7c0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneIh0gRjHjkRslmQiM0n7c0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:59"
+  }
+]

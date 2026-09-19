@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma tour and travels.",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "181132",
+    "phone_number": "+91 78897 59120",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "satwari taxi service, Satwari, Jeevan Nagar, Jammu, Jammu and Kashmir 180003",
+    "area": "Satwari, Jeevan Nagar",
+    "latitude": 32.685062699999996,
+    "longitude": 74.8457189,
+    "place_id": "ChIJuyQtFlKbHjkRoTIs77NR6vI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyQtFlKbHjkRoTIs77NR6vI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:10:14"
+  },
+  {
+    "business_name": "Bhatti Merchants",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "181132",
+    "phone_number": "+91 95968 77785",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No: GS-292/01, Shopping Complex, Sector G, Sainik Colony, Jammu, Jammu and Kashmir 180011",
+    "area": "Sector G, Sainik Colony",
+    "latitude": 32.674517099999996,
+    "longitude": 74.90410159999999,
+    "place_id": "ChIJJQm0EM2dHjkRKW29W3YI4MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQm0EM2dHjkRKW29W3YI4MU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:10:14"
+  }
+]

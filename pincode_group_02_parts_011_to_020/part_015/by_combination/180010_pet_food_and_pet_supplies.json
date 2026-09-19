@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "180010",
+    "phone_number": "+91 87168 12349",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kunjwani chowk, Jammu, Jammu and Kashmir 180010",
+    "area": "Kunjwani chowk",
+    "latitude": 32.6672685,
+    "longitude": 74.8751527,
+    "place_id": "ChIJGTgnNCedHjkRwDE52CP2DbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTgnNCedHjkRwDE52CP2DbI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:35:33"
+  },
+  {
+    "business_name": "Pet Care International",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Aquarium shop, Bird shop, Feed manufacturer, Pet groomer",
+    "pincode": "180010",
+    "phone_number": "+91 93506 57995",
+    "website": "http://www.petcareinternational.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ayyappa temple complex, Dullapally cross road, Village, Dulapally, Hyderabad, Telangana 500100",
+    "area": "Village, Dulapally",
+    "latitude": 17.5415496,
+    "longitude": 78.4638423,
+    "place_id": "ChIJM6UMwUyPyzsRVzeNgt1FxYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6UMwUyPyzsRVzeNgt1FxYM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:35:33"
+  }
+]

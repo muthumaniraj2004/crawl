@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rometra Medical Agency",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Veterinarian",
+    "pincode": "180003",
+    "phone_number": "+91 95966 09310",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 54,
+    "address": "RS Pura Rd, near Shiv Temple, Satwari, Jeevan Nagar, Jammu, Jammu and Kashmir 180003",
+    "area": "Satwari, Jeevan Nagar",
+    "latitude": 32.6915528,
+    "longitude": 74.84837619999999,
+    "place_id": "ChIJqRLY5MqEHjkRB5_UOd5Fjvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRLY5MqEHjkRB5_UOd5Fjvo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:24:36"
+  },
+  {
+    "business_name": "CC Diagnostic Health Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Medical diagnostic imaging center, Paternity testing service, Pathologist, STD testing service",
+    "pincode": "180003",
+    "phone_number": "+91 1800 309 7777",
+    "website": "https://ampath.com/?utm_source=GMP",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baba Jivan Shah Gali, Talab Khatika, near Tiny Tots School, Jammu, Jammu and Kashmir 150001",
+    "area": "Sainik Colony",
+    "latitude": 32.6780768,
+    "longitude": 74.9122065,
+    "place_id": "ChIJz9PXHkKdHjkRf-LxvkXC8E0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9PXHkKdHjkRf-LxvkXC8E0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:24:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.M.D Automobile Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "181143",
+    "phone_number": "+91 95966 68368",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Badwal, Gurah Slathia, Vijaypur, Jammu and Kashmir 181143",
+    "area": "181143",
+    "latitude": 32.596890699999996,
+    "longitude": 75.0317833,
+    "place_id": "ChIJrRoRcrwhHDkR64pGw_EnKCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRoRcrwhHDkR64pGw_EnKCQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:53"
+  },
+  {
+    "business_name": "Vishwakarma Automobiles Car Workshop",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "181143",
+    "phone_number": "+91 97978 31004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Village Barian, Chhajwal, Rakh Derui, Jammu and Kashmir 184120",
+    "area": "181143",
+    "latitude": 32.554642799999996,
+    "longitude": 75.0564923,
+    "place_id": "ChIJbWoqaQghHDkRVQFpyXOXLDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWoqaQghHDkRVQFpyXOXLDI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:55"
+  }
+]

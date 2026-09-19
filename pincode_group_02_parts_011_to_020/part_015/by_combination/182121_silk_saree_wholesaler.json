@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mughal Silk Bazaar",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store",
+    "pincode": "182121",
+    "phone_number": "+91 2437 241 133",
+    "website": "https://www.mughalsilkbazaar.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gut-22, Sulibhanajan, Tq.Khuldabad, Khultabad, Maharashtra 431101",
+    "area": "Rajiv Gandhi Nagar",
+    "latitude": 19.994582599999998,
+    "longitude": 75.19344629999999,
+    "place_id": "ChIJ0T1GCTuS2zsRyY4HeUCNs0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0T1GCTuS2zsRyY4HeUCNs0Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:31"
+  },
+  {
+    "business_name": "Jagdambay Shawls Emporium",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "182121",
+    "phone_number": "+91 94191 64937",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market Chintamani, Katra, Jammu and Kashmir 182301",
+    "area": "182121",
+    "latitude": 32.994436,
+    "longitude": 74.9374277,
+    "place_id": "ChIJI1EpHqN5HjkR8wiAIJmUYWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1EpHqN5HjkR8wiAIJmUYWc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:32"
+  }
+]

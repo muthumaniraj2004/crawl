@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "St.Joseph's Health Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "181201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 9,
+    "address": "VPVJ+X8H, Jourian-Akhnoor Road, Akhnoor, Jammu and Kashmir 181201",
+    "area": "181201",
+    "latitude": 32.894936,
+    "longitude": 74.7308547,
+    "place_id": "ChIJT_HzKVViHjkR81H4Zojk4Hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_HzKVViHjkR81H4Zojk4Hs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:21:53"
+  },
+  {
+    "business_name": "Health and wellness Center Aijal malal",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "181201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VG2R+8M, Dahok Khalsa, Jammu and Kashmir 181202",
+    "area": "181201",
+    "latitude": 32.850909,
+    "longitude": 74.54168539999999,
+    "place_id": "ChIJh7OC4V1fHjkRVQOWwoNrT2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7OC4V1fHjkRVQOWwoNrT2o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:21:56"
+  }
+]

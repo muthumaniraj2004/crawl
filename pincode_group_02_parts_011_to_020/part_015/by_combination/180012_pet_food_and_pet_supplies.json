@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Pet Products",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "180012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 110,
+    "address": "MVWJ+44R, Ext Marble Enclave, Near Garden Estate, Sector 4, Jammu, Jammu and Kashmir 180012",
+    "area": "Sector 4, Trikuta Nagar",
+    "latitude": 32.695362599999996,
+    "longitude": 74.8802805,
+    "place_id": "ChIJQbU-nlODHjkRj76QngQxoHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbU-nlODHjkRj76QngQxoHs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:24"
+  },
+  {
+    "business_name": "Friendly Pet Needs Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Animal feed store, Pet store, Wholesaler",
+    "pincode": "180012",
+    "phone_number": "+91 89776 70208",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Community Hall, 17-1-375/A/7/1, opposite GHMC, Khalander Nagar, Owaisi Nagar, Hasnabad, Santosh Nagar, Hyderabad, Telangana 500059",
+    "area": "Khalander Nagar, Owaisi Nagar, Hasnabad, Santosh Nagar",
+    "latitude": 17.3452092,
+    "longitude": 78.50529399999999,
+    "place_id": "ChIJNUzfodmZyzsR9UG2f2c7bhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUzfodmZyzsR9UG2f2c7bhk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:25"
+  }
+]

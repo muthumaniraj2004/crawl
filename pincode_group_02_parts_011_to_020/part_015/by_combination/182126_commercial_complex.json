@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ms Pawan Kumar",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "182126",
+    "phone_number": "+91 70065 54996",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JMC Frem Agency Industry Area Ballian Road, Rathian, Udhampur, Jammu and Kashmir 182101",
+    "area": "182126",
+    "latitude": 32.8895341,
+    "longitude": 75.1267403,
+    "place_id": "ChIJszqSYoYtHDkRuQ9KgDxRXmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszqSYoYtHDkRuQ9KgDxRXmE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:50:33"
+  },
+  {
+    "business_name": "SHARMA BUILDING MATERIAL",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "182126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "ballian chowk, NH-44 UDHAMPUR Jammu and Kashmir, 182101",
+    "area": "182126",
+    "latitude": 32.8769346,
+    "longitude": 75.1191947,
+    "place_id": "ChIJj0cLzoYtHDkRZ44g_Oa_QkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0cLzoYtHDkRZ44g_Oa_QkM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:50:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Factory",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "180019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "QW68+M49, Sidhra, Jammu and Kashmir 180019",
+    "area": "180019",
+    "latitude": 32.7616598,
+    "longitude": 74.91535139999999,
+    "place_id": "ChIJfzKHrmKDHjkRgCavs61G5MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzKHrmKDHjkRgCavs61G5MU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:49"
+  },
+  {
+    "business_name": "Jai Hind Bakery - New Plot",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "180019",
+    "phone_number": "+91 78899 58090",
+    "website": "https://jaihind-bakery.in/our-stores/",
+    "rating": 4.3,
+    "reviews_count": 33,
+    "address": "Main Road, New Plot, Lower Laxmi Nagar, Jammu, Jammu and Kashmir 180005",
+    "area": "New Plot, Lower Laxmi Nagar",
+    "latitude": 32.749408599999995,
+    "longitude": 74.85774049999999,
+    "place_id": "ChIJPTDtWgCFHjkRM61S_IUbl_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTDtWgCFHjkRM61S_IUbl_k",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:49"
+  }
+]

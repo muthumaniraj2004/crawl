@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MD's Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181123",
+    "phone_number": "+91 75183 05655",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suryavanshi Nagar lower, 139, Lane Number 1, Roop Nagar, Jammu, Jammu and Kashmir 180013",
+    "area": "Roop Nagar",
+    "latitude": 32.7654387,
+    "longitude": 74.8254001,
+    "place_id": "ChIJf5WnHeeFHjkRYLgUufheiWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5WnHeeFHjkRYLgUufheiWM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:03:59"
+  },
+  {
+    "business_name": "Masala Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "181123",
+    "phone_number": "+91 78897 81683",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Masala Kitchen, Cloud Kitchen, Barnai, Rajinder Nagar, Lower Barnai, Jammu, Jammu and Kashmir 181205",
+    "area": "Barnai, Rajinder Nagar, Lower Barnai",
+    "latitude": 32.7690625,
+    "longitude": 74.8111875,
+    "place_id": "ChIJgRWZzT6FHjkR-t4T5zjBCOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRWZzT6FHjkR-t4T5zjBCOE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khanna Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Gold dealer, Goldsmith, Jeweler, Jewelry designer, Jewelry manufacturer, Silversmith",
+    "pincode": "180016",
+    "phone_number": "+91 98888 24869",
+    "website": "https://khannajewellers.org/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bazar, near Post Office Chowk, Sarain Mohalla, Pathankot, Punjab 145001",
+    "area": "Sarain Mohalla",
+    "latitude": 32.275298899999996,
+    "longitude": 75.6539124,
+    "place_id": "ChIJl0hyjM1_HDkR_nlWL5xzN9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0hyjM1_HDkR_nlWL5xzN9k",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:18"
+  },
+  {
+    "business_name": "M S Kailash Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "180016",
+    "phone_number": "+91 94192 44340",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "54, Main Bazzar, Bishnah, Jammu, Jammu and Kashmir 181132",
+    "area": "180016",
+    "latitude": 32.6119164,
+    "longitude": 74.8548909,
+    "place_id": "ChIJyxRwPYibHjkRFat3AJSdBBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxRwPYibHjkRFat3AJSdBBo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:18"
+  }
+]

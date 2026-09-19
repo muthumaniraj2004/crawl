@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A S Ornaments",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "181123",
+    "phone_number": "+91 95417 73570",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Poonch Colony, Bantalab Road, near Inspire Library, Patoli, Jammu, Jammu and Kashmir 181123",
+    "area": "Patoli",
+    "latitude": 32.7818399,
+    "longitude": 74.8150351,
+    "place_id": "ChIJKUtN4aSHHjkRwZsQgEOWTjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUtN4aSHHjkRwZsQgEOWTjg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:05"
+  },
+  {
+    "business_name": "Shree Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "181123",
+    "phone_number": "+91 78899 53784",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bantalab Road, Barnai, Bantalab, Patoli, Jammu, Jammu and Kashmir 181123",
+    "area": "Barnai, Bantalab, Patoli",
+    "latitude": 32.7777253,
+    "longitude": 74.81994809999999,
+    "place_id": "ChIJmUqtQjiHHjkR9JnONToZo7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUqtQjiHHjkR9JnONToZo7I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:05"
+  }
+]

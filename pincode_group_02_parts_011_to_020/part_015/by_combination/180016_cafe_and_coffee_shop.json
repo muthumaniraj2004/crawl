@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Yakjaah",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "180016",
+    "phone_number": "+91 88998 09227",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 476,
+    "address": "C5PW+3PX Cafe Yakjaah And Restaurant, NH 44, Banihal, Jammu and Kashmir 182146",
+    "area": "180016",
+    "latitude": 33.4352648,
+    "longitude": 75.1969331,
+    "place_id": "ChIJowntP1vvHTkROa3Iup8yPjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowntP1vvHTkROa3Iup8yPjU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:11"
+  },
+  {
+    "business_name": "Coffee Day Connect",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "180016",
+    "phone_number": "+91 80 4001 2345",
+    "website": "http://web.coffeeday.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RV4W+6G2, NH 44, Jammu, Ban, 180013",
+    "area": "180016",
+    "latitude": 32.80551,
+    "longitude": 74.8962615,
+    "place_id": "ChIJNWCK6F2BHjkRGOb5GhPEkB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWCK6F2BHjkRGOb5GhPEkB4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:13"
+  }
+]

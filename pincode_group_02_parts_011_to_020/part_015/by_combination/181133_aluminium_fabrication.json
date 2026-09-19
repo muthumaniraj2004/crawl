@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Fabricators",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "181133",
+    "phone_number": "+91 94198 32704",
+    "website": "https://sites.google.com/view/s-k-fabricators",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Meen Sarkar, Jammu, Jammu and Kashmir 181133",
+    "area": "Meen Sarkar",
+    "latitude": 32.6237512,
+    "longitude": 74.93078059999999,
+    "place_id": "ChIJVz_z_RGdHjkR0g8pldftw8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVz_z_RGdHjkR0g8pldftw8E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:03"
+  },
+  {
+    "business_name": "KARAN FABRICATORS",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "181133",
+    "phone_number": "+91 97976 60029",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "LANE NO 4, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.6393783,
+    "longitude": 74.9370469,
+    "place_id": "ChIJRYN5TdedHjkRUyltis6l2SU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYN5TdedHjkRUyltis6l2SU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:06"
+  }
+]

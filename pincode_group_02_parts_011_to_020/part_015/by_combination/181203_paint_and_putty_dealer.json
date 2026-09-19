@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratik Enterprises",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "181203",
+    "phone_number": "+91 98440 88876",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Dcc Bank opposiste, Bidar road, Bhalki, Karnataka 585328",
+    "area": "181203",
+    "latitude": 18.0509391,
+    "longitude": 77.2244018,
+    "place_id": "ChIJsy6pYXLhzjsRzXQDnZKyeOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsy6pYXLhzjsRzXQDnZKyeOw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:25:21"
+  },
+  {
+    "business_name": "दुर्वा पेंट्स",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "181203",
+    "phone_number": "+91 98608 84042",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sina madha, Pimpalner, Maharashtra 413210",
+    "area": "181203",
+    "latitude": 18.054381499999998,
+    "longitude": 75.2969847,
+    "place_id": "ChIJMyexLohnxDsRgmrV9fStbtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyexLohnxDsRgmrV9fStbtM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:25:21"
+  }
+]

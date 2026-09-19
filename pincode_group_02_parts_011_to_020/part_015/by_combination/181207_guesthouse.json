@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CENTRE TOP HILL GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "181207",
+    "phone_number": "+91 78894 88066",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 35,
+    "address": "PJ42+8CF, Machhedi tehsil lohai malhar, distt, Billawar, Jammu and Kashmir 184204",
+    "area": "181207",
+    "latitude": 32.7058052,
+    "longitude": 75.6010502,
+    "place_id": "ChIJzcNkkPtbHDkRIwnnQeqZVZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcNkkPtbHDkRIwnnQeqZVZM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:33:05"
+  },
+  {
+    "business_name": "Krishna Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "181207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "8Q76+9VH, Hidyal, Kishtwar, 182204",
+    "area": "181207",
+    "latitude": 33.313434199999996,
+    "longitude": 75.7622224,
+    "place_id": "ChIJk6GYI10LHTkRtFfRbL013X0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6GYI10LHTkRtFfRbL013X0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:33:06"
+  }
+]

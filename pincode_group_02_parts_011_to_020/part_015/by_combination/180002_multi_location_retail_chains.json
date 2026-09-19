@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shirish enterprises",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "180002",
+    "phone_number": "+91 94199 33333",
+    "website": "https://www.shirishenterprises.co/",
+    "rating": 5,
+    "reviews_count": 52,
+    "address": "Airport road, Satwari, Jeevan Nagar, Jammu, Jammu and Kashmir 180003",
+    "area": "Satwari, Jeevan Nagar",
+    "latitude": 32.690092,
+    "longitude": 74.84767719999999,
+    "place_id": "ChIJH1kx-UmbHjkR6ZVdeicldXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1kx-UmbHjkR6ZVdeicldXM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:23:58"
+  },
+  {
+    "business_name": "JM SHOPEE",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "180002",
+    "phone_number": "+91 96826 14354",
+    "website": "https://jmshopee.lovable.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gulab Colony, Bathindi, Jammu, Jammu and Kashmir 181152",
+    "area": "Gulab Colony, Bathindi",
+    "latitude": 32.7080518,
+    "longitude": 74.91121969999999,
+    "place_id": "ChIJ36uXQgCDHjkRH_8DEBpVzRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36uXQgCDHjkRH_8DEBpVzRQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:23:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Refix System",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronic engineering service",
+    "all_categories": "Electronic engineering service",
+    "pincode": "180004",
+    "phone_number": "+91 91494 30781",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 66,
+    "address": "PV26+M5M, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.7017576,
+    "longitude": 74.860519,
+    "place_id": "ChIJbVEHDQCFHjkRXMjG80giJ_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVEHDQCFHjkRXMjG80giJ_c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:27:22"
+  },
+  {
+    "business_name": "Digital Sewa",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "180004",
+    "phone_number": "+91 94193 16441",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "33-A, Extn. Small Plots, Gandhi Nagar, Jammu., Jammu, Jammu and Kashmir 180004",
+    "area": "Shastri Nagar",
+    "latitude": 32.694495499999995,
+    "longitude": 74.8590699,
+    "place_id": "ChIJNzvypLqEHjkRnPcBK_UrI70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzvypLqEHjkRnPcBK_UrI70",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:27:22"
+  }
+]

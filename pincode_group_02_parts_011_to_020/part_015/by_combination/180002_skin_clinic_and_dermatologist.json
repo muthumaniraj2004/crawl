@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Supreet Singh",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "180002",
+    "phone_number": "+91 88991 46296",
+    "website": "http://drsupreetsingh.com/",
+    "rating": 4.9,
+    "reviews_count": 70,
+    "address": "Aesthetic & Hair Transplant Center, 395-E, AnuSukh Dermacare, near JK Bank, Sainik Colony, Jammu, Jammu and Kashmir 180011",
+    "area": "Sainik Colony",
+    "latitude": 32.6737968,
+    "longitude": 74.9041751,
+    "place_id": "ChIJ-WNxqtOdHjkRR6iI2FduGRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WNxqtOdHjkRR6iI2FduGRo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:22:33"
+  },
+  {
+    "business_name": "Dr Virender Gupta",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "180002",
+    "phone_number": "+91 60055 05100",
+    "website": "http://virendergupta.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "House no 4 New Mohinder nagar, near Circuit house, Canal Road, Jammu, Jammu and Kashmir 180016",
+    "area": "Canal Road",
+    "latitude": 32.7262258,
+    "longitude": 74.8441752,
+    "place_id": "ChIJAQAAwPqEHjkRK44rQsSiq5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwPqEHjkRK44rQsSiq5c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:22:34"
+  }
+]

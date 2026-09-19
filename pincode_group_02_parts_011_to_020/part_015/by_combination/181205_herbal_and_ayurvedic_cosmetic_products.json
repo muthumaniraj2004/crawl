@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AYURVEDIC STORE",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "181205",
+    "phone_number": "+91 98486 02720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6-4-75/4, I B Colony, Godavarikhani, Ramagundam, Telangana 505209",
+    "area": "I B Colony, Godavarikhani",
+    "latitude": 18.7631382,
+    "longitude": 79.50842209999999,
+    "place_id": "ChIJzz4kWgPPMjoRIr2sy58Jf60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzz4kWgPPMjoRIr2sy58Jf60",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:29:12"
+  },
+  {
+    "business_name": "Saathvik Ayur Pharma",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "181205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Unnamed Road, Shivshankar Nagar, Kuntloor, Hyderabad, Telangana 501505",
+    "area": "Shivshankar Nagar",
+    "latitude": 17.349136899999998,
+    "longitude": 78.629221,
+    "place_id": "ChIJKZpgBIifyzsRbo-lMG7dPFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZpgBIifyzsRbo-lMG7dPFQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:29:13"
+  }
+]

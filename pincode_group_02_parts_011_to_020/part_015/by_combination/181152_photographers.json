@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "181152",
+    "phone_number": "+91 90862 00900",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Narwal Bala, near Wave Mall, Malik Market, Guru Tegh Bahadur Nagar, Channi Himat, Jammu, Jammu and Kashmir 181152",
+    "area": "Malik Market, Guru Tegh Bahadur Nagar, Channi Himat",
+    "latitude": 32.7078965,
+    "longitude": 74.8942458,
+    "place_id": "ChIJ4WanTRODHjkRUgFpuhzThUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WanTRODHjkRUgFpuhzThUQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:20:05"
+  },
+  {
+    "business_name": "Sharaz Sikander Films",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "181152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Channi Rama, Guru Tegh Bahadur Nagar, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Guru Tegh Bahadur Nagar, Channi Himat",
+    "latitude": 32.6974065,
+    "longitude": 74.89142369999999,
+    "place_id": "ChIJS0YKEgCDHjkRvgBmjF0a5qc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0YKEgCDHjkRvgBmjF0a5qc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:20:05"
+  }
+]

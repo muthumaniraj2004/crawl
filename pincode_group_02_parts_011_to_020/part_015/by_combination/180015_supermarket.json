@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Easy Day",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "180015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 329,
+    "address": "channi himat petrol pump road, opposite Tunday kakab, Jammu, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.692392,
+    "longitude": 74.8945703,
+    "place_id": "ChIJV4xA5LGcHjkRnteUirNvRGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4xA5LGcHjkRnteUirNvRGI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:04"
+  },
+  {
+    "business_name": "Meenakshi mart",
+    "search_category": "Supermarket",
+    "primary_category": "Discount supermarket",
+    "all_categories": "Discount supermarket",
+    "pincode": "180015",
+    "phone_number": "+91 78898 71192",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "4&5 site no, Shop no, 3, sector 3, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "sector 3, Channi Himat",
+    "latitude": 32.6825787,
+    "longitude": 74.8854029,
+    "place_id": "ChIJ0e4lCpudHjkRzEliPCOsT50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0e4lCpudHjkRzEliPCOsT50",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:04"
+  }
+]

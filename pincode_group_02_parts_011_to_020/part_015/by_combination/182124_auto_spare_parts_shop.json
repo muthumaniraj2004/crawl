@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/S LUXMI ENTERPRISES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Auto parts store",
+    "pincode": "182124",
+    "phone_number": "+91 98720 22159",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M/S LUXMI ENTERPRISES, opp. ARTO Office, Bharat Nagar A, Bharat Nagar, Udhampur, Jammu and Kashmir 182101",
+    "area": "Bharat Nagar A, Bharat Nagar",
+    "latitude": 32.9315547,
+    "longitude": 75.1513331,
+    "place_id": "ChIJg0V1aVPTHTkRhQctzgA99QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0V1aVPTHTkRhQctzgA99QU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:45:36"
+  },
+  {
+    "business_name": "JNV SHIVALIK SR. HOUSE",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "182124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "V5G9+7GM, JAWAHAR NAVODAYA VIDYALAYA, Udhampur, 182124",
+    "area": "182124",
+    "latitude": 32.8757051,
+    "longitude": 75.1687936,
+    "place_id": "ChIJH8oNDkkzHDkRRbZcmkd1rvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8oNDkkzHDkRRbZcmkd1rvo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:45:37"
+  }
+]

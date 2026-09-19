@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Fish Market Stall",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Food products supplier, Seafood wholesaler",
+    "pincode": "180005",
+    "phone_number": "+91 91778 85500",
+    "website": "https://chat.whatsapp.com/CsFlo6zdkebCbkk8hSG3f4",
+    "rating": 5,
+    "reviews_count": 182,
+    "address": "Fish Market, 1-6-422,Z, Musheerabad, Ramnagar, Hyderabad, Telangana 500020",
+    "area": "Musheerabad, Ramnagar",
+    "latitude": 17.4154057,
+    "longitude": 78.5041871,
+    "place_id": "ChIJKUdNcSWZyzsRNM5xNV39nFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUdNcSWZyzsRNM5xNV39nFQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:27:59"
+  },
+  {
+    "business_name": "New Kaka Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "180005",
+    "phone_number": "+91 97962 17258",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near HP Petrol Pump, Gummat, Prem Nagar, Old Heritage City, Jammu, Jammu and Kashmir 180007",
+    "area": "Gummat, Prem Nagar, Old Heritage City",
+    "latitude": 32.7261344,
+    "longitude": 74.8593374,
+    "place_id": "ChIJ8fxS8R-FHjkRbl1nzipr5TU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fxS8R-FHjkRbl1nzipr5TU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:28:00"
+  }
+]

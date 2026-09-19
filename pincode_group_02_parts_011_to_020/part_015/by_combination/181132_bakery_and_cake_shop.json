@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dayal House",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "181132",
+    "phone_number": "+91 70427 32433",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 87,
+    "address": "4, Bishnah Rd, Bari Brahmana, Bishnah, Rakh Rajpur, Jammu and Kashmir 181132",
+    "area": "Bari Brahmana",
+    "latitude": 32.6131502,
+    "longitude": 74.8576185,
+    "place_id": "ChIJy1M3GgCbHjkReTajPej3tgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1M3GgCbHjkReTajPej3tgE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:35"
+  },
+  {
+    "business_name": "New Om Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "181132",
+    "phone_number": "+91 97973 97798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bishnah, Jammu and Kashmir 181132",
+    "area": "181132",
+    "latitude": 32.6108293,
+    "longitude": 74.85336219999999,
+    "place_id": "ChIJl-3fm0ubHjkRVGXgLUTBnuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-3fm0ubHjkRVGXgLUTBnuo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:35"
+  }
+]

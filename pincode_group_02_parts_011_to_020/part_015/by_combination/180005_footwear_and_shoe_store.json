@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SSS Shoes Corner",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "180005",
+    "phone_number": "+91 91494 66944",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Government Girls Hr Secondary School, Rehari Colony, Jammu, Jammu and Kashmir 180005",
+    "area": "Rehari Colony",
+    "latitude": 32.7447558,
+    "longitude": 74.851516,
+    "place_id": "ChIJozRyDWeFHjkRRSDFxj0DU4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozRyDWeFHjkRRSDFxj0DU4A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:28:14"
+  },
+  {
+    "business_name": "Trends Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "180005",
+    "phone_number": "+91 96341 74492",
+    "website": "https://stores.trends-footwear.com/trends-footwear-rrl-footprint-garh-road-meerut-shoe-shop-panchsheel-meerut-477459/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.9,
+    "reviews_count": 1412,
+    "address": "Ground Floor, Pinnacle Tower, Garh Rd, Vaishali Colony, Panchsheel Colony, Meerut, Uttar Pradesh 250001",
+    "area": "Vaishali Colony, Panchsheel Colony",
+    "latitude": 28.968762299999998,
+    "longitude": 77.7266155,
+    "place_id": "ChIJjVWlDNBlDDkR3_GsNyqzSi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVWlDNBlDDkR3_GsNyqzSi8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:28:16"
+  }
+]

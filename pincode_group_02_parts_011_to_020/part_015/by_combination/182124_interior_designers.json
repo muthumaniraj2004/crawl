@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Designer",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "182124",
+    "phone_number": "+91 90863 04657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Salian talab, opposite gupta furniture house, Rathore Nagar, Udhampur, Jammu and Kashmir 182101",
+    "area": "Rathore Nagar",
+    "latitude": 32.9009752,
+    "longitude": 75.1401806,
+    "place_id": "ChIJmZD_X-LTHTkR-R-OUubWVB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZD_X-LTHTkR-R-OUubWVB8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:45:53"
+  },
+  {
+    "business_name": "Kapoor Designers",
+    "search_category": "Interior Designers",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "182124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Chabutra Bazaar, opposite DFO Office, Lambi Gali, Udhampur, Jammu and Kashmir 182101",
+    "area": "Lambi Gali",
+    "latitude": 32.919407899999996,
+    "longitude": 75.1275436,
+    "place_id": "ChIJN6wnpNnTHTkR5GKi4L3qIWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6wnpNnTHTkR5GKi4L3qIWU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:45:53"
+  }
+]

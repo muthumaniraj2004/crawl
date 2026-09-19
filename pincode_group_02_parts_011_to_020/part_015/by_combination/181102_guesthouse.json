@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baspur Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "181102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JM7W+WP6, Rangpur Maulania, Jammu and Kashmir 181102",
+    "area": "181102",
+    "latitude": 32.614275899999996,
+    "longitude": 74.6969482,
+    "place_id": "ChIJoRt5fzaRHjkRwZDoKus4Olo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRt5fzaRHjkRwZDoKus4Olo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:57:23"
+  },
+  {
+    "business_name": "Wonderland Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "181102",
+    "phone_number": "N/A",
+    "website": "https://www.agoda.com/en-in/wonderland-guesthouse/hotel/patnitop-in.html?checkin=2025-07-07&checkout=2025-07-08&los=1&rooms=1&adults=2&children=0&cid=1917615&searchrequestid=3babfbe2-2daa-4e02-972f-779da6717ffb&gclid=Cj0KCQjwmqPDBhCAARIsADorxIa61QGp5NRGpqnWwi5QQmayYRpzAwY0r0nqAAXUrLHDCYJFVpOLVKsaAsLjEALw_wcB&ds=Ye4dLNYVBXXi6dY4",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Near Nag Temple Karlah, Patnitop, Jammu and Kashmir 182142",
+    "area": "181102",
+    "latitude": 33.0704936,
+    "longitude": 75.3380102,
+    "place_id": "ChIJt30LG0nJHTkRSjx8j33zqMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt30LG0nJHTkRSjx8j33zqMc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:57:23"
+  }
+]

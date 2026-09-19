@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpha Pacific Systems",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service",
+    "pincode": "181143",
+    "phone_number": "+91 94191 06049",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near, NH44 AIIMS, Vijaypur, Bari Kamlia, Jammu and Kashmir 184120",
+    "area": "181143",
+    "latitude": 32.5628951,
+    "longitude": 75.0304654,
+    "place_id": "ChIJsxre_DwhHDkRxdiUBTvzbR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxre_DwhHDkRxdiUBTvzbR0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:51"
+  },
+  {
+    "business_name": "S.K. TYRE WORKS",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "181143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Bari Kamlia 184120",
+    "area": "181143",
+    "latitude": 32.5647914,
+    "longitude": 75.027655,
+    "place_id": "ChIJCxtYXrohHDkRrqVhqyErXMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxtYXrohHDkRrqVhqyErXMA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:15:52"
+  }
+]

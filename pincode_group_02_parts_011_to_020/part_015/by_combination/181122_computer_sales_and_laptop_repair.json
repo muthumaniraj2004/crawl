@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Solution Rajbagh",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer software store",
+    "all_categories": "Computer software store, Cell phone accessory store, Computer store, Pen store",
+    "pincode": "181122",
+    "phone_number": "+91 96971 93168",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rajbagh ( UJH Kathua Jammu And Kashmir, 184143",
+    "area": "Flout",
+    "latitude": 32.4392935,
+    "longitude": 75.4030075,
+    "place_id": "ChIJF1hwD7FtHDkRFPXF7EZdV60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1hwD7FtHDkRFPXF7EZdV60",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:03:13"
+  },
+  {
+    "business_name": "BAKSHI COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "181122",
+    "phone_number": "+91 81303 49052",
+    "website": "https://www.bakshicomputers.com/",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "House No 55, Akhnoor Palace, near Nagwani School, Akhnoor, Ambaran, Jammu and Kashmir 181201",
+    "area": "181122",
+    "latitude": 32.9012737,
+    "longitude": 74.739967,
+    "place_id": "ChIJ-81X5uBjHjkRfTxmdld_SCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-81X5uBjHjkRfTxmdld_SCc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:03:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D+R Appliance Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "180004",
+    "phone_number": "N/A",
+    "website": "http://www.dr-appliance.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D+R Appliance Services, 180004, India",
+    "area": "180004",
+    "latitude": 43.901343999999995,
+    "longitude": -79.29863209999999,
+    "place_id": "ChIJQ5bRvyuj5KMRlIH4ej_S_G4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5bRvyuj5KMRlIH4ej_S_G4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:52"
+  },
+  {
+    "business_name": "Prashast Electronics",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "180004",
+    "phone_number": "+91 94191 40942",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Shop No 6, JDA Shopping Complex, opp. Sector-7, Trikuta Nagar, Jammu, Jammu and Kashmir 180020",
+    "area": "Trikuta Nagar",
+    "latitude": 32.6990814,
+    "longitude": 74.8804371,
+    "place_id": "ChIJ3cP7H7GEHjkRtJz8BonDQXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3cP7H7GEHjkRtJz8BonDQXI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:54"
+  }
+]

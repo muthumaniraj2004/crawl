@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "180012",
+    "phone_number": "+91 78898 60325",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "12, Bathindi, Jammu, Jammu and Kashmir 181152",
+    "area": "Bathindi",
+    "latitude": 32.7122664,
+    "longitude": 74.9024093,
+    "place_id": "ChIJ6-VwzW2DHjkRx6HInFGq4Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-VwzW2DHjkRx6HInFGq4Os",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:40:39"
+  },
+  {
+    "business_name": "Cyber Technology",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Computer repair service",
+    "pincode": "180012",
+    "phone_number": "+91 97960 24539",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Mahant Manjeet Singh Nagar Nowabad, Sunjwan Rd, Zubairabad, Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Zubairabad, Bathindi",
+    "latitude": 32.7080178,
+    "longitude": 74.9037955,
+    "place_id": "ChIJC_YsGzqDHjkR74xlPMJwlOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_YsGzqDHjkR74xlPMJwlOs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:40:42"
+  }
+]

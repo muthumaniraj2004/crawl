@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Your Mechanic Online",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body parts supplier, Auto painting, Auto wrecker, Car repair and maintenance service, Car wash, Diesel engine repair service, Oil change service, Vehicle inspection service",
+    "pincode": "180019",
+    "phone_number": "+91 75587 83868",
+    "website": "https://yourmechaniconline.com/",
+    "rating": 4.8,
+    "reviews_count": 311,
+    "address": "JP5F+62P, Phase 1, Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Maharashtra 411057",
+    "area": "Phase 1, Rajiv Gandhi Infotech Park",
+    "latitude": 18.6079699,
+    "longitude": 73.723606,
+    "place_id": "ChIJ1X7rK5y7wjsRzLwRob-jb3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X7rK5y7wjsRzLwRob-jb3U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:51:26"
+  },
+  {
+    "business_name": "Imran Work Shop",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto bodywork mechanic, Auto painting",
+    "pincode": "180019",
+    "phone_number": "+91 99123 54499",
+    "website": "https://imranworkshop.dialdino.site/",
+    "rating": 4.3,
+    "reviews_count": 30,
+    "address": "MARUTI nagar, SVS trankvilla, Masjid Banda, Sri Maruthi Nagar Colony, Serilingampalle (M), Hyderabad, Telangana 500084",
+    "area": "Masjid Banda, Sri Maruthi Nagar Colony",
+    "latitude": 17.4706039,
+    "longitude": 78.33904319999999,
+    "place_id": "ChIJc48USt2TyzsRDmD8bL0p_Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc48USt2TyzsRDmD8bL0p_Q8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:51:26"
+  }
+]

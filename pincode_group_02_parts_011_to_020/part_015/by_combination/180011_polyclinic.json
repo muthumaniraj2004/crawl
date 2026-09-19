@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Polyclinic & Optical House",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "180011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PW62+W93, Bathindi Rd, Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Bathindi",
+    "latitude": 32.7122544,
+    "longitude": 74.90091199999999,
+    "place_id": "ChIJg4stLDmDHjkRHv7x7vQziMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4stLDmDHjkRHv7x7vQziMk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:37:54"
+  },
+  {
+    "business_name": "Mahavir medicate",
+    "search_category": "Polyclinic",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "180011",
+    "phone_number": "+91 99060 03581",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "JV75+288, 11/03, By Pass, Bishnah, Jammu and Kashmir 181132",
+    "area": "180011",
+    "latitude": 32.612997799999995,
+    "longitude": 74.8582047,
+    "place_id": "ChIJ4ZJlTcqbHjkRPmsRcPLdn9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZJlTcqbHjkRPmsRcPLdn9g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:37:56"
+  }
+]

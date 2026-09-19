@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Garments Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "181131",
+    "phone_number": "+91 78896 77208",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Post Office, Main Bazaar, Arnia, Jammu and Kashmir 181131",
+    "area": "Main Bazaar",
+    "latitude": 32.5205184,
+    "longitude": 74.80012099999999,
+    "place_id": "ChIJgZ_dhlyZHjkReilkBTs2dA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ_dhlyZHjkReilkBTs2dA8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:07:49"
+  },
+  {
+    "business_name": "Shakti Ready-made Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "181131",
+    "phone_number": "+91 80821 13886",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Main Market Arnia, near Jk Bank, Jammu, Jammu and Kashmir 181131",
+    "area": "181131",
+    "latitude": 32.5195657,
+    "longitude": 74.7959036,
+    "place_id": "ChIJYUgA1QuZHjkRyO6OkWKTKZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUgA1QuZHjkRyO6OkWKTKZs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:07:50"
+  }
+]

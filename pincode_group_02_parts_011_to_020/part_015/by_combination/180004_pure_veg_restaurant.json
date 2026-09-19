@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pure Khao",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "180004",
+    "phone_number": "+91 91735 31759",
+    "website": "http://www.purekhao.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Last Morh, 205 A, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.6985138,
+    "longitude": 74.85599669999999,
+    "place_id": "ChIJX3l2rw2FHjkRqYYE9PxV1Mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3l2rw2FHjkRqYYE9PxV1Mg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:08"
+  },
+  {
+    "business_name": "Yealow Food and Beverages",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "180004",
+    "phone_number": "+91 94078 92078",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop no.4, 119-A, near VIP flats, Gandhi Nagar, Jammu, 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.7015536,
+    "longitude": 74.856803,
+    "place_id": "ChIJP_zcG7uFHjkRmDnCM34LAEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_zcG7uFHjkRmDnCM34LAEw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:09"
+  }
+]

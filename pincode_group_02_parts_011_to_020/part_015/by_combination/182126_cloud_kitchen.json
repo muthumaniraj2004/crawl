@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CloudKitchen MIX",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Delivery service",
+    "pincode": "182126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "P874+H6J, Yapikhya Marg, Kathmandu, Bagmati Province 44600, Nepal",
+    "area": "Dhobichaur",
+    "latitude": 27.713956099999997,
+    "longitude": 85.30550889999999,
+    "place_id": "ChIJR0u-k44Z6zkRGdv4HmlZUNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0u-k44Z6zkRGdv4HmlZUNQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:48:56"
+  },
+  {
+    "business_name": "Home Made Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food bank",
+    "all_categories": "Food bank",
+    "pincode": "182126",
+    "phone_number": "+91 97556 71560",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "behind Shiv Takij, Camp, Umaria, Madhya Pradesh 484661",
+    "area": "Camp",
+    "latitude": 23.5309797,
+    "longitude": 80.82947469999999,
+    "place_id": "ChIJaXgIeQ61hjkRfiI2I9oeDWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXgIeQ61hjkRfiI2I9oeDWQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:48:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amir Karyana Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "181152",
+    "phone_number": "+91 99062 72477",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 64,
+    "address": "umair abad, 1 Lane 2, Bathindi, Jammu, Jammu and Kashmir 180007",
+    "area": "Bathindi",
+    "latitude": 32.7141221,
+    "longitude": 74.9149681,
+    "place_id": "ChIJC7fyVYCDHjkRcgVQM6VWcKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7fyVYCDHjkRcgVQM6VWcKQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:57"
+  },
+  {
+    "business_name": "Fayaz Karyana Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "181152",
+    "phone_number": "+91 95419 60593",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "8, Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Bathindi",
+    "latitude": 32.7093114,
+    "longitude": 74.9179169,
+    "place_id": "ChIJpfBo2YiDHjkR_JWdjPWhvmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfBo2YiDHjkR_JWdjPWhvmQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:18:57"
+  }
+]

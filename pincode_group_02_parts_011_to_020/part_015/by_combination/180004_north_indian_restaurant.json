@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW AMRITSARI KULCHA NAAN",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "180004",
+    "phone_number": "+91 95967 11182",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 152,
+    "address": "Shop No 10, behind Apsra Theater, Gandhi Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Gandhi Nagar",
+    "latitude": 32.6990371,
+    "longitude": 74.8575185,
+    "place_id": "ChIJ-X2f2UqFHjkRJiqJeXeD2YI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-X2f2UqFHjkRJiqJeXeD2YI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:11"
+  },
+  {
+    "business_name": "Desi Ruti",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "180004",
+    "phone_number": "+91 70064 75923",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No. 87, Yard 03 Narwal, Transportnagar, Jammu and Kashmir 180005",
+    "area": "Transportnagar",
+    "latitude": 32.709641999999995,
+    "longitude": 74.8909231,
+    "place_id": "ChIJD823PgCDHjkR3j7k1PYcumQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD823PgCDHjkR3j7k1PYcumQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:26:11"
+  }
+]

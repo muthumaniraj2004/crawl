@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CK Servicing - Expert Repair Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "180016",
+    "phone_number": "+91 74883 03077",
+    "website": "http://www.ckservicing.com/",
+    "rating": 4.9,
+    "reviews_count": 227,
+    "address": "Road No.1, 27, Khemnichak, Vindavan Vihar Colony, Patna, Bihar 800027",
+    "area": "Khemnichak, Vindavan Vihar Colony, Nayachak",
+    "latitude": 25.572603299999997,
+    "longitude": 85.157294,
+    "place_id": "ChIJ7SWKZV-n8jkRDSfh5jIO-VM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SWKZV-n8jkRDSfh5jIO-VM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:52"
+  },
+  {
+    "business_name": "SevaMart - Expert Repair Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Appliance repair service, Electrical repair shop, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "180016",
+    "phone_number": "+91 84484 48512",
+    "website": "https://www.sevamart.com/",
+    "rating": 3.6,
+    "reviews_count": 359,
+    "address": "H.NO, J459+V7R, 149, S.K. Puri, Boring Rd, Sri Krishna Puri, Patna, Bihar 800001",
+    "area": "Sri Krishna Puri",
+    "latitude": 25.616184999999998,
+    "longitude": 85.1131686,
+    "place_id": "ChIJKStewTFY7TkRUGHQVIfck8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKStewTFY7TkRUGHQVIfck8A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:52"
+  }
+]

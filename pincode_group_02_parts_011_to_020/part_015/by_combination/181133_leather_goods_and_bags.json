@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Velvet Walk",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "181133",
+    "phone_number": "+91 96826 29801",
+    "website": "http://www.velvetwalk.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kali Jani, Patel Bazar, near Jain Sabha, Kali Janni, Pakki Dhaki, Jammu, Jammu and Kashmir 180001",
+    "area": "Kali Janni, Pakki Dhaki",
+    "latitude": 32.7369607,
+    "longitude": 74.8697353,
+    "place_id": "ChIJu50oGauFHjkRDJyZ7Vy0snU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu50oGauFHjkRDJyZ7Vy0snU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:11:48"
+  },
+  {
+    "business_name": "LEATHER GOODS REPAIR",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather repair service",
+    "all_categories": "Leather repair service",
+    "pincode": "181133",
+    "phone_number": "+91 98999 56429",
+    "website": "http://leathergoodsrepair.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "596 2nd Floor, Mohan Lal A, near Pream Prakash Asharam, Gopi Colony, Old Faridabad, Faridabad, Haryana 121002",
+    "area": "Gopi Colony, Old Faridabad",
+    "latitude": 28.4210928,
+    "longitude": 77.31592959999999,
+    "place_id": "ChIJq6qqGrzdDDkRLlsUj-AC8eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqGrzdDDkRLlsUj-AC8eQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:11:50"
+  }
+]

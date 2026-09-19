@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TREND FOOT WEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "182126",
+    "phone_number": "+91 89484 18267",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Astupura, Mau, Uttar Pradesh 275101",
+    "area": "Astupura",
+    "latitude": 25.9550594,
+    "longitude": 83.5531822,
+    "place_id": "ChIJSzq9RVKKkTkRMFmDJzZyTnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzq9RVKKkTkRMFmDJzZyTnc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:49:03"
+  },
+  {
+    "business_name": "SOMU DI HATTI",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "182126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Q49J+W88, Manwal, Jammu and Kashmir 182127",
+    "area": "182126",
+    "latitude": 32.7697795,
+    "longitude": 75.1308225,
+    "place_id": "ChIJoRBRWAAvHDkRpxSx0iCUvV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRBRWAAvHDkRpxSx0iCUvV8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:49:05"
+  }
+]

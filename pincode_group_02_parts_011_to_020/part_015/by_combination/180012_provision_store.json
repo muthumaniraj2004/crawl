@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Qazi provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Asian grocery store",
+    "all_categories": "Asian grocery store",
+    "pincode": "180012",
+    "phone_number": "+91 95969 06179",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Channi Ramma, 461 Opposite near new Gurudwara, near by global school 🏫, Jammu, Jammu and Kashmir 180015",
+    "area": "Guru Tegh Bahadur Nagar, Channi Himat",
+    "latitude": 32.6980439,
+    "longitude": 74.8933962,
+    "place_id": "ChIJhelzIeWdHjkR43yejuns94g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhelzIeWdHjkR43yejuns94g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:18"
+  },
+  {
+    "business_name": "Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Service establishment, Store",
+    "pincode": "180012",
+    "phone_number": "+91 96221 27775",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Provision Store, 180012, India",
+    "area": "180012",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_____1SDHjkRSfiJODYi4Go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____1SDHjkRSfiJODYi4Go",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:20"
+  }
+]

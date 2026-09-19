@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saheli Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "182101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H/NO : 31, Housing Colony, Udhampur, Jammu and Kashmir 182101",
+    "area": "Housing Colony",
+    "latitude": 32.9336635,
+    "longitude": 75.142307,
+    "place_id": "ChIJCWnSuKrTHTkRLilnVd61JTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWnSuKrTHTkRLilnVd61JTM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:37:52"
+  },
+  {
+    "business_name": "Sharma Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "182101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mian Bag Airforce Station Rd, Kotli Bala, Udhampur, 182101",
+    "area": "Kotli Bala",
+    "latitude": 32.9007958,
+    "longitude": 75.1531116,
+    "place_id": "ChIJP1q1sZ0tHDkRPKVnseNEO08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1q1sZ0tHDkRPKVnseNEO08",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:37:52"
+  }
+]

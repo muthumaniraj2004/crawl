@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chit.biz",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "180018",
+    "phone_number": "+91 76390 01665",
+    "website": "http://chit.biz/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "First Floor, CM Chellamal Mall, 591, Gnanagiri Rd, Vishalachi Nagar, Coronation Colony, Kamarajapuram Colony, Sivakasi, Tamil Nadu 626189",
+    "area": "Vishalachi Nagar, Coronation Colony, Kamarajapuram Colony",
+    "latitude": 9.460595399999999,
+    "longitude": 77.8025487,
+    "place_id": "ChIJjRTtw-TOBjsRIEXPJn04qPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRTtw-TOBjsRIEXPJn04qPI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:17"
+  },
+  {
+    "business_name": "Margadarsi Chits (K) Pvt Ltd.",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "180018",
+    "phone_number": "+91 836 235 6211",
+    "website": "https://www.margadarsi.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "1ST FLR, EUREKA BLUE STAR COMPLEX, Neeligin Rd, near Hotel Jayaprakash, Deshpande Nagar, Hubballi, Karnataka 580029",
+    "area": "Deshpande Nagar",
+    "latitude": 15.354480299999999,
+    "longitude": 75.1367923,
+    "place_id": "ChIJpzemoUbXuDsRN7V0H3QojqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzemoUbXuDsRN7V0H3QojqA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:18"
+  }
+]

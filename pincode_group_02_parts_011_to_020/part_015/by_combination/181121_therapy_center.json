@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiana Pain Management Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "181121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H No 2, Chandan Vihar, Lower Muthi, Jammu, Jammu and Kashmir 181205",
+    "area": "Lower Muthi",
+    "latitude": 32.7592901,
+    "longitude": 74.82171319999999,
+    "place_id": "ChIJI-vuswqFHjkRGVP3o-bmCmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-vuswqFHjkRGVP3o-bmCmg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:00:59"
+  },
+  {
+    "business_name": "Global Mental Health Services - GMHS",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service",
+    "pincode": "181121",
+    "phone_number": "+91 88990 09819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "Lalnagar, Chanpora, Srinagar, Jammu and Kashmir 190015",
+    "area": "Lalnagar, Chanpora",
+    "latitude": 34.029047999999996,
+    "longitude": 74.8090757,
+    "place_id": "ChIJSQsrzkWP4TgR0vWp_XaUuYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQsrzkWP4TgR0vWp_XaUuYU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:01:02"
+  }
+]

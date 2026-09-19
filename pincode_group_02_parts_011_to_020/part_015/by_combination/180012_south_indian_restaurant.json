@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swadilo By Three Sisters",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Tibetan restaurant",
+    "all_categories": "Tibetan restaurant",
+    "pincode": "180012",
+    "phone_number": "+91 91862 00321",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No.8, South Block, Bahu Plaza, near HP Agency, Vidhata Nagar, Trikuta Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Vidhata Nagar, Trikuta Nagar",
+    "latitude": 32.7044924,
+    "longitude": 74.8727988,
+    "place_id": "ChIJp3DkddqFHjkRIMiFuQFLWWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3DkddqFHjkRIMiFuQFLWWE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:31"
+  },
+  {
+    "business_name": "Puchi da Dhaba",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "180012",
+    "phone_number": "+91 60060 63753",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "PV4H+GQ8, Trikuta Nagar, Jammu, Jammu and Kashmir 180012",
+    "area": "Trikuta Nagar",
+    "latitude": 32.7062877,
+    "longitude": 74.8794485,
+    "place_id": "ChIJWbZ-IseDHjkRTMbv8dWEWfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbZ-IseDHjkRTMbv8dWEWfc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:39:31"
+  }
+]

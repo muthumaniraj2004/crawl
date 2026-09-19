@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K Design Consultants",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Architectural designer, Engineering consultant, Auditor, Building consultant, Building designer, Structural engineer",
+    "pincode": "180012",
+    "phone_number": "+91 77809 66031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ByPass, near Gurudwara, Malik Market, Guru Tegh Bahadur Nagar, Channi Himat, Rama, Jammu, Jammu and Kashmir 180015",
+    "area": "Malik Market, Guru Tegh Bahadur Nagar, Channi Himat",
+    "latitude": 32.703726599999996,
+    "longitude": 74.8977647,
+    "place_id": "ChIJ78XFoICDHjkRe_GLScicoRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78XFoICDHjkRe_GLScicoRw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:40:10"
+  },
+  {
+    "business_name": "Vastukar architects",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "180012",
+    "phone_number": "+91 70067 35726",
+    "website": "http://vastukararchitects.com/",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "First floor, AM Medicos, Railway Rd, Guru Nanak Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Guru Nanak Nagar",
+    "latitude": 32.7007352,
+    "longitude": 74.8688039,
+    "place_id": "ChIJ0WlgzNWFHjkRNMeCKOoknOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WlgzNWFHjkRNMeCKOoknOY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:40:11"
+  }
+]

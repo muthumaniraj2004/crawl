@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhivery",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "181101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "HQR4+935, Kadyal, 181102",
+    "area": "181101",
+    "latitude": 32.5908987,
+    "longitude": 74.7552336,
+    "place_id": "ChIJ5fWitQWRHjkRCOhbtq12_jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fWitQWRHjkRCOhbtq12_jg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:54"
+  },
+  {
+    "business_name": "Blue Dart Express Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "181101",
+    "phone_number": "N/A",
+    "website": "https://www.bluedart.com/",
+    "rating": 1.6,
+    "reviews_count": null,
+    "address": "The, Village Niyalpur Simbal, RS Pura Rd, next to Stephen School, Miran Sahib, Jammu and Kashmir 181101",
+    "area": "Old Sathwari",
+    "latitude": 32.6559307,
+    "longitude": 74.8328975,
+    "place_id": "ChIJt4MBcbebHjkRHmIn5j8v1rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4MBcbebHjkRHmIn5j8v1rc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cilwana studio",
+    "search_category": "Boutiques",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Shoe store",
+    "pincode": "182122",
+    "phone_number": "+91 96821 63330",
+    "website": "https://www.cilwanastudio.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st Floor, City Walk Mall, MA Road, Regal Chowk, Munshi Bagh, Srinagar, Jammu and Kashmir 190001",
+    "area": "Regal Chowk, Munshi Bagh",
+    "latitude": 34.073855699999996,
+    "longitude": 74.8188847,
+    "place_id": "ChIJXTe6qL6P4TgRzwXrKGmnZ20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTe6qL6P4TgRzwXrKGmnZ20",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:43:32"
+  },
+  {
+    "business_name": "The Alpha Closet",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "182122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ist floor, near State Bank of India, Ramnagar, Jammu and Kashmir 182122",
+    "area": "182122",
+    "latitude": 32.805751799999996,
+    "longitude": 75.31529239999999,
+    "place_id": "ChIJCX8meNU3HDkRxkPOQnkD58w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCX8meNU3HDkRxkPOQnkD58w",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:43:33"
+  }
+]

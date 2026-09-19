@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahajan Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "180019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JV75+7XF, Bishnah, Jammu and Kashmir 181132",
+    "area": "180019",
+    "latitude": 32.613544,
+    "longitude": 74.86076899999999,
+    "place_id": "ChIJR3o7fACbHjkRkmMOEYcYTZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3o7fACbHjkRkmMOEYcYTZE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:51:21"
+  },
+  {
+    "business_name": "sardar Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "180019",
+    "phone_number": "+91 70586 74499",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 35,
+    "address": "VG2H+4HP, Azad Nagar, Parli Vaijnath, Maharashtra 431515",
+    "area": "Azad Nagar",
+    "latitude": 18.850349899999998,
+    "longitude": 76.5289579,
+    "place_id": "ChIJE-Piwjz3zzsRZn2sdPmVNik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-Piwjz3zzsRZn2sdPmVNik",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:51:24"
+  }
+]

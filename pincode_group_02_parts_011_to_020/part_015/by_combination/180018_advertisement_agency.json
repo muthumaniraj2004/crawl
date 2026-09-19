@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Walnut Advertisers",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Custom t-shirt store, Design agency, Digital printing service, Marketing agency, Offset Printer, Print shop",
+    "pincode": "180018",
+    "phone_number": "+91 97961 77177",
+    "website": "http://www.walnutads.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "The Bund Side, near Springfield School, Ram Bagh, Srinagar, Jammu and Kashmir 190015",
+    "area": "Ram Bagh",
+    "latitude": 34.0560118,
+    "longitude": 74.8107582,
+    "place_id": "ChIJi9oVcceP4TgRBu_zXCe6pFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9oVcceP4TgRBu_zXCe6pFM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:35"
+  },
+  {
+    "business_name": "Chinar Advertising Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "180018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Floor Bakhtawar Complex, Regal Lane, near Airtel Store, Press Colony, Lal Chowk, Srinagar, 190001",
+    "area": "Press Colony, Lal Chowk",
+    "latitude": 34.072148,
+    "longitude": 74.8155386,
+    "place_id": "ChIJCTSbp5CP4TgREBefFnzq3Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTSbp5CP4TgREBefFnzq3Ck",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:35"
+  }
+]

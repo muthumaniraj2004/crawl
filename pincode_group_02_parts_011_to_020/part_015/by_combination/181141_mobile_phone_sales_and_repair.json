@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR Tech World",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "181141",
+    "phone_number": "+91 78898 69181",
+    "website": "https://www.artechworld.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P.S Palace, Gagore Near A, Jammu, Jammu and Kashmir 184120",
+    "area": "181141",
+    "latitude": 32.5620437,
+    "longitude": 74.9793162,
+    "place_id": "ChIJL8b7ZdchHDkRF0HQDDIgg-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8b7ZdchHDkRF0HQDDIgg-s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:14:42"
+  },
+  {
+    "business_name": "Vaishnavi Mobile Centre",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "181141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 5, near Jk Bank, Vijaypur, Gorah Salathian, Jammu and Kashmir 184120",
+    "area": "181141",
+    "latitude": 32.5670498,
+    "longitude": 75.0193948,
+    "place_id": "ChIJYyocsr4hHDkRhHDXW37PF88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyocsr4hHDkRhHDXW37PF88",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:14:45"
+  }
+]

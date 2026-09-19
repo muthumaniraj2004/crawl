@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GRB Usman Provisional store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "180020",
+    "phone_number": "+91 90183 49024",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Bhaderwah, Jammu and Kashmir 182222",
+    "area": "180020",
+    "latitude": 32.9790063,
+    "longitude": 75.7156974,
+    "place_id": "ChIJ6af2fzMBHTkRYvnKdGSjOQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6af2fzMBHTkRYvnKdGSjOQc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:32"
+  },
+  {
+    "business_name": "Manav Super Shopee",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Department store",
+    "pincode": "180020",
+    "phone_number": "+91 90702 49999",
+    "website": "https://manavsupershopee.in/",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "1715/4 Shivaji Chowk, Guru Nanak Nagar, Jammu, Jammu and Kashmir 180004",
+    "area": "Guru Nanak Nagar",
+    "latitude": 32.702055,
+    "longitude": 74.8683768,
+    "place_id": "ChIJ_yJXOlaFHjkRncv9Qp9ON1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yJXOlaFHjkRncv9Qp9ON1Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:33"
+  }
+]

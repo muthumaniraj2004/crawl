@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farhaan Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "181123",
+    "phone_number": "+91 70065 86764",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Drugmulla, Jammu and Kashmir 193222",
+    "area": "181123",
+    "latitude": 34.4837759,
+    "longitude": 74.2875072,
+    "place_id": "ChIJf0NCvr8f4TgRWE4Sfl171ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0NCvr8f4TgRWE4Sfl171ws",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:29"
+  },
+  {
+    "business_name": "A.K. Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "181123",
+    "phone_number": "+91 60055 98172",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "NATRAL ROAD, near URBAN FARM, Sarore, Khairi, Jammu and Kashmir 181132",
+    "area": "181123",
+    "latitude": 32.6128183,
+    "longitude": 74.91983619999999,
+    "place_id": "ChIJk5X_5S2dHjkRdPhSm50nDyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5X_5S2dHjkRdPhSm50nDyw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:29"
+  }
+]

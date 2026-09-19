@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ohrisons Industries",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Pipe Manufacturer",
+    "all_categories": "Pipe Manufacturer, Electrical equipment supplier",
+    "pincode": "180020",
+    "phone_number": "+91 88035 00237",
+    "website": "http://www.ohrishighpower.com/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Phase 3, Gangyal Industrial Area, Jammu, Jammu and Kashmir 180010",
+    "area": "Gangyal Industrial Area",
+    "latitude": 32.678689,
+    "longitude": 74.872648,
+    "place_id": "ChIJGUoHYFibHjkRIt3Ho6CvygY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUoHYFibHjkRIt3Ho6CvygY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:11"
+  },
+  {
+    "business_name": "Pal Infrastructure Solutions",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction machine dealer",
+    "all_categories": "Construction machine dealer",
+    "pincode": "180020",
+    "phone_number": "+91 74282 95044",
+    "website": "https://palinfra.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sewa Complex, National Highway, Gangayal, Jammu, Jammu and Kashmir 180010",
+    "area": "Gangayal",
+    "latitude": 32.6714092,
+    "longitude": 74.8676882,
+    "place_id": "ChIJpRrEknqbHjkRM8_hStw6m84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRrEknqbHjkRM8_hStw6m84",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:12"
+  }
+]

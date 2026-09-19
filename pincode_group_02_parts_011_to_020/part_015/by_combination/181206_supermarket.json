@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SV Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "181206",
+    "phone_number": "+91 70062 15044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Pushpanjali Clinic, Lale-Da-Bagh, Jammu, Jammu and Kashmir 181206",
+    "area": "Lale-Da-Bagh",
+    "latitude": 32.7569389,
+    "longitude": 74.7863979,
+    "place_id": "ChIJrazKSk-FHjkRT0xxb3gRHck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrazKSk-FHjkRT0xxb3gRHck",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:30:03"
+  },
+  {
+    "business_name": "Sushma Food",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "181206",
+    "phone_number": "+91 88036 16319",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jammu Akhnoor Hwy, opposite Shiva Petrol Pump, Domana, Jammu, Jammu and Kashmir 181206",
+    "area": "Domana",
+    "latitude": 32.782410899999995,
+    "longitude": 74.78933889999999,
+    "place_id": "ChIJ1UJh8-SHHjkRNUJgYQkUPww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UJh8-SHHjkRNUJgYQkUPww",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:30:03"
+  }
+]

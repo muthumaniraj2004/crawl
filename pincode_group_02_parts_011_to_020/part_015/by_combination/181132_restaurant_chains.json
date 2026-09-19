@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Kuku Mamma Rasoi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181132",
+    "phone_number": "+91 80823 24077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "By Pass Road, opposite Convent School, Bishnah, Jammu, Jammu and Kashmir 181132",
+    "area": "181132",
+    "latitude": 32.615981399999995,
+    "longitude": 74.854985,
+    "place_id": "ChIJO-j6AM6bHjkRyYHOf6vil_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-j6AM6bHjkRyYHOf6vil_A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:42"
+  },
+  {
+    "business_name": "The Grill Station",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "181132",
+    "phone_number": "+91 94191 44556",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 18,
+    "address": "MW32+CJ Purmandal Morh, Shiva Market, Jammu, Jammu and Kashmir 180010",
+    "area": "Greater Kailash",
+    "latitude": 32.6535625,
+    "longitude": 74.9015625,
+    "place_id": "ChIJ0xBoWTSdHjkRvFPun506l-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xBoWTSdHjkRvFPun506l-M",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:09:42"
+  }
+]

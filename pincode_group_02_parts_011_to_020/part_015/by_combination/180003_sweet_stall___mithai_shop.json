@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bral Food & Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "180003",
+    "phone_number": "+91 94191 55888",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "MVP9+28P, Bral Market, Preet Nagar, Jammu, Jammu and Kashmir 180010",
+    "area": "180003",
+    "latitude": 32.685097299999995,
+    "longitude": 74.86833539999999,
+    "place_id": "ChIJhZRdtVabHjkRk8mDVMrCon8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZRdtVabHjkRk8mDVMrCon8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:24:07"
+  },
+  {
+    "business_name": "Sunny Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "180003",
+    "phone_number": "+91 99061 00161",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Narwal-Railway Station Rd, Transportnagar, Jammu, Jammu and Kashmir 180006",
+    "area": "Transportnagar",
+    "latitude": 32.7155567,
+    "longitude": 74.8899435,
+    "place_id": "ChIJxYSQa0KDHjkRyQEc4xznQDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYSQa0KDHjkRyQEc4xznQDI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:24:10"
+  }
+]

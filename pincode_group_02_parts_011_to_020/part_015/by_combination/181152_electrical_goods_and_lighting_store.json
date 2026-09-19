@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zahid Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "181152",
+    "phone_number": "+91 98588 00781",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sunjwan Rd, near BN college, Bathindi, Jammu, Jammu and Kashmir 181152",
+    "area": "Bathindi",
+    "latitude": 32.705286799999996,
+    "longitude": 74.9075319,
+    "place_id": "ChIJB8aP8rmDHjkRplJXrVTL_mQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8aP8rmDHjkRplJXrVTL_mQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:45"
+  },
+  {
+    "business_name": "Star Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "181152",
+    "phone_number": "+91 94191 44826",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "1, Guru Tegh Bahadur Nagar, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Guru Tegh Bahadur Nagar, Channi Himat",
+    "latitude": 32.6936033,
+    "longitude": 74.8890242,
+    "place_id": "ChIJIVUCn6qdHjkRt-0qV3McGqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVUCn6qdHjkRt-0qV3McGqA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:46"
+  }
+]

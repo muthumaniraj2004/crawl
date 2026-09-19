@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Empire Bakers & Shakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "180020",
+    "phone_number": "+91 94191 16386",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Main Market, Sector 5, Trikuta Nagar, Jammu, Jammu and Kashmir 180020",
+    "area": "Sector 5, Trikuta Nagar",
+    "latitude": 32.6971446,
+    "longitude": 74.8757767,
+    "place_id": "ChIJO917wFWDHjkRslqNIWC8Fn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO917wFWDHjkRslqNIWC8Fn4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:40"
+  },
+  {
+    "business_name": "Choconova Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Gift shop, Chocolate shop, Corporate gift supplier, Wholesale bakery",
+    "pincode": "180020",
+    "phone_number": "+91 98105 09000",
+    "website": "http://choconovabakery.com/",
+    "rating": 4.8,
+    "reviews_count": 1302,
+    "address": "Hno 61, near global bhatia hospital, Ambica Vihar, Paschim Vihar, New Delhi, Delhi, 110087",
+    "area": "Ambica Vihar, Paschim Vihar",
+    "latitude": 28.6670433,
+    "longitude": 77.08122949999999,
+    "place_id": "ChIJBbRKpCwFDTkRd0I-i6vqbGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbRKpCwFDTkRd0I-i6vqbGg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:52:40"
+  }
+]

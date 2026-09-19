@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sivaram Traders",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "181145",
+    "phone_number": "+91 98407 13342",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "61A, 4th E St, Chendurpuram, Indira Nagar, Jayalalitha Nagar, Kattupakkam, Kattuppakkam, Tamil Nadu 600056",
+    "area": "Chendurpuram, Indira Nagar, Jayalalitha Nagar, Kattupakkam",
+    "latitude": 13.0376315,
+    "longitude": 80.1248339,
+    "place_id": "ChIJO0ZYQJRhUjoR1SyD7ApYT5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO0ZYQJRhUjoR1SyD7ApYT5c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:55"
+  },
+  {
+    "business_name": "The Kalinga Lime & Colour",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "181145",
+    "phone_number": "+91 94393 74214",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "13, Netaji Subhash Rd., Kali Babur Bazar, Kadam Tala, Howrah, West Bengal 711101",
+    "area": "Kali Babur Bazar, Kadam Tala",
+    "latitude": 22.579791,
+    "longitude": 88.329886,
+    "place_id": "ChIJ25hoc5l3AjoRtYxUwzWAYOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25hoc5l3AjoRtYxUwzWAYOg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:17:55"
+  }
+]

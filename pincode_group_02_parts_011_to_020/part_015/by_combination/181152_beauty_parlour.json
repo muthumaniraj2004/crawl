@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushbu beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "181152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bathindi, Jammu, Jammu and Kashmir 180011",
+    "area": "Bathindi",
+    "latitude": 32.7064386,
+    "longitude": 74.902824,
+    "place_id": "ChIJR5eNO6KDHjkRdhjqF5apoKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5eNO6KDHjkRdhjqF5apoKw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:56"
+  },
+  {
+    "business_name": "Sahira Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "181152",
+    "phone_number": "+91 97968 09797",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Jammu 181145",
+    "area": "Channi Rama",
+    "latitude": 32.7133124,
+    "longitude": 74.9266518,
+    "place_id": "ChIJNZiUfdmCHjkRS9g-vD5VakQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZiUfdmCHjkRS9g-vD5VakQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:19:56"
+  }
+]

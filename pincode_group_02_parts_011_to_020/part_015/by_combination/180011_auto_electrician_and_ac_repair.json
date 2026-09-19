@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Das Car Ac",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "180011",
+    "phone_number": "+91 98280 59353",
+    "website": "http://dascarac.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "E-118, Chambal Power House Rd, near Sita Devi Hospital, Shree Ram Colony, Govindpuri, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Shree Ram Colony, Govindpuri",
+    "latitude": 26.8956414,
+    "longitude": 75.7801281,
+    "place_id": "ChIJcblRBdO1bTkREI5EqjWUKDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcblRBdO1bTkREI5EqjWUKDg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:38:05"
+  },
+  {
+    "business_name": "Anand Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service, Air conditioning contractor, Air conditioning repair service, Air conditioning store, Air conditioning system supplier, Auto parts store, Wholesaler",
+    "pincode": "180011",
+    "phone_number": "+91 86197 08619",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "21, Transport Nagar, Jaipur, Rajasthan 302003",
+    "area": "Transport Nagar",
+    "latitude": 26.9056721,
+    "longitude": 75.8445891,
+    "place_id": "ChIJU5_DVMS2bTkRY_i7kc9f010",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5_DVMS2bTkRY_i7kc9f010",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:38:05"
+  }
+]

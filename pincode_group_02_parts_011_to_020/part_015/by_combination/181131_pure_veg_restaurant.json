@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sawad bazar jammu",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Delivery service",
+    "pincode": "181131",
+    "phone_number": "+91 96223 39553",
+    "website": "https://sites.google.com/view/swad-bazar/home",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Dollian, Bari Brahmana, dollian, Jammu, Jammu and Kashmir 181133",
+    "area": "Dollian, Bari Brahmana",
+    "latitude": 32.6365219,
+    "longitude": 74.9141351,
+    "place_id": "ChIJj5iZ-w-dHjkRwLC4G_exL1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5iZ-w-dHjkRwLC4G_exL1U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:07:45"
+  },
+  {
+    "business_name": "Jitender Vegetable Shop",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "181131",
+    "phone_number": "+91 78897 94675",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. Chak Hasal, Road, near Rehal, Bishnah, Jammu and Kashmir 181132",
+    "area": "181131",
+    "latitude": 32.571044199999996,
+    "longitude": 74.8713652,
+    "place_id": "ChIJt0DY1-WZHjkRPHGYnRdDclo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0DY1-WZHjkRPHGYnRdDclo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:07:45"
+  }
+]

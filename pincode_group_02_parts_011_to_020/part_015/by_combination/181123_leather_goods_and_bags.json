@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wazir Leather Goods",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop, Cosmetics store, Handicraft, Luggage store",
+    "pincode": "181123",
+    "phone_number": "+91 94190 40258",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Market, Kochak Building, Mattan Chowk, Anantnag, Jammu and Kashmir 192101",
+    "area": "Mattan Chowk",
+    "latitude": 33.732467899999996,
+    "longitude": 75.1525224,
+    "place_id": "ChIJY7t1nlMF4jgRWsPoGjRDBIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7t1nlMF4jgRWsPoGjRDBIM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:08"
+  },
+  {
+    "business_name": "Sanjeev bag & attachi house",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Camping store",
+    "pincode": "181123",
+    "phone_number": "+91 98585 75655",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop no 17, Raghunath Bazar, Resham Ghar Colony, Jammu, Jammu and Kashmir 180001",
+    "area": "Raghunath Bazar, Resham Ghar Colony",
+    "latitude": 32.7306032,
+    "longitude": 74.8631207,
+    "place_id": "ChIJNbeFkrmFHjkRFN7PhZV8v9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbeFkrmFHjkRFN7PhZV8v9I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:04:08"
+  }
+]

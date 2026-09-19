@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S M",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store",
+    "pincode": "182101",
+    "phone_number": "+91 70511 26777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Ambedkar Chowk, near Arto Office, Udhampur, Jammu and Kashmir 182101",
+    "area": "Bharat Nagar",
+    "latitude": 32.931256399999995,
+    "longitude": 75.1519108,
+    "place_id": "ChIJRcITJoDTHTkR-pEUXdoD0ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcITJoDTHTkR-pEUXdoD0ck",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:38:57"
+  },
+  {
+    "business_name": "Rohit communication",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "182101",
+    "phone_number": "+91 78896 32933",
+    "website": "https://chat.whatsapp.com/FAZZ5mz6OwtHuc0zAxjpqk",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "T morh, near APS school, Chenar, Udhampur, Jammu and Kashmir 182101",
+    "area": "Chenar",
+    "latitude": 32.9195352,
+    "longitude": 75.1142806,
+    "place_id": "ChIJGXmBMhbTHTkRZuR7W-RXdRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXmBMhbTHTkRZuR7W-RXdRA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:38:57"
+  }
+]

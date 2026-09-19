@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trikuta Infosys",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "181152",
+    "phone_number": "+91 94191 81148",
+    "website": "https://trikutainfosys.ueniweb.com/?utm_campaign=gmb",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Opposite Ritz Manor Hotel, Near HP Petrol Pump, National Highway, near Veerji Dhaba, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.6960317,
+    "longitude": 74.9002276,
+    "place_id": "ChIJlV4oOjiFHjkR7laEl9lzu-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlV4oOjiFHjkR7laEl9lzu-k",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:20:20"
+  },
+  {
+    "business_name": "Vantek™ I.T Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "181152",
+    "phone_number": "+91 90865 53855",
+    "website": "http://www.vantek.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Narwal Bala, Shiv Shakti Mandir Lane, near Shiv Temple, Qasim Nagar, Jammu, Jammu and Kashmir 181152",
+    "area": "Qasim Nagar",
+    "latitude": 32.7150587,
+    "longitude": 74.89334579999999,
+    "place_id": "ChIJt-pFjzyDHjkRZnIu2TZEScc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-pFjzyDHjkRZnIu2TZEScc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:20:20"
+  }
+]

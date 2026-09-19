@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SOBA VAISHNO DHABHA",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "181111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JR35+293, near HIGH SECONDARY SCHOOL, Khour, Jammu and Kashmir 181101",
+    "area": "181111",
+    "latitude": 32.6025043,
+    "longitude": 74.8084126,
+    "place_id": "ChIJQbisfgCbHjkRSOD98Q0PIvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbisfgCbHjkRSOD98Q0PIvY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:58:17"
+  },
+  {
+    "business_name": "Dubey Food Point",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "181111",
+    "phone_number": "+91 77808 03067",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Preet Nagar, Jammu, Jammu and Kashmir 180010",
+    "area": "Preet Nagar",
+    "latitude": 32.6850625,
+    "longitude": 74.86456249999999,
+    "place_id": "ChIJTXcYUYGbHjkRQ-SSvpuDwAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXcYUYGbHjkRQ-SSvpuDwAc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:58:17"
+  }
+]

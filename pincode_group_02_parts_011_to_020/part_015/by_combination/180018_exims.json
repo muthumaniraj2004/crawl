@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Exim Pvt Ltd",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "180018",
+    "phone_number": "+91 98992 15000",
+    "website": "https://unitedexim.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Block B, Sector 68, Noida, Uttar Pradesh 201309",
+    "area": "Block B, Sector 68",
+    "latitude": 28.6064695,
+    "longitude": 77.3950117,
+    "place_id": "ChIJl7SwvKvvDDkRWBG4LFZ32cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7SwvKvvDDkRWBG4LFZ32cs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:32"
+  },
+  {
+    "business_name": "United Exim Pvt. Ltd.",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "180018",
+    "phone_number": "+91 98992 15000",
+    "website": "https://unitedexim.com/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "116, Sector 63 Rd, A Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "A Block, Sector 63",
+    "latitude": 28.630952399999998,
+    "longitude": 77.3821328,
+    "place_id": "ChIJr7-tD_nvDDkR_Hsl9qmhyQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7-tD_nvDDkR_Hsl9qmhyQc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:50:32"
+  }
+]

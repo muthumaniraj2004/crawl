@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shan Emporium",
+    "search_category": "Shops",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store",
+    "pincode": "181133",
+    "phone_number": "+91 70060 96892",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Main road, opposite HDFC Bank ATM, Kothi Morh, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Kothi Morh, Bari Brahmana",
+    "latitude": 32.6380228,
+    "longitude": 74.8951105,
+    "place_id": "ChIJQ1Fla6udHjkRPFXXlA2B1XY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1Fla6udHjkRPFXXlA2B1XY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:20"
+  },
+  {
+    "business_name": "Apical Enterprises(MART)",
+    "search_category": "Shops",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store, Baby store, Bag shop, Bicycle Shop, Cosmetics store, Fitness Equipment Wholesaler, Gift shop, Pen store, Toy store, Trophy shop",
+    "pincode": "181133",
+    "phone_number": "+91 70062 80183",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "National highway1, opposite pahalwan food mall, Bari Brahmana, Jammu, Jammu and Kashmir 181133",
+    "area": "Bari Brahmana",
+    "latitude": 32.633355099999996,
+    "longitude": 74.9158623,
+    "place_id": "ChIJNXJ1JUqcHjkRbGS4izxKIjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXJ1JUqcHjkRbGS4izxKIjI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:21"
+  }
+]

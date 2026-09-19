@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Relive Health Care",
+    "search_category": "Clinics",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "182124",
+    "phone_number": "+91 78899 20781",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "near jama masjid, jakhani, Jakheni, Udhampur, Jammu and Kashmir 182101",
+    "area": "jakhani, Jakheni",
+    "latitude": 32.9383658,
+    "longitude": 75.1518229,
+    "place_id": "ChIJTRaBaSXTHTkR3gs3DBKAVr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRaBaSXTHTkR3gs3DBKAVr8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:45:26"
+  },
+  {
+    "business_name": "Manad Healthcare",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Pharmacy",
+    "pincode": "182124",
+    "phone_number": "+91 91499 71300",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "14, Dhar Rd, District Hospital Road, near Aroma Cuisine and, Adarsh Colony, Udhampur, Jammu and Kashmir 182101",
+    "area": "Adarsh Colony",
+    "latitude": 32.9180904,
+    "longitude": 75.13221229999999,
+    "place_id": "ChIJcyH3gFjTHTkRZQjdjZVqLhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyH3gFjTHTkRZQjdjZVqLhI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:45:26"
+  }
+]

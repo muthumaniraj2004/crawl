@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahakaal flowers decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "180007",
+    "phone_number": "+91 84910 60764",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sector 3, Roop Nagar, Jammu, Jammu and Kashmir 181121",
+    "area": "Roop Nagar",
+    "latitude": 32.7677271,
+    "longitude": 74.8321199,
+    "place_id": "ChIJ-64qRQSFHjkRYbcc-9j3bXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-64qRQSFHjkRYbcc-9j3bXc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:32:46"
+  },
+  {
+    "business_name": "Green City Nursery & Consultancy",
+    "search_category": "Flower Decorator",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery",
+    "pincode": "180007",
+    "phone_number": "+91 96823 33528",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 84,
+    "address": "adjoining Ram Leela Ground, Sector 2, Channi Himat, Jammu, Jammu and Kashmir 180015",
+    "area": "Sector 2, Channi Himat",
+    "latitude": 32.6907889,
+    "longitude": 74.8893136,
+    "place_id": "ChIJyYoGFiadHjkR3oTH4UkK0bE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYoGFiadHjkR3oTH4UkK0bE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:32:49"
+  }
+]

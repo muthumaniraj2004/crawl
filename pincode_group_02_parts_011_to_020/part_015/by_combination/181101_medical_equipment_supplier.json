@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanmotra Medicos",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "181101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WARD NO 1, Ranbir Singh Pura, Jammu and Kashmir 181102",
+    "area": "181101",
+    "latitude": 32.6079669,
+    "longitude": 74.732147,
+    "place_id": "ChIJTSkMMgCRHjkR4z3A7VwlPJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSkMMgCRHjkR4z3A7VwlPJM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:54:57"
+  },
+  {
+    "business_name": "Sajgotra medical agency bishnah",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "181101",
+    "phone_number": "+91 90868 41234",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near govt. hospital, Bishnah, Jammu and Kashmir 181132",
+    "area": "181101",
+    "latitude": 32.6126228,
+    "longitude": 74.85801599999999,
+    "place_id": "ChIJtfCo8uWbHjkRpTr7DkQ5ugc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfCo8uWbHjkRpTr7DkQ5ugc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:55:00"
+  }
+]

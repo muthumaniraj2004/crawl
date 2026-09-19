@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sparrow Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "181133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "National Highway, Kaluchak, Jammu, Jammu and Kashmir 180010",
+    "area": "Kaluchak",
+    "latitude": 32.6615262,
+    "longitude": 74.8844787,
+    "place_id": "ChIJm53fUIWDHjkRmg5uOuDJJms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm53fUIWDHjkRmg5uOuDJJms",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:00"
+  },
+  {
+    "business_name": "AMAIRA REAL ESTATE",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "181133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "181132",
+    "area": "181133",
+    "latitude": 32.6450938,
+    "longitude": 74.8522986,
+    "place_id": "ChIJ__zOwp-bHjkR1HJMqrd_rhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__zOwp-bHjkR1HJMqrd_rhY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:13:03"
+  }
+]

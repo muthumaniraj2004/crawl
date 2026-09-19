@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Prime Property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Commercial real estate inspector, Industrial real estate agency, Property maintenance, Property management company, Real estate consultant, Real estate rental agency",
+    "pincode": "181152",
+    "phone_number": "+91 98230 51811",
+    "website": "http://www.aurangabadproperty.com/",
+    "rating": 4.7,
+    "reviews_count": 55,
+    "address": "Ground floor, Khivansara August High Street, G-10, Basant Bahar, Ulkanagari, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Basant Bahar, Ulkanagari",
+    "latitude": 19.8646586,
+    "longitude": 75.34419989999999,
+    "place_id": "ChIJ____M4Ci2zsRf7gpcm2WqLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____M4Ci2zsRf7gpcm2WqLs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:20:33"
+  },
+  {
+    "business_name": "Prime Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "181152",
+    "phone_number": "+91 72079 31212",
+    "website": "https://primeestates.co/",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "Sy No 12 & 14, Bindu Elegance, Ganga Enclaves, 301,3rd Floor, Kompally, Telangana 500067",
+    "area": "Caton Residential Township, Kompally",
+    "latitude": 17.5204859,
+    "longitude": 78.4829182,
+    "place_id": "ChIJ8UNB2zubyzsR6USxDy59ifc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UNB2zubyzsR6USxDy59ifc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:20:33"
+  }
+]

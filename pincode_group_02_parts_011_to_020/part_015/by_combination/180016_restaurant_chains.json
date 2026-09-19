@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tasty buster fast food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, General store",
+    "pincode": "180016",
+    "phone_number": "+91 70068 64661",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "PRCV+XQ6, 4th bridge, Talab Tillo, Jammu, Jammu and Kashmir 181121",
+    "area": "Talab Tillo",
+    "latitude": 32.722428199999996,
+    "longitude": 74.84441509999999,
+    "place_id": "ChIJ2aFP1PuFHjkRkBf-iDx7Msk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aFP1PuFHjkRkBf-iDx7Msk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:13"
+  },
+  {
+    "business_name": "Chatha Foods Limited",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "180016",
+    "phone_number": "+91 1762 661 705",
+    "website": "http://cfpl.net.in/",
+    "rating": 4.3,
+    "reviews_count": 54,
+    "address": "Village Chaundheri,P.O. Dappar Chandigarh-Ambala, Highway, Distt, Punjab 140506",
+    "area": "180016",
+    "latitude": 30.5109709,
+    "longitude": 76.8236806,
+    "place_id": "ChIJi2C74QPBDzkRdjOg-3njHjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2C74QPBDzkRdjOg-3njHjY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:45:15"
+  }
+]

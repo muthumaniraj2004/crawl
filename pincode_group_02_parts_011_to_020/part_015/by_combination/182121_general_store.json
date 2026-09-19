@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182121",
+    "phone_number": "+91 99061 19165",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Udhampur, near AT Gate, Jammu and Kashmir 182101",
+    "area": "182121",
+    "latitude": 32.928770899999996,
+    "longitude": 75.10535519999999,
+    "place_id": "ChIJIwsFAyDTHTkRV7PMI3T7QA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwsFAyDTHTkRV7PMI3T7QA8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:19"
+  },
+  {
+    "business_name": "Jagdamba general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "182121",
+    "phone_number": "+91 78895 56385",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Panthal, Katra, Sumdrani, Jammu and Kashmir 182121",
+    "area": "Panthal",
+    "latitude": 32.9716585,
+    "longitude": 74.96849209999999,
+    "place_id": "ChIJcVFVII_XHTkRNxPvZDkoKsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVFVII_XHTkRNxPvZDkoKsc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:41:21"
+  }
+]

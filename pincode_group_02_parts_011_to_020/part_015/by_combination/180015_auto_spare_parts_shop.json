@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oberoi Motors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Truck repair shop",
+    "pincode": "180015",
+    "phone_number": "+91 99060 00773",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Zero Mile Stone, Narwal Bypass, Jammu, Jammu and Kashmir 180004",
+    "area": "Qasim Nagar",
+    "latitude": 32.7139635,
+    "longitude": 74.89234359999999,
+    "place_id": "ChIJAfXQeUGDHjkR5KISBjPoT0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAfXQeUGDHjkR5KISBjPoT0s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:43"
+  },
+  {
+    "business_name": "Paras Auto Traders",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "180015",
+    "phone_number": "+91 94191 46942",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Shop No.65/yard No.3, Transportnagar, Jammu, Jammu and Kashmir 180006",
+    "area": "Transportnagar",
+    "latitude": 32.7098424,
+    "longitude": 74.8896491,
+    "place_id": "ChIJ-wsoAVqDHjkRJNdwRRelKbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wsoAVqDHjkRJNdwRRelKbY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:43:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryans salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "180015",
+    "phone_number": "+91 90867 01110",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No- 2, Behind Ram Leela Ground, Channi Himat, Jammu, Jammu and Kashmir 180012",
+    "area": "Channi Himat",
+    "latitude": 32.6901238,
+    "longitude": 74.8895584,
+    "place_id": "ChIJzceAwLOcHjkRBxPQg42kJQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzceAwLOcHjkRBxPQg42kJQQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:44:01"
+  },
+  {
+    "business_name": "Rp Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "180015",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/Raagavi777/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "#109, Sec- 3, Channi Himmat, opp. Co-operative Bank, Jammu, Jammu and Kashmir 180015",
+    "area": "Channi Himat",
+    "latitude": 32.6868409,
+    "longitude": 74.8905353,
+    "place_id": "ChIJAbd3JLGcHjkR_A_P_4eJHDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbd3JLGcHjkR_A_P_4eJHDk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:44:01"
+  }
+]

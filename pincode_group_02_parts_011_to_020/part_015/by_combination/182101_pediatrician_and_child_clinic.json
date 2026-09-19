@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Kumar",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "182101",
+    "phone_number": "+91 70514 57073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sangoor, Udhampur, Jammu and Kashmir 182101",
+    "area": "Sangoor",
+    "latitude": 32.9223515,
+    "longitude": 75.1482324,
+    "place_id": "ChIJhYGGOADTHTkREFf39Vn0dx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYGGOADTHTkREFf39Vn0dx8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:38:04"
+  },
+  {
+    "business_name": "Alok raina",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric gastroenterologist",
+    "all_categories": "Pediatric gastroenterologist",
+    "pincode": "182101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jammu and Kashmir 182101",
+    "area": "182101",
+    "latitude": 32.8994375,
+    "longitude": 75.0690625,
+    "place_id": "ChIJyUhYHgDTHTkR7s_KbZFhtyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUhYHgDTHTkR7s_KbZFhtyk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 08:38:04"
+  }
+]
