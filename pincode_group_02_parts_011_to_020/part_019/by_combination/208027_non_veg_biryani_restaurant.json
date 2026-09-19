@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mughal Angithi",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "208027",
+    "phone_number": "+91 78609 17168",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "110A, D-3, Adarsh Nagar, Barra 2, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Adarsh Nagar, Barra 2, Barra World Bank, Barra",
+    "latitude": 26.436975099999998,
+    "longitude": 80.30333689999999,
+    "place_id": "ChIJx3AxmDRHnDkRrYMCYyxKYXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3AxmDRHnDkRrYMCYyxKYXE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:33:08"
+  },
+  {
+    "business_name": "Gupta veg biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "208027",
+    "phone_number": "+91 83909 49124",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C8M2+WWV, Subji Mandi Rd, Barra 2, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra 2, Barra World Bank, Barra",
+    "latitude": 26.4348733,
+    "longitude": 80.3023067,
+    "place_id": "ChIJgcB4aABHnDkR8dYx8-rRltw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcB4aABHnDkR8dYx8-rRltw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:33:08"
+  }
+]

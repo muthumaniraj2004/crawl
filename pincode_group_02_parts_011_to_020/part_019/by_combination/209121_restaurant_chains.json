@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuldeep Mini Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "209121",
+    "phone_number": "+91 98389 79390",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "60/7, Labor Colony, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "Labor Colony, Govind Nagar",
+    "latitude": 26.4499107,
+    "longitude": 80.2961378,
+    "place_id": "ChIJD0PXLq9HnDkRkGGOAyNabI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0PXLq9HnDkRkGGOAyNabI4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:43:54"
+  },
+  {
+    "business_name": "Royal Baba Food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "209121",
+    "phone_number": "+91 70843 04955",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shagun Apartment, Gandhi Park, 105/619, Fahimabab Labour Colony Halim College Rd, Chamanganj, Colonelganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Chamanganj, Colonelganj",
+    "latitude": 26.4634204,
+    "longitude": 80.3352428,
+    "place_id": "ChIJK2mvhBhHnDkRILT_tAOXauY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2mvhBhHnDkRILT_tAOXauY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:43:54"
+  }
+]

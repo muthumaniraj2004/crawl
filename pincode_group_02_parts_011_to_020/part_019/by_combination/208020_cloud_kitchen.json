@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radha rani cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "208020",
+    "phone_number": "+91 93076 30705",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "c Block, 76, Swaraj Nagar, Kanpur, Uttar Pradesh 208020",
+    "area": "Shahpur, Swaraj Nagar",
+    "latitude": 26.4707655,
+    "longitude": 80.248926,
+    "place_id": "ChIJE5j-Szg3nDkRM6c4o6wZZwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5j-Szg3nDkRM6c4o6wZZwA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:17:40"
+  },
+  {
+    "business_name": "Niwala Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "208020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Awas Vikas 1, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas 1, Kalyanpur",
+    "latitude": 26.4899843,
+    "longitude": 80.2549638,
+    "place_id": "ChIJ433LfYE3nDkRLlOF2NmGMTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ433LfYE3nDkRLlOF2NmGMTU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:17:42"
+  }
+]

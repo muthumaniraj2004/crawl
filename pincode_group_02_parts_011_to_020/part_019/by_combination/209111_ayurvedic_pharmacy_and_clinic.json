@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manzar dawakhana",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Alternative Medicine Clinic, Pharmacy",
+    "pincode": "209111",
+    "phone_number": "+91 92120 75178",
+    "website": "http://manzardawakhana.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D- 54 Main yamuna vihar road north Ghonda, near by noor ilahi, chowk, Delhi, New Delhi, Delhi 110053",
+    "area": "Block C, chowk",
+    "latitude": 28.6930409,
+    "longitude": 77.270731,
+    "place_id": "ChIJ17PNs9D9DDkRnpMtUVI4K1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17PNs9D9DDkRnpMtUVI4K1M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:37:58"
+  },
+  {
+    "business_name": "Paramanand Ayurveda Private Limited",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Drug store, Herbal medicine store",
+    "pincode": "209111",
+    "phone_number": "+91 99900 04674",
+    "website": "https://paramanandayurveda.com/",
+    "rating": 4.7,
+    "reviews_count": 134,
+    "address": "RZ-2, KH NO 478, GOPAL NAGAR A BLOCK, MAIN DHANSA ROAD, Najafgarh, Delhi, 110043",
+    "area": "Gopal Nagar Extension, Najafgarh",
+    "latitude": 28.6107496,
+    "longitude": 76.9726901,
+    "place_id": "ChIJ6acfFKYPDTkRn_qIstIu6_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6acfFKYPDTkRn_qIstIu6_4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:38:00"
+  }
+]

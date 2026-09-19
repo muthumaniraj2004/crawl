@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "208013",
+    "phone_number": "+91 91698 24049",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "315, Aara Machine Rd, Gopal Nagar, Deoki Nagar, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Gopal Nagar, Deoki Nagar, Yashoda Nagar",
+    "latitude": 26.409529,
+    "longitude": 80.3450101,
+    "place_id": "ChIJCRJzwMJGnDkRUI0hhPslEMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRJzwMJGnDkRUI0hhPslEMA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:54"
+  },
+  {
+    "business_name": "New Amar Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "208013",
+    "phone_number": "+91 87870 92004",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "118/410, Kaushalpuri, Gumti No. 5, Kanpur, Uttar Pradesh 208012",
+    "area": "Kaushalpuri, Gumti No. 5",
+    "latitude": 26.4657579,
+    "longitude": 80.3128306,
+    "place_id": "ChIJ571kmoJHnDkRdp8hEkLEqas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ571kmoJHnDkRdp8hEkLEqas",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:57"
+  }
+]

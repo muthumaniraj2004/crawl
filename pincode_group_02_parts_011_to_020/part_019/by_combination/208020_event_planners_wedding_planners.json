@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohii Decoration & Events Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "208020",
+    "phone_number": "+91 80525 25242",
+    "website": "https://mohiidecorations.odoo.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Capital Vihar, Partappur Sarsai, Kanpur, Uttar Pradesh 209305",
+    "area": "208020",
+    "latitude": 26.429026,
+    "longitude": 80.25923139999999,
+    "place_id": "ChIJ6UAWzkybPWERvSqKR4kodCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UAWzkybPWERvSqKR4kodCI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:18:39"
+  },
+  {
+    "business_name": "Krishna Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "208020",
+    "phone_number": "N/A",
+    "website": "https://krishna-events.grexa.site/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "H 95, H-Block, Gujaini, Kanpur, Uttar Pradesh 208022",
+    "area": "H-Block, Gujaini",
+    "latitude": 26.441456,
+    "longitude": 80.2699868,
+    "place_id": "ChIJ5-zVndRJnDkRmtii8uTxKAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-zVndRJnDkRmtii8uTxKAI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:18:40"
+  }
+]

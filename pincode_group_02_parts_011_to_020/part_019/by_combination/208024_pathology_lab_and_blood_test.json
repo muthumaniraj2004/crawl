@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Labs - Best Diagnostics Centre in Kanpur",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Doctor, Emergency care service, Hospital department",
+    "pincode": "208024",
+    "phone_number": "+91 78350 71979",
+    "website": "https://www.parashospitals.com/kanpur/book-a-test",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chaitanya vihar, Plot no 01, Indira Nagar, Makri khera, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "area": "Indira Nagar, Makri khera, Kalyanpur",
+    "latitude": 26.5090151,
+    "longitude": 80.264191,
+    "place_id": "ChIJVUBqy303nDkRt-aAG4Cyjm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUBqy303nDkRt-aAG4Cyjm4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:27:00"
+  },
+  {
+    "business_name": "Paliwal Dr Lal PathLabs - Indira Nagar Collection Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "208024",
+    "phone_number": "+91 98391 79074",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "14 Rajendr Vihar, Indira Nagar, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "area": "Indira Nagar, Bairy, Kalyanpur",
+    "latitude": 26.513438999999998,
+    "longitude": 80.2624675,
+    "place_id": "ChIJW8Xksnc3nDkRuXxillrvsxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8Xksnc3nDkRuXxillrvsxI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:27:00"
+  }
+]

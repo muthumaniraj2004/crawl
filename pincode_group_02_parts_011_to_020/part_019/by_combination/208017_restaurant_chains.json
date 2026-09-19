@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big Smokin Burgers",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Hamburger restaurant",
+    "pincode": "208017",
+    "phone_number": "+91 89602 62727",
+    "website": "http://zoma.to/r/21240259",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "120/868-B, Near Marium School, Ranjeet Nagar, Lajpat Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Near Marium School, Ranjeet Nagar, Lajpat Nagar",
+    "latitude": 26.4680371,
+    "longitude": 80.303838,
+    "place_id": "ChIJzfr0iwA5nDkRagtjKBHgUXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfr0iwA5nDkRagtjKBHgUXg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:17"
+  },
+  {
+    "business_name": "Madhuban Masti Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "208017",
+    "phone_number": "+91 87651 74218",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Navsheel Dham, Shopping Complex, 11 & 12, Bithoor Rd, Newshildham, Kalyanpur, Kanpur, Gangpur Kachhar, Uttar Pradesh 208017",
+    "area": "Newshildham, Kalyanpur",
+    "latitude": 26.5198298,
+    "longitude": 80.25812069999999,
+    "place_id": "ChIJle4si3I3nDkRGGozUvIMcbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJle4si3I3nDkRGGozUvIMcbk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Paridhan Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "208022",
+    "phone_number": "+91 70809 26674",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 58, Christmas, Wali Gali, Dabouli-1, Dabauli, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Dabouli-1, Dabauli, Ratan Lal Nagar",
+    "latitude": 26.4442164,
+    "longitude": 80.2852091,
+    "place_id": "ChIJJfk82ilHnDkRt77XDZG3qxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfk82ilHnDkRt77XDZG3qxU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:26"
+  },
+  {
+    "business_name": "Survanchala Boutique & General Store",
+    "search_category": "Boutiques",
+    "primary_category": "General store",
+    "all_categories": "General store, Boutique",
+    "pincode": "208022",
+    "phone_number": "+91 88409 81171",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "SB 27, near Gurudwara, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Neemeshwar MahaMandir Society, Ratan Lal Nagar",
+    "latitude": 26.447489599999997,
+    "longitude": 80.2853162,
+    "place_id": "ChIJRZ_wFR5HnDkRByjPY2jIvD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZ_wFR5HnDkRByjPY2jIvD8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:26"
+  }
+]

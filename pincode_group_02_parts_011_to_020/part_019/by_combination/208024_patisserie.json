@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Model Bakery | Vikas Nagar",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "208024",
+    "phone_number": "+91 77060 59111",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 68,
+    "address": "123-A, Zoo Rd, Vikas Nagar, Khyora, Kanpur, Uttar Pradesh 208024",
+    "area": "Vikas Nagar, Khyora",
+    "latitude": 26.492911199999998,
+    "longitude": 80.2861738,
+    "place_id": "ChIJS_goODs4nDkRa846WOFOROU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_goODs4nDkRa846WOFOROU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:26:33"
+  },
+  {
+    "business_name": "Gaunita Cravings",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cafe, Chinese restaurant, Fast food restaurant, Pasta shop, Pizza restaurant",
+    "pincode": "208024",
+    "phone_number": "+91 91940 08261",
+    "website": "https://cravings.gaunita.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "21-D, Gaunita Cravings, Makdikhera, Kanpur, Uttar Pradesh 208017",
+    "area": "Makdikhera, Khyora",
+    "latitude": 26.5051252,
+    "longitude": 80.2810822,
+    "place_id": "ChIJ30A29-o5nDkRmPSwjvK_AGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30A29-o5nDkRmPSwjvK_AGo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:26:35"
+  }
+]

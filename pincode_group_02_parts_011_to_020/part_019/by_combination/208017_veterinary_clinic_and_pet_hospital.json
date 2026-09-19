@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KD PET CLINIC (General Physician & Surgeon)",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "208017",
+    "phone_number": "+91 70073 74302",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arazi No. 821, Shatabdi nagar phase 2, Plot No. 1, Kanpur, Bahera, Uttar Pradesh 208020",
+    "area": "208017",
+    "latitude": 26.4767764,
+    "longitude": 80.2194402,
+    "place_id": "ChIJg8EMtjw3nDkRhj35drxNlf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8EMtjw3nDkRhj35drxNlf8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:36"
+  },
+  {
+    "business_name": "Pet Well Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "208017",
+    "phone_number": "+91 70072 36667",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "61, Ganesh Shankar Vidhyarthi Nagar, near Primary Health Centre, C Block, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "C Block, Panki",
+    "latitude": 26.464410599999997,
+    "longitude": 80.2284217,
+    "place_id": "ChIJb3VjgAk3nDkR0iGSVFtTqN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3VjgAk3nDkR0iGSVFtTqN0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:39"
+  }
+]

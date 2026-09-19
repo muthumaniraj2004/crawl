@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YOUR BOOKSPOT",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "208023",
+    "phone_number": "+91 88608 22191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "South X Mall, M Block, Marble Market, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "M Block, Marble Market, Kidwai Nagar",
+    "latitude": 26.4378863,
+    "longitude": 80.33583139999999,
+    "place_id": "ChIJKfHx5_FHnDkRwMLewTZHLE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfHx5_FHnDkRwMLewTZHLE8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:25:40"
+  },
+  {
+    "business_name": "Dehli Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "208023",
+    "phone_number": "+91 93354 81806",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "G74V+2C7 Shanneshwar Market Near canara bank vikas nagar branch, Nawabganj, Khyora, Kanpur, Uttar Pradesh 208017",
+    "area": "Nawabganj, Khyora",
+    "latitude": 26.505062499999998,
+    "longitude": 80.2935625,
+    "place_id": "ChIJFUoBH_o5nDkRfW6ritxE9rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUoBH_o5nDkRfW6ritxE9rU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:25:43"
+  }
+]

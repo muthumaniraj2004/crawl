@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Shubham Bhojnalay",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "208014",
+    "phone_number": "+91 94512 84870",
+    "website": "https://www.instagram.com/new_shubham_bhojnalaya?igsi=ejE1cm4wbjFka3px",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No. 3, Palika Market, Gaushala Rd, Juhi Lal Colony, Juhi Kalan, Juhi, Kanpur, Uttar Pradesh 208014",
+    "area": "Juhi Lal Colony, Juhi Kalan, Juhi",
+    "latitude": 26.4404164,
+    "longitude": 80.312361,
+    "place_id": "ChIJTbGV1KJHnDkRSqESRhfHl5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbGV1KJHnDkRSqESRhfHl5I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:06:32"
+  },
+  {
+    "business_name": "Domino's Pizza | Saket Nagar Kanpur",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "208014",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 4,
+    "reviews_count": 3540,
+    "address": "Ground Floor, Dominos Pizza, Plot N, Barra Bypass Rd, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "Juhi Kalan, Saket Nagar",
+    "latitude": 26.440732999999998,
+    "longitude": 80.309039,
+    "place_id": "ChIJP-uUvF9HnDkRW0E43wz70T8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-uUvF9HnDkRW0E43wz70T8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:06:32"
+  }
+]

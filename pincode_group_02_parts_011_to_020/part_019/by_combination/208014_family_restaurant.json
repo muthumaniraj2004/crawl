@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "चौधरी भोजनालय",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "208014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Plot no 620C, Hamirpur Rd, W Block, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "W Block, Juhi Kalan, Saket Nagar",
+    "latitude": 26.4223271,
+    "longitude": 80.3191744,
+    "place_id": "ChIJ42DZNQBHnDkRe7IW2qYZ3oM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42DZNQBHnDkRe7IW2qYZ3oM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:06:36"
+  },
+  {
+    "business_name": "TaBle Talk restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant, Fast food restaurant, Modern Indian restaurant",
+    "pincode": "208014",
+    "phone_number": "+91 63885 19885",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "127/223, W-1, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "W-1, Juhi Kalan, Saket Nagar",
+    "latitude": 26.433918199999997,
+    "longitude": 80.30913009999999,
+    "place_id": "ChIJuT4IaANHnDkR_DX9vRQJT_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuT4IaANHnDkR_DX9vRQJT_g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:06:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Quadri Traders",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "209112",
+    "phone_number": "+91 63925 15307",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4P9W+2PH, Kalpi, Uttar Pradesh 285204",
+    "area": "209112",
+    "latitude": 26.117561,
+    "longitude": 79.7468724,
+    "place_id": "ChIJ1xNpMcuhnTkRb2HAGcL9Rhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xNpMcuhnTkRb2HAGcL9Rhs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:35"
+  },
+  {
+    "business_name": "Shri Maa Kripa Fruit Company",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "209112",
+    "phone_number": "+91 81276 61225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-42 Chakarpur Mandi, Kanpur, Uttar Pradesh 209305",
+    "area": "209112",
+    "latitude": 26.4382767,
+    "longitude": 80.1828907,
+    "place_id": "ChIJg4w0xUZLnDkRO4qSXkdX68k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4w0xUZLnDkRO4qSXkdX68k",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:38"
+  }
+]

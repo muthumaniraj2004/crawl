@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CR Software Solutions",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment, Marketing agency, Website designer, Web hosting company",
+    "pincode": "209203",
+    "phone_number": "N/A",
+    "website": "https://crsoftware.tech/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CR Software Solutions, 209203, India",
+    "area": "209203",
+    "latitude": 42.4234434,
+    "longitude": -83.35499539999999,
+    "place_id": "ChIJg6H8t_5TO4gRTrGeNobBtmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6H8t_5TO4gRTrGeNobBtmw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:51:38"
+  },
+  {
+    "business_name": "DiTec Solutions",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer consultant, Computer networking service, Computer repair service, Computer security service, Computer support and services, Service establishment, Web hosting company, Website designer",
+    "pincode": "209203",
+    "phone_number": "N/A",
+    "website": "https://www.ditecsolutions.co/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DiTec Solutions, 209203, India",
+    "area": "209203",
+    "latitude": 9.374110199999999,
+    "longitude": -137.9754085,
+    "place_id": "ChIJx6-7cQRR7i4RDcE9c_Vo34Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6-7cQRR7i4RDcE9c_Vo34Y",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:51:38"
+  }
+]

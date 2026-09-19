@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakhi Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "208022",
+    "phone_number": "+91 83036 49419",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Mig 784 B, Barra 8, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra 8, Barra",
+    "latitude": 26.43008,
+    "longitude": 80.29441659999999,
+    "place_id": "ChIJrQMznk1HnDkRug8LZ7BFRUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQMznk1HnDkRug8LZ7BFRUE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:16"
+  },
+  {
+    "business_name": "Minakshi Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "208022",
+    "phone_number": "+91 98386 96462",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Barra 5 Rd, near Daroga Guest House, Janta Nagar, Neemeshwar MahaMandir Society, Barra-3, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Janta Nagar, Neemeshwar MahaMandir Society, Barra-3, Barra",
+    "latitude": 26.4409532,
+    "longitude": 80.2953988,
+    "place_id": "ChIJKUNguMFHnDkRyXCoH18oS5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUNguMFHnDkRyXCoH18oS5E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:19"
+  }
+]

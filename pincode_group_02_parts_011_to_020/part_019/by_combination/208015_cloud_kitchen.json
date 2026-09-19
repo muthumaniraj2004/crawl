@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Classic kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "208015",
+    "phone_number": "+91 95602 74118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Mangla Vihar 2, Daheli Sujanpur, Kanpur, Uttar Pradesh 208015",
+    "area": "Mangla Vihar 2, Daheli Sujanpur",
+    "latitude": 26.402218599999998,
+    "longitude": 80.37655459999999,
+    "place_id": "ChIJGRNOIspBnDkRTgoDd6rVEz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRNOIspBnDkRTgoDd6rVEz8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:08:48"
+  },
+  {
+    "business_name": "Koaan - The Foodie Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "208015",
+    "phone_number": "+91 70070 40983",
+    "website": "https://www.instagram.com/koaan.thefoodiekitchen?igsh=MWU4ZWM2d2Y0N2NkMQ==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H/No. 538, Old Post Office Lane, Block C, Shyam Nagar, Kanpur, Uttar Pradesh 208013",
+    "area": "Block C, Shyam Nagar",
+    "latitude": 26.4217163,
+    "longitude": 80.3656239,
+    "place_id": "ChIJGzh45QBHnDkRTQ3c-DxkBFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzh45QBHnDkRTQ3c-DxkBFQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:08:49"
+  }
+]

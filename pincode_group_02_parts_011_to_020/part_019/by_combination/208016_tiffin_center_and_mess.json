@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSE Canteen",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "208016",
+    "phone_number": "N/A",
+    "website": "http://www.iitk.ac.in/cc",
+    "rating": 3.4,
+    "reviews_count": 303,
+    "address": "G67M+PMV, Nankari, IIT, Kanpur, Uttar Pradesh 208016",
+    "area": "Nankari, IIT",
+    "latitude": 26.514356199999998,
+    "longitude": 80.2341716,
+    "place_id": "ChIJ_6c9igE3nDkRLFY5DJKmQQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6c9igE3nDkRLFY5DJKmQQQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:10:57"
+  },
+  {
+    "business_name": "Jaat tiffin Service, iit society",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "208016",
+    "phone_number": "+91 94508 67694",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hig -91, IIT Society Rd, Gooba Gardens, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Gooba Gardens, Kalyanpur",
+    "latitude": 26.5053795,
+    "longitude": 80.2418283,
+    "place_id": "ChIJr3hipaU3nDkR-gbzq-b8EGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3hipaU3nDkR-gbzq-b8EGc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:10:59"
+  }
+]

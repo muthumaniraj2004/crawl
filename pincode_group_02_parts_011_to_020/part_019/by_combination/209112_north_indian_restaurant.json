@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aastha Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209112",
+    "phone_number": "+91 63947 59004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 137,
+    "address": "Usargaon, NH-25, Kanpur Mumbai Highway, Kalpi, Uttar Pradesh 285202",
+    "area": "209112",
+    "latitude": 26.0795705,
+    "longitude": 79.6669024,
+    "place_id": "ChIJObsM026enTkRuXj0yUqvAX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObsM026enTkRuXj0yUqvAX8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:45"
+  },
+  {
+    "business_name": "Bhadavar Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 107,
+    "address": "Jolhupur Mod, Jalaun, NH-25, Kanpur Jhansi Highway, Jalaun, Jalaun, Uttar Pradesh 285204",
+    "area": "209112",
+    "latitude": 26.0993501,
+    "longitude": 79.7058978,
+    "place_id": "ChIJk2v12wefnTkR0qltwVA3hjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2v12wefnTkR0qltwVA3hjA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:45"
+  }
+]

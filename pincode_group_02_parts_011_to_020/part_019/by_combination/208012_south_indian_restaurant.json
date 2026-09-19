@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MADRAS CAFE मद्रास कैफे",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "208012",
+    "phone_number": "+91 99363 36196",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Bus Stop, Virendra Swaroop School, Khalasi Line, Kanpur, Uttar Pradesh 208002",
+    "area": "Khalasi Line, Permat",
+    "latitude": 26.482882099999998,
+    "longitude": 80.3278953,
+    "place_id": "ChIJ-VCfk3s5nDkRnrCXO7o4B6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VCfk3s5nDkRnrCXO7o4B6U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:02:00"
+  },
+  {
+    "business_name": "New Food Carnival",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "208012",
+    "phone_number": "+91 93891 93219",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Guru Govind Singh Chowk, 118/571, Gumti No.5, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Gumti No.5, Kaushalpuri, Darshan Purwa",
+    "latitude": 26.4684061,
+    "longitude": 80.31531439999999,
+    "place_id": "ChIJrTxuxvA5nDkRRTaNjQrtSi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTxuxvA5nDkRRTaNjQrtSi4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:02:02"
+  }
+]

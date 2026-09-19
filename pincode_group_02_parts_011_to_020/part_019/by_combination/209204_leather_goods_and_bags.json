@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Polo International",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer",
+    "pincode": "209204",
+    "phone_number": "+91 99188 88118",
+    "website": "http://polointernational.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "98/157, Becon Ganj, Colonelganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Becon Ganj, Colonelganj",
+    "latitude": 26.4697867,
+    "longitude": 80.3401785,
+    "place_id": "ChIJISCbnVpHnDkReZOByRJr8x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISCbnVpHnDkReZOByRJr8x8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:52:06"
+  },
+  {
+    "business_name": "Kanpur Leather",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "209204",
+    "phone_number": "+91 98371 76161",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "FMCW+QF8, Nabab Ganj, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Nabab Ganj",
+    "latitude": 29.4719208,
+    "longitude": 77.6962171,
+    "place_id": "ChIJf1XACJ8bDDkR5s_QH28FE-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1XACJ8bDDkR5s_QH28FE-w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:52:08"
+  }
+]

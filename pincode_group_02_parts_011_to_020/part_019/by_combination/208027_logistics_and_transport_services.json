@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D.R.Carrying Corporation",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "208027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vasant Vihar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Vasant Vihar, Naubasta",
+    "latitude": 26.420932699999998,
+    "longitude": 80.31575389999999,
+    "place_id": "ChIJ01qptRFHnDkRla1hDmFSOI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01qptRFHnDkRla1hDmFSOI8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:33:52"
+  },
+  {
+    "business_name": "Ojha Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "208027",
+    "phone_number": "N/A",
+    "website": "http://ojhatransportcompany.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C8F8+XX3, Keshav Nagar, W Block, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "Keshav Nagar, W Block, Juhi Kalan, Saket Nagar",
+    "latitude": 26.424881799999998,
+    "longitude": 80.31743639999999,
+    "place_id": "ChIJ34Ylv6tHnDkRt5lZn6FEBuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34Ylv6tHnDkRt5lZn6FEBuU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:33:52"
+  }
+]

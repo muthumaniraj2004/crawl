@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahrukh Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery store",
+    "pincode": "208013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "9/20, Bakarmandi, Colonelganj, Kanpur, Uttar Pradesh 208002",
+    "area": "Bakarmandi, Colonelganj",
+    "latitude": 26.4751597,
+    "longitude": 80.33193,
+    "place_id": "ChIJJy9wExo5nDkRST6HumTpCnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy9wExo5nDkRST6HumTpCnE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:09"
+  },
+  {
+    "business_name": "Pandit Paan Shop Patel Nagar Kanpur",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "208013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patel Nagar, Ramadevi, Jajmau Sub Metro City, Kanpur, Uttar Pradesh 208007",
+    "area": "Ramadevi, Jajmau Sub Metro City",
+    "latitude": 26.411589499999998,
+    "longitude": 80.3863752,
+    "place_id": "ChIJsclF6S1BnDkRVAfReOabat4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsclF6S1BnDkRVAfReOabat4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:11"
+  }
+]

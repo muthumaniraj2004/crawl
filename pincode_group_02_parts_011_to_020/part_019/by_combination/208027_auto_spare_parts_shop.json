@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Car dealer",
+    "pincode": "208027",
+    "phone_number": "+91 94501 44420",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "28, Barra Bypass Rd, Damodar Nagar, Kanpur, Uttar Pradesh 208027",
+    "area": "Damodar Nagar",
+    "latitude": 26.4250802,
+    "longitude": 80.3105609,
+    "place_id": "ChIJ05RQHrJHnDkRxYeKgJQ2nJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05RQHrJHnDkRxYeKgJQ2nJw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:33:43"
+  },
+  {
+    "business_name": "Sahu Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "208027",
+    "phone_number": "+91 83170 68762",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "25A, Damodar Nagar, Kanpur, Uttar Pradesh 208027",
+    "area": "Damodar Nagar",
+    "latitude": 26.4223295,
+    "longitude": 80.3077153,
+    "place_id": "ChIJ4R0gaLFHnDkR8MK4ZlBbO3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4R0gaLFHnDkR8MK4ZlBbO3A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:33:45"
+  }
+]

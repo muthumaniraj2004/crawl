@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Up Car",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Car stereo store",
+    "all_categories": "Car stereo store, Car repair and maintenance service",
+    "pincode": "208025",
+    "phone_number": "+91 98892 75316",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "9/45, Mall Rd , Benajhabar Road, Idgah Chauraha, Brahm Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Idgah Chauraha, Brahm Nagar, Harsh Nagar",
+    "latitude": 26.4751466,
+    "longitude": 80.32608499999999,
+    "place_id": "ChIJ571kmoJHnDkRgcxZCZgZRHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ571kmoJHnDkRgcxZCZgZRHQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:24"
+  },
+  {
+    "business_name": "Custom Services | 24-Hour Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "208025",
+    "phone_number": "N/A",
+    "website": "https://customservicestowing.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "504 Gameland Rd, Polk, PA 16342, United States",
+    "area": "208025",
+    "latitude": 41.2474634,
+    "longitude": -79.9581508,
+    "place_id": "ChIJcU_wQSemAo8R9-6nk4vp3dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcU_wQSemAo8R9-6nk4vp3dw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:26"
+  }
+]

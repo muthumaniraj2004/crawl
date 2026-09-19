@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Pratap Motors Body Shop",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "208015",
+    "phone_number": "+91 98397 06072",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shree Ram Nagri, Lines, PAC Rd, Kanpur, Uttar Pradesh 208013",
+    "area": "Krishna Nagar",
+    "latitude": 26.414942,
+    "longitude": 80.372091,
+    "place_id": "ChIJ-aK3ei5BnDkRYLz-JqeOrP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aK3ei5BnDkRYLz-JqeOrP8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:24"
+  },
+  {
+    "business_name": "Arshad paintar",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "208015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Trimurti Mandir, Main St, near touras hospital bagal, Ramadevi, Lal Bungalow, Krishna Nagar, Kanpur, Uttar Pradesh 208007",
+    "area": "Ramadevi, Lal Bungalow, Krishna Nagar",
+    "latitude": 26.413444799999997,
+    "longitude": 80.3837518,
+    "place_id": "ChIJ0S-KPElBnDkRI57U35o3oNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S-KPElBnDkRI57U35o3oNs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:24"
+  }
+]

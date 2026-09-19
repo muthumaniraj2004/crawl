@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai And Chilli",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "208024",
+    "phone_number": "+91 81770 18838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indrapuri Road, Sharda Nagar, Kanpur, Uttar Pradesh 208019",
+    "area": "Sharda Nagar",
+    "latitude": 26.4845008,
+    "longitude": 80.28078529999999,
+    "place_id": "ChIJgXqxQ5Y5nDkRR2ALZwIlzUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXqxQ5Y5nDkRR2ALZwIlzUs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:26:37"
+  },
+  {
+    "business_name": "Shree Radha Rasoi & Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Vegetarian restaurant, Juice shop, Lunch restaurant",
+    "pincode": "208024",
+    "phone_number": "+91 99560 89406",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "117/P-1/394, Namak Factory Chauraha, Chhapeda Pulia, Shivpuri, Chapeda, Kakadeo, Kanpur, Uttar Pradesh 208019",
+    "area": "Namak Factory Chauraha, Chhapeda Pulia, Shivpuri, Chapeda, Kakadeo",
+    "latitude": 26.480287699999998,
+    "longitude": 80.28525599999999,
+    "place_id": "ChIJHQeUOAA5nDkRZMVkw0u61rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQeUOAA5nDkRZMVkw0u61rQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:26:37"
+  }
+]

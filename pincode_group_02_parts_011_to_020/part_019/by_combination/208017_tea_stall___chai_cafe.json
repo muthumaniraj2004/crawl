@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Ka Chakkar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Tea store",
+    "pincode": "208017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Shop No. 9, 5, Panki Station Rd, E Block, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "E Block, Panki",
+    "latitude": 26.4605568,
+    "longitude": 80.24008649999999,
+    "place_id": "ChIJ_3CLbiNJnDkRMVBonQjQ7lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3CLbiNJnDkRMVBonQjQ7lQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:03"
+  },
+  {
+    "business_name": "Tealogy - Yaar Mera Kulhad",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "208017",
+    "phone_number": "+91 79853 99662",
+    "website": "https://www.tealogy.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "HP PUMP- City Fuel Centre, Metro Station, near CSJM University Under Vishwavidyalaya, Kanpur University, Kanpur, Uttar Pradesh 208024",
+    "area": "Kanpur University",
+    "latitude": 26.4965683,
+    "longitude": 80.2679928,
+    "place_id": "ChIJiwUA0VQ3nDkRE0_QmiRp4zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwUA0VQ3nDkRE0_QmiRp4zk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:06"
+  }
+]

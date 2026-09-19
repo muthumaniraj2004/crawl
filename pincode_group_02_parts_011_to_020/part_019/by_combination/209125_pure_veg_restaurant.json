@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankita Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209125",
+    "phone_number": "+91 99352 78963",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 209,
+    "address": "HP5M+P23, in front of NeemJhal, Rail Bazar, Jhinjhak, Uttar Pradesh 209302",
+    "area": "Rail Bazar",
+    "latitude": 26.559274799999997,
+    "longitude": 79.7325475,
+    "place_id": "ChIJZ8lhbNHpnTkR_EueVWecf48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8lhbNHpnTkR_EueVWecf48",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:45:50"
+  },
+  {
+    "business_name": "Green Garlic Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "209125",
+    "phone_number": "+91 92193 85650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Rajpur Rd, Chauraha, Hariharpur, Sikandra, Uttar Pradesh 209125",
+    "area": "Chauraha",
+    "latitude": 26.362736599999998,
+    "longitude": 79.6303607,
+    "place_id": "ChIJh6jByXSTnTkRkWqOu3eE41w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6jByXSTnTkRkWqOu3eE41w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:45:50"
+  }
+]

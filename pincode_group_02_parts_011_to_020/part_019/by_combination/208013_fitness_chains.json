@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diwan's Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "208013",
+    "phone_number": "+91 96963 53137",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 42,
+    "address": "Plot No. 12, near National Public School, Gopal Nagar, Jawaharpuram, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Gopal Nagar, Jawaharpuram, Yashoda Nagar",
+    "latitude": 26.410564299999997,
+    "longitude": 80.34573209999999,
+    "place_id": "ChIJbxiFlDJBnDkRe30x7xdMTSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxiFlDJBnDkRe30x7xdMTSs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:47"
+  },
+  {
+    "business_name": "Virat sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sports complex",
+    "all_categories": "Sports complex",
+    "pincode": "208013",
+    "phone_number": "+91 79876 29793",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "E 147, front of KDMA, E Block, Barra 8, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "E Block, Barra 8, Barra",
+    "latitude": 26.432366,
+    "longitude": 80.2856904,
+    "place_id": "ChIJQ9uLJkxHnDkR26NgbxT0aCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9uLJkxHnDkR26NgbxT0aCs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:49"
+  }
+]

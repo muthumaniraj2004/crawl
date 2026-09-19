@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Fast food restaurant, Indian restaurant, Biryani restaurant, Restaurant",
+    "pincode": "208017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "2nd floor, Rave Moti Mall, Rawatpur Main Rd, Moti Vihar Society, Rawat Pur, Kanpur, Uttar Pradesh 208025",
+    "area": "Moti Vihar Society, Rawat Pur",
+    "latitude": 26.481599499999998,
+    "longitude": 80.2998823,
+    "place_id": "ChIJWUmL2mw4nDkR2BbL1k44Pmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUmL2mw4nDkR2BbL1k44Pmg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:09"
+  },
+  {
+    "business_name": "Badnam Biryani - First Frenchise Outlet",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "208017",
+    "phone_number": "+91 92357 06251",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "46, Kaisavpuram, I/2, Keshav Vatika Rd, Awas Vikas 1, Kalyanpur, Kanpur, Uttar Pradesh 208024",
+    "area": "Awas Vikas 1, Kalyanpur",
+    "latitude": 26.489117999999998,
+    "longitude": 80.26485129999999,
+    "place_id": "ChIJuQQOeeo3nDkReVaRCKGKRA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQQOeeo3nDkReVaRCKGKRA8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:09"
+  }
+]

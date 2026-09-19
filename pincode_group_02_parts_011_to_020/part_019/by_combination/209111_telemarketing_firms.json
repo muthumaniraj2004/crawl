@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "209111",
+    "phone_number": "+91 63895 91475",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patel Nagar, Pukhrayan, Uttar Pradesh 209111",
+    "area": "Patel Nagar",
+    "latitude": 26.2266671,
+    "longitude": 79.8380778,
+    "place_id": "ChIJ_UMyRVilnTkRDY1IzO2krsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UMyRVilnTkRDY1IzO2krsk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:26"
+  },
+  {
+    "business_name": "Business consultant",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "209111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "106 Jallapur gaur, Pukhrayan, Uttar Pradesh 209112",
+    "area": "209111",
+    "latitude": 26.1629494,
+    "longitude": 79.8638084,
+    "place_id": "ChIJv-ryX2mlnTkRC279eDktIcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-ryX2mlnTkRC279eDktIcE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:28"
+  }
+]

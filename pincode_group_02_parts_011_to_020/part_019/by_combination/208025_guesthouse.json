@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Collection O Hotel Mansa",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Bed & breakfast, Hotel, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "208025",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/105110",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "117/421, O Block, Tulsi Nagar, Geeta Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "O Block, Tulsi Nagar, Geeta Nagar, Kakadeo",
+    "latitude": 26.481758,
+    "longitude": 80.289305,
+    "place_id": "ChIJ_fm8gKc5nDkR7fVSaVetj60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fm8gKc5nDkR7fVSaVetj60",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:54"
+  },
+  {
+    "business_name": "Townhouse 1153 Hotel Ks Grand",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Bed & breakfast, Hotel, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "208025",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/194234/?utm_source=Google&utm_medium=GMB",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Geeta Nagar Crossing Rd, Geeta Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Geeta Nagar, Kakadeo",
+    "latitude": 26.4834078,
+    "longitude": 80.29344569999999,
+    "place_id": "ChIJbyBtD2g5nDkRoMRfLC78ttQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyBtD2g5nDkRoMRfLC78ttQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:54"
+  }
+]

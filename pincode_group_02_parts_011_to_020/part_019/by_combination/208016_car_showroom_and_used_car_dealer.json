@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto adda",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "208016",
+    "phone_number": "+91 91298 94540",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "COM 1, Auto adda Shop No. 19, Plot No. 6, 2, Ambedkarpuram, Scheme No. 3, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Ambedkarpuram, Scheme No. 3, Kalyanpur",
+    "latitude": 26.488049699999998,
+    "longitude": 80.2468318,
+    "place_id": "ChIJk9caffE3nDkRx4jfJdR6Phk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9caffE3nDkRx4jfJdR6Phk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:11:28"
+  },
+  {
+    "business_name": "Cars2cars | Used Car Dealer in Kanpur | Used Car Buyer in Kanpur",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "208016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "Phase 1, L-19/20, Awas Vikas Keshav Puram, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas Keshav Puram, Kalyanpur",
+    "latitude": 26.492635,
+    "longitude": 80.24896199999999,
+    "place_id": "ChIJYVo_T9Y3nDkRwB15W56LSsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVo_T9Y3nDkRwB15W56LSsI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:11:28"
+  }
+]

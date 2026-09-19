@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Earth logistics & transportation",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "209121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "84RM+Q5V, Unnamed Road, Lohari, Uttar Pradesh 209121",
+    "area": "209121",
+    "latitude": 26.341977399999998,
+    "longitude": 80.1329272,
+    "place_id": "ChIJuT6HqjhNnDkRB2Py0nRg_uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuT6HqjhNnDkRB2Py0nRg_uE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:44:27"
+  },
+  {
+    "business_name": "ITC Logistics Solutions",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "209121",
+    "phone_number": "+91 93386 47289",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Inside Chakarpur mandi Chakarpur, Uttar Pradesh 209305",
+    "area": "209121",
+    "latitude": 26.4522572,
+    "longitude": 80.1819268,
+    "place_id": "ChIJo9OwX1VLnDkRhwx8HUdUwQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9OwX1VLnDkRhwx8HUdUwQ8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:44:27"
+  }
+]

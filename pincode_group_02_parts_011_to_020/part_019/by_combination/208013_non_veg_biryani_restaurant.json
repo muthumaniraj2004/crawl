@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaika Corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "208013",
+    "phone_number": "+91 89579 39798",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 119,
+    "address": "Nai Basti, near Transformer, Sujatganj, Chandari, Shyam Nagar, Kanpur, Uttar Pradesh 208013",
+    "area": "Sujatganj, Chandari, Shyam Nagar",
+    "latitude": 26.430244,
+    "longitude": 80.35067339999999,
+    "place_id": "ChIJq0ws_gpHnDkRjLUAg3JJRTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0ws_gpHnDkRjLUAg3JJRTQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:12"
+  },
+  {
+    "business_name": "Gupta Mutton Corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "208013",
+    "phone_number": "+91 93898 72780",
+    "website": "https://www.swiggy.com/restaurants/gupta-mutton-corner-adarsh-nagar-ashok-nagar-harsh-nagar-kanpur-158334",
+    "rating": 3.9,
+    "reviews_count": 61,
+    "address": "71, 5, Sindhi Colony, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Sindhi Colony, Shastri Nagar",
+    "latitude": 26.4681499,
+    "longitude": 80.29934229999999,
+    "place_id": "ChIJBWPSCes5nDkRJ8PHqZN3eTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWPSCes5nDkRJ8PHqZN3eTY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:15"
+  }
+]

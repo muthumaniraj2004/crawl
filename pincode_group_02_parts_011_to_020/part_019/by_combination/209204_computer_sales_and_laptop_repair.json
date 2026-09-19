@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "209204",
+    "phone_number": "+91 70888 46744",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "000Rura Road, Road, Rura, Banipara Maharaj, Uttar Pradesh 209303",
+    "area": "Road",
+    "latitude": 26.530851,
+    "longitude": 79.88745,
+    "place_id": "ChIJPVEjS1LHnTkRA-_7KxZtMCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVEjS1LHnTkRA-_7KxZtMCY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:53:10"
+  },
+  {
+    "business_name": "Genius Point",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer networking service, Computer repair service, Computer software store, Store",
+    "pincode": "209204",
+    "phone_number": "+91 98390 31867",
+    "website": "https://v0-genius-point-website.vercel.app/",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "25/15, The Mall Rd, Near Sagar Market, Downtown, Kanpur, Uttar Pradesh 208001",
+    "area": "Near Sagar Market, Downtown",
+    "latitude": 26.461242,
+    "longitude": 80.35950199999999,
+    "place_id": "ChIJn6S8R1FHnDkR-XGcG6IzZUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6S8R1FHnDkR-XGcG6IzZUw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:53:11"
+  }
+]

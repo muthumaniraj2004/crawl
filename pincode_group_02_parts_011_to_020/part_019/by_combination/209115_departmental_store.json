@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shravan Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Indian grocery store",
+    "pincode": "209115",
+    "phone_number": "+91 90269 66996",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "318, Dehat, Sandalpur, Kanpur, Uttar Pradesh 209125",
+    "area": "Dehat",
+    "latitude": 26.4149866,
+    "longitude": 79.6735178,
+    "place_id": "ChIJr9MrfvqVnTkRhueJX1SNP9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9MrfvqVnTkRhueJX1SNP9I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:41:35"
+  },
+  {
+    "business_name": "Dinesh Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "209115",
+    "phone_number": "+91 83182 58247",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mungisapur, Mungisapur Rd, Uttar Pradesh 209301",
+    "area": "209115",
+    "latitude": 26.357882699999998,
+    "longitude": 79.780492,
+    "place_id": "ChIJvTPAIuG_nTkRUBjFOcuMqCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTPAIuG_nTkRUBjFOcuMqCY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:41:35"
+  }
+]

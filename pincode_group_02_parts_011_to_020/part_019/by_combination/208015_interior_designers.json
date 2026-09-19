@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Enterprises",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "208015",
+    "phone_number": "+91 82998 91201",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "170, By Pass Road, Mangla Vihar 2, Daheli Sujanpur, Kanpur, Uttar Pradesh 208015",
+    "area": "Mangla Vihar 2, Daheli Sujanpur",
+    "latitude": 26.401037,
+    "longitude": 80.3734156,
+    "place_id": "ChIJuauUJzZBnDkRwpJjPPyWo1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuauUJzZBnDkRwpJjPPyWo1Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:35"
+  },
+  {
+    "business_name": "Azila Interior Solutions",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "208015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "230, E Block, Block E, Shyam Nagar, Kanpur, Uttar Pradesh 208013",
+    "area": "Block E, Shyam Nagar",
+    "latitude": 26.414917199999998,
+    "longitude": 80.36661819999999,
+    "place_id": "ChIJs_m3vsVBnDkR-Zx7qxNEysg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_m3vsVBnDkR-Zx7qxNEysg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:39"
+  }
+]

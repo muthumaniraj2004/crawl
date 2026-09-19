@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electrician with plumber",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "209115",
+    "phone_number": "+91 99191 94129",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "pailawar, Rajpur, Pelawar, Uttar Pradesh 209115",
+    "area": "209115",
+    "latitude": 26.3140291,
+    "longitude": 79.6825161,
+    "place_id": "ChIJI65RabuXnTkRLrs2fmyqGpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI65RabuXnTkRLrs2fmyqGpc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:42:32"
+  },
+  {
+    "business_name": "Ravindra Pal",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FMJM+95R, Jaura, Uttar Pradesh 209310",
+    "area": "209115",
+    "latitude": 26.4809849,
+    "longitude": 79.68289949999999,
+    "place_id": "ChIJxeJoEADrnTkRc4JoYPTqSTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxeJoEADrnTkRc4JoYPTqSTQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:42:32"
+  }
+]

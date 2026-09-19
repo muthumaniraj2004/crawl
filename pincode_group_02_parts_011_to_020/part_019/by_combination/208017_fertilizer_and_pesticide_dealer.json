@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FarmerCare Fertilizers and Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agrochemicals Supplier",
+    "all_categories": "Agrochemicals Supplier",
+    "pincode": "208017",
+    "phone_number": "+91 77939 63000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, Banda Narsampally, Mulug, Telangana 502279",
+    "area": "208017",
+    "latitude": 17.7356087,
+    "longitude": 78.6387429,
+    "place_id": "ChIJ9-zGiIx_zDsRn35QTs1GXlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-zGiIx_zDsRn35QTs1GXlg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:14:57"
+  },
+  {
+    "business_name": "Geolife Authorised Dealer - Krishi Sahara- Kanpur Nagar",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Agricultural Product Wholesaler, Fertilizer Store, Agricultural Seed Store",
+    "pincode": "208017",
+    "phone_number": "+91 94525 22160",
+    "website": "https://www.geolife.com/dealer/uttar-pradesh/krishi-sahara-fertilizers-and-pesticides-kanpur-nagar.html",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "75/231, Dist, Sabji Mandi, Badshahi Naka, Barra, Kanpur, Agehra, Uttar Pradesh 209861",
+    "area": "Sabji Mandi, Badshahi Naka, Barra",
+    "latitude": 26.577527,
+    "longitude": 80.32763299999999,
+    "place_id": "ChIJj3oisiM7nDkRgqPHv7sHA28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3oisiM7nDkRgqPHv7sHA28",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:14:58"
+  }
+]

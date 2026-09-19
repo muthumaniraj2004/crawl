@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajput Bike Repairing",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "208014",
+    "phone_number": "+91 63079 59719",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Orient Hospital, Damodar Nagar, Kanpur, Uttar Pradesh 208027",
+    "area": "Damodar Nagar",
+    "latitude": 26.4252134,
+    "longitude": 80.3092563,
+    "place_id": "ChIJ3YdZCzRHnDkR-iUKTaOm7rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YdZCzRHnDkR-iUKTaOm7rw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:07:09"
+  },
+  {
+    "business_name": "Gupta Cycle Company, Kidwai Nagar, Kanpur",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "208014",
+    "phone_number": "+91 98390 60363",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "128/1, Kidwainagar Rd, Block F, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Block F, Kidwai Nagar",
+    "latitude": 26.4350284,
+    "longitude": 80.33039099999999,
+    "place_id": "ChIJaR6wvA9HnDkRfH47fj5Yr_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaR6wvA9HnDkRfH47fj5Yr_c",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:07:11"
+  }
+]

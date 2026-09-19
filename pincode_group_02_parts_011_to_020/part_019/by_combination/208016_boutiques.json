@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Payal Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Gift shop, Stationery store",
+    "pincode": "208016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near IIT, Nankari, Kalyanpur, Kanpur, Uttar Pradesh 208016",
+    "area": "Nankari, Kalyanpur",
+    "latitude": 26.514250699999998,
+    "longitude": 80.2210954,
+    "place_id": "ChIJ8ZE31ZM3nDkRjrk1luxZDoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZE31ZM3nDkRjrk1luxZDoM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:11:12"
+  },
+  {
+    "business_name": "Vaniya Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "208016",
+    "phone_number": "+91 94153 74760",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Post IIT, 346 Nankari, Kalyanpur, Kanpur, Uttar Pradesh 208016",
+    "area": "Nankari, Kalyanpur",
+    "latitude": 26.5148644,
+    "longitude": 80.2281057,
+    "place_id": "ChIJ6xpOk483nDkRCcvO0F0EWJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xpOk483nDkRCcvO0F0EWJM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:11:13"
+  }
+]

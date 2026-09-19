@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bombay Namkeen House",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "208026",
+    "phone_number": "+91 91402 94517",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 31,
+    "address": "128/100 A, B Block, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "B Block, Kidwai Nagar",
+    "latitude": 26.4297811,
+    "longitude": 80.3356287,
+    "place_id": "ChIJZUHSoxtHnDkRSteUMeIzARY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUHSoxtHnDkRSteUMeIzARY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:31:04"
+  },
+  {
+    "business_name": "Tripathi Farrukhabad Namkeen Bhandar",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "208026",
+    "phone_number": "+91 90448 66021",
+    "website": "https://tripathi-farrukhabad.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "124/B/131, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "Govind Nagar",
+    "latitude": 26.4493013,
+    "longitude": 80.3059164,
+    "place_id": "ChIJDQEiFe9HnDkRIY6MJxhmOxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQEiFe9HnDkRIY6MJxhmOxA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:31:04"
+  }
+]

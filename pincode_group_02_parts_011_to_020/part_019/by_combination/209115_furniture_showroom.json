@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HARSHIT ENTERPRISES",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture accessories supplier",
+    "all_categories": "Furniture accessories supplier",
+    "pincode": "209115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kairamau, Mugishapur, Uttar Pradesh 209301",
+    "area": "209115",
+    "latitude": 26.355529299999997,
+    "longitude": 79.78797879999999,
+    "place_id": "ChIJxbC5j4G_nTkR932YRieFUNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbC5j4G_nTkR932YRieFUNs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:42:38"
+  },
+  {
+    "business_name": "Janta Timber Mart",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Lodge",
+    "pincode": "209115",
+    "phone_number": "+91 97943 97641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sandalpur, Farhatpur, Uttar Pradesh 209125",
+    "area": "209115",
+    "latitude": 26.416090099999998,
+    "longitude": 79.6742767,
+    "place_id": "ChIJ_b4tvdKVnTkRbOWaVI97Aek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_b4tvdKVnTkRbOWaVI97Aek",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:42:39"
+  }
+]

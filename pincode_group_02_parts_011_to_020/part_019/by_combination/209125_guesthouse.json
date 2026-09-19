@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "209125",
+    "phone_number": "+91 84232 98578",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Sikandra, Unnamed Road, Gurdahi Bujurg, Uttar Pradesh 209125",
+    "area": "209125",
+    "latitude": 26.3636599,
+    "longitude": 79.63308769999999,
+    "place_id": "ChIJAT7pgZmTnTkRk4ifxNsuocY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAT7pgZmTnTkRk4ifxNsuocY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:46:54"
+  },
+  {
+    "business_name": "Shivaji Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "209125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9J7M+4M5, Sikandra, Uttar Pradesh 209125",
+    "area": "209125",
+    "latitude": 26.3627514,
+    "longitude": 79.6342446,
+    "place_id": "ChIJe_dOsfWTnTkRGaLskgU-Qlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_dOsfWTnTkRGaLskgU-Qlg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:46:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surendra Kumar",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "209101",
+    "phone_number": "+91 80814 46918",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mohanpur, Bhaupur, Kanpur, Uttar Pradesh 209304",
+    "area": "Mohanpur",
+    "latitude": 26.4677707,
+    "longitude": 80.1230587,
+    "place_id": "ChIJ9xDbbDc1nDkRMYbqJp9hBu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xDbbDc1nDkRMYbqJp9hBu0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:36:27"
+  },
+  {
+    "business_name": "Just Clean The Laundry Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "209101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ratanpur Colony, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Ratanpur Colony, Panki",
+    "latitude": 26.4808938,
+    "longitude": 80.224091,
+    "place_id": "ChIJyVaH_DY2nDkRJpcJyGVQjdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVaH_DY2nDkRJpcJyGVQjdw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:36:27"
+  }
+]

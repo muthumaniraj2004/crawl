@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samay Shatabdi Travels Pvt Ltd",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "209202",
+    "phone_number": "+91 85280 10966",
+    "website": "http://samayshatabditravels.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Awasthy market, opp. BRD College, Bilhaur, Uttar Pradesh 209202",
+    "area": "209202",
+    "latitude": 26.843543699999998,
+    "longitude": 80.06195149999999,
+    "place_id": "ChIJAQAAAJl_njkR5yeDgBgg03M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAJl_njkR5yeDgBgg03M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:48:28"
+  },
+  {
+    "business_name": "Eicher Tractors Dealerships - Bilhaur Auto",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Auto market, Tire repair shop",
+    "pincode": "209202",
+    "phone_number": "+91 79 4716 6316",
+    "website": "https://dealers.eichertractors.in/eicher-tractors-bilhaur-auto-in-uttar-pradesh-kanpur-bilhaur-53215/Home?utm_source=gmbeicher&utm_medium=googlewebsite",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GT Rd, Muradnagar, Bilhaur, Kanpur, Uttar Pradesh 209202",
+    "area": "Muradnagar",
+    "latitude": 26.8338498,
+    "longitude": 80.06917469999999,
+    "place_id": "ChIJNX9Dm61_njkR8lMUpLzrOZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNX9Dm61_njkR8lMUpLzrOZo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:48:30"
+  }
+]

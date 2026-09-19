@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharaja Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "208012",
+    "phone_number": "+91 97935 30530",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "119/251 B1, Bombay Road, Sabji Mandi, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Sabji Mandi, Darshan Purwa",
+    "latitude": 26.4675747,
+    "longitude": 80.3162354,
+    "place_id": "ChIJDX3xp4BHnDkRE7D0IgDsAQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDX3xp4BHnDkRE7D0IgDsAQ0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:01:48"
+  },
+  {
+    "business_name": "Metro Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "208012",
+    "phone_number": "+91 72757 48572",
+    "website": "https://www.metro.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "119/113, Bamba Rd, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Darshan Purwa",
+    "latitude": 26.466586099999997,
+    "longitude": 80.3179399,
+    "place_id": "ChIJpQxgr-s5nDkRKN3GEcIJq_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQxgr-s5nDkRKN3GEcIJq_s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:01:48"
+  }
+]

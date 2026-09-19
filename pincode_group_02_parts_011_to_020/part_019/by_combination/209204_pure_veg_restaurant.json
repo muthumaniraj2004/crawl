@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Matinee Dhaba - Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegan restaurant",
+    "all_categories": "Vegan restaurant, Organic restaurant",
+    "pincode": "209204",
+    "phone_number": "+91 93955 05575",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 27,
+    "address": "3XP7+QCX, Gauripur, Assam 783331",
+    "area": "209204",
+    "latitude": 26.086978799999997,
+    "longitude": 89.9635204,
+    "place_id": "ChIJ00p6PACf4jkR8XI2Ou5Skuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00p6PACf4jkR8XI2Ou5Skuk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:51:54"
+  },
+  {
+    "business_name": "Surbhi Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209204",
+    "phone_number": "+91 99708 76160",
+    "website": "http://surbhiresto.netlify.app/",
+    "rating": 4.6,
+    "reviews_count": 78,
+    "address": "Chatrapati Chowk, Ausa Rd, near Mahanagar CNG Pump, opposite Bidwe Lawns, Pragati Nagar, Latur, Wasangoan, Maharashtra 413512",
+    "area": "Pragati Nagar",
+    "latitude": 18.3764428,
+    "longitude": 76.55798589999999,
+    "place_id": "ChIJKWvsUOaDzzsRqU6PEnGEgE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWvsUOaDzzsRqU6PEnGEgE0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:51:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalimaar Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "209112",
+    "phone_number": "+91 86010 91145",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalpi, Jalaun, NH-25, Kanpur Jhansi Highway, Jalaun, Jalaun, Uttar Pradesh 285204",
+    "area": "209112",
+    "latitude": 26.1196484,
+    "longitude": 79.74409399999999,
+    "place_id": "ChIJHZcyk96hnTkRrXBnDCTa3Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZcyk96hnTkRrXBnDCTa3Vs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:40:15"
+  },
+  {
+    "business_name": "Kanpur Motors (all car work )",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "209112",
+    "phone_number": "+91 93054 65671",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 75,
+    "address": "Maswani, Fatehpur, Uttar Pradesh 212601",
+    "area": "Maswani",
+    "latitude": 25.9386387,
+    "longitude": 80.83041159999999,
+    "place_id": "ChIJn99Wff5jmzkRaEEYXlYgf2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn99Wff5jmzkRaEEYXlYgf2E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:40:18"
+  }
+]

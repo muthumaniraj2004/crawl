@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guddu Babu Hardware Shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "208023",
+    "phone_number": "+91 93899 28646",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "130/375, Babu Purwa, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "Babu Purwa, Kidwai Nagar",
+    "latitude": 26.4365545,
+    "longitude": 80.34286379999999,
+    "place_id": "ChIJQwlwzhdHnDkR7ixb8jqCVSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwlwzhdHnDkR7ixb8jqCVSk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:25:02"
+  },
+  {
+    "business_name": "Anjora Living",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "208023",
+    "phone_number": "+91 98396 07819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "133/227, Kidwainagar Rd Side - 1, M Block, Marble Market, Kanpur, Uttar Pradesh 208023",
+    "area": "M Block, Marble Market, Kidwai Nagar",
+    "latitude": 26.435947499999997,
+    "longitude": 80.3305724,
+    "place_id": "ChIJ0zwQWOtHnDkR6J5FDe0f6Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zwQWOtHnDkR6J5FDe0f6Jw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:25:02"
+  }
+]

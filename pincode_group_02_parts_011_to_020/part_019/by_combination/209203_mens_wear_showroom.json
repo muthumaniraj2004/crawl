@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avon Garment",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209203",
+    "phone_number": "+91 95066 16700",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chaubepur - Bithoor Rd, Bhindury, Chobepur, Uttar Pradesh 209203",
+    "area": "209203",
+    "latitude": 26.6200247,
+    "longitude": 80.1949075,
+    "place_id": "ChIJdUTH0tIxnDkRmVFxVWLlvnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUTH0tIxnDkRmVFxVWLlvnk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:49:59"
+  },
+  {
+    "business_name": "Devansh Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "209203",
+    "phone_number": "+91 96512 91008",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bithoor Rd, Maharshi Balmiki Nagar, Subedar Nagar, Kanpur, Bithoor, Uttar Pradesh 209217",
+    "area": "Maharshi Balmiki Nagar, Subedar Nagar",
+    "latitude": 26.6051434,
+    "longitude": 80.2707156,
+    "place_id": "ChIJ58v8WiIxnDkRAJH-MnXKjso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58v8WiIxnDkRAJH-MnXKjso",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:49:59"
+  }
+]

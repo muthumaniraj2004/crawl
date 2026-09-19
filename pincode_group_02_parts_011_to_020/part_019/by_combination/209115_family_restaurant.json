@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omi dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "209115",
+    "phone_number": "+91 98396 23822",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "8JXX+36, Nandana, Uttar Pradesh 209115",
+    "area": "209115",
+    "latitude": 26.347699499999997,
+    "longitude": 79.6480148,
+    "place_id": "ChIJ5yevOtWTnTkRBnIRUnkAkmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yevOtWTnTkRBnIRUnkAkmY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:41:51"
+  },
+  {
+    "business_name": "Ranu Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "9J7J+4PF, Sandalpur Rd, near Bank Of Baroda Patel Chauk, Sikandra, Kanpur, Uttar Pradesh 209125",
+    "area": "209115",
+    "latitude": 26.362807699999998,
+    "longitude": 79.6318064,
+    "place_id": "ChIJdSXBnQ2TnTkRBi9cU1PbJsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSXBnQ2TnTkRBi9cU1PbJsM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:41:51"
+  }
+]

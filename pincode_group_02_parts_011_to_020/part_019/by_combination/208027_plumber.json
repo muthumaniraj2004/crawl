@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SB Pumps marketing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrical supply store, Paint store, Pipe supplier, Pipes Wholesaler, Hardware store, Rainwater tank supplier, Water Pump Supplier, Water works",
+    "pincode": "208027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Block D, 43, near priya hospital and, adjacent to havells galaxy and hindware italian, Vishwa Bank Colony, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Vishwa Bank Colony, Barra World Bank, Barra",
+    "latitude": 26.4315803,
+    "longitude": 80.2976764,
+    "place_id": "ChIJ0wkz4axHnDkRzWCa1uykRLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wkz4axHnDkRzWCa1uykRLA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:34:00"
+  },
+  {
+    "business_name": "Submersible Motor Repair Bihari",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "208027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanumant Vihar, 1420/22, Govind Vihar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Govind Vihar, Naubasta",
+    "latitude": 26.4102455,
+    "longitude": 80.30623279999999,
+    "place_id": "ChIJQZlef2lHnDkRX3BXCOJX2MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZlef2lHnDkRX3BXCOJX2MI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:34:03"
+  }
+]

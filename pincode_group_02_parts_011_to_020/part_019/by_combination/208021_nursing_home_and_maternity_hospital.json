@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanpur, Uttar Pradesh 208021",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "208021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naubasta, Kanpur, Uttar Pradesh",
+    "area": "Naubasta",
+    "latitude": 26.3905621,
+    "longitude": 80.30459669999999,
+    "place_id": "ChIJq45njGtGnDkR4KxKGqT0LRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq45njGtGnDkR4KxKGqT0LRk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:20:13"
+  },
+  {
+    "business_name": "Vinay Maternity Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "208021",
+    "phone_number": "+91 98388 57796",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "23, Yogendra Vihar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Yogendra Vihar, Naubasta",
+    "latitude": 26.409281399999998,
+    "longitude": 80.3029991,
+    "place_id": "ChIJxR5cWVBHnDkRA50oQtaF62I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxR5cWVBHnDkRA50oQtaF62I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:20:14"
+  }
+]

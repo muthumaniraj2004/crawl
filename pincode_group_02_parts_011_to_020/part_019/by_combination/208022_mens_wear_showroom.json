@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Style Adda",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "208022",
+    "phone_number": "+91 95550 25561",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1, Tatya Tope Nagar, Ravidas Puram, Kanpur, Uttar Pradesh 208022",
+    "area": "Tatya Tope Nagar, Ravidas Puram",
+    "latitude": 26.4340469,
+    "longitude": 80.2770453,
+    "place_id": "ChIJd6b0KABHnDkR2rGfLT9AS80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6b0KABHnDkR2rGfLT9AS80",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:13"
+  },
+  {
+    "business_name": "Vishal Vastralay",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "208022",
+    "phone_number": "+91 91405 41141",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "E - 161, Barra 8 Rd, F Block, Barra 8, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "F Block, Barra 8, Barra",
+    "latitude": 26.430895,
+    "longitude": 80.2869625,
+    "place_id": "ChIJd6MkpdpHnDkRhK79wWY8nXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6MkpdpHnDkRhK79wWY8nXY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:14"
+  }
+]

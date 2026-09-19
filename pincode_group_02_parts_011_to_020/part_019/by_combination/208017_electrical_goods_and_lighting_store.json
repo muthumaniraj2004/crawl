@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulati Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electronics store",
+    "pincode": "208017",
+    "phone_number": "+91 82992 24606",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MIG 138, Dabauli - Gadarian Purwa Marg, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Neemeshwar MahaMandir Society, Ratan Lal Nagar",
+    "latitude": 26.441916,
+    "longitude": 80.2867512,
+    "place_id": "ChIJvct89edHnDkRDbRcgmyP72Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvct89edHnDkRDbRcgmyP72Y",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:53"
+  },
+  {
+    "business_name": "Surendra And Sons Electricals & Instrument",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical appliance wholesaler, Electrical equipment supplier, Electrical repair shop, Hardware store, Industrial equipment supplier, Electrical supply store",
+    "pincode": "208017",
+    "phone_number": "+91 98390 58807",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H-12, ispat Nagar, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "ispat Nagar, Panki",
+    "latitude": 26.4419903,
+    "longitude": 80.2437873,
+    "place_id": "ChIJ32LnRUtJnDkRScMaY4VSHgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32LnRUtJnDkRScMaY4VSHgw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:57"
+  }
+]

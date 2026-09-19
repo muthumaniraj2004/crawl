@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sip cafe & lounge",
+    "search_category": "Bar and Pub",
+    "primary_category": "Lounge bar",
+    "all_categories": "Lounge bar",
+    "pincode": "208022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-22, near sarkari hospital, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Gujaini, Kanpur, Uttar Pradesh 208022",
+    "area": "Neemeshwar MahaMandir Society, Ratan Lal Nagar, Gujaini",
+    "latitude": 26.4396936,
+    "longitude": 80.2828124,
+    "place_id": "ChIJ-SH2tXhHnDkRrCxmiCO9Rnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SH2tXhHnDkRrCxmiCO9Rnc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:12"
+  },
+  {
+    "business_name": "Will Pub",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "208022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F Block, Barra 8, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "F Block, Barra 8, Barra",
+    "latitude": 26.4310208,
+    "longitude": 80.2883835,
+    "place_id": "ChIJKxDMUcVHnDkRQUWC4AMBHXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxDMUcVHnDkRQUWC4AMBHXY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:14"
+  }
+]

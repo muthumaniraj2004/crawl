@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurvedic Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "208023",
+    "phone_number": "+91 93056 71696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "W -2, Damodar Nagar, Kanpur, Uttar Pradesh 208027",
+    "area": "Damodar Nagar",
+    "latitude": 26.4225688,
+    "longitude": 80.3083388,
+    "place_id": "ChIJGRA38bJHnDkRNI58i_kNy0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRA38bJHnDkRNI58i_kNy0g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:24:41"
+  },
+  {
+    "business_name": "STATE AYURVEDIC HOSPITAL",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Alternative medicine practitioner",
+    "pincode": "208023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "No.117, K/139, Geeta Nagar Crossing Rd, Geeta Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Geeta Nagar, Kakadeo",
+    "latitude": 26.483878599999997,
+    "longitude": 80.29397929999999,
+    "place_id": "ChIJ2y37BBQ4nDkRuu0s9qk4AQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2y37BBQ4nDkRuu0s9qk4AQg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:24:43"
+  }
+]

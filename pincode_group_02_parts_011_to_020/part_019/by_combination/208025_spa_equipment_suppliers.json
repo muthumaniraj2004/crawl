@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Gilded Tails",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Pet groomer",
+    "all_categories": "Pet groomer, Day care center, Dog walker, Pet boarding service, Pet store",
+    "pincode": "208025",
+    "phone_number": "+91 80098 30930",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 81,
+    "address": "C 37, next to Angel Eyes Hospital, Model Town, Sarvodaya Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Model Town, Sarvodaya Nagar",
+    "latitude": 26.4804018,
+    "longitude": 80.2998762,
+    "place_id": "ChIJ22mRr1c5nDkRi8AFgjaINFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22mRr1c5nDkRi8AFgjaINFM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:45"
+  },
+  {
+    "business_name": "Flotaa",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Water works",
+    "all_categories": "Water works, Water utility company",
+    "pincode": "208025",
+    "phone_number": "+91 79753 24620",
+    "website": "https://flotaa.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pandu Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Pandu Nagar",
+    "latitude": 26.472637499999998,
+    "longitude": 80.2931416,
+    "place_id": "ChIJF8owjZE5nDkR7MUyjydrY5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8owjZE5nDkR7MUyjydrY5I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:46"
+  }
+]

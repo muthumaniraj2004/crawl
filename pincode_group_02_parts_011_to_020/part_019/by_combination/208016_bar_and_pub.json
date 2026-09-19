@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghanghor thandi beer",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "208016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Chaska Restaurent, In Front, 66A, Panki - Kalyanpur Rd, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Kalyanpur",
+    "latitude": 26.495328699999998,
+    "longitude": 80.2493475,
+    "place_id": "ChIJL8VO2ss3nDkRyfneIu-e5dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8VO2ss3nDkRyfneIu-e5dg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:11:00"
+  },
+  {
+    "business_name": "Bar Shop",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "208016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "G74H+C9C, Makri Kheora, Khyora, Kanpur, Uttar Pradesh 208017",
+    "area": "Makri Kheora, Khyora",
+    "latitude": 26.5060662,
+    "longitude": 80.27837869999999,
+    "place_id": "ChIJyanqIyo4nDkRSYQMgbw7ViI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyanqIyo4nDkRSYQMgbw7ViI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:11:02"
+  }
+]

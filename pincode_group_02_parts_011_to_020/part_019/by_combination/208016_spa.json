@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sun N Moon Thai Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "208016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st floor, Panki Rd, near Thiranga Chauraha, above Airtel Office, Near Gaytri Mandir, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Near Gaytri Mandir, Kalyanpur",
+    "latitude": 26.4968291,
+    "longitude": 80.2506001,
+    "place_id": "ChIJ2fArGAA3nDkRxWvp-foK0Wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fArGAA3nDkRxWvp-foK0Wo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:11:50"
+  },
+  {
+    "business_name": "Sneh Dube",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "208016",
+    "phone_number": "+91 88968 34437",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "37A New Azad Nagar, Azad Nagar, New Azad Nagar, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "New Azad Nagar, Kalyanpur",
+    "latitude": 26.5022749,
+    "longitude": 80.2540588,
+    "place_id": "ChIJNeyBBRg3nDkRCUmOEAudG-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeyBBRg3nDkRCUmOEAudG-M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:11:50"
+  }
+]

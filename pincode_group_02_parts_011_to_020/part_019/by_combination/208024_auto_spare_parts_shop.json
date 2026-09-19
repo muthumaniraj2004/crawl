@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GEETA AUTO SPARES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "208024",
+    "phone_number": "+91 79057 75668",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "123/712,A, near Sunny Hotel, Patrakarpuram, Gadarian Purwa, Khyora, Kanpur, Uttar Pradesh 208017",
+    "area": "Patrakarpuram, Gadarian Purwa, Khyora",
+    "latitude": 26.5031878,
+    "longitude": 80.2863521,
+    "place_id": "ChIJ0ef5Ed45nDkROsdStwQGAF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ef5Ed45nDkROsdStwQGAF0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:27:08"
+  },
+  {
+    "business_name": "MARUTI SUZUKI GENUINE PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "208024",
+    "phone_number": "+91 94150 64542",
+    "website": "https://www.marutisuzuki.com/genuine-parts",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "F7WM+6P5, Shukla's Rd, Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024",
+    "area": "Lakhanpur, Khyora",
+    "latitude": 26.4955024,
+    "longitude": 80.2843565,
+    "place_id": "ChIJRbWkaCQ4nDkRv1wYhaAxpSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbWkaCQ4nDkRv1wYhaAxpSM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:27:08"
+  }
+]

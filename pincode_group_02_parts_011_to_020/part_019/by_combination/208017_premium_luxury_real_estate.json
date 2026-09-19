@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "208017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6/173, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Kalyanpur",
+    "latitude": 26.489149899999997,
+    "longitude": 80.24271,
+    "place_id": "ChIJ5bth9uE3nDkRvp7jpf2hvOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bth9uE3nDkRvp7jpf2hvOc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:14:47"
+  },
+  {
+    "business_name": "Pioneer Green City",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "208017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 222,
+    "address": "G7M5+9CM, Bithoor Road Hanumant Vihar, Singhpur Kachhar, Uttar Pradesh 208017",
+    "area": "208017",
+    "latitude": 26.5334605,
+    "longitude": 80.2585376,
+    "place_id": "ChIJO7Pr5UE3nDkRfRIs-vmOcHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7Pr5UE3nDkRfRIs-vmOcHU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:14:47"
+  }
+]

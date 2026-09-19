@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "hi-tech gym center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "209121",
+    "phone_number": "+91 89229 67194",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "upsidc jainpur, h.no b/130, Industrial Area Phase 1, kanpur, Nagin Jasi, Uttar Pradesh 209101",
+    "area": "Industrial Area Phase 1",
+    "latitude": 26.354865699999998,
+    "longitude": 79.97971989999999,
+    "place_id": "ChIJO48jauG3nTkRgA8rweRsKFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO48jauG3nTkRgA8rweRsKFc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:44:17"
+  },
+  {
+    "business_name": "Formula Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Exercise equipment store, Fitness Equipment Wholesaler, Repair service",
+    "pincode": "209121",
+    "phone_number": "+91 86042 75460",
+    "website": "http://formulafitnessindia.com/",
+    "rating": 4.6,
+    "reviews_count": 89,
+    "address": "71, near Lohia Path, opposite Lucknow Cancer Institute, Manas Nagar, Manas Nagar Colony, Jiamau, Lucknow, Uttar Pradesh 226001",
+    "area": "Manas Nagar, Manas Nagar Colony, Jiamau",
+    "latitude": 26.846594399999997,
+    "longitude": 80.9607651,
+    "place_id": "ChIJPXk8zUj9mzkRLHskI23sQWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXk8zUj9mzkRLHskI23sQWo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:44:20"
+  }
+]

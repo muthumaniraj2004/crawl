@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrikrishan Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "208015",
+    "phone_number": "+91 70425 25480",
+    "website": "http://shrikrishnapharmacy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Varun Vihar Road, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra",
+    "latitude": 26.4259049,
+    "longitude": 80.2895628,
+    "place_id": "ChIJd_BJ7YFHnDkRgNbrWFVGiS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_BJ7YFHnDkRgNbrWFVGiS4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:04"
+  },
+  {
+    "business_name": "Manorama Medical Center Dr. Pradyumn Mishraa",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "208015",
+    "phone_number": "+91 77058 73955",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shanneshwar Mandir, Keshavpuram, Kanpur, Uttar Pradesh 208019",
+    "area": "Keshavpuram, Kalyanpur",
+    "latitude": 26.480966199999997,
+    "longitude": 80.27821039999999,
+    "place_id": "ChIJu4NBZH85nDkREX7RTpMAHhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4NBZH85nDkREX7RTpMAHhk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:06"
+  }
+]

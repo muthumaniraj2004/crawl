@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सिंह ढाबा",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209112",
+    "phone_number": "+91 88585 99576",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "mode ke saamne, Jolhupur, Kalpi, Uttar Pradesh 285202",
+    "area": "209112",
+    "latitude": 26.0987498,
+    "longitude": 79.70388539999999,
+    "place_id": "ChIJS1dTjUyfnTkRj2OWXwFXQ-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1dTjUyfnTkRj2OWXwFXQ-g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:46"
+  },
+  {
+    "business_name": "Rajat Singh Chauhan Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Dhaba",
+    "pincode": "209112",
+    "phone_number": "+91 95599 24196",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Aagapur, Jalaun, NH-25, Kanpur Jhansi Highway, Kalpi, Kalpi, Uttar Pradesh 285204",
+    "area": "209112",
+    "latitude": 26.1115,
+    "longitude": 79.723,
+    "place_id": "ChIJv9mD4W2fnTkRyoWFFc0HwPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9mD4W2fnTkRyoWFFc0HwPs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:46"
+  }
+]

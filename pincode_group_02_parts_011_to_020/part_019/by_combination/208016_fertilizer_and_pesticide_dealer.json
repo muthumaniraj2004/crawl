@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alok Agro Agency",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Agricultural Product Wholesaler, Supplier",
+    "pincode": "208016",
+    "phone_number": "+91 98397 27210",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "76/274, Nai Sarak Rd, Sabji Mandi, Badshahi Naka, Collectorganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Sabji Mandi, Badshahi Naka, Collectorganj",
+    "latitude": 26.4632676,
+    "longitude": 80.3488855,
+    "place_id": "ChIJt1cCa1xHnDkRSMTReLe5-Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1cCa1xHnDkRSMTReLe5-Wk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:12:39"
+  },
+  {
+    "business_name": "Hari Om Pesticide",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Supplier",
+    "pincode": "208016",
+    "phone_number": "+91 99563 08337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sabjimandi Road, Bithoor Rd, Subedar Nagar, Bithoor, Kanpur, Uttar Pradesh 209217",
+    "area": "Subedar Nagar",
+    "latitude": 26.581070999999998,
+    "longitude": 80.264094,
+    "place_id": "ChIJ_emzLIcwnDkR4JO1dcK2WQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_emzLIcwnDkR4JO1dcK2WQg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:12:39"
+  }
+]

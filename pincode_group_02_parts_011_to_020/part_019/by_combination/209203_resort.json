@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Lagan Lawn",
+    "search_category": "Resort",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue, Resort hotel",
+    "pincode": "209203",
+    "phone_number": "+91 96530 77022",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 64,
+    "address": "Subedar Nagar, Bithoor, Uttar Pradesh 209217",
+    "area": "Subedar Nagar",
+    "latitude": 26.5971548,
+    "longitude": 80.2681152,
+    "place_id": "ChIJM88QKnYxnDkRcKLIxbBB1Gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM88QKnYxnDkRcKLIxbBB1Gs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:50:54"
+  },
+  {
+    "business_name": "Soil & Splash Farmhouse",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Farmstay, Health resort, Indoor swimming pool, Public swimming pool, Swimming pool, Swimming facility",
+    "pincode": "209203",
+    "phone_number": "+91 63893 32211",
+    "website": "https://soilandsplash.netlify.app/",
+    "rating": 4.8,
+    "reviews_count": 116,
+    "address": "Chobepur, Choubepur Kalan, Uttar Pradesh 209203",
+    "area": "209203",
+    "latitude": 26.6022511,
+    "longitude": 80.21887919999999,
+    "place_id": "ChIJx9-2PAAxnDkRv3-qZnww8r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9-2PAAxnDkRv3-qZnww8r4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:50:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja clicks",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "209112",
+    "phone_number": "+91 75184 99053",
+    "website": "https://deltacard.me/prashantraja",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Moosanagar, Gausganj, Uttar Pradesh 209208",
+    "area": "209112",
+    "latitude": 26.171812499999998,
+    "longitude": 79.9695625,
+    "place_id": "ChIJZ5vBKgCvnTkRFgHCqRb1c7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5vBKgCvnTkRFgHCqRb1c7I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:40:47"
+  },
+  {
+    "business_name": "Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "209112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Durauli kiswa, Moosanagar, Rasulpur Bhuranda, Uttar Pradesh 209208",
+    "area": "209112",
+    "latitude": 26.2013197,
+    "longitude": 79.9620693,
+    "place_id": "ChIJr--DDNmvnTkRynJx1qoQbiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr--DDNmvnTkRynJx1qoQbiQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:40:50"
+  }
+]

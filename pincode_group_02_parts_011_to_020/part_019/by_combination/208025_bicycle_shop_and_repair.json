@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pramod Kumar",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "208025",
+    "phone_number": "+91 78600 48880",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pramod Kumar, Avon Market, Ambedkar Nagar, Navin Nagar, Kakadeo, Rania, Kanpur, Uttar Pradesh 208025",
+    "area": "Avon Market, Ambedkar Nagar, Navin Nagar, Kakadeo",
+    "latitude": 26.476464999999997,
+    "longitude": 80.29370949999999,
+    "place_id": "ChIJvWiBWis5nDkRa30xG9VXiXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWiBWis5nDkRa30xG9VXiXE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:22"
+  },
+  {
+    "business_name": "Saini Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "208025",
+    "phone_number": "+91 99567 59384",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "F7MQ+G7V, Sharda Nagar Rd, Chhapeda Puliya, Geeta Nagar, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "Chhapeda Puliya, Geeta Nagar, Sharda Nagar",
+    "latitude": 26.4838705,
+    "longitude": 80.2881566,
+    "place_id": "ChIJlXRyWRc4nDkR820VZ6l-nPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXRyWRc4nDkR820VZ6l-nPI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:24"
+  }
+]

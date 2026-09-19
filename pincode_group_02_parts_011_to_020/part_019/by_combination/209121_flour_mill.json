@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heena Food Products Pvt. Ltd. (Factory)",
+    "search_category": "Flour Mill",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "209121",
+    "phone_number": "+91 70802 22333",
+    "website": "http://www.sangolgroup.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Umran, Rania, Kanpur, Uttar Pradesh 209311",
+    "area": "Rania",
+    "latitude": 26.391792499999998,
+    "longitude": 80.0365312,
+    "place_id": "ChIJc6GhMk-0nTkRQ6iAK7-75sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6GhMk-0nTkRQ6iAK7-75sw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:43:41"
+  },
+  {
+    "business_name": "GDS Nutrifoods Pvt Ltd",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Manufacturer",
+    "pincode": "209121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Umaran, Rania, Uttar Pradesh 209311",
+    "area": "209121",
+    "latitude": 26.3948592,
+    "longitude": 80.0411754,
+    "place_id": "ChIJx6IwYgC1nTkRKJY_ZP4SLNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6IwYgC1nTkRKJY_ZP4SLNY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:43:41"
+  }
+]

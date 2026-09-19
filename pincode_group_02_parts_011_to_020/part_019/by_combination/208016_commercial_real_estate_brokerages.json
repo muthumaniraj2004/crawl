@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Vaishnavi Enterprise",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "208016",
+    "phone_number": "N/A",
+    "website": "https://maavaishnavi.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Awas Vikas 1, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas 1, Kalyanpur",
+    "latitude": 26.4896829,
+    "longitude": 80.2357906,
+    "place_id": "ChIJQSt3LfE3nDkRmvuroLU19MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSt3LfE3nDkRmvuroLU19MQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:12:30"
+  },
+  {
+    "business_name": "ANGELSTAR RESEARCH & DEVELOPMENT PVT LTD",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "208016",
+    "phone_number": "+91 88699 01661",
+    "website": "http://asrdpl.com/",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "1/38, Awas Vikas Ambedkar Puram, Avas Vikas lll, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas Ambedkar Puram, Avas Vikas lll, Kalyanpur",
+    "latitude": 26.491159,
+    "longitude": 80.2473339,
+    "place_id": "ChIJlVWCdb83nDkR_Ba0vmn10o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVWCdb83nDkR_Ba0vmn10o4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:12:33"
+  }
+]

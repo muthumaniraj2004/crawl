@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Papa ji garment",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "208017",
+    "phone_number": "+91 95987 03611",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mahakaleshwar Mandir, Gangaganj-4, mahaveer Puram, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Gangaganj-4, mahaveer Puram, Panki",
+    "latitude": 26.467896,
+    "longitude": 80.2238,
+    "place_id": "ChIJmxqWegA3nDkRSGV_tJ8l8yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxqWegA3nDkRSGV_tJ8l8yg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:15:06"
+  },
+  {
+    "business_name": "Saini Market",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "208017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "G7Q6+WQX, Bithoor Rd, Northern Rly. Colony, Uttar Pradesh 208017",
+    "area": "208017",
+    "latitude": 26.5398502,
+    "longitude": 80.2619947,
+    "place_id": "ChIJoSU3d0Q3nDkR20GTMbtS7gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSU3d0Q3nDkR20GTMbtS7gw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:15:08"
+  }
+]

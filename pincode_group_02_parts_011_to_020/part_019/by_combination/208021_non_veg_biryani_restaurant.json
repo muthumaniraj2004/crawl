@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nisar Biryani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "208021",
+    "phone_number": "+91 91701 96059",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ramzani Chouraha, Yashoda Nagar, Kanpur, Uttar Pradesh 208021",
+    "area": "Yashoda Nagar",
+    "latitude": 26.4068087,
+    "longitude": 80.3287754,
+    "place_id": "ChIJFVNNPYZHnDkRreoF0DkhLfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVNNPYZHnDkRreoF0DkhLfM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:19:48"
+  },
+  {
+    "business_name": "Singh Non-Veg",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "208021",
+    "phone_number": "+91 96214 23637",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "55, Arra Road, Hamir, Pur Rd, Galla Mandi, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Galla Mandi, Naubasta",
+    "latitude": 26.391764799999997,
+    "longitude": 80.31117859999999,
+    "place_id": "ChIJjUDlkDVHnDkRJRmwgUVzrnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUDlkDVHnDkRJRmwgUVzrnQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:19:48"
+  }
+]

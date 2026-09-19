@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj Flower Decorators",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower delivery",
+    "all_categories": "Flower delivery",
+    "pincode": "209121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C338+8CF Padaw Market, Main Rd, Rania, Uttar Pradesh 209101",
+    "area": "Rania",
+    "latitude": 26.4033063,
+    "longitude": 80.0660528,
+    "place_id": "ChIJB2x7Za21nTkRPiF7cHHyank",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2x7Za21nTkRPiF7cHHyank",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:44:49"
+  },
+  {
+    "business_name": "Maa Aasha Devi flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "209121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "65W2+PV6, Tilsara, Uttar Pradesh 209308",
+    "area": "209121",
+    "latitude": 26.246782399999997,
+    "longitude": 80.1521295,
+    "place_id": "ChIJoZNFGc9TnDkRktsB3n-891M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZNFGc9TnDkRktsB3n-891M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:44:49"
+  }
+]

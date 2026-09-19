@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Topilaal",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "209125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "9M23+WQV, Sardarpur, Uttar Pradesh 209115",
+    "area": "209125",
+    "latitude": 26.3523644,
+    "longitude": 79.65443379999999,
+    "place_id": "ChIJ9Q7OlHSUnTkRbHZ3xQ8EyK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Q7OlHSUnTkRbHZ3xQ8EyK8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:45:55"
+  },
+  {
+    "business_name": "Sudhanshu Shivhare",
+    "search_category": "Bar and Pub",
+    "primary_category": "Beer store",
+    "all_categories": "Beer store",
+    "pincode": "209125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "6, near Kargil Petrol Pump, New L.I.G, Sector - A, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "New L.I.G, Sector - A, Barra World Bank, Barra",
+    "latitude": 26.4366679,
+    "longitude": 80.28875599999999,
+    "place_id": "ChIJl3m_TYVHnDkR-XjS56gUeYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3m_TYVHnDkR-XjS56gUeYs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:45:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Chemist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "208019",
+    "phone_number": "+91 98397 11111",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "Opposite J.K. Cancer Hospital, Gutaiya Bazar, Rawat Pur, Kanpur, Uttar Pradesh 208005",
+    "area": "Gutaiya Bazar, Rawat Pur",
+    "latitude": 26.4812175,
+    "longitude": 80.3023114,
+    "place_id": "ChIJxU628Gw4nDkRsv2xmQULaxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxU628Gw4nDkRsv2xmQULaxQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:15:40"
+  },
+  {
+    "business_name": "Abdul Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "208019",
+    "phone_number": "+91 98398 09998",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "F7MX+G6R, Rawat Pur Market,Opposite Railway Station, Butler Place, Rawat Pur, Kanpur, Uttar Pradesh 208002",
+    "area": "Rawat Pur Market,Opposite Railway Station, Butler Place, Rawat Pur",
+    "latitude": 26.4838654,
+    "longitude": 80.2980034,
+    "place_id": "ChIJF_0SohQ4nDkRDQKZBF1gR9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_0SohQ4nDkRDQKZBF1gR9I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:15:41"
+  }
+]

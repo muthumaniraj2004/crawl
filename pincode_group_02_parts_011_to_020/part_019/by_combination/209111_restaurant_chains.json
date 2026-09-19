@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sahara Dhaba",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "209111",
+    "phone_number": "+91 99842 08877",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kripalpur, Moosanagar, Uttar Pradesh 209208",
+    "area": "209111",
+    "latitude": 26.1704173,
+    "longitude": 79.956684,
+    "place_id": "ChIJVVVVlSqvnTkR1T70aTSXsS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlSqvnTkR1T70aTSXsS8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:37:46"
+  },
+  {
+    "business_name": "Shahi Fits - Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "6RGR+QWP, Baba mohalla, in front of all in one mall, Pukhrayan, Uttar Pradesh 209111",
+    "area": "209111",
+    "latitude": 26.2269524,
+    "longitude": 79.8423261,
+    "place_id": "ChIJgYU6L2T9mzkRuAAIRZeINcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYU6L2T9mzkRuAAIRZeINcY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:37:49"
+  }
+]

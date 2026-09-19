@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Paint store",
+    "pincode": "208015",
+    "phone_number": "+91 98893 17072",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "581 Safipur 1st Ramadevi Chauraha, Kanpur, Uttar Pradesh 208007",
+    "area": "Rama Devi Chauraha, Jajmau Sub Metro City",
+    "latitude": 26.412297,
+    "longitude": 80.387092,
+    "place_id": "ChIJl-6LQT1BnDkRDGmn5a8oBmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-6LQT1BnDkRDGmn5a8oBmw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:33"
+  },
+  {
+    "business_name": "Shree ram enterprises",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "208015",
+    "phone_number": "+91 91408 62685",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mangla Vihar 2, Daheli Sujanpur, Kanpur, Uttar Pradesh 208021",
+    "area": "Mangla Vihar 2, Daheli Sujanpur",
+    "latitude": 26.4007674,
+    "longitude": 80.3720093,
+    "place_id": "ChIJLy_V4qlBnDkRwIxzzHpXwgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLy_V4qlBnDkRwIxzzHpXwgc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:34"
+  }
+]

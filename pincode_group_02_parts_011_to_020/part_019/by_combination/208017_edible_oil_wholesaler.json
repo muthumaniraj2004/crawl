@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shagun Enterprises",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "208017",
+    "phone_number": "+91 85738 31096",
+    "website": "http://shagunenterprises.co.in/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "site no 2, D-50, Panki - Kalyanpur Rd, Panki Power House Colony, industrial area, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Panki Power House Colony, industrial area, Panki",
+    "latitude": 26.4722097,
+    "longitude": 80.24386009999999,
+    "place_id": "ChIJAT-afwA3nDkRGAFTC0313N4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAT-afwA3nDkRGAFTC0313N4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:12:57"
+  },
+  {
+    "business_name": "KUSHBOO's SPICE ROUTE Food Delivery and Tiffin Services",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "208017",
+    "phone_number": "+91 63923 24107",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Rawat Pur, 94b/1, P.O, Maswanpur, Kanpur, Uttar Pradesh 208019",
+    "area": "Maswanpur",
+    "latitude": 26.4819061,
+    "longitude": 80.25993129999999,
+    "place_id": "ChIJNa2tS6g3nDkRHQ63hrH2kdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNa2tS6g3nDkRHQ63hrH2kdw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shaaz Enterprises",
+    "search_category": "Resort",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "208011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "param purwa, 83/180, near Police Chowki, Choti Juhi, Param Purwa Juhi, Kanpur, Uttar Pradesh 208014",
+    "area": "Choti Juhi, Param Purwa Juhi",
+    "latitude": 26.449596099999997,
+    "longitude": 80.32543869999999,
+    "place_id": "ChIJuWQjIwBHnDkRgh5J8tyBYb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWQjIwBHnDkRgh5J8tyBYb4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:00:58"
+  },
+  {
+    "business_name": "Shree Amrit Resort",
+    "search_category": "Resort",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "208011",
+    "phone_number": "+91 85730 07607",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sakra pur, Road, Bhure Purva, Kanpur, Uttar Pradesh 208021",
+    "area": "Bhure Purva, Yashoda Nagar",
+    "latitude": 26.389699099999998,
+    "longitude": 80.3365395,
+    "place_id": "ChIJ8RMCkZ5HnDkRgoKesP9v0SU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RMCkZ5HnDkRgoKesP9v0SU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:00:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Ji Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209112",
+    "phone_number": "+91 99351 13051",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shyam Ji Plumber, Lanka Minaar, Kiratpur, Kalpi, Uttar Pradesh 285204",
+    "area": "209112",
+    "latitude": 26.1253522,
+    "longitude": 79.7564501,
+    "place_id": "ChIJ981AVKKhnTkR7aw9zxuaufs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ981AVKKhnTkR7aw9zxuaufs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:40:31"
+  },
+  {
+    "business_name": "Huma Traders",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "209112",
+    "phone_number": "+91 90443 19761",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Alampur By Pass, Kalpi, Uttar Pradesh 285204",
+    "area": "209112",
+    "latitude": 26.113523599999997,
+    "longitude": 79.7390082,
+    "place_id": "ChIJr1efbTefnTkRGr3BqSuKcJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1efbTefnTkRGr3BqSuKcJM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:40:31"
+  }
+]

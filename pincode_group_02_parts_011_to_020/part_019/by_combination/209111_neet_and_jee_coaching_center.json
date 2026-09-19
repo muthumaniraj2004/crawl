@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Academy",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Charter school, Educational institution, Education center",
+    "pincode": "209111",
+    "phone_number": "+91 95988 93358",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Lakshya Banquet, Shivdham, near DPS, Singhpur, Kalyanpur, Kanpur, Gangpur Kachhar, Uttar Pradesh 208017",
+    "area": "Singhpur, Kalyanpur",
+    "latitude": 26.526177099999998,
+    "longitude": 80.2596899,
+    "place_id": "ChIJIeExGWw3nDkR9DDPHZiHLwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeExGWw3nDkR9DDPHZiHLwQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:38:53"
+  },
+  {
+    "business_name": "Aakash Institute Medical, IIT-JEE, Foundation",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "209111",
+    "phone_number": "+91 1800 102 2727",
+    "website": "https://www.aakash.ac.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "N/32, Esplanade Rd, Avon Market, Ambedkar Nagar, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Avon Market, Ambedkar Nagar, Navin Nagar, Kakadeo",
+    "latitude": 26.475969799999998,
+    "longitude": 80.2946965,
+    "place_id": "ChIJj4alwQ04nDkR6T2eU6vfU2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4alwQ04nDkR6T2eU6vfU2A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:38:55"
+  }
+]

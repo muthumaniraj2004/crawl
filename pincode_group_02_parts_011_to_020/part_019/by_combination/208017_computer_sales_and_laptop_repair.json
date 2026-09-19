@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Computer Sales & Service",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "208017",
+    "phone_number": "+91 86877 55444",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "114/102, New Civil Line, Near Gurdev Palace, 11 No Crossing, Vinayakpur, Kanpur, Uttar Pradesh 208024",
+    "area": "Vinayakpur, Sharda Nagar",
+    "latitude": 26.491642,
+    "longitude": 80.2828013,
+    "place_id": "ChIJ_X810iM4nDkRYAyQ1YreHYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_X810iM4nDkRYAyQ1YreHYc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:14:34"
+  },
+  {
+    "business_name": "New Sagar Computer service and telecom",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "208017",
+    "phone_number": "+91 78448 88297",
+    "website": "https://www.sagarcomputerservice.org/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "A-16 MIG, VISTAR PART - 2, Ratanpur Colony, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "VISTAR PART - 2, Ratanpur Colony, Panki",
+    "latitude": 26.487031599999998,
+    "longitude": 80.21809929999999,
+    "place_id": "ChIJm90_sCs3nDkRQTYOE2j1Qwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm90_sCs3nDkRQTYOE2j1Qwc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:14:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cozy Lounge",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209115",
+    "phone_number": "+91 70685 93625",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "162 MIG, LIG, Ratanpur Colony, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "LIG, Ratanpur Colony, Panki",
+    "latitude": 26.481507399999998,
+    "longitude": 80.22658899999999,
+    "place_id": "ChIJL5X_saE3nDkR5q8oY11_fSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5X_saE3nDkR5q8oY11_fSo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:41:52"
+  },
+  {
+    "business_name": "Liquor Shop",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "209115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "F7HJ+CP4, Shivpuri, Rajivpuram, Kakadeo, Kanpur, Uttar Pradesh 208019",
+    "area": "Shivpuri, Rajivpuram, Kakadeo",
+    "latitude": 26.478509,
+    "longitude": 80.28182029999999,
+    "place_id": "ChIJHSTQmxw4nDkRyQ7xyWk4dtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSTQmxw4nDkRyQ7xyWk4dtQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:41:54"
+  }
+]

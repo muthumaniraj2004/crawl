@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Anuj Verma Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "208021",
+    "phone_number": "+91 73553 84072",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "A 135, Barra 8, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra 8, Barra",
+    "latitude": 26.427362199999997,
+    "longitude": 80.2926306,
+    "place_id": "ChIJXXSNOzhHnDkRo8ACswaqysI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXSNOzhHnDkRo8ACswaqysI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:20:15"
+  },
+  {
+    "business_name": "Dr Vishal Sethia",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Medical Center",
+    "pincode": "208021",
+    "phone_number": "+91 80909 63556",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 25,
+    "address": "1191 W-2, Hamirpur Rd, Vasant Vihar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Vasant Vihar, Naubasta",
+    "latitude": 26.4207105,
+    "longitude": 80.3187611,
+    "place_id": "ChIJTerdKy5HnDkRcHTiVT0IKSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTerdKy5HnDkRcHTiVT0IKSQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:20:18"
+  }
+]

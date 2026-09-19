@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riddhi Siddhi Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "208021",
+    "phone_number": "+91 91700 84004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Riddhi Siddhi Jewellers, Arra Rd, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Naubasta",
+    "latitude": 26.396059599999997,
+    "longitude": 80.3071568,
+    "place_id": "ChIJSdiO65RHnDkRAitsAVGi30U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdiO65RHnDkRAitsAVGi30U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:20:01"
+  },
+  {
+    "business_name": "Akash jwellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "208021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "81 b, Dwivedi Nagar, Shukla Market, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Dwivedi Nagar, Shukla Market, Naubasta",
+    "latitude": 26.3872018,
+    "longitude": 80.311714,
+    "place_id": "ChIJkcrU95pHnDkRLCAcmF1NT8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcrU95pHnDkRLCAcmF1NT8I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:20:03"
+  }
+]

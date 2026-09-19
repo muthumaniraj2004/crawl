@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home",
+    "search_category": "Property Developers",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "208012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "118/283, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Kaushalpuri, Darshan Purwa",
+    "latitude": 26.4688749,
+    "longitude": 80.31170949999999,
+    "place_id": "ChIJ1SogF_o5nDkRnHEy7apBmKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SogF_o5nDkRnHEy7apBmKU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:03:38"
+  },
+  {
+    "business_name": "Vaibhav Agencies",
+    "search_category": "Property Developers",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "208012",
+    "phone_number": "+91 90442 94294",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "111a/132, 133, Ashok Nagar, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Ashok Nagar, Darshan Purwa",
+    "latitude": 26.4712347,
+    "longitude": 80.315344,
+    "place_id": "ChIJPSgMJOU5nDkRr02-koKmRbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSgMJOU5nDkRr02-koKmRbk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:03:42"
+  }
+]

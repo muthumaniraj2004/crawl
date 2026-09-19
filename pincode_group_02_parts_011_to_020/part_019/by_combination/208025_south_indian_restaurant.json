@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TAMILNADU DOSA",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, South Indian restaurant",
+    "pincode": "208025",
+    "phone_number": "+91 77084 20064",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "118/541, Laxmi Ratan Colony, Gumti No.5, Kaushalpuri, Narainpurwa, Lucknow, Kanpur, Uttar Pradesh 226030",
+    "area": "Laxmi Ratan Colony, Gumti No.5, Kaushalpuri, Narainpurwa",
+    "latitude": 26.4671524,
+    "longitude": 80.3083125,
+    "place_id": "ChIJWYhSOgA5nDkRcSZa6hhaIaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYhSOgA5nDkRcSZa6hhaIaQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:28:49"
+  },
+  {
+    "business_name": "Manoj Fast Food and Dosa corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "208025",
+    "phone_number": "+91 95987 39138",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Metro pole no 208, Rawatpur Main Rd, near Nalanda restaurant, Gutaiya, Ghutaia Bazar, Nawabganj, Kanpur, Uttar Pradesh 208002",
+    "area": "Gutaiya, Ghutaia Bazar, Nawabganj",
+    "latitude": 26.482062499999998,
+    "longitude": 80.3015625,
+    "place_id": "ChIJaYeu9mw4nDkRCppQzIdWzNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYeu9mw4nDkRCppQzIdWzNw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:28:49"
+  }
+]

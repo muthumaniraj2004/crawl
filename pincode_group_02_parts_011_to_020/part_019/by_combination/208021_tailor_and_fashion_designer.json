@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Designer Clothing Store",
+    "pincode": "208021",
+    "phone_number": "+91 91401 38530",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "198 A, Dwivedi Nagar, Galla Mandi, Shukla Market, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Dwivedi Nagar, Galla Mandi, Shukla Market, Naubasta",
+    "latitude": 26.3877193,
+    "longitude": 80.311393,
+    "place_id": "ChIJZVIjF7tHnDkRC1Ii7ijOGfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVIjF7tHnDkRC1Ii7ijOGfE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:20:01"
+  },
+  {
+    "business_name": "Suman Designer Suits",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "208021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajeev Nagar, Yashoda Nagar, Kanpur, Uttar Pradesh 208021",
+    "area": "Rajeev Nagar, Yashoda Nagar",
+    "latitude": 26.4022313,
+    "longitude": 80.33223459999999,
+    "place_id": "ChIJq5-QtppHnDkRAz7NQAqwQ1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5-QtppHnDkRAz7NQAqwQ1g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:20:01"
+  }
+]

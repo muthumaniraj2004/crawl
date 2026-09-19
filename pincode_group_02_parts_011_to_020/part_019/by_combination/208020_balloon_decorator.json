@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coco Birthday Store",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "208020",
+    "phone_number": "+91 63921 78984",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sabji Mandi Chauraha, Ratanpur Colony, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Sabji Mandi Chauraha, Ratanpur Colony, Panki",
+    "latitude": 26.482367999999997,
+    "longitude": 80.22832629999999,
+    "place_id": "ChIJoxtpjKw3nDkRMmB91O2UXc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxtpjKw3nDkRMmB91O2UXc8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:18:39"
+  },
+  {
+    "business_name": "Balloon Store",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Cake decorating equipment shop",
+    "all_categories": "Cake decorating equipment shop",
+    "pincode": "208020",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/vs___balloon?igsh=MWtnMm1xNWt4bnp5Nw==&utm_source=qr",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gauri Dharam Rd, Panki Power House, Swaraj Nagar, Kanpur, Uttar Pradesh 208020",
+    "area": "Panki Power House, Swaraj Nagar",
+    "latitude": 26.4619468,
+    "longitude": 80.24538319999999,
+    "place_id": "ChIJ2V4LIgBJnDkRTa0RFBxhqUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2V4LIgBJnDkRTa0RFBxhqUE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:18:39"
+  }
+]

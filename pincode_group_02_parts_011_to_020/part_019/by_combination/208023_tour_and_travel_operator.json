@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Gupta Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "208023",
+    "phone_number": "+91 73980 72575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "275/12 N. L.C, Babu Purva Colony, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "Babu Purva Colony, Kidwai Nagar",
+    "latitude": 26.4303495,
+    "longitude": 80.3428666,
+    "place_id": "ChIJG38eFVdHnDkRszxAv9vfkxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG38eFVdHnDkRszxAv9vfkxg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:24:58"
+  },
+  {
+    "business_name": "Khadija Tour and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "208023",
+    "phone_number": "+91 79850 84291",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "131/4-b, Begam Purwa, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "Begam Purwa, Kidwai Nagar",
+    "latitude": 26.4360301,
+    "longitude": 80.34726959999999,
+    "place_id": "ChIJI4Nb9DhHnDkR-v4cQUXtyxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4Nb9DhHnDkR-v4cQUXtyxI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:24:58"
+  }
+]

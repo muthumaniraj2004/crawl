@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anant Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "208019",
+    "phone_number": "+91 79 4253 1866",
+    "website": "https://www.anantchemical.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "116/233 B, Rawatpur, Gao, Kalyanpur, Kanpur, Uttar Pradesh 208019",
+    "area": "Gao, Kalyanpur",
+    "latitude": 26.477466099999997,
+    "longitude": 80.2725524,
+    "place_id": "ChIJZxysJ_Y3nDkRAp-xyaNbsL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxysJ_Y3nDkRAp-xyaNbsL0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:17:02"
+  },
+  {
+    "business_name": "A.H ENTERPRISES",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "208019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "F7J8+RWQ, Shiv Nagar New Basti, Maswanpur, Kanpur, Uttar Pradesh 208019",
+    "area": "Maswanpur",
+    "latitude": 26.4820849,
+    "longitude": 80.26736939999999,
+    "place_id": "ChIJ11SFJPI3nDkRasXkATgVwy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11SFJPI3nDkRasXkATgVwy0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:17:04"
+  }
+]

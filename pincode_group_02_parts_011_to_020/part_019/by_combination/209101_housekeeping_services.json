@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAVERA",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Cleaning products supplier",
+    "pincode": "209101",
+    "phone_number": "N/A",
+    "website": "https://www.indiamart.com/navera/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "NH-19, MADWAI ROAD, AMBEDKAR NAGAR, Akbarpur, Kripalpur, Uttar Pradesh 209101",
+    "area": "AMBEDKAR NAGAR",
+    "latitude": 26.371841699999997,
+    "longitude": 79.9398652,
+    "place_id": "ChIJ9_vcDgC3nTkRFfff-3TkHgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_vcDgC3nTkRFfff-3TkHgs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:37:05"
+  },
+  {
+    "business_name": "mr. blue Pukhrayan",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "209101",
+    "phone_number": "+91 95559 00059",
+    "website": "https://www.mr-blue.in/",
+    "rating": 4.7,
+    "reviews_count": 63,
+    "address": "Lower Ground Floor, Ram Tower, Main Rd, near Baba Mohalla Road, next to Indian Overseas Bank, Pukhrayan, Uttar Pradesh 209111",
+    "area": "209101",
+    "latitude": 26.226809499999998,
+    "longitude": 79.8416723,
+    "place_id": "ChIJyXbPmfSlnTkRqmmxkqycnB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXbPmfSlnTkRqmmxkqycnB4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:37:05"
+  }
+]

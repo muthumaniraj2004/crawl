@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R. K. NAGAR Wellness Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "208012",
+    "phone_number": "N/A",
+    "website": "https://visualize.data.gov.in/?inst=8eede3a2-1652-49eb-bd7f-48ae3ea7a11e",
+    "rating": null,
+    "reviews_count": null,
+    "address": "110/58, Ram Krishna Nagar, Jawahar Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Ram Krishna Nagar, Jawahar Nagar",
+    "latitude": 26.4686423,
+    "longitude": 80.3194537,
+    "place_id": "ChIJF9spkX84nDkRepG86GK_RQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9spkX84nDkRepG86GK_RQk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:03:00"
+  },
+  {
+    "business_name": "getfitwithmadan",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Fitness center",
+    "pincode": "208012",
+    "phone_number": "+91 93077 55509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "First floor, Arham Tower, 111/424, 80 Feet Rd, opposite Home maker, Brahm Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Brahm Nagar, Harsh Nagar",
+    "latitude": 26.472447,
+    "longitude": 80.32205739999999,
+    "place_id": "ChIJX4_OIuZHnDkRQ-t17fmqzbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4_OIuZHnDkRQ-t17fmqzbE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:03:00"
+  }
+]

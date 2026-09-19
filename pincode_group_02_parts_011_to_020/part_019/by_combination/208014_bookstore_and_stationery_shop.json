@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Book Stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, General store",
+    "pincode": "208014",
+    "phone_number": "+91 95988 15103",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 94,
+    "address": "C8Q9+C2Q, Gaushala Rd, Safed Colony, Juhi Safid Colony, Juhi Kalan, Juhi, Kanpur, Uttar Pradesh 208014",
+    "area": "Safed Colony, Juhi Safid Colony, Juhi Kalan, Juhi",
+    "latitude": 26.4385759,
+    "longitude": 80.3176056,
+    "place_id": "ChIJj2BjMaFHnDkR0T4sHjPmU7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2BjMaFHnDkR0T4sHjPmU7o",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:07:51"
+  },
+  {
+    "business_name": "Saraswati Book Stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Pen store, Used book store",
+    "pincode": "208014",
+    "phone_number": "+91 98395 12949",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 304,
+    "address": "127/624, W-1, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "W-1, Juhi Kalan, Saket Nagar",
+    "latitude": 26.436434,
+    "longitude": 80.31549,
+    "place_id": "ChIJW1VV9qNHnDkR6Uy_TZ7SElw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1VV9qNHnDkR6Uy_TZ7SElw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:07:55"
+  }
+]

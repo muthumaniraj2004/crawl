@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair Genius Salon",
+    "search_category": "Salon",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "208023",
+    "phone_number": "+91 96824 73028",
+    "website": "https://www.hairgeniussalon.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sardar patel school ke samne, Akhade Wali Gali, near Annu pal tea stall, Ajith Ganj Colony, baghai, Kanpur, Uttar Pradesh 208023",
+    "area": "Ajith Ganj Colony, baghai",
+    "latitude": 26.435080799999998,
+    "longitude": 80.3397748,
+    "place_id": "ChIJ1TkpJSZHnDkRuxWgP9CZUSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TkpJSZHnDkRuxWgP9CZUSU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:25:15"
+  },
+  {
+    "business_name": "Ashmira Beauty Zone",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Health and beauty shop",
+    "pincode": "208023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "131/362, Begam Purwa, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "Begam Purwa, Kidwai Nagar",
+    "latitude": 26.437900799999998,
+    "longitude": 80.3463076,
+    "place_id": "ChIJ82A995hHnDkR-FEO9ZuaEp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82A995hHnDkR-FEO9ZuaEp0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:25:15"
+  }
+]

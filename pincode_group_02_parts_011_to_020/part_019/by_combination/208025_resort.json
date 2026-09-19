@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Komal Tent Traders",
+    "search_category": "Resort",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "208025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prakash Trading Com, param purwa, 83/153, Road, Saket Nagar, Juhi, Kanpur, Uttar Pradesh 208014",
+    "area": "Saket Nagar, Juhi",
+    "latitude": 26.4510072,
+    "longitude": 80.32774069999999,
+    "place_id": "ChIJq6o1WnFHnDkRRzT46vOF7LY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6o1WnFHnDkRRzT46vOF7LY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:53"
+  },
+  {
+    "business_name": "Blue Sky Hotels and Banquets",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "208025",
+    "phone_number": "+91 63891 23235",
+    "website": "http://hotelksgrand.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "117/Q, 710, Sharda Nagar Rd, near Anurag Hospital, Near Chhapera Pulia, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "Near Chhapera Pulia, Sharda Nagar",
+    "latitude": 26.4831225,
+    "longitude": 80.2877263,
+    "place_id": "ChIJtUjrhSA4nDkRLhEp0LlLyOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUjrhSA4nDkRLhEp0LlLyOs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:29:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Komal Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "208027",
+    "phone_number": "+91 94512 83588",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 46,
+    "address": "vishwa bank j/97, Karrhi, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Karrhi, Barra World Bank, Barra",
+    "latitude": 26.422222299999998,
+    "longitude": 80.3019322,
+    "place_id": "ChIJh3cgLcdHnDkRvAzhcrEBi2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3cgLcdHnDkRvAzhcrEBi2Y",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:34:06"
+  },
+  {
+    "business_name": "Soni Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "208027",
+    "phone_number": "+91 63934 96271",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "I-1063, Sector I, Barra World Bank, Jarauli, Kanpur, Uttar Pradesh 208027",
+    "area": "Sector I, Barra World Bank, Jarauli",
+    "latitude": 26.423187,
+    "longitude": 80.29656,
+    "place_id": "ChIJ-fuSTMpHnDkRj8D7hqZXnac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fuSTMpHnDkRj8D7hqZXnac",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:34:09"
+  }
+]

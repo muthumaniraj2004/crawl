@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sant Csc Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "208022",
+    "phone_number": "+91 88086 82131",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kachchi Basti, Sanjay Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Sanjay Nagar",
+    "latitude": 26.4474023,
+    "longitude": 80.2937785,
+    "place_id": "ChIJT7vOppZHnDkRdlPJmjSa5lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7vOppZHnDkRdlPJmjSa5lE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:23:29"
+  },
+  {
+    "business_name": "Sahaj Jan Seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "208022",
+    "phone_number": "+91 72757 75947",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "5F/354, Awas Vikas Rd, Hanspuram, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Hanspuram, Naubasta",
+    "latitude": 26.397990699999998,
+    "longitude": 80.3295808,
+    "place_id": "ChIJF4O5h_hHnDkRPuArkF0_Kf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4O5h_hHnDkRPuArkF0_Kf0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:23:29"
+  }
+]

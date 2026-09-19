@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Timber Mart",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Wood supplier",
+    "pincode": "209101",
+    "phone_number": "+91 93366 88841",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "105/591, Haleem Muslim College Road, Chaman Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Chaman Ganj, Colonelganj",
+    "latitude": 26.464182599999997,
+    "longitude": 80.3351289,
+    "place_id": "ChIJkRhZdWNHnDkRQNCwaqJkbMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRhZdWNHnDkRQNCwaqJkbMo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:36:16"
+  },
+  {
+    "business_name": "Jk Plywood Products Sachendi",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "209101",
+    "phone_number": "+91 94150 44560",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near police station, Sachendi, Uttar Pradesh 209304",
+    "area": "209101",
+    "latitude": 26.4320055,
+    "longitude": 80.1659796,
+    "place_id": "ChIJJ0tukj9KnDkRIM5H0VuUUXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0tukj9KnDkRIM5H0VuUUXU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:36:18"
+  }
+]

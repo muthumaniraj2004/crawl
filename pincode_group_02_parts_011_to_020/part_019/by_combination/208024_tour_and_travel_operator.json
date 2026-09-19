@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om tours my india travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "208024",
+    "phone_number": "+91 87870 87879",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "2b/402 awas vikas, Hanspuram, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Hanspuram, Naubasta",
+    "latitude": 26.508077,
+    "longitude": 80.2858538,
+    "place_id": "ChIJJfno0a1HnDkRC0smPGSRMTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfno0a1HnDkRC0smPGSRMTI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:27:13"
+  },
+  {
+    "business_name": "Pihu Mahi Travel Agency",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator",
+    "pincode": "208024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Keshavpuram, Sector M, Keshavpuram, Kalyanpur, Kanpur, Uttar Pradesh 208019",
+    "area": "Keshavpuram, Sector M, Keshavpuram, Kalyanpur",
+    "latitude": 26.4877109,
+    "longitude": 80.274399,
+    "place_id": "ChIJQeRNoK83nDkRP5_dFRpgyxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeRNoK83nDkRP5_dFRpgyxA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:27:17"
+  }
+]

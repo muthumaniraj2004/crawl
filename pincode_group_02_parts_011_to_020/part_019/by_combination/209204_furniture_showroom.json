@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "209204",
+    "phone_number": "+91 99354 03525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Rura, Uttar Pradesh 209303",
+    "area": "209204",
+    "latitude": 26.487900699999997,
+    "longitude": 79.9005165,
+    "place_id": "ChIJ-xGssj_HnTkRpccD5TrGqgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xGssj_HnTkRpccD5TrGqgw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:52:43"
+  },
+  {
+    "business_name": "Ram Shyam electronics & furniture store",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "209204",
+    "phone_number": "+91 93686 04926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, Premadevi, Rura, Sivli, Uttar Pradesh 209303",
+    "area": "Premadevi",
+    "latitude": 26.5126484,
+    "longitude": 79.9176311,
+    "place_id": "ChIJW9tMJArHnTkR4jjpq9ajy2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9tMJArHnTkR4jjpq9ajy2Y",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:52:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nijami enterprises",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "209101",
+    "phone_number": "+91 89339 33383",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "00, Akbarpur, Uttar Pradesh 209101",
+    "area": "209101",
+    "latitude": 26.3805995,
+    "longitude": 79.9500478,
+    "place_id": "ChIJ_y4MDRi3nTkRpPtoklO-VCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_y4MDRi3nTkRpPtoklO-VCA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:37:23"
+  },
+  {
+    "business_name": "A S Word Group",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "209101",
+    "phone_number": "+91 512 358 7691",
+    "website": "https://aswordgroup.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mati Rd, Akbarpur South, Akbarpur, Taktauli, Uttar Pradesh 209101",
+    "area": "Akbarpur South",
+    "latitude": 26.3581789,
+    "longitude": 79.9588357,
+    "place_id": "ChIJq-ytpi45nDkRcGJumYKfdBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-ytpi45nDkRcGJumYKfdBA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:37:23"
+  }
+]

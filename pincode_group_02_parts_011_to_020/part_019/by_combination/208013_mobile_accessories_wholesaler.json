@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello Mobile",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "208013",
+    "phone_number": "+91 77839 94009",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C84M+2QP Bajrang Chauraha, M Block, Rajeev Nagar, Kidwai Nagar, Kanpur, Uttar Pradesh 208021",
+    "area": "M Block, Rajeev Nagar, Kidwai Nagar",
+    "latitude": 26.4050929,
+    "longitude": 80.3344539,
+    "place_id": "ChIJb4SGb-5GnDkR2e5sKKtFGl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4SGb-5GnDkR2e5sKKtFGl0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:05:43"
+  },
+  {
+    "business_name": "Mj mobile & accessories",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "208013",
+    "phone_number": "+91 63075 83185",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "near HDFC bank, Keshav Puram, Kalyanpur, Kanpur, Uttar Pradesh 208019",
+    "area": "Keshav Puram, Kalyanpur",
+    "latitude": 26.486179399999997,
+    "longitude": 80.27266589999999,
+    "place_id": "ChIJI5Ys12A3nDkRJKBV7h5ERNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5Ys12A3nDkRJKBV7h5ERNw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:05:44"
+  }
+]

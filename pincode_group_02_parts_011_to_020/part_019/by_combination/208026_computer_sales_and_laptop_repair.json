@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laptop Repair",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electrical & Electronics Stores",
+    "all_categories": "Electrical & Electronics Stores",
+    "pincode": "208026",
+    "phone_number": "+91 89248 44705",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "157, Barra 2 Main Rd, near chauwan, Manohar Nagar, Barra 2, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Manohar Nagar, Barra 2, Barra World Bank, Barra",
+    "latitude": 26.435273,
+    "longitude": 80.302973,
+    "place_id": "ChIJLYW9E7lHnDkRsNuqFpuNYwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYW9E7lHnDkRsNuqFpuNYwI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:32:19"
+  },
+  {
+    "business_name": "Anuj Internet And Photo Copy",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Cafe",
+    "pincode": "208026",
+    "phone_number": "+91 63923 36044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Purana Shivali Rd, near Nageshwar mandir, opposite SBI ATM, Gooba Gardens, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Gooba Gardens, Kalyanpur",
+    "latitude": 26.5010634,
+    "longitude": 80.2491393,
+    "place_id": "ChIJcdjg19M3nDkRLGfc_p2h99A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdjg19M3nDkRLGfc_p2h99A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:32:19"
+  }
+]

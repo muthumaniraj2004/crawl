@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "99 mini mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209125",
+    "phone_number": "+91 88400 60735",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Station Road, near Durga Mandir, Maharaniganj, Veer Pur, Gonda, Uttar Pradesh 271002",
+    "area": "Maharaniganj, Veer Pur",
+    "latitude": 27.151210799999998,
+    "longitude": 81.9704361,
+    "place_id": "ChIJx8rdtr7vmTkRo-3eAt0RBlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8rdtr7vmTkRo-3eAt0RBlI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:47:39"
+  },
+  {
+    "business_name": "Dubai Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "209125",
+    "phone_number": "N/A",
+    "website": "https://thedubaimall.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+    "area": "Burj Khalifa - Downtown Dubai",
+    "latitude": 25.1972295,
+    "longitude": 55.279747,
+    "place_id": "ChIJB1zIKShoXz4RnbaTPPup7aU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1zIKShoXz4RnbaTPPup7aU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:47:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajawat dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C5J7+5J2, NH 19, Sachendi, Uttar Pradesh 209304",
+    "area": "209121",
+    "latitude": 26.430381,
+    "longitude": 80.1640291,
+    "place_id": "ChIJR_nXFM9LnDkRK_pm1NWFyJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_nXFM9LnDkRK_pm1NWFyJw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:43:49"
+  },
+  {
+    "business_name": "Vishal Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209121",
+    "phone_number": "+91 63873 78389",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Kanpur - Jhansi Hwy, Rania, Sherpur Taraunda, Uttar Pradesh 209101",
+    "area": "209121",
+    "latitude": 26.4107091,
+    "longitude": 80.09226249999999,
+    "place_id": "ChIJ43IrSim1nTkRi0kERh_rqsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43IrSim1nTkRi0kERh_rqsU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:43:52"
+  }
+]

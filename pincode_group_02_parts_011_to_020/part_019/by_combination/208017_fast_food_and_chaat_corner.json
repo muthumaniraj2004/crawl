@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santoshi Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "208017",
+    "phone_number": "+91 89539 36967",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "duda v330, Ratanpur Colony, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Ratanpur Colony, Panki",
+    "latitude": 26.487132799999998,
+    "longitude": 80.21904909999999,
+    "place_id": "ChIJycph4Rg3nDkRR9CDTNah28U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycph4Rg3nDkRR9CDTNah28U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:10"
+  },
+  {
+    "business_name": "Nagpal's Chole Bhature",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "208017",
+    "phone_number": "+91 72348 89986",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 167,
+    "address": "16/19 c2, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.4761149,
+    "longitude": 80.3575609,
+    "place_id": "ChIJMVnM9lQ5nDkRksA-sbNE2Wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVnM9lQ5nDkRksA-sbNE2Wg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:10"
+  }
+]

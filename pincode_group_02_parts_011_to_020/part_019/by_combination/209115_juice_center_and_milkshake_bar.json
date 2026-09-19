@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OMG Shake Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "209115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chhota chauraha, Jhinjhak, Uttar Pradesh 209302",
+    "area": "209115",
+    "latitude": 26.5606944,
+    "longitude": 79.7342539,
+    "place_id": "ChIJhTEx2W7pnTkREXtPIJrgmHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhTEx2W7pnTkREXtPIJrgmHY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:41:46"
+  },
+  {
+    "business_name": "Chillzz Shakes And Sundaes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "209115",
+    "phone_number": "+91 63935 00813",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Keshav Vatika Rd, Awas Vikas, Kahdor, Kalyanpur, Lucknow, Kanpur, Uttar Pradesh 226030",
+    "area": "Awas Vikas, Kahdor, Kalyanpur",
+    "latitude": 26.489358,
+    "longitude": 80.2629427,
+    "place_id": "ChIJHajhBYM3nDkRJK93I_PWPrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHajhBYM3nDkRJK93I_PWPrM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:41:47"
+  }
+]

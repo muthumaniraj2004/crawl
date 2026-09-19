@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv medical store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "208017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "F7M4+4WH, Awas Vikas Ambedkar Puram, Maswanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas Ambedkar Puram, Maswanpur",
+    "latitude": 26.4828124,
+    "longitude": 80.25737459999999,
+    "place_id": "ChIJwQICs-s3nDkRX0jNYv-z8Qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQICs-s3nDkRX0jNYv-z8Qs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:27"
+  },
+  {
+    "business_name": "Dr. Amit Singh - Prayag Healthcare Center",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Ayurvedic clinic, Gastroenterologist, Urology clinic",
+    "pincode": "208017",
+    "phone_number": "+91 79854 24383",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M/PR-59 Keshavpuram, near KDMA World School, Awas Vikas -1, Kalyanpur, Kanpur, Uttar Pradesh 208019",
+    "area": "Awas Vikas -1, Kalyanpur",
+    "latitude": 26.4866796,
+    "longitude": 80.2746818,
+    "place_id": "ChIJPxmyRUw3nDkRVqKu1YrUiBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxmyRUw3nDkRVqKu1YrUiBA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:13:27"
+  }
+]

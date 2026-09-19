@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Tadka🌶️",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, North Indian restaurant",
+    "pincode": "208015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3/48, Koyla Nagar, Swarn Jayanti Vihar, Daheli Sujanpur, Kanpur, Uttar Pradesh 208011",
+    "area": "Koyla Nagar, Swarn Jayanti Vihar, Daheli Sujanpur",
+    "latitude": 26.3895596,
+    "longitude": 80.3565579,
+    "place_id": "ChIJ-0ZAZABHnDkRKKHFSgxnwG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0ZAZABHnDkRKKHFSgxnwG4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:08:45"
+  },
+  {
+    "business_name": "TCF (THE CHAKHNA FACTORY)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "208015",
+    "phone_number": "+91 70074 06050",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 149,
+    "address": "7/90A, Khalasi Line, Tilak Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Khalasi Line, Tilak Nagar",
+    "latitude": 26.4860658,
+    "longitude": 80.3235495,
+    "place_id": "ChIJyw7U0qM5nDkR7woU6gwY-7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyw7U0qM5nDkR7woU6gwY-7U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:08:48"
+  }
+]

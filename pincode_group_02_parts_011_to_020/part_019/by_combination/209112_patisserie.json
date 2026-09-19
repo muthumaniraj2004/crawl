@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milton confectionery llp",
+    "search_category": "Patisserie",
+    "primary_category": "Chocolate factory",
+    "all_categories": "Chocolate factory",
+    "pincode": "209112",
+    "phone_number": "+91 78600 82082",
+    "website": "http://www.miltonconfectioneryllp.com/",
+    "rating": 4.1,
+    "reviews_count": 41,
+    "address": "C7VC+P5V, Unnamed Rd, Panki Site Number 5, Dabauli, Kanpur, Uttar Pradesh 208022",
+    "area": "Panki Site Number 5, Dabauli",
+    "latitude": 26.4443633,
+    "longitude": 80.2704212,
+    "place_id": "ChIJzYQ3ZQxInDkRQmjbHoTHWBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYQ3ZQxInDkRQmjbHoTHWBY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:44"
+  },
+  {
+    "business_name": "Mansoori Confectionery",
+    "search_category": "Patisserie",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "209112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4QC4+CGQ, Kalpi, Uttar Pradesh 285204",
+    "area": "209112",
+    "latitude": 26.121083199999998,
+    "longitude": 79.7563665,
+    "place_id": "ChIJnai5dxGhnTkRoKCgvUkDfEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnai5dxGhnTkRoKCgvUkDfEk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:39:44"
+  }
+]

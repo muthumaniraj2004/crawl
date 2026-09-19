@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "209203",
+    "phone_number": "+91 70843 02882",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nahar pull mandhna, near Shivani hardware, Bagdudi Bagar, Kursauli, Kanpur, Uttar Pradesh 209217",
+    "area": "Bagdudi Bagar",
+    "latitude": 26.556041,
+    "longitude": 80.2233098,
+    "place_id": "ChIJgZ9z94gxnDkRo06K84djmco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ9z94gxnDkRo06K84djmco",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:50:26"
+  },
+  {
+    "business_name": "Anas cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "209203",
+    "phone_number": "+91 78600 59512",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivarajpur, Uttar Pradesh 209205",
+    "area": "209203",
+    "latitude": 26.6838578,
+    "longitude": 80.1406672,
+    "place_id": "ChIJO9XiwiUtnDkRXIrNGVVLEpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9XiwiUtnDkRXIrNGVVLEpI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:50:29"
+  }
+]

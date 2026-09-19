@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neha Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "208025",
+    "phone_number": "+91 87074 96681",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "Sharda Nagar",
+    "latitude": 26.4843571,
+    "longitude": 80.2845636,
+    "place_id": "ChIJP5GxDRk4nDkRfcBUuaf43cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5GxDRk4nDkRfcBUuaf43cA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:28:33"
+  },
+  {
+    "business_name": "Katiyar Provision And Gene",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "208025",
+    "phone_number": "+91 98394 87740",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "117/H1/367, P Block, Navin Nagar, Pandu Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "P Block, Navin Nagar, Pandu Nagar",
+    "latitude": 26.4751202,
+    "longitude": 80.2943227,
+    "place_id": "ChIJqx9mmyM5nDkRcDtU2Sw1oWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqx9mmyM5nDkRcDtU2Sw1oWQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:28:33"
+  }
+]

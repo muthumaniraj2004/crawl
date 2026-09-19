@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dipak Auto center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "208014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "322/15b, Anand Vihar, Shyam Vihar, Naubasta, Kanpur, Uttar Pradesh 208027",
+    "area": "Anand Vihar, Shyam Vihar, Naubasta",
+    "latitude": 26.417824699999997,
+    "longitude": 80.31330729999999,
+    "place_id": "ChIJs23RMABHnDkRxbJWWWrutBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs23RMABHnDkRxbJWWWrutBA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:07:02"
+  },
+  {
+    "business_name": "Sanjai Hero Honda Workshop",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "208014",
+    "phone_number": "+91 93691 56292",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "133/767 C, M-Block, Naya Purwa, Kanpur, 133/767, near Rakesh Band, M Block, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "M Block, Kidwai Nagar",
+    "latitude": 26.4351971,
+    "longitude": 80.33574999999999,
+    "place_id": "ChIJJd0BixBHnDkRAwqSW6tSLxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJd0BixBHnDkRAwqSW6tSLxo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:07:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kama Ayurveda",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "209125",
+    "phone_number": "+91 1800 123 2031",
+    "website": "https://www.kamaayurveda.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "03, Mall Rd, Kursawan, Downtown, Kanpur, Uttar Pradesh 208001",
+    "area": "Kursawan, Downtown",
+    "latitude": 26.470160699999997,
+    "longitude": 80.3584805,
+    "place_id": "ChIJpYca36k4nDkRfGOOPvoflhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYca36k4nDkRfGOOPvoflhA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:46:45"
+  },
+  {
+    "business_name": "Prabhat Ayurvedic Pharmacy",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner, Pharmaceutical Products Wholesaler, Pharmacy",
+    "pincode": "209125",
+    "phone_number": "+91 81467 26744",
+    "website": "http://www.prabhat-ayurveda.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1623/12, Gagarmal road, Golden Temple Out Rd, opp. regions cinema, Amritsar, Punjab 143006",
+    "area": "Chowk Regent Cinema, Hathi Gate, Katra Ahluwalia",
+    "latitude": 31.629704999999998,
+    "longitude": 74.87363359999999,
+    "place_id": "ChIJvXmsmKpkGTkRF1lbdNXtapw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXmsmKpkGTkRF1lbdNXtapw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:46:47"
+  }
+]

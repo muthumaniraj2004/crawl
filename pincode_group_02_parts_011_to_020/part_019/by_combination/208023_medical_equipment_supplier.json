@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cfoku Enterprises",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies",
+    "pincode": "208023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Babu Purva Colony, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Babu Purva Colony, Kidwai Nagar",
+    "latitude": 26.4314666,
+    "longitude": 80.3388492,
+    "place_id": "ChIJnzhP87BHnDkRq6hlBqhNJ-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzhP87BHnDkRq6hlBqhNJ-k",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:24:48"
+  },
+  {
+    "business_name": "Rajesh Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "208023",
+    "phone_number": "+91 86040 67332",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "130/565 Near Baker Ganj Bazar, Babu Purwa, Uttar Pradesh 208023",
+    "area": "Babu Purwa, Kidwai Nagar",
+    "latitude": 26.4416753,
+    "longitude": 80.3357906,
+    "place_id": "ChIJpduzuBtHnDkRTXKMm_4V4yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpduzuBtHnDkRTXKMm_4V4yw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:24:48"
+  }
+]

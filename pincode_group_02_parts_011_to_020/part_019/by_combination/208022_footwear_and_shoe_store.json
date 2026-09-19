@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lovely Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Foot care",
+    "pincode": "208022",
+    "phone_number": "+91 98899 31815",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near durga mandir 20e/32, Near Dabauli Main Road, Kanpur, Uttar Pradesh 208022",
+    "area": "Near Dabauli Main Road, Neemeshwar MahaMandir Society, Ratan Lal Nagar",
+    "latitude": 26.4442618,
+    "longitude": 80.283956,
+    "place_id": "ChIJSyW4HudHnDkRn7m_QkKQyL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyW4HudHnDkRn7m_QkKQyL4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:19"
+  },
+  {
+    "business_name": "Kanodia Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Copy shop, Photography studio",
+    "pincode": "208022",
+    "phone_number": "+91 89608 73904",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Gadarian Purwa, Dabauli West, Dabauli, Kanpur, Uttar Pradesh 208022",
+    "area": "Gadarian Purwa, Dabauli West, Dabauli",
+    "latitude": 26.4511559,
+    "longitude": 80.2812617,
+    "place_id": "ChIJmQHbbeNHnDkRrRZqGsr1m8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQHbbeNHnDkRrRZqGsr1m8A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:22:21"
+  }
+]

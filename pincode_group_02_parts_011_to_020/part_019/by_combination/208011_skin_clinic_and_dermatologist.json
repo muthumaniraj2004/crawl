@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor Ji Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "208011",
+    "phone_number": "+91 70075 58162",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "128/118, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Kidwai Nagar",
+    "latitude": 26.4304198,
+    "longitude": 80.33320169999999,
+    "place_id": "ChIJDwsWruVHnDkR3IBTuvLzMDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwsWruVHnDkR3IBTuvLzMDc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:00:14"
+  },
+  {
+    "business_name": "Yuva Skin & Beauty Care",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Cosmetic dentist, Cosmetic surgeon, Dermatologist, Eyebrow bar, Hair removal service, Laser hair removal service, Laser tag center, Nail salon, Ski shop",
+    "pincode": "208011",
+    "phone_number": "+91 98897 31007",
+    "website": "https://www.instagram.com/yuvaskinandbeautycare",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "283, Hamirpur Rd, Lavkush Vihar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Lavkush Vihar, Naubasta",
+    "latitude": 26.4091831,
+    "longitude": 80.3169727,
+    "place_id": "ChIJ4T-VA6pHnDkRuNkaU4FrhY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4T-VA6pHnDkRuNkaU4FrhY0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:00:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shikhar Shoe Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "208026",
+    "phone_number": "+91 96519 69763",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "337/A2, Purana Shivali Rd, near AXIS Bank ATM, Gooba Gardens, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Gooba Gardens, Kalyanpur",
+    "latitude": 26.5008084,
+    "longitude": 80.2538174,
+    "place_id": "ChIJLwxatrs3nDkRtYdNtDxbzIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwxatrs3nDkRtYdNtDxbzIU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:31:10"
+  },
+  {
+    "business_name": "Mohini Footwears",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "208026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "31, GT రోడ్డు, New Azad Nagar, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "area": "New Azad Nagar, Kalyanpur",
+    "latitude": 26.5019581,
+    "longitude": 80.2543014,
+    "place_id": "ChIJE2anPOo3nDkR5qv-ruk6UYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2anPOo3nDkR5qv-ruk6UYE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:31:10"
+  }
+]

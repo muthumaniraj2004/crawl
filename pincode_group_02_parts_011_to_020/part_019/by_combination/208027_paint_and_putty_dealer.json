@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Paints and Hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Store",
+    "pincode": "208027",
+    "phone_number": "+91 90443 79711",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 8,
+    "address": "Yadav Market, Barra 2, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Yadav Market, Barra 2, Barra World Bank, Barra",
+    "latitude": 26.4389233,
+    "longitude": 80.3014152,
+    "place_id": "ChIJH89ud59HnDkRwVTUiZZiE6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH89ud59HnDkRwVTUiZZiE6E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:33:55"
+  },
+  {
+    "business_name": "New Bengal Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "208027",
+    "phone_number": "+91 93072 70290",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "20, Govind Nagar Rd, Vidyarthi Market, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "Vidyarthi Market, Govind Nagar",
+    "latitude": 26.4488868,
+    "longitude": 80.3092616,
+    "place_id": "ChIJm4pWSZdHnDkRHO_kwn9W4FA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4pWSZdHnDkRHO_kwn9W4FA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:33:57"
+  }
+]

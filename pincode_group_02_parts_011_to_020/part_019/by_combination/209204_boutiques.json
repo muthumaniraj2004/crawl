@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priti Cosmetic",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "209204",
+    "phone_number": "+91 63869 51546",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "121, Makrandpur Kahinjari, Uttar Pradesh 209204",
+    "area": "209204",
+    "latitude": 26.608648,
+    "longitude": 79.89494119999999,
+    "place_id": "ChIJWaIjtl7FnTkRzE3B_myjz5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaIjtl7FnTkRzE3B_myjz5k",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:52:10"
+  },
+  {
+    "business_name": "Poonam Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209204",
+    "phone_number": "+91 63937 74412",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "156 L I G, Barra 2, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra 2, Barra World Bank, Barra",
+    "latitude": 26.434013399999998,
+    "longitude": 80.3033071,
+    "place_id": "ChIJef0Wn7lHnDkR7qPmONhTnbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJef0Wn7lHnDkR7qPmONhTnbQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:52:12"
+  }
+]

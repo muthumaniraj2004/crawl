@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "209125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 31,
+    "address": "Alampur, Sikandra, Uttar Pradesh 209125",
+    "area": "209125",
+    "latitude": 26.390915399999997,
+    "longitude": 79.60055129999999,
+    "place_id": "ChIJxzw8Bk2TnTkRqOXsfitTWp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzw8Bk2TnTkRqOXsfitTWp0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:46:56"
+  },
+  {
+    "business_name": "Rahi Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "209125",
+    "phone_number": "+91 96953 08134",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 167,
+    "address": "190,Rajpur Road Rahi Hotel Sikandra Kanpur Dehat, Kanpur, Uttar Pradesh 209125",
+    "area": "209125",
+    "latitude": 26.3616958,
+    "longitude": 79.6330328,
+    "place_id": "ChIJ7zXZ9pmTnTkRYXOWOCgpPKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zXZ9pmTnTkRYXOWOCgpPKQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:46:56"
+  }
+]

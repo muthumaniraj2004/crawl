@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudhanshu Singh",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "209202",
+    "phone_number": "+91 97953 90514",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 38,
+    "address": "Bhikhnapur, Rura, Bhikhanapur, Uttar Pradesh 209303",
+    "area": "Bhikhnapur",
+    "latitude": 26.4575796,
+    "longitude": 79.9441896,
+    "place_id": "ChIJKy3hNjzInTkRmA2hXEwZLSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKy3hNjzInTkRmA2hXEwZLSI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:48:19"
+  },
+  {
+    "business_name": "Kannauj Pet's Policlinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "209202",
+    "phone_number": "+91 73556 83229",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Infront of B, D. Inter college, Thathiya - Manimau Rd, Manimau, Kannauj, Uttar Pradesh 209727",
+    "area": "209202",
+    "latitude": 26.9823879,
+    "longitude": 79.94574229999999,
+    "place_id": "ChIJM2OzW5R7njkRJsyd2ocx7oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2OzW5R7njkRJsyd2ocx7oY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:48:22"
+  }
+]

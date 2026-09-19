@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leela Tailorz",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Clothing alteration service, Gents Tailor",
+    "pincode": "208011",
+    "phone_number": "+91 92362 32425",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "133/1, M Block, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "M Block, Kidwai Nagar",
+    "latitude": 26.434607,
+    "longitude": 80.33538,
+    "place_id": "ChIJgfQLeRpHnDkRlRcqeZHTByk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfQLeRpHnDkRlRcqeZHTByk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:59:53"
+  },
+  {
+    "business_name": "Astha Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "208011",
+    "phone_number": "+91 93360 71702",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "5/11, Usmanpur, Juhi Kalan, Juhi, Kanpur, Uttar Pradesh 208014",
+    "area": "Usmanpur, Juhi Kalan, Juhi",
+    "latitude": 26.430331,
+    "longitude": 80.3189199,
+    "place_id": "ChIJkw8iWqhHnDkRhdgujACJa1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkw8iWqhHnDkRhdgujACJa1s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:59:53"
+  }
+]

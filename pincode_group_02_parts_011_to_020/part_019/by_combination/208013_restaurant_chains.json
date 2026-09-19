@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Beat Restaurant&Lounge",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "208013",
+    "phone_number": "+91 99568 39234",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Turn, 937/9, PAC, Bypass, Shyam Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Shyam Nagar",
+    "latitude": 26.4069886,
+    "longitude": 80.3547104,
+    "place_id": "ChIJx_XsDEZHnDkRl5aM1wEoTqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_XsDEZHnDkRl5aM1wEoTqk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:18"
+  },
+  {
+    "business_name": "Smile Pizza",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Pizza restaurant",
+    "pincode": "208013",
+    "phone_number": "+91 85284 62621",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 510,
+    "address": "190C, chauraha, Shankaracharya Nagar, Deoki Nagar, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Shankaracharya Nagar, Deoki Nagar, Yashoda Nagar",
+    "latitude": 26.4122694,
+    "longitude": 80.3323632,
+    "place_id": "ChIJBWEO3XZHnDkRRU2BrBGUf2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWEO3XZHnDkRRU2BrBGUf2I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:21"
+  }
+]

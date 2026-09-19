@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "208022",
+    "phone_number": "+91 94530 27215",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1218, Ratanlal Nagar Main Rd, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Neemeshwar MahaMandir Society, Ratan Lal Nagar",
+    "latitude": 26.443463899999998,
+    "longitude": 80.2891152,
+    "place_id": "ChIJbzYS3zNHnDkRhSVYcDy6I6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzYS3zNHnDkRhSVYcDy6I6M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:21:53"
+  },
+  {
+    "business_name": "Guru Kripa Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Stationery store",
+    "pincode": "208022",
+    "phone_number": "+91 93365 05109",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "C7VW+2H3, Barra 5 Main Road, near Kda Park, Barra 4, Barra 5, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra 4, Barra 5, Barra World Bank, Barra",
+    "latitude": 26.4425118,
+    "longitude": 80.2964318,
+    "place_id": "ChIJRb94vMFHnDkR7UGOQideeKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRb94vMFHnDkR7UGOQideeKI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:21:54"
+  }
+]

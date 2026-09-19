@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohit balloon decoration (Pukharayan)",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Wedding store",
+    "all_categories": "Wedding store",
+    "pincode": "209111",
+    "phone_number": "+91 89228 92289",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "सुभाष नगर, टॉकीज गली, Pukhrayan, Uttar Pradesh 209111",
+    "area": "टॉकीज गली",
+    "latitude": 26.2235481,
+    "longitude": 79.83781189999999,
+    "place_id": "ChIJ16aHXwClnTkRJuf_yPfVUbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16aHXwClnTkRJuf_yPfVUbw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:38:40"
+  },
+  {
+    "business_name": "HORA SERVICES",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "209111",
+    "phone_number": "+91 73385 84828",
+    "website": "https://horaservices.com/",
+    "rating": 4.7,
+    "reviews_count": 1319,
+    "address": "HORA SERVICES, 209111, India",
+    "area": "209111",
+    "latitude": 20.8584951,
+    "longitude": 76.3035964,
+    "place_id": "ChIJYXOJSkc8tmERpcwhM5MFnMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXOJSkc8tmERpcwhM5MFnMA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:38:43"
+  }
+]

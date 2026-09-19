@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Queen's tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "208015",
+    "phone_number": "+91 93352 30339",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Face 1, E-130, KDA Colony Rd, Ram Puram, Shyam Nagar, Kanpur, Uttar Pradesh 208013",
+    "area": "Ram Puram, Shyam Nagar",
+    "latitude": 26.4089043,
+    "longitude": 80.36148759999999,
+    "place_id": "ChIJY5wgo_hHnDkRTG-awbvKLTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5wgo_hHnDkRTG-awbvKLTk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:08:53"
+  },
+  {
+    "business_name": "M A Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Boutique, Clothing store",
+    "pincode": "208015",
+    "phone_number": "+91 90053 20790",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Depo, 127/4, Juhi Kalan, Juhi, Kanpur, Uttar Pradesh 208014",
+    "area": "Juhi Kalan, Juhi",
+    "latitude": 26.444298099999997,
+    "longitude": 80.3201801,
+    "place_id": "ChIJa8pBH6BHnDkRwLf7-RF7gTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8pBH6BHnDkRwLf7-RF7gTw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:08:56"
+  }
+]

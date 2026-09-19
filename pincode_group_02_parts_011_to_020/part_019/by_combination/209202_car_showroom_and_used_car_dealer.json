@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ani Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "209202",
+    "phone_number": "+91 94517 00070",
+    "website": "http://www.anicars.in/",
+    "rating": 4.7,
+    "reviews_count": 52,
+    "address": "Ab Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Ab Nagar",
+    "latitude": 26.5332018,
+    "longitude": 80.4986189,
+    "place_id": "ChIJfwXvtSAVnDkR4hnfRBVsXcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwXvtSAVnDkR4hnfRBVsXcc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:48:24"
+  },
+  {
+    "business_name": "Tata Motors Showroom Standard Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "209202",
+    "phone_number": "+91 81880 65705",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-motors-cars-showroom-standard-car-dealer-saket-nagar-kanpur-147726/Map",
+    "rating": 3.4,
+    "reviews_count": 68,
+    "address": "H-43 Keshavpuram, Awas Vikas, l, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas, l, Kalyanpur",
+    "latitude": 26.4899052,
+    "longitude": 80.2534416,
+    "place_id": "ChIJk_XA8b83nDkRWc3dY2fesKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_XA8b83nDkRWc3dY2fesKA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:48:27"
+  }
+]

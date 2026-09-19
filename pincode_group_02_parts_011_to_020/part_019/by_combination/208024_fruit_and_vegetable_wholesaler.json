@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Nursery",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery, Wholesale plant nursery",
+    "pincode": "208024",
+    "phone_number": "+91 99366 23664",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gurudev Chauraha, 00, GT Rd, Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024",
+    "area": "Lakhanpur, Khyora",
+    "latitude": 26.4933078,
+    "longitude": 80.27935699999999,
+    "place_id": "ChIJyzws2CA4nDkRy70cpDB6fgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzws2CA4nDkRy70cpDB6fgk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:26:27"
+  },
+  {
+    "business_name": "Freshbasketindia",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler, Service establishment",
+    "pincode": "208024",
+    "phone_number": "N/A",
+    "website": "https://freshbasketindia.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Freshbasketindia, 208024, India",
+    "area": "208024",
+    "latitude": 26.441531599999998,
+    "longitude": 80.2411037,
+    "place_id": "ChIJFWTUICY3paoR8PuqztCSWCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWTUICY3paoR8PuqztCSWCc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:26:30"
+  }
+]

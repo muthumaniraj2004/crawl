@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GAURI HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "208015",
+    "phone_number": "+91 94524 89307",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "Bakergonj, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "Bakergonj, Kidwai Nagar",
+    "latitude": 26.440959199999998,
+    "longitude": 80.3377387,
+    "place_id": "ChIJx2P1RHlHnDkRZkdw5fY9XpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2P1RHlHnDkRZkdw5fY9XpM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:06"
+  },
+  {
+    "business_name": "Dheeraj Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "208015",
+    "phone_number": "+91 70810 70809",
+    "website": "https://dheerajhospital.com/",
+    "rating": 4.3,
+    "reviews_count": 40,
+    "address": "99W7+Q6C, 1386, Road, Koyla Nagar, Swarn Jayanti Vihar, Daheli Sujanpur, Kanpur, Uttar Pradesh 208011",
+    "area": "Koyla Nagar, Swarn Jayanti Vihar, Daheli Sujanpur",
+    "latitude": 26.3969383,
+    "longitude": 80.3630177,
+    "place_id": "ChIJDeZv52RHnDkRtx2mzNK9pZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeZv52RHnDkRtx2mzNK9pZI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Thali Company",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "208019",
+    "phone_number": "+91 98267 29955",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "117/443/L, P Block, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "P Block, Navin Nagar, Kakadeo",
+    "latitude": 26.4752072,
+    "longitude": 80.29101639999999,
+    "place_id": "ChIJietKgzY5nDkRxeQhEXk77tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJietKgzY5nDkRxeQhEXk77tk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:15:24"
+  },
+  {
+    "business_name": "Dubey bhojnalaya",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "208019",
+    "phone_number": "+91 96968 20684",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "F7MQ+2JG, Chhapeda Pulia, Geeta Nagar, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "Chhapeda Pulia, Geeta Nagar, Sharda Nagar",
+    "latitude": 26.482557999999997,
+    "longitude": 80.2890693,
+    "place_id": "ChIJq-ynmJ45nDkRJ0HqCWS0FhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-ynmJ45nDkRJ0HqCWS0FhQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:15:28"
+  }
+]

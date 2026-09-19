@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aayush Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "208016",
+    "phone_number": "+91 75250 52086",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "metro station, Near IIT Kanpur, Kalyanpur, Kanpur, Uttar Pradesh 208016",
+    "area": "Near IIT Kanpur, Kalyanpur",
+    "latitude": 26.510545999999998,
+    "longitude": 80.2469105,
+    "place_id": "ChIJSVTgYWE3nDkRaawowy3HZH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVTgYWE3nDkRaawowy3HZH8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:10:51"
+  },
+  {
+    "business_name": "Atoz pet supplies and food pet care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "208016",
+    "phone_number": "+91 95699 55682",
+    "website": "https://www.instagram.com/danveer_angraj_karn?igsh=MW1rOGJ0MHh1aHJtcw==",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anand, Gooba Garden Rd, Gooba Gardens, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Gooba Gardens, Kalyanpur",
+    "latitude": 26.503785999999998,
+    "longitude": 80.247923,
+    "place_id": "ChIJ6UZWMKE3nDkRsGjYQW_6GUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UZWMKE3nDkRsGjYQW_6GUA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:10:51"
+  }
+]

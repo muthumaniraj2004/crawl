@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunbeam",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency",
+    "pincode": "208012",
+    "phone_number": "+91 98897 27198",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "A, 104, 331, 80 Feet Rd, Ram Bagh, Kanpur, Uttar Pradesh 208012",
+    "area": "Nehru Nagar, Ram Bagh",
+    "latitude": 26.4725802,
+    "longitude": 80.3268275,
+    "place_id": "ChIJDdqfFvw5nDkR9tRgCT5jKeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdqfFvw5nDkR9tRgCT5jKeM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:03:37"
+  },
+  {
+    "business_name": "Real Estate Agency",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "208012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Indradeep Complex, 117/N/47, near ICICI Bank, Avon Market, Ambedkar Nagar, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "Avon Market, Ambedkar Nagar, Navin Nagar, Kakadeo",
+    "latitude": 26.475933299999998,
+    "longitude": 80.294843,
+    "place_id": "ChIJtZpX6Uw5nDkRXgI44OC7rcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZpX6Uw5nDkRXgI44OC7rcU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:03:41"
+  }
+]

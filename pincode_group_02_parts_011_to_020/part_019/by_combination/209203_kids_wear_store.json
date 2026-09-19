@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Women's clothing store",
+    "pincode": "209203",
+    "phone_number": "+91 70802 19155",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mandhana, Uttar Pradesh 209217",
+    "area": "209203",
+    "latitude": 26.5547978,
+    "longitude": 80.2263375,
+    "place_id": "ChIJs7Y2fk8xnDkRPHgHn8ijEVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7Y2fk8xnDkRPHgHn8ijEVM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:50:00"
+  },
+  {
+    "business_name": "Harshi Kids Wear & Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "209203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Shop No. 4, Mishra Market Pachor Road, Mandhana Opp-Dr Rajendra Clinic, Uttar Pradesh 209217",
+    "area": "209203",
+    "latitude": 26.567138999999997,
+    "longitude": 80.2357095,
+    "place_id": "ChIJz-bgE5ExnDkRHfjSwdTY0k4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-bgE5ExnDkRHfjSwdTY0k4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:50:00"
+  }
+]

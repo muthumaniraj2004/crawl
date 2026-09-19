@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J K. juice and Health CLUB",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "209101",
+    "phone_number": "+91 96161 53034",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Chaubepur Pankhan, Nonha Kalan, Uttar Pradesh 209203",
+    "area": "209101",
+    "latitude": 26.619878399999997,
+    "longitude": 80.19780589999999,
+    "place_id": "ChIJSdQpcY0xnDkRLPKkzvJjYQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdQpcY0xnDkRLPKkzvJjYQk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:35:28"
+  },
+  {
+    "business_name": "Delhi Juice And Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "209101",
+    "phone_number": "+91 87219 67421",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "C87Q+4QH, Deoki Nagar, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Deoki Nagar, Yashoda Nagar",
+    "latitude": 26.4128235,
+    "longitude": 80.33949679999999,
+    "place_id": "ChIJRSLFe1lHnDkRIvpsDUAgGzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSLFe1lHnDkRIvpsDUAgGzg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:35:31"
+  }
+]

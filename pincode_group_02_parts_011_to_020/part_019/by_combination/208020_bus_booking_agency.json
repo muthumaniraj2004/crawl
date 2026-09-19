@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Travels Agency",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "208020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ambedkar Nagar, Gujaini, Kanpur, Uttar Pradesh 208022",
+    "area": "Ambedkar Nagar, Gujaini",
+    "latitude": 26.438793399999998,
+    "longitude": 80.269421,
+    "place_id": "ChIJJddDoStJnDkR6YwwFKRjLOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJddDoStJnDkR6YwwFKRjLOI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:18:14"
+  },
+  {
+    "business_name": "Shiv Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "208020",
+    "phone_number": "+91 96512 18081",
+    "website": "https://shiv-toursandtravels.vercel.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "876/145, Ratanpur Colony, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Ratanpur Colony, Panki",
+    "latitude": 26.4837718,
+    "longitude": 80.22722999999999,
+    "place_id": "ChIJ9WirBL03nDkRbyCPz1dQvxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WirBL03nDkRbyCPz1dQvxw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:18:16"
+  }
+]

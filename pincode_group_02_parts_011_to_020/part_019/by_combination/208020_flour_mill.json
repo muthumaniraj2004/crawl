@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Atta Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "208020",
+    "phone_number": "+91 99194 16472",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13, Bhimsen Bypass Rd, Panki Padaw, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Panki Padaw, Panki",
+    "latitude": 26.460043199999998,
+    "longitude": 80.2230989,
+    "place_id": "ChIJRbWNz9dJnDkR9RI_yR1uzvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbWNz9dJnDkR9RI_yR1uzvQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:17:27"
+  },
+  {
+    "business_name": "Shivam Atta Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "208020",
+    "phone_number": "+91 91299 30990",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 14,
+    "address": "S.F, S.7, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "S.F, S.7, Panki",
+    "latitude": 26.4628823,
+    "longitude": 80.22689179999999,
+    "place_id": "ChIJmax4ISo2nDkRrjXfYFw42Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmax4ISo2nDkRrjXfYFw42Xg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:17:27"
+  }
+]

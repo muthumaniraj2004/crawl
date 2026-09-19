@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Chandrika Auto Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "208013",
+    "phone_number": "+91 88405 20112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "133/771, M Block, Marble Market, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "M Block, Marble Market, Kidwai Nagar",
+    "latitude": 26.4361905,
+    "longitude": 80.3346893,
+    "place_id": "ChIJDTBSfABHnDkR0xf577XyeTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTBSfABHnDkR0xf577XyeTc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:49"
+  },
+  {
+    "business_name": "BABA ANANDESWAR CAR DETAILING AND WASH",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "208013",
+    "phone_number": "+91 79055 39026",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Puliya, 13, Yashoda Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Yashoda Nagar",
+    "latitude": 26.4060247,
+    "longitude": 80.3338866,
+    "place_id": "ChIJP61bYfBHnDkRwgV9eJBlOhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP61bYfBHnDkRwgV9eJBlOhU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:04:49"
+  }
+]

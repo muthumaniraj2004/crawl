@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Clothes Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "208024",
+    "phone_number": "+91 80527 97415",
+    "website": "https://bharat-style-emporium--siddharthsin105.replit.app/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "253, Sharda Nagar Rd, Rajiv Nagar, vinayakpurSharda, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "Rajiv Nagar, vinayakpurSharda, Sharda Nagar",
+    "latitude": 26.4861675,
+    "longitude": 80.2822102,
+    "place_id": "ChIJLamfMh84nDkRJYDywlCl8nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLamfMh84nDkRJYDywlCl8nE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:26:41"
+  },
+  {
+    "business_name": "Himanshi Garments And School Dress",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "208024",
+    "phone_number": "+91 99350 53162",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop Number. 123, Indra Rd, Beside Surender Chesmeywala, Vikas Nagar, Nagar Nigam Market, Khyora, Kanpur, Uttar Pradesh 208002",
+    "area": "Vikas Nagar, Nagar Nigam Market, Khyora",
+    "latitude": 26.4954994,
+    "longitude": 80.2883227,
+    "place_id": "ChIJ5-u0Tzs4nDkRhIUIEY2o-28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-u0Tzs4nDkRhIUIEY2o-28",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:26:41"
+  }
+]

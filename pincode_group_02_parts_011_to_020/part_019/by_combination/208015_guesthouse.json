@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarojini Palace",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "208015",
+    "phone_number": "+91 98893 17366",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 17,
+    "address": "C929+GG2, Adarsh Vihar, Daheli Sujanpur, Kanpur, Uttar Pradesh 208015",
+    "area": "Adarsh Vihar, Daheli Sujanpur",
+    "latitude": 26.4012556,
+    "longitude": 80.3687748,
+    "place_id": "ChIJCekvkB1BnDkRB7_HH61HIbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCekvkB1BnDkRB7_HH61HIbM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:53"
+  },
+  {
+    "business_name": "Saffron Food Products LLP",
+    "search_category": "Guesthouse",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "208015",
+    "phone_number": "+91 99789 30302",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kishan Industrial Plots-54, B/H Ajayraj Hotel, NH-27 Bharudi, Gondal, Uttar Pradesh 208015",
+    "area": "Daheli Sujanpur",
+    "latitude": 26.4018451,
+    "longitude": 80.37528259999999,
+    "place_id": "ChIJ9Sii3DdBnDkR4hPp0u76M_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Sii3DdBnDkR4hPp0u76M_4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 08:09:56"
+  }
+]
