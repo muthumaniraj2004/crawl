@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blessed unisex saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177206",
+    "phone_number": "+91 78070 97010",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rahighat, Raighat, Theog, Himachal Pradesh 171201",
+    "area": "Rahighat, Raighat",
+    "latitude": 31.127407899999998,
+    "longitude": 77.34927449999999,
+    "place_id": "ChIJRW5bJfCFBTkR8dw1KybXqPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRW5bJfCFBTkR8dw1KybXqPM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:55:08"
+  },
+  {
+    "business_name": "Beauty Collection",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Jewelry store",
+    "pincode": "177206",
+    "phone_number": "+91 70186 86882",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Chowk Bazar, Lower Bazar, Ganj Bazar, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Lower Bazar, Ganj Bazar, Bajoral Khurd",
+    "latitude": 30.9088064,
+    "longitude": 77.1064,
+    "place_id": "ChIJBRzYTkqBDzkRAAAAMH36fxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRzYTkqBDzkRAAAAMH36fxQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:55:10"
+  }
+]

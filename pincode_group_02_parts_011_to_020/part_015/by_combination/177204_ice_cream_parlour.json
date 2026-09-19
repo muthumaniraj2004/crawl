@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exotic Pizza",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "177204",
+    "phone_number": "+91 70180 73969",
+    "website": "https://instagram.com/exotic._.pizza?igshid=MzRlODBiNWFlZA==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "177204, near Hero Agency, near Mawa Kaholan, Mawa Kaholan, Daulatpur, Himachal Pradesh 177204",
+    "area": "177204",
+    "latitude": 31.757372399999998,
+    "longitude": 76.01751879999999,
+    "place_id": "ChIJqeWYVFEZGzkR5JUhn6No0fU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeWYVFEZGzkR5JUhn6No0fU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:44"
+  },
+  {
+    "business_name": "PIZZA HOUSE CHALET",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "177204",
+    "phone_number": "+91 88940 41014",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Chalet, Daulatpur, Himachal Pradesh 177204",
+    "area": "177204",
+    "latitude": 31.769450799999998,
+    "longitude": 76.0032792,
+    "place_id": "ChIJsZJ-TdsXGzkRiOF4EOD-nM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZJ-TdsXGzkRiOF4EOD-nM0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:44"
+  }
+]

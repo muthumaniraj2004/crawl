@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIFE CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177118",
+    "phone_number": "+91 98901 07007",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivnagar, Urun-Ishwarpur, Maharashtra 415409",
+    "area": "Shivnagar",
+    "latitude": 17.050034,
+    "longitude": 74.2604388,
+    "place_id": "ChIJz6Jy6it1wTsRl1eN4FcL394",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6Jy6it1wTsRl1eN4FcL394",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:42:01"
+  },
+  {
+    "business_name": "Health ok clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177118",
+    "phone_number": "+91 79052 92830",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Marathipura, Ragaul, Fattehpur, Uttar Pradesh 210507",
+    "area": "Marathipura",
+    "latitude": 25.6867613,
+    "longitude": 80.0994822,
+    "place_id": "ChIJIfUtYHbfnDkRYLbqropjARs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfUtYHbfnDkRYLbqropjARs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:42:01"
+  }
+]

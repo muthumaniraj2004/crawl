@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartik International",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "177107",
+    "phone_number": "+91 88532 22925",
+    "website": "http://www.kartikinternational.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Godown-1, Mahendra Singh Compound, near Passport Office, Sector 18, Gurugram, Sarhol, Haryana 122015",
+    "area": "Sector 18",
+    "latitude": 28.4908428,
+    "longitude": 77.077253,
+    "place_id": "ChIJdec_WNAZDTkRUG-giKHZ7Y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdec_WNAZDTkRUG-giKHZ7Y8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:43"
+  },
+  {
+    "business_name": "Post Office Rajpur Jaswan",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "177107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q56J+VGC, VPO, Tehsil, Rajpur Jaswan, AMB, Himachal Pradesh 177210",
+    "area": "Tehsil",
+    "latitude": 31.760469599999997,
+    "longitude": 76.1810714,
+    "place_id": "ChIJUb_rAQAlGzkRD_mCpgjB7pE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUb_rAQAlGzkRD_mCpgjB7pE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:43"
+  }
+]

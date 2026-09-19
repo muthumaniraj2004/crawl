@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Fry, Fish pickle shop ( 50 years old)",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood restaurant",
+    "all_categories": "Seafood restaurant, Non Vegetarian Restaurant",
+    "pincode": "177204",
+    "phone_number": "+91 98822 27441",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 42,
+    "address": "Roura sector, Upper Nihal, Bilaspur, Himachal Pradesh 174001",
+    "area": "Upper Nihal",
+    "latitude": 31.3468625,
+    "longitude": 76.75961079999999,
+    "place_id": "ChIJd6bqaB4_BTkRCflSopDfwQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6bqaB4_BTkRCflSopDfwQQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:35"
+  },
+  {
+    "business_name": "Pawan Bartan Store",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "177204",
+    "phone_number": "+91 98165 08961",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Main Bazzar, Daulatpur, Himachal Pradesh 177204",
+    "area": "177204",
+    "latitude": 31.776154499999997,
+    "longitude": 75.9982145,
+    "place_id": "ChIJG_ZBdNUXGzkRhujHuBKC1WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_ZBdNUXGzkRhujHuBKC1WI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:35"
+  }
+]

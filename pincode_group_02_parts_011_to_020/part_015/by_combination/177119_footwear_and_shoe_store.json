@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177119",
+    "phone_number": "+91 93219 44535",
+    "website": "https://stores.metroshoes.com/metro-shoes-shri-krishna-puri-boring-road-patna-bihar-pbs",
+    "rating": 4.5,
+    "reviews_count": 1173,
+    "address": "Shop, Boring Rd, opposite Jamuna Apartment, Sri Krishna Puri, Patna, Bihar 800001",
+    "area": "Sri Krishna Puri",
+    "latitude": 25.616131199999998,
+    "longitude": 85.1139845,
+    "place_id": "ChIJvcAonFtY7TkREPVrpFyy9oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcAonFtY7TkREPVrpFyy9oY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:43:39"
+  },
+  {
+    "business_name": "Parmar Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177119",
+    "phone_number": "+91 63532 89124",
+    "website": "http://www.parmarboothouse.com/",
+    "rating": 5,
+    "reviews_count": 2188,
+    "address": "Shop No.4, Ramnagar Char Rasta, Rander Rd, nr. Kanaiya Fashion, Surat, Gujarat 395005",
+    "area": "Ramnagar, Sima Nagar",
+    "latitude": 21.2163455,
+    "longitude": 72.7911008,
+    "place_id": "ChIJA9SwnWpN4DsR5xSd_O-ZDxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9SwnWpN4DsR5xSd_O-ZDxQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:43:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti kunj",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "177204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Q2XC+MV5, Ghanuri, Himachal Pradesh 177204",
+    "area": "177204",
+    "latitude": 31.799129899999997,
+    "longitude": 76.02224369999999,
+    "place_id": "ChIJSZiwPgAXGzkRIiUhohIKEc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZiwPgAXGzkRIiUhohIKEc8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:51:37"
+  },
+  {
+    "business_name": "Atul Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "177204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RXQ5+HW5, Sector 1, Parwanoo, Himachal Pradesh 173220",
+    "area": "Sector 1",
+    "latitude": 30.8389676,
+    "longitude": 76.9599135,
+    "place_id": "ChIJVYJcLACPDzkRUUayoZXobOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYJcLACPDzkRUUayoZXobOA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:51:38"
+  }
+]

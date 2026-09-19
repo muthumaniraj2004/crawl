@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aanchal Realtors",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "177034",
+    "phone_number": "+91 70093 15802",
+    "website": "https://aanchalrealtors.com/",
+    "rating": 5,
+    "reviews_count": 144,
+    "address": "1327, 7 phase, near YPS Chowk, Sector 61, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Sector 61",
+    "latitude": 30.709743699999997,
+    "longitude": 76.7280583,
+    "place_id": "ChIJVzjNKJ3vDzkRtJ9vvOiChV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzjNKJ3vDzkRtJ9vvOiChV8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:59:38"
+  },
+  {
+    "business_name": "Hall For Rent",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency",
+    "pincode": "177034",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Bhagwati filling station, Nadaun, Himachal Pradesh 177033",
+    "area": "177034",
+    "latitude": 31.786391,
+    "longitude": 76.34615339999999,
+    "place_id": "ChIJQ_Eh2uYvGzkRB_Cg33m3SZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_Eh2uYvGzkRB_Cg33m3SZI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:59:40"
+  }
+]

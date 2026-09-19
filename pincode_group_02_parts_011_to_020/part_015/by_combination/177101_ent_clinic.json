@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DORA'S ENT CLINIC",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177101",
+    "phone_number": "+91 86390 30769",
+    "website": "https://dorasent.com/",
+    "rating": 4.9,
+    "reviews_count": 1208,
+    "address": "Flat no-104, Jayaprabha Apartments, opposite West Side Shopping mall, Near PM Pallem Road, Chandrampalem, Midhilapuri Vuda Colony, Madhurawada, Madhuravada, Andhra Pradesh 530041",
+    "area": "Near PM Pallem Road, Chandrampalem, Midhilapuri Vuda Colony, Madhurawada",
+    "latitude": 17.8043847,
+    "longitude": 83.3585487,
+    "place_id": "ChIJE2awqM5bOToRaykM01qEMRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2awqM5bOToRaykM01qEMRs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:16:48"
+  },
+  {
+    "business_name": "Sai Deep ENT Clinc",
+    "search_category": "ENT Clinic",
+    "primary_category": "Otolaryngology clinic",
+    "all_categories": "Otolaryngology clinic",
+    "pincode": "177101",
+    "phone_number": "+91 99643 41112",
+    "website": "N/A",
+    "rating": 1.9,
+    "reviews_count": 17,
+    "address": "WG85+7VQ, Madhav Ratna Complex, Near Raghvendra Temple KEB Office, Road, Bidar, Karnataka 585401",
+    "area": "Bank colony",
+    "latitude": 17.9157168,
+    "longitude": 77.5097468,
+    "place_id": "ChIJtcERr9DGzjsRJVWtSWQbKo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcERr9DGzjsRJVWtSWQbKo8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:16:48"
+  }
+]

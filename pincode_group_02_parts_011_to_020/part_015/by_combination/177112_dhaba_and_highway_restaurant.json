@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FFC Dhaba & Hotel Vedbimla",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant, Health food restaurant, Hotel",
+    "pincode": "177112",
+    "phone_number": "+91 94599 92004",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Manali Rd, Panarsa, Himachal Pradesh 175121",
+    "area": "177112",
+    "latitude": 31.7761139,
+    "longitude": 77.1930513,
+    "place_id": "ChIJbeHklV__BDkRFEO5JGf7dNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeHklV__BDkRFEO5JGf7dNI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:25"
+  },
+  {
+    "business_name": "Camp Lungta foods(kangri dham)",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "177112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 161,
+    "address": "Dharamsala Rd, near Domino's hub, Dari, Dharamshala, Hodal, Himachal Pradesh 176215",
+    "area": "Dari",
+    "latitude": 32.193920999999996,
+    "longitude": 76.3468413,
+    "place_id": "ChIJE9Z7gcdRGzkRF7ID3InL6Tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9Z7gcdRGzkRF7ID3InL6Tw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:26"
+  }
+]

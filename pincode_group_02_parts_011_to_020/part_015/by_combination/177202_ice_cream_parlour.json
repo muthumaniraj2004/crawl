@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dominos Pizza | Am Atrium, Amb, Himachal Pradesh",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "177202",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 4.4,
+    "reviews_count": 461,
+    "address": "3 And 4, At AM Atrium, Ground Floor, Plot No. 2, Adarsh Nagar, Amb, Himachal Pradesh 177203",
+    "area": "Adarsh Nagar",
+    "latitude": 31.7008594,
+    "longitude": 76.1030517,
+    "place_id": "ChIJaXg0erwjGzkRFEZlo_hZdxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXg0erwjGzkRFEZlo_hZdxE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:06"
+  },
+  {
+    "business_name": "Vinayak food hunt",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "177202",
+    "phone_number": "+91 98160 02403",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 2, Dharamshala Road, near B P S, Gagret, Himachal Pradesh 177202",
+    "area": "177202",
+    "latitude": 31.730542,
+    "longitude": 76.0955518,
+    "place_id": "ChIJddZbOAAjGzkRUgIbDG8WxLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddZbOAAjGzkRUgIbDG8WxLs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:06"
+  }
+]

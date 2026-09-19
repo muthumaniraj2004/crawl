@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Maa Karyana Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177109",
+    "phone_number": "+91 98057 19636",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Ward No 7, NH 70, Himachal Pradesh 177213",
+    "area": "177109",
+    "latitude": 31.691938999999998,
+    "longitude": 76.0773526,
+    "place_id": "ChIJvxgWVxkZGzkR11x0xur8NGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxgWVxkZGzkR11x0xur8NGM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:34"
+  },
+  {
+    "business_name": "Pull wala bazar old post office una HP",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "177109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pull Wala Bazar, Una, Himachal Pradesh 174303",
+    "area": "177109",
+    "latitude": 31.471707199999997,
+    "longitude": 76.2632338,
+    "place_id": "ChIJDckDWQDbGjkREOchU8lFBBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDckDWQDbGjkREOchU8lFBBY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:34"
+  }
+]

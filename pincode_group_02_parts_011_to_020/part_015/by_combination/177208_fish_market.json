@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TJM FISH WHOLESALE",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Grocery store",
+    "pincode": "177208",
+    "phone_number": "+91 93420 77044",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Fish Market, Bilal Nagar, Ukkadam, Coimbatore, Tamil Nadu 641023",
+    "area": "Bilal Nagar, Ukkadam",
+    "latitude": 10.9858044,
+    "longitude": 76.9662036,
+    "place_id": "ChIJ1Qx94Z1ZqDsRg4xm6Q8RlUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Qx94Z1ZqDsRg4xm6Q8RlUU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:57:58"
+  },
+  {
+    "business_name": "Fish & Chicken Market",
+    "search_category": "Fish Market",
+    "primary_category": "Fresh food market",
+    "all_categories": "Fresh food market",
+    "pincode": "177208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "PR9C+MPW, Sector 13, Chandigarh, 160101",
+    "area": "Sector 13",
+    "latitude": 30.7192381,
+    "longitude": 76.8218395,
+    "place_id": "ChIJ_6WebdTsDzkR81G5LAzknoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6WebdTsDzkR81G5LAzknoA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:57:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Department of Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "177113",
+    "phone_number": "+91 94191 40760",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Vetinery college, Holta, Palampur, Banuri, Himachal Pradesh 176062",
+    "area": "Holta",
+    "latitude": 32.1044388,
+    "longitude": 76.56157329999999,
+    "place_id": "ChIJJzz21DaxBDkRBtCEJdzfGZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzz21DaxBDkRBtCEJdzfGZE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:36:07"
+  },
+  {
+    "business_name": "Sunty poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "177113",
+    "phone_number": "+91 98050 34602",
+    "website": "https://suntypoultryfarm.justdial.com/?mode=preview&&OPEN_OUTSIDE_APP=1",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vpo, Matour, Himachal Pradesh 176001",
+    "area": "177113",
+    "latitude": 32.133053,
+    "longitude": 76.2941298,
+    "place_id": "ChIJcWJwZCRPGzkRhpSUuW2-mU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWJwZCRPGzkRhpSUuW2-mU4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:36:08"
+  }
+]

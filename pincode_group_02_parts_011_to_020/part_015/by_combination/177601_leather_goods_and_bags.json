@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tumbledry Dry Clean & Laundry Service",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Carpet cleaning service, Laundry, Laundry service, Shoe repair shop",
+    "pincode": "177601",
+    "phone_number": "+91 76772 50250",
+    "website": "https://tumbledry.in/store-locations/tumbledry-dry-clean-laundry-store-barchhwar-sarkaghat/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bari Road, opposite Punjab National Bank, Barchhwar, Sarkaghat, Himachal Pradesh 175024",
+    "area": "Barchhwar",
+    "latitude": 31.6832566,
+    "longitude": 76.7302189,
+    "place_id": "ChIJsVoNtt3ZBDkRqu2NpiSjSII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVoNtt3ZBDkRqu2NpiSjSII",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:18:20"
+  },
+  {
+    "business_name": "Bata Shoe Store",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Belt shop, Boot store, Clothing store",
+    "pincode": "177601",
+    "phone_number": "+91 98170 41850",
+    "website": "https://stores.bata.com/bata-shoes-sandals-store-in-the-mall-shimla",
+    "rating": 4.5,
+    "reviews_count": 233,
+    "address": "42, Mall Rd, Middle Bazar, The Mall, Shimla, Himachal Pradesh 171001",
+    "area": "Middle Bazar, The Mall",
+    "latitude": 31.104476,
+    "longitude": 77.17326369999999,
+    "place_id": "ChIJg-BTfZN4BTkR8WATuoytv4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-BTfZN4BTkR8WATuoytv4Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:18:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahbaz Car Mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "177111",
+    "phone_number": "+91 89196 71760",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Shop No 126, Main Road, near by Ghardhaba Opo, Zaheerabad, Allipur, Telangana 502318",
+    "area": "177111",
+    "latitude": 17.6816752,
+    "longitude": 77.6403483,
+    "place_id": "ChIJifYsXoW1zjsRZSMe_TOn_Cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJifYsXoW1zjsRZSMe_TOn_Cg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:01"
+  },
+  {
+    "business_name": "M.A CAR CARE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "177111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sitarampur, Telangana 502313",
+    "area": "177111",
+    "latitude": 17.746785799999998,
+    "longitude": 78.2894948,
+    "place_id": "ChIJf5XlvCsLzDsRCX2zhdKdYJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5XlvCsLzDsRCX2zhdKdYJI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:03"
+  }
+]

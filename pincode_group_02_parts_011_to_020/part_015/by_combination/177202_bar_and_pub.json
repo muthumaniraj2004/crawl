@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The White House Lounge & Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "177202",
+    "phone_number": "+91 94651 01000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Grain Market, Phagwara Hoshiarpur Rd, Bhagat Singh Nagar, Hoshiarpur, Punjab 146001",
+    "area": "Bhagat Singh Nagar",
+    "latitude": 31.513423799999998,
+    "longitude": 75.8982675,
+    "place_id": "ChIJfXEvN5_9GjkR1vPsjk8M8NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXEvN5_9GjkR1vPsjk8M8NQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:08"
+  },
+  {
+    "business_name": "The Bottle and Glass Restobar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar & grill",
+    "all_categories": "Bar & grill",
+    "pincode": "177202",
+    "phone_number": "+91 188 250 0108",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 187,
+    "address": "NEAR, Inside Swaran Cineplex, Ground Floor, Bus Stand Rd, Hoshiarpur, Punjab 146001",
+    "area": "Sukhdev Nagar",
+    "latitude": 31.533725999999998,
+    "longitude": 75.90526,
+    "place_id": "ChIJySg_LtLiGjkR4YX7HJ9NcmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySg_LtLiGjkR4YX7HJ9NcmY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lovely traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "177501",
+    "phone_number": "+91 72174 03959",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "MJ59+7R8, Dera Parol, Himachal Pradesh 177501",
+    "area": "177501",
+    "latitude": 31.6581574,
+    "longitude": 76.6195915,
+    "place_id": "ChIJ015o_UXXBDkR7AkOciXTsq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ015o_UXXBDkR7AkOciXTsq4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:56"
+  },
+  {
+    "business_name": "Arun Kumar & Company",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "177501",
+    "phone_number": "+91 98168 65833",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "MJ4Q+GQ7, MDR35, Katoh, Himachal Pradesh 176045",
+    "area": "177501",
+    "latitude": 31.656296899999997,
+    "longitude": 76.63941109999999,
+    "place_id": "ChIJH4Ox3FLXBDkRbUX_by274Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4Ox3FLXBDkRbUX_by274Lw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:56"
+  }
+]

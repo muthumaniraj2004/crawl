@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Koundal Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "177111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "SH 39, Bhawarna, Badghawar, Himachal Pradesh 176083",
+    "area": "177111",
+    "latitude": 32.0363415,
+    "longitude": 76.4963289,
+    "place_id": "ChIJcecaXsK1BDkRMKp9FM6gWY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcecaXsK1BDkRMKp9FM6gWY0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:32"
+  },
+  {
+    "business_name": "EXOTIC PETS LUDHIANA",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "177111",
+    "phone_number": "+91 78142 60383",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 107,
+    "address": "Street no9, chonk, near kartar, Daba Colony, Ludhiana, Punjab 141003",
+    "area": "Daba Colony, New Amar Nagar, Kabir Nagar",
+    "latitude": 30.872143899999998,
+    "longitude": 75.876367,
+    "place_id": "ChIJ392AS6CDGjkRtWn5WnRG6Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ392AS6CDGjkRtWn5WnRG6Rg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:33"
+  }
+]

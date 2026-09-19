@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical Center Gummer",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "177117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Dol, Himachal Pradesh 176031",
+    "area": "177117",
+    "latitude": 31.9038178,
+    "longitude": 76.281555,
+    "place_id": "ChIJC7quyGc3GzkRA5KpysgLNIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7quyGc3GzkRA5KpysgLNIQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:40:07"
+  },
+  {
+    "business_name": "Kathog",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "177117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V7HF+482, Vpo Kathog tehsil dehra distt ka, Kundli Har, Himachal Pradesh 177117",
+    "area": "kathog",
+    "latitude": 31.8777625,
+    "longitude": 76.2732656,
+    "place_id": "ChIJh-y9cQAxGzkRguolF-SWBq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-y9cQAxGzkRguolF-SWBq4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:40:07"
+  }
+]

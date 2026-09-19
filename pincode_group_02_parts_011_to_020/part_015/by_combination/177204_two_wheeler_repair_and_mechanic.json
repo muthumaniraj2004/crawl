@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Motors",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "177204",
+    "phone_number": "+91 85806 90120",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "VPO, near Lakhi hospital, Chalet, Daulatpur, Himachal Pradesh 177204",
+    "area": "177204",
+    "latitude": 31.767388099999998,
+    "longitude": 76.0053118,
+    "place_id": "ChIJnbgcOUcXGzkRDlYXvAjPGC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbgcOUcXGzkRDlYXvAjPGC8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:51:05"
+  },
+  {
+    "business_name": "SANSAR AUTO",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Motorcycle shop",
+    "pincode": "177204",
+    "phone_number": "+91 96257 86785",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TESHIL, Ghanari Uthwalan, Himachal Pradesh 177212",
+    "area": "177204",
+    "latitude": 31.6999219,
+    "longitude": 76.0217831,
+    "place_id": "ChIJb39aOEwZGzkR3W-gh0dLU7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb39aOEwZGzkR3W-gh0dLU7g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:51:07"
+  }
+]

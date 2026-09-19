@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Spare parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "177117",
+    "phone_number": "+91 99887 79043",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "NH Road, Jwalaji Rd, Dhawala, Himachal Pradesh 177117",
+    "area": "177117",
+    "latitude": 31.881155099999997,
+    "longitude": 76.2546181,
+    "place_id": "ChIJj0nlWoU5GzkRtptEm2QfB9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0nlWoU5GzkRtptEm2QfB9w",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:40:15"
+  },
+  {
+    "business_name": "Sharma Auto mobile/ Best bike repair service in sanot",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Service establishment",
+    "pincode": "177117",
+    "phone_number": "+91 98165 62356",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sharma Auto mobile/ Best bike repair service in sanot, 177117, India",
+    "area": "177117",
+    "latitude": 31.8672778,
+    "longitude": 76.2567902,
+    "place_id": "ChIJm1PUOWo5GzkRS1z3GGB_L_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1PUOWo5GzkRS1z3GGB_L_Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:40:15"
+  }
+]

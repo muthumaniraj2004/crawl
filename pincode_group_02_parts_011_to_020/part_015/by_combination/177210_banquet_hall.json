@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chouli",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "177210",
+    "phone_number": "+91 98170 37668",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village Chouli, P.O, Sohari, Himachal Pradesh 177210",
+    "area": "P.O",
+    "latitude": 31.685465899999997,
+    "longitude": 76.2409721,
+    "place_id": "ChIJ1cm3NgAnGzkR3j7GNHEzwRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cm3NgAnGzkR3j7GNHEzwRc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:02:28"
+  },
+  {
+    "business_name": "Mahamaya Palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant",
+    "pincode": "177210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Chaterokhri, Himachal Pradesh 175018",
+    "area": "177210",
+    "latitude": 31.5107176,
+    "longitude": 76.8860949,
+    "place_id": "ChIJu3VersUZBTkRor2SzIhvBHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3VersUZBTkRor2SzIhvBHU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:02:31"
+  }
+]

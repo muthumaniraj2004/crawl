@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Bus Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "177501",
+    "phone_number": "+91 94158 09991",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "JH29+W3G, shankar bus services, shankar dham, u.p., Rath, Uttar Pradesh 210431",
+    "area": "Miyapura",
+    "latitude": 25.6023247,
+    "longitude": 79.5676934,
+    "place_id": "ChIJf-pIMzFDnTkR_tyRupSb0dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-pIMzFDnTkR_tyRupSb0dg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:51"
+  },
+  {
+    "business_name": "NAYAK TRAVELS (KANKER ROADWAYS)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "177501",
+    "phone_number": "+91 94060 00108",
+    "website": "http://www.kankerroadways.in/contact_us",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P733+Q4J, Bacheli, Chhattisgarh 494553",
+    "area": "177501",
+    "latitude": 18.7044681,
+    "longitude": 81.2527571,
+    "place_id": "ChIJ5_bXTQekMToRyYGrNkL8TuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_bXTQekMToRyYGrNkL8TuE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:52"
+  }
+]

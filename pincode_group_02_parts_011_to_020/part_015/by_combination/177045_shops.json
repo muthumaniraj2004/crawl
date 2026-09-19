@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashu Communication Rangas",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "177045",
+    "phone_number": "+91 98162 57007",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 24,
+    "address": "PCJQ+465, Rangas, Himachal Pradesh 177048",
+    "area": "177045",
+    "latitude": 31.7302677,
+    "longitude": 76.43810479999999,
+    "place_id": "ChIJvXq4l7wsGzkR9c4J-pNNMCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXq4l7wsGzkR9c4J-pNNMCg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:29"
+  },
+  {
+    "business_name": "Sangam Traders",
+    "search_category": "Shops",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "177045",
+    "phone_number": "N/A",
+    "website": "http://sangamtraders.com/",
+    "rating": 1,
+    "reviews_count": 3,
+    "address": "Anu, Hamirpur, Himachal Pradesh 177005",
+    "area": "Anu",
+    "latitude": 31.700553999999997,
+    "longitude": 76.5213374,
+    "place_id": "ChIJ4Y1raADVBDkRyom6eHGdbT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Y1raADVBDkRyom6eHGdbT0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:30"
+  }
+]

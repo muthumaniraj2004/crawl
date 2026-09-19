@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisan Hut 1313 Ram pal & son’s",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177210",
+    "phone_number": "+91 98169 00727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sasan, Himachal Pradesh 174315",
+    "area": "177210",
+    "latitude": 31.4131875,
+    "longitude": 76.3075625,
+    "place_id": "ChIJt4YRePHPGjkRgzV3y3tYmDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4YRePHPGjkRgzV3y3tYmDM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:01:29"
+  },
+  {
+    "business_name": "Ardh sanik canteen",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "177210",
+    "phone_number": "+91 86298 13578",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baruhi to Chowki Maniar Road, Una, Himachal Pradesh 174314",
+    "area": "177210",
+    "latitude": 31.6033877,
+    "longitude": 76.1875101,
+    "place_id": "ChIJ85-Em_0nGzkR4IYZksylbVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85-Em_0nGzkR4IYZksylbVs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:01:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vashisht Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177109",
+    "phone_number": "+91 98825 43290",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kuthera Kherla, Una, NH-70, Nadaun Road, Amb, Amb, Himachal Pradesh 177203",
+    "area": "177109",
+    "latitude": 31.684952,
+    "longitude": 76.120074,
+    "place_id": "ChIJA2T72SciGzkRN6KFS8-2muA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2T72SciGzkRN6KFS8-2muA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:29:22"
+  },
+  {
+    "business_name": "Arya Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177109",
+    "phone_number": "+91 1975 232 996",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 8,
+    "address": "C87Q+MRP, SH 25, Mehatpur, Himachal Pradesh 174315",
+    "area": "177109",
+    "latitude": 31.414220999999998,
+    "longitude": 76.3395859,
+    "place_id": "ChIJBYi5O0DOGjkRpuyQ5kljyXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYi5O0DOGjkRpuyQ5kljyXs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:29:23"
+  }
+]

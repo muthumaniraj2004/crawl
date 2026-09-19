@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HIM Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "177110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 230,
+    "address": "Takka Rd, Una, Himachal Pradesh 174303",
+    "area": "177110",
+    "latitude": 31.468959299999998,
+    "longitude": 76.2666052,
+    "place_id": "ChIJdR6y54PaGjkRi1FYCoeZcbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdR6y54PaGjkRi1FYCoeZcbU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:49"
+  },
+  {
+    "business_name": "A.R TRADING AND CO.",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "177110",
+    "phone_number": "+91 97797 39919",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "opp. Govt. Middle School, Daulatpur Chowk, Una, Himachal Pradesh 177204",
+    "area": "177110",
+    "latitude": 31.777845799999998,
+    "longitude": 75.996231,
+    "place_id": "ChIJWfN-zwgXGzkRhpYgYbJjs-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfN-zwgXGzkRhpYgYbJjs-I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:51"
+  }
+]

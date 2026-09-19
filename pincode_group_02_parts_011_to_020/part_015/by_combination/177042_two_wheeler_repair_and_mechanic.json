@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manu bike repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "177042",
+    "phone_number": "+91 85805 02705",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rangas, Himachal Pradesh 177048",
+    "area": "177042",
+    "latitude": 31.730790199999998,
+    "longitude": 76.4364533,
+    "place_id": "ChIJYbRnucktGzkROkzAITj8mr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbRnucktGzkROkzAITj8mr8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:07:48"
+  },
+  {
+    "business_name": "Beyond Service | Multi-brand Bike Repair and Maintenance",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Insurance agency, Mechanic",
+    "pincode": "177042",
+    "phone_number": "+91 80541 01234",
+    "website": "https://beyondservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "88 Feet Rd, opposite Shaan Unisex Gym, near Majitha Road, Rishi Colony, Amritsar, Punjab 143001",
+    "area": "Rishi Colony",
+    "latitude": 31.658945499999998,
+    "longitude": 74.90325469999999,
+    "place_id": "ChIJ04KtTR5jGTkRK0VNGM3yo00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04KtTR5jGTkRK0VNGM3yo00",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:07:48"
+  }
+]

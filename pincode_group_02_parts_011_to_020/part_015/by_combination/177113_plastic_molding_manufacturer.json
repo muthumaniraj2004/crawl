@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acme Plastics",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Plastic Products Supplier",
+    "all_categories": "Plastic Products Supplier",
+    "pincode": "177113",
+    "phone_number": "+91 93122 37169",
+    "website": "http://www.acmeplasticsindia.com/",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "Plot No. 4, Krishna Nagar, Opposite Plot No. 79, Sector No. 25, Ballabhgarh, Faridabad, Haryana 121004",
+    "area": "Krishna Nagar, Sector 56A",
+    "latitude": 28.335815699999998,
+    "longitude": 77.301778,
+    "place_id": "ChIJu___Q0fcDDkRlG0Th3r7iP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu___Q0fcDDkRlG0Th3r7iP4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:37:37"
+  },
+  {
+    "business_name": "Anjani Technoplast Ltd",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "177113",
+    "phone_number": "+91 92170 11366",
+    "website": "http://www.anjani.com/",
+    "rating": 4.1,
+    "reviews_count": 158,
+    "address": "6A, Sector-40/41, Ecotech-1, Greater Noida, Uttar Pradesh 201310",
+    "area": "Sector-40/41, Ecotech-1",
+    "latitude": 28.445831899999998,
+    "longitude": 77.5416054,
+    "place_id": "ChIJq6qqqurlDDkRII_q-F83TQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqurlDDkRII_q-F83TQk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:37:37"
+  }
+]

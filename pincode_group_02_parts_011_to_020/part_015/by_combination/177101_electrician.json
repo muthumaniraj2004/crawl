@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jairaj electrical",
+    "search_category": "Electrician",
+    "primary_category": "Engineer",
+    "all_categories": "Engineer",
+    "pincode": "177101",
+    "phone_number": "+91 70188 48264",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "above purana bazzar, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "177101",
+    "latitude": 31.8779179,
+    "longitude": 76.21968129999999,
+    "place_id": "ChIJbWL7Tvc5GzkR9tWSc4a3EWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWL7Tvc5GzkR9tWSc4a3EWs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:17:06"
+  },
+  {
+    "business_name": "Laxmi Electronic",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "177101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V.P.O, Chanour V, P.O. Chanour, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "Chanour V, P.O. Chanour",
+    "latitude": 31.8817314,
+    "longitude": 76.2146617,
+    "place_id": "ChIJzfqPDA45GzkRw69NgvywXDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfqPDA45GzkRw69NgvywXDE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:17:06"
+  }
+]

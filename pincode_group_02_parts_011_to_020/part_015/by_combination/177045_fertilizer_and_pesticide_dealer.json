@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Traders",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "177045",
+    "phone_number": "+91 96633 09103",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mandewal, Karnataka 585310",
+    "area": "177045",
+    "latitude": 17.005357,
+    "longitude": 76.540416,
+    "place_id": "ChIJK25enF2DyDsR1cd47ez9oRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK25enF2DyDsR1cd47ez9oRs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:18"
+  },
+  {
+    "business_name": "Modern Insecticides Ltd",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Agrochemicals Supplier",
+    "pincode": "177045",
+    "phone_number": "+91 161 504 3900",
+    "website": "https://www.milworld.co/",
+    "rating": 2.1,
+    "reviews_count": null,
+    "address": "30-A, Ishmeet Singh Chowk, adj. Archies Gallery, Shastri Nagar, Model Town, Ludhiana, Punjab 141002",
+    "area": "Shastri Nagar, Model Town",
+    "latitude": 30.8896086,
+    "longitude": 75.8312753,
+    "place_id": "ChIJJ6OzRLWDGjkRkGmNWg7FqZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6OzRLWDGjkRkGmNWg7FqZw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:18"
+  }
+]

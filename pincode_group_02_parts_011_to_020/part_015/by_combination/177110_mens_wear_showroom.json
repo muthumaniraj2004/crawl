@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ballu Di Hatti",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "177110",
+    "phone_number": "+91 99156 39131",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "Raipur, Himachal Pradesh 177204",
+    "area": "Raipur",
+    "latitude": 31.7967423,
+    "longitude": 75.9867028,
+    "place_id": "ChIJLxfXmgERGzkRjjy04hzh1uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxfXmgERGzkRjjy04hzh1uM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:52"
+  },
+  {
+    "business_name": "GURU GARMENTS",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177110",
+    "phone_number": "+91 94596 69610",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "SH 25, Daulatpur, Himachal Pradesh 177204",
+    "area": "177110",
+    "latitude": 31.7785849,
+    "longitude": 75.9977909,
+    "place_id": "ChIJYSdFyAUXGzkRGzDWWAaExew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSdFyAUXGzkRGzDWWAaExew",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:52"
+  }
+]

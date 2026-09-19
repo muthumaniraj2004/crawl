@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The SHARMA Confectionery",
+    "search_category": "Shops",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "177033",
+    "phone_number": "+91 82196 82665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "APR Complex, near Kangra Bank, opposite to HDFC Bank, Nadaun, Himachal Pradesh 177033",
+    "area": "177033",
+    "latitude": 31.778901299999998,
+    "longitude": 76.3450081,
+    "place_id": "ChIJ3YoIJaAvGzkREo4yz82oMow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YoIJaAvGzkREo4yz82oMow",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:57:55"
+  },
+  {
+    "business_name": "Shree Shyam Collection",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main bazaar, Nadaun, Himachal Pradesh 177033",
+    "area": "177033",
+    "latitude": 31.7816777,
+    "longitude": 76.3418751,
+    "place_id": "ChIJJSI3WfAvGzkRruqjURPctB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSI3WfAvGzkRruqjURPctB0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:57:56"
+  }
+]

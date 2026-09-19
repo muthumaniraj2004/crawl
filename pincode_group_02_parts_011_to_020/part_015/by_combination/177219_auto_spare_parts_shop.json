@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandhya Auto Mobile",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "177219",
+    "phone_number": "+91 82191 91030",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Q495+CM8, Kinnu Kinnu, Himachal Pradesh 177109",
+    "area": "177219",
+    "latitude": 31.768532299999997,
+    "longitude": 76.1092152,
+    "place_id": "ChIJVbksgcoiGzkRAAAAcFqPsUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbksgcoiGzkRAAAAcFqPsUE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:09:23"
+  },
+  {
+    "business_name": "Subhash cottage",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "177219",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "P4FH+FJ2, Himachal Pradesh 177219",
+    "area": "177219",
+    "latitude": 31.723627999999998,
+    "longitude": 76.1290238,
+    "place_id": "ChIJV6ehKCMjGzkRHEMbhrDVinY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6ehKCMjGzkRHEMbhrDVinY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:09:23"
+  }
+]

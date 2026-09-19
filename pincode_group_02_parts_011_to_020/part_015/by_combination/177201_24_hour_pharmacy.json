@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarogya medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177201",
+    "phone_number": "+91 88940 97372",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Premghat, Theog, Himachal Pradesh 171201",
+    "area": "Premghat",
+    "latitude": 31.119361599999998,
+    "longitude": 77.3595412,
+    "place_id": "ChIJj5I-p6uFBTkRdP6Zhz-6FLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5I-p6uFBTkRdP6Zhz-6FLQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:45:27"
+  },
+  {
+    "business_name": "Guru Nanak Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Panjawar Rd, Panjawar, Himachal Pradesh 177208",
+    "area": "177201",
+    "latitude": 31.5507554,
+    "longitude": 76.1523016,
+    "place_id": "ChIJfV2iSuDeGjkRvO7SiRvIxlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfV2iSuDeGjkRvO7SiRvIxlw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:45:27"
+  }
+]

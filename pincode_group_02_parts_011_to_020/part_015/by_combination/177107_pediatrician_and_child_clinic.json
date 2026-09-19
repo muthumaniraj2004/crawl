@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Star Children's Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Neonatal physician, Pediatric nephrologist, Pediatric surgeon",
+    "pincode": "177107",
+    "phone_number": "+91 80957 37777",
+    "website": "https://littlestarhospital.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MSK Mill Rd, opp. Kural Hospital, CIB Colony, Kalaburagi, Karnataka 585103",
+    "area": "CIB Colony",
+    "latitude": 17.3281429,
+    "longitude": 76.8165582,
+    "place_id": "ChIJvcmZKBi5yDsR2CC1d4WB708",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcmZKBi5yDsR2CC1d4WB708",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:25:44"
+  },
+  {
+    "business_name": "Dr. Seema Sakhare Children's Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric clinic",
+    "all_categories": "Pediatric clinic",
+    "pincode": "177107",
+    "phone_number": "+91 70283 94910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 2, Navneet Apartment, opposite to Nanajkar hospital, Damani Nagar, Solapur, Maharashtra 413001",
+    "area": "Damani Nagar",
+    "latitude": 17.6699604,
+    "longitude": 75.8866706,
+    "place_id": "ChIJD8fYG-HRxTsRRjh8gKi-CFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8fYG-HRxTsRRjh8gKi-CFk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:25:45"
+  }
+]

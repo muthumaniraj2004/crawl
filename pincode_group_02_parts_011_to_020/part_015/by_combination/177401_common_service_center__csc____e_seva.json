@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E Zone Services CSC Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office, Aadhaar center, Central Government Office, Home help service agency, Internet shop, Legal services, Money transfer service, Passport Agent",
+    "pincode": "177401",
+    "phone_number": "+91 90979 89992",
+    "website": "https://e-zone-services-csc.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "21-1-403/1, near Gupta Hospital, Gulzar Houz, Rikab Gunj, Ghansi Bazaar, Hyderabad, Telangana 500002",
+    "area": "Gulzar Houz, Rikab Gunj, Ghansi Bazaar",
+    "latitude": 17.366180399999998,
+    "longitude": 78.4732464,
+    "place_id": "ChIJAaeO68mXyzsRD_8t6gVEhRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaeO68mXyzsRD_8t6gVEhRw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:15:37"
+  },
+  {
+    "business_name": "Common Sarvice Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "177401",
+    "phone_number": "+91 98164 77097",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aadhar, Salouni, Himachal Pradesh 174311",
+    "area": "177401",
+    "latitude": 31.5783067,
+    "longitude": 76.5168875,
+    "place_id": "ChIJB_HE6JQrBTkRMm1eVK2DeXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_HE6JQrBTkRMm1eVK2DeXM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:15:39"
+  }
+]

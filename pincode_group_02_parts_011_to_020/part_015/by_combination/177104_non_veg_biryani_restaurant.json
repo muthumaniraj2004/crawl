@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guleria Food Point",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "177104",
+    "phone_number": "+91 98178 31729",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "V7J3+GQ9, Jwalaji Rd, Siota, Himachal Pradesh 177117",
+    "area": "177104",
+    "latitude": 31.8812774,
+    "longitude": 76.2544918,
+    "place_id": "ChIJmz-NuvY5GzkRm3uc7dBZZJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmz-NuvY5GzkRm3uc7dBZZJs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:20:04"
+  },
+  {
+    "business_name": "the autumn bistro",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "177104",
+    "phone_number": "+91 97361 06699",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 162,
+    "address": "Tanda Hospital Rd, Pushp Vihar Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Pushp Vihar Colony",
+    "latitude": 32.0996459,
+    "longitude": 76.28841,
+    "place_id": "ChIJXwGWP6JPGzkRLBYz3pbsF4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwGWP6JPGzkRLBYz3pbsF4Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:20:05"
+  }
+]

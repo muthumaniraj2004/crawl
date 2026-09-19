@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivansh Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177204",
+    "phone_number": "+91 86289 87994",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nangal Jarialan, Ghanari, Himachal Pradesh 177204",
+    "area": "Nangal Jarialan",
+    "latitude": 31.738315999999998,
+    "longitude": 76.002922,
+    "place_id": "ChIJAQAAwPIZGzkRjN1D-cSx82s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwPIZGzkRjN1D-cSx82s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:38"
+  },
+  {
+    "business_name": "BAKERS LOUNGE",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177204",
+    "phone_number": "+91 90393 33083",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Oppo. Pnb bank, Shahpur, Himachal Pradesh 176206",
+    "area": "177204",
+    "latitude": 32.2157732,
+    "longitude": 76.1803623,
+    "place_id": "ChIJDwuU-AFbGzkR29L_DcZbiYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwuU-AFbGzkR29L_DcZbiYE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:40"
+  }
+]

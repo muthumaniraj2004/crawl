@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma general store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "177038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P8MW+FJG, teh, p/o karaur, Gauna, Nadaun, Himachal Pradesh 177038",
+    "area": "p/o karaur",
+    "latitude": 31.7336973,
+    "longitude": 76.3465915,
+    "place_id": "ChIJFW9YAwAvGzkRqV_wqMU0glc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFW9YAwAvGzkRqV_wqMU0glc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:02"
+  },
+  {
+    "business_name": "Negi traders",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177038",
+    "phone_number": "+91 98579 40004",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gwal Pathar, Himachal Pradesh 177041",
+    "area": "177038",
+    "latitude": 31.6886342,
+    "longitude": 76.35400469999999,
+    "place_id": "ChIJvf30zCIpGzkR9Y19AQdbcNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvf30zCIpGzkR9Y19AQdbcNk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjyoti Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Grocery delivery service",
+    "pincode": "177107",
+    "phone_number": "+91 82407 48719",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "25, Bangur Ave, near Floresence Flower Shop, Block B, Block A, Lake Town, Kolkata, West Bengal 700055",
+    "area": "Block B, Block A, Lake Town",
+    "latitude": 22.6078074,
+    "longitude": 88.41076869999999,
+    "place_id": "ChIJE8nUr051AjoRTEdLd2pZ0-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8nUr051AjoRTEdLd2pZ0-s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:25:17"
+  },
+  {
+    "business_name": "Mohini Departmental Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "177107",
+    "phone_number": "+91 97655 72426",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sant Shiromani Rohidas, Nr. Shiva Temple, Balaji Colony, Indrayani Nagar, Shree Nagar, Thergaon, Pune, Pimpri-Chinchwad, Maharashtra 411033",
+    "area": "Balaji Colony, Indrayani Nagar, Shree Nagar, Thergaon",
+    "latitude": 18.6092551,
+    "longitude": 73.7806961,
+    "place_id": "ChIJ_8fgLw-5wjsRQhEd2Tu4k6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8fgLw-5wjsRQhEd2Tu4k6c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:25:17"
+  }
+]

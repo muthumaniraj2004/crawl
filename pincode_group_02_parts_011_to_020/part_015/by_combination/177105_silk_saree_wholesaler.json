@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalvi Fashion",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer, Clothing supplier, Fabric store, Fabric wholesaler",
+    "pincode": "177105",
+    "phone_number": "+91 80007 43571",
+    "website": "https://shalvifashion.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "G1/176, Hans Vihar, RIICO Industrial Area, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Hans Vihar, RIICO Industrial Area, Mansarovar",
+    "latitude": 26.8328791,
+    "longitude": 75.7736278,
+    "place_id": "ChIJdxDWlbu1bTkRniXDkxOrpJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxDWlbu1bTkRniXDkxOrpJY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:00"
+  },
+  {
+    "business_name": "Shriraj paithani",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177105",
+    "phone_number": "+91 96737 99671",
+    "website": "https://shrirajpaithani.com/shop",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ram Ali, Ram Mandira Samor, Shirur, Maharashtra 412210",
+    "area": "177105",
+    "latitude": 18.8261875,
+    "longitude": 74.3766875,
+    "place_id": "ChIJBzVzUwAtwzsROmU8dLCIHzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzVzUwAtwzsROmU8dLCIHzk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Himalayan Resort Chintpurni",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 21,
+    "address": "gate 2, 100, meters from temple, near mandir, Moien, Chintpurni, Himachal Pradesh 177110",
+    "area": "Moien",
+    "latitude": 31.8085006,
+    "longitude": 76.1050731,
+    "place_id": "ChIJeVQiRYY9GzkRBIdjOHPoN08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVQiRYY9GzkRBIdjOHPoN08",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:19:14"
+  },
+  {
+    "business_name": "Aaroham by Aamod",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "177103",
+    "phone_number": "+91 62300 75111",
+    "website": "https://aarohamresorts.com/dalhousie.php",
+    "rating": 4.7,
+    "reviews_count": 693,
+    "address": "Gandhi Chowk, Near, Subhash Bowli Road, Distt, Dalhousie, Kalatope R.F, Himachal Pradesh 176304",
+    "area": "Distt",
+    "latitude": 32.5380937,
+    "longitude": 76.0073563,
+    "place_id": "ChIJafBdpJKXHDkR1LqXGWxRvpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafBdpJKXHDkR1LqXGWxRvpo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:19:14"
+  }
+]

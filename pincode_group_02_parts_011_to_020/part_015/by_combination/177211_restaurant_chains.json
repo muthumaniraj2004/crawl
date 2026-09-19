@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rising Bowl",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Asian restaurant, Thai restaurant",
+    "pincode": "177211",
+    "phone_number": "+91 88290 06666",
+    "website": "https://www.risingbowl.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Police Line Rd, opposite vetenary hospital, Ratanada, Jodhpur, Rajasthan 342001",
+    "area": "Ratanada",
+    "latitude": 26.2775984,
+    "longitude": 73.03332809999999,
+    "place_id": "ChIJt_sCxFiNQTkR82MaiBHMJ2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_sCxFiNQTkR82MaiBHMJ2c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:03:32"
+  },
+  {
+    "business_name": "Ricotta",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Italian restaurant",
+    "all_categories": "Italian restaurant",
+    "pincode": "177211",
+    "phone_number": "+91 93521 97529",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "nr. Ganesh Lal HP Petrol Pump, Opp. Medical College, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003",
+    "area": "Opp. Medical College, Sindhi Colony, Sector-E, Shastri Nagar",
+    "latitude": 26.2713891,
+    "longitude": 73.0081135,
+    "place_id": "ChIJlwpQOAWNQTkRfvy-lS8Dzsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwpQOAWNQTkRfvy-lS8Dzsc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:03:32"
+  }
+]

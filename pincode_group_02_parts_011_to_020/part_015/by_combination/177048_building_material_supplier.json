@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Hardware store",
+    "pincode": "177048",
+    "phone_number": "+91 98171 39875",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sulgwan - Bhareri Rd, Jahu, Sulgwan, Himachal Pradesh 176048",
+    "area": "177048",
+    "latitude": 31.6086802,
+    "longitude": 76.701596,
+    "place_id": "ChIJz-abL50nBTkRBbwaaEEzeKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-abL50nBTkRBbwaaEEzeKI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:15:17"
+  },
+  {
+    "business_name": "ASHAPURI TRADERS BHUANA",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Hardware store",
+    "pincode": "177048",
+    "phone_number": "+91 88948 62304",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bhuana, Himachal Pradesh 176076",
+    "area": "177048",
+    "latitude": 32.0101721,
+    "longitude": 76.5931281,
+    "place_id": "ChIJ3exn8wS3BDkRwwfkS5OQ0iM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3exn8wS3BDkRwwfkS5OQ0iM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:15:18"
+  }
+]

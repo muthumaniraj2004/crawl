@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vansh Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "177105",
+    "phone_number": "+91 92168 09393",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "National Highway 1A, Damtal, Mohtali, Himachal Pradesh 176403",
+    "area": "177105",
+    "latitude": 32.212265699999996,
+    "longitude": 75.6628246,
+    "place_id": "ChIJAQAAQPGAGzkRDkeVcZg6hwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQPGAGzkRDkeVcZg6hwk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:48"
+  },
+  {
+    "business_name": "Manoj Multifoods Pvt Ltd (warehouse)",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Food products supplier",
+    "pincode": "177105",
+    "phone_number": "+91 97690 00020",
+    "website": "http://mmfgroup.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "A-269, MIDC Industrial Area, Mahape, Navi Mumbai, Maharashtra 400710",
+    "area": "MIDC Industrial Area, Mahape",
+    "latitude": 19.1140671,
+    "longitude": 73.025352,
+    "place_id": "ChIJPQsBySnB5zsR2J4-KlyVQLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQsBySnB5zsR2J4-KlyVQLU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:48"
+  }
+]

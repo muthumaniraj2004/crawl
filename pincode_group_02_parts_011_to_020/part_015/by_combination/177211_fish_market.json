@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuthiari gud shakr",
+    "search_category": "Fish Market",
+    "primary_category": "Farm shop",
+    "all_categories": "Farm shop",
+    "pincode": "177211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH 25, Badaun, Himachal Pradesh 177211",
+    "area": "177211",
+    "latitude": 31.6333894,
+    "longitude": 76.1230747,
+    "place_id": "ChIJmdbtEQAhGzkR1Dry0tZfCWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdbtEQAhGzkR1Dry0tZfCWM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:03:19"
+  },
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "177211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 424,
+    "address": "47HG+4GM, Industrial Area Phase II, Yamuna Nagar, Haryana 135001",
+    "area": "Industrial Area Phase II",
+    "latitude": 30.1278299,
+    "longitude": 77.2763059,
+    "place_id": "ChIJ6W4j3YT5DjkRD5NDlBN36AI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6W4j3YT5DjkRD5NDlBN36AI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:03:20"
+  }
+]

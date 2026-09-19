@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Continental Surgical Emporium",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler, Medical Equipment Manufacturer, Surgical supply store",
+    "pincode": "177111",
+    "phone_number": "+91 98710 93931",
+    "website": "http://surgicalshoppe.co.in/",
+    "rating": 3.2,
+    "reviews_count": 11,
+    "address": "3616, Netaji Subhash Marg, Old Delhi, Kucha Alam, Khabas Pura, Daryaganj, New Delhi, Delhi, 110002",
+    "area": "Old Delhi, Kucha Alam, Khabas Pura, Daryaganj",
+    "latitude": 28.643749999999997,
+    "longitude": 77.2402915,
+    "place_id": "ChIJ9Yn4CiD9DDkR9vT62YxNqz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Yn4CiD9DDkR9vT62YxNqz8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:58"
+  },
+  {
+    "business_name": "R. S. Surgical Equipment Co.",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer",
+    "pincode": "177111",
+    "phone_number": "+91 94649 52212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot: E-92, Phase 7, Industrial Area, Sector 73, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Phase 7, Industrial Area, Sector 73",
+    "latitude": 30.713912899999997,
+    "longitude": 76.6992259,
+    "place_id": "ChIJM-zQk2bvDzkRymBclneHoKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-zQk2bvDzkRymBclneHoKY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Katherine Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177105",
+    "phone_number": "+91 86791 90999",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 83,
+    "address": "Rajput Kalyan Trust, Old Bus Stand, Ground Floor, Himachal Pradesh 176001",
+    "area": "New Kangra",
+    "latitude": 32.104324,
+    "longitude": 76.2741604,
+    "place_id": "ChIJtbnc-79PGzkREjEDGQhe3q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbnc-79PGzkREjEDGQhe3q4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:36"
+  },
+  {
+    "business_name": "Aman graceful salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "177105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "V4GV+Q5P, Thor Uparli, Himachal Pradesh 177105",
+    "area": "177105",
+    "latitude": 31.876954599999998,
+    "longitude": 76.1429562,
+    "place_id": "ChIJeV8CZAA_GzkRmVStj5u0v1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeV8CZAA_GzkRmVStj5u0v1E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:36"
+  }
+]

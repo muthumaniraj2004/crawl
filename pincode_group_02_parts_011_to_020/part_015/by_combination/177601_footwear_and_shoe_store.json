@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoe shop aqualite",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177601",
+    "phone_number": "+91 70183 70318",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near Shiv Mandir, Nagrota Gazian, Himachal Pradesh 176045",
+    "area": "177601",
+    "latitude": 31.653844,
+    "longitude": 76.6674924,
+    "place_id": "ChIJh1fR96PZBDkRVHp0cUYqLc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1fR96PZBDkRVHp0cUYqLc4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:18:19"
+  },
+  {
+    "business_name": "Himland Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177601",
+    "phone_number": "+91 98165 50220",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "PMFM+8HC, Jhadyar, Himachal Pradesh 175026",
+    "area": "177601",
+    "latitude": 31.7233029,
+    "longitude": 76.6838994,
+    "place_id": "ChIJ85EZDp_ZBDkRtneDa8Zdngo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85EZDp_ZBDkRtneDa8Zdngo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:18:20"
+  }
+]

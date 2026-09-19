@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veer Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Cafe, Hotel, Restaurant, Tour agency",
+    "pincode": "177111",
+    "phone_number": "+91 1902 252 710",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 96,
+    "address": "the heart of, Manu Temple Rd, Old Manali, Manali, Himachal Pradesh 175131",
+    "area": "Old Manali",
+    "latitude": 32.2539916,
+    "longitude": 77.1776349,
+    "place_id": "ChIJVVVVleWHBDkRaxCOVAy98oM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVleWHBDkRaxCOVAy98oM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:32"
+  },
+  {
+    "business_name": "Dev Agencies",
+    "search_category": "Guesthouse",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "177111",
+    "phone_number": "+91 172 264 1553",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "S C O13, Sectro 30-d, Tribune Road, Tribune Road, Chandigarh, 160030",
+    "area": "Block D, Sector 30",
+    "latitude": 30.7175473,
+    "longitude": 76.7845724,
+    "place_id": "ChIJAQAAQPzsDzkRK0DEZWjvTzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQPzsDzkRK0DEZWjvTzw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:34"
+  }
+]

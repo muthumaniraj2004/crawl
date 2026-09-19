@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "177114",
+    "phone_number": "+91 96063 69009",
+    "website": "https://luxuryproperties.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "No.677, 1st Floor, Suite #1095, 27th Main, 13th Cross Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "1st Sector, HSR Layout",
+    "latitude": 12.9159466,
+    "longitude": 77.6502137,
+    "place_id": "ChIJh3mLOkI_rjsRCWTOS_-RpQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3mLOkI_rjsRCWTOS_-RpQE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:39:20"
+  },
+  {
+    "business_name": "Luxury Roof private limited",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Real estate consultant",
+    "pincode": "177114",
+    "phone_number": "+91 90485 90485",
+    "website": "https://www.luxuryroof.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "JMD MEGAPOLIS, 954, Sector 48, Gurugram, Haryana 122018",
+    "area": "Sector 48",
+    "latitude": 28.4194487,
+    "longitude": 77.03881559999999,
+    "place_id": "ChIJ6RlpWYAjDTkRdvGuXyj1LK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6RlpWYAjDTkRdvGuXyj1LK8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:39:20"
+  }
+]

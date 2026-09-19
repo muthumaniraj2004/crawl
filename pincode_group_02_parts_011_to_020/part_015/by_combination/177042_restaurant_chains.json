@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hungry Point - Mandi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Continental restaurant, Family restaurant, Italian restaurant, Pasta shop, Pizza restaurant, Restaurant, Vegetarian restaurant, Western restaurant",
+    "pincode": "177042",
+    "phone_number": "+91 98745 87777",
+    "website": "https://hungrypoint.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "124/12, Ram nagar, near vishal mega Mart, Mandi, Himachal Pradesh 175001",
+    "area": "Mangvayin",
+    "latitude": 31.701323,
+    "longitude": 76.934823,
+    "place_id": "ChIJUSUx8gbjBDkRIcZY8ZU6CU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSUx8gbjBDkRIcZY8ZU6CU8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:07:30"
+  },
+  {
+    "business_name": "Hungry Point - Bilaspur HP",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Family restaurant, Hamburger restaurant, Italian restaurant, Pasta shop, Pizza restaurant, Restaurant, Vegetarian restaurant, Western restaurant",
+    "pincode": "177042",
+    "phone_number": "+91 98085 27777",
+    "website": "https://hungrypoint.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No, 58-B, Court Rd, near Icici bank, Cinema Colony, Excise Colony, Bilaspur, Himachal Pradesh 174001",
+    "area": "Cinema Colony, Excise Colony",
+    "latitude": 31.339674499999997,
+    "longitude": 76.76573499999999,
+    "place_id": "ChIJm-UHpDY_BTkR5jrKZyE1mSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-UHpDY_BTkR5jrKZyE1mSI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:07:30"
+  }
+]

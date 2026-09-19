@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Car Bazaar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "177042",
+    "phone_number": "+91 78078 19196",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rangas, Mann, Himachal Pradesh 177042",
+    "area": "177042",
+    "latitude": 31.7305851,
+    "longitude": 76.4258795,
+    "place_id": "ChIJjWSwZCEtGzkRUJdSaM3fyzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWSwZCEtGzkRUJdSaM3fyzE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:07:51"
+  },
+  {
+    "business_name": "The Royal Automobiles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "177042",
+    "phone_number": "+91 94593 33043",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Pinjore - Swarghat Road Pinjore Nalagarh, National Highway, near Toll Tax Barrier, Baddi, Himachal Pradesh 174101",
+    "area": "177042",
+    "latitude": 30.922462099999997,
+    "longitude": 76.8011612,
+    "place_id": "ChIJ42T3nNz1DzkRR8tXkLe_ZNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42T3nNz1DzkRR8tXkLe_ZNM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:07:52"
+  }
+]

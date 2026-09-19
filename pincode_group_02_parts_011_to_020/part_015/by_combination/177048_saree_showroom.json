@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Saree Emporium",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Designer Clothing Store",
+    "pincode": "177048",
+    "phone_number": "+91 141 257 0162",
+    "website": "https://www.ranas.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "202, 203, Johari Bazar Rd, Johri Bazar, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302003",
+    "area": "Johri Bazar, Pink City",
+    "latitude": 26.9221717,
+    "longitude": 75.8268221,
+    "place_id": "ChIJ4-suMkuxbTkR4zG59_ROVe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-suMkuxbTkR4zG59_ROVe0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:43"
+  },
+  {
+    "business_name": "RANA'S",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Bridal shop, Embroidery shop, Fabric store",
+    "pincode": "177048",
+    "phone_number": "+91 90012 90900",
+    "website": "http://www.ranas.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "GANPATI PLAZA, 1, Mirza Ismail Rd, Nangal Jaisabohra, Sindhi Camp, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Nangal Jaisabohra, Sindhi Camp",
+    "latitude": 26.9189211,
+    "longitude": 75.7987953,
+    "place_id": "ChIJt3DdfAe0bTkRJESlljblAOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3DdfAe0bTkRJESlljblAOU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:43"
+  }
+]

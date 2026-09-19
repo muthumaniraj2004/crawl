@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "177110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q284+V8J, Chalet, Daulatpur, Himachal Pradesh 177204",
+    "area": "177110",
+    "latitude": 31.764521199999997,
+    "longitude": 76.0081232,
+    "place_id": "ChIJvQwtRgAXGzkRJn2iwATR06c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQwtRgAXGzkRJn2iwATR06c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:31:03"
+  },
+  {
+    "business_name": "Rana Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "177110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "QXHX+932, Daulatpur, Himachal Pradesh 177204",
+    "area": "177110",
+    "latitude": 31.7783801,
+    "longitude": 75.9976421,
+    "place_id": "ChIJh24fM0oXGzkRMhei4zje6K0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh24fM0oXGzkRMhei4zje6K0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:31:03"
+  }
+]

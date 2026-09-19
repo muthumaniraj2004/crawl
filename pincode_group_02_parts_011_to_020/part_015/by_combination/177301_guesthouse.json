@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Please refresh",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "P9RH+6JR, Nadaun, Himachal Pradesh 177042",
+    "area": "177301",
+    "latitude": 31.7410434,
+    "longitude": 76.3792088,
+    "place_id": "ChIJn4DkvjktGzkRTiwxeV09cRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4DkvjktGzkRTiwxeV09cRk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:13:33"
+  },
+  {
+    "business_name": "Vaani Niketan",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "177301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Himachal Pradesh 177042",
+    "area": "177301",
+    "latitude": 31.7350227,
+    "longitude": 76.37480099999999,
+    "place_id": "ChIJRX16LxwtGzkRLI9E3NcCtL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRX16LxwtGzkRLI9E3NcCtL0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:13:33"
+  }
+]

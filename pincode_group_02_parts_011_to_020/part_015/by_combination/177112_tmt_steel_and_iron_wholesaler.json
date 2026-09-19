@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Steel Industry",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Industrial consultant",
+    "pincode": "177112",
+    "phone_number": "+91 94180 21431",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "Near, SSB Rd, chowk, Shamshi, Himachal Pradesh 175126",
+    "area": "chowk",
+    "latitude": 31.898873899999998,
+    "longitude": 77.1368672,
+    "place_id": "ChIJsZBVim33BDkRGmMIFKsHvHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZBVim33BDkRGmMIFKsHvHc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:35:05"
+  },
+  {
+    "business_name": "Himachal Metal Industry",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "177112",
+    "phone_number": "+91 98160 61120",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "477H+2HG, industrial area, Kangra, Natehr, Himachal Pradesh 176001",
+    "area": "industrial area",
+    "latitude": 32.1125526,
+    "longitude": 76.2789437,
+    "place_id": "ChIJWag7kIVPGzkRZ6D3t--SHis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWag7kIVPGzkRZ6D3t--SHis",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:35:06"
+  }
+]

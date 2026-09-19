@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "177117",
+    "phone_number": "+91 98164 91882",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kotwali Bazar Rd, Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.2192407,
+    "longitude": 76.31857049999999,
+    "place_id": "ChIJzacc4KxRGzkRFsCo64NJHZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzacc4KxRGzkRFsCo64NJHZY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:39:45"
+  },
+  {
+    "business_name": "Mcll'o sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "177117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "68QF+GWC, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2388171,
+    "longitude": 76.3247907,
+    "place_id": "ChIJHawLBX9RGzkRALd2SPhgZds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHawLBX9RGzkRALd2SPhgZds",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:39:45"
+  }
+]

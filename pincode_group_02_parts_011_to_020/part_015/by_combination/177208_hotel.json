@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Tara",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177208",
+    "phone_number": "+91 98167 64281",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Vill. & P.O. - Behdala, Nangal Road, NH 503, Una, Himachal Pradesh 174306",
+    "area": "177208",
+    "latitude": 31.450465599999998,
+    "longitude": 76.3129841,
+    "place_id": "ChIJBTynfc3RGjkRPLSj6vG3Vpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTynfc3RGjkRPLSj6vG3Vpk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:58:57"
+  },
+  {
+    "business_name": "Exotica Gardens",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177208",
+    "phone_number": "+91 93563 06733",
+    "website": "https://www.exoticagardens.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Teuri Bridge, Una, Himachal Pradesh 174303",
+    "area": "177208",
+    "latitude": 31.5248782,
+    "longitude": 76.20616989999999,
+    "place_id": "ChIJoUMhn13ZGjkRT8BZXOxDxbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUMhn13ZGjkRT8BZXOxDxbo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:58:57"
+  }
+]

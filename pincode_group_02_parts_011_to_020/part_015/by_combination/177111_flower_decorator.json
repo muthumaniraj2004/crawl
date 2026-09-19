@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy Flowers mart",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Event planner",
+    "pincode": "177111",
+    "phone_number": "+91 80083 28475",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bata store, Krishna Reddy Pet Rd, Malla Reddy Nagar Colony, Beeramguda, Hyderabad, Telangana 502032",
+    "area": "Malla Reddy Nagar Colony, Beeramguda",
+    "latitude": 17.5173289,
+    "longitude": 78.299724,
+    "place_id": "ChIJBVWfg7iTyzsRV3t1PDAxdtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVWfg7iTyzsRV3t1PDAxdtY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:30"
+  },
+  {
+    "business_name": "Ms flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Wedding service",
+    "pincode": "177111",
+    "phone_number": "N/A",
+    "website": "https://ms-flower-decorations1.vercel.app/",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "North South Road Number 5 Juhu, JVPD Scheme, Vile Parle West, Mumbai, Maharashtra 400056",
+    "area": "JVPD Scheme, Vile Parle West",
+    "latitude": 19.107139,
+    "longitude": 72.833788,
+    "place_id": "ChIJyTrRf7jJ5zsR3P6BzxUgJcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTrRf7jJ5zsR3P6BzxUgJcE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:31"
+  }
+]

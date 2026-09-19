@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Kumar",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177202",
+    "phone_number": "+91 85805 70418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kaundal Vegitable Shop, Talwara, Mubarikpur, Himachal Pradesh 177202",
+    "area": "177202",
+    "latitude": 31.709663199999998,
+    "longitude": 76.0833662,
+    "place_id": "ChIJn_EU2oEZGzkRld3oB6SIhbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_EU2oEZGzkRld3oB6SIhbY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:46:51"
+  },
+  {
+    "business_name": "Naresh General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P3C8+736, Kuneran Upperla, Himachal Pradesh 177213",
+    "area": "177202",
+    "latitude": 31.720653499999997,
+    "longitude": 76.0651309,
+    "place_id": "ChIJY3Ub5IUZGzkR_AEZgNvepjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3Ub5IUZGzkR_AEZgNvepjg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:46:51"
+  }
+]

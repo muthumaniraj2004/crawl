@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajni cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177039",
+    "phone_number": "+91 89187 96681",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "madakal more, SB Gorai Rd, near mahaveer akhada Mandir, Pathak Bari, Asansol, West Bengal 713301",
+    "area": "Pathak Bari",
+    "latitude": 23.6803398,
+    "longitude": 86.98231349999999,
+    "place_id": "ChIJ1c5wrLQf9zkRUfeJJ204Mo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1c5wrLQf9zkRUfeJJ204Mo0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:02:00"
+  },
+  {
+    "business_name": "247 cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Restaurant",
+    "pincode": "177039",
+    "phone_number": "+91 95204 42470",
+    "website": "http://247cloudkitchen.in/",
+    "rating": 4.9,
+    "reviews_count": 158,
+    "address": "Subhash Nagar, Bharu Wala Grant, Dehradun, Uttarakhand 248002",
+    "area": "Subhash Nagar",
+    "latitude": 30.2731273,
+    "longitude": 77.9965368,
+    "place_id": "ChIJeYSxAgArCTkRzmfVeE2HG-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYSxAgArCTkRzmfVeE2HG-Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:02:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HPMC Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "177108",
+    "phone_number": "+91 94181 08731",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sanwara, Himachal Pradesh 173209",
+    "area": "177108",
+    "latitude": 30.894087,
+    "longitude": 77.0033871,
+    "place_id": "ChIJsTUBKaSIDzkREv3VrtX6Gww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTUBKaSIDzkREv3VrtX6Gww",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:27:11"
+  },
+  {
+    "business_name": "THE TASTE OF SHAKES",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "177108",
+    "phone_number": "+91 76618 34048",
+    "website": "http://www.swiggy.com/",
+    "rating": 4.8,
+    "reviews_count": 38,
+    "address": "Rk Royal drive in, Nallagandla - Tellapur Rd, Fair Lands, Tellapur, Hyderabad, Serilingampalle (M), Telangana 502034",
+    "area": "Fair Lands, Tellapur",
+    "latitude": 17.4737592,
+    "longitude": 78.2968461,
+    "place_id": "ChIJszGZPBaTyzsRYagYQI7I1EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszGZPBaTyzsRYagYQI7I1EA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:27:13"
+  }
+]

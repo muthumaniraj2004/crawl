@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatnagar Dental Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "177101",
+    "phone_number": "+91 88944 02687",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "3J2P+R2J, Panchrukhi - Paprola Rd, near Baba Balakrupi Mandir Road, Paprola, Khatrehr, Himachal Pradesh 176115",
+    "area": "177101",
+    "latitude": 32.0520864,
+    "longitude": 76.63500069999999,
+    "place_id": "ChIJHejuvni3BDkRX6rQvwOo61c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHejuvni3BDkRX6rQvwOo61c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:16:52"
+  },
+  {
+    "business_name": "Sanjeevni Health Care Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177101",
+    "phone_number": "+91 98165 03330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Garh, Malkehr, Himachal Pradesh 176093",
+    "area": "Garh",
+    "latitude": 31.964735299999997,
+    "longitude": 76.48818969999999,
+    "place_id": "ChIJA6m7s-3KBDkRcC9KTqYHVjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6m7s-3KBDkRcC9KTqYHVjg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:16:53"
+  }
+]

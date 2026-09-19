@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TrueCare Surgicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Medical supply store, Surgical supply store",
+    "pincode": "177219",
+    "phone_number": "+91 70951 25777",
+    "website": "https://www.truecarehealth.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Door No 4-106, Topsy Bakery & Anu Furnitures, opp. Vivid Diagnostics Centre, adj. Road to Tipsy, Gangaram, Chanda Nagar, Hyderabad, Telangana 500050",
+    "area": "Gangaram, Chanda Nagar",
+    "latitude": 17.4942909,
+    "longitude": 78.32448149999999,
+    "place_id": "ChIJV4PQJ_eRyzsRdPQ2kQWPzo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4PQJ_eRyzsRdPQ2kQWPzo8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:09:21"
+  },
+  {
+    "business_name": "TrueCare Surgicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Medical equipment supplier, Surgical Products Wholesaler, Surgical supply store",
+    "pincode": "177219",
+    "phone_number": "+91 83090 78115",
+    "website": "https://www.truecarehealth.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-99/5/12, Nallagandla Vlg Rd, near Yes Bank, near community hall, Nallagandla, Telangana 500019",
+    "area": "177219",
+    "latitude": 17.474006499999998,
+    "longitude": 78.3093255,
+    "place_id": "ChIJGzgpuoGTyzsR_HrT2236v50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzgpuoGTyzsR_HrT2236v50",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:09:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajat",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "177042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PCHR+Q2J Sub post office, Rangas, Himachal Pradesh 177048",
+    "area": "177042",
+    "latitude": 31.7294518,
+    "longitude": 76.4400019,
+    "place_id": "ChIJ35w9viotGzkRJRN6VrgBDq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35w9viotGzkRJRN6VrgBDq8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:08:21"
+  },
+  {
+    "business_name": "Wood Hunter Craft",
+    "search_category": "Gifting",
+    "primary_category": "Craft store",
+    "all_categories": "Craft store, Woodworker",
+    "pincode": "177042",
+    "phone_number": "+91 62309 40595",
+    "website": "https://www.facebook.com/himachalcraft/",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "Vill madhani p.o booni, Teh, nadaun, Himachal Pradesh 177048",
+    "area": "177042",
+    "latitude": 31.7229985,
+    "longitude": 76.4308623,
+    "place_id": "ChIJ6ajznm8tGzkRQgbggIKnsHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ajznm8tGzkRQgbggIKnsHY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:08:23"
+  }
+]

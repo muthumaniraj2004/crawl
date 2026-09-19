@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaioffee",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Italian restaurant",
+    "all_categories": "Italian restaurant, Coffee shop, Tea store",
+    "pincode": "177213",
+    "phone_number": "+91 74950 66250",
+    "website": "http://www.chaioffee.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "RP3P+C3, Ismaila-B, Haryana 124501",
+    "area": "177213",
+    "latitude": 28.8009167,
+    "longitude": 76.7402611,
+    "place_id": "ChIJ8bRCfgCfDTkRzOW7ZF3QtZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bRCfgCfDTkRzOW7ZF3QtZk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:07:06"
+  },
+  {
+    "business_name": "Sanjay Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "177213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "FWRP+6CV, Nainikhad, Kuntla, Himachal Pradesh 176301",
+    "area": "177213",
+    "latitude": 32.490618399999995,
+    "longitude": 75.9360377,
+    "place_id": "ChIJJ2OyWACRHDkRg9Uul0Uhtnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2OyWACRHDkRg9Uul0Uhtnk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:07:08"
+  }
+]

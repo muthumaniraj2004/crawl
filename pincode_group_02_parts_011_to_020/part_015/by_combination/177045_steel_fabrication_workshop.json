@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MM Craft",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Metal fabricator, Railing contractor",
+    "pincode": "177045",
+    "phone_number": "+91 80569 49100",
+    "website": "http://www.mmcraft.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NO:282, Chennai Tiruvallur High Rd, near HPM Paradise Kalyana Mahal, Tass Industrial Estate, Sidco Industrial Estate, Ambattur, Chennai, Tamil Nadu 600053",
+    "area": "Tass Industrial Estate, Sidco Industrial Estate, Ambattur",
+    "latitude": 13.101998199999999,
+    "longitude": 80.1591874,
+    "place_id": "ChIJBbmQd1djUjoR91zqns3ehjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbmQd1djUjoR91zqns3ehjM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:12"
+  },
+  {
+    "business_name": "Vishwanath & Sons",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "177045",
+    "phone_number": "+91 94183 44844",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Village Bharang P.O. H.P, Himachal Pradesh 177027",
+    "area": "177045",
+    "latitude": 31.7142473,
+    "longitude": 76.5337859,
+    "place_id": "ChIJWfa2qBHUBDkR7ltzQWOyH-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfa2qBHUBDkR7ltzQWOyH-Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "plaza unisex salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177119",
+    "phone_number": "+91 98053 07342",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Una - Hamirpur Rd, Salouni, Himachal Pradesh 174311",
+    "area": "177119",
+    "latitude": 31.5792249,
+    "longitude": 76.5141246,
+    "place_id": "ChIJlU-QUWUrBTkRShW26Mqe49c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlU-QUWUrBTkRShW26Mqe49c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:44:11"
+  },
+  {
+    "business_name": "RISING BEAUTY SALON",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177119",
+    "phone_number": "+91 93072 55107",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 112,
+    "address": "Near Gurukulam school ramedi, Hamirpur, Uttar Pradesh 210301",
+    "area": "177119",
+    "latitude": 25.9536607,
+    "longitude": 80.1495815,
+    "place_id": "ChIJud_3Z1X9nDkROE4fCvq36J4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJud_3Z1X9nDkROE4fCvq36J4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:44:12"
+  }
+]

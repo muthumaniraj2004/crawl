@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star fast food cafe",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "177041",
+    "phone_number": "+91 82788 43543",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M9C7+CQ8, Dhaneta, Himachal Pradesh 177041",
+    "area": "177041",
+    "latitude": 31.6710301,
+    "longitude": 76.36445119999999,
+    "place_id": "ChIJc8aFpfYrGzkRqkC5IQ6HUpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8aFpfYrGzkRqkC5IQ6HUpA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:05:37"
+  },
+  {
+    "business_name": "The Cozy Kitchen",
+    "search_category": "Restaurant Chains",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Chinese restaurant, Family restaurant, Fast food restaurant, North Indian restaurant",
+    "pincode": "177041",
+    "phone_number": "+91 98166 53280",
+    "website": "https://www.thecozykitchen.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tanda Rd, near Sheetala Mata Mandir, Kangra, Sadarpur, Himachal Pradesh 176002",
+    "area": "177041",
+    "latitude": 32.0990675,
+    "longitude": 76.31626279999999,
+    "place_id": "ChIJEeCkYRNPGzkRhsuVs9EwxTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeCkYRNPGzkRhsuVs9EwxTc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:05:38"
+  }
+]

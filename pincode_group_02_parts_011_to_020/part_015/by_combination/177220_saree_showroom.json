@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barika Boutique",
+    "search_category": "Saree Showroom",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Saree Shop",
+    "pincode": "177220",
+    "phone_number": "+91 86298 91165",
+    "website": "http://www.facebook.com/barika",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "1st Floor, Una - Hamirpur Rd, near B2 shoping Mart, above Fresh Galary, Una, Himachal Pradesh 174303",
+    "area": "177220",
+    "latitude": 31.471513299999998,
+    "longitude": 76.271613,
+    "place_id": "ChIJC2yh4H_QGjkR_PAUq-kwmw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2yh4H_QGjkR_PAUq-kwmw4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:10:49"
+  },
+  {
+    "business_name": "CK SILK STORE",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177220",
+    "phone_number": "+91 98821 77770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Jeevan Market, near green palace, Ram Nagar, Una, Himachal Pradesh 174303",
+    "area": "Ram Nagar",
+    "latitude": 31.468139899999997,
+    "longitude": 76.2711286,
+    "place_id": "ChIJ23VId4LaGjkRZxUqFDIfgOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23VId4LaGjkRZxUqFDIfgOs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:10:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My LunchBox",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Food producer",
+    "pincode": "177206",
+    "phone_number": "+91 97658 60451",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 58,
+    "address": "shop no .35, JDA Shoping complex, behind Shree Ram Tower, Pravasi Nagar, Murlipura Scheme, Murlipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Pravasi Nagar, Murlipura Scheme, Murlipura",
+    "latitude": 26.970575399999998,
+    "longitude": 75.7616999,
+    "place_id": "ChIJpdtAphazbTkR5BwWe0le734",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdtAphazbTkR5BwWe0le734",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:25"
+  },
+  {
+    "business_name": "Shekhawati tiffin centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center, Vegetarian restaurant",
+    "pincode": "177206",
+    "phone_number": "+91 83879 16756",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 26,
+    "address": "Shekhawati Tffin Centre, Shri Vihar, Mahaveer Nagar, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Shri Vihar, Mahaveer Nagar, Durgapura",
+    "latitude": 26.8575803,
+    "longitude": 75.791528,
+    "place_id": "ChIJOdfHONK1bTkRqysqS50SCbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdfHONK1bTkRqysqS50SCbc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:25"
+  }
+]

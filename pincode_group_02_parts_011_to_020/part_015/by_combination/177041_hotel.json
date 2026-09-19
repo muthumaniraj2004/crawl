@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Himachal haveli",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177041",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 110,
+    "address": "Una - Hamirpur Rd, Una, Himachal Pradesh 174321",
+    "area": "177041",
+    "latitude": 31.536211599999998,
+    "longitude": 76.3073733,
+    "place_id": "ChIJ_aKPcWrXGjkR425RabcFeuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aKPcWrXGjkR425RabcFeuo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:06:29"
+  },
+  {
+    "business_name": "Home Stay Gahlian CASS LTD",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "177041",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Vill - Kohlwin PO -Gahli, Teh, Galore, Himachal Pradesh 174405",
+    "area": "177041",
+    "latitude": 31.5883778,
+    "longitude": 76.4580953,
+    "place_id": "ChIJK07WTVMrBTkRL6gC__EEmPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK07WTVMrBTkRL6gC__EEmPc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:06:29"
+  }
+]

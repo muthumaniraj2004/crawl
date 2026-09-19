@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Service establishment",
+    "pincode": "177034",
+    "phone_number": "+91 78638 41059",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Dialysis Center, 177034, India",
+    "area": "177034",
+    "latitude": 28.4922233,
+    "longitude": 77.2137022,
+    "place_id": "ChIJ3VhLP87hDDkRj0sAdXZ7vgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VhLP87hDDkRj0sAdXZ7vgc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:58:34"
+  },
+  {
+    "business_name": "JS Dialysis care unit",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "177034",
+    "phone_number": "+91 73576 98076",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "1st floor, gagan hospital, Sai Rd, Baddi, Himachal Pradesh 173205",
+    "area": "177034",
+    "latitude": 30.9318864,
+    "longitude": 76.8002101,
+    "place_id": "ChIJwWZT9E6NDzkRM664cbKDZCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWZT9E6NDzkRM664cbKDZCU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:58:34"
+  }
+]

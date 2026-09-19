@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travel Express",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "177213",
+    "phone_number": "+91 98156 99924",
+    "website": "https://travel-express.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Village- Sehnog, Post Office-Balag, Teh, Theog, Himachal Pradesh 171209",
+    "area": "177213",
+    "latitude": 31.0301013,
+    "longitude": 77.37173779999999,
+    "place_id": "ChIJ700Q2S2HBTkR_SnGcKDbdR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ700Q2S2HBTkR_SnGcKDbdR0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:07:37"
+  },
+  {
+    "business_name": "Anuj Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "177213",
+    "phone_number": "+91 98829 00084",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 14,
+    "address": "-Gohar -Pandoh, Chailchowk -Gohar -Pandoh Rd, Pandoh, Himachal Pradesh 175124",
+    "area": "177213",
+    "latitude": 31.668451599999997,
+    "longitude": 77.0551959,
+    "place_id": "ChIJ01Y3DPUCBTkRn1W5ZVARUmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01Y3DPUCBTkRn1W5ZVARUmE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:07:40"
+  }
+]

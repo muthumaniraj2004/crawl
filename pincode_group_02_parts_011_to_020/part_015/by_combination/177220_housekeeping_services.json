@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rentokil PCI",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "177220",
+    "phone_number": "+91 22 5006 1256",
+    "website": "https://www.rentokil-pestcontrolindia.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No. 1 First Floor Opposite KP Hotel I.A, Tahliwal, Himachal Pradesh 177220",
+    "area": "177220",
+    "latitude": 31.422209,
+    "longitude": 76.2319138,
+    "place_id": "ChIJ08HVQy-TDzkRNc6mh5U36d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08HVQy-TDzkRNc6mh5U36d4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:12:02"
+  },
+  {
+    "business_name": "DhobiLite Dry Clean & Laundry Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry",
+    "all_categories": "Laundry, Carpet cleaning service, Cleaning Services, Dry cleaner, Laundry service, Leather cleaning service, Shoe shining service, Upholstery cleaning service",
+    "pincode": "177220",
+    "phone_number": "+91 88004 14848",
+    "website": "https://www.dhobilite.com/laundry-and-dry-cleaning-una/",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "Shop No 2 Ground Floor, opposite to Park, near Novelty Store, Rakkar Colony, Himuda, Una, Himachal Pradesh 174303",
+    "area": "Rakkar Colony, Himuda",
+    "latitude": 31.461944,
+    "longitude": 76.302561,
+    "place_id": "ChIJ19DUcjzRGjkRyeZTC6QP1CE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19DUcjzRGjkRyeZTC6QP1CE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:12:03"
+  }
+]

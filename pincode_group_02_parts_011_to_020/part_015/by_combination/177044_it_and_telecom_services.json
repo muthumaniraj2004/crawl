@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "177044",
+    "phone_number": "+91 94658 61430",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VILL SADHEWAL, PO, GANGUWAL, Ropar, Punjab 140123",
+    "area": "177044",
+    "latitude": 31.763018,
+    "longitude": 76.479702,
+    "place_id": "ChIJv3tJuB7TBDkRCSBEZQBs9cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3tJuB7TBDkRCSBEZQBs9cI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:12:13"
+  },
+  {
+    "business_name": "Harsh Deep telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "177044",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RF3W+JM2, Har, Himachal Pradesh 176110",
+    "area": "177044",
+    "latitude": 31.8038554,
+    "longitude": 76.4964897,
+    "place_id": "ChIJVxpYczLTBDkRrs7JuWilbIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxpYczLTBDkRrs7JuWilbIk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:12:14"
+  }
+]

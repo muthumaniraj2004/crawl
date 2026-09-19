@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naz",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Gurudwara",
+    "all_categories": "Gurudwara",
+    "pincode": "177220",
+    "phone_number": "+91 98996 57535",
+    "website": "http://nazleatherexport.com/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "74A-FIRST FLOOR, Rani Jhansi Rd, Jhandewalan, Type 6, Block A, Aram Bagh, Karol Bagh, New Delhi, Delhi 110055",
+    "area": "Jhandewalan, Type 6, Block A, Aram Bagh, Karol Bagh",
+    "latitude": 28.644503699999998,
+    "longitude": 77.2063177,
+    "place_id": "ChIJAQAAAG_9DDkRfVDVQrS3VGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAG_9DDkRfVDVQrS3VGs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:10:55"
+  },
+  {
+    "business_name": "Punjab Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage store",
+    "pincode": "177220",
+    "phone_number": "+91 98722 30597",
+    "website": "https://www.instagram.com/punjabbaghouse?igsh=NHVpb3RjYngzMHo3",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Punjab Bag House, Jalandhar Rd, opp. Old friends cinema, Jagat Pura, Hoshiarpur, Punjab 146001",
+    "area": "Jagat Pura",
+    "latitude": 31.5339694,
+    "longitude": 75.90772659999999,
+    "place_id": "ChIJ3zO9r9HiGjkRzQ9e8mIuiwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zO9r9HiGjkRzQ9e8mIuiwk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:10:56"
+  }
+]

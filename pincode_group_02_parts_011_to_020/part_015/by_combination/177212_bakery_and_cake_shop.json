@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bake my day",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177212",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/bakemy_day1110?igshid=YmMyMTA2M2Y=",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "308/11, Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur",
+    "latitude": 31.5307417,
+    "longitude": 76.88808809999999,
+    "place_id": "ChIJb6KIboAZBTkREsIcrnfwNms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6KIboAZBTkREsIcrnfwNms",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:05:13"
+  },
+  {
+    "business_name": "Rama Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177212",
+    "phone_number": "+91 94180 28607",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rama bakers, opposite Co-operative bank, near Police station, Joginder Nagar, Himachal Pradesh 175015",
+    "area": "177212",
+    "latitude": 31.991249699999997,
+    "longitude": 76.7899214,
+    "place_id": "ChIJp_r-lBPBBDkRLE169rMKnv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_r-lBPBBDkRLE169rMKnv0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:05:15"
+  }
+]

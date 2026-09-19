@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Government Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "QXHX+63R, Daulatpur, Himachal Pradesh 177204",
+    "area": "177204",
+    "latitude": 31.7781214,
+    "longitude": 75.99765099999999,
+    "place_id": "ChIJB5nMnoIXGzkR6Dg7R7qYwZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5nMnoIXGzkR6Dg7R7qYwZw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:57"
+  },
+  {
+    "business_name": "Apexplus Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177204",
+    "phone_number": "+91 91791 24724",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 71,
+    "address": "R3HQ+XC5, Una - Talala Rd, Tulsidham Society, St Colony, Una, Gujarat 362560",
+    "area": "Tulsidham Society, Saint Colony",
+    "latitude": 20.829796599999998,
+    "longitude": 71.038575,
+    "place_id": "ChIJccrxSQD94jsR_Pv5M3oGDPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccrxSQD94jsR_Pv5M3oGDPc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay tour and travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "177208",
+    "phone_number": "+91 98166 70937",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H5V4+GH3, Amb, Himachal Pradesh 177211",
+    "area": "177208",
+    "latitude": 31.593772299999998,
+    "longitude": 76.1564137,
+    "place_id": "ChIJYzkOBADfGjkRO_DTfD7mb08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzkOBADfGjkRO_DTfD7mb08",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:58:33"
+  },
+  {
+    "business_name": "VIHAAN TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Minibus taxi service, Taxi service, Tour agency, Transportation escort service",
+    "pincode": "177208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dhusara Awal, Himachal Pradesh 174302",
+    "area": "177208",
+    "latitude": 31.5483345,
+    "longitude": 76.20998709999999,
+    "place_id": "ChIJKffMfjzZGjkR055oB8Ck5lA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKffMfjzZGjkR055oB8Ck5lA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:58:33"
+  }
+]

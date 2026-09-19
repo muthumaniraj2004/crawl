@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MRC Food Hub",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant, Food court",
+    "pincode": "177105",
+    "phone_number": "+91 75894 33556",
+    "website": "http://www.mrcgroup.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MRC Parking, Moien, Chintpurni, Himachal Pradesh 177110",
+    "area": "Moien",
+    "latitude": 31.8047102,
+    "longitude": 76.109725,
+    "place_id": "ChIJ9SYOiPs9GzkRg-v1KlBYsxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SYOiPs9GzkRg-v1KlBYsxE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:52"
+  },
+  {
+    "business_name": "Monal Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Bengali restaurant, Breakfast restaurant, Chinese restaurant, Continental restaurant, Fast food restaurant, Gujarati restaurant, South Indian restaurant",
+    "pincode": "177105",
+    "phone_number": "+91 94180 54500",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 674,
+    "address": "Kotwali Bazar Rd, Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.2196287,
+    "longitude": 76.3183301,
+    "place_id": "ChIJtSGqFCBRGzkR1dAx3jYjECo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSGqFCBRGzkR1dAx3jYjECo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:55"
+  }
+]

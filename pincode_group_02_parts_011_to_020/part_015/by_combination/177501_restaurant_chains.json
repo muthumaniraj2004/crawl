@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hot Feast",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant, Punjabi restaurant",
+    "pincode": "177501",
+    "phone_number": "+91 98151 00028",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MRWQ+2MG, Sector 16, Panchkula, Haryana 134113",
+    "area": "Sector 16",
+    "latitude": 30.6950567,
+    "longitude": 76.8392101,
+    "place_id": "ChIJRfGKmUWTDzkRzXHSN3TQGIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfGKmUWTDzkRzXHSN3TQGIc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:24"
+  },
+  {
+    "business_name": "Maple N Basil",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177501",
+    "phone_number": "+91 88473 49928",
+    "website": "https://www.instagram.com/maplenbasilindia/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1st Floor, Maple N Basil, SCO 306, Sector 9, Panchkula, Haryana 134113",
+    "area": "Sector 9",
+    "latitude": 30.694347399999998,
+    "longitude": 76.8501369,
+    "place_id": "ChIJDy0PjRKTDzkRf94G4jtE8YQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDy0PjRKTDzkRf94G4jtE8YQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:24"
+  }
+]

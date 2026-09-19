@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Polo Labs Una",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Laboratory",
+    "pincode": "177208",
+    "phone_number": "N/A",
+    "website": "http://www.pololabs.in/",
+    "rating": 3.8,
+    "reviews_count": 13,
+    "address": "Ward No. 4, Adarsh Nagar, Polo Labs, Una - Hamirpur Rd, near Zonal Hospital, Una, Himachal Pradesh 174303",
+    "area": "177208",
+    "latitude": 31.477107699999998,
+    "longitude": 76.27289929999999,
+    "place_id": "ChIJfd1T-e_RGjkReI2GKv6t8dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfd1T-e_RGjkReI2GKv6t8dQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:58:22"
+  },
+  {
+    "business_name": "Dr Lal PathLabs - Patient Service Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "177208",
+    "phone_number": "+91 80 6264 6482",
+    "website": "https://labs.lalpathlabs.com/dr-lal-pathlabs-patient-service-centre-diagnostic-centre-una-amb-road-una-288201/Home",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 1, Karishna Tower, Una - Amb Rd, near Old Bus Stand, Una, Himachal Pradesh 174303",
+    "area": "177208",
+    "latitude": 31.4672678,
+    "longitude": 76.26154009999999,
+    "place_id": "ChIJv8XDAq7bGjkRaHvsjr_8l4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8XDAq7bGjkRaHvsjr_8l4k",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:58:25"
+  }
+]

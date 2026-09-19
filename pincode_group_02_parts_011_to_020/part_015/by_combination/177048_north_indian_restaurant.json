@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sartaj Restaurant & Bar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "177048",
+    "phone_number": "+91 76961 99929",
+    "website": "http://sartajrestaurantbar.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Cannaught Plaza, TDI City Center, SCO 1005, Airport Rd, beside Garam Dharam Dhaba, Sector 74 A, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Sector 74 A",
+    "latitude": 30.723961199999998,
+    "longitude": 76.6819943,
+    "place_id": "ChIJr8Iy3tLvDzkR56ZPJzi_dZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8Iy3tLvDzkR56ZPJzi_dZ0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:40"
+  },
+  {
+    "business_name": "North Indian foods tiffin service",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "177048",
+    "phone_number": "+91 99943 27069",
+    "website": "https://northindianfoodstiffinservice.com/",
+    "rating": 4.9,
+    "reviews_count": 69,
+    "address": "1st floor, Bhuvan Palace, plot no 194, 6th Main Rd, Meenatchi Sundareswarar Koil, Sadasiva Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+    "area": "Meenatchi Sundareswarar Koil, Sadasiva Nagar, Madipakkam",
+    "latitude": 12.9636816,
+    "longitude": 80.2063162,
+    "place_id": "ChIJu2qM8YNdUjoRRiICEzpJyWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2qM8YNdUjoRRiICEzpJyWc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Logistics LTD.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics",
+    "all_categories": "Logistics",
+    "pincode": "177219",
+    "phone_number": "+91 78329 40022",
+    "website": "http://omlogistics.co.in/",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Una Road Amb Near Bharat,Petrol Pump Th.Amb, Disst. Una (H.P.), Una-Amb, Himachal Pradesh 174303",
+    "area": "177219",
+    "latitude": 31.468446,
+    "longitude": 76.270775,
+    "place_id": "ChIJA7iPdILaGjkRvWH344cfh90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7iPdILaGjkRvWH344cfh90",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:09:29"
+  },
+  {
+    "business_name": "Raftaar Cargo & Transport Services",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "177219",
+    "phone_number": "+91 98735 18821",
+    "website": "http://raftaarcargo.com/",
+    "rating": 4.5,
+    "reviews_count": 155,
+    "address": "B-1/490, Tyagi Park, Mundka, New Delhi, Delhi, 110041",
+    "area": "Tyagi Park, Mundka",
+    "latitude": 28.6823005,
+    "longitude": 77.0300347,
+    "place_id": "ChIJ-1BrtkwEDTkRTo4jK1055UE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1BrtkwEDTkRTo4jK1055UE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:09:30"
+  }
+]

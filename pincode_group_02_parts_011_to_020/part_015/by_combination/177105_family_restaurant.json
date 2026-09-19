@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modi Crockery Store",
+    "search_category": "Family Restaurant",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "177105",
+    "phone_number": "+91 98165 65441",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nurpur, Himachal Pradesh 176202",
+    "area": "177105",
+    "latitude": 32.3012005,
+    "longitude": 75.88554909999999,
+    "place_id": "ChIJcYfiWriCHDkRqxx8V0jTAS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYfiWriCHDkRqxx8V0jTAS4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:58"
+  },
+  {
+    "business_name": "Family restaurant salooni",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177105",
+    "phone_number": "+91 78767 56203",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "P3C3+59R, Salooni, Himachal Pradesh 176320",
+    "area": "177105",
+    "latitude": 32.7204944,
+    "longitude": 76.0533758,
+    "place_id": "ChIJdynDRQDrHDkRGlTisC-tBnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdynDRQDrHDkRGlTisC-tBnE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:59"
+  }
+]

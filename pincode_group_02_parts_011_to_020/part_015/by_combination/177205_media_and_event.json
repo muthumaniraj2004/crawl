@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Convention India",
+    "search_category": "Media and Event",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Event planner",
+    "pincode": "177205",
+    "phone_number": "+91 82850 17060",
+    "website": "http://conventionindia.in/",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "1st Floor, Kh.No - 122/17/7, Sant Nagar Burari, Near Aggarwal Sweets, New Delhi, Delhi 110084",
+    "area": "Virendar Nagar, Block B, Sant Nagar, Burari",
+    "latitude": 28.743219999999997,
+    "longitude": 77.197779,
+    "place_id": "ChIJa8_g3Sb-DDkRHddud1FuQ-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8_g3Sb-DDkRHddud1FuQ-A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:53:32"
+  },
+  {
+    "business_name": "Media Promotions Pvt. Ltd.",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "177205",
+    "phone_number": "+91 77220 23767",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "7th Floor, Dempo Trade Center, 703, patto, Patto Centre, Panaji, Goa 403001",
+    "area": "Patto Centre",
+    "latitude": 15.4945063,
+    "longitude": 73.8352434,
+    "place_id": "ChIJ0R-1k4TAvzsRduGwmItdMvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0R-1k4TAvzsRduGwmItdMvQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:53:33"
+  }
+]

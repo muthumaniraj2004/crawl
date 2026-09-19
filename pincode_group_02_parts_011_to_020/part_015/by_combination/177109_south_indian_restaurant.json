@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Food junction. 3",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, South Indian restaurant",
+    "pincode": "177109",
+    "phone_number": "+91 98056 89159",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "P57C+RXJ, Patehar, Himachal Pradesh 177210",
+    "area": "177109",
+    "latitude": 31.714587499999997,
+    "longitude": 76.1723906,
+    "place_id": "ChIJ3x5ISgAjGzkROnD5ZUzS33k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3x5ISgAjGzkROnD5ZUzS33k",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:29:02"
+  },
+  {
+    "business_name": "ANPURNA FAST FOOD",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "177109",
+    "phone_number": "+91 97364 25020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ANPURNA FAST FOOD🍔🍕🍟, opposite BBN HONDA, Mubarikpur, Himachal Pradesh 177202",
+    "area": "177109",
+    "latitude": 31.70948,
+    "longitude": 76.0827008,
+    "place_id": "ChIJ08jpUiUZGzkRsK8YeToWFXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08jpUiUZGzkRsK8YeToWFXU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:29:02"
+  }
+]

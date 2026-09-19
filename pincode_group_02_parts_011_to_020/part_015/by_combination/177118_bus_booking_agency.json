@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Holidays",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "177118",
+    "phone_number": "+91 88608 43738",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 189,
+    "address": "Annixe-19, Palika Place near R K Ashram Marg Piller No-11, New Delhi, Delhi 110001",
+    "area": "Block 42, DIZ Area, Gole Market",
+    "latitude": 28.6383914,
+    "longitude": 77.2091233,
+    "place_id": "ChIJAQCQYET9DDkRQfObkvYNzWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCQYET9DDkRQfObkvYNzWQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:42:10"
+  },
+  {
+    "business_name": "MYTHRI TOURS & TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "177118",
+    "phone_number": "+91 80 4633 3629",
+    "website": "http://mythribus.com/",
+    "rating": 3.7,
+    "reviews_count": 365,
+    "address": "Mythri Tours And Travels ,Survey No - 449, Delhi Public School Road , Bowarampet, Road, Bachupally, Hyderabad, Telangana 500043",
+    "area": "Bachupally",
+    "latitude": 17.5489885,
+    "longitude": 78.3917075,
+    "place_id": "ChIJqxUJ8cOQyzsRwEhGFMQyq4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxUJ8cOQyzsRwEhGFMQyq4M",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:42:10"
+  }
+]

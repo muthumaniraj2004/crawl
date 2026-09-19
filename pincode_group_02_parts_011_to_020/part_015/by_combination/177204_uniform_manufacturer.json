@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Boutique",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "177204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P2M9+GH6, Ghanuri, Himachal Pradesh 177204",
+    "area": "177204",
+    "latitude": 31.7337974,
+    "longitude": 76.0188866,
+    "place_id": "ChIJK_VECwAZGzkRoq52JZ8iiRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_VECwAZGzkRoq52JZ8iiRQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:52"
+  },
+  {
+    "business_name": "Sameer boutique",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "177204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "QXGX+785, Daulatpur, Himachal Pradesh 177204",
+    "area": "177204",
+    "latitude": 31.775625299999998,
+    "longitude": 75.9983456,
+    "place_id": "ChIJ8W1NFQAXGzkRpySKKhl7KVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W1NFQAXGzkRpySKKhl7KVI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:52"
+  }
+]

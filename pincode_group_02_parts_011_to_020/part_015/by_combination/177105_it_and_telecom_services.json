@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "177105",
+    "phone_number": "+91 94594 87428",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B.NO 1, R/O 157 MAHAL HARIP(PART, DEHRA, Dharamsala, DHARAMSHALA, Himachal Pradesh 176026",
+    "area": "DEHRA",
+    "latitude": 31.89071,
+    "longitude": 76.12098499999999,
+    "place_id": "ChIJmYfhUi0_GzkRvyngvi7UROE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYfhUi0_GzkRvyngvi7UROE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:23:03"
+  },
+  {
+    "business_name": "Bsnl site bihan",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "177105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V565+GP, Bihan, Himachal Pradesh 177103",
+    "area": "177105",
+    "latitude": 31.8612686,
+    "longitude": 76.1593489,
+    "place_id": "ChIJ8yTwRAA9GzkR2j6JDhKjd7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yTwRAA9GzkR2j6JDhKjd7c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:23:04"
+  }
+]

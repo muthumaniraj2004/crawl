@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Fast food restaurant",
+    "pincode": "177205",
+    "phone_number": "+91 98747 99157",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1796,
+    "address": "4/1, Gandhi Colony, Netaji Nagar, Kolkata, West Bengal 700040",
+    "area": "Gandhi Colony, Netaji Nagar",
+    "latitude": 22.4799166,
+    "longitude": 88.35589709999999,
+    "place_id": "ChIJWZxhLvtwAjoREWKJHhSIYIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZxhLvtwAjoREWKJHhSIYIY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:52:28"
+  },
+  {
+    "business_name": "Kaka Halwai Sweet Centre",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "177205",
+    "phone_number": "+91 90497 61818",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 2786,
+    "address": "Jambhulkar Complex, Shivaji chowk, Marunji Rd, Hinjawadi, Pune, Maharashtra 411057",
+    "area": "Hinjawadi",
+    "latitude": 18.592299099999998,
+    "longitude": 73.7377293,
+    "place_id": "ChIJV3SzZ_O7wjsRill5dKM_Wvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3SzZ_O7wjsRill5dKM_Wvc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:52:28"
+  }
+]

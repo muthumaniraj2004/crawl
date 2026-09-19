@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jasbir Fashion Point",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "177209",
+    "phone_number": "+91 98163 47155",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "govt girls sen.sec.school, Main Bazaar Rd, Una, Himachal Pradesh 174303",
+    "area": "177209",
+    "latitude": 31.4643983,
+    "longitude": 76.2703721,
+    "place_id": "ChIJvREs0BPbGjkRmvH3aIYkBK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvREs0BPbGjkRmvH3aIYkBK8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:59:57"
+  },
+  {
+    "business_name": "Vijay Brothers",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177209",
+    "phone_number": "+91 94181 03080",
+    "website": "https://www.instagram.com/vijay_brothers_una/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jeevan Market, Ram Nagar, Una, Himachal Pradesh 174303",
+    "area": "Ram Nagar",
+    "latitude": 31.467859599999997,
+    "longitude": 76.2704182,
+    "place_id": "ChIJs2SAsBfbGjkRrVyugmZwHP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2SAsBfbGjkRrVyugmZwHP0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:59:57"
+  }
+]

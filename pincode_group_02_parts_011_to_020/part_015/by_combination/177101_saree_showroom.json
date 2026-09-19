@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Hut Garments",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177101",
+    "phone_number": "+91 78318 75005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "V6J8+PW8, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "177101",
+    "latitude": 31.8817755,
+    "longitude": 76.21734289999999,
+    "place_id": "ChIJVRDRQHo5GzkRE5CV74Jebag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRDRQHo5GzkRE5CV74Jebag",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:16:30"
+  },
+  {
+    "business_name": "SONU EXCLUSIVE",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "177101",
+    "phone_number": "+91 82195 87432",
+    "website": "https://sites.google.com/view/sonu-exclusive/home",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "MAIN BAZAR, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "177101",
+    "latitude": 32.0550942,
+    "longitude": 76.09285109999999,
+    "place_id": "ChIJI3RTozJDGzkRsNNhmsBNsiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3RTozJDGzkRsNNhmsBNsiM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:16:32"
+  }
+]

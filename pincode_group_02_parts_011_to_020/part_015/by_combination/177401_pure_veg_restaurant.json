@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "177401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kuthulag, Hamirpur SH-32, Una - Jahu - Ner Chowk Rd, Barsar, Himachal Pradesh 176041",
+    "area": "177401",
+    "latitude": 31.595694899999998,
+    "longitude": 76.5383286,
+    "place_id": "ChIJk3JnaS0qBTkRrmxjmQ9U25o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3JnaS0qBTkRrmxjmQ9U25o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:26"
+  },
+  {
+    "business_name": "Jyoti Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Non Vegetarian Restaurant",
+    "pincode": "177401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 23,
+    "address": "MGP5+R4G, Road, Galore, Hamirpur, Himachal Pradesh 177001",
+    "area": "Galore",
+    "latitude": 31.687047399999997,
+    "longitude": 76.5066279,
+    "place_id": "ChIJOXAz3YDVBDkR1w7yCfOg_WU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXAz3YDVBDkR1w7yCfOg_WU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:27"
+  }
+]

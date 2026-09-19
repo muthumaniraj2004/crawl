@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acoustic Event & Management Pvt Ltd",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Wedding photographer",
+    "pincode": "177301",
+    "phone_number": "+91 98916 44064",
+    "website": "http://acousticpvtltd.com/",
+    "rating": 4.8,
+    "reviews_count": 40,
+    "address": "1718, Lalkuan Bazar Rd, Old Delhi, Lal Kuan Bazar, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Lal Kuan Bazar, Chandni Chowk",
+    "latitude": 28.6533452,
+    "longitude": 77.2226699,
+    "place_id": "ChIJBaRhO1v9DDkRsMvAJ1l1TuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaRhO1v9DDkRsMvAJ1l1TuM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:13:31"
+  },
+  {
+    "business_name": "Star Tour N Travels",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Car leasing service, Religious destination, Sightseeing Tour Operator, Tour operator",
+    "pincode": "177301",
+    "phone_number": "N/A",
+    "website": "https://www.startourntravels.com/",
+    "rating": 4.9,
+    "reviews_count": 30,
+    "address": "Shop no 2, Post office, Thapkor, Bhadroya, Himachal Pradesh 176403",
+    "area": "177301",
+    "latitude": 32.258675499999995,
+    "longitude": 75.6998523,
+    "place_id": "ChIJ3TzFR0SBGzkRcLETje8JSOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TzFR0SBGzkRcLETje8JSOw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:13:31"
+  }
+]

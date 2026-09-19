@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam medical store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Service establishment",
+    "pincode": "177301",
+    "phone_number": "+91 85806 10049",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Satyam medical store, 177301, India",
+    "area": "177301",
+    "latitude": 31.6684301,
+    "longitude": 76.3650931,
+    "place_id": "ChIJVXHPHh8rGzkR3c7ILZIxTsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXHPHh8rGzkR3c7ILZIxTsk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:12:49"
+  },
+  {
+    "business_name": "SURAKSHA MEDICAL STORE",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "177301",
+    "phone_number": "+91 62300 20979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Gupta Lodge, near Chandel Home Stay Middle Sangti, Summer Hill, Shimla, Himachal Pradesh 171005",
+    "area": "Summer Hill",
+    "latitude": 31.1167667,
+    "longitude": 77.1406069,
+    "place_id": "ChIJzRdKNIp5BTkRjfygwXfel10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRdKNIp5BTkRjfygwXfel10",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:12:49"
+  }
+]

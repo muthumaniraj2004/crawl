@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Chatar Patar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Food court",
+    "pincode": "177206",
+    "phone_number": "+91 78371 58777",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "Banjar Bage, vidya mandir school, Chintpurni Road, near Sarvhitkari Vidya Mandir, Banjar Bage, Banjar Bagh, Hoshiarpur, Punjab 146001",
+    "area": "Banjar Bage, Banjar Bagh",
+    "latitude": 31.5554539,
+    "longitude": 75.9245641,
+    "place_id": "ChIJa5u119zjGjkRzsxfwDfJH5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5u119zjGjkRzsxfwDfJH5c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:25"
+  },
+  {
+    "business_name": "MOUNTAIN BLEND CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Electric vehicle charging station",
+    "all_categories": "Electric vehicle charging station",
+    "pincode": "177206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 83,
+    "address": "Pulga, Sosan, Himachal Pradesh 175105",
+    "area": "Pulga",
+    "latitude": 31.9622191,
+    "longitude": 77.2074918,
+    "place_id": "ChIJmwryFIVFBDkRHhTzjuGhX9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwryFIVFBDkRHhTzjuGhX9c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:26"
+  }
+]

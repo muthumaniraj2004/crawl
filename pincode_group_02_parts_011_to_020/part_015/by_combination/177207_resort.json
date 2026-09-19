@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL N.R.G. PLAZA",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bar, Breakfast restaurant, Marriage celebrant, Restaurant",
+    "pincode": "177207",
+    "phone_number": "+91 1975 351 946",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Hotel NRG PLAZA, Amb Rd, Friends Colony, Una, Himachal Pradesh 174303",
+    "area": "Friends Colony",
+    "latitude": 31.4725954,
+    "longitude": 76.25654349999999,
+    "place_id": "ChIJo9xXNYjaGjkRF5dZc0Y7UaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9xXNYjaGjkRF5dZc0Y7UaE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:57:09"
+  },
+  {
+    "business_name": "SSR Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Home Stay",
+    "pincode": "177207",
+    "phone_number": "+91 78075 95594",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bahadurpur Post office, Namhol, Tepra, Himachal Pradesh 174032",
+    "area": "177207",
+    "latitude": 31.233415599999997,
+    "longitude": 76.8704685,
+    "place_id": "ChIJM5DSSgBrBTkR68wTHgOFdUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5DSSgBrBTkR68wTHgOFdUA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:57:11"
+  }
+]

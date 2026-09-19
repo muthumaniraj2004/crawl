@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manohar Chai Nigohi",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "177045",
+    "phone_number": "+91 89485 55091",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bajaj Agency Ke Pas, Bisalpur Road, Nigohi, Uttar Pradesh 242407",
+    "area": "177045",
+    "latitude": 28.100972,
+    "longitude": 79.86408879999999,
+    "place_id": "ChIJDWbT-7iRnzkRSO6UiTsD1Ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWbT-7iRnzkRSO6UiTsD1Ik",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:12:49"
+  },
+  {
+    "business_name": "Assam Tea Store",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "General store",
+    "all_categories": "General store, Tea store",
+    "pincode": "177045",
+    "phone_number": "+91 94180 82202",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 6,
+    "address": "Tehsil Rd, Ghumarwin, Himachal Pradesh 174021",
+    "area": "177045",
+    "latitude": 31.4426438,
+    "longitude": 76.70790939999999,
+    "place_id": "ChIJZT02cw07BTkRlEON_DQltFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZT02cw07BTkRlEON_DQltFE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:12:49"
+  }
+]

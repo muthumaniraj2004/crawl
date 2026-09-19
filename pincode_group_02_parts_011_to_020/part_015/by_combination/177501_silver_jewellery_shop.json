@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DD Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "177501",
+    "phone_number": "+91 94662 12345",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "292/6, Main Bazaar, near Aggarwal Dhramshala, Subhash Nagar, Shahbad, Haryana 136135",
+    "area": "Subhash Nagar",
+    "latitude": 30.1680316,
+    "longitude": 76.86974289999999,
+    "place_id": "ChIJl0ARcUtKDjkR9uSJ5s2TsJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0ARcUtKDjkR9uSJ5s2TsJM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:28"
+  },
+  {
+    "business_name": "Garg Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "177501",
+    "phone_number": "+91 98155 16342",
+    "website": "http://gargjewellers.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Arya College Rd, near Kalgidhar Gurudwara Sahib, Sector 127, Main Bazar, Kharar, Sahibzada Ajit Singh Nagar, Punjab 140301",
+    "area": "Sector 127, Main Bazar",
+    "latitude": 30.743361099999998,
+    "longitude": 76.6467922,
+    "place_id": "ChIJZZzisyHvDzkROT-zgzp2un0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZzisyHvDzkROT-zgzp2un0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:28"
+  }
+]

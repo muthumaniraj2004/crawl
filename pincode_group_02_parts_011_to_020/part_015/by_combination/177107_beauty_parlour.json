@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamta beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R6X3+6QM, NH 503, in front of post office, Nehran Pukhar, Himachal Pradesh 177104",
+    "area": "177107",
+    "latitude": 31.848097799999998,
+    "longitude": 76.2044086,
+    "place_id": "ChIJLdsGWx47GzkRpqASD5GNv0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdsGWx47GzkRpqASD5GNv0E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:10"
+  },
+  {
+    "business_name": "Shree Radhe Cosmetics",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "177107",
+    "phone_number": "+91 79860 81821",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shree Radhe Cosmetics Vill, Pragpur Main Rd, At, Har, Himachal Pradesh 177104",
+    "area": "At",
+    "latitude": 31.8378722,
+    "longitude": 76.2077204,
+    "place_id": "ChIJKdk6r0s7GzkR47Hf9yC2kyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdk6r0s7GzkR47Hf9yC2kyw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:12"
+  }
+]

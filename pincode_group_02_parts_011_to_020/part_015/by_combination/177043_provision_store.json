@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sood Traders",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177043",
+    "phone_number": "+91 98160 45033",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Pragpur Naun Link Rd, Pragpur, Himachal Pradesh 177107",
+    "area": "177043",
+    "latitude": 31.823362499999998,
+    "longitude": 76.21137159999999,
+    "place_id": "ChIJY1rU7Qg7GzkRMA96MJkzXFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1rU7Qg7GzkRMA96MJkzXFQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:09:02"
+  },
+  {
+    "business_name": "Jai Shree Ram",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177043",
+    "phone_number": "+91 93185 03003",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "R63C+C2H, Mat Umran, Himachal Pradesh 177108",
+    "area": "177043",
+    "latitude": 31.8035662,
+    "longitude": 76.2201224,
+    "place_id": "ChIJJ2DemSE7GzkRvXL1yFDXKvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2DemSE7GzkRvXL1yFDXKvg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:09:03"
+  }
+]

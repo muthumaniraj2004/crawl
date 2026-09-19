@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandan health care",
+    "search_category": "Clinics",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "177203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "N h 3, nehri road, Amb, Himachal Pradesh 177203",
+    "area": "177203",
+    "latitude": 31.684991399999998,
+    "longitude": 76.1215587,
+    "place_id": "ChIJx4G2bgAjGzkR9S_7nbtCMmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4G2bgAjGzkR9S_7nbtCMmY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:49:11"
+  },
+  {
+    "business_name": "Shree Ganesh medical agency",
+    "search_category": "Clinics",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service",
+    "pincode": "177203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "M4H8+WXH, Dhandri, Amb, Himachal Pradesh 177203",
+    "area": "Dhandri",
+    "latitude": 31.6798005,
+    "longitude": 76.11749879999999,
+    "place_id": "ChIJcQUyAgAhGzkRs2aT2FQJNVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQUyAgAhGzkRs2aT2FQJNVk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:49:14"
+  }
+]

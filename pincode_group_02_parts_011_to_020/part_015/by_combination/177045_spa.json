@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Lotus Unisex Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "177045",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No. 49 2nd Floor Extension 8 Sunny Enclave , Desu Majra, Kharar, Sahibzada Ajit Singh Nagar, Punjab 140301",
+    "area": "Sector 125, Sunny Enclave",
+    "latitude": 30.7412493,
+    "longitude": 76.67641309999999,
+    "place_id": "ChIJT2TYTa7vDzkRPvXKiXiZKbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2TYTa7vDzkRPvXKiXiZKbU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:13:36"
+  },
+  {
+    "business_name": "Sleepwell Gallery - Deepak Hardware Store",
+    "search_category": "Spa",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "177045",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Mandir Gali, nearby Domino's Pizza, Galore, Hamirpur, Himachal Pradesh 177001",
+    "area": "Galore",
+    "latitude": 31.6840144,
+    "longitude": 76.5228539,
+    "place_id": "ChIJyQtj6kvUBDkRZSmTbrQKFhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQtj6kvUBDkRZSmTbrQKFhI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:13:36"
+  }
+]

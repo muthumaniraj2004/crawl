@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anurag Cycles pvt Ltd",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Store",
+    "pincode": "177111",
+    "phone_number": "+91 98188 18078",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 317,
+    "address": "G 33, G Block, Sector 9, Noida, Uttar Pradesh 201301",
+    "area": "G Block, Sector 9",
+    "latitude": 28.586966999999998,
+    "longitude": 77.326208,
+    "place_id": "ChIJeyXS6ZflDDkRl8rMjLKLIg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyXS6ZflDDkRl8rMjLKLIg0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:09"
+  },
+  {
+    "business_name": "S.S.K. Bike Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency",
+    "pincode": "177111",
+    "phone_number": "+91 76961 17740",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "IT Park Rd, near Durga Nursery, Shastri Nagar, Kishangarh, Chandigarh, 160101",
+    "area": "Shastri Nagar, Kishangarh",
+    "latitude": 30.721969299999998,
+    "longitude": 76.8243835,
+    "place_id": "ChIJ0d4LSpXtDzkRjUYvk0rDgEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0d4LSpXtDzkRjUYvk0rDgEw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:10"
+  }
+]

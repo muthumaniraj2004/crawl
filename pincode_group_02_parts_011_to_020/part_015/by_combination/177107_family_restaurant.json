@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AL - LAZEEZ RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant, Non Vegetarian Restaurant, Rajasthani Restaurant",
+    "pincode": "177107",
+    "phone_number": "+91 98281 10909",
+    "website": "https://www.facebook.com/al.lazeez.restaurant.alwar/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No 3, 3, Alwar - Bhiwadi Rd, near Shalimar Gate, Bhagwanpura, Alwar, Nagla Samawadi, Rajasthan 301001",
+    "area": "Bhagwanpura",
+    "latitude": 27.6051228,
+    "longitude": 76.6343708,
+    "place_id": "ChIJ5-siZCyYcjkRdwNNgt4t_UI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-siZCyYcjkRdwNNgt4t_UI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:25:30"
+  },
+  {
+    "business_name": "Silver spoon restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "177107",
+    "phone_number": "+91 94110 78718",
+    "website": "https://silver-spoon-restaurant.grexa.site/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "45 opp Sai Mandir, Kanth Rd, Deen Dayal Nagar-II, Moradabad, Uttar Pradesh 244105",
+    "area": "Deen Dayal Nagar Phase 2, Deen Dayal Nagar-II",
+    "latitude": 28.8684078,
+    "longitude": 78.7538871,
+    "place_id": "ChIJd2Bqzer5CjkR9IT21gWryWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2Bqzer5CjkR9IT21gWryWI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:25:30"
+  }
+]

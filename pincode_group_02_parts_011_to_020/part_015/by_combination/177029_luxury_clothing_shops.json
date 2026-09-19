@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden City plaza",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "177029",
+    "phone_number": "+91 98820 70523",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Upper Bazaar, Kohta, Hamirpur, Himachal Pradesh 177001",
+    "area": "Upper Bazaar, Kohta",
+    "latitude": 31.6882907,
+    "longitude": 76.5206164,
+    "place_id": "ChIJaY_AJG3VBDkR_ejFGBFd_uI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY_AJG3VBDkR_ejFGBFd_uI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:52:03"
+  },
+  {
+    "business_name": "Abrol Fashion Point",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177029",
+    "phone_number": "+91 78072 51926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Baasi chownk hamirpur road,bhoranj, Bassi, Himachal Pradesh 176045",
+    "area": "177029",
+    "latitude": 31.6487646,
+    "longitude": 76.6458564,
+    "place_id": "ChIJ7VnDaBgnBTkRyHwIHBOfNHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VnDaBgnBTkRyHwIHBOfNHs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:52:03"
+  }
+]

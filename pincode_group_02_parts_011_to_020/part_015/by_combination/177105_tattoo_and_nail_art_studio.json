@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambala Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "177105",
+    "phone_number": "+91 82958 21713",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jasmeet Nagar, Ambala, Haryana 134007",
+    "area": "Jasmeet Nagar",
+    "latitude": 30.3827924,
+    "longitude": 76.7911365,
+    "place_id": "ChIJSSDI42fIDzkR5r1JV18Lfcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSDI42fIDzkR5r1JV18Lfcw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:40"
+  },
+  {
+    "business_name": "The Perfect Tattoo",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "177105",
+    "phone_number": "+91 75082 12290",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Guru Ram Das Nagar, Himatpura, Amritsar Cantt., Amritsar, Punjab 143001",
+    "area": "Guru Ram Das Nagar, Himatpura",
+    "latitude": 31.6092883,
+    "longitude": 74.8745027,
+    "place_id": "ChIJASybhKB8GTkRCOcuUHopKIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASybhKB8GTkRCOcuUHopKIk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:40"
+  }
+]

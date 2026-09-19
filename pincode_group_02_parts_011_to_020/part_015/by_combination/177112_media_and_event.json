@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divines Event",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "177112",
+    "phone_number": "+91 85807 54014",
+    "website": "https://divinesevent.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Divines Event, 177112, India",
+    "area": "177112",
+    "latitude": 31.8987283,
+    "longitude": 76.5986538,
+    "place_id": "ChIJTa0mR_A7qk4RvJ9h7RLvedo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTa0mR_A7qk4RvJ9h7RLvedo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:35:25"
+  },
+  {
+    "business_name": "Magical Movement Event Company & Advertising Agency",
+    "search_category": "Media and Event",
+    "primary_category": "Media company",
+    "all_categories": "Media company, Advertising agency, Event management company",
+    "pincode": "177112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward 6 Nagar Parishad Main Bazar, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1088217,
+    "longitude": 76.5357606,
+    "place_id": "ChIJ58VRD_qzBDkR5VvOvLvo5io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58VRD_qzBDkR5VvOvLvo5io",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:35:25"
+  }
+]

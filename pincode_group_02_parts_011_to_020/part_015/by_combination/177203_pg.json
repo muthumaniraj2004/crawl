@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Home - PG",
+    "search_category": "PG",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "177203",
+    "phone_number": "+91 98168 09006",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 34,
+    "address": "M4G5+WHQ, Una, Himachal Pradesh 177203",
+    "area": "177203",
+    "latitude": 31.6773493,
+    "longitude": 76.1089954,
+    "place_id": "ChIJtyJZSoshGzkRdua9RuaSB8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyJZSoshGzkRdua9RuaSB8g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:49:49"
+  },
+  {
+    "business_name": "Satish lodge Pg",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "177203",
+    "phone_number": "+91 98161 41115",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Satish lodge, Rajgarh Rd, near euro kids school, Kotla Nala, Solan, Himachal Pradesh 173212",
+    "area": "Kotla Nala",
+    "latitude": 30.9054485,
+    "longitude": 77.1087766,
+    "place_id": "ChIJV-bDGmWBDzkRlFOviBUVBt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-bDGmWBDzkRlFOviBUVBt0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:49:49"
+  }
+]

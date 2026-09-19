@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bamboo Life Resorts",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Guest house, Home Stay, Resort hotel",
+    "pincode": "177101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "177101",
+    "latitude": 31.8860922,
+    "longitude": 76.2110131,
+    "place_id": "ChIJNYuAY785GzkRFwS54OazB4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYuAY785GzkRFwS54OazB4A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:17:20"
+  },
+  {
+    "business_name": "Gungun guest house dehra &restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177101",
+    "phone_number": "+91 98579 83852",
+    "website": "https://gungunguesthouse.blogspot.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NH 503, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "177101",
+    "latitude": 31.888363499999997,
+    "longitude": 76.2243458,
+    "place_id": "ChIJI_l4LwA5GzkRT80r6KdhiBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_l4LwA5GzkRT80r6KdhiBU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:17:20"
+  }
+]

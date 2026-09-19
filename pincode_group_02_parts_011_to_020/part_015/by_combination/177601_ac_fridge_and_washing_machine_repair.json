@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapow Appliance Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "177601",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/KapowApplianceRepair/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kapow Appliance Repair, 177601, India",
+    "area": "177601",
+    "latitude": 40.853226,
+    "longitude": -76.251767,
+    "place_id": "ChIJ2XFmVsjvxYkRIRk9AMU1REU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XFmVsjvxYkRIRk9AMU1REU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:18:50"
+  },
+  {
+    "business_name": "Fair Repair Appliance Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "177601",
+    "phone_number": "N/A",
+    "website": "https://www.fair-repair.org/",
+    "rating": 4.9,
+    "reviews_count": 356,
+    "address": "Fair Repair Appliance Service, 177601, India",
+    "area": "177601",
+    "latitude": 36.7955845,
+    "longitude": -76.1444966,
+    "place_id": "ChIJV6lpW2j3VKgRhb1oqgAQ_mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6lpW2j3VKgRhb1oqgAQ_mE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:18:51"
+  }
+]

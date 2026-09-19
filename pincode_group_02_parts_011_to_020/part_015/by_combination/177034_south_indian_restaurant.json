@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golu",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Cafe, Restaurant",
+    "pincode": "177034",
+    "phone_number": "+91 91768 20094",
+    "website": "https://zomato.onelink.me/xqzv/tlbbll79",
+    "rating": 4.8,
+    "reviews_count": 494,
+    "address": "Shiv Shakti Nagar, Ward no. 14, Shani Dev Mandir Road Upper Dari P. O, Dari, Dharamshala, Himachal Pradesh 176057",
+    "area": "Dari",
+    "latitude": 32.2059277,
+    "longitude": 76.3387359,
+    "place_id": "ChIJnyZMsABRGzkRFVGH54ztRgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyZMsABRGzkRFVGH54ztRgo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:58:10"
+  },
+  {
+    "business_name": "Colliné Café",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Coffee shop, Cafe",
+    "pincode": "177034",
+    "phone_number": "+91 82787 54019",
+    "website": "https://collinecafe.in/",
+    "rating": 4.7,
+    "reviews_count": 1153,
+    "address": "1st Floor, Sai Complex, near RPGMC Road, Tanda, Tanda Kholi, Himachal Pradesh 176002",
+    "area": "177034",
+    "latitude": 32.1006545,
+    "longitude": 76.3064152,
+    "place_id": "ChIJe7v0-zlPGzkRft--zVY-C8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7v0-zlPGzkRft--zVY-C8A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:58:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BOB Shoooz",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177202",
+    "phone_number": "+91 172 463 2150",
+    "website": "https://www.bobshoooz.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sco : 857, N A C, Kalka Road, Manimajra, Manimajra, Sector 13, Chandigarh, 160101",
+    "area": "NAC Manimajra, Sector 13",
+    "latitude": 30.708247699999998,
+    "longitude": 76.8387889,
+    "place_id": "ChIJGZR0rTGTDzkRIBP_xiM42Yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZR0rTGTDzkRIBP_xiM42Yo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:12"
+  },
+  {
+    "business_name": "Chief Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177202",
+    "phone_number": "+91 96711 00769",
+    "website": "http://chiefshoes.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chief Shoes, Pipli Rd, near Kimaya Hotel, Sector 17, Kurukshetra, Haryana 136118",
+    "area": "Sector 17",
+    "latitude": 29.9716572,
+    "longitude": 76.8404391,
+    "place_id": "ChIJfzYhuYJHDjkRaRwxhDip2po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzYhuYJHDjkRaRwxhDip2po",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:13"
+  }
+]

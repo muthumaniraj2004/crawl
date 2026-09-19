@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jitender plumbing work",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "177114",
+    "phone_number": "+91 79887 76068",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Pinjore, Kalka, Haryana 133302",
+    "area": "177114",
+    "latitude": 30.815462099999998,
+    "longitude": 76.9186057,
+    "place_id": "ChIJFZGlhv6PDzkRd0nZaFkYrEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZGlhv6PDzkRd0nZaFkYrEM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:38:41"
+  },
+  {
+    "business_name": "kkplumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "177114",
+    "phone_number": "+91 97290 33063",
+    "website": "http://kkplumbing.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gali Number 1, New Adarsh Nagar, Rewari, Haryana 123401",
+    "area": "New Adarsh Nagar",
+    "latitude": 28.186456,
+    "longitude": 76.60425099999999,
+    "place_id": "ChIJET-93XpQDTkR55WgaFEzZuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJET-93XpQDTkR55WgaFEzZuk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:38:42"
+  }
+]

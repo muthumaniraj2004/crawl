@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Robin Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "177038",
+    "phone_number": "+91 82194 84426",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Ph-1, opp. saini footwear, Phase Number 1, Tehsil, New Nalagarh, Nalagarh, Himachal Pradesh 174101",
+    "area": "Phase Number 1, Tehsil",
+    "latitude": 31.0375487,
+    "longitude": 76.70396389999999,
+    "place_id": "ChIJwT15Su9bBTkRAAAAMOdlHAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwT15Su9bBTkRAAAAMOdlHAo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:31"
+  },
+  {
+    "business_name": "Rahul Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "177038",
+    "phone_number": "+91 82630 61000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Misserwala, Pipliwala, Himachal Pradesh 173001",
+    "area": "Misserwala",
+    "latitude": 30.4721643,
+    "longitude": 77.5495991,
+    "place_id": "ChIJEUK7bmMZDzkRA6YiT0JtBlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUK7bmMZDzkRA6YiT0JtBlk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:31"
+  }
+]

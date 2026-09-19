@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Medical Store Chanour",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "177113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vpo chanour teh dehra, distt, R.F.Chanaur-I, Himachal Pradesh 177113",
+    "area": "177113",
+    "latitude": 31.8897265,
+    "longitude": 76.1231565,
+    "place_id": "ChIJg76Xf1w-GzkRH69gthVrl_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg76Xf1w-GzkRH69gthVrl_o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:36:27"
+  },
+  {
+    "business_name": "Hare Krishna Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X8W8+C9W, pacca, Baroh, Himachal Pradesh 176054",
+    "area": "pacca",
+    "latitude": 31.996122999999997,
+    "longitude": 76.3159663,
+    "place_id": "ChIJCVCxL9tJGzkRfBEJyi3RzA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVCxL9tJGzkRfBEJyi3RzA0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:36:30"
+  }
+]

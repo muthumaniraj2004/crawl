@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "electronics",
+    "search_category": "EXIMS",
+    "primary_category": "Electronics Company",
+    "all_categories": "Electronics Company",
+    "pincode": "177203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Una Rd, Dhandri, Amb, Himachal Pradesh 177203",
+    "area": "Dhandri",
+    "latitude": 31.6824038,
+    "longitude": 76.117057,
+    "place_id": "ChIJu8naIwohGzkR7q4-sGGNz9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8naIwohGzkR7q4-sGGNz9o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:22"
+  },
+  {
+    "business_name": "Mi Authorized Service center, Shah Complex Una (Squo)",
+    "search_category": "EXIMS",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "177203",
+    "phone_number": "+91 93178 34500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Perfect Mobile Repair Center, Shah Complex, near Bus Stand, Amb, Himachal Pradesh 177203",
+    "area": "177203",
+    "latitude": 31.6865775,
+    "longitude": 76.11711729999999,
+    "place_id": "ChIJb8heaBMjGzkR_U6FJHW3jy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8heaBMjGzkR_U6FJHW3jy4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:23"
+  }
+]

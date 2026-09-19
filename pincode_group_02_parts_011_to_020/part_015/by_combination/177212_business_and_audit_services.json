@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sb & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "177212",
+    "phone_number": "+91 70154 65843",
+    "website": "http://sahilburra-vcfo.netlify.app/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "BABA INTERNATIONAL, near INDIAN OIL GAS PLANT, Baddi, Himachal Pradesh 173205",
+    "area": "177212",
+    "latitude": 30.9314006,
+    "longitude": 76.8108276,
+    "place_id": "ChIJ-_EerO1iiK0R-6X5sKp5Ac8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_EerO1iiK0R-6X5sKp5Ac8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:06:35"
+  },
+  {
+    "business_name": "GM Business Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "177212",
+    "phone_number": "+91 70096 29488",
+    "website": "https://gmbs.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shimla Road, Awah Devi, Himachal Pradesh 177601",
+    "area": "177212",
+    "latitude": 31.7081134,
+    "longitude": 76.6726054,
+    "place_id": "ChIJT7w826bZBDkRZoPgE3R7MJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7w826bZBDkRZoPgE3R7MJQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:06:38"
+  }
+]

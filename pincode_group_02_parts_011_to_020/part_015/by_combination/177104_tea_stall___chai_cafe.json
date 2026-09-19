@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TeaMax Cafe Shahpur, Himachal Pradesh",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "177104",
+    "phone_number": "+91 70872 61252",
+    "website": "https://www.teamaxcafe.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "VPO Rehlu Road, opp. BSNL Exchange Tehsil, Shahpur, Chandaran, Himachal Pradesh 176206",
+    "area": "177104",
+    "latitude": 32.2134995,
+    "longitude": 76.1861931,
+    "place_id": "ChIJtd01Nb1bGzkR4alW3kSRXTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtd01Nb1bGzkR4alW3kSRXTQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:20:03"
+  },
+  {
+    "business_name": "Tealogy Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "177104",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/tealogy_shimla?igshid=NTc4MTIwNjQ2YQ==",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "2nd Floor, Block No - 9, SDA Complex, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "SDA Complex, Kasumpti",
+    "latitude": 31.0789123,
+    "longitude": 77.1815788,
+    "place_id": "ChIJcWkscn95BTkR2cu7WysNK6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWkscn95BTkR2cu7WysNK6c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:20:06"
+  }
+]

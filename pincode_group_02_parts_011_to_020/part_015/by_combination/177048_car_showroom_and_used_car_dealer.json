@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HASU VEHICLE",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "177048",
+    "phone_number": "+91 96259 22331",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "VIll-Bhager , Po - Bhager, Distt, Teh, Ghumarwin, Himachal Pradesh 174021",
+    "area": "Teh",
+    "latitude": 31.3958616,
+    "longitude": 76.6897233,
+    "place_id": "ChIJM-MvGSAlBTkR7l86gU4iOTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-MvGSAlBTkR7l86gU4iOTE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:15:05"
+  },
+  {
+    "business_name": "Suhana Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Motor vehicle dealer",
+    "pincode": "177048",
+    "phone_number": "+91 99331 56505",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 3, Nargala Rd, Makrahan, Jawali, Himachal Pradesh 176023",
+    "area": "177048",
+    "latitude": 32.1419188,
+    "longitude": 75.9957091,
+    "place_id": "ChIJVaGFdmNnGzkRwKCwnXu9zKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaGFdmNnGzkRwKCwnXu9zKY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:15:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop",
+    "search_category": "Clinics",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "177107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Blahar road, Pragpur, Himachal Pradesh 177107",
+    "area": "177107",
+    "latitude": 31.822881199999998,
+    "longitude": 76.211737,
+    "place_id": "ChIJHzB0Fiw7GzkRUpKqPeP3Yy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzB0Fiw7GzkRUpKqPeP3Yy4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:25:42"
+  },
+  {
+    "business_name": "Bani Medical Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main road, Bani, Mat Umran, Himachal Pradesh 177108",
+    "area": "177107",
+    "latitude": 31.8036715,
+    "longitude": 76.2204995,
+    "place_id": "ChIJD0kxdaM7GzkRlZ3UasAd5VU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0kxdaM7GzkRlZ3UasAd5VU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:25:43"
+  }
+]

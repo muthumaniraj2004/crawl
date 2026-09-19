@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat point",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Snack bar",
+    "all_categories": "Snack bar, Cafe, Chinese noodle restaurant, Hotel, Ice cream shop, Pizza restaurant, Tea store",
+    "pincode": "177501",
+    "phone_number": "+91 72186 90099",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Parner Rd, near Sai mangal karyalay, Supe, Maharashtra 414301",
+    "area": "177501",
+    "latitude": 18.9592056,
+    "longitude": 74.5351976,
+    "place_id": "ChIJLx0h0QrL3DsRIj8wCvUZmi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx0h0QrL3DsRIj8wCvUZmi4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:21"
+  },
+  {
+    "business_name": "Nishatha Snacks",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court, Snack bar, Variety store, Vegetarian restaurant",
+    "pincode": "177501",
+    "phone_number": "+91 98995 44181",
+    "website": "https://nishathasnacks.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "11/76 shop no, 1, Block 11, Subhash Nagar, Delhi, 110027",
+    "area": "Block 11, Subhash Nagar",
+    "latitude": 28.6371137,
+    "longitude": 77.1208983,
+    "place_id": "ChIJe2RtB2oDDTkRywNVqUWmL5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2RtB2oDDTkRywNVqUWmL5Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:22"
+  }
+]

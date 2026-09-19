@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BookMyServices",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency, Service establishment",
+    "pincode": "177107",
+    "phone_number": "+91 86888 42714",
+    "website": "https://www.bookmyservices.net/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BookMyServices, 177107, India",
+    "area": "177107",
+    "latitude": 20.8584951,
+    "longitude": 76.5629608,
+    "place_id": "ChIJ0QHcGxBko0cR5n8hRF_lD-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QHcGxBko0cR5n8hRF_lD-c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:58"
+  },
+  {
+    "business_name": "Online earning",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Entertainment agency",
+    "all_categories": "Entertainment agency, Service establishment",
+    "pincode": "177107",
+    "phone_number": "N/A",
+    "website": "https://www.vclub.asia/#/register?r_code=4AUfpRVc",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Online earning, 177107, India",
+    "area": "177107",
+    "latitude": 20.300884099999998,
+    "longitude": 85.8204532,
+    "place_id": "ChIJAwrPCjlCFw0RALF2IDuTS9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwrPCjlCFw0RALF2IDuTS9o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:58"
+  }
+]

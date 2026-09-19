@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarush aahar bhawan",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "177044",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "RF6G+QGF, Bhaleth, Sujanpur Tira, Himachal Pradesh 176108",
+    "area": "177044",
+    "latitude": 31.811944599999997,
+    "longitude": 76.4762952,
+    "place_id": "ChIJrWRL0qbNBDkRjHx8cVFcWXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWRL0qbNBDkRjHx8cVFcWXk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:11:02"
+  },
+  {
+    "business_name": "Shivaay pizza point",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "177044",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 50,
+    "address": "Shimla - Kangra Rd, Bhatta, Himachal Pradesh 177048",
+    "area": "177044",
+    "latitude": 31.7298549,
+    "longitude": 76.43970809999999,
+    "place_id": "ChIJaaag518tGzkRtr74GHy_7lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaag518tGzkRtr74GHy_7lE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:11:05"
+  }
+]

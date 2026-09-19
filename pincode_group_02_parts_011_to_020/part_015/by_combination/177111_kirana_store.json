@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Kariyana Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177111",
+    "phone_number": "+91 77196 62139",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "road, Mangu Mera, Talwara, Punjab 144224",
+    "area": "177111",
+    "latitude": 31.873754899999998,
+    "longitude": 75.9322806,
+    "place_id": "ChIJVeVZXhITGzkRjqsUx3Qe55Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeVZXhITGzkRjqsUx3Qe55Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:26"
+  },
+  {
+    "business_name": "Ponahari Grocery store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "VWGH+W8F, Palahar, Bhol Kalota, Punjab 144224",
+    "area": "177111",
+    "latitude": 31.877322,
+    "longitude": 75.92828899999999,
+    "place_id": "ChIJuR6WTgATGzkRR_rZZwMTCHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuR6WTgATGzkRR_rZZwMTCHg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:26"
+  }
+]

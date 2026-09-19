@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Usmani Halal Chicken Fry Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Halal restaurant",
+    "pincode": "177045",
+    "phone_number": "+91 98577 22062",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 88,
+    "address": "McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2402449,
+    "longitude": 76.3264435,
+    "place_id": "ChIJ-bUzYS1RGzkRvdE8ozwNOj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bUzYS1RGzkRvdE8ozwNOj8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:12:43"
+  },
+  {
+    "business_name": "Kanhaiya Lal Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "177045",
+    "phone_number": "+91 11 2543 9619",
+    "website": "http://www.meatcraft.in/",
+    "rating": 4,
+    "reviews_count": 79,
+    "address": "2/67, Block 6B, Ramesh Nagar, New Delhi, Delhi, 110015",
+    "area": "Block 6B, Ramesh Nagar",
+    "latitude": 28.649753999999998,
+    "longitude": 77.134755,
+    "place_id": "ChIJLVNAKBADDTkR2kQEhH7tEfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVNAKBADDTkR2kQEhH7tEfY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:12:43"
+  }
+]

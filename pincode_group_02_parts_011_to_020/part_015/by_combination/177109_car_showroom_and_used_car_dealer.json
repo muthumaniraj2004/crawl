@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "177109",
+    "phone_number": "+91 78077 74777",
+    "website": "https://sites.google.com/view/citycarsuna",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1ST FLOOR, Palika Bazaar, CITY CARS, SCO 9, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.464754799999998,
+    "longitude": 76.2788489,
+    "place_id": "ChIJn2sPVofRGjkRei4pxJRjx_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2sPVofRGjkRei4pxJRjx_E",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:29:28"
+  },
+  {
+    "business_name": "Maruti Suzuki True Value (Lovely Autos, Nawanshahr, Langroya)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "177109",
+    "phone_number": "+91 80 3758 0636",
+    "website": "https://www.truevalueofchdroadnawanshahr.com/?utm_source=gmb&utm_medium=google&utm_campaign=seo-local",
+    "rating": 4.9,
+    "reviews_count": 247,
+    "address": "Lovely Autos, Chandigarh Rd, Langroya, Punjab 144516",
+    "area": "177109",
+    "latitude": 31.1106584,
+    "longitude": 76.1585152,
+    "place_id": "ChIJv7Sm0Ga8GjkRy9iyIHvbypE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7Sm0Ga8GjkRy9iyIHvbypE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:29:29"
+  }
+]

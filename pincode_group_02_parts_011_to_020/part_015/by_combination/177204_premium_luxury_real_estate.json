@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malhi Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real Estate Builders & Construction Company, Real estate consultant, Real estate rental agency",
+    "pincode": "177204",
+    "phone_number": "+91 98160 51126",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 31,
+    "address": "House No. 2571 sector-123,New, Greater, Greater Mohali, Sunny Enclave, Sahibzada Ajit Singh Nagar, Punjab 140301",
+    "area": "Greater Mohali, Sunny Enclave",
+    "latitude": 30.7604832,
+    "longitude": 76.6777783,
+    "place_id": "ChIJNztpGcPxDzkR78c2v2m2ZX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNztpGcPxDzkR78c2v2m2ZX8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:52:03"
+  },
+  {
+    "business_name": "Kunal Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Apartment building, Apartment complex, Commercial real estate agency, Condominium complex, Real Estate Builders & Construction Company, Leasing service, Property investment company, Real estate consultant, Real estate developer",
+    "pincode": "177204",
+    "phone_number": "+91 98886 12545",
+    "website": "http://www.kunalrealtyservices.com/",
+    "rating": 5,
+    "reviews_count": 122,
+    "address": "AWFIS, Motia, Kunal Realty, MOTIAZ ROYAL BUSINESS PARK, Zirakpur, Gazipur, Punjab 140603",
+    "area": "177204",
+    "latitude": 30.632959399999997,
+    "longitude": 76.82438929999999,
+    "place_id": "ChIJQV0w3GmTDzkRc9LeRNbJSlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQV0w3GmTDzkRc9LeRNbJSlc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:52:03"
+  }
+]

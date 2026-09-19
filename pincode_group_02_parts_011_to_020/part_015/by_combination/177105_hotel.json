@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Valley View Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177105",
+    "phone_number": "+91 82196 77328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "R426+HW2, Chintapurni Rd, Moien, Chintpurni, Himachal Pradesh 177110",
+    "area": "Moien",
+    "latitude": 31.8013449,
+    "longitude": 76.1123049,
+    "place_id": "ChIJ03dHVAA9GzkRUopPZfXiH3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03dHVAA9GzkRUopPZfXiH3g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:46"
+  },
+  {
+    "business_name": "Mankotia Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177105",
+    "phone_number": "+91 62303 12423",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "R5XR+V96, Bagla, Dhaliara, Himachal Pradesh 177103",
+    "area": "177105",
+    "latitude": 31.849661599999997,
+    "longitude": 76.1908775,
+    "place_id": "ChIJA1m3yVU7GzkRrPclmeopRdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1m3yVU7GzkRrPclmeopRdo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:46"
+  }
+]

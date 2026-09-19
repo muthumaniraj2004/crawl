@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Evinger's Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment, Industrial gas supplier, Towing equipment provider",
+    "pincode": "177106",
+    "phone_number": "N/A",
+    "website": "https://evingerstowing.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Evinger's Towing, 177106, India",
+    "area": "177106",
+    "latitude": 40.2683645,
+    "longitude": -77.04175339999999,
+    "place_id": "ChIJf4S2uK2yiqoRHw_r-zndIyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4S2uK2yiqoRHw_r-zndIyQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:24:11"
+  },
+  {
+    "business_name": "Baba Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "177106",
+    "phone_number": "+91 97365 92977",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "47MW+935, Bagli Rd, Matour, Nandehr, Himachal Pradesh 176001",
+    "area": "177106",
+    "latitude": 32.1333966,
+    "longitude": 76.2952407,
+    "place_id": "ChIJAxg-o3dPGzkRXkKuSZRocuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxg-o3dPGzkRXkKuSZRocuM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:24:11"
+  }
+]

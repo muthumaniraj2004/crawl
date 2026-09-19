@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxmi Laundry Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "177043",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tharu Bypass, Sunehar - Palampur Rd, Warai, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "177043",
+    "latitude": 32.1007518,
+    "longitude": 76.3541206,
+    "place_id": "ChIJhxTExcdPGzkRRTQm53RKzGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxTExcdPGzkRRTQm53RKzGM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:10:33"
+  },
+  {
+    "business_name": "Tumbledry Dry Clean & Laundry Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Carpet cleaning service, Laundry, Laundry service, Shoe repair shop",
+    "pincode": "177043",
+    "phone_number": "+91 76772 50250",
+    "website": "https://tumbledry.in/store-locations/tumbledry-dry-clean-laundry-store-adarsh-colony-kangra/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Second Floor, Garg Complex, near Fortis Hospital, Adarsh Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.115699299999996,
+    "longitude": 76.2821328,
+    "place_id": "ChIJgaCc-BpPGzkRhWvvvqNKwGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgaCc-BpPGzkRhWvvvqNKwGE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:10:33"
+  }
+]

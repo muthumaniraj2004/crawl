@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MH Decorators & Caterers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Wedding buffet, Caterer",
+    "pincode": "177106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 192,
+    "address": "Shop No 1, Dakoha Rd, near Oberoi Medical Hall, Dakoha, Rama Mandi, Jalandhar, Punjab 144023",
+    "area": "Dakoha, Rama Mandi",
+    "latitude": 31.308893899999998,
+    "longitude": 75.6375652,
+    "place_id": "ChIJMetotThZGjkRTX7g0miMCMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMetotThZGjkRTX7g0miMCMg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:24:30"
+  },
+  {
+    "business_name": "Dogra floure mill",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "177106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RPHM+JGV, Passi Kandi, Punjab 144207",
+    "area": "177106",
+    "latitude": 31.8291069,
+    "longitude": 75.7337817,
+    "place_id": "ChIJHUQeAwALGzkRsReUzCwkQcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUQeAwALGzkRsReUzCwkQcU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:24:32"
+  }
+]

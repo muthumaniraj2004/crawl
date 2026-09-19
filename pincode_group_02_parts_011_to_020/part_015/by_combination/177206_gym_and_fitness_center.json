@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fire your Fat gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "177206",
+    "phone_number": "+91 82190 38792",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "9J9Q+C9M, Jhanduta, Himachal Pradesh 174031",
+    "area": "177206",
+    "latitude": 31.3688237,
+    "longitude": 76.6374996,
+    "place_id": "ChIJU87_v003BTkRUytAWvqXNVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU87_v003BTkRUytAWvqXNVc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:46"
+  },
+  {
+    "business_name": "Power House Gym Darlaghat",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "177206",
+    "phone_number": "+91 96252 95507",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Aashiana complex, Darlaghat, Himachal Pradesh 171102",
+    "area": "177206",
+    "latitude": 31.2348283,
+    "longitude": 76.9364197,
+    "place_id": "ChIJnZTdDR9sBTkRAAAAMMsyMCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZTdDR9sBTkRAAAAMMsyMCc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:49"
+  }
+]

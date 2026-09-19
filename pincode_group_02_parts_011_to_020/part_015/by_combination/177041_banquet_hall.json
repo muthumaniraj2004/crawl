@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saanvi Enterprises",
+    "search_category": "Banquet Hall",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Manufacturer",
+    "pincode": "177041",
+    "phone_number": "+91 82849 09000",
+    "website": "http://www.saanvibanquetchairs.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B 29, near maankanda street, Industrial Area C, Dhandari Kalan, Ludhiana, Punjab 141122",
+    "area": "Industrial Area C, Dhandari Kalan",
+    "latitude": 30.848052199999998,
+    "longitude": 75.90817679999999,
+    "place_id": "ChIJmfLQhMqCGjkRWSvmxig22cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfLQhMqCGjkRWSvmxig22cA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:06:26"
+  },
+  {
+    "business_name": "Dogra Banqauet Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "177041",
+    "phone_number": "+91 96507 66434",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Panchrukhi Rd, Panchrukhi, Deogran, Himachal Pradesh 176103",
+    "area": "177041",
+    "latitude": 32.0637422,
+    "longitude": 76.56317419999999,
+    "place_id": "ChIJISNJQW-3BDkRwy74dCvHqRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISNJQW-3BDkRwy74dCvHqRI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:06:27"
+  }
+]

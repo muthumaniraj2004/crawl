@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Box And Pots",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "177101",
+    "phone_number": "+91 93179 20709",
+    "website": "https://www.boxandpots.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "28/1, Road, near Chari, Pathiar, Nagrota Bagwan, Pandtehr, Himachal Pradesh 176047",
+    "area": "Pathiar",
+    "latitude": 32.1197004,
+    "longitude": 76.4044595,
+    "place_id": "ChIJN3Nf_htNGzkRPfJcPvXtRSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3Nf_htNGzkRPfJcPvXtRSg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:17:22"
+  },
+  {
+    "business_name": "The Carved Tulip Interiors, LLC",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment, Interior Decorator",
+    "pincode": "177101",
+    "phone_number": "N/A",
+    "website": "https://www.thecarvedtulip.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "The Carved Tulip Interiors, LLC, 177101, India",
+    "area": "177101",
+    "latitude": 38.5898264,
+    "longitude": -79.3308385,
+    "place_id": "ChIJsefhdTHSJEcR6eoGQibQ9Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsefhdTHSJEcR6eoGQibQ9Ws",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:17:24"
+  }
+]

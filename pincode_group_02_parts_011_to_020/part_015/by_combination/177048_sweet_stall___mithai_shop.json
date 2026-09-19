@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "177048",
+    "phone_number": "+91 1905 223 899",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 106,
+    "address": "PW5M+C2M, Court Road, Near Court Gate, Seri Bazar, Bhagwan Muhalla, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Seri Bazar, Bhagwan Muhalla, Samkhetar",
+    "latitude": 31.7085963,
+    "longitude": 76.9325545,
+    "place_id": "ChIJT7eZfzviBDkRfgAuFTuP9ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7eZfzviBDkRfgAuFTuP9ko",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:38"
+  },
+  {
+    "business_name": "Arora Sweets Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "177048",
+    "phone_number": "+91 1905 222 381",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 170,
+    "address": "Jail Rd, Tarna, Mandi, Himachal Pradesh 175001",
+    "area": "Tarna",
+    "latitude": 31.7022768,
+    "longitude": 76.9254469,
+    "place_id": "ChIJaXfDdCLiBDkRjO7PoTmxTTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXfDdCLiBDkRjO7PoTmxTTk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:38"
+  }
+]

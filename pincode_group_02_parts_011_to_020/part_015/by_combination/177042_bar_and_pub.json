@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar's Dimond",
+    "search_category": "Bar and Pub",
+    "primary_category": "Sports bar",
+    "all_categories": "Sports bar",
+    "pincode": "177042",
+    "phone_number": "+91 88946 60500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Guhal, Himachal Pradesh 177020",
+    "area": "177042",
+    "latitude": 31.7477733,
+    "longitude": 76.4800972,
+    "place_id": "ChIJkREWtynTBDkR4oT9Q6cSAyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkREWtynTBDkR4oT9Q6cSAyg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:07:29"
+  },
+  {
+    "business_name": "Rana Ji Chicken Corner",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "177042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "V86F+7VJ, Jawalamukhi, Uchhahr, Himachal Pradesh 176031",
+    "area": "177042",
+    "latitude": 31.860713599999997,
+    "longitude": 76.3246273,
+    "place_id": "ChIJDZEDIQAxGzkRZ7RZpX9Q520",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZEDIQAxGzkRZ7RZpX9Q520",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:07:29"
+  }
+]

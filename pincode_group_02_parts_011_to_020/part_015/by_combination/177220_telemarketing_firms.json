@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digifunny",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "177220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Swastik Bhawan, near mCS, Una, Himachal Pradesh 174303",
+    "area": "Rakkar Colony",
+    "latitude": 31.462991199999998,
+    "longitude": 76.3030251,
+    "place_id": "ChIJRT_jc7LRGjkRk0Pt9iBtSqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRT_jc7LRGjkRk0Pt9iBtSqk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:12:19"
+  },
+  {
+    "business_name": "nextgenprsolutions",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "177220",
+    "phone_number": "N/A",
+    "website": "https://next-genprsolutions.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gokul Dham Colony, near vps school, Behdala, Una, Himachal Pradesh 174303",
+    "area": "177220",
+    "latitude": 31.4476178,
+    "longitude": 76.3144882,
+    "place_id": "ChIJsR7gZotsUKYRQUltl_RNW98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsR7gZotsUKYRQUltl_RNW98",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:12:19"
+  }
+]

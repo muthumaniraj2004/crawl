@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BADDI ENT HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177039",
+    "phone_number": "+91 1795 244 444",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "WQMX+7F2, Sai Rd, Baddi, Himachal Pradesh 173205",
+    "area": "177039",
+    "latitude": 30.933132599999997,
+    "longitude": 76.79863189999999,
+    "place_id": "ChIJwX_TH2n1DzkRCh4qEDTvNi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwX_TH2n1DzkRCh4qEDTvNi4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:02:18"
+  },
+  {
+    "business_name": "Dr. Satish Mehta Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "177039",
+    "phone_number": "+91 97960 51690",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "1st Floor, Satish Mehta Clinic & Research Centre pvt ltd, 10, Shalamar Rd, opp. SMGS Hospital, Resham Ghar Colony, Jammu, Jammu and Kashmir 180001",
+    "area": "Shalamar, Resham Ghar Colony",
+    "latitude": 32.732315,
+    "longitude": 74.8631291,
+    "place_id": "ChIJjeE94XOFHjkRuVsfpBvHcrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeE94XOFHjkRuVsfpBvHcrs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:02:19"
+  }
+]

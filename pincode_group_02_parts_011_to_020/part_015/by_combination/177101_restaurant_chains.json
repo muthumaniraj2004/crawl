@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "let's cafe 32mile",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177101",
+    "phone_number": "+91 93188 66667",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 19,
+    "address": "vpo sihuni, teh, jawali, Himachal Pradesh 176225",
+    "area": "177101",
+    "latitude": 32.2278051,
+    "longitude": 76.08118429999999,
+    "place_id": "ChIJkRKvLuRhGzkR99gjKdEkUmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRKvLuRhGzkR99gjKdEkUmk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:16:31"
+  },
+  {
+    "business_name": "Pablo's Kitchen & Tiffin Service",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "177101",
+    "phone_number": "+91 81309 64580",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Khanyara - Dari Rd, near paragliding landing point dari, near kandi school, Dharamshala, Kand, Himachal Pradesh 176215",
+    "area": "177101",
+    "latitude": 32.2158654,
+    "longitude": 76.3420804,
+    "place_id": "ChIJdfNoQGdTGzkRrTp4gcwVaN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfNoQGdTGzkRrTp4gcwVaN4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:16:32"
+  }
+]

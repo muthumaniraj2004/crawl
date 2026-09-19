@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Abroad Studies",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "177033",
+    "phone_number": "+91 79000 06461",
+    "website": "http://www.myabroadstudies.com/",
+    "rating": 4.7,
+    "reviews_count": 140,
+    "address": "Nadaun, Himachal Pradesh 177033",
+    "area": "177033",
+    "latitude": 31.778502999999997,
+    "longitude": 76.344459,
+    "place_id": "ChIJseaPkFnlAE4R6vGxSjvMC_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseaPkFnlAE4R6vGxSjvMC_U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:57:17"
+  },
+  {
+    "business_name": "SahiCourse",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "177033",
+    "phone_number": "N/A",
+    "website": "https://www.sahicourse.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPO, Bela, Tehsil, Nadaun, Himachal Pradesh 177033",
+    "area": "Bela, Tehsil",
+    "latitude": 31.7805824,
+    "longitude": 76.3521031,
+    "place_id": "ChIJI2Nrj8UvGzkRj3jSMUHojro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2Nrj8UvGzkRj3jSMUHojro",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:57:17"
+  }
+]

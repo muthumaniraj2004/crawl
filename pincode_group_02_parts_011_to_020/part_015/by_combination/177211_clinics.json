@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anju Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J47R+9G6, Nandpur, Himachal Pradesh 177211",
+    "area": "177211",
+    "latitude": 31.613404799999998,
+    "longitude": 76.1412654,
+    "place_id": "ChIJZ1ZQzo0gGzkRa3qvzwLYB1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1ZQzo0gGzkRa3qvzwLYB1Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:03:42"
+  },
+  {
+    "business_name": "Sharma Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177211",
+    "phone_number": "+91 98160 88610",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kuthiari Una Hsp, Himachal Pradesh 177211",
+    "area": "177211",
+    "latitude": 31.633434899999997,
+    "longitude": 76.1234514,
+    "place_id": "ChIJq55ep6chGzkRBlDXsz57KVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq55ep6chGzkRBlDXsz57KVQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:03:42"
+  }
+]

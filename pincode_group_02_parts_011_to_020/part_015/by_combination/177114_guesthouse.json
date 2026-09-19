@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Narayan Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "177114",
+    "phone_number": "+91 88945 40938",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "Baglamukhi Temple , Bankhandi , Himachal Pradesh Saniyala, PO, Himachal Pradesh 177114",
+    "area": "177114",
+    "latitude": 31.9398327,
+    "longitude": 76.1990636,
+    "place_id": "ChIJMSB7Erg5GzkRzJ5akuCitXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSB7Erg5GzkRzJ5akuCitXw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:38:56"
+  },
+  {
+    "business_name": "Red Mango Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "177114",
+    "phone_number": "+91 98050 63850",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Red Mango Guest House, Menja Rd, Menjha, Palampur, Samula Khas, Himachal Pradesh 176064",
+    "area": "Menjha",
+    "latitude": 32.0876142,
+    "longitude": 76.4751434,
+    "place_id": "ChIJPzH_w-ezBDkRDGKxqGcQIxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzH_w-ezBDkRDGKxqGcQIxs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:38:57"
+  }
+]

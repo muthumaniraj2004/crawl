@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Food & Beverage Exporter, Tea Wholesaler, Wholesale Food Store",
+    "pincode": "177112",
+    "phone_number": "+91 98166 00047",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Road, Nahan, Dadahu, Himachal Pradesh 173022",
+    "area": "177112",
+    "latitude": 30.598909,
+    "longitude": 77.4358239,
+    "place_id": "ChIJM_hKVa8TDzkRs9I6MjdCXyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_hKVa8TDzkRs9I6MjdCXyE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:19"
+  },
+  {
+    "business_name": "Bathra, Himachal Pradesh 177112",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "177112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bathra, Himachal Pradesh",
+    "area": "177112",
+    "latitude": 31.867636599999997,
+    "longitude": 76.07399989999999,
+    "place_id": "ChIJ1S6iR_AVGzkRUp9mSG5egWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1S6iR_AVGzkRUp9mSG5egWU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:20"
+  }
+]

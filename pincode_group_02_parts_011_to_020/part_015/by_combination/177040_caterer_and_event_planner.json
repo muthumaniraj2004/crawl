@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ceremonyservice.in",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment, Wedding planner",
+    "pincode": "177040",
+    "phone_number": "+91 79839 05055",
+    "website": "http://ceremonyservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ceremonyservice.in, 177040, India",
+    "area": "177040",
+    "latitude": 30.0909235,
+    "longitude": 79.3087491,
+    "place_id": "ChIJzwzA6OlMRYQRUPaVJhJkzoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwzA6OlMRYQRUPaVJhJkzoE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:04:38"
+  },
+  {
+    "business_name": "Dream caterers and decorators",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Service establishment",
+    "pincode": "177040",
+    "phone_number": "+91 98191 76971",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dream caterers and decorators, 177040, India",
+    "area": "177040",
+    "latitude": 19.0969502,
+    "longitude": 72.9773996,
+    "place_id": "ChIJp9KMJpm75zsRkmazFss3e2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9KMJpm75zsRkmazFss3e2Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:04:39"
+  }
+]

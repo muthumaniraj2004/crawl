@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EXIMXPRESS",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company, Service establishment",
+    "pincode": "177501",
+    "phone_number": "+91 98211 70392",
+    "website": "https://www.eximxpress.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "EXIMXPRESS, 177501, India",
+    "area": "177501",
+    "latitude": 19.0815074,
+    "longitude": 72.8783527,
+    "place_id": "ChIJt7e5-rqB_qARJLtyAhqlmbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7e5-rqB_qARJLtyAhqlmbQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:17:48"
+  },
+  {
+    "business_name": "EXIM PACKERS",
+    "search_category": "EXIMS",
+    "primary_category": "Pallet supplier",
+    "all_categories": "Pallet supplier, Packaging company, Packaging supply store",
+    "pincode": "177501",
+    "phone_number": "N/A",
+    "website": "http://www.eximpackers.co.in/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Neel Lake View, E-106, Sector - 6, Greater Khanda, Maharashtra 410206",
+    "area": "Sector - 6, Greater Khanda, Panvel",
+    "latitude": 19.0112937,
+    "longitude": 73.1099429,
+    "place_id": "ChIJdwAAMEro5zsRSGW5g2Cw1jY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwAAMEro5zsRSGW5g2Cw1jY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:17:49"
+  }
+]

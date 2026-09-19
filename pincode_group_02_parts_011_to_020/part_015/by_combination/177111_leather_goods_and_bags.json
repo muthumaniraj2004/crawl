@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAG Guru Industries",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Handbags shop, Plastic bag supplier",
+    "pincode": "177111",
+    "phone_number": "+91 99119 21511",
+    "website": "http://bagguruindustries.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Arjun Gali, Vishwas Nagar, Shahdara, Delhi, 110032",
+    "area": "Arjun Gali, Vishwas Nagar, Shahdara",
+    "latitude": 28.663855299999998,
+    "longitude": 77.2964214,
+    "place_id": "ChIJVVVlmoH8DDkRAUCWrPeO1eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVlmoH8DDkRAUCWrPeO1eQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:48"
+  },
+  {
+    "business_name": "Leather Lounge",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop",
+    "pincode": "177111",
+    "phone_number": "+91 40 6668 5845",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 12, Model House, Lakshmi Narsimha Nagar Rd, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Dwarakapuri, Punjagutta",
+    "latitude": 17.4241411,
+    "longitude": 78.45323719999999,
+    "place_id": "ChIJv2a_kEqXyzsRYCVEuW-ouXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2a_kEqXyzsRYCVEuW-ouXE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:48"
+  }
+]

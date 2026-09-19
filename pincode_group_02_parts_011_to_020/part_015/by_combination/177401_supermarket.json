@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhawani General Store",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "177401",
+    "phone_number": "+91 94646 84064",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "JH88+VH, Morsu Jhira, Himachal Pradesh 177401",
+    "area": "177401",
+    "latitude": 31.6171875,
+    "longitude": 76.56643749999999,
+    "place_id": "ChIJr5AvYcopBTkRrr0exrhoYW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5AvYcopBTkRrr0exrhoYW4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:18"
+  },
+  {
+    "business_name": "MORINGA SUPERMARKET & FOOD COURT",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177401",
+    "phone_number": "+91 98823 69700",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 561,
+    "address": "Public School, By Pass Hamirpur Ward no 10, near Hamirpur, Hamirpur, Himachal Pradesh 177001",
+    "area": "Ram Nagar",
+    "latitude": 31.6787811,
+    "longitude": 76.5190367,
+    "place_id": "ChIJDxjPRZHVBDkRT-PhYUSLZ-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxjPRZHVBDkRT-PhYUSLZ-A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:19"
+  }
+]

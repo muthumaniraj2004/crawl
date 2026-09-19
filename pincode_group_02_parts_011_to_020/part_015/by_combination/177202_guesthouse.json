@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayaka Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177202",
+    "phone_number": "+91 98168 85488",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "F79F+F6M, Una, Himachal Pradesh 174303",
+    "area": "177202",
+    "latitude": 31.468714,
+    "longitude": 76.2730333,
+    "place_id": "ChIJ572w6XjQGjkRVQ6L5HC8Ejs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ572w6XjQGjkRVQ6L5HC8Ejs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:59"
+  },
+  {
+    "business_name": "Forest Rest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "177202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "P3RX+WC, Kunet Ratiya, Himachal Pradesh 177219",
+    "area": "177202",
+    "latitude": 31.742219199999997,
+    "longitude": 76.0985535,
+    "place_id": "ChIJvQ5HbYsjGzkRMwTpP1rNIjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQ5HbYsjGzkRMwTpP1rNIjA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:59"
+  }
+]

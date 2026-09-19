@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "177401",
+    "phone_number": "+91 99999 86757",
+    "website": "https://unitedcarsindia.com/",
+    "rating": 4.9,
+    "reviews_count": 781,
+    "address": "nehru apartment, K1/69, Road, opposite South park apartments, near B Block Road, Gurudwara, Chittaranjan Park, New Delhi, Delhi 110019",
+    "area": "Gurudwara, Chittaranjan Park",
+    "latitude": 28.540161299999998,
+    "longitude": 77.2507706,
+    "place_id": "ChIJURtyztDjDDkRX7aR7NvMdRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURtyztDjDDkRX7aR7NvMdRg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:57"
+  },
+  {
+    "business_name": "Mahindra Dhruv Tara Automotive",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "177401",
+    "phone_number": "+91 92059 90426",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 595,
+    "address": "Tiraha, Kanpur - Sagar Hwy, near Rani Laxmibai, Hamirpur, Uttar Pradesh 210301",
+    "area": "Meerapur, Bhilawa Danda",
+    "latitude": 25.949583,
+    "longitude": 80.158389,
+    "place_id": "ChIJ3ZyZ4T39nDkRpS-5_G67ahs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZyZ4T39nDkRpS-5_G67ahs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:58"
+  }
+]

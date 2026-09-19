@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samarth collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "177210",
+    "phone_number": "+91 70094 29686",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vpo, Baruhi to Chowki Maniar Road, tehsil, bangana, Baruhi, Himachal Pradesh 174314",
+    "area": "tehsil",
+    "latitude": 31.6116288,
+    "longitude": 76.2196458,
+    "place_id": "ChIJlfA4DuAnGzkRNvfkJvcSw5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfA4DuAnGzkRNvfkJvcSw5M",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:01:51"
+  },
+  {
+    "business_name": "Seema Beauty Bee Parlour And Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "177210",
+    "phone_number": "+91 86298 56200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No-1, Seema Beauty Bee Parlour, Nikkuwal Road, near Ma Sharda Hospital, Nalagarh, Himachal Pradesh 174101",
+    "area": "177210",
+    "latitude": 31.0354609,
+    "longitude": 76.7003434,
+    "place_id": "ChIJJUvWOlxbBTkR-SjUn8e3CFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUvWOlxbBTkR-SjUn8e3CFg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:01:53"
+  }
+]

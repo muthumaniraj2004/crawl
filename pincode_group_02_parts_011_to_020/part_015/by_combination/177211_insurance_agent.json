@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance, Investment & Taxation Consultancy Hub (IITCH)",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "177211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 10 Balwant Devi Complex, Amb, Himachal Pradesh 177203",
+    "area": "Dhandri",
+    "latitude": 31.6798005,
+    "longitude": 76.11749879999999,
+    "place_id": "ChIJUysxqOwhGzkRNvMFtDxSq4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUysxqOwhGzkRNvMFtDxSq4Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:04:39"
+  },
+  {
+    "business_name": "LIC Of India",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency, Insurance agency",
+    "pincode": "177211",
+    "phone_number": "N/A",
+    "website": "https://licindia.in/",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "VVW3+4QF Kushal Telecom, Murad Pura Rd, Parkash Puri, Tagore Colony, Miller Ganj, Ludhiana, Punjab 141001",
+    "area": "Parkash Puri, Tagore Colony, Miller Ganj",
+    "latitude": 30.895311999999997,
+    "longitude": 75.8544081,
+    "place_id": "ChIJBd-CvQCDGjkR1WWwNNQBdug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBd-CvQCDGjkR1WWwNNQBdug",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:04:41"
+  }
+]

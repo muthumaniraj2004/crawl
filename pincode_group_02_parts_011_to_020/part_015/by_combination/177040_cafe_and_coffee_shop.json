@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coy's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "177040",
+    "phone_number": "N/A",
+    "website": "http://coyscafe.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hotel Fresco Lohna, Road, Bundla, Palampur, Himachal Pradesh 176061",
+    "area": "Sarswati Vihar, Bundla",
+    "latitude": 32.1265967,
+    "longitude": 76.5416754,
+    "place_id": "ChIJS-zcJsOzBDkRR0yVj33Yx5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-zcJsOzBDkRR0yVj33Yx5g",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:03:49"
+  },
+  {
+    "business_name": "Cafe Saffron",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "177040",
+    "phone_number": "+91 88943 88425",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Village - Jhanyaari, near Shiva guesthouse, Hamirpur, Himachal Pradesh 177001",
+    "area": "177040",
+    "latitude": 31.706767799999998,
+    "longitude": 76.4762877,
+    "place_id": "ChIJu49E2GTVBDkRcfKUfp-doD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu49E2GTVBDkRcfKUfp-doD0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:03:50"
+  }
+]

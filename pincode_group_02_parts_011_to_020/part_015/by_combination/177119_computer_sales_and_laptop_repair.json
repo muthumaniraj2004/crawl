@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laptop Zone",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "177119",
+    "phone_number": "+91 88474 53514",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 110,
+    "address": "Laptop zone, road, near sd ground , swimming pool, Shahanshah Colony, Lamini, Pathankot, Punjab 145001",
+    "area": "Shahanshah Colony, Lamini",
+    "latitude": 32.280454299999995,
+    "longitude": 75.6610809,
+    "place_id": "ChIJJePTQlh_HDkRfRmGoSlSqjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJePTQlh_HDkRfRmGoSlSqjc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:44:37"
+  },
+  {
+    "business_name": "Computer Repair Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "177119",
+    "phone_number": "+91 70423 60143",
+    "website": "https://computerrepairservices.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot No. 35, Udyog Vihar, Udyog Vihar Phase 1, Dundahera Village, Sector 20, Gurugram, Haryana 122016",
+    "area": "Udyog Vihar, Udyog Vihar Phase 1, Dundahera Village, Sector 20",
+    "latitude": 28.514056,
+    "longitude": 77.0811154,
+    "place_id": "ChIJJcApBIkZDTkRzna8arIDYTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcApBIkZDTkRzna8arIDYTo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:44:37"
+  }
+]

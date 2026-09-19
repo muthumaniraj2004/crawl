@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "177106",
+    "phone_number": "+91 70186 31429",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dadasiba, Dada Sibha, Himachal Pradesh 177106",
+    "area": "177106",
+    "latitude": 31.926069299999998,
+    "longitude": 76.08995329999999,
+    "place_id": "ChIJGQMmX74_GzkRgY_g_EasnaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQMmX74_GzkRgY_g_EasnaM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:23:46"
+  },
+  {
+    "business_name": "Stylish Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Jewelry store",
+    "pincode": "177106",
+    "phone_number": "+91 94174 61025",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 17,
+    "address": "8J7J+335, Main Road, Rama Mandi,, Jalandhar, Punjab 144005",
+    "area": "Rama Mandi",
+    "latitude": 31.3126271,
+    "longitude": 75.6302208,
+    "place_id": "ChIJrdWXUHhZGjkRqwSDp4O-tZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdWXUHhZGjkRqwSDp4O-tZ0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:23:48"
+  }
+]

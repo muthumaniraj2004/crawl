@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "P9JV+4F, Sudhiyal, Himachal Pradesh 177042",
+    "area": "177040",
+    "latitude": 31.730282,
+    "longitude": 76.393711,
+    "place_id": "ChIJY4aSHKwtGzkRZ0PjgcTu68U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4aSHKwtGzkRZ0PjgcTu68U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:03:36"
+  },
+  {
+    "business_name": "Rk. Provision General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MF8R+WCJ nearGarne da galluNIT, Hamirpur, Himachal Pradesh 177001",
+    "area": "177040",
+    "latitude": 31.6673472,
+    "longitude": 76.4910093,
+    "place_id": "ChIJlZ4VNVTVBDkRXKu2Cm2Fs5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZ4VNVTVBDkRXKu2Cm2Fs5U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:03:36"
+  }
+]

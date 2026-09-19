@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sugarcane juice corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "177112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFF5+4X4, Barsar, Himachal Pradesh 174305",
+    "area": "177112",
+    "latitude": 31.522873399999998,
+    "longitude": 76.4598956,
+    "place_id": "ChIJ07e7bQAtBTkRw2DhgMdvilg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07e7bQAtBTkRw2DhgMdvilg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:25"
+  },
+  {
+    "business_name": "Delhi Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "177112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "G625+3VM, Kala Amb, Himachal Pradesh 173030",
+    "area": "177112",
+    "latitude": 30.500222899999997,
+    "longitude": 77.209659,
+    "place_id": "ChIJg_p0ZfcJDzkRilcIlaJYbYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_p0ZfcJDzkRilcIlaJYbYo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:26"
+  }
+]

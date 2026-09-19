@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choudhary Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177104",
+    "phone_number": "+91 98161 39190",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop no. 2, no. 2, Mandir Marg, Kohala, Jawalamukhi, Himachal Pradesh 176031",
+    "area": "Kohala",
+    "latitude": 31.874898499999997,
+    "longitude": 76.3193603,
+    "place_id": "ChIJQ6M32EwxGzkRyQ72MSVMzqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6M32EwxGzkRyQ72MSVMzqQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:20:01"
+  },
+  {
+    "business_name": "Pushap Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "177104",
+    "phone_number": "+91 70181 77203",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv mandir, near railway fatak, Lab, Jawali, Himachal Pradesh 176023",
+    "area": "Lab",
+    "latitude": 32.1444462,
+    "longitude": 76.0116015,
+    "place_id": "ChIJtfIhGtRnGzkRECEE3Gl7j-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfIhGtRnGzkRECEE3Gl7j-o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:20:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ButterflyBalloons",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "177202",
+    "phone_number": "+91 99480 00172",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Crayons School, Nizampet Rd, Madhura Nagar, Bachupally, Hyderabad, Telangana 500090",
+    "area": "Madhura Nagar, Bachupally",
+    "latitude": 17.513416499999998,
+    "longitude": 78.38722229999999,
+    "place_id": "ChIJS91TOgCRyzsR1WnsIL7CxW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS91TOgCRyzsR1WnsIL7CxW0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:57"
+  },
+  {
+    "business_name": "Goa balloon decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment",
+    "pincode": "177202",
+    "phone_number": "+91 78293 97978",
+    "website": "https://goaballoondecor.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Goa balloon decor, 177202, India",
+    "area": "177202",
+    "latitude": 15.277612999999999,
+    "longitude": 74.0064127,
+    "place_id": "ChIJjRvU8BqhKoURVQ9awqlXcoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRvU8BqhKoURVQ9awqlXcoE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:57"
+  }
+]

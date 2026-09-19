@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAR WASH CAFE",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "177112",
+    "phone_number": "+91 73411 14890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chowk, opposite Hanuman Mandir, Industrial Area, Bhuthi, Himachal Pradesh 175126",
+    "area": "Industrial Area",
+    "latitude": 31.907449999999997,
+    "longitude": 77.1312816,
+    "place_id": "ChIJEZfgY7_5BDkRknUmh0WHyfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZfgY7_5BDkRknUmh0WHyfo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:51"
+  },
+  {
+    "business_name": "Dinesh Auto works & car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "177112",
+    "phone_number": "+91 98163 69328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J5H9+RQ3, Jispa, Himachal Pradesh 175132",
+    "area": "177112",
+    "latitude": 32.629523299999995,
+    "longitude": 77.1694222,
+    "place_id": "ChIJO_JokN53AzkRkE4qbqEsbnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_JokN53AzkRkE4qbqEsbnU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:53"
+  }
+]

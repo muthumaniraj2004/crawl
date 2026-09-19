@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navchetan Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "177501",
+    "phone_number": "+91 97790 50692",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "KC Road, Gali Number 1, Barnala, Punjab 148101",
+    "area": "Shakti Nagar",
+    "latitude": 30.3655138,
+    "longitude": 75.537545,
+    "place_id": "ChIJOcr0cAPyEDkRN1BG39KAf80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcr0cAPyEDkRN1BG39KAf80",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:17:25"
+  },
+  {
+    "business_name": "Prem Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "177501",
+    "phone_number": "+91 98727 23423",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "S.C.O 47, Block B, CSIO Colony, Sector 30-C, Sector 30, Chandigarh, 160030",
+    "area": "Block B, CSIO Colony, Sector 30-C, Sector 30",
+    "latitude": 30.713639699999998,
+    "longitude": 76.78880029999999,
+    "place_id": "ChIJd91Xc_vsDzkRQb79jQZSSqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd91Xc_vsDzkRQb79jQZSSqI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:17:26"
+  }
+]

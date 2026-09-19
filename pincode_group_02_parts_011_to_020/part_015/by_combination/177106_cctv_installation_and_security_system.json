@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S L Electronics Company",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Electronics Company",
+    "all_categories": "Electronics Company",
+    "pincode": "177106",
+    "phone_number": "+91 1792 230 068",
+    "website": "http://www.slec.co.in/",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "Opp. Pillar No. 1, Kalka - Shimla Highway SCO-9, Electronics Complex, Chambaghat, Solan, Himachal Pradesh 173213",
+    "area": "Chambaghat",
+    "latitude": 30.9235135,
+    "longitude": 77.0982317,
+    "place_id": "ChIJe2q1ONKGDzkRCAMr4EvnAok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2q1ONKGDzkRCAMr4EvnAok",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:24:49"
+  },
+  {
+    "business_name": "AN2 COMPUTECH SOLUTIONS",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "177106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 5, chopeel Niwas, Rajpur, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "Rajpur",
+    "latitude": 31.4490494,
+    "longitude": 77.6291385,
+    "place_id": "ChIJm_CNkCXBBTkRYiCKQJUv1lY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_CNkCXBBTkRYiCKQJUv1lY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:24:50"
+  }
+]

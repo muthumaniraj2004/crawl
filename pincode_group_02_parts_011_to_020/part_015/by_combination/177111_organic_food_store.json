@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AG's GROCERY STORE",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177111",
+    "phone_number": "+91 70061 49550",
+    "website": "https://agsgrocery.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Handwara, Jammu and Kashmir 193221",
+    "area": "177111",
+    "latitude": 34.3982191,
+    "longitude": 74.2833801,
+    "place_id": "ChIJr_luOFsd4TgRjaa7YZu9Mxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_luOFsd4TgRjaa7YZu9Mxs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:27"
+  },
+  {
+    "business_name": "Hpsauda",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service, Delivery service",
+    "pincode": "177111",
+    "phone_number": "+91 95559 99915",
+    "website": "https://hpsauda.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagri, Palampur, Kalond, Himachal Pradesh 176059",
+    "area": "Nagri",
+    "latitude": 32.132207099999995,
+    "longitude": 76.4717703,
+    "place_id": "ChIJ6fp-MoWzBDkR-Tc3Y8JG8dE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fp-MoWzBDkR-Tc3Y8JG8dE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:32:30"
+  }
+]

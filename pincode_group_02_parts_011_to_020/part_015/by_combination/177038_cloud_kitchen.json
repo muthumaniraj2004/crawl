@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen Dharan",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Delivery service, Fast food restaurant, Vegan restaurant, Vegetarian cafe and deli, Vegetarian restaurant",
+    "pincode": "177038",
+    "phone_number": "N/A",
+    "website": "https://cloudkitchendharan.pages.dev/",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "opposite of nabil bank, Mahendra Path, Dharan 12, Nepal",
+    "area": "177038",
+    "latitude": 26.814459,
+    "longitude": 87.2851021,
+    "place_id": "ChIJN_d1xEZB7zkRIYOYk47zv_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_d1xEZB7zkRIYOYk47zv_I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:10"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food bank",
+    "all_categories": "Food bank",
+    "pincode": "177038",
+    "phone_number": "+91 95821 77663",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "B, 91, Street No. 5, Bhajanpura, main market, Delhi, 110092",
+    "area": "Bhajanpura, main market",
+    "latitude": 28.633756899999998,
+    "longitude": 77.2758606,
+    "place_id": "ChIJKyyqlz39DDkRQzyEtemsDng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyyqlz39DDkRQzyEtemsDng",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubha Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177501",
+    "phone_number": "+91 94180 17280",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JW56+2QV Jahu। Road, Minimarket, Kalkhar - Ner Chowk Rd, Ner, Himachal Pradesh 175008",
+    "area": "177501",
+    "latitude": 31.6111789,
+    "longitude": 76.9203564,
+    "place_id": "ChIJdXsyVgAfBTkRZeo0wYFKWBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXsyVgAfBTkRZeo0wYFKWBI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:33"
+  },
+  {
+    "business_name": "Hamir Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177501",
+    "phone_number": "+91 80911 58934",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhota Chowk, opposite Indusind bank, Agriculture Colony, Hamirpur, Himachal Pradesh 177001",
+    "area": "Agriculture Colony",
+    "latitude": 31.6797249,
+    "longitude": 76.5246717,
+    "place_id": "ChIJ8UDdYLXVBDkRz_IXnMc3Mhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UDdYLXVBDkRz_IXnMc3Mhc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:35"
+  }
+]

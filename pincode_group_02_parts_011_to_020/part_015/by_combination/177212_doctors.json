@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Bharwal Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "177212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "vpo ghanari teh, ghanari dist, Una, Himachal Pradesh 177204",
+    "area": "ghanari dist",
+    "latitude": 31.720348299999998,
+    "longitude": 76.0248281,
+    "place_id": "ChIJgy91V6YZGzkRTTDvY7WddgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgy91V6YZGzkRTTDvY7WddgY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:05:31"
+  },
+  {
+    "business_name": "Dr. Lal. Path lab",
+    "search_category": "Doctors",
+    "primary_category": "Religious destination",
+    "all_categories": "Religious destination",
+    "pincode": "177212",
+    "phone_number": "N/A",
+    "website": "https://www.lalpathlabs.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M2XV+WQ4, Vil. Marwari Teh, Distt, Ghanari Uthwalan, Himachal Pradesh 177212",
+    "area": "177212",
+    "latitude": 31.6997604,
+    "longitude": 76.0444412,
+    "place_id": "ChIJb6tkcOsZGzkR4mcz1ZL18S8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6tkcOsZGzkR4mcz1ZL18S8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:05:31"
+  }
+]

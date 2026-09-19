@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Innovative Food & Beverage Consultant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Health food restaurant",
+    "pincode": "177107",
+    "phone_number": "+91 80 4204 0108",
+    "website": "http://www.ifbconsultant.com/",
+    "rating": 4.7,
+    "reviews_count": 52,
+    "address": "Unit No.29, Lower Level, Oxford Towers, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017",
+    "area": "Kodihalli",
+    "latitude": 12.9600273,
+    "longitude": 77.64444639999999,
+    "place_id": "ChIJFQYydQYUrjsRuKvKozW2Yvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQYydQYUrjsRuKvKozW2Yvo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:24"
+  },
+  {
+    "business_name": "IHP Consulting",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "177107",
+    "phone_number": "+91 98710 71942",
+    "website": "http://www.ihpgroup.in/",
+    "rating": 4.5,
+    "reviews_count": 46,
+    "address": "A-47, A block, Sector 49, Noida, Uttar Pradesh 201304",
+    "area": "A block, Sector 49",
+    "latitude": 28.561998499999998,
+    "longitude": 77.36709669999999,
+    "place_id": "ChIJKTOsFfnlDDkRdd8nDB5t9pI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTOsFfnlDDkRdd8nDB5t9pI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:26"
+  }
+]

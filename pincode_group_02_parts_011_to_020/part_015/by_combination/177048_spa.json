@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manali Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Foot massage parlor, Massage supply store, Spa, Spa and health club, Thai massage therapist",
+    "pincode": "177048",
+    "phone_number": "+91 93174 06645",
+    "website": "https://www.spainmanali.in/",
+    "rating": 4,
+    "reviews_count": 21,
+    "address": "The Mall, near HDFC Bank, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Siyal",
+    "latitude": 32.246318699999996,
+    "longitude": 77.1893331,
+    "place_id": "ChIJI1fFluWHBDkRsdHy1JTGfOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1fFluWHBDkRsdHy1JTGfOg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:15:24"
+  },
+  {
+    "business_name": "PURPLE SPA SALOON",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177048",
+    "phone_number": "+91 98829 99966",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 50,
+    "address": "Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur",
+    "latitude": 31.531570199999997,
+    "longitude": 76.8882331,
+    "place_id": "ChIJZ4XGz3gZBTkRGCdDflCXRBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4XGz3gZBTkRGCdDflCXRBc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:15:24"
+  }
+]

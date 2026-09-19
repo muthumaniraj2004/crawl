@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "177038",
+    "phone_number": "+91 94182 31533",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPO, TEHSIL, Pansai, NADAUN, Himachal Pradesh 177041",
+    "area": "TEHSIL",
+    "latitude": 31.677273,
+    "longitude": 76.38940099999999,
+    "place_id": "ChIJ79i9WLIrGzkR_IGPV97BaVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79i9WLIrGzkR_IGPV97BaVI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:01:20"
+  },
+  {
+    "business_name": "Controller of Communication Accounts",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "177038",
+    "phone_number": "+91 1800 180 8067",
+    "website": "https://www.cgca.gov.in/ccahp/contact-us",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.P Telecom Circle Block 18- A, SDA Complex, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "SDA Complex, Kasumpti",
+    "latitude": 31.078075799999997,
+    "longitude": 77.1828152,
+    "place_id": "ChIJs1DQjLJ4BTkR7siFRX9aSBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1DQjLJ4BTkR7siFRX9aSBM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:01:20"
+  }
+]

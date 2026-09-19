@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpat Mobil Repair",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "177112",
+    "phone_number": "+91 98166 29721",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Nagrota Surian, Himachal Pradesh 176027",
+    "area": "177112",
+    "latitude": 32.0549293,
+    "longitude": 76.0890304,
+    "place_id": "ChIJSc-7TMpDGzkR_htgrYtvk6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSc-7TMpDGzkR_htgrYtvk6I",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:35:34"
+  },
+  {
+    "business_name": "S.s.mobile repair",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "177112",
+    "phone_number": "+91 97360 77399",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Vill, Kharal, Benchi, Himachal Pradesh 175128",
+    "area": "Vill",
+    "latitude": 32.0662862,
+    "longitude": 77.1219145,
+    "place_id": "ChIJv-teCn6LBDkRqFc-Yiot11Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-teCn6LBDkRqFc-Yiot11Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:35:35"
+  }
+]

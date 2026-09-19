@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio 60",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177220",
+    "phone_number": "+91 78766 28500",
+    "website": "http://www.studio60.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nangal Rd, opp. Ujjivan Bank, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.4617671,
+    "longitude": 76.281195,
+    "place_id": "ChIJIVIaDgbRGjkR-2cYGzfT_xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVIaDgbRGjkR-2cYGzfT_xc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:11:30"
+  },
+  {
+    "business_name": "Tanvi beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177220",
+    "phone_number": "+91 98054 34415",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bazar, near PNB bank, Tahliwal, Una, Himachal Pradesh 174301",
+    "area": "177220",
+    "latitude": 31.3522012,
+    "longitude": 76.2765466,
+    "place_id": "ChIJzxj_UnDPGjkRCZtH8MJuBbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxj_UnDPGjkRCZtH8MJuBbg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:11:30"
+  }
+]

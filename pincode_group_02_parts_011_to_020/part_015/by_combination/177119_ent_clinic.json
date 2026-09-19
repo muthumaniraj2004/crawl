@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehrotra E.N.T. Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "177119",
+    "phone_number": "+91 93361 04687",
+    "website": "http://www.mehrotraenthospital.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "111/114, Beech Wala Mandir, Ashok Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Ashok Nagar, Harsh Nagar",
+    "latitude": 26.4727858,
+    "longitude": 80.3202542,
+    "place_id": "ChIJC5g8DH44nDkRnZY2ivtbloU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5g8DH44nDkRnZY2ivtbloU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:43:49"
+  },
+  {
+    "business_name": "Dr. Rajat Rastogi (Surya ENT Hospital Aliganj Lucknow)",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177119",
+    "phone_number": "+91 93369 27008",
+    "website": "https://suryaenthospital.com/",
+    "rating": 4.8,
+    "reviews_count": 362,
+    "address": "118, Chandralok Colony, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Chandralok Colony, Aliganj",
+    "latitude": 26.8869452,
+    "longitude": 80.9461762,
+    "place_id": "ChIJm_L_XNRXmTkR3exuL_eBlwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_L_XNRXmTkR3exuL_eBlwM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:43:49"
+  }
+]

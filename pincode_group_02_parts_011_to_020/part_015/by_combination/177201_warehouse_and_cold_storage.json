@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarla Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "177201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Sabzi Mandi, C1, Chirawa, Rajasthan 333026",
+    "area": "177201",
+    "latitude": 28.2142993,
+    "longitude": 75.6438849,
+    "place_id": "ChIJxazPZcohEzkRAijqiSJKB28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxazPZcohEzkRAijqiSJKB28",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:46:40"
+  },
+  {
+    "business_name": "Singhania Coldstore and Distribution",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "177201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sec-37A, Pataudi Rd, Sector 37A, Sector 37, Gurugram, Haryana 122006",
+    "area": "Sector 37A, Sector 37",
+    "latitude": 28.444048199999997,
+    "longitude": 76.987921,
+    "place_id": "ChIJF8vzhJUXDTkRWEpBAR49Gb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8vzhJUXDTkRWEpBAR49Gb8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:46:40"
+  }
+]

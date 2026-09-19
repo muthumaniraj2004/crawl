@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Healing Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Child health care center",
+    "all_categories": "Child health care center, Counselor, Family service center, Speech & Hearing Specialist",
+    "pincode": "177045",
+    "phone_number": "+91 93093 13144",
+    "website": "http://www.thehealingcentre.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "AN Rd, Aquem Alto, Margao, Goa 403601",
+    "area": "Aquem Alto",
+    "latitude": 15.275508599999998,
+    "longitude": 73.97565759999999,
+    "place_id": "ChIJqzX1X4KzvzsRQyYdm1nu1Pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzX1X4KzvzsRQyYdm1nu1Pg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:13:40"
+  },
+  {
+    "business_name": "InnerHeal Therapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service",
+    "pincode": "177045",
+    "phone_number": "+91 73964 35552",
+    "website": "https://www.innerhealtherapy.com/",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "address": "1A, no. 8-2-350/13A/3D, plot no 37, Rd Number 3, near KORA, Lane, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Lane, Banjara Hills",
+    "latitude": 17.4264945,
+    "longitude": 78.444474,
+    "place_id": "ChIJqc1U1NuXyzsR0Yz_gmnKPL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc1U1NuXyzsR0Yz_gmnKPL8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:13:40"
+  }
+]

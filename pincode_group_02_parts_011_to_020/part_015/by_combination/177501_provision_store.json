@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MJ35+JXG, Near Water Tank Amman V. P. O. Amman, Teh, Bhoranj, Himachal Pradesh 177501",
+    "area": "177501",
+    "latitude": 31.6540581,
+    "longitude": 76.609967,
+    "place_id": "ChIJ9TSgV0nXBDkR22Sm6ndZSH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TSgV0nXBDkR22Sm6ndZSH8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:10"
+  },
+  {
+    "business_name": "S.V. ENTERPRISES",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MJ3R+2XP, Bassi - Tarkwari Rd, Tarkwari - Dera Parol Rd, Himachal Pradesh 176045",
+    "area": "177501",
+    "latitude": 31.650695199999998,
+    "longitude": 76.6387957,
+    "place_id": "ChIJp4KQYZzZBDkR4DmYk0bIKfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4KQYZzZBDkR4DmYk0bIKfQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:16:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Isa Spa PMR UNA (HP)",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "177220",
+    "phone_number": "+91 98824 15511",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "State Highway 25, Nangal Rd, near Rock Ford Public School in, Rakkar Colony, Una, Durga Colony, Himachal Pradesh 174303",
+    "area": "Rakkar Colony",
+    "latitude": 31.4623347,
+    "longitude": 76.2932426,
+    "place_id": "ChIJkRfm1XzRGjkRpq65TA3-BfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRfm1XzRGjkRpq65TA3-BfU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:11:31"
+  },
+  {
+    "business_name": "Jagsan Beauty Hub",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "177220",
+    "phone_number": "+91 81464 27353",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 55,
+    "address": "Nangal Rd, Rakkar Colony, Una, Himachal Pradesh 174303",
+    "area": "Rakkar Colony",
+    "latitude": 31.462569499999997,
+    "longitude": 76.30204069999999,
+    "place_id": "ChIJazeTPUTQGjkRt1x7CG6V7xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazeTPUTQGjkRt1x7CG6V7xk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:11:31"
+  }
+]

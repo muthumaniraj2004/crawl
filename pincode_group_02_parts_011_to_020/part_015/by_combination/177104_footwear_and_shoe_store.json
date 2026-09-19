@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatia footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "177104",
+    "phone_number": "+91 70871 83890",
+    "website": "http://instagram.com/bhatiafootwearpanchrukhi",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pahada road, Panchrukhi, Himachal Pradesh 176103",
+    "area": "177104",
+    "latitude": 32.0552803,
+    "longitude": 76.5645766,
+    "place_id": "ChIJd-f1jLG3BDkR7HAequDpps4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-f1jLG3BDkR7HAequDpps4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:20:15"
+  },
+  {
+    "business_name": "ishu Enterprises",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Running store",
+    "all_categories": "Running store, Shopping mall",
+    "pincode": "177104",
+    "phone_number": "+91 98160 15124",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mazar, Main Bazar, near Mast Ali, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "177104",
+    "latitude": 31.8988466,
+    "longitude": 76.600293,
+    "place_id": "ChIJa4IWDIvPBDkRbs_7wH-mD74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4IWDIvPBDkRbs_7wH-mD74",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:20:16"
+  }
+]

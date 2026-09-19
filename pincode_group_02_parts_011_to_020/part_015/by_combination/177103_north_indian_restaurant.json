@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dastaan",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Asian fusion restaurant, Family restaurant, Modern Indian restaurant",
+    "pincode": "177103",
+    "phone_number": "+91 172 400 4007",
+    "website": "http://www.dastaan.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "SCO 43, PRJ2+967 entry backside, Madhya Marg, Sector 7-C, Sector 7, Chandigarh, 160019",
+    "area": "Sector 7-C, Sector 7",
+    "latitude": 30.729913999999997,
+    "longitude": 76.801811,
+    "place_id": "ChIJtwmGjRjtDzkRlfWhblnr-p8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwmGjRjtDzkRlfWhblnr-p8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:18:17"
+  },
+  {
+    "business_name": "Punjab street",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "177103",
+    "phone_number": "+91 76010 00039",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Hindustan Petroleum Corporation Limited, VILLAGE- DAUN , SECTOR- 118 , MOHALI (ON DAUN, Sector 118, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Sector 118",
+    "latitude": 30.7370761,
+    "longitude": 76.6835114,
+    "place_id": "ChIJNcA8oGrvDzkRP0oXGkwg9Qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcA8oGrvDzkRP0oXGkwg9Qk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:18:17"
+  }
+]

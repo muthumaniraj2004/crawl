@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MotiMahal Delux Mandi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Food court",
+    "pincode": "177041",
+    "phone_number": "+91 98051 98168",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 380,
+    "address": "Kunal’s complex, near Petrol Pump, Khaliar, Mandi, Himachal Pradesh 175001",
+    "area": "Khaliar",
+    "latitude": 31.7283676,
+    "longitude": 76.93794489999999,
+    "place_id": "ChIJm88szZ7jBDkRBLl2xRgi2hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm88szZ7jBDkRBLl2xRgi2hM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:05:34"
+  },
+  {
+    "business_name": "Rajen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant",
+    "pincode": "177041",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JCJ2+QR4, Kashmir, Himachal Pradesh 177006",
+    "area": "177041",
+    "latitude": 31.6318889,
+    "longitude": 76.4020704,
+    "place_id": "ChIJSfhiMQArGzkRCRoq3otoFwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfhiMQArGzkRCRoq3otoFwI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:05:36"
+  }
+]

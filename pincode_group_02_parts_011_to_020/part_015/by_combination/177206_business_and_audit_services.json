@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zvastica sol pvt Ltd",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "177206",
+    "phone_number": "+91 98724 79298",
+    "website": "https://zvasticasolutions.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPO, TEHSIL, Kathiari, Amb, Himachal Pradesh 177211",
+    "area": "TEHSIL",
+    "latitude": 31.613088599999998,
+    "longitude": 76.1470336,
+    "place_id": "ChIJcdPEwGwhGzkRic9TsSjnrTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdPEwGwhGzkRic9TsSjnrTI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:55:45"
+  },
+  {
+    "business_name": "HP State Audit Department",
+    "search_category": "Business and Audit Services",
+    "primary_category": "State government office",
+    "all_categories": "State government office",
+    "pincode": "177206",
+    "phone_number": "N/A",
+    "website": "http://lad.hp.gov.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "38, Shimla Bypass, SDA Complex, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "SDA Complex, Kasumpti",
+    "latitude": 31.0779844,
+    "longitude": 77.182278,
+    "place_id": "ChIJD6mIvbJ4BTkRpFVGBxfH2Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6mIvbJ4BTkRpFVGBxfH2Lk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:55:45"
+  }
+]

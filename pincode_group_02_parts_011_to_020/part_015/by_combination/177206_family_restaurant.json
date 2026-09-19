@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aahar a family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "177206",
+    "phone_number": "+91 99883 02323",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Chandigarh Road, opposite Bus Stop, Chabbewal, Mehina, Punjab 146102",
+    "area": "177206",
+    "latitude": 31.4478238,
+    "longitude": 75.98876659999999,
+    "place_id": "ChIJ29ztUiflGjkRZxjybmwz6-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29ztUiflGjkRZxjybmwz6-Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:28"
+  },
+  {
+    "business_name": "Ruhi Shahi Restaurant & Fast food",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "H5X3+73, Chruru, Himachal Pradesh 177211",
+    "area": "177206",
+    "latitude": 31.598139099999997,
+    "longitude": 76.1527657,
+    "place_id": "ChIJ0YznZAAhGzkRB0SmRWPgKNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YznZAAhGzkRB0SmRWPgKNw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:29"
+  }
+]

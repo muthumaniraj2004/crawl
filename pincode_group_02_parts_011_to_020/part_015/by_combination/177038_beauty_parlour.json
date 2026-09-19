@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ruhi beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "177038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q93M+R32, Treti, Himachal Pradesh 177042",
+    "area": "177038",
+    "latitude": 31.754513699999997,
+    "longitude": 76.3826268,
+    "place_id": "ChIJBaOdIAAtGzkRqQJOXzdTSQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaOdIAAtGzkRqQJOXzdTSQY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:52"
+  },
+  {
+    "business_name": "Kiran Studio And Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "177038",
+    "phone_number": "+91 70182 40230",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 5,
+    "address": "F854+VGC, Rakkar Colony, Himachal Pradesh 174303",
+    "area": "Rakkar Colony",
+    "latitude": 31.4596979,
+    "longitude": 76.3062702,
+    "place_id": "ChIJY5HIfUjQGjkRPw7zchs7vKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5HIfUjQGjkRPw7zchs7vKc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:54"
+  }
+]

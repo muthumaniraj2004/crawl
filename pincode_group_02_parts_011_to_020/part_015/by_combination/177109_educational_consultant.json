@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siya educational services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "177109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhaderkali, Himachal Pradesh 177204",
+    "area": "177109",
+    "latitude": 31.7775786,
+    "longitude": 76.042092,
+    "place_id": "ChIJ2afDhn8XGzkRFWeC_e8k-_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2afDhn8XGzkRFWeC_e8k-_0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:04"
+  },
+  {
+    "business_name": "Best Doctors Education Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Visa Agent",
+    "all_categories": "Visa Agent",
+    "pincode": "177109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "opposite Indira stadium, Vikas Nagar, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Vikas Nagar, Professor Colony",
+    "latitude": 31.463768499999997,
+    "longitude": 76.27919659999999,
+    "place_id": "ChIJpbJU_yvRGjkRq_sqgk6cJWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbJU_yvRGjkRq_sqgk6cJWU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:05"
+  }
+]

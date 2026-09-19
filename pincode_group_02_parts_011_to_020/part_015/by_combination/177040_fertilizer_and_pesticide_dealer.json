@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bains fertilizer",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "177040",
+    "phone_number": "+91 94631 17048",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Main Rd, Manakdheri, Punjab 144204",
+    "area": "177040",
+    "latitude": 31.581634599999997,
+    "longitude": 75.6907694,
+    "place_id": "ChIJI45ruJKqGzkRL9MI-TGkxqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI45ruJKqGzkRL9MI-TGkxqU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:05:13"
+  },
+  {
+    "business_name": "Pesticides and insecticide",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agrochemicals Supplier",
+    "all_categories": "Agrochemicals Supplier",
+    "pincode": "177040",
+    "phone_number": "+91 80992 00003",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vpo, Ratnari, Himachal Pradesh 171225",
+    "area": "Vpo",
+    "latitude": 31.2266685,
+    "longitude": 77.530413,
+    "place_id": "ChIJrdfoui2TBTkRB0LzfAKVibI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdfoui2TBTkRB0LzfAKVibI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:05:13"
+  }
+]

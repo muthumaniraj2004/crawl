@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jehangir Art Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery, Art center, Art museum, Non-profit organization, Tourist attraction",
+    "pincode": "177045",
+    "phone_number": "+91 22 2284 3989",
+    "website": "https://jehangirartgallery.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "161B, Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",
+    "area": "Kala Ghoda, Fort",
+    "latitude": 18.9273983,
+    "longitude": 72.8316856,
+    "place_id": "ChIJCTBgusPR5zsR9jlWzqv4C3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTBgusPR5zsR9jlWzqv4C3Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:20"
+  },
+  {
+    "business_name": "ART LIFE GALLERY Noida",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "177045",
+    "phone_number": "+91 120 489 2000",
+    "website": "https://www.theartlifegallery.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "C-97, C Block, Sector 44, Noida, Uttar Pradesh 201301",
+    "area": "C Block, Sector 44",
+    "latitude": 28.5542539,
+    "longitude": 77.33535049999999,
+    "place_id": "ChIJG7OlgNLlDDkR5Z3KFx4KkBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7OlgNLlDDkR5Z3KFx4KkBc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:20"
+  }
+]

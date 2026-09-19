@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kangra Airport",
+    "search_category": "EXIMS",
+    "primary_category": "Regional airport",
+    "all_categories": "Regional airport, Airport",
+    "pincode": "177108",
+    "phone_number": "N/A",
+    "website": "http://www.kangraairport.com/",
+    "rating": 4.4,
+    "reviews_count": 2395,
+    "address": "NH154, Gaggal, Himachal Pradesh 176209",
+    "area": "177108",
+    "latitude": 32.1650004,
+    "longitude": 76.26014459999999,
+    "place_id": "ChIJpQEAAABABDkROG9ti6t2K0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQEAAABABDkROG9ti6t2K0Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:28:42"
+  },
+  {
+    "business_name": "MT AUTOCRAFT",
+    "search_category": "EXIMS",
+    "primary_category": "Automation company",
+    "all_categories": "Automation company, Corporate office",
+    "pincode": "177108",
+    "phone_number": "+91 1792 234 422",
+    "website": "http://mtautocraft.com/",
+    "rating": 4.2,
+    "reviews_count": 58,
+    "address": "VX32+6VH, VILLAGE NARYAL, Sector-4, broti wala, Parwanoo, Himachal Pradesh 173220",
+    "area": "Sector-4",
+    "latitude": 30.853065899999997,
+    "longitude": 76.9522229,
+    "place_id": "ChIJc2Uo1tyODzkR3PHmmCejxbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2Uo1tyODzkR3PHmmCejxbI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:28:42"
+  }
+]

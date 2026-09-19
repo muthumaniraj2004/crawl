@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star India workshop",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car repair and maintenance service, Key duplication service",
+    "pincode": "177041",
+    "phone_number": "+91 98167 29294",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 85,
+    "address": "near green tax barrier, allugorund, Manali, Shallin, Himachal Pradesh 175131",
+    "area": "allugorund",
+    "latitude": 32.2005869,
+    "longitude": 77.1880743,
+    "place_id": "ChIJ1--pie-JBDkRfml9gZAJgu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1--pie-JBDkRfml9gZAJgu8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:06:08"
+  },
+  {
+    "business_name": "Service station",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "177041",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "TEHSIL SANDHOLE, Sandhol, Takrer, Himachal Pradesh 176090",
+    "area": "177041",
+    "latitude": 31.866062499999998,
+    "longitude": 76.6605283,
+    "place_id": "ChIJxbv_lkPFBDkRvYL9NFdfMRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbv_lkPFBDkRvYL9NFdfMRc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:06:10"
+  }
+]

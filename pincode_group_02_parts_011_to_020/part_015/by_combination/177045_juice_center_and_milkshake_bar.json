@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice n Shake's",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Cafe",
+    "pincode": "177045",
+    "phone_number": "+91 90229 68413",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 54,
+    "address": "Bhagtani House, Hospital, behind Gondia, Ashok Colony, Ganesh Nagar, Gondia, Maharashtra 441601",
+    "area": "Ashok Colony, Ganesh Nagar",
+    "latitude": 21.448865299999998,
+    "longitude": 80.1992927,
+    "place_id": "ChIJU28AjgWvKzoRBVM1ZQbQNeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU28AjgWvKzoRBVM1ZQbQNeU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:12:47"
+  },
+  {
+    "business_name": "The juce cafe",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "177045",
+    "phone_number": "+91 81423 21376",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 19,
+    "address": "C9X4+G4M, APHB Colony, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "APHB Colony, Indira Nagar, Gachibowli",
+    "latitude": 17.4488299,
+    "longitude": 78.3552918,
+    "place_id": "ChIJz2wDg5qTyzsR4POawOefs2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2wDg5qTyzsR4POawOefs2s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:12:47"
+  }
+]

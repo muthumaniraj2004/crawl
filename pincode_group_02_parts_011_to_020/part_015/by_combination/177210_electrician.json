@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lath Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrical appliance wholesaler",
+    "all_categories": "Electrical appliance wholesaler, Electrical products wholesaler",
+    "pincode": "177210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "SH 25, Basdehra, Mehatpur, Himachal Pradesh 174315",
+    "area": "Basdehra",
+    "latitude": 31.406496899999997,
+    "longitude": 76.3424977,
+    "place_id": "ChIJ1dMl9t_PGjkRVo2g-ZgA9Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dMl9t_PGjkRVo2g-ZgA9Dw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:02:16"
+  },
+  {
+    "business_name": "Kashyap electrical",
+    "search_category": "Electrician",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "177210",
+    "phone_number": "+91 98056 18935",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vpo chowki maniar road, teh, Baruhi, bangana, Himachal Pradesh 177211",
+    "area": "177210",
+    "latitude": 31.601995,
+    "longitude": 76.1810931,
+    "place_id": "ChIJQbispacnGzkRl_lHWt3vjTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbispacnGzkRl_lHWt3vjTQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:02:16"
+  }
+]

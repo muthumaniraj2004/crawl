@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kala panga",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "177212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "M2M6+J39, Sanghanai, Himachal Pradesh 177212",
+    "area": "177212",
+    "latitude": 31.684049599999998,
+    "longitude": 76.0102481,
+    "place_id": "ChIJDeOu3VcZGzkRjzk_hyW6NhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeOu3VcZGzkRjzk_hyW6NhA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:06:35"
+  },
+  {
+    "business_name": "AJ properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Orchard",
+    "all_categories": "Orchard",
+    "pincode": "177212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P27H+W4X, Himachal Pradesh 177204",
+    "area": "177212",
+    "latitude": 31.7148506,
+    "longitude": 76.0278542,
+    "place_id": "ChIJYYUPNM8ZGzkR7P9_aCRHhGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYUPNM8ZGzkR7P9_aCRHhGg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:06:35"
+  }
+]

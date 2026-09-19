@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza Heart",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant",
+    "pincode": "177201",
+    "phone_number": "+91 86269 08890",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Village Badoh, Gagret, Himachal Pradesh 177201",
+    "area": "177201",
+    "latitude": 31.651415999999998,
+    "longitude": 76.0710537,
+    "place_id": "ChIJqdzH594fGzkR_LgLALQr200",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdzH594fGzkR_LgLALQr200",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:45:17"
+  },
+  {
+    "business_name": "Hotel The Ashoka and Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177201",
+    "phone_number": "+91 90150 40836",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Gagret NH-03,Chintpurni, Road, Gagret, Himachal Pradesh 177201",
+    "area": "177201",
+    "latitude": 31.6706331,
+    "longitude": 76.0664815,
+    "place_id": "ChIJB6MdZkkfGzkRnOhffz74rMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6MdZkkfGzkRnOhffz74rMM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:45:17"
+  }
+]

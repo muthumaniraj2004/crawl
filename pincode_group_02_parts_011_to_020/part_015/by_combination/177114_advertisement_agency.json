@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hariom Advertising Company",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "177114",
+    "phone_number": "+91 98115 55181",
+    "website": "http://www.hariomad.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "10/22,GF, East Patel Nagar, Delhi, 110008",
+    "area": "Block 10, East Patel Nagar, Patel Nagar",
+    "latitude": 28.6460208,
+    "longitude": 77.1712957,
+    "place_id": "ChIJQQ5mL1YDDTkROIKTroJjvDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQ5mL1YDDTkROIKTroJjvDg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:39:32"
+  },
+  {
+    "business_name": "Chauhan Media Solutions",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Classified ads newspaper publisher, Newspaper publisher",
+    "pincode": "177114",
+    "phone_number": "+91 98109 86799",
+    "website": "http://www.chauhanmedia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B1 Community Centre, 317-B Rajendra Arihant Tower, Janakpuri, New Delhi, Delhi 110058",
+    "area": "b1, B1 Market, Pocket B 1, Super Bazar, Janakpuri",
+    "latitude": 28.6297522,
+    "longitude": 77.0903739,
+    "place_id": "ChIJQxi8hX8FDTkRONam0H_Shjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxi8hX8FDTkRONam0H_Shjs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:39:32"
+  }
+]

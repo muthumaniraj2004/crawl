@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Stories The Cafe Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "177219",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, near Bharth Petrol Pump, Mannaekhelli, Nirna, Karnataka 585227",
+    "area": "Mannaekhelli",
+    "latitude": 17.6849398,
+    "longitude": 77.31369769999999,
+    "place_id": "ChIJ-8-bRwDTzjsR3YBCn3SwNxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8-bRwDTzjsR3YBCn3SwNxk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:08:55"
+  },
+  {
+    "business_name": "Tea Point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "177219",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NH65, Karnataka 585227",
+    "area": "177219",
+    "latitude": 17.721447299999998,
+    "longitude": 77.365645,
+    "place_id": "ChIJbRpdcRzTzjsRdlifSYVYdHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRpdcRzTzjsRdlifSYVYdHo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:08:56"
+  }
+]

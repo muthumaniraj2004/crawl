@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nadda Motors Spare Part Shop",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "177038",
+    "phone_number": "+91 98170 52061",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NH 103, near Bharat petroleum, Ghumarwin, Himachal Pradesh 174021",
+    "area": "177038",
+    "latitude": 31.431642699999998,
+    "longitude": 76.7136512,
+    "place_id": "ChIJqe2fdnU7BTkRI-ifLz5m9rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqe2fdnU7BTkRI-ifLz5m9rg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:34"
+  },
+  {
+    "business_name": "SRI HARI MOTORS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "177038",
+    "phone_number": "+91 98166 89008",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 195,
+    "address": "Karsog, Himachal Pradesh 175011",
+    "area": "177038",
+    "latitude": 31.388621599999997,
+    "longitude": 77.2031743,
+    "place_id": "ChIJ61U4A-ShBTkR-9_ad1JA_Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61U4A-ShBTkR-9_ad1JA_Bw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:00:36"
+  }
+]

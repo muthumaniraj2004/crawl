@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ludhiana Hospital Bhota",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "177401",
+    "phone_number": "+91 94180 55321",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "main bazar oppsite po. bhota, Bhota, Himachal Pradesh 176041",
+    "area": "177401",
+    "latitude": 31.6075058,
+    "longitude": 76.56167049999999,
+    "place_id": "ChIJQ4-DhPopBTkR4F5zFvce12Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4-DhPopBTkR4F5zFvce12Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:44"
+  },
+  {
+    "business_name": "Vaishno Medical & General Store",
+    "search_category": "Doctors",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177401",
+    "phone_number": "+91 94181 53807",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "State Highway 39, Anu, Hamirpur, Himachal Pradesh 177005",
+    "area": "Anu",
+    "latitude": 31.701705699999998,
+    "longitude": 76.51926279999999,
+    "place_id": "ChIJV3O2L0LUBDkR2d2KRyFfCyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3O2L0LUBDkR2d2KRyFfCyA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant, Hotel",
+    "pincode": "177213",
+    "phone_number": "+91 82195 30150",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 1109,
+    "address": "8 mile, Sambal, Himachal Pradesh 175124",
+    "area": "177213",
+    "latitude": 31.704427499999998,
+    "longitude": 77.0317653,
+    "place_id": "ChIJkWK19wb9BDkR2idHH7ZZ3LI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWK19wb9BDkR2idHH7ZZ3LI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:07:07"
+  },
+  {
+    "business_name": "Himachal dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "177213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "64MQ+F3M, NH344, Lawana, Haryana 133202",
+    "area": "177213",
+    "latitude": 30.2337244,
+    "longitude": 77.1376615,
+    "place_id": "ChIJyb6V3OdUDjkR8gzbjjRMZYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyb6V3OdUDjkR8gzbjjRMZYI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:07:08"
+  }
+]

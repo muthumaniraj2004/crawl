@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Bite Pizza",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "177112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main chownk Jourbar Dada Siba Road Vill. Jakhdhar,Post office Tippri,Teh. Jaswan, Dada Siba, Jakhdhar, Kangra, Himachal Pradesh 177112",
+    "area": "Dada Siba",
+    "latitude": 31.8458752,
+    "longitude": 76.06451179999999,
+    "place_id": "ChIJmyYaDl0XGzkRqwKFgbCs2L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyYaDl0XGzkRqwKFgbCs2L8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:28"
+  },
+  {
+    "business_name": "Ice Cream Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "177112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "G4RM+XR7, Hardaspur, Chamba, Himachal Pradesh 176318",
+    "area": "Hardaspur",
+    "latitude": 32.542408699999996,
+    "longitude": 76.1345381,
+    "place_id": "ChIJrQ47mVK9HDkRnPH9CShwPfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQ47mVK9HDkRnPH9CShwPfE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:34:30"
+  }
+]

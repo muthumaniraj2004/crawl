@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Miithaa",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177034",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/mithaa_2023?igsh=OHR3OXF2YjA4YnN2",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, opp. Modern ITI, Pragpur, Himachal Pradesh 177107",
+    "area": "177034",
+    "latitude": 31.822860199999997,
+    "longitude": 76.2116987,
+    "place_id": "ChIJJe8NkPo7GzkRnw27ZCl27sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJe8NkPo7GzkRnw27ZCl27sg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:58:06"
+  },
+  {
+    "business_name": "Chahat Sweets & bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177034",
+    "phone_number": "+91 98161 87515",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 176,
+    "address": "near old gas agency Main market, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "177034",
+    "latitude": 32.1063058,
+    "longitude": 76.374827,
+    "place_id": "ChIJi6iwGi5MGzkRnF1rm-nAziE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6iwGi5MGzkRnF1rm-nAziE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 05:58:08"
+  }
+]

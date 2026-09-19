@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehta Trader",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "177203",
+    "phone_number": "+91 94184 61318",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Mehta Traders, Una Rd, Amb, Himachal Pradesh 177203",
+    "area": "177203",
+    "latitude": 31.676232799999998,
+    "longitude": 76.1180147,
+    "place_id": "ChIJKUvBnSEhGzkR1PS8Qjbtr4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUvBnSEhGzkR1PS8Qjbtr4c",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:49:27"
+  },
+  {
+    "business_name": "Roohi Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "177203",
+    "phone_number": "+91 99886 40326",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "M4G9+837, opp. City Heart Hotel, Amb, Himachal Pradesh 177203",
+    "area": "177203",
+    "latitude": 31.675797,
+    "longitude": 76.11768,
+    "place_id": "ChIJaypf2IghGzkRVLWT6uWrris",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaypf2IghGzkRVLWT6uWrris",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:49:29"
+  }
+]

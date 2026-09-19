@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur nivas",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "177601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PP43+F3, Baihal, Himachal Pradesh 175042",
+    "area": "177601",
+    "latitude": 31.706209599999998,
+    "longitude": 76.702773,
+    "place_id": "ChIJ2f0CFwDZBDkRdyzwGcqBd1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2f0CFwDZBDkRdyzwGcqBd1A",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:18:13"
+  },
+  {
+    "business_name": "M/S Ramesh chand L-14unit - 18 (25-26)",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "177601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QM48+355, Tihra Rd, Tihra, Himachal Pradesh 175026",
+    "area": "177601",
+    "latitude": 31.7553207,
+    "longitude": 76.66559099999999,
+    "place_id": "ChIJDzJZOADbBDkRoKZP6lIqNdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzJZOADbBDkRoKZP6lIqNdU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:18:13"
+  }
+]

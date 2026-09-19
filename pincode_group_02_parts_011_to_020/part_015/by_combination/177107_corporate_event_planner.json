@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fab Par Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Party planner",
+    "pincode": "177107",
+    "phone_number": "+91 91083 71187",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 124,
+    "address": "near Sai Baba temple, Hebbagodi, Bengaluru, Bommasandra, Karnataka 560099",
+    "area": "Hebbagodi",
+    "latitude": 12.8272835,
+    "longitude": 77.6778325,
+    "place_id": "ChIJzaYkxgttrjsRf_spte7-z64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaYkxgttrjsRf_spte7-z64",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:25"
+  },
+  {
+    "business_name": "Sk Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Flower designer, Photography service, Wedding planner, Wedding service",
+    "pincode": "177107",
+    "phone_number": "+91 72044 64484",
+    "website": "https://business.google.com/v/s-k-events/02523047763473759289/2c71/_",
+    "rating": 4.8,
+    "reviews_count": 137,
+    "address": "365, 3rd Stage, 4th Block, W.C.R, JC Nagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+    "area": "JC Nagar, SBI Staff Colony, Basaveshwar Nagar",
+    "latitude": 12.9941579,
+    "longitude": 77.53799699999999,
+    "place_id": "ChIJwSUmRxE9rjsRK_WVRIut-fM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSUmRxE9rjsRK_WVRIut-fM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:26:25"
+  }
+]

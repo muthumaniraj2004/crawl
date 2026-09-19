@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "177112",
+    "phone_number": "+91 85447 74639",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 1, VPO, Gagret, Himachal Pradesh 177201",
+    "area": "VPO",
+    "latitude": 31.6643707,
+    "longitude": 76.0553209,
+    "place_id": "ChIJa6-1hxEfGzkRV3Jpr6y4cLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6-1hxEfGzkRV3Jpr6y4cLg",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:35:34"
+  },
+  {
+    "business_name": "लोक मित्र केंद्र (डाडा सीबा) CSC CENTER",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "177112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W498+XX5, Upper Market, Dadasiba, Sham Nagar, Himachal Pradesh 177106",
+    "area": "Upper Market",
+    "latitude": 31.9198827,
+    "longitude": 76.11749879999999,
+    "place_id": "ChIJmdOuMwA_GzkR3G2tUkpHi04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdOuMwA_GzkR3G2tUkpHi04",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:35:34"
+  }
+]

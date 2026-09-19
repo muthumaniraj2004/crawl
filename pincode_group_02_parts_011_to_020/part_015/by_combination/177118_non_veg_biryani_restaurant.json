@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Hamir Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "177118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 39,
+    "address": "32, Una - Jahu - Ner Chowk Rd, Jahu, Himachal Pradesh 176048",
+    "area": "177118",
+    "latitude": 31.607657999999997,
+    "longitude": 76.70212699999999,
+    "place_id": "ChIJ7yjdpuMmBTkRCH6tTM8GQpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yjdpuMmBTkRCH6tTM8GQpw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:41:35"
+  },
+  {
+    "business_name": "LAIBA NONVEG POINT",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "177118",
+    "phone_number": "+91 95599 91772",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "Sector 3, Vrindavan Colony, Lucknow, Uttar Pradesh 226029",
+    "area": "Sector 3, Vrindavan Colony",
+    "latitude": 26.7620158,
+    "longitude": 80.9475476,
+    "place_id": "ChIJHfDUkwv7mzkRkjVE01kWnjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfDUkwv7mzkRkjVE01kWnjY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:41:35"
+  }
+]

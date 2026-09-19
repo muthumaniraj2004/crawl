@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "luxury-bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Handbags shop",
+    "all_categories": "Handbags shop",
+    "pincode": "177206",
+    "phone_number": "N/A",
+    "website": "http://www.luxury-bags.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Himachal Pradesh 177206",
+    "area": "177206",
+    "latitude": 31.5797077,
+    "longitude": 76.097201,
+    "place_id": "ChIJgwDyxYLfGjkRLaUMuZirMIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwDyxYLfGjkRLaUMuZirMIU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:33"
+  },
+  {
+    "business_name": "Leather goods exporters",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer",
+    "pincode": "177206",
+    "phone_number": "+91 87093 28505",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "16/1B, Topsia Rd, Kustia, Kolkata, West Bengal 700039",
+    "area": "Kustia",
+    "latitude": 22.5360284,
+    "longitude": 88.3798384,
+    "place_id": "ChIJv0COugV3AjoRJeRT2V31alc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0COugV3AjoRJeRT2V31alc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:34"
+  }
+]

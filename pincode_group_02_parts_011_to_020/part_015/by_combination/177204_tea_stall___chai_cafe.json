@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gagret Chai pkoda shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "177204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M3RG+353, Mubarikpur, Himachal Pradesh 177213",
+    "area": "177204",
+    "latitude": 31.690174199999998,
+    "longitude": 76.07540759999999,
+    "place_id": "ChIJxZ7VWAAZGzkRmvu01pYKCKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ7VWAAZGzkRmvu01pYKCKQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:39"
+  },
+  {
+    "business_name": "Mr. NARAYAN TEA STALL",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "177204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "XMC6+J3W, Khan Surjapura, Rajasthan 321404",
+    "area": "177204",
+    "latitude": 26.9716003,
+    "longitude": 77.660197,
+    "place_id": "ChIJqTHxZwDtczkRoaB5pPdBBH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTHxZwDtczkRoaB5pPdBBH8",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:50:42"
+  }
+]

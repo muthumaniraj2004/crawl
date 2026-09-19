@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Attri General Store",
+    "search_category": "General Store",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store, Sweet shop",
+    "pincode": "177105",
+    "phone_number": "+91 70187 82587",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Badhal - Bassi - Nangal Chowk Rd, Badhal Uparli, Thor Uparli, Himachal Pradesh 177105",
+    "area": "177105",
+    "latitude": 31.877699,
+    "longitude": 76.1417979,
+    "place_id": "ChIJNW5vtI8-GzkROWDLngTG24s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNW5vtI8-GzkROWDLngTG24s",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:47"
+  },
+  {
+    "business_name": "Be sure Sainik Canteen Bhali",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "177105",
+    "phone_number": "+91 70189 50221",
+    "website": "https://retail.leelaholdings.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bhali On, Post Office, Village, street to GJPS, Bohrka, Himachal Pradesh 176206",
+    "area": "177105",
+    "latitude": 32.2238149,
+    "longitude": 76.1092142,
+    "place_id": "ChIJqVMCWdVfGzkRfqSz6zM_zvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVMCWdVfGzkRfqSz6zM_zvQ",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Munish Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "177105",
+    "phone_number": "+91 94180 50269",
+    "website": "http://www.munishresorts.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "562/3, road, Bhiuli, Aradha, Mandi, Himachal Pradesh 175001",
+    "area": "Bhiuli",
+    "latitude": 31.7036296,
+    "longitude": 76.9461719,
+    "place_id": "ChIJ9TU5ojviBDkRND2XaPxGxuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TU5ojviBDkRND2XaPxGxuM",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:49"
+  },
+  {
+    "business_name": "KD Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177105",
+    "phone_number": "+91 82198 37896",
+    "website": "http://kdresort.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "KD COMPLEX, post office, Village faulgat, Rajpura, Himachal Pradesh 176318",
+    "area": "177105",
+    "latitude": 32.6107005,
+    "longitude": 76.0938565,
+    "place_id": "ChIJbxx7Niy-HDkRPDU9A6oEVUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxx7Niy-HDkRPDU9A6oEVUk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:49"
+  }
+]

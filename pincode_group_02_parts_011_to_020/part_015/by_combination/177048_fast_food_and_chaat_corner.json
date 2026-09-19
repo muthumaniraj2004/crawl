@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Brother Fast food corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, African goods store",
+    "pincode": "177048",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "NH 503, Dhagial, Himachal Pradesh 176038",
+    "area": "177048",
+    "latitude": 32.0792602,
+    "longitude": 76.2611676,
+    "place_id": "ChIJA-6PntJFGzkRmVpUOgitEzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-6PntJFGzkRmVpUOgitEzE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:42"
+  },
+  {
+    "business_name": "Sharma’s Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "177048",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "GVCG+QR, Pungh, Himachal Pradesh 175018",
+    "area": "177048",
+    "latitude": 31.521888899999997,
+    "longitude": 76.8770833,
+    "place_id": "ChIJGeWwUQAZBTkReP3RfZuXEHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeWwUQAZBTkReP3RfZuXEHE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:14:42"
+  }
+]

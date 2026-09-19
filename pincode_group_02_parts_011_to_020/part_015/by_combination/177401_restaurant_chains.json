@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "177401",
+    "phone_number": "+91 73102 70459",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Laxmi restaurant, Rani Laxmi Bai park, beside crane service, Meerapur, Bhilawa Danda, Hamirpur, Uttar Pradesh 210301",
+    "area": "Meerapur, Bhilawa Danda",
+    "latitude": 25.951899899999997,
+    "longitude": 80.1579089,
+    "place_id": "ChIJsXJWf-b9nDkRbCh8O23fvT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXJWf-b9nDkRbCh8O23fvT4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:33"
+  },
+  {
+    "business_name": "AromaMocha Pizzeria",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Vegetarian restaurant",
+    "pincode": "177401",
+    "phone_number": "+91 788 068 0680",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "H-330, Ground Floor, Bengali Mall, Rameri, Hamirpur, Uttar Pradesh 210301",
+    "area": "177401",
+    "latitude": 25.952956399999998,
+    "longitude": 80.1505311,
+    "place_id": "ChIJHyB72VH8nDkRlwMGTeyvlxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyB72VH8nDkRlwMGTeyvlxE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:14:33"
+  }
+]

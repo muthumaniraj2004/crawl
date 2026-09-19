@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaundal Trading Company",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "177211",
+    "phone_number": "+91 1976 260 212",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "M4H8+8XQ, Dhandri, Amb, Himachal Pradesh 177203",
+    "area": "Dhandri",
+    "latitude": 31.6783398,
+    "longitude": 76.11747129999999,
+    "place_id": "ChIJRx7-H4khGzkR9WocjkslQ38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRx7-H4khGzkR9WocjkslQ38",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:05:02"
+  },
+  {
+    "business_name": "Thakur Agya Ram complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Business center",
+    "all_categories": "Business center",
+    "pincode": "177211",
+    "phone_number": "+91 98163 70002",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "13, Una - Amb Rd, Dhandri, Amb, Himachal Pradesh 177203",
+    "area": "Dhandri",
+    "latitude": 31.6793798,
+    "longitude": 76.117756,
+    "place_id": "ChIJVVVVVYghGzkRwolL6Ll_FFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVYghGzkRwolL6Ll_FFo",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:05:03"
+  }
+]

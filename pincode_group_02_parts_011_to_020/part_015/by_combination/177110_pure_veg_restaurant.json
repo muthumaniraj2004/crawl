@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Dhaba",
+    "pincode": "177110",
+    "phone_number": "+91 70045 98214",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 226,
+    "address": "Moien, Chintpurni, Himachal Pradesh 177110",
+    "area": "Moien",
+    "latitude": 31.8063106,
+    "longitude": 76.10537719999999,
+    "place_id": "ChIJ6TGSUHI9GzkRUCnipSaqDXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TGSUHI9GzkRUCnipSaqDXY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:45"
+  },
+  {
+    "business_name": "Govind Dhaba Mcleodganj",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "177110",
+    "phone_number": "+91 98171 50218",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 219,
+    "address": "Jogiwara Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2369905,
+    "longitude": 76.3247825,
+    "place_id": "ChIJwzd4AK5RGzkRbOmuxeuA-iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzd4AK5RGzkRbOmuxeuA-iU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:46"
+  }
+]

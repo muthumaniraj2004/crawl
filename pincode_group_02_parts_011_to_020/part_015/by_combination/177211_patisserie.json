@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizzeria point",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "J47R+2GX, Una - Amb Rd, Nandpur, Himachal Pradesh 177211",
+    "area": "177211",
+    "latitude": 31.612668199999998,
+    "longitude": 76.1412647,
+    "place_id": "ChIJvx3mEQAhGzkRZNRXot8w8Dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvx3mEQAhGzkRZNRXot8w8Dc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:03:23"
+  },
+  {
+    "business_name": "Gurucharan Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "177211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "H5WG+XXP, Unnamed Road, Bhera, Himachal Pradesh 177211",
+    "area": "177211",
+    "latitude": 31.597461,
+    "longitude": 76.17746799999999,
+    "place_id": "ChIJFamo3FnfGjkRmA8yOezmkMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFamo3FnfGjkRmA8yOezmkMY",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:03:24"
+  }
+]

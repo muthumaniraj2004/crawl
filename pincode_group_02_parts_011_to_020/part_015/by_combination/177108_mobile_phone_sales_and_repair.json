@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "177108",
+    "phone_number": "+91 98823 88838",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 28,
+    "address": "main Bazaar, near Laxmi Narayan Mandir, Rait, Himachal Pradesh 176208",
+    "area": "177108",
+    "latitude": 32.1857277,
+    "longitude": 76.2120741,
+    "place_id": "ChIJFWcsxKdbGzkRRgg163e-Yms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWcsxKdbGzkRRgg163e-Yms",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:28:23"
+  },
+  {
+    "business_name": "Akshay Mobile Shopee",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "177108",
+    "phone_number": "+91 86994 20988",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Main Road, Sukhdev Nagar, Hoshiarpur, Punjab 146001",
+    "area": "Sukhdev Nagar",
+    "latitude": 31.5354903,
+    "longitude": 75.9043776,
+    "place_id": "ChIJSeODr23jGjkRq8q90Pl2zns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeODr23jGjkRq8q90Pl2zns",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:28:24"
+  }
+]

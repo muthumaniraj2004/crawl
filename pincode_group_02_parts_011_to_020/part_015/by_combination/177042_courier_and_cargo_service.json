@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post office Rail",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "177042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stop, Rangas Nadaun Rd, Rail, Himachal Pradesh 177045",
+    "area": "177042",
+    "latitude": 31.741643699999997,
+    "longitude": 76.4166008,
+    "place_id": "ChIJUcH8a_UtGzkRAinMtspbs_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcH8a_UtGzkRAinMtspbs_Q",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:08:40"
+  },
+  {
+    "business_name": "Post Office Lahar",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "177042",
+    "phone_number": "+91 94595 98486",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QC74+HRP, Hamirpur, Himachal Pradesh 177044",
+    "area": "177042",
+    "latitude": 31.763952099999997,
+    "longitude": 76.4070892,
+    "place_id": "ChIJ62ZeKDYtGzkRkgFRS1Z4Tk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62ZeKDYtGzkRkgFRS1Z4Tk4",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:08:42"
+  }
+]

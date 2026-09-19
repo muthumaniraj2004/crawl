@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic beeda stall(paan shop)",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "177040",
+    "phone_number": "+91 80509 83533",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "84JG+HHM, Gangotri Rd, Sri Krishna Nagar, Siddalingaiahna Palya, Tumakur, Karnataka 572103",
+    "area": "Sri Krishna Nagar, Siddalingaiahna Palya",
+    "latitude": 13.3314507,
+    "longitude": 77.1264309,
+    "place_id": "ChIJ_RxHpYstsDsRSGymcurxISc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RxHpYstsDsRSGymcurxISc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:03:41"
+  },
+  {
+    "business_name": "PaanSmith",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "177040",
+    "phone_number": "+91 99994 47895",
+    "website": "http://paansmith.com/",
+    "rating": 4,
+    "reviews_count": 11,
+    "address": "610, Bikaji Complex, Bhikaji Cama Place, Rama Krishna Puram, New Delhi, Delhi 110066",
+    "area": "Bhikaji Cama Place, Rama Krishna Puram",
+    "latitude": 28.5679189,
+    "longitude": 77.1881483,
+    "place_id": "ChIJW00PGoQdDTkR2QlkHmGuSuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW00PGoQdDTkR2QlkHmGuSuI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:03:42"
+  }
+]

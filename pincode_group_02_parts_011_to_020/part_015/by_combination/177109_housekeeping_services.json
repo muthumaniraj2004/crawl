@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Excellent Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, House cleaning service",
+    "pincode": "177109",
+    "phone_number": "+91 99873 16552",
+    "website": "https://excellentcleaning.in/",
+    "rating": 4.9,
+    "reviews_count": 150,
+    "address": "Room No -5, Mansuri Chawl, Ali Talao Road Ali Talao Marve Road Malad, West, Malvani, Mumbai, Maharashtra 400095",
+    "area": "Malad, BMC Colony, Malvani, Malad West",
+    "latitude": 19.1955967,
+    "longitude": 72.8218608,
+    "place_id": "ChIJB-whmszyK0gRdTBGj6ZDMyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-whmszyK0gRdTBGj6ZDMyc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:17"
+  },
+  {
+    "business_name": "OYO Home Vassu Bhavan",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "177109",
+    "phone_number": "+91 124 620 1184",
+    "website": "https://www.oyorooms.com/209785/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "chintpurni, mandir, Una, Himachal Pradesh 177110",
+    "area": "Moien",
+    "latitude": 31.803566,
+    "longitude": 76.109746,
+    "place_id": "ChIJqzsaerE9GzkRF93AOt2J3_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzsaerE9GzkRF93AOt2J3_Y",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:30:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ani-Vets Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "177220",
+    "phone_number": "+91 81680 86269",
+    "website": "http://instagram.com/anivetspethospital/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jagadhri - Yamuna Nagar Rd, opposite Ganga petrol pump, Sanjay Vihar Colony, Gobind Pura, Yamuna Nagar, Jagadhri, Haryana 135001",
+    "area": "Sanjay Vihar Colony, Gobind Pura",
+    "latitude": 30.1451511,
+    "longitude": 77.2883421,
+    "place_id": "ChIJeUPIL7b7DjkR4ziyv-64nlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUPIL7b7DjkR4ziyv-64nlk",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:11:08"
+  },
+  {
+    "business_name": "Pet Animal Medical Centre",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "177220",
+    "phone_number": "+91 172 256 2055",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MVRC+264, Sector 3, Panchkula, Haryana 134109",
+    "area": "Sector 3",
+    "latitude": 30.690017599999997,
+    "longitude": 76.8705748,
+    "place_id": "ChIJqaqqan-TDzkRqbnWFDo8xRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqaqqan-TDzkRqbnWFDo8xRc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:11:08"
+  }
+]

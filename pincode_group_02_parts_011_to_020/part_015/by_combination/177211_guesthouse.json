@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhardwaj House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "177211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahakaleshver Mandir, Amb, Badaun, Himachal Pradesh 177211",
+    "area": "177211",
+    "latitude": 31.632254699999997,
+    "longitude": 76.13422659999999,
+    "place_id": "ChIJGdaPD9chGzkR_BU7do24Ch0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdaPD9chGzkR_BU7do24Ch0",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:04:23"
+  },
+  {
+    "business_name": "La Hault",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Resort hotel",
+    "pincode": "177211",
+    "phone_number": "+91 62304 14883",
+    "website": "http://www.lahault.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "209/157/23 Village Shashin, PO, Sissu, Himachal Pradesh 175140",
+    "area": "177211",
+    "latitude": 32.4800956,
+    "longitude": 77.1236754,
+    "place_id": "ChIJrzvrWQ9_AzkR3P1mwVJ0dAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzvrWQ9_AzkR3P1mwVJ0dAI",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 07:04:23"
+  }
+]

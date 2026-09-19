@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Enterprises Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "177204",
+    "phone_number": "+91 98728 74082",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhi Colony, Barnala, Punjab 148101",
+    "area": "Lakhi Colony",
+    "latitude": 30.3595525,
+    "longitude": 75.5363069,
+    "place_id": "ChIJ8Z8ih_jxEDkRfjexhKYYEMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Z8ih_jxEDkRfjexhKYYEMw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:51:13"
+  },
+  {
+    "business_name": "HSR Logistics Private Limited",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "177204",
+    "phone_number": "+91 91487 09709",
+    "website": "https://www.hsrlogistics.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "No. 2, 13, Carterpuri Marg, opp. Shri Krishna Tyres, near Maruti Gate, Palam Vihar Extension, Gurugram, Haryana 122015",
+    "area": "Palam Vihar Extension",
+    "latitude": 28.4975004,
+    "longitude": 77.0555005,
+    "place_id": "ChIJEQofx6MZDTkRhbQ_T4KIa-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQofx6MZDTkRhbQ_T4KIa-M",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:51:14"
+  }
+]

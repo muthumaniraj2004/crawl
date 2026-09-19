@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Medical Store Loharli",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177206",
+    "phone_number": "+91 80917 47960",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V.P.O, Link Road, Loharli Upperli, Una, Himachal Pradesh 177206",
+    "area": "177206",
+    "latitude": 31.597725299999997,
+    "longitude": 76.1242274,
+    "place_id": "ChIJIfQ-qF4hGzkR9MsP3f1zF08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfQ-qF4hGzkR9MsP3f1zF08",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:36"
+  },
+  {
+    "business_name": "Puri Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "177206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "H532+985, Panjawar, Himachal Pradesh 177208",
+    "area": "177206",
+    "latitude": 31.553383,
+    "longitude": 76.1508492,
+    "place_id": "ChIJv_AQ4MPfGjkRNFi6PSGjbZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_AQ4MPfGjkRNFi6PSGjbZc",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:54:36"
+  }
+]

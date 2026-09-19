@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh Tiffins",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant, Tiffin Service Provider, Takeout restaurant",
+    "pincode": "177202",
+    "phone_number": "+91 96182 41223",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "HIG-158, Kukatpally Housing Board Colony, KPHB 5th Phase, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, KPHB 5th Phase, Kukatpally",
+    "latitude": 17.4816845,
+    "longitude": 78.3920716,
+    "place_id": "ChIJ-TTAcY-RyzsR08GzIJ05x1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TTAcY-RyzsR08GzIJ05x1U",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:03"
+  },
+  {
+    "business_name": "Shri Balaji Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "177202",
+    "phone_number": "+91 99288 31555",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Samiksha Nagar, Sinwar, Sirsi Rd, Industrial Area, Bindayaka, Jaipur, Rajasthan 302041",
+    "area": "Industrial Area, Bindayaka",
+    "latitude": 26.923082599999997,
+    "longitude": 75.6379314,
+    "place_id": "ChIJWYbSjE9NbDkRcImm4TUTOgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYbSjE9NbDkRcImm4TUTOgU",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:47:04"
+  }
+]

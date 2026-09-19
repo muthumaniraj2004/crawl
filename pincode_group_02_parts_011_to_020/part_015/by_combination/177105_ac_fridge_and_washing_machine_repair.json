@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BCS Appliance Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "177105",
+    "phone_number": "N/A",
+    "website": "https://www.bcsapplianceservice.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BCS Appliance Service, 177105, India",
+    "area": "177105",
+    "latitude": 40.1708235,
+    "longitude": -76.589264,
+    "place_id": "ChIJaa07h--g3k8RPEzHcElQJ5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaa07h--g3k8RPEzHcElQJ5o",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:32"
+  },
+  {
+    "business_name": "Elite Appliance Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "177105",
+    "phone_number": "N/A",
+    "website": "http://www.eliteapplianceserviceva.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Elite Appliance Service, 177105, India",
+    "area": "177105",
+    "latitude": 37.7831945,
+    "longitude": -83.9386366,
+    "place_id": "ChIJb65CuPCHDYcRjpbd6HqriTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb65CuPCHDYcRjpbd6HqriTs",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:22:32"
+  }
+]

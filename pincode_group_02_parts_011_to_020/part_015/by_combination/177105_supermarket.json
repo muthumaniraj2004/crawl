@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg General Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "V5W6+JPW, Badhal Uparli, Himachal Pradesh 177105",
+    "area": "177105",
+    "latitude": 31.8966191,
+    "longitude": 76.16182549999999,
+    "place_id": "ChIJ_4dnBsw_GzkR1py2cfyHGRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4dnBsw_GzkR1py2cfyHGRw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:45"
+  },
+  {
+    "business_name": "Shreya Sales",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "177105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "R5XX+PQX, MDR46, Saunt, Nehran Pukhar, Himachal Pradesh 177104",
+    "area": "177105",
+    "latitude": 31.849357299999998,
+    "longitude": 76.19949079999999,
+    "place_id": "ChIJDe18VHk7GzkRmN44Lcn-PVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDe18VHk7GzkRmN44Lcn-PVE",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:21:45"
+  }
+]

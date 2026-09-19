@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Shop in Mohali",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "177111",
+    "phone_number": "+91 81460 71487",
+    "website": "https://sites.google.com/view/computershopmohali/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E-175, Phase 8B, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Phase 8B, Industrial Area, Sector 74",
+    "latitude": 30.7122535,
+    "longitude": 76.69219,
+    "place_id": "ChIJBT6TvjPvDzkRBX5vm9gierA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBT6TvjPvDzkRBX5vm9gierA",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:47"
+  },
+  {
+    "business_name": "Computer Shops in Mohali",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer repair service, Electronics store",
+    "pincode": "177111",
+    "phone_number": "N/A",
+    "website": "https://computershopsmohali.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "CO- 25, near Livasa Hospital, Phase-8, Industrial Area, Sector 71, Sahibzada Ajit Singh Nagar, Punjab 160071",
+    "area": "Phase-8, Industrial Area, Sector 71",
+    "latitude": 30.7053242,
+    "longitude": 76.7089819,
+    "place_id": "ChIJ5TtKWrbvDzkReGbXf1VLTyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TtKWrbvDzkReGbXf1VLTyw",
+    "part_id": "part_015",
+    "crawled_at": "2026-09-19 06:33:47"
+  }
+]
