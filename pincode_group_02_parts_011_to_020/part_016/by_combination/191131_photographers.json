@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhat Enterprises",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "191131",
+    "phone_number": "+91 70064 28860",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saloora, Jammu and Kashmir 191131",
+    "area": "191131",
+    "latitude": 34.2095974,
+    "longitude": 74.76512919999999,
+    "place_id": "ChIJwUI1JGad4TgRiPS88Uf2evw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUI1JGad4TgRiPS88Uf2evw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:35:31"
+  },
+  {
+    "business_name": "Shah Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service, Photography studio",
+    "pincode": "191131",
+    "phone_number": "+91 88990 85935",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "5, Duderhama Ganderbal Bridge, near Hot Spot, Ganderbal, Jammu and Kashmir 191201",
+    "area": "191131",
+    "latitude": 34.2149864,
+    "longitude": 74.7728748,
+    "place_id": "ChIJ3U3-oymd4TgRwgggICp5I8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3U3-oymd4TgRwgggICp5I8A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:35:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUPER CYCLE COMPANY",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler",
+    "pincode": "190025",
+    "phone_number": "+91 99258 38980",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 23,
+    "address": "Madanzapa Rd, Nyay Mandir, Sultanpura, Vadodara, Gujarat 390001",
+    "area": "Nyay Mandir, Sultanpura",
+    "latitude": 22.2987876,
+    "longitude": 73.2054543,
+    "place_id": "ChIJk2A_A_PFXzkR3R7rBDvEImA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2A_A_PFXzkR3R7rBDvEImA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:28"
+  },
+  {
+    "business_name": "Bike Hero - Mobile bicycle workshop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Bicycle Shop, Service establishment",
+    "pincode": "190025",
+    "phone_number": "N/A",
+    "website": "https://www.bikehero.sg/",
+    "rating": 4.9,
+    "reviews_count": 1831,
+    "address": "Bike Hero - Mobile bicycle workshop, 190025, India",
+    "area": "190025",
+    "latitude": 1.3139999999999998,
+    "longitude": 103.84425,
+    "place_id": "ChIJX5QZ1hgYCYARh4GP0LLgbLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5QZ1hgYCYARh4GP0LLgbLg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:29"
+  }
+]

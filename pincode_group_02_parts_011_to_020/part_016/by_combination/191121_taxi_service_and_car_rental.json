@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashmir Fast Cab Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Tour operator, Transportation service",
+    "pincode": "191121",
+    "phone_number": "+91 70069 53878",
+    "website": "http://www.kashmirfastcabservices.com/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Main Road, Harwan Rd, near Police Station, Srinagar, Jammu and Kashmir 191121",
+    "area": "191121",
+    "latitude": 34.1610243,
+    "longitude": 74.9014509,
+    "place_id": "ChIJ8xASeBub4TgRVcgYwfCuUeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xASeBub4TgRVcgYwfCuUeM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:33:19"
+  },
+  {
+    "business_name": "Oriental Kashmir Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "191121",
+    "phone_number": "+91 98580 60699",
+    "website": "https://orientalkashmircabs.com/",
+    "rating": 5,
+    "reviews_count": 63,
+    "address": "Syed Rahmaan Sahib, Brein, Srinagar, Jammu and Kashmir 191121",
+    "area": "Brein",
+    "latitude": 34.107588799999995,
+    "longitude": 74.889314,
+    "place_id": "ChIJhw6YqC2H4TgRF71kbH0ycvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhw6YqC2H4TgRF71kbH0ycvc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:33:19"
+  }
+]

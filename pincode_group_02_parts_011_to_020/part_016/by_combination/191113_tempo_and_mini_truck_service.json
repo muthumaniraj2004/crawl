@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star tempo service",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "191113",
+    "phone_number": "+91 98456 14099",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 60,
+    "address": "Gautampuram, Bengaluru, Karnataka 560008",
+    "area": "Halasuru, Cambridge Layout",
+    "latitude": 12.972249999999999,
+    "longitude": 77.62634299999999,
+    "place_id": "ChIJYV-nkp4WrjsRItQ2ktuV130",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYV-nkp4WrjsRItQ2ktuV130",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:31:38"
+  },
+  {
+    "business_name": "Sri Venkateswara tempo garage",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "191113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "27, 9th C Main Rd, KEB Colony, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560029",
+    "area": "KEB Colony, 1st Stage, BTM 1st Stage",
+    "latitude": 12.917771199999999,
+    "longitude": 77.6059757,
+    "place_id": "ChIJRdnJtQ0VrjsRD4WHg1HYkQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdnJtQ0VrjsRD4WHg1HYkQE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:31:39"
+  }
+]

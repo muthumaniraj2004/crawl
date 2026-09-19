@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRS MOTORS",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Used truck dealer",
+    "all_categories": "Used truck dealer",
+    "pincode": "190023",
+    "phone_number": "+91 90858 01768",
+    "website": "https://srsmotors.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shumnath Nagar Path, tetelia, Boragaon, Guwahati, Assam 781011",
+    "area": "Boragaon",
+    "latitude": 26.1267587,
+    "longitude": 91.676204,
+    "place_id": "ChIJPzD53jVbWjcRocRokg4fDGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzD53jVbWjcRocRokg4fDGw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:18:01"
+  },
+  {
+    "business_name": "Tractor 🚜",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "190023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6CFH+3FG, Bhadal, Uttar Pradesh 250622",
+    "area": "190023",
+    "latitude": 29.2226875,
+    "longitude": 77.42871679999999,
+    "place_id": "ChIJWQjtoEw5DDkROU2VEOaTF6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQjtoEw5DDkROU2VEOaTF6A",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:18:03"
+  }
+]

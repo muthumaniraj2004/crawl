@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al Mahmood Auto Spa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "191103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tulbagh, near govt ITI, Pampore, Jammu and Kashmir 192121",
+    "area": "191103",
+    "latitude": 34.007590199999996,
+    "longitude": 74.9255869,
+    "place_id": "ChIJyW32pOuL4TgRClPPPIdfVWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyW32pOuL4TgRClPPPIdfVWQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:33"
+  },
+  {
+    "business_name": "AutoPro Shalimar",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "191103",
+    "phone_number": "+91 70063 99550",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shalimar, Tailbal Road, opposite State Bank of India, Srinagar, Jammu and Kashmir 191101",
+    "area": "191103",
+    "latitude": 34.073024,
+    "longitude": 74.95713649999999,
+    "place_id": "ChIJcflz6_6J4TgRaRDQvj1brxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcflz6_6J4TgRaRDQvj1brxw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plastivision India",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center, Amusement ride supplier",
+    "pincode": "190024",
+    "phone_number": "+91 99303 55494",
+    "website": "https://www.plastivision.org/",
+    "rating": 4,
+    "reviews_count": 21,
+    "address": "2nd Floor, AIPMA House, A-52, Street No. 1, M.I.D.C. Marol, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Mulgaon, Andheri East",
+    "latitude": 19.1171565,
+    "longitude": 72.8660823,
+    "place_id": "ChIJF9Igd8q35zsRoyOZcV99eK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9Igd8q35zsRoyOZcV99eK4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:40"
+  },
+  {
+    "business_name": "Jio World Convention Centre",
+    "search_category": "Tradeshows",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center, Event venue",
+    "pincode": "190024",
+    "phone_number": "+91 22 3570 4400",
+    "website": "https://jioworldcentre.com/jio-world-convention-centre",
+    "rating": 4.7,
+    "reviews_count": 10810,
+    "address": "Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098",
+    "area": "G Block, Bandra Kurla Complex, Bandra East",
+    "latitude": 19.063481499999998,
+    "longitude": 72.8657772,
+    "place_id": "ChIJZ2FW5RzJ5zsRfoq2-gbbmzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2FW5RzJ5zsRfoq2-gbbmzk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Centre New Town",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "191132",
+    "phone_number": "N/A",
+    "website": "http://newtown.citycentremalls.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ground Floor, Service Rd, AA II, Action Area IID, Rajarhat, West Bengal 700161",
+    "area": "AA II, Action Area IID, Rajarhat",
+    "latitude": 22.6226339,
+    "longitude": 88.4502582,
+    "place_id": "ChIJQQo_mWif-DkR35FcRulX24M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQo_mWif-DkR35FcRulX24M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:37:56"
+  },
+  {
+    "business_name": "TGV Anantha City Square Mall Kurnool",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "191132",
+    "phone_number": "+91 63038 01585",
+    "website": "https://www.citysquarekurnool.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "D.No.40/37-M Sy.No.177 & 192, 4A, New Bus Stand Rd, River View Colony, Kurnool, Andhra Pradesh 518004",
+    "area": "River View Colony",
+    "latitude": 15.826732999999999,
+    "longitude": 78.0352714,
+    "place_id": "ChIJx97X8oHntTsRbfN30nbHzSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx97X8oHntTsRbfN30nbHzSg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:37:56"
+  }
+]

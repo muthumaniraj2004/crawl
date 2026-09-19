@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ad Media&Universe",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "191103",
+    "phone_number": "+91 83750 82567",
+    "website": "https://www.admedia-universe.com/",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "Manisha Residency, Downtown, Guwahati, Assam 781006",
+    "area": "Downtown",
+    "latitude": 26.137980799999998,
+    "longitude": 91.79896869999999,
+    "place_id": "ChIJ1bKOQLVfWjcRidRkvvPjKUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bKOQLVfWjcRidRkvvPjKUg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:27:05"
+  },
+  {
+    "business_name": "Siramatic Studio",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Service establishment",
+    "pincode": "191103",
+    "phone_number": "N/A",
+    "website": "https://siramaticportfolio.framer.website/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siramatic Studio, 191103, India",
+    "area": "191103",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJg-ADJvGL7goRoGYtUPtvJ2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-ADJvGL7goRoGYtUPtvJ2o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:27:05"
+  }
+]

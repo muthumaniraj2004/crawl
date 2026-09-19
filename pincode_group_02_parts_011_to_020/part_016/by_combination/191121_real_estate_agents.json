@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GN Steel Store",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "191121",
+    "phone_number": "+91 70067 75405",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "35 Darbagh, Srinagar Darbagh, Srinagar, Jammu and Kashmir 191121",
+    "area": "191121",
+    "latitude": 34.1669014,
+    "longitude": 74.8976113,
+    "place_id": "ChIJ4VQZPdSH4TgR7e9ZD3vgvfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VQZPdSH4TgR7e9ZD3vgvfg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:10"
+  },
+  {
+    "business_name": "Alif inn home stay",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Short term apartment rental agency",
+    "all_categories": "Short term apartment rental agency, Service establishment",
+    "pincode": "191121",
+    "phone_number": "N/A",
+    "website": "https://booking.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Alif inn home stay, 191121, India",
+    "area": "191121",
+    "latitude": 31.632528899999997,
+    "longitude": 76.4011359,
+    "place_id": "ChIJCwdymtKIpKQRB09emxCEuqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwdymtKIpKQRB09emxCEuqI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:10"
+  }
+]

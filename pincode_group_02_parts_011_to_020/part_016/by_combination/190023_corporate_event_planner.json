@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Event Hut",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "190023",
+    "phone_number": "+91 89109 70894",
+    "website": "https://event-hut.ueniweb.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "182, Jessore Rd, Devendra Nagar, Amarpalli, Dum Dum, West Bengal 700074",
+    "area": "Devendra Nagar, Amarpalli, Dum Dum",
+    "latitude": 22.6186149,
+    "longitude": 88.4124859,
+    "place_id": "ChIJwY3ZzRKf-DkRoE0ZVHycSPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwY3ZzRKf-DkRoE0ZVHycSPM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:18:31"
+  },
+  {
+    "business_name": "PartyPurple - Event Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Children's party service, Entertainer, Event management company, Party planner, Wedding planner, Wedding service",
+    "pincode": "190023",
+    "phone_number": "+91 93215 94939",
+    "website": "https://partypurple.in/",
+    "rating": 4.8,
+    "reviews_count": 59,
+    "address": "Hari Om Apartment, Plot No. 60, Ranjanpada, Sector 27, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Ranjanpada, Sector 27, Kharghar",
+    "latitude": 19.0592439,
+    "longitude": 73.082104,
+    "place_id": "ChIJwzS9sUzC5zsRqZkBD5sByqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzS9sUzC5zsRqZkBD5sByqA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:18:33"
+  }
+]

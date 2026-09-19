@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nexus Whitefield Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "191201",
+    "phone_number": "+91 88844 30876",
+    "website": "https://www.nexusselecttrust.com/nexus-whitefield",
+    "rating": 4.2,
+    "reviews_count": 41464,
+    "address": "62, Whitefield Main Rd, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Prestige Ozone, Whitefield",
+    "latitude": 12.959627099999999,
+    "longitude": 77.7479488,
+    "place_id": "ChIJCwQ1WPYNrjsR79v0Hb12g1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwQ1WPYNrjsR79v0Hb12g1U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:39:35"
+  },
+  {
+    "business_name": "Nexus Koramangala Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "191201",
+    "phone_number": "+91 80 2206 7803",
+    "website": "https://www.nexusselecttrust.com/nexus-koramangala",
+    "rating": 4.4,
+    "reviews_count": 140324,
+    "address": "Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560030",
+    "area": "Chikku Lakshmaiah Layout, Koramangala",
+    "latitude": 12.934669099999999,
+    "longitude": 77.6111143,
+    "place_id": "ChIJuzGXhU0UrjsRCRsq7sQj5Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzGXhU0UrjsRCRsq7sQj5Xs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:39:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palladium",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "191132",
+    "phone_number": "+91 44 6134 3088",
+    "website": "http://www.palladiumchennai.com/",
+    "rating": 4.5,
+    "reviews_count": 17449,
+    "address": "Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+    "area": "Indira Gandhi Nagar, Velachery",
+    "latitude": 12.9930434,
+    "longitude": 80.2178132,
+    "place_id": "ChIJyRJVoWNnUjoRoqKznHcJO2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRJVoWNnUjoRoqKznHcJO2s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:37:55"
+  },
+  {
+    "business_name": "Star Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "191132",
+    "phone_number": "+91 98306 90062",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 19141,
+    "address": "74/Mall/1, North, Jessore Rd, Sisir Kunja, Barasat, Madhyamgram, Kolkata, West Bengal 700129",
+    "area": "Sisir Kunja, Barasat",
+    "latitude": 22.7029793,
+    "longitude": 88.47199839999999,
+    "place_id": "ChIJ5cxJNFKf-DkRkSd1DUW3w14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cxJNFKf-DkRkSd1DUW3w14",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:37:55"
+  }
+]

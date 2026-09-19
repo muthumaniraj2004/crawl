@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vault Brewery and Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Brewpub",
+    "all_categories": "Brewpub, Bar, Dance club, Disco club, Pub, Restaurant",
+    "pincode": "191121",
+    "phone_number": "+91 85180 45678",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 3529,
+    "address": "VSN Mall, Gayatri Nagar, Vijayawada, Andhra Pradesh 520008",
+    "area": "Gayatri Nagar, Krishna Nagar",
+    "latitude": 16.501093,
+    "longitude": 80.656843,
+    "place_id": "ChIJ0dMb-vr7NToRAy7R03z88pY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dMb-vr7NToRAy7R03z88pY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:55"
+  },
+  {
+    "business_name": "Thane Pub Exchange",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "191121",
+    "phone_number": "+91 86574 06316",
+    "website": "https://centers.smaaash.in/pubexchange/pub-exchange-thane-pub-exchange-restaurants-samata-nagar-thane-31888/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.9,
+    "reviews_count": 123,
+    "address": "Korum Mall, Second Floor, Eastern Express Hwy, Samata Nagar, Thane, Maharashtra 400606",
+    "area": "Samata Nagar, Thane West",
+    "latitude": 19.204024999999998,
+    "longitude": 72.965277,
+    "place_id": "ChIJ9T4txJy55zsR5OTtkSFNLz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9T4txJy55zsR5OTtkSFNLz8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:55"
+  }
+]

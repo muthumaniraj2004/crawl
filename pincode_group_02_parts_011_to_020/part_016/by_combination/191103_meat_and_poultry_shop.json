@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zargar Enterprises",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "191103",
+    "phone_number": "+91 97977 72871",
+    "website": "https://www.youtube.com/watch?v=qIlkgbPD_HY",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Opp J&K Bank, Pampore, Jammu and Kashmir 192121",
+    "area": "191103",
+    "latitude": 34.0168592,
+    "longitude": 74.9149857,
+    "place_id": "ChIJVVWlIHyJ4TgRJeAejg9M_JU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWlIHyJ4TgRJeAejg9M_JU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:04"
+  },
+  {
+    "business_name": "Dar Poultry Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "191103",
+    "phone_number": "+91 77809 07062",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Jamia Masjid, Samboora, Pulwama, Jammu and Kashmir 192304",
+    "area": "191103",
+    "latitude": 33.9629213,
+    "longitude": 74.9243441,
+    "place_id": "ChIJFy-yaEWL4TgRW5UW9m0dhGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFy-yaEWL4TgRW5UW9m0dhGU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonal's Craft Shed",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "191102",
+    "phone_number": "+91 93129 47899",
+    "website": "http://www.craftshed.in/",
+    "rating": 4.9,
+    "reviews_count": 45,
+    "address": "Shop no Ground Floor, Spectrum Metro, 9b 10a, Gardenia Gateway, Sector 75, Noida, Uttar Pradesh 201316",
+    "area": "Gardenia Gateway, Sector 75",
+    "latitude": 28.572742899999998,
+    "longitude": 77.3793925,
+    "place_id": "ChIJPdIvGYnlDDkRFJv69ez6G3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdIvGYnlDDkRFJv69ez6G3Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:20"
+  },
+  {
+    "business_name": "Trousseau & Trinkets",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "191102",
+    "phone_number": "+91 89104 46923",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "122, Jadavgarh Colony, Haltu, Kolkata, West Bengal 700078",
+    "area": "Jadavgarh Colony, Haltu",
+    "latitude": 22.5078256,
+    "longitude": 88.379716,
+    "place_id": "ChIJ_YIdib1xAjoRGSVSk9hF53Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YIdib1xAjoRGSVSk9hF53Y",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:21"
+  }
+]

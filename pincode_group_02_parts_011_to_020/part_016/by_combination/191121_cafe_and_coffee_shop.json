@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Coffee Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "191121",
+    "phone_number": "+91 94196 69202",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "near Zero Bridge, Munshi Bagh, Srinagar, Jammu and Kashmir 190001",
+    "area": "Munshi Bagh",
+    "latitude": 34.0709531,
+    "longitude": 74.8300173,
+    "place_id": "ChIJb3hUXMqP4TgRiEIxObMFSP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3hUXMqP4TgRiEIxObMFSP0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:51"
+  },
+  {
+    "business_name": "GOLDEN COFFEE HOUSE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "191121",
+    "phone_number": "+91 70061 65187",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nehru park, Shop no 1 Botanical Garden Parking, Botanical garden, Dalgate Bridge, Srinagar, Jammu and Kashmir 191121",
+    "area": "Muja Gund Ghat",
+    "latitude": 34.0929666,
+    "longitude": 74.87720039999999,
+    "place_id": "ChIJDf7ErlOJ4TgR9hcRff-xwzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDf7ErlOJ4TgR9hcRff-xwzU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ab cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jagir, Parigam Jagir, Jammu and Kashmir 192301",
+    "area": "Jagir",
+    "latitude": 33.934365,
+    "longitude": 74.8843371,
+    "place_id": "ChIJ2wYskrSL4TgRxgIq0dnZ2WU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wYskrSL4TgRxgIq0dnZ2WU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:41"
+  },
+  {
+    "business_name": "Prestige Xclusive - Srinagar",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "Residency Road, near Shakti Sweets, Regal Chowk, Press Colony, Srinagar, Jammu and Kashmir 190001",
+    "area": "Regal Chowk, Press Colony",
+    "latitude": 34.0728754,
+    "longitude": 74.8167453,
+    "place_id": "ChIJ6dawMOiP4TgRsilMZpfmdOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dawMOiP4TgRsilMZpfmdOs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:42"
+  }
+]

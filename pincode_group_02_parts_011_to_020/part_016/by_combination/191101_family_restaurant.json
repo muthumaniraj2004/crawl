@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Olive Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Naaz Colony, Road, opposite ITBP Main Gate, Zewan, Pantha Chowk, Khanmo, Srinagar, Jammu and Kashmir 191101",
+    "area": "Zewan, Pantha Chowk",
+    "latitude": 34.040533499999995,
+    "longitude": 74.8937028,
+    "place_id": "ChIJRe8SEJmJ4TgR-55dQmam-2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRe8SEJmJ4TgR-55dQmam-2Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:43"
+  },
+  {
+    "business_name": "The kashmir Haveli",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 133,
+    "address": "Nh44, near j&k bank, Barsoo, Awantipora, Jammu and Kashmir 192121",
+    "area": "191101",
+    "latitude": 33.993423799999995,
+    "longitude": 74.92113909999999,
+    "place_id": "ChIJz800CAAh4jgRjSKW-mrSbWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz800CAAh4jgRjSKW-mrSbWI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:43"
+  }
+]

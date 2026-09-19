@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba electric store",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Electronic parts supplier",
+    "all_categories": "Electronic parts supplier",
+    "pincode": "190025",
+    "phone_number": "+91 97978 39103",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gupt Ganga - Ishber Rd, Ishber, Nishat, Srinagar, Jammu and Kashmir 191121",
+    "area": "Ishber, Nishat",
+    "latitude": 34.1309561,
+    "longitude": 74.8783217,
+    "place_id": "ChIJc-V9ieOH4TgR2cpwthg4_XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-V9ieOH4TgR2cpwthg4_XE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:18"
+  },
+  {
+    "business_name": "Shubham Marketing",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Tool store",
+    "pincode": "190025",
+    "phone_number": "+91 99772 02588",
+    "website": "https://jhalawadgroup.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st & 2nd Floor, Shop No. C3, Block No. 20, Pathar Godam Road, New Siyaganj, Indore, Madhya Pradesh 452003",
+    "area": "New Siyaganj",
+    "latitude": 22.7237977,
+    "longitude": 75.8673396,
+    "place_id": "ChIJEZRiXG39YjkRbkr-B4uXPwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZRiXG39YjkRbkr-B4uXPwo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:20"
+  }
+]

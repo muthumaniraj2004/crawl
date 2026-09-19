@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASAP Diner : As Spicy As Possible",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "191132",
+    "phone_number": "+91 120 427 4593",
+    "website": "https://www.zomato.com/ncr/asap-as-spicy-as-possible-diner-raj-nagar-ghaziabad/info",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "C 88, RDC, Sector 15, Sector 10, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "RDC, Sector 15, Sector 10, Raj Nagar",
+    "latitude": 28.6770347,
+    "longitude": 77.4432123,
+    "place_id": "ChIJd6z4mbXxDDkRMnW8DZoaSNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6z4mbXxDDkRMnW8DZoaSNg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:36:28"
+  },
+  {
+    "business_name": "New Thekkevila Chicken Corner",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "191132",
+    "phone_number": "+91 96339 04300",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JV6W+WHH, Pothencode, Keralam 695584",
+    "area": "191132",
+    "latitude": 8.6123163,
+    "longitude": 76.8964905,
+    "place_id": "ChIJBdmTNKDABTsRSAMAOMjdwlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdmTNKDABTsRSAMAOMjdwlc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:36:28"
+  }
+]

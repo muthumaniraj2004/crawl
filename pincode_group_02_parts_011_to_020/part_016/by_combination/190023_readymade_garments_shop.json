@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Clothing Co",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "190023",
+    "phone_number": "+91 99533 39930",
+    "website": "http://premiumclothing.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "sco 26 basement, huda market, Sector 23 Rd, opp. reliance fresh, Cartarpuri Alias Daulatpur Nas, Huda, market, Gurugram, Haryana 122017",
+    "area": "Cartarpuri Alias Daulatpur Nas, Huda, market",
+    "latitude": 28.5106638,
+    "longitude": 77.0482293,
+    "place_id": "ChIJCzf_0cojDTkRv7RdfLndt9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzf_0cojDTkRv7RdfLndt9M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:17:41"
+  },
+  {
+    "business_name": "Classymissy",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "190023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Zadibal, Srinagar, Jammu and Kashmir 190011",
+    "area": "Zadibal",
+    "latitude": 34.114179,
+    "longitude": 74.8062221,
+    "place_id": "ChIJ110mr0OF4TgRFXWil8357Bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ110mr0OF4TgRFXWil8357Bo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:17:43"
+  }
+]

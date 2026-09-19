@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL KITCHENWARE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store, Household goods wholesaler, Kitchen furniture store, Warehouse",
+    "pincode": "190025",
+    "phone_number": "+91 97963 45456",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ishber, Nishat, Srinagar, Jammu and Kashmir 191121",
+    "area": "Nishat",
+    "latitude": 34.131463,
+    "longitude": 74.8780136,
+    "place_id": "ChIJ-UoFDuqH4TgR1yLmHxjgeRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-UoFDuqH4TgR1yLmHxjgeRM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:39"
+  },
+  {
+    "business_name": "Jeet Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture accessories supplier",
+    "all_categories": "Furniture accessories supplier",
+    "pincode": "190025",
+    "phone_number": "+91 94180 84011",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near laxmi narayan mandir, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "Kasumpti",
+    "latitude": 31.076470999999998,
+    "longitude": 77.18363839999999,
+    "place_id": "ChIJu2A0rFJ_BTkRYLwJ8tGmdH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2A0rFJ_BTkRYLwJ8tGmdH4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:41"
+  }
+]

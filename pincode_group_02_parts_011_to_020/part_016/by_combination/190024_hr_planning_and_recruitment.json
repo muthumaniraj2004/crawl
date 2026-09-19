@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Associates",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Employment agency, Temp agency",
+    "pincode": "190024",
+    "phone_number": "N/A",
+    "website": "http://www.hrassociates.ca/",
+    "rating": 4.5,
+    "reviews_count": 82,
+    "address": "295 The West Mall #302, Etobicoke, ON M9C 4Z4, Canada",
+    "area": "Etobicoke",
+    "latitude": 43.6352836,
+    "longitude": -79.5613429,
+    "place_id": "ChIJO_myz4o3K4gRBAyaO8-ktuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_myz4o3K4gRBAyaO8-ktuw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:28"
+  },
+  {
+    "business_name": "Talent Hippo Consultants",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Service establishment",
+    "pincode": "190024",
+    "phone_number": "+91 99686 24724",
+    "website": "http://www.talenthippo.com/",
+    "rating": 4.6,
+    "reviews_count": 29,
+    "address": "Talent Hippo Consultants, 190024, India",
+    "area": "190024",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJI1abdh3lDDkRpTC7jUzWFVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1abdh3lDDkRpTC7jUzWFVo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:28"
+  }
+]

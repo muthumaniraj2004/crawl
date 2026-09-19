@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New krishan sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "190024",
+    "phone_number": "+91 98767 33088",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Friends Colony, Jassian Rd, near Grand Trunk Road, Guru Arjan Dev Nagar, Ludhiana, Punjab 141008",
+    "area": "Guru Arjan Dev Nagar",
+    "latitude": 30.947336999999997,
+    "longitude": 75.8279494,
+    "place_id": "ChIJeQcW5piFGjkRMSUoW-Qz0v0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQcW5piFGjkRMSUoW-Qz0v0",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:12"
+  },
+  {
+    "business_name": "Tourist Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "190024",
+    "phone_number": "+91 93681 29933",
+    "website": "http://www.touristsweets.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Railway Station Road, Jhanda Chowk, Kotdwar, Uttarakhand 246149",
+    "area": "Jhanda Chowk",
+    "latitude": 29.7436057,
+    "longitude": 78.5204297,
+    "place_id": "ChIJ5_R1WYd8CTkRHG9WFs2yuVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_R1WYd8CTkRHG9WFs2yuVU",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:13"
+  }
+]

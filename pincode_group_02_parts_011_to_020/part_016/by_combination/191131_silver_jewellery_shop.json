@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New jewellery point",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "191131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "90 Feet Rd, opposite Sama home appliances, pandach, Srinagar, Jammu and Kashmir 191131",
+    "area": "pandach",
+    "latitude": 34.195889699999995,
+    "longitude": 74.807143,
+    "place_id": "ChIJCXK5WA2F4TgRPd_Dg7Jtk70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXK5WA2F4TgRPd_Dg7Jtk70",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:47"
+  },
+  {
+    "business_name": "NS Gold and Copper",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "191131",
+    "phone_number": "+91 77808 77789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Old, Dr Ali Jan Rd, near old rashan ghat, Koker Bagh, Zunnamar, Srinagar, Jammu and Kashmir 190011",
+    "area": "Koker Bagh, Zunnamar",
+    "latitude": 34.1239771,
+    "longitude": 74.7988251,
+    "place_id": "ChIJ0Yc6RaWF4TgRXgBQ0ZH7ZZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Yc6RaWF4TgRXgBQ0ZH7ZZs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:48"
+  }
+]

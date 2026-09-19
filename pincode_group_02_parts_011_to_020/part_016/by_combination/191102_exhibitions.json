@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "World Trade Center Mumbai",
+    "search_category": "Exhibitions",
+    "primary_category": "Business center",
+    "all_categories": "Business center, Corporate office",
+    "pincode": "191102",
+    "phone_number": "+91 22 6638 7272",
+    "website": "https://www.wtcmumbai.org/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "31st Floor, Center 1 Building, Ganesh Murti Nagar, Cuffe Parade, Mumbai, Maharashtra 400005",
+    "area": "Ganesh Murti Nagar, Cuffe Parade",
+    "latitude": 18.914496099999997,
+    "longitude": 72.8174398,
+    "place_id": "ChIJbfqlUJHR5zsRB6098pOVG7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfqlUJHR5zsRB6098pOVG7w",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:50"
+  },
+  {
+    "business_name": "Vanita Vishram Art Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "191102",
+    "phone_number": "+91 261 230 0200",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Unnamed Road, Ram Nagar, Athwa Gate, Surat, Gujarat 395001",
+    "area": "Ram Nagar, Athwa Gate",
+    "latitude": 21.1841406,
+    "longitude": 72.8101274,
+    "place_id": "ChIJIao8gZlP4DsRgIGLe3Z-eEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIao8gZlP4DsRgIGLe3Z-eEs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:51"
+  }
+]

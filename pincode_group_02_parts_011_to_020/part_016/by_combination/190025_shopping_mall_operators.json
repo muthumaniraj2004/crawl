@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchkula Shopping Complex",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "190025",
+    "phone_number": "+91 94172 75242",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 783,
+    "address": "Panchkula Shopping Complex, Peer Muchalla Rd, Dhakoli, Zirakpur, Punjab 160104",
+    "area": "Dhakoli",
+    "latitude": 30.6541194,
+    "longitude": 76.850999,
+    "place_id": "ChIJGY52JeqUDzkR2OnYSOdlRMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGY52JeqUDzkR2OnYSOdlRMo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:26"
+  },
+  {
+    "business_name": "Simpark Mall, New market",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "190025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Lindsay St, near New Market, Esplanade, Dharmatala, Taltala, Kolkata, West Bengal 700087",
+    "area": "Esplanade, Dharmatala, Taltala",
+    "latitude": 22.5595607,
+    "longitude": 88.3528947,
+    "place_id": "ChIJNwM8nwh3AjoRgW2_qmksBE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwM8nwh3AjoRgW2_qmksBE8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:27"
+  }
+]

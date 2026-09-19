@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartikeya Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "190024",
+    "phone_number": "+91 98480 51353",
+    "website": "https://www.kartikeyachemicals.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2-2-47/A, Macharla Complex, Pan Bazar, Ranigunj, Secunderabad, Telangana 500003",
+    "area": "Pan Bazar, Old Gudi, Old Bhoiguda, Ranigunj",
+    "latitude": 17.4354594,
+    "longitude": 78.48939229999999,
+    "place_id": "ChIJP_kTyJObyzsR91EBhNAGeFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_kTyJObyzsR91EBhNAGeFw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:34"
+  },
+  {
+    "business_name": "Jamna Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier",
+    "pincode": "190024",
+    "phone_number": "+91 97523 94349",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Arjun Nagar, East Kamla Nagar, Ayodhya Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Arjun Nagar, East Kamla Nagar, Ayodhya Nagar",
+    "latitude": 23.2590664,
+    "longitude": 77.4717714,
+    "place_id": "ChIJU_zNNV1CfDkRcU_JdtDATXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_zNNV1CfDkRcU_JdtDATXo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:34"
+  }
+]

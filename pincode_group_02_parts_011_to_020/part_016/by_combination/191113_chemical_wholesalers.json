@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naik Agro Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "191113",
+    "phone_number": "+91 70061 92915",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "156pinglena, Pinglena, Jammu and Kashmir 192301",
+    "area": "156pinglena",
+    "latitude": 33.906844899999996,
+    "longitude": 74.92556259999999,
+    "place_id": "ChIJc8y5Aqr14TgREkBUw3-1P_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8y5Aqr14TgREkBUw3-1P_Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:24"
+  },
+  {
+    "business_name": "Beigh Agro Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "191113",
+    "phone_number": "N/A",
+    "website": "http://www.beighagrochemicals.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nowhar, Jammu and Kashmir 191113",
+    "area": "191113",
+    "latitude": 33.8931429,
+    "longitude": 74.7090022,
+    "place_id": "ChIJy9rGZwDt4TgRS4-_BZReKCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9rGZwDt4TgRS4-_BZReKCI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avila Towing & Transport",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "191132",
+    "phone_number": "N/A",
+    "website": "https://www.avilatowing.com/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "Avila Towing & Transport, 191132, India",
+    "area": "191132",
+    "latitude": 39.1249549,
+    "longitude": -77.144534,
+    "place_id": "ChIJRcHOuJtNt2sRd6xzYAi5Ybg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcHOuJtNt2sRd6xzYAi5Ybg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:36:55"
+  },
+  {
+    "business_name": "Wayne Tow Truck Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "191132",
+    "phone_number": "N/A",
+    "website": "https://www.waynetowtruck.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Wayne Tow Truck Services, 191132, India",
+    "area": "191132",
+    "latitude": 40.1245055,
+    "longitude": -75.355924,
+    "place_id": "ChIJGffKQ4ybMQIR347LMaByZE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGffKQ4ybMQIR347LMaByZE8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:36:55"
+  }
+]

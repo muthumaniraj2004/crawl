@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Auto",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "190024",
+    "phone_number": "+91 97609 67792",
+    "website": "http://www.honda2wheelersindia.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Badrinath Marg, Uffalda, Srinagar, Uttarakhand 246174",
+    "area": "Uffalda",
+    "latitude": 30.214100799999997,
+    "longitude": 78.7555817,
+    "place_id": "ChIJbwpIauWlCTkRpATOJjS3Okc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwpIauWlCTkRpATOJjS3Okc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:40"
+  },
+  {
+    "business_name": "Tirupti Automobiles",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "190024",
+    "phone_number": "+91 95751 25600",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 37,
+    "address": "5XW5+GR9, Bhawanipatna - Raipur Hwy, Arang, Baihar, Chhattisgarh 493441",
+    "area": "190024",
+    "latitude": 21.1962929,
+    "longitude": 81.9596213,
+    "place_id": "ChIJgyWQywW8KDoR3fywYnIikJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyWQywW8KDoR3fywYnIikJM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:42"
+  }
+]

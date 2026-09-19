@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hyderabad Mini Transport",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "191132",
+    "phone_number": "+91 98484 22399",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 41,
+    "address": "Shop 3, Swamy Yadav Complex, Plot-613, Tarapuri Colony, Laxma Reddy Palem, Pedda Amberpet, Hyderabad, Telangana 501505",
+    "area": "Tarapuri Colony, Laxma Reddy Palem",
+    "latitude": 17.320417499999998,
+    "longitude": 78.62107309999999,
+    "place_id": "ChIJKZWUMDagyzsRLQmuPh2-1PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZWUMDagyzsRLQmuPh2-1PA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:36:55"
+  },
+  {
+    "business_name": "TRUCKSAPP",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "191132",
+    "phone_number": "+91 98700 00239",
+    "website": "https://blog.trucksapp.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhaveshwar Plaza, Ground floor, Lal Bahadur Shastri Marg, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "area": "Gangawadi, Ghatkopar West",
+    "latitude": 19.092107,
+    "longitude": 72.910797,
+    "place_id": "ChIJ72E2lXPH5zsRT1Ibf0zCD-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72E2lXPH5zsRT1Ibf0zCD-o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:36:57"
+  }
+]

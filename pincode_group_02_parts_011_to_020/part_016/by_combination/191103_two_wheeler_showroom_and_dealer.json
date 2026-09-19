@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Motors",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motor scooter dealer",
+    "all_categories": "Motor scooter dealer",
+    "pincode": "191103",
+    "phone_number": "+91 77809 04291",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "near Astan, Jawbrara, Awantipora, Jammu and Kashmir 192122",
+    "area": "Jawbrara",
+    "latitude": 33.955345,
+    "longitude": 74.97852999999999,
+    "place_id": "ChIJxwAW4aUh4jgRrImXW7uwitA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwAW4aUh4jgRrImXW7uwitA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:33"
+  },
+  {
+    "business_name": "The Bike Hub",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Two Wheeler Repair Shop",
+    "pincode": "191103",
+    "phone_number": "+91 96825 98442",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Jawbrara, Awantipora, Srinagar, Jammu and Kashmir 192122",
+    "area": "Jawbrara",
+    "latitude": 33.9326205,
+    "longitude": 75.0013207,
+    "place_id": "ChIJH0_GIAAf4jgRLZPbjArMNeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0_GIAAf4jgRLZPbjArMNeA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:33"
+  }
+]

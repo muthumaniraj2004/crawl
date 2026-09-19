@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Hadware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Tool store, Hydraulic equipment supplier, Import export company, Industrial equipment supplier, Pneumatic tools supplier, Safety equipment supplier, Tool exporter, Tool manufacturer, Tools Wholesaler",
+    "pincode": "191102",
+    "phone_number": "+91 79 4256 3569",
+    "website": "https://www.besthardware.in/",
+    "rating": 4.7,
+    "reviews_count": 30,
+    "address": "Nagpada, Mastan Tank road, Ishabai chawl, Mumbai, Maharashtra 400008",
+    "area": "Nagpada",
+    "latitude": 18.9646035,
+    "longitude": 72.83000799999999,
+    "place_id": "ChIJj10ImeLP5zsRJyIZGh2s5lY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj10ImeLP5zsRJyIZGh2s5lY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:45"
+  },
+  {
+    "business_name": "Hardware City",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Construction equipment supplier, Fiberglass supplier, Material handling equipment supplier, Hydraulic equipment supplier, Importer, Wholesaler",
+    "pincode": "191102",
+    "phone_number": "+91 93257 74212",
+    "website": "http://www.hardwarecity.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hardware City, Unit no. 120, Kalyan - Badlapur Rd, Lakshmi Nagar, Housing Board Colony, Ambernath, Maharashtra 421505",
+    "area": "Lakshmi Nagar, Housing Board Colony",
+    "latitude": 19.2098533,
+    "longitude": 73.1935763,
+    "place_id": "ChIJDag_TBGT5zsRBJ_gUWNvuLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDag_TBGT5zsRBJ_gUWNvuLk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:47"
+  }
+]

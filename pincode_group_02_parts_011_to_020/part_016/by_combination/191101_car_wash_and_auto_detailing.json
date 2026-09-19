@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto mart Car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "191101",
+    "phone_number": "+91 70510 17776",
+    "website": "https://automart.com/",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Bharat Petroleum Rd, near bharar, Sem Pora, Srinagar, Jammu and Kashmir 191101",
+    "area": "Sem Pora",
+    "latitude": 34.0362325,
+    "longitude": 74.9081534,
+    "place_id": "ChIJt3ymfluJ4TgRET7AHxWM92Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3ymfluJ4TgRET7AHxWM92Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:23:04"
+  },
+  {
+    "business_name": "City Gate Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "191101",
+    "phone_number": "+91 70067 87773",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "Pantha Chowk, Srinagar, Jammu and Kashmir 191101",
+    "area": "Pantha Chowk",
+    "latitude": 34.0390125,
+    "longitude": 74.88697429999999,
+    "place_id": "ChIJsYJe4NyJ4TgRmoq-tVz494M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsYJe4NyJ4TgRmoq-tVz494M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:23:05"
+  }
+]

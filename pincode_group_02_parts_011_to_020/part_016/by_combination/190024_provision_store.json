@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bilal Provisional Store",
+    "search_category": "Provision Store",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, General store",
+    "pincode": "190024",
+    "phone_number": "+91 70067 08093",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "5RFR+F59 Bilal Provision Store, Hazratbal Rd, Syedpora Humchi, Srinagar, Jammu and Kashmir 190006",
+    "area": "Syedpora Humchi",
+    "latitude": 34.1724737,
+    "longitude": 74.8426142,
+    "place_id": "ChIJl78_-2OF4TgRhzLCyPVS2oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl78_-2OF4TgRhzLCyPVS2oc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:06"
+  },
+  {
+    "business_name": "Sri Guru Raghavendra Stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190024",
+    "phone_number": "+91 98454 33308",
+    "website": "https://site.dgtechsoln.com/sri-guru-raghavendra-stores/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "87, Gandhi Bazaar Main Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+    "area": "Gandhi Bazaar, Basavanagudi",
+    "latitude": 12.9473123,
+    "longitude": 77.5685894,
+    "place_id": "ChIJM_1zLBkVrjsRFaWm4_vcnRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_1zLBkVrjsRFaWm4_vcnRw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:08"
+  }
+]

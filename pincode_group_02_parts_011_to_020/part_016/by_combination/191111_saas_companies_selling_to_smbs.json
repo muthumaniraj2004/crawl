@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Summit Software Solutions",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "191111",
+    "phone_number": "N/A",
+    "website": "https://www.summitsoftwarellc.com/contact.html",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "840 Wilde Ave, Drexel Hill, PA 19026, United States",
+    "area": "191111",
+    "latitude": 39.952212599999996,
+    "longitude": -75.31176789999999,
+    "place_id": "ChIJVVVhXpHBxokRndEf5pK4A9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVhXpHBxokRndEf5pK4A9U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:29:18"
+  },
+  {
+    "business_name": "Side Technology Inc",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "191111",
+    "phone_number": "N/A",
+    "website": "https://sidetechnology.com/contact-us/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4631 Horrocks St, Philadelphia, PA 19124, United States",
+    "area": "Frankford",
+    "latitude": 40.018392,
+    "longitude": -75.09060699999999,
+    "place_id": "ChIJ41wXnES2xokRqMfDKGjFcpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41wXnES2xokRqMfDKGjFcpI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:29:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LiveActive - Shivaji Park",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Rehabilitation center",
+    "pincode": "190023",
+    "phone_number": "+91 75060 40780",
+    "website": "https://www.liveactive.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jai Kutir, 1, Taikalwadi, Joshi Vadi, Matunga West, Mumbai, Maharashtra 400016",
+    "area": "Joshi Vadi, Matunga West",
+    "latitude": 19.0293124,
+    "longitude": 72.8426147,
+    "place_id": "ChIJFy_Ro9HO5zsRF6skKnRuL-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFy_Ro9HO5zsRF6skKnRuL-g",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:17:54"
+  },
+  {
+    "business_name": "Alexa Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "190023",
+    "phone_number": "+91 62894 32824",
+    "website": "https://www.alexahealthcare.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Snehodiya, Street No 165, BC Block, Newtown, Action Area I, Kolkata, West Bengal 700156",
+    "area": "Action Area I, Newtown",
+    "latitude": 22.5821252,
+    "longitude": 88.4666182,
+    "place_id": "ChIJF0wn56B1AjoRHCWtt1HZ788",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0wn56B1AjoRHCWtt1HZ788",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:17:54"
+  }
+]

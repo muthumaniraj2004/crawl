@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen Food Distributor",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "191101",
+    "phone_number": "+91 80 4710 4444",
+    "website": "https://www.chfmart.com/",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "House No.10, Rupali Path, RG Baruah Rd, Guwahati, Assam 781024",
+    "area": "Nabin Nagar",
+    "latitude": 26.1687019,
+    "longitude": 91.77759909999999,
+    "place_id": "ChIJm8FoS-VZWjcRyMurbDo1mmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8FoS-VZWjcRyMurbDo1mmo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:36"
+  },
+  {
+    "business_name": "IZ multi ventures company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Skindarpora, Karapura Pain, Karapura, Rainawari, Srinagar, Jammu and Kashmir 190003",
+    "area": "Karapura Pain, Karapura, Rainawari",
+    "latitude": 34.0953008,
+    "longitude": 74.8331674,
+    "place_id": "ChIJU-mqKD-F4TgRMlxIdAiLxWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-mqKD-F4TgRMlxIdAiLxWs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khanday gernal store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Srinagar, 190006",
+    "area": "190024",
+    "latitude": 34.1792681,
+    "longitude": 74.83499739999999,
+    "place_id": "ChIJ4UJGOgCD4TgRhWj0HPEXpeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UJGOgCD4TgRhWj0HPEXpeo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:10"
+  },
+  {
+    "business_name": "Daily Uses General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "190024",
+    "phone_number": "+91 95416 62035",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2, 90 Feet Rd, Ahmad Nagar, Srinagar, Jammu and Kashmir 190011",
+    "area": "Ahmad Nagar",
+    "latitude": 34.1703605,
+    "longitude": 74.8102162,
+    "place_id": "ChIJncyv66KF4TgRejQ9LLG-1lM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncyv66KF4TgRejQ9LLG-1lM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:12"
+  }
+]

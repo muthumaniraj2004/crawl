@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sardar Ji Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "190024",
+    "phone_number": "+91 97202 91365",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Sardar Ji Optical, Patel Marg, Kotdwar, Uttarakhand 246149",
+    "area": "190024",
+    "latitude": 29.7459879,
+    "longitude": 78.5191904,
+    "place_id": "ChIJRc6_Rvl9CTkRgu2ztFxLeu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRc6_Rvl9CTkRgu2ztFxLeu4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:28"
+  },
+  {
+    "business_name": "Vision Optics",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "190024",
+    "phone_number": "+91 91498 15164",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Hazratbal Rd, Syedpora Humchi, Srinagar, Jammu and Kashmir 190006",
+    "area": "Syedpora Humchi",
+    "latitude": 34.1739871,
+    "longitude": 74.84198119999999,
+    "place_id": "ChIJi7tgXMyF4TgRDirajRGcXHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7tgXMyF4TgRDirajRGcXHg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:19:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Hub",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "191101",
+    "phone_number": "+91 60058 00825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "No 3, Syed Rehamnia, Nishat Brein Link Rd, Srinagar, Jammu and Kashmir 191121",
+    "area": "191101",
+    "latitude": 34.1137981,
+    "longitude": 74.8845297,
+    "place_id": "ChIJCUzAdHaH4TgRe_ClQ0OmiBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUzAdHaH4TgRe_ClQ0OmiBA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:45"
+  },
+  {
+    "business_name": "Urban Vogue",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "191101",
+    "phone_number": "+91 96228 68188",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 71,
+    "address": "Banpora, Ladhu, Srinagar, Jammu and Kashmir 191103",
+    "area": "Banpora",
+    "latitude": 33.9988473,
+    "longitude": 74.9892406,
+    "place_id": "ChIJM1a0qWYh4jgRKpXyj6czh_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1a0qWYh4jgRKpXyj6czh_s",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:46"
+  }
+]

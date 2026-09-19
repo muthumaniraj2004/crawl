@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Try Ganderbal",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, Driver's license office",
+    "pincode": "191131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harran - Gadoora Rd, 191131",
+    "area": "191131",
+    "latitude": 34.182409899999996,
+    "longitude": 74.77481809999999,
+    "place_id": "ChIJm4dxRFWd4TgRY01Wacd7eOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4dxRFWd4TgRY01Wacd7eOo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:35:11"
+  },
+  {
+    "business_name": "Bismillah Driving Institute",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "191131",
+    "phone_number": "+91 99068 98637",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "Manigam - Dursuma Rd, Ganderbal, Jammu and Kashmir 191201",
+    "area": "191131",
+    "latitude": 34.278804,
+    "longitude": 74.8079029,
+    "place_id": "ChIJ02Qg2nx54TgRTatCSBJViEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02Qg2nx54TgRTatCSBJViEk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:35:12"
+  }
+]

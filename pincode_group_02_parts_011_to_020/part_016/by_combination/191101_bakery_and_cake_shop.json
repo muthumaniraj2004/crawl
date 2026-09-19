@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sofi bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near zewan crossing, Pantha Chowk, Srinagar, Jammu and Kashmir 191101",
+    "area": "Pantha Chowk",
+    "latitude": 34.0392594,
+    "longitude": 74.8859232,
+    "place_id": "ChIJnTn-6GeJ4TgRQuJMGuqHqOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTn-6GeJ4TgRQuJMGuqHqOc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:36"
+  },
+  {
+    "business_name": "Alamdar Bakery Khonmoh",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Khanmo Road, Srinagar, Khanmo, Jammu and Kashmir 191101",
+    "area": "191101",
+    "latitude": 34.0576182,
+    "longitude": 74.9530545,
+    "place_id": "ChIJc2tNU56J4TgRjUrZgmeRTVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2tNU56J4TgRjUrZgmeRTVo",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:36"
+  }
+]

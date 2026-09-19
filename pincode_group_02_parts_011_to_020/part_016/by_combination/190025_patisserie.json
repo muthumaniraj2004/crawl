@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vie En Patisserie & Cafe",
+    "search_category": "Patisserie",
+    "primary_category": "Patisserie",
+    "all_categories": "Patisserie, Bakery and Cake Shop, Cafe, Coffee shop, Dessert shop",
+    "pincode": "190025",
+    "phone_number": "+91 72065 00839",
+    "website": "https://www.instagram.com/vieenpatisserie",
+    "rating": 4.8,
+    "reviews_count": 97,
+    "address": "1st Floor, Mansa Devi Complex, SCO 52, Sector 5, Panchkula, Haryana 134114",
+    "area": "Sector 5",
+    "latitude": 30.7141161,
+    "longitude": 76.8486267,
+    "place_id": "ChIJM7GxuM-TDzkR5BFQeudrRHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7GxuM-TDzkR5BFQeudrRHM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:57"
+  },
+  {
+    "business_name": "Forennte Patisserie",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Cafe",
+    "pincode": "190025",
+    "phone_number": "+91 88018 15555",
+    "website": "https://forennte-patisserie.godirekt.in/spark/app/#/mainpage",
+    "rating": 4.5,
+    "reviews_count": 1185,
+    "address": "Shop 1, 2, Lane No. 8, Ashok Chakra Society, Meera Nagar, Koregaon Park, Pune, Maharashtra 411001",
+    "area": "Ashok Chakra Society, Meera Nagar, Koregaon Park",
+    "latitude": 18.536369099999998,
+    "longitude": 73.8993588,
+    "place_id": "ChIJ2x8WywfBwjsRn15D3TpBKsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2x8WywfBwjsRn15D3TpBKsk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:57"
+  }
+]

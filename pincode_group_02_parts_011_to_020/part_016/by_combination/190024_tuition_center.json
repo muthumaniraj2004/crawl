@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tuition Class",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service",
+    "pincode": "190024",
+    "phone_number": "+91 70460 05524",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "C56, opposite Chanakya hall, Bhagyoday Society, Vibhavari Society, Jivraj Park, Ahmedabad, Gujarat 380051",
+    "area": "Bhagyoday Society, Vibhavari Society, Jivraj Park",
+    "latitude": 23.0037263,
+    "longitude": 72.5331719,
+    "place_id": "ChIJPdnunCWFXjkRuYnJ8497YLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdnunCWFXjkRuYnJ8497YLw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:16"
+  },
+  {
+    "business_name": "SHAH TUITION CENTRE",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "190024",
+    "phone_number": "+91 96501 59557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "zakura, Srinagar, Jammu and Kashmir 190006",
+    "area": "zakura",
+    "latitude": 34.1583505,
+    "longitude": 74.832798,
+    "place_id": "ChIJSd6f0FqF4TgRqL6FiutkIEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSd6f0FqF4TgRqL6FiutkIEg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:16"
+  }
+]

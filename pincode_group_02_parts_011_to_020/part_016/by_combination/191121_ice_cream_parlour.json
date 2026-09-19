@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Freezing Point Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "191121",
+    "phone_number": "+91 99603 27950",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 1499,
+    "address": "Shop no-6, SWAPNA NAGARI BUILDING, west, near D-Mart, Godrej Hill, Khadakpada, Kalyan, Maharashtra 421301",
+    "area": "Godrej Hill, Khadakpada",
+    "latitude": 19.260070799999998,
+    "longitude": 73.142329,
+    "place_id": "ChIJn1ofXo-W5zsRp0SCeIwXg3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1ofXo-W5zsRp0SCeIwXg3c",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:55"
+  },
+  {
+    "business_name": "Babloo Softy Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "191121",
+    "phone_number": "+91 97967 41380",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 55,
+    "address": "Syed Rehman Bazaar, Brein, Srinagar, Jammu and Kashmir 191121",
+    "area": "Brein",
+    "latitude": 34.113507999999996,
+    "longitude": 74.884468,
+    "place_id": "ChIJY2uw6Q2G4TgR2FvNdQ9L6Zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2uw6Q2G4TgR2FvNdQ9L6Zk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:55"
+  }
+]

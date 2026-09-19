@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dawood Provisional Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "191103",
+    "phone_number": "+91 95411 99113",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shar, near Masjid Sharif, Shar Shali, Srinagar, Jammu and Kashmir 191103",
+    "area": "191103",
+    "latitude": 34.0122421,
+    "longitude": 75.00856859999999,
+    "place_id": "ChIJsbXEpJ8h4jgR7lXXvn-OwhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbXEpJ8h4jgR7lXXvn-OwhE",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:59"
+  },
+  {
+    "business_name": "ONE STOP GROCERY",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "191103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Iqbal Colony Awantipora, Awantipora, Jammu and Kashmir 192122",
+    "area": "191103",
+    "latitude": 33.9150828,
+    "longitude": 75.0201412,
+    "place_id": "ChIJL4aRHZsf4jgR5nNqozeVp-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4aRHZsf4jgR5nNqozeVp-U",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:00"
+  }
+]

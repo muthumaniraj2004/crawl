@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Countryside Resorts",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "191112",
+    "phone_number": "N/A",
+    "website": "https://thecountrysideresorts.com/aharbal",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "MQ3P+79V Picnic Park, Aharbal, Forest Block, Jammu and Kashmir 192233",
+    "area": "191112",
+    "latitude": 33.6531759,
+    "longitude": 74.7870405,
+    "place_id": "ChIJGd8CfAD74TgRyzPbmeg7aiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGd8CfAD74TgRyzPbmeg7aiI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:30:21"
+  },
+  {
+    "business_name": "Whispering valley lake view cottage.(free wifi)",
+    "search_category": "Resort",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "191112",
+    "phone_number": "+91 97975 15114",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 101,
+    "address": "road, Chadoora, Sona Bugh, Jammu and Kashmir 191113",
+    "area": "191112",
+    "latitude": 33.949164599999996,
+    "longitude": 74.8021195,
+    "place_id": "ChIJ99huZtHr4TgRzHs3pRQnsMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99huZtHr4TgRzHs3pRQnsMs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:30:21"
+  }
+]

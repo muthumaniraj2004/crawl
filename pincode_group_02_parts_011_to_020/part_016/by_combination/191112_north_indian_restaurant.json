@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beta waza Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant, Restaurant",
+    "pincode": "191112",
+    "phone_number": "+91 70063 08481",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 21,
+    "address": "XV43+W3, Kuzwaira, Jammu and Kashmir 191113",
+    "area": "191112",
+    "latitude": 33.957338799999995,
+    "longitude": 74.8527282,
+    "place_id": "ChIJb4FkPACN4TgRCi8ejq5n_zI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4FkPACN4TgRCi8ejq5n_zI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:29:32"
+  },
+  {
+    "business_name": "Kashmir Haji sahab",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant",
+    "pincode": "191112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQHP+H7G, Roumet, Jammu and Kashmir 191112",
+    "area": "191112",
+    "latitude": 33.8289263,
+    "longitude": 74.7857004,
+    "place_id": "ChIJJ_oxTwDz4TgRXLcdv5mraKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_oxTwDz4TgRXLcdv5mraKQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:29:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Wedding Vogue",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Wedding service",
+    "pincode": "190025",
+    "phone_number": "+91 98103 63613",
+    "website": "http://www.theweddingvogue.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "SF2, Khasra No-405, 2nd Floor, SR Estates, 120-121, Mehrauli-Gurgaon Rd, near Hanuman Mandir, opp. Metro Pillar No, Ghitorni, New Delhi, Delhi 110030",
+    "area": "Ghitorni",
+    "latitude": 28.492453599999997,
+    "longitude": 77.1451214,
+    "place_id": "ChIJJU2_957jDDkRjbpoAD-p_WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJU2_957jDDkRjbpoAD-p_WQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:46"
+  },
+  {
+    "business_name": "Hriday & Co.",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Flower designer, Restaurant supply store, Wedding photographer, Wedding service, Wedding venue",
+    "pincode": "190025",
+    "phone_number": "+91 98151 98041",
+    "website": "https://weddingsbyhriday.in/",
+    "rating": 4.7,
+    "reviews_count": 56,
+    "address": "golden valley, 1, Loharka Rd, near Imperial City, near bijli Ghar, Murad Pura, Amritsar, Miran Kot Khurd, Punjab 143001",
+    "area": "Murad Pura",
+    "latitude": 31.688522199999998,
+    "longitude": 74.86590009999999,
+    "place_id": "ChIJn9GmqX9jGTkRH0I0RcJ5CYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9GmqX9jGTkRH0I0RcJ5CYw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:48"
+  }
+]

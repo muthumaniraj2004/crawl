@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROZHAN",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "191131",
+    "phone_number": "+91 95960 03356",
+    "website": "http://therozhan.github.io/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dangerpora, ganderbal, Jammu and Kashmir 191131",
+    "area": "191131",
+    "latitude": 34.2358561,
+    "longitude": 74.74580999999999,
+    "place_id": "ChIJ1XDq2pKd4TgRcQY0ASSAmkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XDq2pKd4TgRcQY0ASSAmkg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:47"
+  },
+  {
+    "business_name": "Fashion star",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Cosmetics store, Women's clothing store",
+    "pincode": "191131",
+    "phone_number": "+91 90182 28867",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Towheed chowk, Duderhama Ganderbal Bridge, Ganderbal, Jammu and Kashmir 191131",
+    "area": "191131",
+    "latitude": 34.2125062,
+    "longitude": 74.7678103,
+    "place_id": "ChIJhQJ-9Jid4TgRnegC9WFK87o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQJ-9Jid4TgRnegC9WFK87o",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:47"
+  }
+]

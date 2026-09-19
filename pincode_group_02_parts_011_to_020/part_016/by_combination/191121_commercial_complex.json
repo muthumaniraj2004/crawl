@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khatija complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "191121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Said Pora Bala, Jammu and Kashmir 191121",
+    "area": "191121",
+    "latitude": 34.172937499999996,
+    "longitude": 74.8933125,
+    "place_id": "ChIJTTtms-KH4TgRuuteVhBjEuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTtms-KH4TgRuuteVhBjEuM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:26"
+  },
+  {
+    "business_name": "Kohimaran Travels",
+    "search_category": "Commercial Complex",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Bus tour agency, Car leasing service, Houseboat rental service, Kashmiri restaurant, Local history museum, Sightseeing Tour Operator, Tourist information center, Travel agency",
+    "pincode": "191121",
+    "phone_number": "+91 99064 07130",
+    "website": "http://www.kashmirtourismtours.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Room No 10, Boulevard Shopping Complex, Boulevard Rd, Rainawari, Srinagar, Jammu and Kashmir 191121",
+    "area": "Rainawari",
+    "latitude": 34.0920699,
+    "longitude": 74.8679854,
+    "place_id": "ChIJ9a-ieVaP4TgRLPDSd1jtO14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a-ieVaP4TgRLPDSd1jtO14",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:29"
+  }
+]

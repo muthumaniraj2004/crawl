@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "zakir smart looks",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "191101",
+    "phone_number": "+91 99067 04374",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4, Lambert Lane, Munshi Bagh, Srinagar, Jammu and Kashmir 190001",
+    "area": "Munshi Bagh",
+    "latitude": 34.071455799999995,
+    "longitude": 74.8169679,
+    "place_id": "ChIJpRg-BteP4TgRhIjFABqAaFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRg-BteP4TgRhIjFABqAaFA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:53"
+  },
+  {
+    "business_name": "Fashion Club",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing store",
+    "pincode": "191101",
+    "phone_number": "+91 95961 37544",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khanmo Road, Pantha Chowk, Ari Pora, Srinagar, Jammu and Kashmir 191101",
+    "area": "Pantha Chowk",
+    "latitude": 34.0402767,
+    "longitude": 74.8963828,
+    "place_id": "ChIJJ40drIaJ4TgRek2hthxNbiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ40drIaJ4TgRek2hthxNbiA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:54"
+  }
+]

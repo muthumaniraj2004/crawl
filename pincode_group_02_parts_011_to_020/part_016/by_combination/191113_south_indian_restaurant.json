@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KOFFEE DAY",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Coffee shop, Dinner theater, Lunch restaurant",
+    "pincode": "191113",
+    "phone_number": "+91 96228 00535",
+    "website": "https://www.koffeeday.com/",
+    "rating": 4.2,
+    "reviews_count": 303,
+    "address": "VVCV+JRP, Pulwama-Srinagar Rd, Pulwama, Jammu and Kashmir 192301",
+    "area": "191113",
+    "latitude": 33.876776899999996,
+    "longitude": 74.9001959,
+    "place_id": "ChIJ1bwvWV704TgRZx2fE9gt_tI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bwvWV704TgRZx2fE9gt_tI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:31:08"
+  },
+  {
+    "business_name": "WELTHERM HOME APPLIANCES PVT LTD",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Service establishment",
+    "pincode": "191113",
+    "phone_number": "N/A",
+    "website": "https://www.weltherm.com/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "WELTHERM HOME APPLIANCES PVT LTD, 191113, India",
+    "area": "191113",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ61mm9aSP4TgRTDd_Rg778Kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61mm9aSP4TgRTDd_Rg778Kw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:31:08"
+  }
+]

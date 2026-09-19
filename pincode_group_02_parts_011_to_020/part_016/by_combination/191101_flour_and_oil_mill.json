@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asian Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Goalpara, Assam 783101",
+    "area": "191101",
+    "latitude": 26.147548,
+    "longitude": 90.6320324,
+    "place_id": "ChIJL6tkYXCzWTcRi-h9aKPc1zY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6tkYXCzWTcRi-h9aKPc1zY",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:24:03"
+  },
+  {
+    "business_name": "OM GANESHGURI (THE ONLY MILLS)",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "Janaki Path, RG Baruah Rd, Ganeshguri, Guwahati, Assam 781006",
+    "area": "Ganeshguri",
+    "latitude": 26.1505656,
+    "longitude": 91.7852111,
+    "place_id": "ChIJm7shzDlZWjcRuvPaGcneqOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7shzDlZWjcRuvPaGcneqOI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:24:03"
+  }
+]

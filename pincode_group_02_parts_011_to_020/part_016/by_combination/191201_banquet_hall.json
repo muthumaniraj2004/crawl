@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marriage Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "191201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7RH6+QV4, Manigam - Dursuma Rd, Durpora, 191201",
+    "area": "191201",
+    "latitude": 34.279378099999995,
+    "longitude": 74.8122047,
+    "place_id": "ChIJ95iWBGN54TgRII9mMyuM3hQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95iWBGN54TgRII9mMyuM3hQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:38:54"
+  },
+  {
+    "business_name": "Harran Community Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "191201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 13,
+    "address": "191131",
+    "area": "191201",
+    "latitude": 34.1891213,
+    "longitude": 74.760493,
+    "place_id": "ChIJR-s_fL-c4TgRYwUigEVDZJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-s_fL-c4TgRYwUigEVDZJQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:38:56"
+  }
+]

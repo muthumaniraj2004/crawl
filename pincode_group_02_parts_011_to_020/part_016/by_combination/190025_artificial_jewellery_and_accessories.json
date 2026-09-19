@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion jewellery",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "190025",
+    "phone_number": "+91 88619 62801",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 82,
+    "address": "Venkataranga Iyengar road Malleswaram #361, 10th cross, Sampige Rd, Bengaluru, Karnataka 560003",
+    "area": "Yalappa Garden, Malleshwaram",
+    "latitude": 13.000719499999999,
+    "longitude": 77.5714471,
+    "place_id": "ChIJCWsWOEIXrjsRHA-gwxiemvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWsWOEIXrjsRHA-gwxiemvg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:09"
+  },
+  {
+    "business_name": "Arabi jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry designer",
+    "pincode": "190025",
+    "phone_number": "+91 70061 31041",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tailbal, dangerpora, Srinagar, Jammu and Kashmir 190006",
+    "area": "Tailbal, dangerpora",
+    "latitude": 34.1579549,
+    "longitude": 74.8708592,
+    "place_id": "ChIJw37JOhyF4TgRAZv2TJMSioc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw37JOhyF4TgRAZv2TJMSioc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:10"
+  }
+]

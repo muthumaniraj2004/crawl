@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More Supermarket - Shad Nagar",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Discount supermarket, Gourmet grocery store, Grocery delivery service",
+    "pincode": "191101",
+    "phone_number": "+91 81081 38000",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ground Floor, D No. 1-109, Sy No. 200/P,Near SBH Bank Main Branch, Kareem Colony Old, NH 44, Shadnagar, 509216",
+    "area": "191101",
+    "latitude": 34.040054999999995,
+    "longitude": 74.8779188,
+    "place_id": "ChIJ5ZF5tC-J4TgRvaRwUdJblgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZF5tC-J4TgRvaRwUdJblgM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:29"
+  },
+  {
+    "business_name": "Kattegat's BIG BACHAT BAZAR",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "191101",
+    "phone_number": "+91 91498 71179",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "National Highway ATHWAJAN NH1, Athwajan Srinagar kashmir, Jammu and Kashmir 191101",
+    "area": "Athwajan",
+    "latitude": 34.0423502,
+    "longitude": 74.87340879999999,
+    "place_id": "ChIJ8dE_UWWP4TgRLfd2JNNjoDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dE_UWWP4TgRLfd2JNNjoDw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:29"
+  }
+]

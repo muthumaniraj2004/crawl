@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salon - Hawwa Professional",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "190025",
+    "phone_number": "+91 90553 23011",
+    "website": "http://hawwaprofessional.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Chandpora harwan, Srinagar, Jammu and Kashmir 191121",
+    "area": "Chandpora harwan",
+    "latitude": 34.1557561,
+    "longitude": 74.8885828,
+    "place_id": "ChIJ67WJXJeH4TgRqQmTLeyvzqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67WJXJeH4TgRqQmTLeyvzqg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:40"
+  },
+  {
+    "business_name": "Kussh Sidana Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Hairdresser, Make-up artist",
+    "pincode": "190025",
+    "phone_number": "+91 82873 34224",
+    "website": "https://www.instagram.com/crownedbykush/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "14, Engineers Enclave, Harsh Vihar, Pitampura, Delhi, 110034",
+    "area": "Engineers Enclave, Harsh Vihar, Pitampura",
+    "latitude": 28.696232,
+    "longitude": 77.1339921,
+    "place_id": "ChIJEYBVtq8DDTkRR6-3mWuAF-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYBVtq8DDTkRR6-3mWuAF-Q",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:21:41"
+  }
+]

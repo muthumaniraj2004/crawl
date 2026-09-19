@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj fresh juice centre mojito and milkshake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "191132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shri Sankul Apartment, Kalyan East, Chinchpada Gaon, Kalyan, Maharashtra 421306",
+    "area": "Kalyan East, Chinchpada Gaon",
+    "latitude": 19.207786499999997,
+    "longitude": 73.134145,
+    "place_id": "ChIJZyJxaACV5zsR7YsqJFh6qGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyJxaACV5zsR7YsqJFh6qGc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:36:22"
+  },
+  {
+    "business_name": "JUICEKART",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop, Juice shop",
+    "pincode": "191132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3/ Shivkrupa CHS, Shiv Mandir Road, Near Kotak Mahindra Bank, Dombivli, Maharashtra 421201",
+    "area": "Dombivli, Ramnagar, Dombivli East",
+    "latitude": 19.215366,
+    "longitude": 73.087288,
+    "place_id": "ChIJyTTtoyC-5zsRKqSGOfcjM_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTTtoyC-5zsRKqSGOfcjM_c",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:36:24"
+  }
+]

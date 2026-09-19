@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Cosmos Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing Accessories Store, Fast food restaurant, Hypermarket, Market, Perfume store, Restaurant",
+    "pincode": "190024",
+    "phone_number": "+91 562 406 1189",
+    "website": "http://ashokcosmosmall.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "119/8-120, 8, Wazirpura Rd, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Palace, Sanjay Place, Civil Lines",
+    "latitude": 27.2010588,
+    "longitude": 78.0086231,
+    "place_id": "ChIJBdaPokh3dDkRp3lP_6klrb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdaPokh3dDkRp3lP_6klrb8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:45"
+  },
+  {
+    "business_name": "Phoenix United Mall, Lucknow, U.P.",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "190024",
+    "phone_number": "N/A",
+    "website": "http://www.phoenixunitedlucknow.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kanpur Rd, Sector B, Bargawan, Alambagh, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector B, Bargawan, Alambagh",
+    "latitude": 26.798402799999998,
+    "longitude": 80.89713789999999,
+    "place_id": "ChIJUQR0xKf-mzkRTw4z9a4oj7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQR0xKf-mzkRTw4z9a4oj7M",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:20:45"
+  }
+]

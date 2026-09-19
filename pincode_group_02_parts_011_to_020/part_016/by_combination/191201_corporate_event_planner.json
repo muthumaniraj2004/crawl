@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rocket Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Audiovisual equipment rental service, Entertainment agency, Event planner, Wedding planner",
+    "pincode": "191201",
+    "phone_number": "+91 99861 48811",
+    "website": "http://www.rocketevents.in/",
+    "rating": 4.8,
+    "reviews_count": 123,
+    "address": "No 94, 7th Main Road Behind BM Habitat Mall, Mysuru, Karnataka 570012",
+    "area": "3rd Block, Jayalakshmipuram",
+    "latitude": 12.3216433,
+    "longitude": 76.62008159999999,
+    "place_id": "ChIJUScGwACvJzoRH49EoYgbVN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUScGwACvJzoRH49EoYgbVN8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:39:03"
+  },
+  {
+    "business_name": "Creative Solution",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Conference center, Event management company, Event venue, Party planner",
+    "pincode": "191201",
+    "phone_number": "+91 75065 49980",
+    "website": "http://www.creativesolutionevents.com/",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "25, 53, Mahatma Gandhi Marg, near Subhash Chowraha Petrol Pump, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4501143,
+    "longitude": 81.83382809999999,
+    "place_id": "ChIJrzru-sLKmjkRD0gMrSXkeJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzru-sLKmjkRD0gMrSXkeJk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:39:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian foods",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer, Service establishment",
+    "pincode": "191131",
+    "phone_number": "+91 70062 32185",
+    "website": "https://khanbrotherstourandtravels.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "South Indian foods, 191131, India",
+    "area": "191131",
+    "latitude": 34.190588,
+    "longitude": 75.06044659999999,
+    "place_id": "ChIJ47DaU27blAcRhXyFGzethT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47DaU27blAcRhXyFGzethT8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:42"
+  },
+  {
+    "business_name": "JUGRAN'S RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant",
+    "pincode": "191131",
+    "phone_number": "+91 95576 22620",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 264,
+    "address": "NH-07, Badrinath Marg, beside SBI main branch Public Works Department, Srinagar, Uttarakhand 246174",
+    "area": "191131",
+    "latitude": 30.220899099999997,
+    "longitude": 78.79120309999999,
+    "place_id": "ChIJRYc29IKlCTkRPQF2phNr6bM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYc29IKlCTkRPQF2phNr6bM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:34:42"
+  }
+]

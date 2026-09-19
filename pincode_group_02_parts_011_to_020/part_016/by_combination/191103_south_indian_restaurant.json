@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swad E India Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "191103",
+    "phone_number": "+91 97979 73500",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "10, opposite Yatri Bawan, Sangam, Jammu and Kashmir 192124",
+    "area": "191103",
+    "latitude": 33.8340252,
+    "longitude": 75.0688254,
+    "place_id": "ChIJb2pdgBUb4jgRJxeirBUOWlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2pdgBUb4jgRJxeirBUOWlM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:09"
+  },
+  {
+    "business_name": "Divine Kesar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "191103",
+    "phone_number": "+91 78899 47320",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "National Highway Lethpora, Barsoo, Awantipora, Jammu and Kashmir 192122",
+    "area": "191103",
+    "latitude": 33.953452299999995,
+    "longitude": 74.9833792,
+    "place_id": "ChIJKUEzyC-L4TgRwwRpaRthp94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUEzyC-L4TgRwwRpaRthp94",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:26:11"
+  }
+]

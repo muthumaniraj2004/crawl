@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SaM Solutions",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Corporate office",
+    "pincode": "191102",
+    "phone_number": "N/A",
+    "website": "https://sam-solutions.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "83 Morse St Bldg 6, Norwood, MA 02062, United States",
+    "area": "191102",
+    "latitude": 42.1716407,
+    "longitude": -71.2060006,
+    "place_id": "ChIJW6dyF-9_5IkRZYQeJ_aLhJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6dyF-9_5IkRZYQeJ_aLhJ4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:54"
+  },
+  {
+    "business_name": "sa hosted",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "191102",
+    "phone_number": "N/A",
+    "website": "http://sahosted.com/contact.asp",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3930 Commerce Ave, Willow Grove, PA 19090, United States",
+    "area": "191102",
+    "latitude": 40.162262999999996,
+    "longitude": -75.13215699999999,
+    "place_id": "ChIJtSkRaeevxokRXtpK1qHsccs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSkRaeevxokRXtpK1qHsccs",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:25:55"
+  }
+]

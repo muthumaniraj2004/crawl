@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arabain Fast Food and Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "191201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Jammu and 191201, Srinagar - Leh Hwy, 191201",
+    "area": "191201",
+    "latitude": 34.278471599999996,
+    "longitude": 74.80694419999999,
+    "place_id": "ChIJAaHhcgB54TgRrUGurhvHkdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaHhcgB54TgRrUGurhvHkdA",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:38:11"
+  },
+  {
+    "business_name": "Jumeirah Cafe & Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "191201",
+    "phone_number": "+91 96227 34358",
+    "website": "https://jumeirahcafeandrestaurant.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "sbi india, Kangan - Kunmulla Rd, Kangan, Jammu and Kashmir 191202",
+    "area": "191201",
+    "latitude": 34.2625761,
+    "longitude": 74.9040097,
+    "place_id": "ChIJg5nC-W6B4TgRT8V9pvyYt0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5nC-W6B4TgRT8V9pvyYt0E",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:38:11"
+  }
+]

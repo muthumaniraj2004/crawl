@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Emmanuel Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Commercial agent",
+    "pincode": "190023",
+    "phone_number": "N/A",
+    "website": "http://www.emmanuelins.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "516 N Bethlehem Pike, Lower Gwynedd Township, PA 19002, United States",
+    "area": "190023",
+    "latitude": 40.1718167,
+    "longitude": -75.2235089,
+    "place_id": "ChIJxe0xFte8xokR2rqwJj9LxFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxe0xFte8xokR2rqwJj9LxFg",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:18:43"
+  },
+  {
+    "business_name": "Sablich Insurance Group",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "190023",
+    "phone_number": "N/A",
+    "website": "http://sablichinsurance.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "300 Brookside Ave Bldg 4, Ste 125, Ambler, PA 19002, United States",
+    "area": "190023",
+    "latitude": 40.1609437,
+    "longitude": -75.2324364,
+    "place_id": "ChIJsZnMkZXqUQsR8Oz-y3YEpbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZnMkZXqUQsR8Oz-y3YEpbk",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:18:43"
+  }
+]

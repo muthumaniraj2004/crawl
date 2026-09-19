@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamran Advertising Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "191113",
+    "phone_number": "+91 70068 15256",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Old bus stand, Pulwama, Jammu and Kashmir 192301",
+    "area": "191113",
+    "latitude": 33.871676,
+    "longitude": 74.8987175,
+    "place_id": "ChIJ4_NbKNn14TgRM2dhIYjp2Tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_NbKNn14TgRM2dhIYjp2Tw",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:32"
+  },
+  {
+    "business_name": "YASEEN SIGNAGE",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "191113",
+    "phone_number": "+91 96825 47307",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jamia Masjid, 152 Nicklora, Litter, Jammu and Kashmir 192301",
+    "area": "191113",
+    "latitude": 33.926169099999996,
+    "longitude": 74.9257181,
+    "place_id": "ChIJT7OAVA_14TgROKhMQaMWy3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7OAVA_14TgROKhMQaMWy3k",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:32:34"
+  }
+]

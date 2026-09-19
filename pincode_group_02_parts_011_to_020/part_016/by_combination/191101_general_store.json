@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subzar genral store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2WQF+8VM, Balhama, Zaffron Colony, Zawarah, Jammu and Kashmir 191101",
+    "area": "Zaffron Colony",
+    "latitude": 34.0383463,
+    "longitude": 74.9246761,
+    "place_id": "ChIJlfe7dACJ4TgR_PQsOlbxnSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfe7dACJ4TgR_PQsOlbxnSc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:34"
+  },
+  {
+    "business_name": "General Store",
+    "search_category": "General Store",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "191101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3XGG+G5Q, Khanmo, Jammu and Kashmir 191101",
+    "area": "191101",
+    "latitude": 34.076336399999995,
+    "longitude": 74.9754825,
+    "place_id": "ChIJi97QfgAn4jgRmhcOKMrbBiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi97QfgAn4jgRmhcOKMrbBiQ",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:22:36"
+  }
+]

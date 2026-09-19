@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capitalize Consulting",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "191103",
+    "phone_number": "+91 98335 79515",
+    "website": "https://capitalize.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "208, Ground floor, Raghuleela Mega Mall, behind Poisar depot, Kandivali, Jai Bhim Sanjay Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Jai Bhim Sanjay Nagar, Kandivali West",
+    "latitude": 19.2140091,
+    "longitude": 72.8487707,
+    "place_id": "ChIJNSjNhzm35zsRiU3qEJHQQQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSjNhzm35zsRiU3qEJHQQQI",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:27:17"
+  },
+  {
+    "business_name": "RNB Financial Services",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "191103",
+    "phone_number": "+91 99128 24699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2nd Floor, Laxmi Narasimha Colony, Door No. 329, 17P, Puppalaguda - Manikonda, near Sri Lakshmi Narasimha Swamy Temple, Hyderabad, Telangana 500089",
+    "area": "Lakshmi Narasimhaswamy Nagar, Anupama Homes",
+    "latitude": 17.4007532,
+    "longitude": 78.3715844,
+    "place_id": "ChIJ3yK0ekqVyzsR0QDPRtg2KD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yK0ekqVyzsR0QDPRtg2KD8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:27:18"
+  }
+]

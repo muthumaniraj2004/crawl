@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamu Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store, Hookah store, Paan shop, Snack bar",
+    "pincode": "191102",
+    "phone_number": "+91 91540 36644",
+    "website": "https://mamu-pan-shop.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Opposite Hp Petrol Pump signal Towards Nallagandla Flyover,Baapu Nagar, beside Ashrutha Medical Store, Lingampally, Serilingampalle (M), Hyderabad, Telangana 500019",
+    "area": "Bapu Nagar, Lingampally",
+    "latitude": 17.4789118,
+    "longitude": 78.31998779999999,
+    "place_id": "ChIJdZeLXo6TyzsRvw6Ozu7Qwx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZeLXo6TyzsRvw6Ozu7Qwx8",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:24:22"
+  },
+  {
+    "business_name": "Pawan Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "191102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 44,
+    "address": "G87X+523, Armstrong Ave, Bidhannagar, Durgapur, West Bengal 713212",
+    "area": "Bidhannagar",
+    "latitude": 23.5128897,
+    "longitude": 87.34755849999999,
+    "place_id": "ChIJFSb1lVFw9zkR-cV2issKRyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSb1lVFw9zkR-cV2issKRyM",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:24:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhaag E Nishat",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "191131",
+    "phone_number": "+91 90181 14305",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nishat, Syed Colony, near Water Works Road, Plant, Srinagar, Jammu and Kashmir 191121",
+    "area": "Plant, Nishat",
+    "latitude": 34.1248122,
+    "longitude": 74.8870706,
+    "place_id": "ChIJge0N-ziH4TgRDK3zJUMtVrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJge0N-ziH4TgRDK3zJUMtVrc",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:35:33"
+  },
+  {
+    "business_name": "Syed Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "191131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Takia Khalmula Road Near Rihana BEd College BabaDariyauddin, Jammu and Kashmir, 190006",
+    "area": "191131",
+    "latitude": 34.210082299999996,
+    "longitude": 74.8236536,
+    "place_id": "ChIJyaJVFgCD4TgRbYJRWc1ibi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaJVFgCD4TgRbYJRWc1ibi4",
+    "part_id": "part_016",
+    "crawled_at": "2026-09-19 08:35:35"
+  }
+]
