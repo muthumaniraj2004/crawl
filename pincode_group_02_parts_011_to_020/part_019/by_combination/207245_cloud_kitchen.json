@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "2AM Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "207245",
+    "phone_number": "+91 89770 20200",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 88,
+    "address": "B-BLOCK, Road No 6, Mohan Nagar, opposite Monarch Appartment, Balaji Nagar Colony, Kothapet, Hyderabad, Telangana 500102",
+    "area": "Balaji Nagar Colony, Janpriya Colony, Kothapet",
+    "latitude": 17.3773603,
+    "longitude": 78.5510319,
+    "place_id": "ChIJz6ugjqCZyzsRzrkVZW3hWE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6ugjqCZyzsRzrkVZW3hWE0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:16:39"
+  },
+  {
+    "business_name": "Rekha's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Keezhmadu, Keralam 683112",
+    "area": "Keezhmadu",
+    "latitude": 10.1047598,
+    "longitude": 76.38832649999999,
+    "place_id": "ChIJ_-gGofsJCDsR4loByuu-eKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-gGofsJCDsR4loByuu-eKI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:16:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Interior designer",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kasla chungi, Soron, Uttar Pradesh 207403",
+    "area": "kasla chungi",
+    "latitude": 27.886664399999997,
+    "longitude": 78.744794,
+    "place_id": "ChIJOcdlQkwhdTkRKDo5-hYtdOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcdlQkwhdTkRKDo5-hYtdOI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:16"
+  },
+  {
+    "business_name": "S L Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "207245",
+    "phone_number": "+91 73092 80298",
+    "website": "http://fb.com/slinteriors07",
+    "rating": 4,
+    "reviews_count": 37,
+    "address": "Tompson Ganj, Arya Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Tompson Ganj, Arya Nagar",
+    "latitude": 27.564546399999998,
+    "longitude": 80.68269939999999,
+    "place_id": "ChIJ1f0uVf_WnjkRMr4JT9gN9nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1f0uVf_WnjkRMr4JT9gN9nc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:17"
+  }
+]

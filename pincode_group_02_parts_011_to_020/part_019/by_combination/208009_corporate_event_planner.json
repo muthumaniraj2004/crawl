@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bandhan event management company",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Cake shop, Party planner, Restaurant supply store",
+    "pincode": "208009",
+    "phone_number": "+91 74084 57629",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "48-a, above aranya infra services private limited, near batham bakery, Sai Puram, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Sai Puram, Kalyanpur",
+    "latitude": 26.4848741,
+    "longitude": 80.2450764,
+    "place_id": "ChIJH-O9Wvg3nDkRUMT6XK4CiA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-O9Wvg3nDkRUMT6XK4CiA4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:56:43"
+  },
+  {
+    "business_name": "Priya events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "208009",
+    "phone_number": "+91 98075 29478",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "115/75 A, Maswanpur, Kanpur, Uttar Pradesh 208019",
+    "area": "Maswanpur",
+    "latitude": 26.4854235,
+    "longitude": 80.2641214,
+    "place_id": "ChIJE8rQc783nDkRdXXqB9YiWbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8rQc783nDkRdXXqB9YiWbU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:56:46"
+  }
+]

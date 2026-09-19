@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shraddha Family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Asian restaurant",
+    "all_categories": "Asian restaurant",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Indian Oil Petrol Pump, opsite, Manpur Nagaria on Road, Manpur Nagria, Udher Pukhta, Uttar Pradesh 207402",
+    "area": "207245",
+    "latitude": 27.9071741,
+    "longitude": 78.8227935,
+    "place_id": "ChIJl74RaAAjdTkRqiVi-3Nwdto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl74RaAAjdTkRqiVi-3Nwdto",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:16:40"
+  },
+  {
+    "business_name": "Family water park and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Water park",
+    "all_categories": "Water park",
+    "pincode": "207245",
+    "phone_number": "+91 84330 91940",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Sujawalpur, Ganj Dundwara, Dhava, Uttar Pradesh 207242",
+    "area": "Sujawalpur",
+    "latitude": 27.733696,
+    "longitude": 78.9259823,
+    "place_id": "ChIJEzqtJpoRdTkR_Tii-5rAmGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzqtJpoRdTkR_Tii-5rAmGM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:16:40"
+  }
+]

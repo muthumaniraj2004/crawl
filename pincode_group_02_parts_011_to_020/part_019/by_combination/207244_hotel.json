@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel DreamVista",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "207244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Baburam Dixit St, Yahiyapur, Kaimganj, Uttar Pradesh 209502",
+    "area": "207244",
+    "latitude": 27.5412455,
+    "longitude": 79.3272154,
+    "place_id": "ChIJyWuaLwB_dTkRvxZQRhnt-EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWuaLwB_dTkRvxZQRhnt-EU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:15:45"
+  },
+  {
+    "business_name": "R.P Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "207244",
+    "phone_number": "+91 94550 62348",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "H82G+5XH, Chilouli,kampil bypass road kaimganj, Kaimganj, Chilouli, Uttar Pradesh 209502",
+    "area": "207244",
+    "latitude": 27.551018199999998,
+    "longitude": 79.328024,
+    "place_id": "ChIJb2QcTAR_dTkRv2iXnOCE-fU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2QcTAR_dTkRv2iXnOCE-fU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:15:45"
+  }
+]

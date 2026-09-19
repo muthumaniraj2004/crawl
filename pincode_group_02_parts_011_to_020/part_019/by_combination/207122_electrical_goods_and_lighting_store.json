@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RD Lighting Industries",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Electronics store",
+    "pincode": "207122",
+    "phone_number": "+91 75573 81638",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "371 Gram Gahetu Post Gahetu, Nidholi Kalan, Uttar Pradesh 207122",
+    "area": "207122",
+    "latitude": 27.531630699999997,
+    "longitude": 78.4809262,
+    "place_id": "ChIJodFSYkT5dDkRB81DwvrMDTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodFSYkT5dDkRB81DwvrMDTM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:03:37"
+  },
+  {
+    "business_name": "Maa Sharda Led Lights",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Wholesale market",
+    "pincode": "207122",
+    "phone_number": "+91 94123 77667",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "529/26, Road, Krishna Puram, Shanti Nagar, Etah, Uttar Pradesh 207001",
+    "area": "Krishna Puram, Shanti Nagar",
+    "latitude": 27.564702399999998,
+    "longitude": 78.6542769,
+    "place_id": "ChIJZfT3SWX9dDkRLLBmr9UWYXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfT3SWX9dDkRLLBmr9UWYXo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:03:38"
+  }
+]

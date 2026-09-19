@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paakeeza Chinese family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "207242",
+    "phone_number": "+91 97597 05170",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Sahawar Rd, Ganj Dundwara, Uttar Pradesh 207242",
+    "area": "207242",
+    "latitude": 27.7349988,
+    "longitude": 78.936559,
+    "place_id": "ChIJj1jaYycTdTkRJMbWYWg4lTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1jaYycTdTkRJMbWYWg4lTw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:11:37"
+  },
+  {
+    "business_name": "Annpurna Family Reastorant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "207242",
+    "phone_number": "+91 96393 49744",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "VPHP+RV8, road, Kasganj, Uttar Pradesh 207403",
+    "area": "207242",
+    "latitude": 27.879535299999997,
+    "longitude": 78.73720829999999,
+    "place_id": "ChIJbRNG1mshdTkRcjAGu5Ti_yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRNG1mshdTkRcjAGu5Ti_yQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:11:39"
+  }
+]

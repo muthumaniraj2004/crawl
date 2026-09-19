@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ganesh Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent, Airline, Bus charter, Bus ticket agency, Bus tour agency, Travel agency",
+    "pincode": "207246",
+    "phone_number": "+91 95945 33304",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 64,
+    "address": "16,, Sion - Panvel Expy, Kamothe bus top, near KLE Collage, Sector 1, Panvel, Maharashtra 410218",
+    "area": "Sector 1, Kalamboli, Panvel",
+    "latitude": 19.0260103,
+    "longitude": 73.0955556,
+    "place_id": "ChIJHZplbtrp5zsRfr4-mno1k4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZplbtrp5zsRfr4-mno1k4Y",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:18:48"
+  },
+  {
+    "business_name": "Agra To Patna Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus charter",
+    "all_categories": "Bus charter, Bus ticket agency",
+    "pincode": "207246",
+    "phone_number": "+91 81021 70459",
+    "website": "http://www.mahalaxmibus.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Agra, Kuberpur, Uttar Pradesh 282006",
+    "area": "207246",
+    "latitude": 27.2249053,
+    "longitude": 78.12120449999999,
+    "place_id": "ChIJISqiOkRvdDkRXymjU7KERmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISqiOkRvdDkRXymjU7KERmI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:18:49"
+  }
+]

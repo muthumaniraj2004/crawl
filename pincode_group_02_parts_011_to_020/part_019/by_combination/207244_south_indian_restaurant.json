@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SOUTH INDIAN",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "207244",
+    "phone_number": "+91 94118 32660",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "450, sarai, Sarai Aghat, Uttar Pradesh 209652",
+    "area": "207244",
+    "latitude": 27.3524569,
+    "longitude": 79.2732343,
+    "place_id": "ChIJce6Qd3iFdTkRKqqeYizrI8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJce6Qd3iFdTkRKqqeYizrI8I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:14:55"
+  },
+  {
+    "business_name": "Maa Vaishno South Indian Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "207244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G8RG+9VM Kamaal Market, near Transport Chauraha, Kaimganj, Uttar Pradesh 209502",
+    "area": "207244",
+    "latitude": 27.540953599999998,
+    "longitude": 79.3271685,
+    "place_id": "ChIJxwYP5bR_dTkRA1MCgu7Lx3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwYP5bR_dTkRA1MCgu7Lx3s",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:14:55"
+  }
+]

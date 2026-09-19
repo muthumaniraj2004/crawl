@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CorpHR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant",
+    "pincode": "207301",
+    "phone_number": "+91 74289 99037",
+    "website": "https://corphr.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B - 78, Block B, Sector 60, Noida, Uttar Pradesh 201309",
+    "area": "Block B, Sector 60",
+    "latitude": 28.602236299999998,
+    "longitude": 77.3661624,
+    "place_id": "ChIJb4AOzPvvDDkRmwHP2aQ2LJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4AOzPvvDDkRmwHP2aQ2LJg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:28:27"
+  },
+  {
+    "business_name": "Expert HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "207301",
+    "phone_number": "+91 76763 67210",
+    "website": "http://experthrsolutions.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "342/1, 8th cross, Basavanapura Main Rd, Chikkabasavanapura, Krishnarajapuram, Bengaluru, Karnataka 560036",
+    "area": "Chikkabasavanapura, Krishnarajapuram",
+    "latitude": 13.0093027,
+    "longitude": 77.6985576,
+    "place_id": "ChIJ6cczdwcRrjsRh-D0lltI5_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cczdwcRrjsRh-D0lltI5_o",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:28:27"
+  }
+]

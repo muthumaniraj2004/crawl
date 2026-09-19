@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Handa hardware store",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "208005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "F77W+FCR, Industrial Estate, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Industrial Estate, Shastri Nagar",
+    "latitude": 26.4637377,
+    "longitude": 80.2960253,
+    "place_id": "ChIJJy6vLABHnDkRavo2FuxwNTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy6vLABHnDkRavo2FuxwNTA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:48:37"
+  },
+  {
+    "business_name": "Vikas Hardware & Mill Store",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "208005",
+    "phone_number": "+91 96704 49944",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "F73M+M8Q, Gyan Prakash Rd, Near SBI Branch Kanpur Fertilizer Cement Ltd, Co-operative Industrial Estate, Dada Nagar, Azad Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Co-operative Industrial Estate, Dada Nagar, Azad Nagar",
+    "latitude": 26.454218899999997,
+    "longitude": 80.2833484,
+    "place_id": "ChIJjVi8RftHnDkRCfBqjGgBhVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVi8RftHnDkRCfBqjGgBhVA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:48:38"
+  }
+]

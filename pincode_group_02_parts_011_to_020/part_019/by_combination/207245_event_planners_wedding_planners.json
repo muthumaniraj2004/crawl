@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dreamfest Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner",
+    "pincode": "207245",
+    "phone_number": "+91 99090 70723",
+    "website": "http://www.dreamfestevents.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Victoria Corporate, 503, near Gulista Ground, Hill Drive, Bhavnagar, Gujarat 364001",
+    "area": "Hill Drive",
+    "latitude": 21.7576181,
+    "longitude": 72.14658419999999,
+    "place_id": "ChIJxT0Lc4pbXzkRShTC_3VrJic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxT0Lc4pbXzkRShTC_3VrJic",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:25"
+  },
+  {
+    "business_name": "Universe Marriage - A Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Event venue, Florist, Wedding service, Wedding venue",
+    "pincode": "207245",
+    "phone_number": "+91 98892 30366",
+    "website": "https://www.universemarriage.in/",
+    "rating": 4.7,
+    "reviews_count": 105,
+    "address": "J-12/6 A-13 nati Imli, opp-Thakur Press, Near-Kidzee School, Varanasi, Uttar Pradesh 221001",
+    "area": "Piplani Katra, Jaitpura",
+    "latitude": 25.3251761,
+    "longitude": 83.0054822,
+    "place_id": "ChIJgZoylhEujjkRq99LQieI3l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZoylhEujjkRq99LQieI3l8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:28"
+  }
+]

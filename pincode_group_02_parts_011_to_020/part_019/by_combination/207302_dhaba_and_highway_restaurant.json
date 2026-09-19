@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanha Family Restaurant and Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Family restaurant",
+    "pincode": "207302",
+    "phone_number": "+91 99279 88488",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "F8G7+XVW, Jalesar, Uttar Pradesh 207302",
+    "area": "207302",
+    "latitude": 27.4774794,
+    "longitude": 78.3146891,
+    "place_id": "ChIJhUT3CiD1dDkRkKdIAt8sDrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUT3CiD1dDkRkKdIAt8sDrw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:29:01"
+  },
+  {
+    "business_name": "Highway King Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "207302",
+    "phone_number": "+91 98708 23984",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 88,
+    "address": "Tundla, Uttar Pradesh 283103",
+    "area": "207302",
+    "latitude": 27.2172587,
+    "longitude": 78.2752182,
+    "place_id": "ChIJpZzqNABpdDkR9YTNicwEjS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZzqNABpdDkR9YTNicwEjS8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:29:02"
+  }
+]

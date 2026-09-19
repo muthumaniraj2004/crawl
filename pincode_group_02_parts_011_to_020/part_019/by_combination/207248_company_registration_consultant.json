@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RegisterKaro - Gurgaon",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Chartered accountant",
+    "pincode": "207248",
+    "phone_number": "+91 92173 26570",
+    "website": "https://www.registerkaro.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "68, Institutional Area, Sector 32, Gurugram, Haryana 122001",
+    "area": "Institutional Area, Sector 32",
+    "latitude": 28.4454811,
+    "longitude": 77.0418224,
+    "place_id": "ChIJ38rRwPgZDTkRXBp0vj7TH1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38rRwPgZDTkRXBp0vj7TH1A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:22:54"
+  },
+  {
+    "business_name": "FINFARE FINANCE ADVISORY PRIVATE LIMITED",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "207248",
+    "phone_number": "+91 99222 82100",
+    "website": "https://finfarefinance.com/",
+    "rating": 5,
+    "reviews_count": 55,
+    "address": "Shop No. 23, Abrar Complex, Aframent, Shiroda, Ponda, Goa 403103",
+    "area": "Aframent",
+    "latitude": 15.3243271,
+    "longitude": 74.0258199,
+    "place_id": "ChIJwW4ZZMCxvzsRwdePqQ62eII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwW4ZZMCxvzsRwdePqQ62eII",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:22:56"
+  }
+]

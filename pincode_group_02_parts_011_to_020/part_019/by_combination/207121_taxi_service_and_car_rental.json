@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green EV Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "207121",
+    "phone_number": "+91 74982 64215",
+    "website": "https://greenevcabs.com/",
+    "rating": 4.9,
+    "reviews_count": 216,
+    "address": "W-Biz, Wakad hinjewadi, shop number 101, Survey No. 123/1/1, Bhumkar Chowk Rd, Pune, Maharashtra 411057",
+    "area": "Tathawade",
+    "latitude": 18.607226999999998,
+    "longitude": 73.7517821,
+    "place_id": "ChIJq-1ptJi5wjsRiyfuEFl12U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-1ptJi5wjsRiyfuEFl12U0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:01:56"
+  },
+  {
+    "business_name": "Tap2tour",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour operator, Travel agency",
+    "pincode": "207121",
+    "phone_number": "+91 74991 42575",
+    "website": "https://www.tap2tour.in/",
+    "rating": 5,
+    "reviews_count": 703,
+    "address": "Choice Apartment, A 103, Balkrishna Sakharam Dhole Patil Rd, near Ruby Hall Metro Station, Sangamvadi, Pune, Maharashtra 411001",
+    "area": "Sangamvadi",
+    "latitude": 18.532413299999998,
+    "longitude": 73.87650909999999,
+    "place_id": "ChIJFzzOb0fBwjsRQpYy2Tj4oFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzzOb0fBwjsRQpYy2Tj4oFQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:01:56"
+  }
+]

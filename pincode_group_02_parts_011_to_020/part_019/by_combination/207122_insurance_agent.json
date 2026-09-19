@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BS Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "207122",
+    "phone_number": "+91 90457 97979",
+    "website": "http://bsinsurance.in/",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "93, GT Rd, opp. CANARA BANK, Aruna Nagar, Dinesh Nagar, Etah, Uttar Pradesh 207001",
+    "area": "Aruna Nagar, Dinesh Nagar",
+    "latitude": 27.564542199999998,
+    "longitude": 78.650981,
+    "place_id": "ChIJQxa6s_D9dDkRCGYRkcfTKzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxa6s_D9dDkRCGYRkcfTKzE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:04:11"
+  },
+  {
+    "business_name": "HDFC ERGO General Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Auto insurance agency, Health insurance agency, Home insurance agency, Motorcycle insurance agency",
+    "pincode": "207122",
+    "phone_number": "+91 22 6234 6234",
+    "website": "http://www.hdfcergo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, Agra Rd, near Rashmi Lok Talkies, Shringar Nagar, Police Line, Etah, Uttar Pradesh 207001",
+    "area": "Shringar Nagar, Police Line",
+    "latitude": 27.560070999999997,
+    "longitude": 78.653651,
+    "place_id": "ChIJI38dmK39dDkRrSzsQR2Z01E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI38dmK39dDkRrSzsQR2Z01E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:04:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopal Bartan Bhandar",
+    "search_category": "Provision Store",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "207246",
+    "phone_number": "+91 70602 86585",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Patiyali road, Sidhpura, Uttar Pradesh 207246",
+    "area": "207246",
+    "latitude": 27.6320183,
+    "longitude": 78.8680256,
+    "place_id": "ChIJm--x2GsPdTkRuNrSZCqRTZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm--x2GsPdTkRuNrSZCqRTZs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:18:11"
+  },
+  {
+    "business_name": "Dayal General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "207246",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JVJ9+W5C, Sidhpura, Uttar Pradesh 207246",
+    "area": "207246",
+    "latitude": 27.632306,
+    "longitude": 78.8678898,
+    "place_id": "ChIJn6g8UQAPdTkRxgPi7o54hME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6g8UQAPdTkRxgPi7o54hME",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:18:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "207001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Hardoi, Uttar Pradesh 241001",
+    "area": "207001",
+    "latitude": 27.376936299999997,
+    "longitude": 80.1228904,
+    "place_id": "ChIJ8b3yDo33njkRs4pdK4E-Ezs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8b3yDo33njkRs4pdK4E-Ezs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:09"
+  },
+  {
+    "business_name": "Neoli Sugar Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store, Sugar factory",
+    "pincode": "207001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "WR47+9HF, Udher Pukhta, Uttar Pradesh 207402",
+    "area": "207001",
+    "latitude": 27.905945799999998,
+    "longitude": 78.8139243,
+    "place_id": "ChIJ5Vxr_OojdTkRibhAiu8CAWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Vxr_OojdTkRibhAiu8CAWQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:10"
+  }
+]

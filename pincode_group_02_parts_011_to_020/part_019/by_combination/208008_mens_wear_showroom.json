@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion House",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "208008",
+    "phone_number": "+91 96160 72425",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No-6, 7,& 8Gangatara Complex, Chandel Market, Lal Bangla, J K Puri, Kanpur, Uttar Pradesh 208007",
+    "area": "Chandel Market, Lal Bangla, J K Puri",
+    "latitude": 26.4169985,
+    "longitude": 80.3921014,
+    "place_id": "ChIJuexuWm1BnDkRyR4MHnXfujc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuexuWm1BnDkRyR4MHnXfujc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:53:36"
+  },
+  {
+    "business_name": "G M Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "208008",
+    "phone_number": "+91 95382 62770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "44-A, Lal Bangla St, near North 2 Road, Chauraha, Jajmau Sub Metro City, Kanpur, Uttar Pradesh 208007",
+    "area": "Chauraha, Jajmau Sub Metro City",
+    "latitude": 26.420088,
+    "longitude": 80.3901987,
+    "place_id": "ChIJPa7rAWhBnDkRTEDj63CHj-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPa7rAWhBnDkRTEDj63CHj-I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:53:36"
+  }
+]

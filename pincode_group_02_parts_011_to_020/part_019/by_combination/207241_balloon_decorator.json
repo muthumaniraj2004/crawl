@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Birthday celebration store",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "207241",
+    "phone_number": "+91 87121 38606",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "first floor shop no 1, indian hotel, Lalbagh, Ghantaghar, Sitapur, Uttar Pradesh 261001",
+    "area": "Lalbagh, Ghantaghar",
+    "latitude": 27.5702577,
+    "longitude": 80.6809258,
+    "place_id": "ChIJYVVZxHvXnjkRHRw4YrDbMVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVVZxHvXnjkRHRw4YrDbMVU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:10:44"
+  },
+  {
+    "business_name": "Shahdol balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "207241",
+    "phone_number": "+91 78060 25418",
+    "website": "https://www.instagram.com/rohiiiiiiit_780?igsh=ZnBjem5xNnMwb2Fn",
+    "rating": 4.9,
+    "reviews_count": 78,
+    "address": "Bas stand, Bhatnagar, Shahdol, Madhya Pradesh 484001",
+    "area": "Bhatnagar",
+    "latitude": 23.297652199999998,
+    "longitude": 81.358764,
+    "place_id": "ChIJrUZwphH7hjkRoWSbFtphOsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUZwphH7hjkRoWSbFtphOsY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:10:45"
+  }
+]

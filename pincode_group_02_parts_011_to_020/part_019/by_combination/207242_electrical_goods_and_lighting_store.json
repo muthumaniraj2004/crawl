@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadrul Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "207242",
+    "phone_number": "+91 80576 69604",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J523+96V, lalbag, Bhargain, Uttar Pradesh 207244",
+    "area": "lalbag",
+    "latitude": 27.600982,
+    "longitude": 79.1530394,
+    "place_id": "ChIJTx_xU-9xdTkR8lV5i9DR8z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTx_xU-9xdTkR8lV5i9DR8z8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:12:06"
+  },
+  {
+    "business_name": "Daya lights india (indore)",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "207242",
+    "phone_number": "+91 88188 81706",
+    "website": "http://www.dayaworldwide.com/",
+    "rating": 4.8,
+    "reviews_count": 240,
+    "address": "B,5, near ICICI Bank, New Siyaganj, Indore, Madhya Pradesh 452003",
+    "area": "New Siyaganj",
+    "latitude": 22.7233105,
+    "longitude": 75.86757879999999,
+    "place_id": "ChIJ8-7TgcL9YjkRhbULnd2oX2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-7TgcL9YjkRhbULnd2oX2c",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:12:08"
+  }
+]

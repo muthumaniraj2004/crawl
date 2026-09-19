@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.R.S rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "207121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9M8R+P7, Nagla Achal, Uttar Pradesh 283130",
+    "area": "207121",
+    "latitude": 27.36683,
+    "longitude": 78.69069089999999,
+    "place_id": "ChIJl_xBlymtdTkR34HX7VDkSbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_xBlymtdTkR34HX7VDkSbk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:02:44"
+  },
+  {
+    "business_name": "Santi Grain Processing",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "207121",
+    "phone_number": "N/A",
+    "website": "https://www.santiricegroup.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vill Jamua Mohlishole P.O. Kokpara, P.S, Dhalbhumgarh, dhalbumgarh, Jharkhand 832302",
+    "area": "P.S",
+    "latitude": 22.4656818,
+    "longitude": 86.59071469999999,
+    "place_id": "ChIJP_AUaGSNHToRQrNnb7YD34E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_AUaGSNHToRQrNnb7YD34E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:02:46"
+  }
+]

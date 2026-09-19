@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Garden Sirola",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "207121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9MHM+6FJ, Sirola Farida marg , Sirola Post Kharit Tahsil Jasrana, Uttar Pradesh 283130",
+    "area": "207121",
+    "latitude": 27.378089799999998,
+    "longitude": 78.6836532,
+    "place_id": "ChIJo1in6MerdTkRNngJ-dY1IcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1in6MerdTkRNngJ-dY1IcE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:02:18"
+  },
+  {
+    "business_name": "Shri Ram Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "207121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "8M6C+H9H, Shikohabad Rd, Parham, Uttar Pradesh 283130",
+    "area": "207121",
+    "latitude": 27.3107363,
+    "longitude": 78.6722947,
+    "place_id": "ChIJO4aVXQCtdTkRICmO4D3owOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4aVXQCtdTkRICmO4D3owOo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:02:18"
+  }
+]

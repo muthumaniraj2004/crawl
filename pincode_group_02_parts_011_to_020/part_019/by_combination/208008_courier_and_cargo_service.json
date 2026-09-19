@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "bluedart",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Logistics service, Shipping service",
+    "pincode": "208008",
+    "phone_number": "N/A",
+    "website": "https://www.bluedart.com/",
+    "rating": 2.1,
+    "reviews_count": 15,
+    "address": "69, N 2 Rd, Harjindar Nagar, Lal Bangla, Jajmau, Kanpur, Uttar Pradesh 208007",
+    "area": "Harjindar Nagar, Lal Bangla, Jajmau",
+    "latitude": 26.421034799999997,
+    "longitude": 80.3920842,
+    "place_id": "ChIJgW36w-FBnDkR_dFm9q6ynD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgW36w-FBnDkR_dFm9q6ynD8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:54:56"
+  },
+  {
+    "business_name": "Trackon Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "208008",
+    "phone_number": "+91 80522 94533",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 11,
+    "address": "383 A2, Pardevan Pur, Lal Bangla, Kanpur Cantonment, Kanpur, Uttar Pradesh 208007",
+    "area": "Pardevan Pur, Lal Bangla, Kanpur Cantonment",
+    "latitude": 26.425319,
+    "longitude": 80.3925421,
+    "place_id": "ChIJAcHbHh5BnDkR2kBRSrwHM1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcHbHh5BnDkR2kBRSrwHM1w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:54:56"
+  }
+]

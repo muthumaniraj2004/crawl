@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Kumar Home",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "207301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramgarh Urf Ummergarh, Uttar Pradesh 283204",
+    "area": "207301",
+    "latitude": 27.356862999999997,
+    "longitude": 78.3585926,
+    "place_id": "ChIJXTCmZUVfdDkRutkVbV3PoZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTCmZUVfdDkRutkVbV3PoZs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:27:50"
+  },
+  {
+    "business_name": "Narayani Building Material",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "207301",
+    "phone_number": "+91 80063 63678",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Post Nuhkhas Teh, Nidholi Jalesar Road, Thana, Jalesar, Uttar Pradesh 207302",
+    "area": "Thana",
+    "latitude": 27.4827136,
+    "longitude": 78.3107598,
+    "place_id": "ChIJiyrAaxT1dDkRM5fUqQsd5yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyrAaxT1dDkRM5fUqQsd5yc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:27:50"
+  }
+]

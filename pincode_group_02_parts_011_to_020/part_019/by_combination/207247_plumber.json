@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AtoZ Plumbing Works",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "207247",
+    "phone_number": "+91 90539 78020",
+    "website": "https://atozplumbingworks.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Friend medical Store, Dindayal Puram, Mayawati Colony, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Dindayal Puram, Mayawati Colony, Indira Nagar",
+    "latitude": 26.8983578,
+    "longitude": 81.00428269999999,
+    "place_id": "ChIJg6w5f1goIiYRFVrg9FZdWCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6w5f1goIiYRFVrg9FZdWCM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:20:35"
+  },
+  {
+    "business_name": "अंकित शाक्य हैड पंप समर सर्बिल सर्विस",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "207247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarai Aghat, Uttar Pradesh 207250",
+    "area": "207247",
+    "latitude": 27.348824,
+    "longitude": 79.2648481,
+    "place_id": "ChIJNTlv37yFdTkRllR00UJxfD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTlv37yFdTkRllR00UJxfD8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:20:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barkati Family Restaurent",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "207401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "PHPC+VP7, Marehra Rd, Mohalla Chohatta, Marehra, Uttar Pradesh 207401",
+    "area": "Mohalla Chohatta",
+    "latitude": 27.737173199999997,
+    "longitude": 78.5718064,
+    "place_id": "ChIJK2jDY3bhdDkRLR1Cbeb1viQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2jDY3bhdDkRLR1Cbeb1viQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:31:05"
+  },
+  {
+    "business_name": "Raghav modern library mohanpura kasganj",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "207401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Mohanpura, Uttar Pradesh 207401",
+    "area": "207401",
+    "latitude": 27.753753099999997,
+    "longitude": 78.50921029999999,
+    "place_id": "ChIJiyZcYm_ndDkREsmmyOh046I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyZcYm_ndDkREsmmyOh046I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:31:07"
+  }
+]

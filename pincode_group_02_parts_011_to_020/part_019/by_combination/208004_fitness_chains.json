@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roman Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "208004",
+    "phone_number": "+91 84238 10909",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 34,
+    "address": "Chauraha, Bazar, Chawal Mandi, Jajmau, Saraiyan, Kanpur, Uttar Pradesh 209861",
+    "area": "Chawal Mandi, Jajmau",
+    "latitude": 26.4323919,
+    "longitude": 80.4025115,
+    "place_id": "ChIJSzPl_ERBnDkR71AKoWEl3n0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzPl_ERBnDkR71AKoWEl3n0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:45:00"
+  },
+  {
+    "business_name": "New Body Care 2 Health Club Unisex Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "208004",
+    "phone_number": "+91 81828 36625",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 66,
+    "address": "First and Second floor, 91 B, Subhash Rd, near Trimurti mandir, Lal Bungalow, Jajmau Sub Metro City, Kanpur, Uttar Pradesh 208007",
+    "area": "Lal Bungalow, Jajmau Sub Metro City",
+    "latitude": 26.414856399999998,
+    "longitude": 80.384346,
+    "place_id": "ChIJa1kiexBBnDkRUMB786m_siM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1kiexBBnDkRUMB786m_siM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:45:04"
+  }
+]

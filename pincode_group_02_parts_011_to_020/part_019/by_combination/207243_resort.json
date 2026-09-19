@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.P Garden",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "207243",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J35H+575, Daryaoganj, Sri Nagla, Uttar Pradesh 207243",
+    "area": "207243",
+    "latitude": 27.6078957,
+    "longitude": 79.0782366,
+    "place_id": "ChIJzbKYcwBzdTkRspF0jb6KwaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbKYcwBzdTkRspF0jb6KwaQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:14:05"
+  },
+  {
+    "business_name": "Golden Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "207243",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "347C+QQ4, Moradabad - Chandausi Rd, Khera Navada, Budaun, Bhagautipur, Uttar Pradesh 243601",
+    "area": "Khera Navada",
+    "latitude": 28.0643772,
+    "longitude": 79.1219667,
+    "place_id": "ChIJJSU-9F9PdTkRu3QE6qsazZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSU-9F9PdTkRu3QE6qsazZI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:14:05"
+  }
+]

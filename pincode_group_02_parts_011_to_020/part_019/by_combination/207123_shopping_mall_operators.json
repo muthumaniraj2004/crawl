@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rashid provision store",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "207123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bilram get bijlighar no. 1, samne, mohalla hulka dhanmill, road, Tarora, Kasganj, Uttar Pradesh 207123",
+    "area": "Tarora",
+    "latitude": 27.812092699999997,
+    "longitude": 78.6426992,
+    "place_id": "ChIJ65JCGwPhdDkRUNiQFVhys60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65JCGwPhdDkRUNiQFVhys60",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:06:16"
+  },
+  {
+    "business_name": "Patanjali Agency",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "207123",
+    "phone_number": "+91 70179 26800",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Kasganj, Uttar Pradesh 207123",
+    "area": "207123",
+    "latitude": 27.8031674,
+    "longitude": 78.64278879999999,
+    "place_id": "ChIJ5brDsT3gdDkRuQgb2p7tcfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5brDsT3gdDkRuQgb2p7tcfY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:06:16"
+  }
+]

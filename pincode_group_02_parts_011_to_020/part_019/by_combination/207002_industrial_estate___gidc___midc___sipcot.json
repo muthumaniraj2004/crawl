@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gujarat Industrial Development Corporation",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "207002",
+    "phone_number": "+91 79 2325 0632",
+    "website": "https://gidc.gujarat.gov.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Block No.3,4 & 5, Udyog Bhavan, GH Rd, Sector 11, Gandhinagar, Gujarat 382010",
+    "area": "Sector 11",
+    "latitude": 23.2219891,
+    "longitude": 72.6458213,
+    "place_id": "ChIJ_yV0ULorXDkRh139a5ZN7-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yV0ULorXDkRh139a5ZN7-8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:58:00"
+  },
+  {
+    "business_name": "Changodar Industrial Estate",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "207002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 227,
+    "address": "Changodar, Gujarat 382213",
+    "area": "207002",
+    "latitude": 22.9341875,
+    "longitude": 72.4523906,
+    "place_id": "ChIJx_PwKZWQXjkR3vXoU7NvoS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_PwKZWQXjkR3vXoU7NvoS8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:58:00"
+  }
+]

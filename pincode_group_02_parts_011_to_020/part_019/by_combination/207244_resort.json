@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vp singh resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "207244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "F5R9+WPF, Kila Rd, Aliganj, Uttar Pradesh 207247",
+    "area": "207244",
+    "latitude": 27.4923029,
+    "longitude": 79.1693116,
+    "place_id": "ChIJS3CUMgCddTkRnt-gNuOMVss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3CUMgCddTkRnt-gNuOMVss",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:15:45"
+  },
+  {
+    "business_name": "Kiran Hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "207244",
+    "phone_number": "+91 70608 28420",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 61,
+    "address": "Kiran Guest House moh. Radhakrishna Aliganj, 165, Etah Aliganj Kaimganj Rd, Etah, Aliganj, Uttar Pradesh 207247",
+    "area": "207244",
+    "latitude": 27.499935299999997,
+    "longitude": 79.1718009,
+    "place_id": "ChIJ54YmMsqddTkRqBI8v61EN84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54YmMsqddTkRqBI8v61EN84",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:15:46"
+  }
+]

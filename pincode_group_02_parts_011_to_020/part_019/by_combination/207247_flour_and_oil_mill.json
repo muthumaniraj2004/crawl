@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rama Oil And Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "General store",
+    "all_categories": "General store, Wholesaler",
+    "pincode": "207247",
+    "phone_number": "+91 866 253 0446",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "23-11-64, Nageswara Rao Pantulu Rd, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520011",
+    "area": "Satyaranayana Puram",
+    "latitude": 16.5222431,
+    "longitude": 80.63210459999999,
+    "place_id": "ChIJC8DMevjvNToRMYX1FRVsElM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8DMevjvNToRMYX1FRVsElM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:21:18"
+  },
+  {
+    "business_name": "Atendra Singh oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "207247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7H7X+M43, Dhauruwa, Uttar Pradesh 224159",
+    "area": "207247",
+    "latitude": 26.2641413,
+    "longitude": 82.59779449999999,
+    "place_id": "ChIJbY_Jg771kDkRJoxT7CzaasM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbY_Jg771kDkRJoxT7CzaasM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:21:18"
+  }
+]

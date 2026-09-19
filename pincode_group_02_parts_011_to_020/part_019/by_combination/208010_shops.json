@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Jack Fashion",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "208010",
+    "phone_number": "+91 83181 46761",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "189/75A-1, opp. Baba Food Court, New Chungi, Jajmau, Kanpur, Uttar Pradesh 208010",
+    "area": "New Chungi, Jajmau",
+    "latitude": 26.4294753,
+    "longitude": 80.4017405,
+    "place_id": "ChIJ0z9VS3VBnDkRjLyeJ4D9O_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0z9VS3VBnDkRjLyeJ4D9O_Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:59:30"
+  },
+  {
+    "business_name": "Alpine Express 24x7 (Open 24 hrs)",
+    "search_category": "Shops",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "208010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "569 C block, opp. Baba Food Court, near Water Tank, Defence Colony, Jajmau, Kanpur, Uttar Pradesh 208010",
+    "area": "Defence Colony, Jajmau",
+    "latitude": 26.4290669,
+    "longitude": 80.40075379999999,
+    "place_id": "ChIJ1S6-_NNBnDkRO6T86TyjSM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1S6-_NNBnDkRO6T86TyjSM8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:59:30"
+  }
+]

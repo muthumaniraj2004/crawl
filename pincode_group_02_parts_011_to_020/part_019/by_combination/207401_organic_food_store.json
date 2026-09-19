@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Organic Fresco",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "207401",
+    "phone_number": "+91 62806 26433",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SCF - 1, Inner Market, 9D, Sector 9, Chandigarh, 160009",
+    "area": "9D, Sector 9",
+    "latitude": 30.746983399999998,
+    "longitude": 76.7936331,
+    "place_id": "ChIJu0jwIKHtDzkRZakhAPr-054",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0jwIKHtDzkRZakhAPr-054",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:53"
+  },
+  {
+    "business_name": "N B Organic Mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "207401",
+    "phone_number": "+91 78178 16877",
+    "website": "https://nborganicmart.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Atharva Landmark, E 803, Chainpur, Krishnadham Tenement, Chandkheda, Ahmedabad, Ranip, Gujarat 382470",
+    "area": "Chainpur, Krishnadham Tenement, Chandkheda",
+    "latitude": 23.1045706,
+    "longitude": 72.5580418,
+    "place_id": "ChIJAwCyFQCDXjkRN8us4gwgcb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwCyFQCDXjkRN8us4gwgcb0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:53"
+  }
+]

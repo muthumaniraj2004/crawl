@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samy Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "207401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "32A, NH-2, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+    "area": "NH-2, Pavendar Salai",
+    "latitude": 12.7985808,
+    "longitude": 80.0301561,
+    "place_id": "ChIJi-BCFeb5UjoRZGPlVCCueFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-BCFeb5UjoRZGPlVCCueFg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:57"
+  },
+  {
+    "business_name": "Fish Market (fish and prawns)",
+    "search_category": "Fish Market",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "207401",
+    "phone_number": "+91 89516 83817",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "WP67+329, Chikkabellandur Main Rd, Varthur, Hobli, Chikkabellandur, Bengaluru, Karnataka 560035",
+    "area": "Varthur, Hobli, Chikkabellandur",
+    "latitude": 12.9100453,
+    "longitude": 77.7125787,
+    "place_id": "ChIJ-0pzuikTrjsRbNigo-oF1Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0pzuikTrjsRbNigo-oF1Qg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:57"
+  }
+]

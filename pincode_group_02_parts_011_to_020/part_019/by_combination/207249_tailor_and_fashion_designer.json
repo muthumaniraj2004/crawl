@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alfa tailors and fabrics",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "207249",
+    "phone_number": "+91 98214 99211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "32, Jail Rd, Teachers Colony, Khirni Bagh, Krishna Nagar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Teachers Colony, Khirni Bagh, Krishna Nagar",
+    "latitude": 27.879792,
+    "longitude": 79.9157055,
+    "place_id": "ChIJW-ivwYO9nzkRRA_9WQd_wHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-ivwYO9nzkRRA_9WQd_wHk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:23:35"
+  },
+  {
+    "business_name": "New Smart Fashion Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "207249",
+    "phone_number": "+91 91984 20981",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ledhaura, Sitapur, Uttar Pradesh 261001",
+    "area": "207249",
+    "latitude": 27.5490846,
+    "longitude": 80.6210705,
+    "place_id": "ChIJE5VYDtXZnjkRmJotxcFjoaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5VYDtXZnjkRmJotxcFjoaY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:23:35"
+  }
+]

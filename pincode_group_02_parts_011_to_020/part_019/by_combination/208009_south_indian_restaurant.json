@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samrat Fast Food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "208009",
+    "phone_number": "+91 76078 28238",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "150 Feet Rd, near Dadimaa Hotel, Adarsh Nagar, Rawatpur Gaon, Kanpur, Uttar Pradesh 208019",
+    "area": "Adarsh Nagar, Rawatpur Gaon",
+    "latitude": 26.4795327,
+    "longitude": 80.279302,
+    "place_id": "ChIJOaJRqh04nDkRuR90_zEO_oQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaJRqh04nDkRuR90_zEO_oQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:55:33"
+  },
+  {
+    "business_name": "Swagath Restorent",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant, South Indian restaurant",
+    "pincode": "208009",
+    "phone_number": "+91 96285 59155",
+    "website": "http://swagathpizza.orderhere.io/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "116/136-B, Kesav Nagar, Rawat Pur, Kanpur, Uttar Pradesh 208019",
+    "area": "Kesav Nagar, Rawat Pur",
+    "latitude": 26.4753795,
+    "longitude": 80.2749012,
+    "place_id": "ChIJj8ygWxA3nDkRYanZlw0m_18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8ygWxA3nDkRYanZlw0m_18",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:55:33"
+  }
+]

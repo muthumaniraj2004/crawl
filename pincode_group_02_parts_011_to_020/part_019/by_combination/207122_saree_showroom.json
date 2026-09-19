@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janral Istor",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "207122",
+    "phone_number": "+91 97205 89964",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "114, Jalesar, Uttar Pradesh 204214",
+    "area": "207122",
+    "latitude": 27.5636381,
+    "longitude": 78.3948537,
+    "place_id": "ChIJlf1TmLvxdDkRXR5oqRhM30Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlf1TmLvxdDkRXR5oqRhM30Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:03:11"
+  },
+  {
+    "business_name": "Rawalpindi Modern",
+    "search_category": "Saree Showroom",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "207122",
+    "phone_number": "+91 581 257 8098",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 20,
+    "address": "Shop No. 46, near Modern Jewellers, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3562533,
+    "longitude": 79.4176524,
+    "place_id": "ChIJbYo-b1QBoDkR9cHfbhTY2xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYo-b1QBoDkR9cHfbhTY2xM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:03:12"
+  }
+]

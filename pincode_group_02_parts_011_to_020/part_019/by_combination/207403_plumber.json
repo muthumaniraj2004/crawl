@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARIF",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "207403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Qazi Mohalla qazi, near Water tank .jama masjid, Kolhar, Sahaswan, Uttar Pradesh 243638",
+    "area": "Kolhar",
+    "latitude": 28.0736378,
+    "longitude": 78.7423919,
+    "place_id": "ChIJ9xduBwApdTkRpJ5YDEen5n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xduBwApdTkRpJ5YDEen5n4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:35:58"
+  },
+  {
+    "business_name": "Jitender plumbing work",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "207403",
+    "phone_number": "+91 79887 76068",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Pinjore, Kalka, Haryana 133302",
+    "area": "207403",
+    "latitude": 30.815462099999998,
+    "longitude": 76.9186057,
+    "place_id": "ChIJFZGlhv6PDzkRd0nZaFkYrEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZGlhv6PDzkRd0nZaFkYrEM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:35:59"
+  }
+]

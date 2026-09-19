@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naushad Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "207403",
+    "phone_number": "+91 83280 30729",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "9FCP+6J4, Noorkhan Bazaar, Darulshifa, Hyderabad, Telangana 500024",
+    "area": "Noorkhan Bazaar, Darulshifa",
+    "latitude": 17.3705222,
+    "longitude": 78.4865858,
+    "place_id": "ChIJuwjvaGSZyzsR8JP0iFWJjOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwjvaGSZyzsR8JP0iFWJjOo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:35:47"
+  },
+  {
+    "business_name": "Thirty Six Toyota Showroom Faridabad",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Toyota dealer",
+    "all_categories": "Toyota dealer, Car dealer, Insurance agency, Motor vehicle dealer, Used car dealer",
+    "pincode": "207403",
+    "phone_number": "+91 129 429 3636",
+    "website": "http://www.thirtysixtoyota.co.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "14/7, Milestone, Mathura Rd, Sector 31, Faridabad, Haryana 121003",
+    "area": "Sector 31",
+    "latitude": 28.442463999999998,
+    "longitude": 77.309252,
+    "place_id": "ChIJI_Qrx-vbDDkRhNh0xBVk8dY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_Qrx-vbDDkRhNh0xBVk8dY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:35:48"
+  }
+]

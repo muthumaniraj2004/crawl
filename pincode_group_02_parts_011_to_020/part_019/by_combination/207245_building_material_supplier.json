@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal Building materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VPPX+XG2, Soron, Uttar Pradesh 207403",
+    "area": "207245",
+    "latitude": 27.887383999999997,
+    "longitude": 78.748756,
+    "place_id": "ChIJozdBmdUjdTkRRLqK2gqC8m4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozdBmdUjdTkRRLqK2gqC8m4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:13"
+  },
+  {
+    "business_name": "Sahu building material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, railway crossing, Sahawar, Uttar Pradesh 207245",
+    "area": "207245",
+    "latitude": 27.790699999999998,
+    "longitude": 78.83117159999999,
+    "place_id": "ChIJYbWtRh4ZdTkRwr92ic8tUW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbWtRh4ZdTkRwr92ic8tUW0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:16"
+  }
+]

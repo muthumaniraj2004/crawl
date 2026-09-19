@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kolkata car",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "207249",
+    "phone_number": "+91 98746 67560",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "CD - 86, Prafulla Kanan, Kestopur, Kolkata, West Bengal 700101",
+    "area": "Prafulla Kanan, Kestopur",
+    "latitude": 22.606418599999998,
+    "longitude": 88.4226499,
+    "place_id": "ChIJWxxsT5B1AjoRn3LPvUjDAiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxxsT5B1AjoRn3LPvUjDAiM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:23:50"
+  },
+  {
+    "business_name": "3M Car Care Studio - Car Detailing, Ceramic Coating and PPF, Aundh",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "207249",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 304,
+    "address": "Upper Basement, WESTEND MALL, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411067",
+    "area": "Ward No. 8, Wireless Colony, Aundh",
+    "latitude": 18.561420299999998,
+    "longitude": 73.806979,
+    "place_id": "ChIJo-xv32O_wjsRooSscPcoMJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-xv32O_wjsRooSscPcoMJE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:23:51"
+  }
+]

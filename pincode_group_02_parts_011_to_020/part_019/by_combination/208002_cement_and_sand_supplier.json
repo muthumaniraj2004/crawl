@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chauhan Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Building materials store",
+    "pincode": "208002",
+    "phone_number": "+91 93365 80047",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "F7H9+F7F, Maswanpur Rd, Sayyed Nagar, Rawatpur Gaon, Kanpur, Uttar Pradesh 208019",
+    "area": "Sayyed Nagar, Rawatpur Gaon",
+    "latitude": 26.4786888,
+    "longitude": 80.2681565,
+    "place_id": "ChIJf5Qrq_E3nDkR9JuZPJmAq-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5Qrq_E3nDkR9JuZPJmAq-w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:40:37"
+  },
+  {
+    "business_name": "Vishnu Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "208002",
+    "phone_number": "+91 99181 61411",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "26, Sukhau Purwa, Nawabganj, Kanpur, Uttar Pradesh 208017",
+    "area": "Sukhau Purwa, Nawabganj",
+    "latitude": 26.506719399999998,
+    "longitude": 80.28458309999999,
+    "place_id": "ChIJpUkjLiw4nDkREZaunv5LxVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUkjLiw4nDkREZaunv5LxVc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:40:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palette - Orient Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "208003",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/61787",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "NH19, NH19, Sachendi, Kataraghan Shyam, Uttar Pradesh 209101",
+    "area": "208003",
+    "latitude": 26.434516,
+    "longitude": 80.168548,
+    "place_id": "ChIJBfNc9a5LnDkRzj2dUsSw1Ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfNc9a5LnDkRzj2dUsSw1Ec",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:43:25"
+  },
+  {
+    "business_name": "Splashville Waterpark and Resort",
+    "search_category": "Resort",
+    "primary_category": "Water park",
+    "all_categories": "Water park",
+    "pincode": "208003",
+    "phone_number": "+91 97243 29287",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Purwameer, Sikathiya, Kanpur, Uttar Pradesh 209402",
+    "area": "208003",
+    "latitude": 26.209021099999998,
+    "longitude": 80.5242633,
+    "place_id": "ChIJXdELlY9nnDkRBzuukHxg8a0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdELlY9nnDkRBzuukHxg8a0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:43:25"
+  }
+]

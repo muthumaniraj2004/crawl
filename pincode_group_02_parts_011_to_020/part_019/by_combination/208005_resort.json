@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joye Grand",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "208005",
+    "phone_number": "+91 94280 56779",
+    "website": "N/A",
+    "rating": 1.4,
+    "reviews_count": 8,
+    "address": "G7C2+FM4, CTI Pl, Govind Nagar, Kalyanpur, Kanpur, Gangpur Kachhar, Uttar Pradesh 208017",
+    "area": "Govind Nagar, Kalyanpur",
+    "latitude": 26.5211339,
+    "longitude": 80.25169609999999,
+    "place_id": "ChIJj1WDfw03nDkRE4PxwbwK-l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1WDfw03nDkRE4PxwbwK-l4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:48:03"
+  },
+  {
+    "business_name": "K D Resort , Mandhana",
+    "search_category": "Resort",
+    "primary_category": "Marriage celebrant",
+    "all_categories": "Marriage celebrant",
+    "pincode": "208005",
+    "phone_number": "+91 98391 32333",
+    "website": "https://thekdresort.com/",
+    "rating": 4.3,
+    "reviews_count": 459,
+    "address": "Mandhana - Bithoor Rd, bithoor, Mandhana, Uttar Pradesh 209217",
+    "area": "208005",
+    "latitude": 26.5612173,
+    "longitude": 80.2307986,
+    "place_id": "ChIJi08vJNMxnDkR9lP1QTE9dgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi08vJNMxnDkR9lP1QTE9dgg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:48:06"
+  }
+]

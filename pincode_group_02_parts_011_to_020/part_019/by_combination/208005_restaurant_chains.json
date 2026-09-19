@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TBS Kitchen",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Health food restaurant",
+    "all_categories": "Health food restaurant",
+    "pincode": "208005",
+    "phone_number": "+91 73070 83653",
+    "website": "http://tbskitchen.myshopify.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "122/1, Laxmi Ratan Colony, Sarojini Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Laxmi Ratan Colony, Sarojini Nagar, Narainpurwa",
+    "latitude": 26.4663261,
+    "longitude": 80.3077106,
+    "place_id": "ChIJoW-XKiRHnDkR7COj2nSQpWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoW-XKiRHnDkR7COj2nSQpWE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:55"
+  },
+  {
+    "business_name": "Aromas",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "208005",
+    "phone_number": "+91 99355 35152",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7/135, Chat Chauraha, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Chat Chauraha, Khalasi Line, Swaroop Nagar",
+    "latitude": 26.4829039,
+    "longitude": 80.3177798,
+    "place_id": "ChIJewOIzWE4nDkRFCD4Xd4BgKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewOIzWE4nDkRFCD4Xd4BgKg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:59"
+  }
+]

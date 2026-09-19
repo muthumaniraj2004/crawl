@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Y-One Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Real estate consultant",
+    "pincode": "208003",
+    "phone_number": "+91 79059 75535",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Office: 2A /208, Awas Vikas, Hanspuram, Galla Mandi, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Galla Mandi, Naubasta",
+    "latitude": 26.398990899999998,
+    "longitude": 80.3216825,
+    "place_id": "ChIJ5Spsyl9GnDkReKQuLC-YwA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Spsyl9GnDkReKQuLC-YwA8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:43:53"
+  },
+  {
+    "business_name": "House Holder Real Estate Services",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Industrial real estate agency, Property investment company, Property management company, Real estate attorney, Real estate developer, Real estate rental agency",
+    "pincode": "208003",
+    "phone_number": "+91 92196 64417",
+    "website": "https://www.householder.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D 305, Barra 6, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Barra 6, Barra World Bank, Barra",
+    "latitude": 26.4300318,
+    "longitude": 80.29867139999999,
+    "place_id": "ChIJe_F_bThwtCARLwQZarm4XP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_F_bThwtCARLwQZarm4XP8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:43:56"
+  }
+]

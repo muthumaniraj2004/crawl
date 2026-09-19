@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mostly Unique",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store, Craft store, Stationery store",
+    "pincode": "208003",
+    "phone_number": "+91 95655 15563",
+    "website": "http://www.mostlyunique.com/",
+    "rating": 4.9,
+    "reviews_count": 241,
+    "address": "125/69A, U Block, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "U Block, Govind Nagar",
+    "latitude": 26.448865299999998,
+    "longitude": 80.2968789,
+    "place_id": "ChIJtTnXsuFHnDkRJMmUfM01Dd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTnXsuFHnDkRJMmUfM01Dd8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:43:27"
+  },
+  {
+    "business_name": "Prabhu Foam House",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "208003",
+    "phone_number": "+91 94154 84686",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 38,
+    "address": "133/169-M, Kidwainagar Rd, Main Road, M Block, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "M Block, Kidwai Nagar",
+    "latitude": 26.4349547,
+    "longitude": 80.3310716,
+    "place_id": "ChIJiducwA9HnDkRPdLqlQf2doY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiducwA9HnDkRPdLqlQf2doY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:43:27"
+  }
+]

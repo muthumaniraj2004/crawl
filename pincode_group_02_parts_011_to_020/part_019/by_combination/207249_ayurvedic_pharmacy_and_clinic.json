@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Bharti Ayurvedic Pharmacy",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "207249",
+    "phone_number": "+91 94127 08113",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mataur, Uttar Pradesh 250221",
+    "area": "207249",
+    "latitude": 29.1361812,
+    "longitude": 77.711303,
+    "place_id": "ChIJF5s3etptDDkRMfMws2dezyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5s3etptDDkRMfMws2dezyc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:23:41"
+  },
+  {
+    "business_name": "Ayurvedic And Homeopathy Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "207249",
+    "phone_number": "+91 97600 81086",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tentigaon, Mant, Uttar Pradesh 281202",
+    "area": "207249",
+    "latitude": 27.7285866,
+    "longitude": 77.7383907,
+    "place_id": "ChIJi20-9wZpczkRFwGLiqa3zx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi20-9wZpczkRFwGLiqa3zx0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:23:41"
+  }
+]

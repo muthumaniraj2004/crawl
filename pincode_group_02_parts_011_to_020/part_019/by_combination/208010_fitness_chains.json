@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNICORN FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "208010",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/unicornfitness.gym/",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "127/21, Gaushala Rd, W Block, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "W Block, Juhi Kalan, Saket Nagar",
+    "latitude": 26.4265337,
+    "longitude": 80.32007999999999,
+    "place_id": "ChIJ-fr96tZHnDkRtCV5SOyNomI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fr96tZHnDkRtCV5SOyNomI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:58:09"
+  },
+  {
+    "business_name": "NFT Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "208010",
+    "phone_number": "+91 82997 14267",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "Laxmi Tower, Balaji Chauraha, Koyla Nagar, Swarn Jayanti Vihar, Daheli Sujanpur, Kanpur, Uttar Pradesh 208011",
+    "area": "Koyla Nagar, Swarn Jayanti Vihar, Daheli Sujanpur",
+    "latitude": 26.3929451,
+    "longitude": 80.357721,
+    "place_id": "ChIJYfVs9HRHnDkRJITp4Ia3hB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfVs9HRHnDkRJITp4Ia3hB4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:58:09"
+  }
+]

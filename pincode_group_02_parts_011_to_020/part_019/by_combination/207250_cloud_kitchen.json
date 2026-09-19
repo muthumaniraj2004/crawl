@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "207250",
+    "phone_number": "+91 62917 21906",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Club, BLOCK-D, Monami Appartment, Mahamaya Sarani Rd, beside Mahamaya Club, Jyangra, South Math, Kolkata, West Bengal 700157",
+    "area": "Zarda Bagan, Jyangra, South Math",
+    "latitude": 22.609845999999997,
+    "longitude": 88.43901799999999,
+    "place_id": "ChIJ68Eohxd1AjoR6kVPvCRLq0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68Eohxd1AjoR6kVPvCRLq0A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:11"
+  },
+  {
+    "business_name": "Kalavara cloud kitchen and catering",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "207250",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 32,
+    "address": "494, 1st Main Rd, B Block, AECS Layout, Brookefield, Bengaluru, Karnataka 560037",
+    "area": "B Block, AECS Layout, Brookefield",
+    "latitude": 12.965134299999999,
+    "longitude": 77.71623129999999,
+    "place_id": "ChIJ5bj7dAATrjsRA-03XJ9nwTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bj7dAATrjsRA-03XJ9nwTo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:13"
+  }
+]

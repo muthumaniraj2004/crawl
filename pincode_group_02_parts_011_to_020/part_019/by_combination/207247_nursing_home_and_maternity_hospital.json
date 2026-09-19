@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "207247",
+    "phone_number": "+91 94114 91313",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 24,
+    "address": "260, Avas Vikas Colony, Sasni Gate, Aligarh, Uttar Pradesh 202001",
+    "area": "Avas Vikas Colony, Sasni Gate",
+    "latitude": 27.8666062,
+    "longitude": 78.073871,
+    "place_id": "ChIJZzckeHujdDkRCk89p_jC0KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzckeHujdDkRCk89p_jC0KU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:20:17"
+  },
+  {
+    "business_name": "Chandrawati Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "207247",
+    "phone_number": "+91 73514 73510",
+    "website": "http://shrijanigarbhsanskar.com/",
+    "rating": 4.8,
+    "reviews_count": 89,
+    "address": "Vikas Nagar, Shantipuram colony, Aligarh, Uttar Pradesh 202001",
+    "area": "Vikas Nagar",
+    "latitude": 27.8621445,
+    "longitude": 78.07691059999999,
+    "place_id": "ChIJH79sVGWjdDkRTHIAikIY6oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH79sVGWjdDkRTHIAikIY6oY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:20:17"
+  }
+]

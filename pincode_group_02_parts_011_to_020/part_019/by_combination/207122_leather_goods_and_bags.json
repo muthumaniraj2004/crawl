@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yeti Leather Products",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "207122",
+    "phone_number": "+91 79 2640 1117",
+    "website": "http://www.yetileather.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GF - 27, Advait, Nr.Sandesh Press, Vastrapur Rd, Bodakdev, Ahmedabad, Gujarat 380054",
+    "area": "Bodakdev",
+    "latitude": 23.041159099999998,
+    "longitude": 72.5258393,
+    "place_id": "ChIJ4ZtU4bOEXjkRS2kiL1jdQrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZtU4bOEXjkRS2kiL1jdQrc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:03:17"
+  },
+  {
+    "business_name": "Devon Leather",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop, Handbags shop, Leather coats store, Leather Exporter, Leather Products Manufacturer, Leather goods supplier, Leather repair service, Leather wholesaler, Plastic Bags Wholesaler",
+    "pincode": "207122",
+    "phone_number": "+91 87997 91252",
+    "website": "https://www.devonleather.com/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Ground Floor, Building No, 1/3, East Patel Nagar, Delhi 110008",
+    "area": "Block 27, East Patel Nagar, Patel Nagar",
+    "latitude": 28.6472165,
+    "longitude": 77.1718393,
+    "place_id": "ChIJ27pweeoDDTkRL6UrQ9sdi9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27pweeoDDTkRL6UrQ9sdi9w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:03:18"
+  }
+]

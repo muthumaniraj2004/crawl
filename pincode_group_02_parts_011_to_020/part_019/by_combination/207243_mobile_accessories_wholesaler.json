@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accessories Point",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "207243",
+    "phone_number": "+91 90123 48805",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Doordarshan Tower, Mahatma Gandhi Rd, Police Line, Etah, Uttar Pradesh 207001",
+    "area": "Police Line",
+    "latitude": 27.5561392,
+    "longitude": 78.6526938,
+    "place_id": "ChIJRUze5AH9dDkRmbIUp5RARg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUze5AH9dDkRmbIUp5RARg4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:14:18"
+  },
+  {
+    "business_name": "Rahil Mobile Center",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Computer networking service, Internet cafe, Printing equipment supplier",
+    "pincode": "207243",
+    "phone_number": "+91 89093 80388",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shatri Nagar, Jaithara, Uttar Pradesh 207249",
+    "area": "207243",
+    "latitude": 27.511830399999997,
+    "longitude": 79.02068009999999,
+    "place_id": "ChIJ335-okp1dTkREkxgcLrdwSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ335-okp1dTkREkxgcLrdwSk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:14:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Callbox Singapore",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Business development service, Business management consultant, Business to business service, Internet marketing service, Marketing consultant, Telephone Marketing Agency",
+    "pincode": "208004",
+    "phone_number": "N/A",
+    "website": "https://www.callbox.com.sg/?utm_source=gbp",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1, #24-10 Scotts Rd, Shaw Centre, Singapore 228208",
+    "area": "Central Area",
+    "latitude": 1.3061429999999998,
+    "longitude": 103.83171499999999,
+    "place_id": "ChIJq6qqYg4Z2jERcQSm88jMK_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqYg4Z2jERcQSm88jMK_Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:30"
+  },
+  {
+    "business_name": "Edixity",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "208004",
+    "phone_number": "+91 77548 97689",
+    "website": "https://edixity.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "127/576, W-1, Juhi Kalan, Saket Nagar, Kanpur, Uttar Pradesh 208014",
+    "area": "W-1, Juhi Kalan, Saket Nagar",
+    "latitude": 26.4350928,
+    "longitude": 80.3131241,
+    "place_id": "ChIJNQiFjENHnDkRPIMMfeN6HeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQiFjENHnDkRPIMMfeN6HeI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:31"
+  }
+]

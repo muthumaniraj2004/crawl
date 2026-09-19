@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car ReHub",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Auto restoration service, Car battery store, Car wash, Mechanic, Tire shop, Used car dealer, Wheel alignment service",
+    "pincode": "207401",
+    "phone_number": "+91 93159 65400",
+    "website": "http://www.carrehub.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D-296, Sector 63 Rd, Chhajarsi Colony, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Chhajarsi Colony, Sector 63",
+    "latitude": 28.628065199999998,
+    "longitude": 77.3860445,
+    "place_id": "ChIJF1B-rw_lDDkRL9Ge3EKbTBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1B-rw_lDDkRL9Ge3EKbTBc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:31:33"
+  },
+  {
+    "business_name": "Sri Sai Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "207401",
+    "phone_number": "+91 99012 70935",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Krishnasagara, Karnataka 562107",
+    "area": "207401",
+    "latitude": 12.7868631,
+    "longitude": 77.7422958,
+    "place_id": "ChIJYWy4zANurjsRvX8344LBYDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWy4zANurjsRvX8344LBYDA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:31:34"
+  }
+]

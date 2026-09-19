@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "207125",
+    "phone_number": "+91 94584 28790",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "zila panchayat, Railway Rd, Shanti Nagar, Etah, Uttar Pradesh 207001",
+    "area": "Shanti Nagar",
+    "latitude": 27.5623181,
+    "longitude": 78.6542924,
+    "place_id": "ChIJc7EbTcj9dDkR5eWGJy5yl5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7EbTcj9dDkR5eWGJy5yl5A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:08:54"
+  },
+  {
+    "business_name": "Greywood Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "207125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Etah-Kasganj Rd, near LIC Building, Sanjay Place, Agra, Choncha Bangaon, Uttar Pradesh 207001",
+    "area": "Sanjay Place",
+    "latitude": 27.570367899999997,
+    "longitude": 78.64862629999999,
+    "place_id": "ChIJ69C9y_P9dDkRPA5iMsEf4M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69C9y_P9dDkRPA5iMsEf4M4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:08:54"
+  }
+]

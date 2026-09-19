@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeraj Chem",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Agrochemicals Supplier, Chemical Exporter, Chemical plant, Import export company, Importer, Industrial chemicals wholesaler, Manufacturer, Wholesaler",
+    "pincode": "207246",
+    "phone_number": "+91 94225 22121",
+    "website": "http://www.neerajchem.in/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Shri Pal Chambers, 481/C, opp. Sahniwar Wada, Shaniwar Peth, Pune, Maharashtra 411011",
+    "area": "Shaniwar Peth",
+    "latitude": 18.5191385,
+    "longitude": 73.85445849999999,
+    "place_id": "ChIJq6qqWnrAwjsR3F9jTAflo0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqWnrAwjsR3F9jTAflo0A",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:19:36"
+  },
+  {
+    "business_name": "Shiva Inorganics",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "207246",
+    "phone_number": "+91 93162 42978",
+    "website": "https://www.shivainorganics.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RJR5+G8, Chak Bodla, Punjab 152003",
+    "area": "207246",
+    "latitude": 30.8413054,
+    "longitude": 74.6083374,
+    "place_id": "ChIJdZp4hobnGTkR9cnm-iCrBzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZp4hobnGTkR9cnm-iCrBzc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:19:36"
+  }
+]

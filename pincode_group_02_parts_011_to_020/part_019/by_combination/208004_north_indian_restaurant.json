@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kake di hatti",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Family restaurant",
+    "pincode": "208004",
+    "phone_number": "+91 91180 12224",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 507,
+    "address": "12/23, G.T.Road, Shiv Katra, Krishna Nagar, Kanpur, Uttar Pradesh 208007",
+    "area": "Shiv Katra, Krishna Nagar",
+    "latitude": 26.4208343,
+    "longitude": 80.3748444,
+    "place_id": "ChIJFzmJxoNBnDkRyoWE-IBudQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzmJxoNBnDkRyoWE-IBudQs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:44:30"
+  },
+  {
+    "business_name": "Swadisht bhojnalya (Punjabi Dhaba)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "208004",
+    "phone_number": "+91 93694 36536",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 60,
+    "address": "562/A, opp Railway Station Road, Rail Bazar, Harris Ganj, Kanpur Cantonment, Kanpur, Uttar Pradesh 208004",
+    "area": "Harris Ganj, Mirpur Cantonment, Kanpur Cantonment",
+    "latitude": 26.4527127,
+    "longitude": 80.3503405,
+    "place_id": "ChIJwzL-RERHnDkRZGlBSizDquA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzL-RERHnDkRZGlBSizDquA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:44:30"
+  }
+]

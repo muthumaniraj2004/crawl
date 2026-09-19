@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hariom Clinic",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "207403",
+    "phone_number": "+91 89540 50271",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kiloni, Rafhatpur, Kasganj, Uttar Pradesh 207123",
+    "area": "Rafhatpur",
+    "latitude": 27.8384397,
+    "longitude": 78.6510718,
+    "place_id": "ChIJF6ymIBHfdDkRhsskfN4q6wQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6ymIBHfdDkRhsskfN4q6wQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:35:36"
+  },
+  {
+    "business_name": "Kadarwadi",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "207403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WPGW+HPX, Kadarbari, Uttar Pradesh 207403",
+    "area": "207403",
+    "latitude": 27.926477,
+    "longitude": 78.746873,
+    "place_id": "ChIJoXnZawAhdTkRXYkoiEeRVnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXnZawAhdTkRXYkoiEeRVnw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:35:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mother Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "208005",
+    "phone_number": "+91 1800 180 1018",
+    "website": "https://www.motherdairy.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "133/171 M, Kidwainagar Rd, Side - 1, Marble Market, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Side - 1, Marble Market, Kidwai Nagar",
+    "latitude": 26.435376599999998,
+    "longitude": 80.33056169999999,
+    "place_id": "ChIJ-RsNPSBHnDkR-c5KyVjR3gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RsNPSBHnDkR-c5KyVjR3gk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:39"
+  },
+  {
+    "business_name": "Max Ice Cream",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Bakery and Cake Shop",
+    "pincode": "208005",
+    "phone_number": "+91 89604 14414",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "122, 695, Sindhi Colony, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Sindhi Colony, Shastri Nagar",
+    "latitude": 26.46493,
+    "longitude": 80.29704,
+    "place_id": "ChIJZdv1cfVHnDkRnlMr0GOpI_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdv1cfVHnDkRnlMr0GOpI_I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:40"
+  }
+]

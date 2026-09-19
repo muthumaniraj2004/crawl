@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gully Sales",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "208003",
+    "phone_number": "+91 80958 58589",
+    "website": "https://www.gullysales.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4th Floor, kaushal puri, 118/133, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Darshan Purwa",
+    "latitude": 26.466482199999998,
+    "longitude": 80.3174727,
+    "place_id": "ChIJm8EQ8XRHnDkRzMg34KNiJ1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8EQ8XRHnDkRzMg34KNiJ1E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:44:07"
+  },
+  {
+    "business_name": "Techbytedigital.in",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "208003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "86/269, Garg Rd, Rai Purwa, Kanpur, Uttar Pradesh 208003",
+    "area": "Rai Purwa",
+    "latitude": 26.4575876,
+    "longitude": 80.3336387,
+    "place_id": "ChIJTRE5aadHnDkRFYKdRKLU7NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRE5aadHnDkRFYKdRKLU7NM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:44:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta's Oil",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market",
+    "pincode": "207302",
+    "phone_number": "+91 97581 22932",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bus Stand, Near, Hathras - Jalesar Rd, Jalesar, Uttar Pradesh 207302",
+    "area": "207302",
+    "latitude": 27.4652687,
+    "longitude": 78.2946408,
+    "place_id": "ChIJ97QlbCz1dDkR_kt3xt9BYII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97QlbCz1dDkR_kt3xt9BYII",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:28:54"
+  },
+  {
+    "business_name": "Fish Farm BHUVEDA",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "207302",
+    "phone_number": "+91 90416 18637",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Nagla Ojha Shahnagar Timarua, Jalesar, Uttar Pradesh 207302",
+    "area": "207302",
+    "latitude": 27.4250498,
+    "longitude": 78.2579772,
+    "place_id": "ChIJdTOXbcJhdDkRZJnjBxw4kqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTOXbcJhdDkRZJnjBxw4kqw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:28:57"
+  }
+]

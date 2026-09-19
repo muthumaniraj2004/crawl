@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosa Planet",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Chinese restaurant, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "207247",
+    "phone_number": "+91 522 423 8844",
+    "website": "https://www.facebook.com/DosaPlanet.Lko/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "MG-S-19, Kapoorthala Road, Chandralok, Lucknow, Uttar Pradesh 226024",
+    "area": "Chandralok",
+    "latitude": 26.885911,
+    "longitude": 80.941502,
+    "place_id": "ChIJP0bOECtWmTkRVu2hWkSda4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0bOECtWmTkRVu2hWkSda4Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:20:01"
+  },
+  {
+    "business_name": "Dosa Island",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "207247",
+    "phone_number": "+91 72758 36552",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "9HRJ+2CJ, Nehru Rd, Farrukhabad, Uttar Pradesh 209625",
+    "area": "207247",
+    "latitude": 27.3900363,
+    "longitude": 79.58106,
+    "place_id": "ChIJ67SrN0UxnjkRbwrGRVV342k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67SrN0UxnjkRbwrGRVV342k",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:20:01"
+  }
+]

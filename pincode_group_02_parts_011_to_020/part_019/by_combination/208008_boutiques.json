@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAYA BOUTIQUE",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Dress store",
+    "pincode": "208008",
+    "phone_number": "+91 81270 18476",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd bypass, near nanhi duniya and Nawal medical store, Mangla Vihar 2, Daheli Sujanpur, Kanpur, Uttar Pradesh 208015",
+    "area": "Mangla Vihar 2, Daheli Sujanpur",
+    "latitude": 26.401094,
+    "longitude": 80.3734374,
+    "place_id": "ChIJO5EH8UNBnDkRjoJl4MksGI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5EH8UNBnDkRjoJl4MksGI4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:53:46"
+  },
+  {
+    "business_name": "Ashirwad boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "208008",
+    "phone_number": "+91 99366 42418",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "NS apartments 38 new MIG Landmark:, opposite lollipop school, Malikpuram, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Malikpuram, Neemeshwar MahaMandir Society, Barra World Bank, Barra",
+    "latitude": 26.443915999999998,
+    "longitude": 80.2954498,
+    "place_id": "ChIJUR4yWWRHnDkRlIkT8FNYn94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUR4yWWRHnDkRlIkT8FNYn94",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:53:47"
+  }
+]

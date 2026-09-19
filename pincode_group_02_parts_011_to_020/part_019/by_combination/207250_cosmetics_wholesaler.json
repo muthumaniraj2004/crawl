@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahib Cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "207250",
+    "phone_number": "+91 90090 19005",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "G-3, Anand Bazar Rd, Bima Nagar, Old Palasia, Indore, Madhya Pradesh 452018",
+    "area": "Bima Nagar, Old Palasia",
+    "latitude": 22.7278734,
+    "longitude": 75.89419529999999,
+    "place_id": "ChIJNxUgH0r9YjkRTSruY6UFYSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxUgH0r9YjkRTSruY6UFYSk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:58"
+  },
+  {
+    "business_name": "Laxmi cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Home goods store",
+    "pincode": "207250",
+    "phone_number": "+91 97335 38888",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 110,
+    "address": "Rejaul Karim Sarani, Gora Bazar, Berhampore, Gora Bazar, West Bengal 742101",
+    "area": "Gora Bazar",
+    "latitude": 24.0889678,
+    "longitude": 88.2481071,
+    "place_id": "ChIJR4eiBtV9-TkRV5ko5xd3uug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4eiBtV9-TkRV5ko5xd3uug",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:58"
+  }
+]

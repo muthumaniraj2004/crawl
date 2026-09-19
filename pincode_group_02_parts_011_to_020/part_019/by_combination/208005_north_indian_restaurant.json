@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tandoori Hits Restaurant & Caterers",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "208005",
+    "phone_number": "+91 87262 14277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "123/1-d, Kalpi Rd, Pratapganj, Fazalganj, Shastri Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Pratapganj, Fazalganj, Shastri Nagar",
+    "latitude": 26.461795799999997,
+    "longitude": 80.29706689999999,
+    "place_id": "ChIJWSjTfolHnDkRLr17QwQQlgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSjTfolHnDkRLr17QwQQlgY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:51"
+  },
+  {
+    "business_name": "KANPUR DELIGHT KITCHEN & TIFFIN SERVICE",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "208005",
+    "phone_number": "+91 92191 14981",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Fazalganj Industrial Estate, Fazalganj, Shastri Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Fazalganj Industrial Estate, Fazalganj, Shastri Nagar",
+    "latitude": 26.4604723,
+    "longitude": 80.3090093,
+    "place_id": "ChIJF1k59y5HnDkRLOGjY0c5Nuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1k59y5HnDkRLOGjY0c5Nuc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:55"
+  }
+]

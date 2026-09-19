@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MARUTI CYCLE WORLD",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle rental service, Bicycle repair shop, Bicycle wholesaler",
+    "pincode": "207003",
+    "phone_number": "+91 81082 92400",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no.1, Vandematram hills Satyamev vista Road, New, beside HDFC bank, Gota, Ahmedabad, Gujarat 382481",
+    "area": "Gota",
+    "latitude": 23.098508,
+    "longitude": 72.5414234,
+    "place_id": "ChIJQ6Clb7iDXjkRTEnPm-rnHd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6Clb7iDXjkRTEnPm-rnHd0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:58:40"
+  },
+  {
+    "business_name": "Shradha Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "207003",
+    "phone_number": "+91 99254 85995",
+    "website": "https://www.herocycles.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No. 27, Marigold Circle, Shaligram Prime, Safal Parisar Rd, Bopal, Ahmedabad, Gujarat 380057",
+    "area": "Bopal",
+    "latitude": 23.0161573,
+    "longitude": 72.4670514,
+    "place_id": "ChIJuzljCQCbXjkRKGZqotX2f54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzljCQCbXjkRKGZqotX2f54",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:58:40"
+  }
+]

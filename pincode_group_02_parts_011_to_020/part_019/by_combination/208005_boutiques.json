@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NC boutique store",
+    "search_category": "Boutiques",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Women's clothing store",
+    "pincode": "208005",
+    "phone_number": "+91 88400 47819",
+    "website": "https://namritascollection.wixsite.com/encee",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "120/422, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "area": "Lajpat Nagar, Narainpurwa",
+    "latitude": 26.471698999999997,
+    "longitude": 80.3047771,
+    "place_id": "ChIJ_w6WEts5nDkRwYUh3_ttGYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_w6WEts5nDkRwYUh3_ttGYc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:47:10"
+  },
+  {
+    "business_name": "Kamaksha Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "208005",
+    "phone_number": "+91 95017 58756",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Shop no. 18, JK Canal Ln, near Manoj Paan Shop, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "area": "Lajpat Nagar, Narainpurwa",
+    "latitude": 26.472768,
+    "longitude": 80.30644099999999,
+    "place_id": "ChIJmwFrYHY4nDkRUOaBLcgqENI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwFrYHY4nDkRUOaBLcgqENI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:47:10"
+  }
+]

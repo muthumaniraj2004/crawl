@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Pk verma",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Moh Dhanpal, Ganj Dundwara, Uttar Pradesh 207242",
+    "area": "207245",
+    "latitude": 27.7337301,
+    "longitude": 78.9420938,
+    "place_id": "ChIJR2yqNQATdTkRX9-L47m-cLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2yqNQATdTkRX9-L47m-cLg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:23"
+  },
+  {
+    "business_name": "Kid's Work Rehabilitation Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist",
+    "pincode": "207245",
+    "phone_number": "+91 87976 81753",
+    "website": "https://www.kidsworkrehab.in/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Akharaghat, near Gupta Timber, Sikandarpur, New area, Muzaffarpur, Bihar 842001",
+    "area": "Sikandarpur",
+    "latitude": 26.1384662,
+    "longitude": 85.39012369999999,
+    "place_id": "ChIJq1gGdW0ZZ0UR8HqyPTialzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1gGdW0ZZ0UR8HqyPTialzc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:23"
+  }
+]

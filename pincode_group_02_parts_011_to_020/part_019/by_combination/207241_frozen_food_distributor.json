@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen Delights",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Catering food and drink supplier, Dairy Products Supplier, Food products supplier, Fried chicken takeaway, Hotel supply store, Meat wholesaler, Wholesale Food Store, Wholesale grocer, Wholesaler",
+    "pincode": "207241",
+    "phone_number": "+91 73586 21707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no 2/76A, 1st Main Rd, Poompuhar Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Poompuhar Nagar, Kolathur",
+    "latitude": 13.120565099999999,
+    "longitude": 80.21214859999999,
+    "place_id": "ChIJucJJuY5lUjoRbTmaNYFpObQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucJJuY5lUjoRbTmaNYFpObQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:09:52"
+  },
+  {
+    "business_name": "Vikas Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Wholesale Food Store",
+    "pincode": "207241",
+    "phone_number": "+91 94221 04097",
+    "website": "https://pratibhamarketing.in/catalogue",
+    "rating": 4.2,
+    "reviews_count": 15,
+    "address": "Block No 20, Nr Post Office, Mahatma Fule Market, Maharashtra 440018",
+    "area": "Fule Market, Empress City",
+    "latitude": 21.1461088,
+    "longitude": 79.0907591,
+    "place_id": "ChIJPRJSkMDA1DsR17LoXxBXfQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRJSkMDA1DsR17LoXxBXfQI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:09:53"
+  }
+]

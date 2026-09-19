@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rangriti Store",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "208008",
+    "phone_number": "+91 11 4116 9006",
+    "website": "http://rangriti.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "G-27, Ground Floor 16/113, | Z Square Shopping Mall, M.G Road 27.2046° N 77.4977° E, Uttar Pradesh 208004",
+    "area": "Kanpur Cantonment",
+    "latitude": 26.4530249,
+    "longitude": 80.36801009999999,
+    "place_id": "ChIJFeRGHPFBnDkR9vlK7xoPEVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeRGHPFBnDkR9vlK7xoPEVY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:53:37"
+  },
+  {
+    "business_name": "Cotton Culture - Naveen Market",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "208008",
+    "phone_number": "N/A",
+    "website": "https://www.cottonculture.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No. 100, Naveen Market, Mall Rd, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.4746722,
+    "longitude": 80.345612,
+    "place_id": "ChIJdxCO2eA5nDkRHWv97WQ-AXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxCO2eA5nDkRHWv97WQ-AXQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:53:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Berry Skin Care",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "207002",
+    "phone_number": "+91 99786 07966",
+    "website": "https://berryskincare.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GMXF+8CW Maa Gaytri hospital, Sakeet Rd, opp. B.S.A Office, Shastripuram, Etah, Chilasani, Uttar Pradesh 207001",
+    "area": "Shastripuram",
+    "latitude": 27.5483682,
+    "longitude": 78.6735863,
+    "place_id": "ChIJzUVxIV0BdTkRZtgmhFCieac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUVxIV0BdTkRZtgmhFCieac",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:50"
+  },
+  {
+    "business_name": "Dr M Vipin Das Dermatologist",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist, Cosmetic surgeon",
+    "pincode": "207002",
+    "phone_number": "+91 79074 92848",
+    "website": "https://www.clinicspots.com/doctor/dr-m-vipin--das",
+    "rating": 4.8,
+    "reviews_count": 359,
+    "address": "Sree Chithra nagar, A4, Edapazhanji, Thiruvananthapuram, Keralam 695006",
+    "area": "Edapazhanji",
+    "latitude": 8.5053342,
+    "longitude": 76.97294509999999,
+    "place_id": "ChIJJdtd7Tq7BTsRgTqoiMmAjD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdtd7Tq7BTsRgTqoiMmAjD8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:50"
+  }
+]

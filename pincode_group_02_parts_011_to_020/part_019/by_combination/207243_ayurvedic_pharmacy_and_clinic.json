@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurvedic clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "207243",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HM77+X2R, Tiwariyan St, Shanti Nagar, Etah, Uttar Pradesh 207001",
+    "area": "Shanti Nagar",
+    "latitude": 27.5633883,
+    "longitude": 78.6640692,
+    "place_id": "ChIJYRtXxFIDdTkRL2SF3NV8pf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRtXxFIDdTkRL2SF3NV8pf0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:13:28"
+  },
+  {
+    "business_name": "Mudit Medical Store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Blood testing service, Herbal medicine store, Pathologist",
+    "pincode": "207243",
+    "phone_number": "+91 94100 00720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Madrak, Aligarh NH-93, Agra Aligrah Road, Uttar Pradesh 202150",
+    "area": "207243",
+    "latitude": 27.7936716,
+    "longitude": 78.0870628,
+    "place_id": "ChIJfX7Z9peidDkRg8OlixeEPlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfX7Z9peidDkRg8OlixeEPlU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:13:30"
+  }
+]

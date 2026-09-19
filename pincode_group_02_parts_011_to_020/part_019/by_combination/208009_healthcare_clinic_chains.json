@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V Well Healthcare",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "208009",
+    "phone_number": "+91 512 255 5333",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "271, A, Indira Nagar, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "area": "Indira Nagar, Kalyanpur",
+    "latitude": 26.507731099999997,
+    "longitude": 80.2597813,
+    "place_id": "ChIJQQaPOjU5nDkRZEFHAlZeB9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQaPOjU5nDkRZEFHAlZeB9M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:56:04"
+  },
+  {
+    "business_name": "Ram Janki Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "208009",
+    "phone_number": "+91 87075 20037",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ram Janki Hospital 1688, New Shivli Rd, near Samudaiyak Swasth Kendra, Bara Sirohi, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Bara Sirohi, Kalyanpur",
+    "latitude": 26.4988289,
+    "longitude": 80.2395469,
+    "place_id": "ChIJD3POfQY3nDkRjh_ZS24Uor8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3POfQY3nDkRjh_ZS24Uor8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:56:04"
+  }
+]

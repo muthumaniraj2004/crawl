@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Store",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Grocery store",
+    "pincode": "207250",
+    "phone_number": "+91 85957 07267",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "G-7, Bhadana Complex, Sai Dham Marg, Sector 86, Faridabad, Haryana 121007",
+    "area": "Sector 86",
+    "latitude": 28.4042486,
+    "longitude": 77.34641309999999,
+    "place_id": "ChIJt7bLl8PdDDkR7XzEtKeEQHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7bLl8PdDDkR7XzEtKeEQHY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:11"
+  },
+  {
+    "business_name": "South Indian Shop",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "207250",
+    "phone_number": "+91 89494 25570",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kumawat Colony, Gayatri Nagar, Sodala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Kumawat Colony, Gayatri Nagar, Sodala",
+    "latitude": 26.905880099999997,
+    "longitude": 75.772758,
+    "place_id": "ChIJ12PlCQC1bTkRJbmetLqEAgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12PlCQC1bTkRJbmetLqEAgs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:11"
+  }
+]

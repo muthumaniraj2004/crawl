@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urmila Guest House Soron",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ganga ji Road, near Bus Stand, Soron, Kadarbari, Uttar Pradesh 207403",
+    "area": "207245",
+    "latitude": 27.895025,
+    "longitude": 78.743782,
+    "place_id": "ChIJhdc1jzUhdTkRkz0T7ngJWy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdc1jzUhdTkRkz0T7ngJWy8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:29"
+  },
+  {
+    "business_name": "Ganga Seva Niketan guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Soron, Uttar Pradesh 207403",
+    "area": "207245",
+    "latitude": 27.888363199999997,
+    "longitude": 78.743551,
+    "place_id": "ChIJz1fA1XohdTkR-f4UN17cyVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1fA1XohdTkR-f4UN17cyVc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:29"
+  }
+]

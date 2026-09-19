@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chakki Expelar Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "207248",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "HW2P+6QF, Dhumari Rd, dhumri, Phagnaul, Uttar Pradesh 207248",
+    "area": "207248",
+    "latitude": 27.5505709,
+    "longitude": 78.9369248,
+    "place_id": "ChIJd_UmTsILdTkRrtdAATTzhNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_UmTsILdTkRrtdAATTzhNc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:21:29"
+  },
+  {
+    "business_name": "Rajan kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "207248",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GWPH+3R5, Dhumari - Patiyali Rd, dhumri, Uttar Pradesh 207248",
+    "area": "207248",
+    "latitude": 27.5351957,
+    "longitude": 78.9296165,
+    "place_id": "ChIJ0wgqfwALdTkR7YBOFUIkDiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wgqfwALdTkR7YBOFUIkDiM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:21:29"
+  }
+]

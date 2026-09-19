@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Freshora Earth - Grocery Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Grocery delivery service",
+    "pincode": "207241",
+    "phone_number": "+91 99428 28095",
+    "website": "https://freshoraearth.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "House no. 20, Kasturba Path, Boring Rd, behind NearJamuna Apartment, North Sri Krishna Puri, Patna, Bihar 800013",
+    "area": "North Sri Krishna Puri",
+    "latitude": 25.6179223,
+    "longitude": 85.11565569999999,
+    "place_id": "ChIJH5W8LoZZ7TkRMpX9LjQwUs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5W8LoZZ7TkRMpX9LjQwUs0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:09:47"
+  },
+  {
+    "business_name": "Forever living products Distributor",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "207241",
+    "phone_number": "+91 93897 68543",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "MAIN CHORAHA, MDR 45W, Sahawar Rd, GARHKA, Uttar Pradesh 207242",
+    "area": "207241",
+    "latitude": 27.7515666,
+    "longitude": 78.88339909999999,
+    "place_id": "ChIJV0d1PmkRdTkRFZb_DwetHYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0d1PmkRdTkRFZb_DwetHYE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:09:47"
+  }
+]

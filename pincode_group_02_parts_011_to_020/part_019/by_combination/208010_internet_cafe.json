@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durgesh Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Copy shop, Payphone",
+    "pincode": "208010",
+    "phone_number": "+91 99353 89999",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 15,
+    "address": "Shop No. MIG-1, MIG-24, Shyam Nagar, Kanpur, Uttar Pradesh 208021",
+    "area": "MIG-24, Shyam Nagar",
+    "latitude": 26.406926199999997,
+    "longitude": 80.3557282,
+    "place_id": "ChIJm0nrQ89GnDkRPuWt_boOaeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0nrQ89GnDkRPuWt_boOaeE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:58:59"
+  },
+  {
+    "business_name": "Aradhya internet cafe & Stationary Shop",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "208010",
+    "phone_number": "+91 88535 57093",
+    "website": "http://aradhyainternetcafe.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "39, Vimanpuri Rd, Bhabha Nagar, Daheli Sujanpur, Kanpur, Uttar Pradesh 208021",
+    "area": "Bhabha Nagar, Daheli Sujanpur",
+    "latitude": 26.398656499999998,
+    "longitude": 80.3846853,
+    "place_id": "ChIJwzbTp4tBnDkRAT4sOVWRAHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzbTp4tBnDkRAT4sOVWRAHk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:58:59"
+  }
+]

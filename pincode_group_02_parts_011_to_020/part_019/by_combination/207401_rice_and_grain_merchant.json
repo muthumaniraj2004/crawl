@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Rice Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "207401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sy.No. 288, 2, Kodichikkanahalli Main Rd, Bommanahalli, Bengaluru, Karnataka 560068",
+    "area": "Bommanahalli",
+    "latitude": 12.9020528,
+    "longitude": 77.6238946,
+    "place_id": "ChIJs77A6-kUrjsRox0H6SnGE3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs77A6-kUrjsRox0H6SnGE3Q",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:54"
+  },
+  {
+    "business_name": "Shiva Ji Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "207401",
+    "phone_number": "+91 92507 00129",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "103, Desh Bandhu Gupta Rd, Block 57, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block 57, Karol Bagh",
+    "latitude": 28.6523565,
+    "longitude": 77.19404569999999,
+    "place_id": "ChIJvdEwuxwDDTkRdEf2x05Ai6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdEwuxwDDTkRdEf2x05Ai6M",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:55"
+  }
+]

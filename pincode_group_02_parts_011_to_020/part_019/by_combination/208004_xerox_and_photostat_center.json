@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradip Computers & Stationery",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Aadhaar center, Delivery service, Gift shop, Internet cafe, Print shop, Toy store",
+    "pincode": "208004",
+    "phone_number": "+91 82991 77387",
+    "website": "https://www.pradipcomputers.shop/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Harjinder Nagar, 31, 131 E/5, Lal Bangla, Kanpur, Uttar Pradesh 208007",
+    "area": "131 E/5, Lal Bangla, Jajmau",
+    "latitude": 26.4310221,
+    "longitude": 80.379757,
+    "place_id": "ChIJ-RyzlPVBnDkRbMeQq7CYCQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RyzlPVBnDkRbMeQq7CYCQ8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:45:53"
+  },
+  {
+    "business_name": "Agarwal Business Centre",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Train ticket office",
+    "all_categories": "Train ticket office, Print shop",
+    "pincode": "208004",
+    "phone_number": "+91 93362 68557",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "84,manas vihar,in front of Durga mandir,, Jajmau, Kanpur, Uttar Pradesh 208010",
+    "area": "Jajmau",
+    "latitude": 26.420472099999998,
+    "longitude": 80.3987753,
+    "place_id": "ChIJTdSuqRxBnDkR24Tq7TENoIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdSuqRxBnDkR24Tq7TENoIQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:45:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Preka ENT - Dr Anil Gangwar",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, ENT Specialist",
+    "pincode": "207125",
+    "phone_number": "+91 84332 65696",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 96,
+    "address": "Mini Byp, Karamchari Nagar, Bareilly, Uttar Pradesh 243502",
+    "area": "Karamchari Nagar",
+    "latitude": 28.3822518,
+    "longitude": 79.3960975,
+    "place_id": "ChIJtzCfR7wHoDkRGvv2a93h61E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzCfR7wHoDkRGvv2a93h61E",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:08:31"
+  },
+  {
+    "business_name": "Janta Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "207125",
+    "phone_number": "+91 75368 19352",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 60,
+    "address": "Mohan Mohalla, Kanshiram Nagar SH-33, Soharo Janpad Road, Kasganj, Uttar Pradesh 207123",
+    "area": "Tarora",
+    "latitude": 27.809566,
+    "longitude": 78.6415804,
+    "place_id": "ChIJo3kQ7hbgdDkRFBOdm4fDGUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3kQ7hbgdDkRFBOdm4fDGUg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:08:34"
+  }
+]

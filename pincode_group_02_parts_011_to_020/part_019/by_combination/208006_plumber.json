@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uday Bhan plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "208006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "K Block, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "K Block, Govind Nagar",
+    "latitude": 26.448830599999997,
+    "longitude": 80.3152849,
+    "place_id": "ChIJf70HAHVHnDkRDrbkGis5tHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf70HAHVHnDkRDrbkGis5tHk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:49:58"
+  },
+  {
+    "business_name": "Water treatment&plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "208006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Water treatment&plumber, 208006, India",
+    "area": "208006",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJd9CzKtVHnDkR5FmWoh3VpYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9CzKtVHnDkR5FmWoh3VpYs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:49:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Legal Business LLP | Company Registration Consultant",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Certified public accountant",
+    "pincode": "208008",
+    "phone_number": "+91 86017 88000",
+    "website": "https://www.mylegalbusiness.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "THIRD FLOOR, NQI PLAZA OFFICE. 12, Alpha-I Commercial Belt, Greater Noida, Uttar Pradesh 201310",
+    "area": "Alpha-I Commercial Belt, Block E, Alpha I",
+    "latitude": 28.472455099999998,
+    "longitude": 77.5133255,
+    "place_id": "ChIJHwfDTTv9DDkRV06CpDgwJW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwfDTTv9DDkRV06CpDgwJW0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:54:59"
+  },
+  {
+    "business_name": "Wealth Bees",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "208008",
+    "phone_number": "+91 94158 66404",
+    "website": "http://wealthbees.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D-147, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.863337899999998,
+    "longitude": 80.9996309,
+    "place_id": "ChIJxz55YoDjmzkRgAq9vpb7RcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxz55YoDjmzkRgAq9vpb7RcE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:54:59"
+  }
+]

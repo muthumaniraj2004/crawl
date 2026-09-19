@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Paan Palace",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Ice cream shop, Tobacco shop",
+    "pincode": "207250",
+    "phone_number": "+91 94750 53111",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 756,
+    "address": "Jaydeep Building, Hill Cart Rd, Siliguri, West Bengal 734001",
+    "area": "Ward 6",
+    "latitude": 26.7120453,
+    "longitude": 88.42514059999999,
+    "place_id": "ChIJfYIF5WtB5DkRUUxVYiBUZC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfYIF5WtB5DkRUUxVYiBUZC0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:04"
+  },
+  {
+    "business_name": "Kamesh Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Flour mill, Tobacco shop",
+    "pincode": "207250",
+    "phone_number": "+91 99664 71298",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "road, Tenugupudi, Devarapalli, Andhra Pradesh 531030",
+    "area": "Tenugupudi",
+    "latitude": 17.988021,
+    "longitude": 82.9799233,
+    "place_id": "ChIJi0WQ9jzUOzoRovkg36_X8OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0WQ9jzUOzoRovkg36_X8OU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:06"
+  }
+]

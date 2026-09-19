@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bra House",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store",
+    "pincode": "207125",
+    "phone_number": "+91 99103 09787",
+    "website": "http://www.brahouse.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "G 20, 1, Block G, Rajouri Garden, Delhi, 110027",
+    "area": "Block G, Rajouri Garden",
+    "latitude": 28.644284799999998,
+    "longitude": 77.12122099999999,
+    "place_id": "ChIJBc9-7m0DDTkRue_MLvFd7Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBc9-7m0DDTkRue_MLvFd7Js",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:08:22"
+  },
+  {
+    "business_name": "Ganga Hosiery Factory",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "207125",
+    "phone_number": "+91 79830 30586",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Nawabganj, Saharanpur, Uttar Pradesh 247001",
+    "area": "Nawabganj",
+    "latitude": 29.973218499999998,
+    "longitude": 77.5500162,
+    "place_id": "ChIJO9OCXY_qDjkRuh1pr-Pl9c8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9OCXY_qDjkRuh1pr-Pl9c8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:08:23"
+  }
+]

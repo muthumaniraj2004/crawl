@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chitti's Quali Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "207250",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 120,
+    "address": "1-304/5, Dayal Nagar Colony, Vishalakshi Nagar, Visakhapatnam, Andhra Pradesh 530043",
+    "area": "Dayal Nagar Colony, Vishalakshi Nagar",
+    "latitude": 17.7519854,
+    "longitude": 83.3471916,
+    "place_id": "ChIJl-H2TwBbOToRCrkjzjVbdsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-H2TwBbOToRCrkjzjVbdsQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:08"
+  },
+  {
+    "business_name": "Bhai Bhai Chai Wala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "207250",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 02, Vasundra Kutumb, A Block, Tonk Rd, near Choki Dhani, Bilwa, Chokhi Dhani, Sukhdeopura Nohara, Jaipur, Bilwa Bujarg, Rajasthan 302022",
+    "area": "Bilwa, Chokhi Dhani, Sukhdeopura Nohara",
+    "latitude": 26.749187499999998,
+    "longitude": 75.8463695,
+    "place_id": "ChIJzaMbetnJbTkRxGVC0cFhLlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaMbetnJbTkRxGVC0cFhLlk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:09"
+  }
+]

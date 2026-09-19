@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Vaishno Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "208010",
+    "phone_number": "+91 94150 41009",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Mirza Ln, KDA Colony, J K Puri, Kanpur, Uttar Pradesh 208010",
+    "area": "KDA Colony, J K Puri",
+    "latitude": 26.4331237,
+    "longitude": 80.3927484,
+    "place_id": "ChIJJ3U-luZAnDkRpRuA3p5UcaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3U-luZAnDkRpRuA3p5UcaU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:58:25"
+  },
+  {
+    "business_name": "Shree Parvati Enterprises",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Hardware store",
+    "pincode": "208010",
+    "phone_number": "+91 94151 26620",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.14, Shivkatra Ave, Sidhart Market, Pakhar Pur, Jajmau, Kanpur, Uttar Pradesh 208007",
+    "area": "Sidhart Market, Pakhar Pur, Jajmau",
+    "latitude": 26.423994,
+    "longitude": 80.388778,
+    "place_id": "ChIJmZyPkx9BnDkRkO9IADre_1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZyPkx9BnDkRkO9IADre_1U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:58:25"
+  }
+]

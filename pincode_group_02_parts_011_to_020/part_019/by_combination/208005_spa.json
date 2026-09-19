@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise Unisex Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "208005",
+    "phone_number": "+91 96961 41991",
+    "website": "http://www.sunriseunisexspa.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House no. 910/1, Radha Vihar, avantika guest house, Awas Vikas, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas, Kalyanpur",
+    "latitude": 26.482079799999998,
+    "longitude": 80.2784636,
+    "place_id": "ChIJ1d6_b7w5nDkR8lnOZ6RTF8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1d6_b7w5nDkR8lnOZ6RTF8c",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:47:51"
+  },
+  {
+    "business_name": "Impression Spa And Beauty Centre",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon, Spa",
+    "pincode": "208005",
+    "phone_number": "+91 99842 46838",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 13,
+    "address": "Shop No.122, Anand laxmi apartment, 310, opp. Gulmohar &, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Shastri Nagar",
+    "latitude": 26.4652297,
+    "longitude": 80.30382879999999,
+    "place_id": "ChIJd-qyFIpHnDkRwBPDzF86kaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-qyFIpHnDkRwBPDzF86kaE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:47:53"
+  }
+]

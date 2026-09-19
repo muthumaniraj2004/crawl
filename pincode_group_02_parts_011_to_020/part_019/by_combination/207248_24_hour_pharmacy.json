@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "207248",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Mahapur shakarauli jaleshar, Etah, Uttar Pradesh 207302",
+    "area": "207248",
+    "latitude": 27.4010118,
+    "longitude": 78.3170554,
+    "place_id": "ChIJUfsNJzdfdDkRvPTAZ-pI9fY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfsNJzdfdDkRvPTAZ-pI9fY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:21:52"
+  },
+  {
+    "business_name": "Ruchi MEDICAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "207248",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HM68+4H5, Hazrat Makhdum Abdul Ghafur Shah Rd, Babuganj, Etah, Uttar Pradesh 207001",
+    "area": "Babuganj",
+    "latitude": 27.5602508,
+    "longitude": 78.6664694,
+    "place_id": "ChIJPeeWkwQCdTkRFmhoMAnKPB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeeWkwQCdTkRFmhoMAnKPB4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:21:52"
+  }
+]

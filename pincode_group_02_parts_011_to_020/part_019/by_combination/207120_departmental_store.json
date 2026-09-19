@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dileepkumarsharmasoshivcharanlal",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "207120",
+    "phone_number": "+91 81939 93200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sikandrarao, Etah Bypass Rd, near Barai Shahpu, Barai Shahpur, Uttar Pradesh 204215",
+    "area": "207120",
+    "latitude": 27.6739623,
+    "longitude": 78.4366479,
+    "place_id": "ChIJ5UwiVZXvdDkRPGxvdVrk4IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UwiVZXvdDkRPGxvdVrk4IE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:59:43"
+  },
+  {
+    "business_name": "Maa Vaishno Retail",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "207120",
+    "phone_number": "+91 90588 66999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No. 01, Kacheri Road, in front of BANK OF INDIA, Police Line, Etah, Uttar Pradesh 207001",
+    "area": "Police Line",
+    "latitude": 27.5590385,
+    "longitude": 78.6572388,
+    "place_id": "ChIJYy3A2ikDdTkRhAaE5OjcU3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYy3A2ikDdTkRhAaE5OjcU3c",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:59:45"
+  }
+]

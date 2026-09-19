@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramoji Resorts",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "207121",
+    "phone_number": "+91 81717 77751",
+    "website": "https://www.ramojiresorts.com/",
+    "rating": 4,
+    "reviews_count": 1301,
+    "address": "Aligarh Rd, near Navgarh Mandir, Ada Colony, Basant Bagh, Water Works Colony, Hathras, Uttar Pradesh 204101",
+    "area": "Ada Colony, Basant Bagh, Water Works Colony",
+    "latitude": 27.6100505,
+    "longitude": 78.0540276,
+    "place_id": "ChIJBZbpDXebdDkR02A4rnE7hJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZbpDXebdDkR02A4rnE7hJ0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:02:17"
+  },
+  {
+    "business_name": "M C SINGHAL FARM |Resort| |Banquet Hall| |Restaurant|",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Bed & breakfast, Conference center, North Indian restaurant, Hotel, Restaurant, South Indian restaurant, Wedding venue",
+    "pincode": "207121",
+    "phone_number": "+91 94126 78000",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "NH-509, Hathras Road Salempur, Sadabad, Hathras, Uttar Pradesh 281306",
+    "area": "Radha Puram",
+    "latitude": 27.453747699999997,
+    "longitude": 78.041539,
+    "place_id": "ChIJ_UhXCSCHdDkRoO3lPhSGS8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UhXCSCHdDkRoO3lPhSGS8c",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:02:20"
+  }
+]

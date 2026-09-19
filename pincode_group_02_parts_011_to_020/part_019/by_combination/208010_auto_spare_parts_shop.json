@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR AUTO PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "208010",
+    "phone_number": "+91 87870 30661",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "CCH3+5JJ, 150 Feet Rd, Jagai Pura, J K Puri, Kanpur, Uttar Pradesh 208010",
+    "area": "Jagai Pura, J K Puri",
+    "latitude": 26.427960799999997,
+    "longitude": 80.4040058,
+    "place_id": "ChIJ09Yn6P1AnDkRfVljP6wfghs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09Yn6P1AnDkRfVljP6wfghs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:58:12"
+  },
+  {
+    "business_name": "Udit sales",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "208010",
+    "phone_number": "+91 93353 99699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "46 Rajeev Nagar, (near police chauki, Lal Bangla, Jajmau Sub Metro City, Kanpur, Uttar Pradesh 208007",
+    "area": "Charari, Lal Bangla, Jajmau Sub Metro City",
+    "latitude": 26.424093,
+    "longitude": 80.38787289999999,
+    "place_id": "ChIJ6QWvexhBnDkRECoYtHzMgpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QWvexhBnDkRECoYtHzMgpI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:58:14"
+  }
+]

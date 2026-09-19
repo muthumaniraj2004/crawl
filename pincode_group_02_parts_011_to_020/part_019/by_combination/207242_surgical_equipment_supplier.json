@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Surgical Co",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Medical Equipment Manufacturer, Surgical Products Wholesaler, Medical equipment supplier",
+    "pincode": "207242",
+    "phone_number": "+91 22 6103 0000",
+    "website": "https://bombaysurgical.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "104, Raja Ram Mohan Roy Rd, Charni Road East, Shapur Baug, Grant Road, Mumbai, Maharashtra 400004",
+    "area": "Charni Road East, Shapur Baug, Grant Road",
+    "latitude": 18.9585599,
+    "longitude": 72.8196881,
+    "place_id": "ChIJVVVVVbm35zsRwFN-Mu7TQOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVbm35zsRwFN-Mu7TQOM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:11:54"
+  },
+  {
+    "business_name": "SGK Pharma",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler, Disposable Items shop, Hearing aid store, Hospital equipment and supplies, Medical equipment supplier, Wheelchair store",
+    "pincode": "207242",
+    "phone_number": "+91 99261 56269",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GROUND FLOOR, DAWA BAZAR, Shop No. 71, RNT Marg, R.N.T Marg, Indore, Madhya Pradesh 452001",
+    "area": "R.N.T Marg",
+    "latitude": 22.7126146,
+    "longitude": 75.87681959999999,
+    "place_id": "ChIJ309-HRj9YjkRiWHpk4VrKdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ309-HRj9YjkRiWHpk4VrKdM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:11:54"
+  }
+]

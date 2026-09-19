@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "208005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "121/603, Shastri Nagar Chauraha, Kali Mathiya, Vijay Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Kali Mathiya, Vijay Nagar, Shastri Nagar",
+    "latitude": 26.464060999999997,
+    "longitude": 80.2946788,
+    "place_id": "ChIJV8_2RQBHnDkRX250dVASNWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8_2RQBHnDkRX250dVASNWo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:52"
+  },
+  {
+    "business_name": "Pandit fast food corner",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Disposable tableware supplier",
+    "pincode": "208005",
+    "phone_number": "+91 88406 59705",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Road, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Daheli Sujanpur, Kanpur, Uttar Pradesh 208022",
+    "area": "Neemeshwar MahaMandir Society, Ratan Lal Nagar, Daheli Sujanpur",
+    "latitude": 26.396122899999998,
+    "longitude": 80.34895999999999,
+    "place_id": "ChIJKe4cBgBHnDkRdNSFXJyKFGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKe4cBgBHnDkRdNSFXJyKFGA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:46:56"
+  }
+]

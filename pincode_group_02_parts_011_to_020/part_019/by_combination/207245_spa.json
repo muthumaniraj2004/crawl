@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganga Pathology Lab",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "207245",
+    "phone_number": "+91 86305 05782",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Soron, Uttar Pradesh 207403",
+    "area": "207245",
+    "latitude": 27.8866643,
+    "longitude": 78.7447942,
+    "place_id": "ChIJ7TeMUcQhdTkRduWtsjSW6Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TeMUcQhdTkRduWtsjSW6Z0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:20"
+  },
+  {
+    "business_name": "Aura Mens Wellness Spa in Abu Dhabi",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "207245",
+    "phone_number": "N/A",
+    "website": "https://aurawellnesspa.com/",
+    "rating": 4.4,
+    "reviews_count": 41,
+    "address": "71, M Floor - Jabal An Nijeed St - Hadbat Al Za`Faranah - Zone 1 - Abu Dhabi - United Arab Emirates",
+    "area": "Hadbat Al Za`Faranah - Zone 1",
+    "latitude": 24.4461326,
+    "longitude": 54.4002912,
+    "place_id": "ChIJ06heVr9pXj4RA1W6DzVfZtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06heVr9pXj4RA1W6DzVfZtE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aaruhi",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "207401",
+    "phone_number": "+91 80064 78902",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Band Wali Gali, Mohalla Chohatta, Marela ETA, Kasganj, Marehra, Uttar Pradesh 207401",
+    "area": "Mohalla Chohatta, Marela ETA",
+    "latitude": 27.7375296,
+    "longitude": 78.56894539999999,
+    "place_id": "ChIJ09FRqVXhdDkRTEaIWB6iYps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09FRqVXhdDkRTEaIWB6iYps",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:31:09"
+  },
+  {
+    "business_name": "SAPARIYA INTERNATIONAL",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Batik clothing store, Clothing supplier, Clothing wholesaler",
+    "pincode": "207401",
+    "phone_number": "+91 89807 02442",
+    "website": "https://www.sapariyainternational.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-22, SOC, Guru Nagar Society, Bardoli, Gujarat 394601",
+    "area": "Guru Nagar Society, Bardoli",
+    "latitude": 21.1238338,
+    "longitude": 73.1163381,
+    "place_id": "ChIJFfy2EIRn4DsR1lox6kXf9n8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfy2EIRn4DsR1lox6kXf9n8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:31:12"
+  }
+]

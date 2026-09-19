@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Parampuri",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Aerated Drinks Supplier",
+    "pincode": "207301",
+    "phone_number": "+91 77630 60569",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bajaja Rd, opposite of shree leather, Dulhingunj, Gaya, Bihar 823001",
+    "area": "Dulhingunj",
+    "latitude": 24.795627999999997,
+    "longitude": 85.0093138,
+    "place_id": "ChIJI1ZauT0q8zkR4JaumoUtxsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1ZauT0q8zkR4JaumoUtxsk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:27:03"
+  },
+  {
+    "business_name": "Jagjeet Juice Machine",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store, Appliance store",
+    "pincode": "207301",
+    "phone_number": "+91 98103 77767",
+    "website": "https://fruitjuicemachine.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Nawabganj, Tis Hazari, New Delhi, Delhi, 110006",
+    "area": "Nawabganj, Tis Hazari",
+    "latitude": 28.664754199999997,
+    "longitude": 77.20966349999999,
+    "place_id": "ChIJie573i_9DDkRq--g4CdzSpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJie573i_9DDkRq--g4CdzSpQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:27:06"
+  }
+]

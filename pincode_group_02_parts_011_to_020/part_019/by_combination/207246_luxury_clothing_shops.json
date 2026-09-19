@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhumi Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "207246",
+    "phone_number": "+91 98183 03397",
+    "website": "https://bhumiboutique.wordpress.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "I-16, Street No-8, 14-d, Vijay Chowk Rd, Block F, Laxmi Nagar, Delhi, 110092",
+    "area": "Block F, Laxmi Nagar",
+    "latitude": 28.634655,
+    "longitude": 77.2795002,
+    "place_id": "ChIJexV9iav8DDkRtkm4ataA_Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexV9iav8DDkRtkm4ataA_Jg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:18:32"
+  },
+  {
+    "business_name": "Gazal Gupta",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Boutique, Bridal shop, Clothing store, Fashion designer, Western apparel store",
+    "pincode": "207246",
+    "phone_number": "+91 96679 09263",
+    "website": "http://www.gazalgupta.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "5-K, Dada Jungi House Ln, Shahpur Jat, Siri Fort, New Delhi, Delhi 110017",
+    "area": "Shahpur Jat, Siri Fort",
+    "latitude": 28.5495803,
+    "longitude": 77.212869,
+    "place_id": "ChIJe1WUEBTiDDkRjMLvGxAzQ8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1WUEBTiDDkRjMLvGxAzQ8w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:18:32"
+  }
+]

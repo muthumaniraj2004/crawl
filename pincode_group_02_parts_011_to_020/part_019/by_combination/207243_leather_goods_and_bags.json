@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Leather World",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "207243",
+    "phone_number": "+91 90451 11690",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 210,
+    "address": "Ground Floor, Shopping Arcade, B-28, Gopi Chand Shivhare Rd, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001",
+    "area": "Sadar Bazar, Agra Cantt, Idgah Colony",
+    "latitude": 27.160149099999998,
+    "longitude": 78.01132869999999,
+    "place_id": "ChIJvf7NVs52dDkRls2pKXBumYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvf7NVs52dDkRls2pKXBumYI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:13:25"
+  },
+  {
+    "business_name": "Adimani Leather Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "207243",
+    "phone_number": "+91 70118 20825",
+    "website": "https://www.adimani.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "128, Khatri, Katri Piper Khera, Gangaghat, Uttar Pradesh 209862",
+    "area": "207243",
+    "latitude": 26.455199099999998,
+    "longitude": 80.4301084,
+    "place_id": "ChIJo1GOy-5BnDkRHxaSE9fVLGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1GOy-5BnDkRHxaSE9fVLGM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:13:25"
+  }
+]

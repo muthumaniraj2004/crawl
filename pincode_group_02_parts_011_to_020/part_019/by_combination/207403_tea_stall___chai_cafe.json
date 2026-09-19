@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hyderabadi Irani Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop, Cookie shop, Ice cream shop, Tiffin center",
+    "pincode": "207403",
+    "phone_number": "+91 83458 80753",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "truck lay bye point, near Ilahipur, Ilahipur, Sehakhala, haripal, Ilipur, West Bengal 712706",
+    "area": "Ilahipur, Sehakhala",
+    "latitude": 22.7757665,
+    "longitude": 88.1618221,
+    "place_id": "ChIJa5fk0K59-DkRg-eHTKC9Yp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5fk0K59-DkRg-eHTKC9Yp4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:35:09"
+  },
+  {
+    "business_name": "Rajesh Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "207403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "RJ3R+G74, Kasganj, Uttar Pradesh 207123",
+    "area": "207403",
+    "latitude": 27.803761899999998,
+    "longitude": 78.6406999,
+    "place_id": "ChIJ9_z9xD3gdDkRvJypZzPAG28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_z9xD3gdDkRvJypZzPAG28",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:35:13"
+  }
+]

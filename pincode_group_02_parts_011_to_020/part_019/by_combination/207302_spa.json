@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaigurudev Therapy Center",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "207302",
+    "phone_number": "+91 74549 57842",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Rawat Colony, Barhan, Uttar Pradesh 283201",
+    "area": "Rawat Colony",
+    "latitude": 27.3307313,
+    "longitude": 78.1938105,
+    "place_id": "ChIJjxzf3I1jdDkRniJWKRLVK48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxzf3I1jdDkRniJWKRLVK48",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:29:50"
+  },
+  {
+    "business_name": "Nirogybhava Ayurveda center",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "207302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "L-154/9, Mahavir Ganj, Jalesar, Uttar Pradesh 207302",
+    "area": "Mahavir Ganj",
+    "latitude": 27.471445499999998,
+    "longitude": 78.31021489999999,
+    "place_id": "ChIJ1ZI7xxH1dDkRrShLBq5KQFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZI7xxH1dDkRrShLBq5KQFA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:29:50"
+  }
+]

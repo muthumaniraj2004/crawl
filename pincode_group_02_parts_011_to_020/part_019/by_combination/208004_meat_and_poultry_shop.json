@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zahid Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "208004",
+    "phone_number": "+91 93892 25385",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "56, 56, New Sabzi Mandi Street, Near Bank Of Baroda ATM, New Sabzi Mandi, Lal Bungalow, J K Puri, Kanpur, Uttar Pradesh 208007",
+    "area": "Near Bank Of Baroda ATM, New Sabzi Mandi, Lal Bungalow, J K Puri",
+    "latitude": 26.4201029,
+    "longitude": 80.3935616,
+    "place_id": "ChIJ-TELBBxBnDkR13C4QLaFxRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TELBBxBnDkR13C4QLaFxRI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:44:21"
+  },
+  {
+    "business_name": "Bird Market",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Bird shop",
+    "all_categories": "Bird shop",
+    "pincode": "208004",
+    "phone_number": "+91 97587 33740",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C8QQ+CW6, Unnamed Road, Begam Purwa, Kidwai Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "Begam Purwa, Kidwai Nagar",
+    "latitude": 26.4385411,
+    "longitude": 80.33977709999999,
+    "place_id": "ChIJHWICOvJHnDkRdudJgX9qbpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWICOvJHnDkRdudJgX9qbpE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:44:23"
+  }
+]

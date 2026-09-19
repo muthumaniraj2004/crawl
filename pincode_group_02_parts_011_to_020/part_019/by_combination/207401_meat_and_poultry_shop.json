@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOLDEN MUTTON AND CHICKEN CORNER",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "207401",
+    "phone_number": "+91 88013 74545",
+    "website": "https://goldenmuttonchickencorner.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Golden Mutton Chicken Corner, 564, 1919, Syed Ali Chabutra, Shah Ali Banda, Hyderabad, Telangana 500065",
+    "area": "Syed Ali Chabutra, Aliabad North, Shah Ali Banda",
+    "latitude": 17.3477118,
+    "longitude": 78.47077999999999,
+    "place_id": "ChIJAQAANPeXyzsRdUgD4AwUok0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAANPeXyzsRdUgD4AwUok0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:55"
+  },
+  {
+    "business_name": "Friends meat shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "207401",
+    "phone_number": "+91 98715 17065",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "2, Block B, Swarn Nagari, Jaypee Greens, Greater Noida, Uttar Pradesh 201315",
+    "area": "Block B, Swarn Nagari, Jaypee Greens",
+    "latitude": 28.463372699999997,
+    "longitude": 77.52973109999999,
+    "place_id": "ChIJSziLG-DBDDkRqWNHrQ_5usU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSziLG-DBDDkRqWNHrQ_5usU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:56"
+  }
+]

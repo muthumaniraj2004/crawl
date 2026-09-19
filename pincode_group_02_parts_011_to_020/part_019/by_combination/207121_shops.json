@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Garments",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "207121",
+    "phone_number": "+91 85350 68406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Post Office, Main market, 186, Uttar Pradesh 207121",
+    "area": "207121",
+    "latitude": 27.433733,
+    "longitude": 78.778819,
+    "place_id": "ChIJfW16MgCpdTkRVZ2xPruQxxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfW16MgCpdTkRVZ2xPruQxxs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:02:57"
+  },
+  {
+    "business_name": "V-Mart - Kasganj-Thandi Sadak",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Convenience store, Department store, Variety store",
+    "pincode": "207121",
+    "phone_number": "+91 93192 59098",
+    "website": "https://stores.vmartretail.com/clothing-mart-kasganj-etah-34976/home?utm_source=gbp",
+    "rating": 4.8,
+    "reviews_count": 7406,
+    "address": "Thandi Sadak Gate, Badria, Bilram, Kasganj, Uttar Pradesh 207123",
+    "area": "Badria",
+    "latitude": 27.809072,
+    "longitude": 78.6409377,
+    "place_id": "ChIJizRK-pLhdDkRhA1fFUnwgMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizRK-pLhdDkRhA1fFUnwgMc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:02:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lotus Super Specialty Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "208005",
+    "phone_number": "+91 95111 13923",
+    "website": "https://lotushospitalkanpur.com/",
+    "rating": 3.7,
+    "reviews_count": 234,
+    "address": "120/500(22, Lajpat Nagar Rd, Near J.K. Temple, Lajpat Nagar, Narainpurwa, Kanpur, Uttar Pradesh 208005",
+    "area": "Near J.K. Temple, Lajpat Nagar, Narainpurwa",
+    "latitude": 26.4714448,
+    "longitude": 80.30364709999999,
+    "place_id": "ChIJC4Hf59c5nDkRNov_y0X2I7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4Hf59c5nDkRNov_y0X2I7I",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:47:16"
+  },
+  {
+    "business_name": "Fresenius Medical Care - Regency Nephrocare Pvt Ltd - Govind Nagar",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "208005",
+    "phone_number": "+91 97163 23843",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No.16 & 17, K Block, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "K Block, Govind Nagar",
+    "latitude": 26.446418899999998,
+    "longitude": 80.3028479,
+    "place_id": "ChIJWdOPffdHnDkRRMst7kk9A4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdOPffdHnDkRRMst7kk9A4U",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:47:20"
+  }
+]

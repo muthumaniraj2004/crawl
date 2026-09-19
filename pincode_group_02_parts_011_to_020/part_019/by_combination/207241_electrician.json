@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moni Electronic",
+    "search_category": "Electrician",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Appliance repair service, Television repair service",
+    "pincode": "207241",
+    "phone_number": "+91 74174 00198",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 32,
+    "address": "Ganjdwara rod petrol pump ke najdeek, Sidhpura, Sarai Patti, Uttar Pradesh 207246",
+    "area": "207241",
+    "latitude": 27.6366251,
+    "longitude": 78.87324799999999,
+    "place_id": "ChIJo8DRKLoPdTkRUbxX1XdphdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8DRKLoPdTkRUbxX1XdphdU",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:10:32"
+  },
+  {
+    "business_name": "Rmesh pal Mobile repairing senter",
+    "search_category": "Electrician",
+    "primary_category": "Engineer",
+    "all_categories": "Engineer",
+    "pincode": "207241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Semara Morcha, Po, Pithanpur, Uttar Pradesh 207246",
+    "area": "207241",
+    "latitude": 27.660956799999997,
+    "longitude": 78.81578979999999,
+    "place_id": "ChIJT3ADaPIbdTkRHVo2MsP-LZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3ADaPIbdTkRHVo2MsP-LZo",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:10:32"
+  }
+]

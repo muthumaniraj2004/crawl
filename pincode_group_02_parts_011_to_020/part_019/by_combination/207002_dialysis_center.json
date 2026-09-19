@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daruk Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "207002",
+    "phone_number": "+91 99360 46066",
+    "website": "https://darukdialysiscenter.com/",
+    "rating": 4.5,
+    "reviews_count": 26,
+    "address": "B19, Sector J, Asiana Nagar, Chowk, Bangla Bazar, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector J, Bangla Bazar",
+    "latitude": 26.800528,
+    "longitude": 80.9217977,
+    "place_id": "ChIJF8jPMNuJhwgRtXBX0txP61g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8jPMNuJhwgRtXBX0txP61g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:51"
+  },
+  {
+    "business_name": "7MED Rishikesh – AIIMS",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "207002",
+    "phone_number": "N/A",
+    "website": "http://www.7medindia.com/our-clinics/7med-rishikesh-aiims/",
+    "rating": 4.7,
+    "reviews_count": 43,
+    "address": "7Med Dialysis Center, AIIMS Rishikesh Virbhadra Road Shivaji Nagar, near Barrage, Sturida Colony, Rishikesh, Uttarakhand 249203",
+    "area": "Sturida Colony",
+    "latitude": 30.0809426,
+    "longitude": 78.2860654,
+    "place_id": "ChIJQR7xMCA_CTkRTfGkIuuzIbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQR7xMCA_CTkRTfGkIuuzIbc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 06:56:51"
+  }
+]

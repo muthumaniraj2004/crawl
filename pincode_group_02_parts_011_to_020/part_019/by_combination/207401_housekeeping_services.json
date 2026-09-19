@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "207401",
+    "phone_number": "+91 93047 77652",
+    "website": "https://rrenterprisespatna.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dujra Main Rd, Buddha Colony, Patna, Bihar 800001",
+    "area": "Buddha Colony",
+    "latitude": 25.623549099999998,
+    "longitude": 85.1276658,
+    "place_id": "ChIJc7CBA0pY7TkRLgcDwgdZxOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7CBA0pY7TkRLgcDwgdZxOk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:32:29"
+  },
+  {
+    "business_name": "Techno Facility And Management Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "207401",
+    "phone_number": "+91 79781 78285",
+    "website": "https://www.technofacility.co.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Plot No-370/4218, Damana Square, Chandrasekharpur, Bhubaneswar, Odisha 751021",
+    "area": "Kanak Durga Nagar, Chandrasekharpur",
+    "latitude": 20.333339499999997,
+    "longitude": 85.8208653,
+    "place_id": "ChIJUaVULQ0JGToRBOo3AYpXddc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUaVULQ0JGToRBOo3AYpXddc",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:32:29"
+  }
+]

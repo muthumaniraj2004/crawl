@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "207401",
+    "phone_number": "+91 172 277 2071",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Sector 16 D, Sector 16, Chandigarh, 160015",
+    "area": "Sector 16 D, Sector 16",
+    "latitude": 30.7484443,
+    "longitude": 76.7745058,
+    "place_id": "ChIJ1yYHCpztDzkRQ1bRJkNEqek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yYHCpztDzkRQ1bRJkNEqek",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:31:26"
+  },
+  {
+    "business_name": "Inder Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "207401",
+    "phone_number": "+91 172 278 1563",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "40, Sector 16 D, Sector 16, Chandigarh, 160015",
+    "area": "Sector 16 D, Sector 16",
+    "latitude": 30.7480785,
+    "longitude": 76.7747912,
+    "place_id": "ChIJNzF_CZztDzkRlleeGt1FTww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzF_CZztDzkRlleeGt1FTww",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:31:26"
+  }
+]

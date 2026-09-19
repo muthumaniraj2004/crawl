@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalu Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "208007",
+    "phone_number": "+91 75250 62428",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "9CQ5+RH5, GT రోడ్డు, Sanjeev Nagar, Gandhigram, Kanpur, Uttar Pradesh 208007",
+    "area": "Sanjeev Nagar, Gandhigram",
+    "latitude": 26.3895211,
+    "longitude": 80.4089892,
+    "place_id": "ChIJVexVhHhBnDkRG02ras7dlPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVexVhHhBnDkRG02ras7dlPQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:51:43"
+  },
+  {
+    "business_name": "Surya Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "208007",
+    "phone_number": "+91 83820 06011",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "580-C, Kanpur - Lucknow Highway, Safipur 1st, Jajmau Sub Metro City, Kanpur, Uttar Pradesh 208007",
+    "area": "Safipur 1st, Jajmau Sub Metro City",
+    "latitude": 26.4120973,
+    "longitude": 80.38689459999999,
+    "place_id": "ChIJbxDdaj1BnDkRuw_wPUU88FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxDdaj1BnDkRuw_wPUU88FI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:51:43"
+  }
+]

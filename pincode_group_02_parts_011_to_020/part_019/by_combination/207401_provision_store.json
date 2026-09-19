@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Khad Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "207401",
+    "phone_number": "+91 99178 63209",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Station Rd, Marehra, Uttar Pradesh 207401",
+    "area": "207401",
+    "latitude": 27.7398541,
+    "longitude": 78.5665052,
+    "place_id": "ChIJdQHzkMXhdDkRvczxt-c-wOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQHzkMXhdDkRvczxt-c-wOY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:50"
+  },
+  {
+    "business_name": "Kuldeep Confencnory",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Wholesaler",
+    "pincode": "207401",
+    "phone_number": "+91 97209 93965",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Shop No8 Near By Pidora Add, Marehra, Uttar Pradesh 207401",
+    "area": "Mohalla Chohatta",
+    "latitude": 27.7349319,
+    "longitude": 78.5694994,
+    "place_id": "ChIJUanmMnThdDkRLQVKO9KPcT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUanmMnThdDkRLQVKO9KPcT8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:30:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvind traders",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Iron & Steel Store",
+    "all_categories": "Iron & Steel Store",
+    "pincode": "208007",
+    "phone_number": "+91 87870 58989",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 8,
+    "address": "India, Sanigawan Rd, Uttar Pradesh 208021",
+    "area": "Daheli Sujanpur",
+    "latitude": 26.3916519,
+    "longitude": 80.38180729999999,
+    "place_id": "ChIJ4wsbza1BnDkRkn4eS13spUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wsbza1BnDkRkn4eS13spUs",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:52:07"
+  },
+  {
+    "business_name": "Yadav Enterprises",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Construction Material Wholesaler",
+    "all_categories": "Construction Material Wholesaler",
+    "pincode": "208007",
+    "phone_number": "N/A",
+    "website": "https://www.yadaventerprises.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arra Rd, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Naubasta",
+    "latitude": 26.3982679,
+    "longitude": 80.3031273,
+    "place_id": "ChIJH5VHT_lHnDkRUG28kSg0K_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5VHT_lHnDkRUG28kSg0K_o",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:52:10"
+  }
+]

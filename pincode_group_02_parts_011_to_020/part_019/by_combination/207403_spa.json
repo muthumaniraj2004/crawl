@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oliva Salon and Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "207403",
+    "phone_number": "+91 89519 31860",
+    "website": "https://olivasalonandspa.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2nd Floor, Usha Complex, 124/5, Sarjapur - Marathahalli Rd, beside Aromas Biryani, Doddakannelli, Bengaluru, Karnataka 560035",
+    "area": "Doddakannelli",
+    "latitude": 12.907669,
+    "longitude": 77.694417,
+    "place_id": "ChIJWWTh9LkTrjsRetexStuG9Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWTh9LkTrjsRetexStuG9Bw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:36:06"
+  },
+  {
+    "business_name": "Earth Veda Spa & Salon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa",
+    "pincode": "207403",
+    "phone_number": "+91 72407 09030",
+    "website": "http://www.earthvedaspa.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3rd Floor, 34, 1280, Mankave, Kozhikode, Keralam 673007",
+    "area": "Mankave",
+    "latitude": 11.2360703,
+    "longitude": 75.8051146,
+    "place_id": "ChIJmcyoWa5ZpjsR-bvZWElHIKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcyoWa5ZpjsR-bvZWElHIKk",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:36:06"
+  }
+]

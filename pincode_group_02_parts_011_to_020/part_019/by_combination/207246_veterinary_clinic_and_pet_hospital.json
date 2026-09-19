@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Pets Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "207246",
+    "phone_number": "+91 82752 59552",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop 2, Chandan Apt, beside Nanekar Park, Pimpri Gaon, Pimpri Colony, Pimpri-Chinchwad, Pune, Maharashtra 411017",
+    "area": "Pimpri Gaon, Pimpri Colony",
+    "latitude": 18.605832,
+    "longitude": 73.8012196,
+    "place_id": "ChIJb4ZoaJy5wjsRJWQkI9mlilE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4ZoaJy5wjsRJWQkI9mlilE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:18:39"
+  },
+  {
+    "business_name": "Top Vet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Emergency veterinarian service, Pet groomer, Veterans hospital, Veterinary pharmacy",
+    "pincode": "207246",
+    "phone_number": "N/A",
+    "website": "https://topvet.ae/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "68CF+MP2 - Al Jadaf - Dubai - United Arab Emirates",
+    "area": "Al Jadaf",
+    "latitude": 25.2215059,
+    "longitude": 55.324296499999996,
+    "place_id": "ChIJlTBpfJNdXz4RTp7VXj1Ugl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTBpfJNdXz4RTp7VXj1Ugl0",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:18:40"
+  }
+]

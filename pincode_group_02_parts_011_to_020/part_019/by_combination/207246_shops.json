@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaya fashion point",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "207246",
+    "phone_number": "+91 70174 86706",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main Market, dhumri, Uttar Pradesh 207248",
+    "area": "Main Market",
+    "latitude": 27.5325405,
+    "longitude": 78.93030209999999,
+    "place_id": "ChIJyxYXwNULdTkRnEYzptC1GRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxYXwNULdTkRnEYzptC1GRY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:19:50"
+  },
+  {
+    "business_name": "Saurav Shop",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "207246",
+    "phone_number": "+91 83685 23391",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop No 2, Sidhpura, Daheli Bujurg, Uttar Pradesh 207246",
+    "area": "207246",
+    "latitude": 27.6299195,
+    "longitude": 78.8624426,
+    "place_id": "ChIJ13juvqgPdTkRczB-cy8HUYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13juvqgPdTkRczB-cy8HUYM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:19:51"
+  }
+]

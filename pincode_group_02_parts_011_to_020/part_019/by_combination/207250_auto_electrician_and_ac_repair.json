@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Car A/C",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "207250",
+    "phone_number": "+91 90225 85220",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Hotel Rahul Park, Kolkhe Village, Kolkhe, Panvel, Kolkhe, Maharashtra 410221",
+    "area": "Kolkhe Village, Kolkhe",
+    "latitude": 18.966513199999998,
+    "longitude": 73.1381471,
+    "place_id": "ChIJx6AVkDbn5zsRYdHxGty6i6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6AVkDbn5zsRYdHxGty6i6k",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:40"
+  },
+  {
+    "business_name": "NS Auto Care",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "207250",
+    "phone_number": "+91 83902 26941",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 125,
+    "address": "CTS no 18360, Railway Station Rd, opposite to MTDC resort, Padampani Colony, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Padampani Colony",
+    "latitude": 19.861740599999997,
+    "longitude": 75.3136134,
+    "place_id": "ChIJ_awZ1MeZ2zsRHYwuUwfBn8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_awZ1MeZ2zsRHYwuUwfBn8g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:25:41"
+  }
+]

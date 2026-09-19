@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The pizza village",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "207301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "CFRP+97M, Rani Avanti Bai Inter College,tundla road, Awagarh - Etah Rd, Awagarh, Uttar Pradesh 207301",
+    "area": "207301",
+    "latitude": 27.4409721,
+    "longitude": 78.48567469999999,
+    "place_id": "ChIJV9QyVgDndDkRbit_VsfavJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9QyVgDndDkRbit_VsfavJE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:27:09"
+  },
+  {
+    "business_name": "Shree Radhe Family Restaurant And Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "207301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Punhera, Jalesar, Uttar Pradesh 207302",
+    "area": "207301",
+    "latitude": 27.4719224,
+    "longitude": 78.38248109999999,
+    "place_id": "ChIJjaqkhoP1dDkRAH6CrwofwC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjaqkhoP1dDkRAH6CrwofwC8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:27:09"
+  }
+]

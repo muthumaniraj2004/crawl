@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samco Securities Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "207125",
+    "phone_number": "+91 91222 27777",
+    "website": "https://www.samco.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1104 - A, 11th Floor, Naman Midtown - A Wing Senapati Bapat Marg, Fitwala Rd, Mumbai, Maharashtra 400013",
+    "area": "Dadar West",
+    "latitude": 19.010310399999998,
+    "longitude": 72.8362894,
+    "place_id": "ChIJDRSZtunO5zsRYZJPvCyW5bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRSZtunO5zsRYZJPvCyW5bY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:09:23"
+  },
+  {
+    "business_name": "My Equity Gurukul",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "207125",
+    "phone_number": "N/A",
+    "website": "https://myequitygurukul.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "My Equity Gurukul, 207125, India",
+    "area": "207125",
+    "latitude": 19.0815074,
+    "longitude": 72.8783527,
+    "place_id": "ChIJy9XX-Y7MzY8RCA7ilr7SFc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9XX-Y7MzY8RCA7ilr7SFc4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:09:24"
+  }
+]

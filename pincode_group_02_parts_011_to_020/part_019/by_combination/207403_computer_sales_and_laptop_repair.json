@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalptaru Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer repair service, Computer service, Computer Wholesaler",
+    "pincode": "207403",
+    "phone_number": "+91 98930 91489",
+    "website": "https://kalptarucomputers.lovable.app/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "a block, Silver Mall, ug 17, RNT Marg, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "area": "South Tukoganj",
+    "latitude": 22.716656,
+    "longitude": 75.87378,
+    "place_id": "ChIJ-VE59-T8YjkReyHxmAJVziM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VE59-T8YjkReyHxmAJVziM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:36:35"
+  },
+  {
+    "business_name": "Cost To Cost Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "207403",
+    "phone_number": "N/A",
+    "website": "http://www.costtocost.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "first floor, Deepak Building, 14-15, Nehru Place, New Delhi, Delhi 110019",
+    "area": "Nehru Place",
+    "latitude": 28.547412899999998,
+    "longitude": 77.2513689,
+    "place_id": "ChIJ67Hhf1jjDDkRkeoz0-T0DlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67Hhf1jjDDkRkeoz0-T0DlA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:36:35"
+  }
+]

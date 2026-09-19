@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JJR FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "207243",
+    "phone_number": "+91 89238 64994",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "H4G6+868, Diouraiya, Uttar Pradesh 207244",
+    "area": "207243",
+    "latitude": 27.575832199999997,
+    "longitude": 79.110657,
+    "place_id": "ChIJw1mqYgB3dTkRKkuFY4ljmuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1mqYgB3dTkRKkuFY4ljmuM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:13:18"
+  },
+  {
+    "business_name": "The_Dev_Leaf_Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "207243",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "in front of HP filling station, near power house, Jaithara, Uttar Pradesh 207249",
+    "area": "207243",
+    "latitude": 27.5145904,
+    "longitude": 79.01190679999999,
+    "place_id": "ChIJwaQynaALdTkRb3XbK7MY7c8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaQynaALdTkRb3XbK7MY7c8",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:13:20"
+  }
+]

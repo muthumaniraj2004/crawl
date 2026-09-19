@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Estate Agency",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate agent",
+    "pincode": "207248",
+    "phone_number": "+91 22 2877 4468",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 6,
+    "address": "Shop No.10, Vrindavan - 1 B CHS Ltd, near Sai Baba Temple, Vrindavan Society, Shantivan Society, Raheja Twp, Malad East, Mumbai, Maharashtra 400097",
+    "area": "Vrindavan Society, Shantivan Society, Raheja Township, Malad East",
+    "latitude": 19.179623799999998,
+    "longitude": 72.8579127,
+    "place_id": "ChIJmeSKZAG35zsRqKMOlXlr1CI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeSKZAG35zsRqKMOlXlr1CI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:22:59"
+  },
+  {
+    "business_name": "Bhavani Propertys",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "207248",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malad, Malad East, Mumbai, Maharashtra 400097",
+    "area": "Malad, Malad East",
+    "latitude": 19.184812,
+    "longitude": 72.8531498,
+    "place_id": "ChIJceckwAK35zsRzy7AAVxQSDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceckwAK35zsRzy7AAVxQSDQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:22:59"
+  }
+]

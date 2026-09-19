@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "207247",
+    "phone_number": "N/A",
+    "website": "http://ajayjeweller.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Old tehsil gate, Kila Rd, Aliganj, Uttar Pradesh 207247",
+    "area": "207247",
+    "latitude": 27.4957945,
+    "longitude": 79.17266719999999,
+    "place_id": "ChIJv7KiQYuddTkRfvVzhiOat0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7KiQYuddTkRfvVzhiOat0g",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:20:07"
+  },
+  {
+    "business_name": "जय ज्वैलर्स",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "207247",
+    "phone_number": "+91 86308 60647",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "सराय रोड, मैनपुरी, तिराहा, अलीगंज-एटा, Aliganj, Uttar Pradesh 207247",
+    "area": "मैनपुरी, तिराहा",
+    "latitude": 27.4886296,
+    "longitude": 79.1765336,
+    "place_id": "ChIJl579FmiddTkR051iyjKuwR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl579FmiddTkR051iyjKuwR4",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:20:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fiza Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Supplier, Food products supplier, Frozen dessert supplier, Frozen food manufacturer, Wholesaler",
+    "pincode": "207125",
+    "phone_number": "+91 85911 93638",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "Shop No 10/11, Arihant Galaxy, Tal, behind Bhaji Market, Navanath Colony, Shilfata, Shilphata, Khopoli, Maharashtra 410203",
+    "area": "Navanath Colony, Shilfata, Shilphata",
+    "latitude": 18.7997141,
+    "longitude": 73.3239246,
+    "place_id": "ChIJnR2t-nUH6DsRq01C-gj8Gak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnR2t-nUH6DsRq01C-gj8Gak",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:08:09"
+  },
+  {
+    "business_name": "Forstar Frozen Foods Pvt Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "207125",
+    "phone_number": "+91 22 2741 0807",
+    "website": "http://www.forstarfoods.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "M53/1, MIDC Rd, Industrial Area, Dongrepada, Taloja, Panvel, Maharashtra 410208",
+    "area": "Industrial Area, Dongrepada, Taloja",
+    "latitude": 19.0771445,
+    "longitude": 73.1419341,
+    "place_id": "ChIJ-Stbac7r5zsR62lNcPetlNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Stbac7r5zsR62lNcPetlNw",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:08:10"
+  }
+]

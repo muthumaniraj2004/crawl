@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dwarika Boys Hostel - Muzaffarpur",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Guest house, Backpacker Hostel, Student dormitory, Student housing center, Youth Hostel",
+    "pincode": "207245",
+    "phone_number": "+91 74882 13238",
+    "website": "https://dwarikaboyshostel.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Damuchak Rd, behind Bihari by Nature Hotel, Chhata Chowk, B.R.Ambedkar Bihar University, Muzaffarpur, Bihar 842001",
+    "area": "Chhata Chowk, B.R.Ambedkar Bihar University",
+    "latitude": 26.116457099999998,
+    "longitude": 85.3778255,
+    "place_id": "ChIJtarOos8R7TkRrXGbsKA0KLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtarOos8R7TkRrXGbsKA0KLQ",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:29"
+  },
+  {
+    "business_name": "Vinayak Hostel & PG",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory, Boys' hostel, Guest house, Student housing center, Working women's hostel, Youth Hostel",
+    "pincode": "207245",
+    "phone_number": "+91 70041 65562",
+    "website": "https://vinayakhostel.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Banaras bank chowk, near Relaince smart bazar, Ibrahim Colony, Chandwara, Muzaffarpur, Bihar 842001",
+    "area": "Ibrahim Colony, Chandwara",
+    "latitude": 26.1273007,
+    "longitude": 85.39822459999999,
+    "place_id": "ChIJyc1R2C0R7TkRvB41LtLxfGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyc1R2C0R7TkRvB41LtLxfGY",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:17:29"
+  }
+]

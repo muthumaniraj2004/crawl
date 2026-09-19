@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "207246",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VHQX+88X, Patel Nagar, Kamp, Rohtak, Haryana 124001",
+    "area": "Patel Nagar, Kamp",
+    "latitude": 28.888368,
+    "longitude": 76.59836,
+    "place_id": "ChIJy93-GwCFDTkRcrNPt5PjMGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy93-GwCFDTkRcrNPt5PjMGE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:19:06"
+  },
+  {
+    "business_name": "Arora Balloon Decorations",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "207246",
+    "phone_number": "+91 90346 65921",
+    "website": "https://arora-belloon-decorations.rohtak.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 17, Pride mkt, tau devi lal park, Sector-1, Rohtak, Haryana 124001",
+    "area": "Sector-1",
+    "latitude": 28.8847618,
+    "longitude": 76.6278183,
+    "place_id": "ChIJ56XleMyFDTkRHQGLWOmDJpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56XleMyFDTkRHQGLWOmDJpM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:19:08"
+  }
+]

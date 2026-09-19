@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fabindia, Parwati Bagla Road, Tilak Nagar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Home goods store",
+    "pincode": "208002",
+    "phone_number": "+91 70809 50651",
+    "website": "https://www.fabindia.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "First Floor, Raina Market, Plot No 4 281-B, Parwati Bagla Rd, next to KFC, Tilak Nagar, Kanpur, Uttar Pradesh 208001",
+    "area": "Tilak Nagar",
+    "latitude": 26.4915809,
+    "longitude": 80.3215257,
+    "place_id": "ChIJvXV-0u05nDkRRjufWPw-rpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXV-0u05nDkRRjufWPw-rpI",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:40:02"
+  },
+  {
+    "business_name": "Gorakhpur Handloom And Khadi House",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Fabric store",
+    "pincode": "208002",
+    "phone_number": "+91 512 256 1040",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1/5, Hastings Ave, Nawabganj, Kanpur, Uttar Pradesh 208002",
+    "area": "Nawabganj",
+    "latitude": 26.4970504,
+    "longitude": 80.3076777,
+    "place_id": "ChIJYYvki0Q4nDkRgoToR-uqfPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYvki0Q4nDkRgoToR-uqfPA",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:40:02"
+  }
+]

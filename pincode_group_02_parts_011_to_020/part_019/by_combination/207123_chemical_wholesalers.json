@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Scientific equipment supplier",
+    "all_categories": "Scientific equipment supplier",
+    "pincode": "207123",
+    "phone_number": "+91 86507 36929",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kumar Chemicals, Bilram Gate, Soot Ki Mandi, Tarora, Kasganj, Uttar Pradesh 207123",
+    "area": "Tarora",
+    "latitude": 27.8096963,
+    "longitude": 78.6434833,
+    "place_id": "ChIJXzOEStfhdDkRp8N5oq7v-bM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzOEStfhdDkRp8N5oq7v-bM",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:06:02"
+  },
+  {
+    "business_name": "Cleanbite",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "207123",
+    "phone_number": "+91 97611 50822",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nadrai Gate Main Market Rd, near Kalawati Hospital, Ambikapuri Colony, Kasganj, Uttar Pradesh 207123",
+    "area": "Ambikapuri Colony",
+    "latitude": 27.8006985,
+    "longitude": 78.63681489999999,
+    "place_id": "ChIJ_w5OOAbhdDkR_x3FTjwYKaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_w5OOAbhdDkR_x3FTjwYKaE",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:06:03"
+  }
+]

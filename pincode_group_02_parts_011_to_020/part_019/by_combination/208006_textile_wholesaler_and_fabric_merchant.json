@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Emporium",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Curtain supplier and maker",
+    "pincode": "208006",
+    "phone_number": "+91 93362 20882",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "no.3, 3/5 , 3/6 Vidyarthi Market Govind Nagar In lane, opposite to Vardaan Diagnostics, Kanpur, Uttar Pradesh 208006",
+    "area": "Govind Nagar",
+    "latitude": 26.449123,
+    "longitude": 80.300206,
+    "place_id": "ChIJrSXMDl1HnDkR-bLgC_ZA-Bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSXMDl1HnDkR-bLgC_ZA-Bg",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:49:20"
+  },
+  {
+    "business_name": "Naveen Textile",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter, Belt shop, Equestrian store, Leather Exporter, Manufacturer, Pallet supplier, Saddlery, Safety equipment supplier, Tent House Supplier, Textile Exporter",
+    "pincode": "208006",
+    "phone_number": "+91 93074 40284",
+    "website": "http://www.naveengroup.co/",
+    "rating": 4.9,
+    "reviews_count": 59,
+    "address": "Site-1, Road No.16, H-9andH-10, P.I.A, Kanpur, Uttar Pradesh 208022",
+    "area": "Saraimita",
+    "latitude": 26.4439231,
+    "longitude": 80.2657536,
+    "place_id": "ChIJbx27NjQ2nDkRUPzcwsBIO6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbx27NjQ2nDkRUPzcwsBIO6w",
+    "part_id": "part_019",
+    "crawled_at": "2026-09-19 07:49:21"
+  }
+]
