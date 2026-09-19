@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKT",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store, Beauty Parlour",
+    "pincode": "175123",
+    "phone_number": "+91 98169 34500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near truck union & New bus stand, Anni, Himachal Pradesh 172026",
+    "area": "175123",
+    "latitude": 31.4349761,
+    "longitude": 77.4201262,
+    "place_id": "ChIJa3tP8PC9BTkRjvjaefqYfSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3tP8PC9BTkRjvjaefqYfSs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:57:58"
+  },
+  {
+    "business_name": "Armaan Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "175123",
+    "phone_number": "+91 82198 83715",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "FMQV+3CX, Jhakri, Himachal Pradesh 172201",
+    "area": "175123",
+    "latitude": 31.487731,
+    "longitude": 77.693604,
+    "place_id": "ChIJg0X8TXPFBTkRRYfvHL6aYxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0X8TXPFBTkRRYfvHL6aYxs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:57:58"
+  }
+]

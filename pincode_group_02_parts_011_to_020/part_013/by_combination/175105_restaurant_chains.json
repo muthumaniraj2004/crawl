@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Malabar Bhuntar",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Conference center, Hotel, Travel agency",
+    "pincode": "175105",
+    "phone_number": "+91 98169 95599",
+    "website": "http://www.hotelmalabarkullu.com/contactus.html",
+    "rating": 3.9,
+    "reviews_count": 1115,
+    "address": "near Kullu - Manali Airport, Bhuntar, Himachal Pradesh 175125",
+    "area": "175105",
+    "latitude": 31.8800252,
+    "longitude": 77.1507386,
+    "place_id": "ChIJ-8nF3NL5BDkRo-Syyo-XHjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8nF3NL5BDkRo-Syyo-XHjY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:19"
+  },
+  {
+    "business_name": "Zostel Kasol (Main Market)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "175105",
+    "phone_number": "+91 11 4084 9949",
+    "website": "https://www.zostel.com/destination/kasol/stay/zostel-kasol-kslh734",
+    "rating": 4.7,
+    "reviews_count": 299,
+    "address": "1, Kanawar Road, Kasol, Sosan, Himachal Pradesh 175105",
+    "area": "175105",
+    "latitude": 32.010891,
+    "longitude": 77.31344779999999,
+    "place_id": "ChIJL5N4uKpdBDkRuiP_ufFhnT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5N4uKpdBDkRuiP_ufFhnT0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ProMiller Hotel Management",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Business management consultant, Property management company",
+    "pincode": "175047",
+    "phone_number": "+91 96014 44430",
+    "website": "https://www.promillerhotelconsulting.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "L-16, Swatantra Senani Nagar, Naranpura, Ahmedabad, Gujarat 380013",
+    "area": "Swatantra Senani Nagar, Naranpura",
+    "latitude": 23.0679536,
+    "longitude": 72.5599404,
+    "place_id": "ChIJT2qTphuDXjkRNy3ZY_aQaxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2qTphuDXjkRNy3ZY_aQaxs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:32:38"
+  },
+  {
+    "business_name": "Palsra Medical House Gadagusain",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "175047",
+    "phone_number": "+91 82192 59231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VPO Gadagusain District Mandi, Himachal Pradesh 175123",
+    "area": "175047",
+    "latitude": 31.563937499999998,
+    "longitude": 77.3023216,
+    "place_id": "ChIJR7sBMY-vBTkRAcRE8aoZ6Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7sBMY-vBTkRAcRE8aoZ6Jk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:32:39"
+  }
+]

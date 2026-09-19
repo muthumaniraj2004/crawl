@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FABRO",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "175037",
+    "phone_number": "+91 88941 79023",
+    "website": "http://www.quickpickmart.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, ByPass, PO, Tehsil, Cholthara, Sarkaghat, Himachal Pradesh 175037",
+    "area": "PO, Tehsil",
+    "latitude": 31.712615699999997,
+    "longitude": 76.69041969999999,
+    "place_id": "ChIJX74nQiPZBDkRaSsqNIlnPFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX74nQiPZBDkRaSsqNIlnPFk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:20:31"
+  },
+  {
+    "business_name": "HAYOUR",
+    "search_category": "Shops",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "175037",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "PM6J+V57, Cholthra Rd, Awah Devi, Saraon, Himachal Pradesh 175037",
+    "area": "175037",
+    "latitude": 31.7121678,
+    "longitude": 76.68042559999999,
+    "place_id": "ChIJ-S-v51_ZBDkRHRJhJRFtTic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S-v51_ZBDkRHRJhJRFtTic",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:20:31"
+  }
+]

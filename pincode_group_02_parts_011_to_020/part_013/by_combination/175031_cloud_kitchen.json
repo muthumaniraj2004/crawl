@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Roadside Dinner cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175031",
+    "phone_number": "+91 86280 61804",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "Khanyara Rd, Upmuhal, Dharamshala, Himachal Pradesh 176215",
+    "area": "Upmuhal",
+    "latitude": 32.2211845,
+    "longitude": 76.326144,
+    "place_id": "ChIJaRqDaz5RGzkR4zDMpUd4P5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRqDaz5RGzkR4zDMpUd4P5I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:31"
+  },
+  {
+    "business_name": "TIP TOP CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "175031",
+    "phone_number": "+91 99886 30916",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Darjiya wali Gali, near Hoshiarpur, Jagat Pura, Hoshiarpur, Punjab 146001",
+    "area": "Jagat Pura",
+    "latitude": 31.535043599999998,
+    "longitude": 75.91013319999999,
+    "place_id": "ChIJByIA8lDjGjkRfuKpHp-tfLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByIA8lDjGjkRfuKpHp-tfLs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:31"
+  }
+]

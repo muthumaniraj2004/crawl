@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Estate Drive",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "175051",
+    "phone_number": "+91 99158 66603",
+    "website": "https://www.estatedrive.co.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Modern Plaza, SCO 143/B2, Airport Rd, Sector 117, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Sector 117",
+    "latitude": 30.725693,
+    "longitude": 76.6803145,
+    "place_id": "ChIJh-wTgIXvDzkRqF0X8Ui9yOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-wTgIXvDzkRqF0X8Ui9yOA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:40:25"
+  },
+  {
+    "business_name": "Dhamu And Company",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Office space rental agency, Property management company, Real estate developer, Real estate rental agency",
+    "pincode": "175051",
+    "phone_number": "+91 94140 62575",
+    "website": "https://www.dhamuandcompany.com/",
+    "rating": 3.7,
+    "reviews_count": 28,
+    "address": "2, D-Villa, Adjacent HDFC Bank,, Near Khasa Kothi Circle, Station Road,, Jaipur, Rajasthan 302001",
+    "area": "Kanti Nagar, Bani Park",
+    "latitude": 26.9211933,
+    "longitude": 75.79509759999999,
+    "place_id": "ChIJg__oK_izbTkRrplNEgQ_wfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg__oK_izbTkRrplNEgQ_wfA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:40:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brahma Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Retreat center, School center, Yoga instructor, Yoga Retreat Center",
+    "pincode": "175036",
+    "phone_number": "+91 78073 83615",
+    "website": "http://www.brahmayogaschool.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhagsunag Rd, Bhagsu Nag, Dharamshala, Himachal Pradesh 176216",
+    "area": "Bhagsu Nag",
+    "latitude": 32.2476068,
+    "longitude": 76.3321555,
+    "place_id": "ChIJoy-nLs5WGzkRCbNFv3pnnD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoy-nLs5WGzkRCbNFv3pnnD0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:21"
+  },
+  {
+    "business_name": "Prashant Yoga Shala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "175036",
+    "phone_number": "+91 98187 65004",
+    "website": "https://www.instagram.com/yogiprashant6?igsh=MXd2ZDlsbGhhanI3aQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manisha Rd, near Beetroot & Loop cafe, Bhagsu Nag, Upper, Dharamshala, Himachal Pradesh 176216",
+    "area": "Bhagsu Nag, Upper",
+    "latitude": 32.246424399999995,
+    "longitude": 76.3320999,
+    "place_id": "ChIJC8al0qxXGzkRcvOSqi9wtbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8al0qxXGzkRcvOSqi9wtbs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Care International",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Aquarium shop, Bird shop, Feed manufacturer, Pet groomer",
+    "pincode": "175051",
+    "phone_number": "+91 93506 57995",
+    "website": "http://www.petcareinternational.in/",
+    "rating": 4.8,
+    "reviews_count": 346,
+    "address": "Ayyappa temple complex, Dullapally cross road, Village, Dulapally, Hyderabad, Telangana 500100",
+    "area": "Village, Dulapally",
+    "latitude": 17.5415496,
+    "longitude": 78.4638423,
+    "place_id": "ChIJM6UMwUyPyzsRVzeNgt1FxYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6UMwUyPyzsRVzeNgt1FxYM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:38:58"
+  },
+  {
+    "business_name": "Petz Era",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "175051",
+    "phone_number": "+91 93035 55466",
+    "website": "https://www.petzera.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Near, Kanchar Gate no 1 Kachnar Shopping Plaza, Vijay Nagar, Jabalpur, Madhya Pradesh 482002",
+    "area": "Yashwar Nagar, Kanchan Vihar, Vijay Nagar",
+    "latitude": 23.1882752,
+    "longitude": 79.9028398,
+    "place_id": "ChIJg6R7NMmxgTkRgCdXSDafRUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6R7NMmxgTkRgCdXSDafRUQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:38:58"
+  }
+]

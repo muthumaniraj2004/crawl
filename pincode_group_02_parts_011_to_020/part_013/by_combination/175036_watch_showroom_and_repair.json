@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Watch Company",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "175036",
+    "phone_number": "+91 98164 94185",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gagret, Himachal Pradesh 177201",
+    "area": "175036",
+    "latitude": 31.659416,
+    "longitude": 76.0621247,
+    "place_id": "ChIJOxLqsjgfGzkR8N0RQZVaU_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxLqsjgfGzkR8N0RQZVaU_o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:11"
+  },
+  {
+    "business_name": "Thakur Watch Co & Mobile Phone Repair",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "175036",
+    "phone_number": "+91 98169 23181",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Rehan to Kandoor Rd, Rehan, Himachal Pradesh 176022",
+    "area": "175036",
+    "latitude": 32.1628873,
+    "longitude": 75.90815049999999,
+    "place_id": "ChIJ-1NhTs5kGzkRLBHXgtyVme8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1NhTs5kGzkRLBHXgtyVme8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:11"
+  }
+]

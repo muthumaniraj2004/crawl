@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "175050",
+    "phone_number": "+91 98166 20015",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 117,
+    "address": "Chowk Bazar, Ganj Bazar, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Ganj Bazar, Bajoral Khurd",
+    "latitude": 30.908842099999998,
+    "longitude": 77.106276,
+    "place_id": "ChIJ04IKT0qBDzkRsOAdEtYpBUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04IKT0qBDzkRsOAdEtYpBUE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:13"
+  },
+  {
+    "business_name": "Lotus Ice Cream Factory",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "175050",
+    "phone_number": "+91 172 265 2152",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 425,
+    "address": "136-140/79, Industrial Area Phase I, Chandigarh, 160002",
+    "area": "Industrial Area Phase I",
+    "latitude": 30.703609999999998,
+    "longitude": 76.8055262,
+    "place_id": "ChIJjYHSrcHsDzkRs-Cu7nnzNCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjYHSrcHsDzkRs-Cu7nnzNCg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:13"
+  }
+]

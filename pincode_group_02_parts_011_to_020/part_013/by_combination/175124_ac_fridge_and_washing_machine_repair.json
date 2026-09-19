@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chesapeake Appliance Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment, Refrigerator repair service",
+    "pincode": "175124",
+    "phone_number": "N/A",
+    "website": "https://www.chesapeakeappliance.com/",
+    "rating": 3,
+    "reviews_count": 12,
+    "address": "Chesapeake Appliance Repair, 175124, India",
+    "area": "175124",
+    "latitude": 36.7084835,
+    "longitude": -76.2785245,
+    "place_id": "ChIJu2ANTle7uokR4ax_fLGM0ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2ANTle7uokR4ax_fLGM0ks",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:00:23"
+  },
+  {
+    "business_name": "Reliance resQ Service Center - Solution Unlimited",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Electronics repair shop, Microwave oven repair service, Refrigerator repair service, Television repair service, Washer & dryer repair service",
+    "pincode": "175124",
+    "phone_number": "+91 1800 889 1044",
+    "website": "https://www.resqservices.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.No, Solution Unlimited, 279/1, Jawahar Nagar, Khaliar, Mandi, Himachal Pradesh 175001",
+    "area": "Jawahar Nagar, Khaliar",
+    "latitude": 31.715823999999998,
+    "longitude": 76.93236999999999,
+    "place_id": "ChIJvfVuBwDjBDkRmIq32Kwp3pM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfVuBwDjBDkRmIq32Kwp3pM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:00:25"
+  }
+]

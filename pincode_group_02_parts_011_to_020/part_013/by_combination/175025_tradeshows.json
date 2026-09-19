@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Machma Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "175025",
+    "phone_number": "+91 73409 90309",
+    "website": "http://www.machmaexpo.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Parade Ground, 17H, 17E, Sector 17, Chandigarh, 160017",
+    "area": "17H, 17E, Sector 17",
+    "latitude": 30.738338,
+    "longitude": 76.7767521,
+    "place_id": "ChIJxSX_1mLtDzkR9aHk4d6yItA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSX_1mLtDzkR9aHk4d6yItA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:57:44"
+  },
+  {
+    "business_name": "DSM ASSOCIATES",
+    "search_category": "Tradeshows",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "175025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DSM ASSOCIATES, Gutkar, Himachal Pradesh 175021",
+    "area": "175025",
+    "latitude": 31.6583337,
+    "longitude": 76.9446079,
+    "place_id": "ChIJ30JaF5AdBTkRzVJQ394JxzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30JaF5AdBTkRzVJQ394JxzM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:57:45"
+  }
+]

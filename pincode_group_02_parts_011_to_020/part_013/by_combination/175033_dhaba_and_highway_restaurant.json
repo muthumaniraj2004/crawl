@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kake Da Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "175033",
+    "phone_number": "+91 98571 00053",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hamirpur - Nadaun Rd, Jalari, Himachal Pradesh 177042",
+    "area": "175033",
+    "latitude": 31.7550027,
+    "longitude": 76.3708343,
+    "place_id": "ChIJK2D9tSwsGzkRKusPTr3irNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2D9tSwsGzkRKusPTr3irNg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:11:18"
+  },
+  {
+    "business_name": "Ritika Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175033",
+    "phone_number": "+91 98161 58146",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nh21, Sundar Nagar, Naulakha, Himachal Pradesh 175019",
+    "area": "175033",
+    "latitude": 31.5684939,
+    "longitude": 76.90665609999999,
+    "place_id": "ChIJB8gKM5MZBTkRBXcNzPZVmBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8gKM5MZBTkRBXcNzPZVmBE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:11:19"
+  }
+]

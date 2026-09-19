@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pahadi Chai Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175031",
+    "phone_number": "+91 89685 41800",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Booth No 231, Sector 14, BEL Colony, Budanpur, Panchkula, Haryana 134113",
+    "area": "BEL Colony, Budanpur",
+    "latitude": 30.6825013,
+    "longitude": 76.8448817,
+    "place_id": "ChIJf8tiKKmTDzkR7CPaiVjiEic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8tiKKmTDzkR7CPaiVjiEic",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:28"
+  },
+  {
+    "business_name": "Kulhad chai wala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "175031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "PG2C+RJW, Anu, Hamirpur, Himachal Pradesh 177005",
+    "area": "Anu",
+    "latitude": 31.7021125,
+    "longitude": 76.5215781,
+    "place_id": "ChIJEx7F-bzVBDkRAotTijGd3WA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEx7F-bzVBDkRAotTijGd3WA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:30"
+  }
+]

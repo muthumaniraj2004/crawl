@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Worldtech IT solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service, Service establishment",
+    "pincode": "175042",
+    "phone_number": "+91 97393 28219",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Worldtech IT solutions, 175042, India",
+    "area": "175042",
+    "latitude": 12.9227376,
+    "longitude": 77.6395075,
+    "place_id": "ChIJrTbUntoTrjsRGZPPd7DuME0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTbUntoTrjsRGZPPd7DuME0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:27:18"
+  },
+  {
+    "business_name": "Laptop Country",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "175042",
+    "phone_number": "+91 87278 15408",
+    "website": "http://www.facebook.com/LaptopCountry",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Leela Bhawan, Bank Colony, Patiala, Punjab 147001",
+    "area": "Leela Bhawan, Bank Colony",
+    "latitude": 30.336008,
+    "longitude": 76.3829702,
+    "place_id": "ChIJM_I3GsEoEDkRQA-4jpqLD7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_I3GsEoEDkRQA-4jpqLD7Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:27:20"
+  }
+]

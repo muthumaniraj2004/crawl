@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A_Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "175040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "QQPJ+358, Baroti, Langerh, Himachal Pradesh 175040",
+    "area": "175040",
+    "latitude": 31.785171899999998,
+    "longitude": 76.78043819999999,
+    "place_id": "ChIJNZyAAgDdBDkRGuFCW5i0Fgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZyAAgDdBDkRGuFCW5i0Fgo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:25:05"
+  },
+  {
+    "business_name": "Scissors master",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "175040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "RQ36+F4Q, Dharampur, Chhapanu, Himachal Pradesh 175040",
+    "area": "175040",
+    "latitude": 31.803710499999998,
+    "longitude": 76.76036979999999,
+    "place_id": "ChIJhaMk-lrdBDkRwWN7k4FBVYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhaMk-lrdBDkRwWN7k4FBVYk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:25:07"
+  }
+]

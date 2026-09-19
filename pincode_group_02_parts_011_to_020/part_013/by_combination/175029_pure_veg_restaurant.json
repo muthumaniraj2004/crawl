@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shudh Vashno Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "175029",
+    "phone_number": "+91 62306 71195",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Janjehli Road, near New Bus Stand, Rahkot, Thunag, Himachal Pradesh 175048",
+    "area": "Rahkot",
+    "latitude": 31.5589373,
+    "longitude": 77.1712532,
+    "place_id": "ChIJjeaY4aoHBTkRHPIbjWzL2lM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeaY4aoHBTkRHPIbjWzL2lM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:45"
+  },
+  {
+    "business_name": "Himachal Gramin Haat - Food Plaza",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "175029",
+    "phone_number": "+91 94590 01001",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Himachal Gramin Haat - Food Plaza, NH21, Pandoh, Himachal Pradesh 175124",
+    "area": "175029",
+    "latitude": 31.6840029,
+    "longitude": 77.045211,
+    "place_id": "ChIJWYo0EAgDBTkRPEw9vhVZj60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYo0EAgDBTkRPEw9vhVZj60",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:46"
+  }
+]

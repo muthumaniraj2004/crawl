@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seeds and pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "175101",
+    "phone_number": "+91 98160 66146",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sri krishna agro, near central bank, Dholpur, Himachal Pradesh 175101",
+    "area": "Sultanpur",
+    "latitude": 31.9617971,
+    "longitude": 77.1082979,
+    "place_id": "ChIJY00VCdP3BDkRqBLcUhQQg9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY00VCdP3BDkRqBLcUhQQg9U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:46:07"
+  },
+  {
+    "business_name": "Two Brother Agro",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store, Manufacturer",
+    "pincode": "175101",
+    "phone_number": "+91 70185 66015",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "P.O, Dobhi, Himachal Pradesh 175129",
+    "area": "P.O",
+    "latitude": 32.0884797,
+    "longitude": 77.1288541,
+    "place_id": "ChIJ4ZFLpBOLBDkRAAAAcE49DUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZFLpBOLBDkRAAAAcE49DUw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:46:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Securities - Bhunter",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "175036",
+    "phone_number": "+91 92402 37953",
+    "website": "https://www.hdfcsec.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main, Road Main Road, Bhuntar, Shillihar, Himachal Pradesh 175125",
+    "area": "175036",
+    "latitude": 31.894401,
+    "longitude": 77.217801,
+    "place_id": "ChIJ51NlGx1ZBDkRbwUxtR9_4ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51NlGx1ZBDkRbwUxtR9_4ok",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:19"
+  },
+  {
+    "business_name": "SkyLine Associates",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "175036",
+    "phone_number": "+91 93188 67533",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kesar bagh colony, Palampur, Himachal Pradesh 176061",
+    "area": "175036",
+    "latitude": 32.0959387,
+    "longitude": 76.5329091,
+    "place_id": "ChIJfckQ7k-zBDkRKLPkcreTtOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfckQ7k-zBDkRKLPkcreTtOs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:20"
+  }
+]

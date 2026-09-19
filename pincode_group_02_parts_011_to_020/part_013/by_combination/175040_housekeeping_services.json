@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fixomes",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Appliance repair service, Chimney services, Electrical repair shop, HVAC contractor, Pest control service, Refrigerator repair service, Small appliance repair service, Water Tank Cleaners, Waterproofing service",
+    "pincode": "175040",
+    "phone_number": "+91 79730 38143",
+    "website": "https://fixomes.com/services.php",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot No 337, 2, Industrial Area Phase II, Chandigarh, 160002",
+    "area": "Industrial Area Phase II",
+    "latitude": 30.6984018,
+    "longitude": 76.78482149999999,
+    "place_id": "ChIJA_w2wCLtDzkRRYA1bInw_ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_w2wCLtDzkRRYA1bInw_ls",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:25:40"
+  },
+  {
+    "business_name": "A.L. Cleaning Team LLC",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "175040",
+    "phone_number": "N/A",
+    "website": "https://alcleaningteam.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "A.L. Cleaning Team LLC, 175040, India",
+    "area": "175040",
+    "latitude": 39.325092999999995,
+    "longitude": -76.2634934,
+    "place_id": "ChIJB8kReJA-u2QRFzf4AIdBD0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8kReJA-u2QRFzf4AIdBD0I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:25:41"
+  }
+]

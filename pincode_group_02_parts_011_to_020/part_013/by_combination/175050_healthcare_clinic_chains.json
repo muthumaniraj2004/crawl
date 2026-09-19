@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zonal Hospital Dharamsala",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Government hospital, General hospital",
+    "pincode": "175050",
+    "phone_number": "+91 189 222 7595",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 318,
+    "address": "6879+6PH, Dharamsala Rd, Chilgari, Dharamshala, Himachal Pradesh 176215",
+    "area": "Chilgari",
+    "latitude": 32.213050599999995,
+    "longitude": 76.31936879999999,
+    "place_id": "ChIJEXB-Px5RGzkR-o0Ry15j4fM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXB-Px5RGzkR-o0Ry15j4fM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:33"
+  },
+  {
+    "business_name": "Dr.Puneet Verma Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175050",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Subathu Rd, Dharampur, Dhar Ki Ber, Solan, Himachal Pradesh 173209",
+    "area": "Dharampur",
+    "latitude": 30.9061322,
+    "longitude": 77.08867169999999,
+    "place_id": "ChIJl_-LZleHDzkRjFtB3dAApCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_-LZleHDzkRjFtB3dAApCs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VM Agro",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Irrigation equipment supplier, Paint store, Agricultural Seed Store, Tractor dealer, Tractor repair shop, Wholesale plant nursery",
+    "pincode": "175036",
+    "phone_number": "+91 98050 90360",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V.P.O Rajol,tehsil Shahpur, Distt, Kangra, Himachal Pradesh 176208",
+    "area": "175036",
+    "latitude": 32.168575499999996,
+    "longitude": 76.2366984,
+    "place_id": "ChIJ68bGDnFbGzkRaRXTz7zWQQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68bGDnFbGzkRaRXTz7zWQQI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:30"
+  },
+  {
+    "business_name": "KSK AGRO MACHINERY HUB",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Repair service",
+    "pincode": "175036",
+    "phone_number": "+91 94188 33971",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chhaila, Chailla, Himachal Pradesh 171220",
+    "area": "175036",
+    "latitude": 31.098426099999998,
+    "longitude": 77.42576629999999,
+    "place_id": "ChIJQ6eb1sKJBTkRnm1mYYsSsCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6eb1sKJBTkRnm1mYYsSsCM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:30"
+  }
+]

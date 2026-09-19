@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul Ice Cream Parlour Kullu",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "175101",
+    "phone_number": "+91 1800 258 3333",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Opp. Sapna Sweets Akhara Bazar, Himachal Pradesh 175101",
+    "area": "Akhara",
+    "latitude": 31.965079699999997,
+    "longitude": 77.1159107,
+    "place_id": "ChIJi-N2sJX3BDkRP_No1d0zzmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-N2sJX3BDkRP_No1d0zzmI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:44:30"
+  },
+  {
+    "business_name": "CHANDERLOK SWEETS&BAKERS",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Sweet shop",
+    "pincode": "175101",
+    "phone_number": "+91 98172 94000",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 175,
+    "address": "Gandhi Nagar, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Gandhi Nagar",
+    "latitude": 31.944407899999998,
+    "longitude": 77.1099184,
+    "place_id": "ChIJVVVVJbT2BDkRZNfNPflIhwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVJbT2BDkRZNfNPflIhwI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:44:31"
+  }
+]

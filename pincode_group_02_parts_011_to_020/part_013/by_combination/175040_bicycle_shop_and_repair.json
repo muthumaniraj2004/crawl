@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Green Wheels",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle rental service, Bicycle repair shop, Childrens Store, Electric bicycle store, Road cycling, Toy store, Used bicycle shop",
+    "pincode": "175040",
+    "phone_number": "+91 70183 00031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Opposite Sacred Heart Send Sec School Sidhpur, Dharamshala, Himachal Pradesh 176215",
+    "area": "175040",
+    "latitude": 32.1906179,
+    "longitude": 76.3518237,
+    "place_id": "ChIJHV9DuU9RGzkR1agcYyFSyoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHV9DuU9RGzkR1agcYyFSyoA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:52"
+  },
+  {
+    "business_name": "SS cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "175040",
+    "phone_number": "+91 90234 61122",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adarsh Nagar, Nayagaon, Chandigarh, Punjab 160103",
+    "area": "Adarsh Nagar",
+    "latitude": 30.7735076,
+    "longitude": 76.7877501,
+    "place_id": "ChIJT2k7pVHzDzkRxU-VcUa6v_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2k7pVHzDzkRxU-VcUa6v_M",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:54"
+  }
+]

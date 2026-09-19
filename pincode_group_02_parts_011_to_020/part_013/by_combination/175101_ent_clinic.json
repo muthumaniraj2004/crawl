@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rise hearing care",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hearing aid store",
+    "all_categories": "Hearing aid store, Hearing aid repair service, Speech & Hearing Specialist",
+    "pincode": "175101",
+    "phone_number": "+91 82195 67614",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 81,
+    "address": "Govt Hospital Back Side, near LMS School Gate, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.955548,
+    "longitude": 77.11234429999999,
+    "place_id": "ChIJaWb6AH33BDkRpmdmhYidE44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWb6AH33BDkRpmdmhYidE44",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:45:00"
+  },
+  {
+    "business_name": "PRATAP MEDICAL STORE",
+    "search_category": "ENT Clinic",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Pharmacy",
+    "pincode": "175101",
+    "phone_number": "+91 98161 31955",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Kullu - Manali, Rd, Patlikuhal, Himachal Pradesh 175129",
+    "area": "175101",
+    "latitude": 32.1159503,
+    "longitude": 77.1461303,
+    "place_id": "ChIJlRVHe62LBDkR87Fpc24YYnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRVHe62LBDkR87Fpc24YYnU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:45:02"
+  }
+]

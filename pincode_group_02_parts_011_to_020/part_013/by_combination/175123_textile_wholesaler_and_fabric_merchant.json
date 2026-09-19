@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shere Punjab Fashion Mall",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing wholesaler",
+    "pincode": "175123",
+    "phone_number": "+91 98728 40035",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Show Room 12, Gurdwara Gobindsar Complex, 13 & 14, Phase 1, Kamla Market, Sector 57, Mohali Village, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Kamla Market, Sector 57, Mohali Village",
+    "latitude": 30.7305921,
+    "longitude": 76.71472949999999,
+    "place_id": "ChIJSXp33GvuDzkR7zNFiuGqcFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXp33GvuDzkR7zNFiuGqcFY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:57:58"
+  },
+  {
+    "business_name": "VIRAJ TEXTILE MILLS",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "175123",
+    "phone_number": "+91 98602 46755",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Janai Hotel, Uruli Kanchan, Maharashtra 412202",
+    "area": "175123",
+    "latitude": 18.4874257,
+    "longitude": 74.1333715,
+    "place_id": "ChIJXWPP-OvhwjsRmQacL1WvXwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWPP-OvhwjsRmQacL1WvXwU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:57:59"
+  }
+]

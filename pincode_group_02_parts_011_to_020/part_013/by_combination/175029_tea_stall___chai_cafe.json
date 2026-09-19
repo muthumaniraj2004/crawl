@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai town",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175029",
+    "phone_number": "+91 62399 79237",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GVJQ+X6W, Bhojpur, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "Bhojpur",
+    "latitude": 31.5324857,
+    "longitude": 76.8880672,
+    "place_id": "ChIJC8DVMAAZBTkRS6cvCJdposw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8DVMAAZBTkRS6cvCJdposw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:47"
+  },
+  {
+    "business_name": "Chai Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "175029",
+    "phone_number": "+91 94180 26100",
+    "website": "https://www.chaisuttabarindia.com/locations/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "skin clinic, Near, chopra light house, opposite ziva, near DC office, Pratap Nagar, Hamirpur, Himachal Pradesh 177001",
+    "area": "Pratap Nagar",
+    "latitude": 31.6895515,
+    "longitude": 76.518901,
+    "place_id": "ChIJ23ZPcfvVBDkR_nOmA2LgSG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23ZPcfvVBDkR_nOmA2LgSG0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:49"
+  }
+]

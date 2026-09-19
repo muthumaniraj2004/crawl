@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Auto World",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "175028",
+    "phone_number": "+91 98162 44243",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bill.Baag.P.O.Jachh, Distt, Teh, Chachyot, Himachal Pradesh 175039",
+    "area": "175028",
+    "latitude": 31.523651899999997,
+    "longitude": 77.0648489,
+    "place_id": "ChIJf_N8nhcFBTkR0pEolsLz9mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_N8nhcFBTkR0pEolsLz9mw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:24"
+  },
+  {
+    "business_name": "Ultra Shine Car Wash Chd",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "175028",
+    "phone_number": "+91 90565 09200",
+    "website": "https://ultrashinedetailingstudio.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C, 164, near Elante Mall, Industrial Area Phase I, Chandigarh, 160002",
+    "area": "Industrial Area Phase I",
+    "latitude": 30.7076076,
+    "longitude": 76.8018343,
+    "place_id": "ChIJjZmIs6ftDzkRaxlPt16y0QQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZmIs6ftDzkRaxlPt16y0QQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:26"
+  }
+]

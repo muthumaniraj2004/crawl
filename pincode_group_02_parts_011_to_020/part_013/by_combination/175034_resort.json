@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Span Resort & Spa, Manali",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Cottage",
+    "pincode": "175034",
+    "phone_number": "+91 98160 92413",
+    "website": "http://www.spanresorts.com/",
+    "rating": 4.4,
+    "reviews_count": 1571,
+    "address": "14 mile, Badagran Bihal Leh, Highway, Manali, Himachal Pradesh 175129",
+    "area": "175034",
+    "latitude": 32.1302896,
+    "longitude": 77.15669539999999,
+    "place_id": "ChIJi8RwajaKBDkRVagi42t9QBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8RwajaKBDkRVagi42t9QBQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:14:08"
+  },
+  {
+    "business_name": "ShivAdya",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Home Stay",
+    "pincode": "175034",
+    "phone_number": "+91 88943 48935",
+    "website": "http://www.shivadya.com/",
+    "rating": 4.6,
+    "reviews_count": 457,
+    "address": "Karjan, Manali, Himachal Pradesh 175136",
+    "area": "175034",
+    "latitude": 32.163182,
+    "longitude": 77.189949,
+    "place_id": "ChIJp1K8jfyJBDkR8vfsr-3K8Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp1K8jfyJBDkR8vfsr-3K8Os",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:14:08"
+  }
+]

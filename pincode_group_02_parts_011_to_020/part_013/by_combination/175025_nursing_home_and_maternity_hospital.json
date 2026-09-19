@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Civil Hospital Bagsiad",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 18,
+    "address": "Bagsiad, Himachal Pradesh 175035",
+    "area": "175025",
+    "latitude": 31.560215099999997,
+    "longitude": 77.1209593,
+    "place_id": "ChIJfW05nhUHBTkR6yNIQmO-x_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfW05nhUHBTkR6yNIQmO-x_Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:56:22"
+  },
+  {
+    "business_name": "Kapila Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "175025",
+    "phone_number": "+91 189 423 0734",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "State Highway 17, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.108595199999996,
+    "longitude": 76.54011229999999,
+    "place_id": "ChIJidv2Nt6zBDkRFPFcERBIkzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidv2Nt6zBDkRFPFcERBIkzM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:56:24"
+  }
+]

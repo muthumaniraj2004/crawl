@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NID CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "175038",
+    "phone_number": "+91 80590 50416",
+    "website": "https://nid-cloud-kitchen.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H, no 27/7, near Urban Village, Vatika City Central, Ambala, Haryana 134003",
+    "area": "Vatika City Central",
+    "latitude": 30.3503039,
+    "longitude": 76.787357,
+    "place_id": "ChIJJco7HYXJDzkRSZCOl92TY2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJco7HYXJDzkRSZCOl92TY2I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:20:45"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175038",
+    "phone_number": "+91 98295 98623",
+    "website": "https://zomato.onelink.me/xqzv/zmvkdnr6",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "44, ganashi bhawan, Natraj Nagar, J P Colony, Tonk Phatak, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Natraj Nagar, J P Colony, Tonk Phatak",
+    "latitude": 26.8847708,
+    "longitude": 75.7951621,
+    "place_id": "ChIJUyPfPMG1bTkRqyWc3hpusi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyPfPMG1bTkRqyWc3hpusi4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:20:45"
+  }
+]

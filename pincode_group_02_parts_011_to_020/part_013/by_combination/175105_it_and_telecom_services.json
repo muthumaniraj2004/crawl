@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "175105",
+    "phone_number": "+91 94595 50330",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP AT, BARSHANI.,MANIKARAN, BARSHAINI, Jari, Himachal Pradesh 175105",
+    "area": "BARSHAINI",
+    "latitude": 32,
+    "longitude": 77.441,
+    "place_id": "ChIJx3iaWOJFBDkRH9h9IoNaJYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3iaWOJFBDkRH9h9IoNaJYE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:53:28"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "175105",
+    "phone_number": "+91 94182 52645",
+    "website": "https://bsnl.co.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "SAMEER KUMAR, S/O SH. JAGDISH CHAND 126, BADI, Shamshi, Himachal Pradesh 175126",
+    "area": "BADI",
+    "latitude": 31.88673,
+    "longitude": 77.1451,
+    "place_id": "ChIJE-G1HAb3BDkRqfItuu8MtBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-G1HAb3BDkRqfItuu8MtBM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:53:29"
+  }
+]

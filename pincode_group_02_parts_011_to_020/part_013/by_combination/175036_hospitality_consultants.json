@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advisure Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Hotel, Restaurant",
+    "pincode": "175036",
+    "phone_number": "+91 98146 71220",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot #995, Level 3 Sector 82, JLPL Industrial Area, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.6518694,
+    "longitude": 76.7319572,
+    "place_id": "ChIJq6qqqhXtDzkR6pfH-_etPwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqhXtDzkR6pfH-_etPwk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:58"
+  },
+  {
+    "business_name": "VK hospitality & IT solutions",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "175036",
+    "phone_number": "N/A",
+    "website": "http://www.himtechdist.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stop, Parman, Majhera, Himachal Pradesh 176076",
+    "area": "175036",
+    "latitude": 31.9852721,
+    "longitude": 76.61084439999999,
+    "place_id": "ChIJW9pbWbPJBDkRjZqAQ2VIIUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9pbWbPJBDkRjZqAQ2VIIUo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Krishan & Sons",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery delivery service, Supermarket",
+    "pincode": "175029",
+    "phone_number": "+91 98056 59777",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main Chowk, Panthaghati, Shimla, Himachal Pradesh 171009",
+    "area": "Panthaghati",
+    "latitude": 31.070850999999998,
+    "longitude": 77.1800169,
+    "place_id": "ChIJqfztKkx_BTkRpmI7vS9LR5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfztKkx_BTkRpmI7vS9LR5Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:43"
+  },
+  {
+    "business_name": "Jai general Store Pandoh",
+    "search_category": "General Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "175029",
+    "phone_number": "+91 97364 74766",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jai general store, main bazzar, Pandoh, Himachal Pradesh 175124",
+    "area": "175029",
+    "latitude": 31.667702199999997,
+    "longitude": 77.0538643,
+    "place_id": "ChIJJySoAPUCBTkRqVqYOi2jMHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJySoAPUCBTkRqVqYOi2jMHo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:44"
+  }
+]

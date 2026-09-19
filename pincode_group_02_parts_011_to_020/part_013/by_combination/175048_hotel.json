@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Galaxy",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "175048",
+    "phone_number": "+91 94184 99707",
+    "website": "https://hotelroyalgalaxytirthan.com/",
+    "rating": 4.9,
+    "reviews_count": 123,
+    "address": "Tirthan Valley, Village Baga Post office, Banjar, Himachal Pradesh 175123",
+    "area": "175048",
+    "latitude": 31.647184399999997,
+    "longitude": 77.3487277,
+    "place_id": "ChIJd8tw4X2tBTkRuHk-_gcw6c0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8tw4X2tBTkRuHk-_gcw6c0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:34:26"
+  },
+  {
+    "business_name": "The Tree Top Treehouse - Luxury Treehouse in Jibhi",
+    "search_category": "Hotel",
+    "primary_category": "Cottage",
+    "all_categories": "Cottage",
+    "pincode": "175048",
+    "phone_number": "+91 86278 86309",
+    "website": "https://thetreetoptreehouse.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J8HF+9J, Bala Gad, Banjar, Himachal Pradesh 175123",
+    "area": "175048",
+    "latitude": 31.6284341,
+    "longitude": 77.32401689999999,
+    "place_id": "ChIJKyC5m2uvBTkRX7kI4EgpTHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyC5m2uvBTkRX7kI4EgpTHU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:34:27"
+  }
+]

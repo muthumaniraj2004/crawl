@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Candle Light Hotel & Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "175025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 62,
+    "address": "Khelag, Didnu, Himachal Pradesh 175025",
+    "area": "175025",
+    "latitude": 31.7747334,
+    "longitude": 76.7385786,
+    "place_id": "ChIJIweGo7DdBDkRSbjqKNTT2sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIweGo7DdBDkRSbjqKNTT2sQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:56:05"
+  },
+  {
+    "business_name": "Ganpati crockery & kitchenware",
+    "search_category": "Family Restaurant",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "175025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 48 6, near girl school, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Samkhetar",
+    "latitude": 31.7123405,
+    "longitude": 76.93078349999999,
+    "place_id": "ChIJqzZA4gLjBDkR-OiIF_5PCn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzZA4gLjBDkR-OiIF_5PCn4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:56:08"
+  }
+]

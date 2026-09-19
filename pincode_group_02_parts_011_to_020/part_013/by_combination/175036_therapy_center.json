@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Medicals",
+    "search_category": "Therapy Center",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "175036",
+    "phone_number": "+91 98826 60299",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VPO Larankelo,Teh, Larankelo, Himachal Pradesh 175104",
+    "area": "175036",
+    "latitude": 32.0906509,
+    "longitude": 77.1459055,
+    "place_id": "ChIJt4iSrL2LBDkRHKg-QKCiRvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4iSrL2LBDkRHKg-QKCiRvg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:52"
+  },
+  {
+    "business_name": "HimMeditech Solutions",
+    "search_category": "Therapy Center",
+    "primary_category": "Wholesale drugstore",
+    "all_categories": "Wholesale drugstore",
+    "pincode": "175036",
+    "phone_number": "+91 90413 99018",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "Shop No. 1, PO, Bathu, Vill, Ujhe, Tipri, Himachal Pradesh 177112",
+    "area": "Bathu, Vill",
+    "latitude": 31.849297099999998,
+    "longitude": 76.0661671,
+    "place_id": "ChIJe9JsDPg_GzkRAJvsa0qBktM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9JsDPg_GzkRAJvsa0qBktM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:52"
+  }
+]

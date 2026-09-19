@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NRI Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175038",
+    "phone_number": "+91 94595 00201",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WQGR+VGQ, Baddi, Himachal Pradesh 173205",
+    "area": "175038",
+    "latitude": 30.927389299999998,
+    "longitude": 76.79119779999999,
+    "place_id": "ChIJX9vFPQD1DzkR65DXc58GlQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9vFPQD1DzkR65DXc58GlQI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:21:03"
+  },
+  {
+    "business_name": "Sanitarium Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175038",
+    "phone_number": "+91 88940 00152",
+    "website": "https://www.sanitariumsimla.org/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=18354315527982495505",
+    "rating": 4.7,
+    "reviews_count": 86,
+    "address": "Sanitarium and Hospital, near Cecil Oberoi, Chaura Maidan, Shimla, Himachal Pradesh 171004",
+    "area": "Chaura Maidan",
+    "latitude": 31.103122799999998,
+    "longitude": 77.1558045,
+    "place_id": "ChIJVa4LPeR4BTkRo3sGGG_9W4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVa4LPeR4BTkRo3sGGG_9W4k",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:21:03"
+  }
+]

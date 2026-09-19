@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RD FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "175051",
+    "phone_number": "+91 98456 95656",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bauxite Road, Shahu Nagar, Belagavi, Karnataka 590010",
+    "area": "Shahu Nagar",
+    "latitude": 15.8865377,
+    "longitude": 74.5131461,
+    "place_id": "ChIJKa7RCgBhvzsRtVIb80kBsW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKa7RCgBhvzsRtVIb80kBsW4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:39:26"
+  },
+  {
+    "business_name": "TOUGH FITNESS GYM & CARDIO",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "175051",
+    "phone_number": "+91 72078 62777",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Muthangi Village,patancheru, Mandal, opp. Jawed Habib, Muthangi, Hyderabad, Telangana 502300",
+    "area": "Muthangi",
+    "latitude": 17.542901099999998,
+    "longitude": 78.2268347,
+    "place_id": "ChIJnVrhmpTzyzsR52l57GGzSk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVrhmpTzyzsR52l57GGzSk8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:39:26"
+  }
+]

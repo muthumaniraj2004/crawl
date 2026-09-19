@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhargav book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "175025",
+    "phone_number": "+91 85807 05465",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Upper Bazar, Diggal, Himachal Pradesh 173218",
+    "area": "175025",
+    "latitude": 31.086981599999998,
+    "longitude": 76.8643166,
+    "place_id": "ChIJseAKA5JnBTkRirYPe0hXt5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseAKA5JnBTkRirYPe0hXt5w",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:57:17"
+  },
+  {
+    "business_name": "Parkash Enterprises",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "175025",
+    "phone_number": "+91 94183 00114",
+    "website": "https://wa.me/919418300114?text=Hello",
+    "rating": 4.7,
+    "reviews_count": 69,
+    "address": "Shop No. 19, Indira Market, Mandi, Himachal Pradesh 175001",
+    "area": "Seri Bazar, Samkhetar",
+    "latitude": 31.7077723,
+    "longitude": 76.9318377,
+    "place_id": "ChIJt5IWmzziBDkR18cNUzLaJKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5IWmzziBDkR18cNUzLaJKM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:57:17"
+  }
+]

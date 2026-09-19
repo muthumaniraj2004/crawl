@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orchard Enterprises",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer, Agricultural service, Agricultural Seed Store",
+    "pincode": "175029",
+    "phone_number": "+91 80 3592 9084",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Ram Bhag, Akhara Bazar, Main Road, Himachal Pradesh 175101",
+    "area": "Akhara",
+    "latitude": 31.9630965,
+    "longitude": 77.1149063,
+    "place_id": "ChIJs59HTaX3BDkR_WYh97J9rKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs59HTaX3BDkR_WYh97J9rKA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:05:10"
+  },
+  {
+    "business_name": "MINI COMBINE HARVESTER",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier",
+    "pincode": "175029",
+    "phone_number": "+91 99154 59472",
+    "website": "http://minicombine.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G66R+VF, Bhadson, Punjab 147202",
+    "area": "175029",
+    "latitude": 30.5121152,
+    "longitude": 76.241225,
+    "place_id": "ChIJxzLTEgYXEDkRaN45DKbE4uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzLTEgYXEDkRaN45DKbE4uE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:05:12"
+  }
+]

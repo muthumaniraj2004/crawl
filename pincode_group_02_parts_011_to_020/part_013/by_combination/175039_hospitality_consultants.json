@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahi Consultancy Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "175039",
+    "phone_number": "+91 62307 52236",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rahi Consultancy Services, 175039, India",
+    "area": "175039",
+    "latitude": 32.1192862,
+    "longitude": 76.54067529999999,
+    "place_id": "ChIJM0FW64taJaARYzR0XUL-ZzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0FW64taJaARYzR0XUL-ZzY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:23:34"
+  },
+  {
+    "business_name": "MJIC",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "175039",
+    "phone_number": "+91 80910 70027",
+    "website": "https://www.mjic.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jagan Nath, Sood Building, Rajgarh Rd, Ward Number 7, Solan, Himachal Pradesh 173212",
+    "area": "Ward Number 7",
+    "latitude": 30.9055142,
+    "longitude": 77.10753629999999,
+    "place_id": "ChIJyRX6Ni6BDzkR5U3dmGXkQ-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRX6Ni6BDzkR5U3dmGXkQ-0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:23:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Disital Marketing",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Photo agency",
+    "all_categories": "Photo agency, Service establishment",
+    "pincode": "175031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Disital Marketing, 175031, India",
+    "area": "175031",
+    "latitude": 31.5310669,
+    "longitude": 76.8971408,
+    "place_id": "ChIJx66WGh-2foURhN37RASZ8hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx66WGh-2foURhN37RASZ8hw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:09:03"
+  },
+  {
+    "business_name": "Anil kaswal house",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer",
+    "pincode": "175031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GW4M+M77, Jai Devi, Himachal Pradesh 175031",
+    "area": "175031",
+    "latitude": 31.5066483,
+    "longitude": 76.93401829999999,
+    "place_id": "ChIJzROLaAAbBTkRKCRKbCQfwr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzROLaAAbBTkRKCRKbCQfwr0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:09:03"
+  }
+]

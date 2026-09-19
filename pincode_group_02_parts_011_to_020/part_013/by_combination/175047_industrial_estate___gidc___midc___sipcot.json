@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pudukottai SIPCOT Industrial Estate",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "175047",
+    "phone_number": "N/A",
+    "website": "https://sipcot.tn.gov.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SIPCOT Complex, Nathampannai, Nathampanni, Tamil Nadu 622022",
+    "area": "175047",
+    "latitude": 10.4173118,
+    "longitude": 78.7856278,
+    "place_id": "ChIJRcfmvYN4ADsRnN97CMDaUPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcfmvYN4ADsRnN97CMDaUPk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:33:19"
+  },
+  {
+    "business_name": "Makarpura Industrial Estate",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Business park",
+    "all_categories": "Business park",
+    "pincode": "175047",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 71,
+    "address": "C-6-83, GIDC Colony, Vadsar Road Vadodara, Vadodara, Gujarat 390010",
+    "area": "Makarpura GIDC, Makarpura",
+    "latitude": 22.2485273,
+    "longitude": 73.1826691,
+    "place_id": "ChIJf35Nd9PFXzkRGrFOAHBqnyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf35Nd9PFXzkRGrFOAHBqnyI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:33:20"
+  }
+]

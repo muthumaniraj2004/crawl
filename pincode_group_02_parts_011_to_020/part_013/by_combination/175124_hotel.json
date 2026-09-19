@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beas Zayaka Hotel and Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "175124",
+    "phone_number": "+91 78764 41400",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NH 3, Sambal, Himachal Pradesh 175124",
+    "area": "175124",
+    "latitude": 31.708926199999997,
+    "longitude": 77.0299168,
+    "place_id": "ChIJ4caIhrv9BDkR_tNoTwaBhAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4caIhrv9BDkR_tNoTwaBhAo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:00:38"
+  },
+  {
+    "business_name": "Hotel Comfort",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Event venue, Wedding venue",
+    "pincode": "175124",
+    "phone_number": "+91 94180 11213",
+    "website": "https://sites.google.com/view/hotelcomfortmandi/home",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "National Highway 70, near Canara Bank, Palace Colony, Mandi, Himachal Pradesh 175001",
+    "area": "Palace Colony",
+    "latitude": 31.7075228,
+    "longitude": 76.9285644,
+    "place_id": "ChIJO-xRXCPiBDkRW_AZQDT7oLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-xRXCPiBDkRW_AZQDT7oLE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:00:42"
+  }
+]

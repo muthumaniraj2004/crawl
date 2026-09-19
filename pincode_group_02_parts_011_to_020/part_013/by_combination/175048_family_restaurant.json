@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DevS Cafe and Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175048",
+    "phone_number": "+91 70182 39569",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "DevS Cafe And Restaurant, Main Bazar, Thachi, Himachal Pradesh 175121",
+    "area": "175048",
+    "latitude": 31.6805985,
+    "longitude": 77.2074899,
+    "place_id": "ChIJtywPhFKrBTkRB633MvPwbJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtywPhFKrBTkRB633MvPwbJs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:33:34"
+  },
+  {
+    "business_name": "Matri Anchal Restaurant & Home stay",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "175048",
+    "phone_number": "+91 82209 84395",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "H56C+8RP, Rahkot, Thunag, Himachal Pradesh 175048",
+    "area": "Rahkot",
+    "latitude": 31.560835599999997,
+    "longitude": 77.1720732,
+    "place_id": "ChIJe7IoLJ8HBTkRnrBvAek3JUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7IoLJ8HBTkRnrBvAek3JUU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:33:37"
+  }
+]

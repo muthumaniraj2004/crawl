@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sethi medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175026",
+    "phone_number": "+91 82610 12345",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 159,
+    "address": "Sethi Medicos The Mall Solan Himachal Pradesh, Solan, Himachal Pradesh 173212",
+    "area": "Mall Road, Bajoral Khurd",
+    "latitude": 30.909096899999998,
+    "longitude": 77.1003905,
+    "place_id": "ChIJmSx0E7WGDzkRBI5_w2cfvLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSx0E7WGDzkRBI5_w2cfvLw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:58:22"
+  },
+  {
+    "business_name": "Pharmaroots Healthcare",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "175026",
+    "phone_number": "+91 88472 48892",
+    "website": "http://www.pharmarootshealthcare.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Himachal Pradesh 174103",
+    "area": "175026",
+    "latitude": 30.9053038,
+    "longitude": 76.8571259,
+    "place_id": "ChIJBy9J3o_1DzkRjbj27K9pGMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBy9J3o_1DzkRjbj27K9pGMA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:58:25"
+  }
+]

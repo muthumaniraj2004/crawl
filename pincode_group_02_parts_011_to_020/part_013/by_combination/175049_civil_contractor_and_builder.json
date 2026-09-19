@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aju’s home",
+    "search_category": "Civil Contractor and Builder",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "175049",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PVJ2+QJ, Dhandal, Himachal Pradesh 175003",
+    "area": "175049",
+    "latitude": 31.7319048,
+    "longitude": 76.85155189999999,
+    "place_id": "ChIJ5y6SagDhBDkRj975pdIbl6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5y6SagDhBDkRj975pdIbl6c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:36:03"
+  },
+  {
+    "business_name": "Rakherer top",
+    "search_category": "Civil Contractor and Builder",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "175049",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "MRPX+9X, Kothi Gaihri, Himachal Pradesh 175023",
+    "area": "175049",
+    "latitude": 31.6858996,
+    "longitude": 76.8499945,
+    "place_id": "ChIJZ2RgAwDhBDkRGjDYNb4C_3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2RgAwDhBDkRGjDYNb4C_3Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:36:05"
+  }
+]

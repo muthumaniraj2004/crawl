@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Shyam Bricks Company",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Brick Manufacturer",
+    "all_categories": "Brick Manufacturer",
+    "pincode": "175029",
+    "phone_number": "+91 70185 38605",
+    "website": "http://shrishyambricks.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "514, Dherowal, near Acc Cement Plant, Nalagarh, Himachal Pradesh 174101",
+    "area": "175029",
+    "latitude": 31.040331499999997,
+    "longitude": 76.6276829,
+    "place_id": "ChIJz0EWEYZRBTkRoWydbmHkW7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0EWEYZRBTkRoWydbmHkW7Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:24"
+  },
+  {
+    "business_name": "Shiv Shankar Stones",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "175029",
+    "phone_number": "+91 94181 24677",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 42,
+    "address": "9Q9Q+G6R, NH21, Bagi, Himachal Pradesh 174001",
+    "area": "175029",
+    "latitude": 31.3688574,
+    "longitude": 76.7880205,
+    "place_id": "ChIJRXXHZFw-BTkRFYCjBZBqqns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXXHZFw-BTkRFYCjBZBqqns",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:26"
+  }
+]

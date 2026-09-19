@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paradise Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "175102",
+    "phone_number": "+91 81444 80808",
+    "website": "http://www.paradiselogistics.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "45QW+W64, Venkatesh Nagar, Lakshmipuram, Chennai, Tamil Nadu 600099",
+    "area": "Venkateshwara Nagar, Lakshmipuram",
+    "latitude": 13.139756499999999,
+    "longitude": 80.1955868,
+    "place_id": "ChIJrZMwpEVlUjoR1jP2epCHsfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZMwpEVlUjoR1jP2epCHsfs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:47:06"
+  },
+  {
+    "business_name": "Bajaj logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Courier service, International trade consultant, Transportation service",
+    "pincode": "175102",
+    "phone_number": "+91 98117 77755",
+    "website": "http://bajajlogistics.com/",
+    "rating": 4.9,
+    "reviews_count": 865,
+    "address": "CW - 48, 1st Floor, Sanjay Gandhi Transport Nagar, Delhi, 110042",
+    "area": "Sanjay Gandhi Transport Nagar",
+    "latitude": 28.7425677,
+    "longitude": 77.1504404,
+    "place_id": "ChIJVVVVFacBDTkRSr-cTAIcuqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFacBDTkRSr-cTAIcuqg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:47:07"
+  }
+]

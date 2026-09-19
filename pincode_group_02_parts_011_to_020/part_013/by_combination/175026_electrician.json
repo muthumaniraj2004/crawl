@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "175026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Akshu House, near Kangra Bank, Panjot, Badehru, Himachal Pradesh 177025",
+    "area": "175026",
+    "latitude": 31.7086892,
+    "longitude": 76.64115369999999,
+    "place_id": "ChIJa650DDXXBDkRkOEPXQYW-9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa650DDXXBDkRkOEPXQYW-9I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:58:56"
+  },
+  {
+    "business_name": "Vijay Electrical Store",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "175026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near post office, Tauni Devi, Himachal Pradesh 177023",
+    "area": "175026",
+    "latitude": 31.7136763,
+    "longitude": 76.59954359999999,
+    "place_id": "ChIJzyJzVoDXBDkRJ77GowiKp8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyJzVoDXBDkRJ77GowiKp8E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:58:56"
+  }
+]

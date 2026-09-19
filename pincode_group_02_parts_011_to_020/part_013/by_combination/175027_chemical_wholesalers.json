@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pacific car care",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "175027",
+    "phone_number": "+91 78074 61841",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 48/10, NARESH CHOCK, PO BHOJPUR, TEHSIL SUNDERNAGAR, DISTT MANDI, HIMACHAL PARDESH, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "TEHSIL SUNDERNAGAR, DISTT MANDI",
+    "latitude": 31.5427254,
+    "longitude": 76.89747009999999,
+    "place_id": "ChIJHSRNpcAZBTkRURO8B7moGzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSRNpcAZBTkRURO8B7moGzU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:01:31"
+  },
+  {
+    "business_name": "Hari Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "175027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "HXG9+2MV, Unnamed Road, Baggi, Himachal Pradesh 175027",
+    "area": "175027",
+    "latitude": 31.5751024,
+    "longitude": 76.9691711,
+    "place_id": "ChIJG4wKY3QbBTkRij7jo4X6HDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4wKY3QbBTkRij7jo4X6HDY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:01:31"
+  }
+]

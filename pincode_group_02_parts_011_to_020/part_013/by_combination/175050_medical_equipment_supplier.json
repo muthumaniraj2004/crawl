@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Universal Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Medical supply store",
+    "pincode": "175050",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VM44+573, Sandhol, Himachal Pradesh 176090",
+    "area": "175050",
+    "latitude": 31.855384899999997,
+    "longitude": 76.6556737,
+    "place_id": "ChIJ46fHqmnFBDkRUwgqhXuz3Eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46fHqmnFBDkRUwgqhXuz3Eg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:32"
+  },
+  {
+    "business_name": "VANYA MEDICAL STORE",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store",
+    "pincode": "175050",
+    "phone_number": "+91 86792 75690",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near PNB Bank ATM, Sandhol, Lasrana, Himachal Pradesh 176090",
+    "area": "175050",
+    "latitude": 31.8553747,
+    "longitude": 76.65302179999999,
+    "place_id": "ChIJ3URTeyvFBDkRu1K7lfHrJG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3URTeyvFBDkRu1K7lfHrJG0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:34"
+  }
+]

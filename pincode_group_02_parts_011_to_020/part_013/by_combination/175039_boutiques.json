@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gautam Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "175039",
+    "phone_number": "+91 98160 68945",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Village ,Post & Tehsil, Ambuja Road, near Punjab National Bank - ATM, Darlaghat, Himachal Pradesh 171102",
+    "area": "175039",
+    "latitude": 31.2348088,
+    "longitude": 76.9362489,
+    "place_id": "ChIJTba8j7xtBTkRTO5iBCpJF1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTba8j7xtBTkRTO5iBCpJF1o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:22:50"
+  },
+  {
+    "business_name": "U-like Taylor's Kumarsain",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "175039",
+    "phone_number": "+91 70181 34828",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Hospital road, Kumarsain, Himachal Pradesh 172029",
+    "area": "175039",
+    "latitude": 31.317854699999998,
+    "longitude": 77.4472985,
+    "place_id": "ChIJh0_gbMGXBTkRo1X-6ncIHYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0_gbMGXBTkRo1X-6ncIHYw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:22:50"
+  }
+]

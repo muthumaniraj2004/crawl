@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Squeez Juice Bars - RMZ Nexity",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Dessert restaurant, Dessert shop, Ice cream shop, Snack bar",
+    "pincode": "175035",
+    "phone_number": "+91 63641 23267",
+    "website": "https://squeezjuicebars.com/",
+    "rating": 4.5,
+    "reviews_count": 130,
+    "address": "C9JM+FH2, Silpa Gram Craft Village, HITEC City, Hyderabad, Telangana 500032",
+    "area": "Silpa Gram Craft Village, HITEC City",
+    "latitude": 17.4310097,
+    "longitude": 78.3830821,
+    "place_id": "ChIJAclaCACTyzsRfySmHcLIzoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAclaCACTyzsRfySmHcLIzoI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:05"
+  },
+  {
+    "business_name": "Juice bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "175035",
+    "phone_number": "+91 78937 78386",
+    "website": "https://juicebarhyderabad.com/",
+    "rating": 4.3,
+    "reviews_count": 35,
+    "address": "Next Galleria Mall At Punjagutta, Nagarjuna Hills, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Nagarjuna Hills, Punjagutta",
+    "latitude": 17.4289962,
+    "longitude": 78.4501471,
+    "place_id": "ChIJEW8R12ORyzsRKn5RVRBhO3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW8R12ORyzsRKn5RVRBhO3Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:05"
+  }
+]

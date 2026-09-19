@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "175029",
+    "phone_number": "+91 22 2568 9090",
+    "website": "http://arihantcars.com/",
+    "rating": 4.8,
+    "reviews_count": 4283,
+    "address": "Sai Dham, P. K. Road, near ST. Mary school, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Asha Nagar, Mulund West",
+    "latitude": 19.1669259,
+    "longitude": 72.944212,
+    "place_id": "ChIJC6bFxVi45zsRYQggP4olN3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6bFxVi45zsRYQggP4olN3I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:14"
+  },
+  {
+    "business_name": "United Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "175029",
+    "phone_number": "+91 99999 86757",
+    "website": "https://unitedcarsindia.com/",
+    "rating": 4.9,
+    "reviews_count": 781,
+    "address": "nehru apartment, K1/69, Road, opposite South park apartments, near B Block Road, Gurudwara, Chittaranjan Park, New Delhi, Delhi 110019",
+    "area": "Gurudwara, Chittaranjan Park",
+    "latitude": 28.540161299999998,
+    "longitude": 77.2507706,
+    "place_id": "ChIJURtyztDjDDkRX7aR7NvMdRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURtyztDjDDkRX7aR7NvMdRg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:14"
+  }
+]

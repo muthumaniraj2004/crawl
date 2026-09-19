@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welding work",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "175030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "453F+W83, Kehdru, NH103, dharmsala, HAMIRPUR, Himachal Pradesh 171001",
+    "area": "Middle Bazar, The Mall",
+    "latitude": 31.104773899999998,
+    "longitude": 77.17330129999999,
+    "place_id": "ChIJRwUwFQB5BTkRxsJnp-bLbfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwUwFQB5BTkRxsJnp-bLbfA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:01"
+  },
+  {
+    "business_name": "Engineering Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welding and Lathe Works",
+    "all_categories": "Welding and Lathe Works",
+    "pincode": "175030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Neeladri Nagar, Hyderabad, Telangana 501510",
+    "area": "Neeladri Nagar",
+    "latitude": 17.2980703,
+    "longitude": 78.58351309999999,
+    "place_id": "ChIJS2_JvJ6hyzsRpPo5gCZdvoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2_JvJ6hyzsRpPo5gCZdvoc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:01"
+  }
+]

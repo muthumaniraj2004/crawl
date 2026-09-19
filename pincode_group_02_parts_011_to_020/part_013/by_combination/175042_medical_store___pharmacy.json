@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medicalstore",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PP52+46Q, Bhatwan, Himachal Pradesh 175037",
+    "area": "175042",
+    "latitude": 31.7078372,
+    "longitude": 76.7006242,
+    "place_id": "ChIJfxYvOADZBDkR-upnXurDBl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxYvOADZBDkR-upnXurDBl4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:26:23"
+  },
+  {
+    "business_name": "Lavisha pharmacy",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175042",
+    "phone_number": "+91 93170 02323",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vill Jabrali po rakhoh teh Sarkaghat distt Mandi hp pincode 175042, Himachal Pradesh 175042",
+    "area": "175042",
+    "latitude": 31.6874197,
+    "longitude": 76.7090024,
+    "place_id": "ChIJ7S8Tbn_ZBDkRzKegyW3-gqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7S8Tbn_ZBDkRzKegyW3-gqE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:26:23"
+  }
+]

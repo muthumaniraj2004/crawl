@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Mumbaikar Children’s Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "175040",
+    "phone_number": "+91 91374 23839",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Niramay Hospital, Rasayani, Rees, Mohpada Alias Wasambe, Maharashtra 410222",
+    "area": "Rasayani",
+    "latitude": 18.8933803,
+    "longitude": 73.19738749999999,
+    "place_id": "ChIJmyWJ3mfl5zsR6SS7JhFINmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyWJ3mfl5zsR6SS7JhFINmA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:40"
+  },
+  {
+    "business_name": "Dr.Mithun’s poly clinic ( child care and vaccination center)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175040",
+    "phone_number": "+91 79817 87353",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "49-403/7/aPadmanagar phase 2,Chintal,qutbullapur, near Bapunagar, shivalayam, Hyderabad, Telangana 500054",
+    "area": "Padmanagar Phase 1, shivalayam",
+    "latitude": 17.4922288,
+    "longitude": 78.4630549,
+    "place_id": "ChIJo7LL4VaRyzsRlMbHUYp46Bc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7LL4VaRyzsRlMbHUYp46Bc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:41"
+  }
+]

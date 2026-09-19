@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel The Raxit Inn",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Family restaurant",
+    "pincode": "175121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 537,
+    "address": "R55M+GVV, NH 3, Nagwain, Himachal Pradesh 175121",
+    "area": "175121",
+    "latitude": 31.811299899999998,
+    "longitude": 77.18400059999999,
+    "place_id": "ChIJ42Vf32z5BDkR5PB-EICKtls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42Vf32z5BDkR5PB-EICKtls",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:56:56"
+  },
+  {
+    "business_name": "Seraj Valley Home Stay.",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "175121",
+    "phone_number": "+91 86298 18624",
+    "website": "https://www.serajtourism.in/seraj-valley-home-stay",
+    "rating": 4.8,
+    "reviews_count": 104,
+    "address": "Thachi, Somgad, Himachal Pradesh 175121",
+    "area": "175121",
+    "latitude": 31.657689599999998,
+    "longitude": 77.22398009999999,
+    "place_id": "ChIJWZxKwoCrBTkRoG40d6m4I0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZxKwoCrBTkRoG40d6m4I0o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:56:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vicky-electrical",
+    "search_category": "Electrician",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service",
+    "pincode": "175102",
+    "phone_number": "N/A",
+    "website": "https://vicky-electrical-hp.netlify.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramshila, Kullu, Kais, Himachal Pradesh 175101",
+    "area": "Ramshila",
+    "latitude": 31.977919399999998,
+    "longitude": 77.1287399,
+    "place_id": "ChIJZy9imDv1BDkRfUl4VvP76zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZy9imDv1BDkRfUl4VvP76zE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:47:14"
+  },
+  {
+    "business_name": "Jamdgni Electrical Work",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electrical repair shop",
+    "pincode": "175102",
+    "phone_number": "+91 98166 07184",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X474+CMP, Lug Valley Rd, Shishamati, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Shishamati, Dhalpur",
+    "latitude": 31.9635388,
+    "longitude": 77.1066665,
+    "place_id": "ChIJz8vaX8P3BDkRK3OcLEQ9knM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8vaX8P3BDkRK3OcLEQ9knM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:47:14"
+  }
+]

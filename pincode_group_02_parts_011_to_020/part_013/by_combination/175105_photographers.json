@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parvati Photo Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Photography service",
+    "pincode": "175105",
+    "phone_number": "+91 82788 51371",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ram mandir street, Manikaran, Sosan, Himachal Pradesh 171105",
+    "area": "175105",
+    "latitude": 32.0266659,
+    "longitude": 77.3483249,
+    "place_id": "ChIJk3HWJABdBDkRogEh713MkLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3HWJABdBDkRogEh713MkLY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:53:09"
+  },
+  {
+    "business_name": "Dev Studio & Lok Mitra Kendera",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "175105",
+    "phone_number": "+91 98173 34237",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Central Bank of india ATM, Manikaran, Sosan, Himachal Pradesh 175105",
+    "area": "175105",
+    "latitude": 32.0270235,
+    "longitude": 77.3481934,
+    "place_id": "ChIJpw5buuVcBDkR8Y6nK9W16Zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpw5buuVcBDkR8Y6nK9W16Zw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:53:09"
+  }
+]

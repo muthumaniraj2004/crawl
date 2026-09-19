@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "175028",
+    "phone_number": "N/A",
+    "website": "http://www.tripminttravels.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "H282+928, Chail Chowk - Rohanda Rd, Chail-Chowk, Chail, Himachal Pradesh 175045",
+    "area": "175028",
+    "latitude": 31.565918399999997,
+    "longitude": 77.00008869999999,
+    "place_id": "ChIJ88syezAbBTkRznrfYxoozwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88syezAbBTkRznrfYxoozwY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:14"
+  },
+  {
+    "business_name": "Marybeth's Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment, Janitorial service",
+    "pincode": "175028",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Marybeth's Cleaning Services, 175028, India",
+    "area": "175028",
+    "latitude": 41.254377399999996,
+    "longitude": -77.2992725,
+    "place_id": "ChIJG_pSqlsf-qgR_dIbUgTtXCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_pSqlsf-qgR_dIbUgTtXCQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:17"
+  }
+]

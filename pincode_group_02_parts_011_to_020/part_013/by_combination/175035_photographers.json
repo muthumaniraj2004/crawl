@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Photo Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "175035",
+    "phone_number": "+91 86797 02305",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 45 Bhatki Dhar, Himachal Pradesh 175035",
+    "area": "175035",
+    "latitude": 31.628680199999998,
+    "longitude": 77.1772354,
+    "place_id": "ChIJZRz6Y5ABBTkRkNrBFY4_zPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRz6Y5ABBTkRkNrBFY4_zPk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:58"
+  },
+  {
+    "business_name": "Brother Studio Jarol",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "175035",
+    "phone_number": "+91 86279 18600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G6R4+MW4, Jarol Teh. Thunag, Himachal Pradesh 175048",
+    "area": "175035",
+    "latitude": 31.5416371,
+    "longitude": 77.2073237,
+    "place_id": "ChIJ2ZIAIgCpBTkRTmjsD_U9KFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZIAIgCpBTkRTmjsD_U9KFw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous auto electrician works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "175035",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VP5F+M3X, SH 15, Shamshuddinpur, Telangana 502256",
+    "area": "175035",
+    "latitude": 17.859263,
+    "longitude": 77.7227606,
+    "place_id": "ChIJHURZkMq7zjsRS3dCM6k5ACI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHURZkMq7zjsRS3dCM6k5ACI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:33"
+  },
+  {
+    "business_name": "M K Auto Electrical Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "175035",
+    "phone_number": "+91 97016 14351",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "opp. Hp Petrol Pump, Muthangi, Hyderabad, Telangana 502300",
+    "area": "Muthangi",
+    "latitude": 17.5442405,
+    "longitude": 78.2226324,
+    "place_id": "ChIJFUvSmPnzyzsRxwSHQzo6xO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUvSmPnzyzsRxwSHQzo6xO0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:35"
+  }
+]

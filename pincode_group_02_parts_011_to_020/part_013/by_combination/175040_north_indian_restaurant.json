@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joy Food",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175040",
+    "phone_number": "+91 98901 98012",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 339,
+    "address": "Main Street, Dharamkot, Dharamshala, Himachal Pradesh 176216",
+    "area": "Dharamkot",
+    "latitude": 32.246798999999996,
+    "longitude": 76.3259645,
+    "place_id": "ChIJY73BeNFWGzkR6tZcDlkrQIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY73BeNFWGzkR6tZcDlkrQIw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:23"
+  },
+  {
+    "business_name": "FOOD MISTRI",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant, Fast food restaurant, Non Vegetarian Restaurant, Vegan restaurant, Vegetarian restaurant",
+    "pincode": "175040",
+    "phone_number": "+91 87279 91089",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 751,
+    "address": "OPP. OLD CHURCH, KALKA- SHIMLA HIGHWAY, NH-22, Dharampur, Himachal Pradesh 173209",
+    "area": "175040",
+    "latitude": 30.8962896,
+    "longitude": 77.01580539999999,
+    "place_id": "ChIJ9ae5C9uHDzkRuG7KP1HmdNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ae5C9uHDzkRuG7KP1HmdNE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:24"
+  }
+]

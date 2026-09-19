@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "175033",
+    "phone_number": "+91 97361 10101",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bus stand, Main, Jahu, Himachal Pradesh 176048",
+    "area": "175033",
+    "latitude": 31.5898792,
+    "longitude": 76.7235513,
+    "place_id": "ChIJfWRQxwEnBTkRnrUnMDB5UCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWRQxwEnBTkRnrUnMDB5UCA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:11:28"
+  },
+  {
+    "business_name": "sethi shoes store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "175033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balt, Himachal Pradesh 175008",
+    "area": "175033",
+    "latitude": 31.590615999999997,
+    "longitude": 76.877861,
+    "place_id": "ChIJEQAAANQeBTkR9KHotkkNWD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQAAANQeBTkR9KHotkkNWD8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:11:30"
+  }
+]

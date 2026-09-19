@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Steel Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Trailer manufacturer",
+    "all_categories": "Trailer manufacturer",
+    "pincode": "175027",
+    "phone_number": "+91 99802 19312",
+    "website": "https://bharatsteelworks.netlify.app/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "near IOC petrolium, Railway Station Area, Vijayapura, Karnataka 586104",
+    "area": "Railway Station Area",
+    "latitude": 16.8326448,
+    "longitude": 75.7436077,
+    "place_id": "ChIJFbE3-9xVxjsRMJO6nmLvIvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbE3-9xVxjsRMJO6nmLvIvc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:01:30"
+  },
+  {
+    "business_name": "BHATTI WELDING WORKS",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welding and Lathe Works",
+    "all_categories": "Welding and Lathe Works",
+    "pincode": "175027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandigarh, Nayagaon, Chandigarh 160103",
+    "area": "175027",
+    "latitude": 30.7707716,
+    "longitude": 76.7955004,
+    "place_id": "ChIJ7S7VQZzyDzkRLDTj9PrEkak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7S7VQZzyDzkRLDTj9PrEkak",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:01:30"
+  }
+]

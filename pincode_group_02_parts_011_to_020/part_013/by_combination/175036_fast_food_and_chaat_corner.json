@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fast food corner / Dhaba",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "175036",
+    "phone_number": "+91 98161 46747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Teh, VPO, Sandhu, theog, Himachal Pradesh 171220",
+    "area": "VPO",
+    "latitude": 31.1561798,
+    "longitude": 77.37959819999999,
+    "place_id": "ChIJ1Ys8xaePBTkRBYv0fNw3KFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Ys8xaePBTkRBYv0fNw3KFg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:58"
+  },
+  {
+    "business_name": "Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Punjabi restaurant",
+    "pincode": "175036",
+    "phone_number": "+91 98164 44418",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "SH 22, kathog, Kundli Har, Bahni, Himachal Pradesh 176031",
+    "area": "kathog",
+    "latitude": 31.8745548,
+    "longitude": 76.2795852,
+    "place_id": "ChIJR_dM6QE6GzkRYTmiCKWc5ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_dM6QE6GzkRYTmiCKWc5ts",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:58"
+  }
+]

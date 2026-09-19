@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirvana Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electronics repair shop, Electrical supply store",
+    "pincode": "175036",
+    "phone_number": "+91 82195 25387",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kalka - Shimla Rd, Lower Chakkar, Kachi Ghatti, Shimla, Himachal Pradesh 171004",
+    "area": "Lower Chakkar, Kachi Ghatti",
+    "latitude": 31.093445,
+    "longitude": 77.136777,
+    "place_id": "ChIJcxsMXq15BTkRgKsIo-pPORU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxsMXq15BTkRgKsIo-pPORU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:33"
+  },
+  {
+    "business_name": "Jain Electrical House",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical products wholesaler, Electrical supply store",
+    "pincode": "175036",
+    "phone_number": "+91 62308 98838",
+    "website": "http://jainelectricalhouse.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Balehar Khas, Tang Narwana, Dharamshala, Machhan, Himachal Pradesh 176052",
+    "area": "Tang Narwana",
+    "latitude": 32.1664743,
+    "longitude": 76.3939113,
+    "place_id": "ChIJoWcsNKRTGzkRlZofUasQRag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWcsNKRTGzkRlZofUasQRag",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:17:34"
+  }
+]

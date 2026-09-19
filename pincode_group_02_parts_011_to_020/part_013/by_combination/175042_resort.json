@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Wild Planet",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "175042",
+    "phone_number": "+91 70183 61769",
+    "website": "https://thewildplanet.in/",
+    "rating": 4.7,
+    "reviews_count": 49,
+    "address": "Sukairi, Palampur, Himachal Pradesh 176061",
+    "area": "175042",
+    "latitude": 32.1425559,
+    "longitude": 76.5092191,
+    "place_id": "ChIJ-9TkBYWzBDkRA0z8xENJ2mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9TkBYWzBDkRA0z8xENJ2mM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:27:07"
+  },
+  {
+    "business_name": "PARADISE VILLAGE RESORT",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "175042",
+    "phone_number": "+91 88942 65114",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 1087,
+    "address": "Vill. Badhai, below Sankat Mochan Hanuman Mandir, Shimla, Himachal Pradesh 171010",
+    "area": "Bagh",
+    "latitude": 31.0832771,
+    "longitude": 77.1454345,
+    "place_id": "ChIJ5-8CsCV5BTkRt5fMf9NAYRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-8CsCV5BTkRt5fMf9NAYRA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:27:07"
+  }
+]

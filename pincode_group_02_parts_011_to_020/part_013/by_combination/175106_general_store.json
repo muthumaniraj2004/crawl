@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brij Mohan General store",
+    "search_category": "General Store",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175106",
+    "phone_number": "+91 70180 10077",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 305, Salano, Himachal Pradesh 175106",
+    "area": "175106",
+    "latitude": 31.6807524,
+    "longitude": 77.2858619,
+    "place_id": "ChIJ43QeCr-rBTkRIebep5aFR_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43QeCr-rBTkRIebep5aFR_w",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:54:00"
+  },
+  {
+    "business_name": "Bhushan general store",
+    "search_category": "General Store",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "175106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M7QJ+P6V, Bali Chowki, Himachal Pradesh 175106",
+    "area": "175106",
+    "latitude": 31.689362799999998,
+    "longitude": 77.28056219999999,
+    "place_id": "ChIJhU4IZQCrBTkRVXWKgjC2GmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhU4IZQCrBTkRVXWKgjC2GmI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:54:00"
+  }
+]

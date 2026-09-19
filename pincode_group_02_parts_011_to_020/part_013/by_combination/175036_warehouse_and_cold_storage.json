@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur apple warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "175036",
+    "phone_number": "+91 85807 91205",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Village, Khora, Jaban, Anni, Himachal Pradesh 172026",
+    "area": "Khora",
+    "latitude": 31.4230625,
+    "longitude": 77.4236875,
+    "place_id": "ChIJ4S3GSx-9BTkR59DvhiBmEqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4S3GSx-9BTkR59DvhiBmEqY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:29"
+  },
+  {
+    "business_name": "Gautam Refrigeration Works",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "175036",
+    "phone_number": "+91 94180 37177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MW5W+7GG, Behna Gagal Rd, Gutkar, Himachal Pradesh 175001",
+    "area": "175036",
+    "latitude": 31.658384299999998,
+    "longitude": 76.9462832,
+    "place_id": "ChIJwS2ADjUdBTkRPG4JCBtbQ14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS2ADjUdBTkRPG4JCBtbQ14",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BeMyTraveler - always nearby you",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Wedding photographer",
+    "pincode": "175030",
+    "phone_number": "+91 96253 43235",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 66,
+    "address": "B.B.M.B Gas Plant NH-21, Slapper, Sundar Nagar, Himachal Pradesh 175017",
+    "area": "175030",
+    "latitude": 31.4223471,
+    "longitude": 76.85361569999999,
+    "place_id": "ChIJ-ZRuEGUWBTkRnaZFNiO9q_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZRuEGUWBTkRnaZFNiO9q_4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:06:05"
+  },
+  {
+    "business_name": "PTW HOLIDAY PVT. LTD.",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "175030",
+    "phone_number": "N/A",
+    "website": "https://ptwholidays.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Kashyap niwas 2nd floor panthagathi, Himachal Pradesh 171009",
+    "area": "Panthaghati",
+    "latitude": 31.069114499999998,
+    "longitude": 77.18036359999999,
+    "place_id": "ChIJGUURbYt_BTkRBL7H7m91Z90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUURbYt_BTkRBL7H7m91Z90",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:06:07"
+  }
+]

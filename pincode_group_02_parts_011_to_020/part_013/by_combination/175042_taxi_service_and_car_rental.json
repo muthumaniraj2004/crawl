@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi Stand Lambloo",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "175042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "MHCP+8XX, MDR35, Lambloo, Himachal Pradesh 177029",
+    "area": "175042",
+    "latitude": 31.670854499999997,
+    "longitude": 76.5874827,
+    "place_id": "ChIJkVWAPknWBDkRJT2COp9Nt50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVWAPknWBDkRJT2COp9Nt50",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:26:40"
+  },
+  {
+    "business_name": "Sharma taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "175042",
+    "phone_number": "+91 78767 51568",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Snow valley resort, Kachi Ghatti, Shimla, Himachal Pradesh 171004",
+    "area": "Kachi Ghatti",
+    "latitude": 31.0937067,
+    "longitude": 77.13887729999999,
+    "place_id": "ChIJ1TjTOlZ5BTkRYS5qkVyDT_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TjTOlZ5BTkRYS5qkVyDT_g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:26:40"
+  }
+]

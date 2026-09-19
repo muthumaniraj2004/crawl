@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUPER CYCLE COMPANY",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler",
+    "pincode": "175104",
+    "phone_number": "+91 99258 38980",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Madanzapa Rd, Nyay Mandir, Sultanpura, Vadodara, Gujarat 390001",
+    "area": "Nyay Mandir, Sultanpura",
+    "latitude": 22.2987876,
+    "longitude": 73.2054543,
+    "place_id": "ChIJk2A_A_PFXzkR3R7rBDvEImA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2A_A_PFXzkR3R7rBDvEImA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:50:50"
+  },
+  {
+    "business_name": "A.H Enterprise, Track & Trail Exclusive Outlet",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "175104",
+    "phone_number": "+91 97275 76969",
+    "website": "http://trackandtrail.in/",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "GF-1, RAAMA EMPORIO, Gotri - Sevasi Rd, Sevasi, Vadodara, Gujarat 391101",
+    "area": "Sevasi",
+    "latitude": 22.318387299999998,
+    "longitude": 73.121421,
+    "place_id": "ChIJsxFEXRvJXzkRoG3AUBsKKYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxFEXRvJXzkRoG3AUBsKKYo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:50:52"
+  }
+]

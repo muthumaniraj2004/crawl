@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Denver Cold Storage, Inc. - Warehouse 4",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "175031",
+    "phone_number": "N/A",
+    "website": "https://www.denvercold.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1085 Sharp Ave, Ephrata, PA 17522, United States",
+    "area": "175031",
+    "latitude": 40.202894199999996,
+    "longitude": -76.2149518,
+    "place_id": "ChIJcfhyFPamEIMRL6Fh2RwTxxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcfhyFPamEIMRL6Fh2RwTxxo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:08:59"
+  },
+  {
+    "business_name": "K L daily needs",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Smart shop",
+    "all_categories": "Smart shop",
+    "pincode": "175031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village namana Post office Ghiri district, Badhu, Himachal Pradesh 175031",
+    "area": "175031",
+    "latitude": 31.485193,
+    "longitude": 76.9995536,
+    "place_id": "ChIJpZNMgEwRBTkRtSd5TBI5ZMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZNMgEwRBTkRtSd5TBI5ZMw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:08:59"
+  }
+]

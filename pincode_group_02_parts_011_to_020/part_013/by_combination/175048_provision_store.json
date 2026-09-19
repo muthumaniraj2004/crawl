@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chopra Karyana Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175048",
+    "phone_number": "+91 98059 21017",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10, Bari Pharnol, Rahkot, Hamirpur, Dpf Daridhar, Himachal Pradesh 177001",
+    "area": "Rahkot",
+    "latitude": 31.5587938,
+    "longitude": 77.17541589999999,
+    "place_id": "ChIJbzjrwIgHBTkRNJcGYwpyAFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzjrwIgHBTkRNJcGYwpyAFA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:33:21"
+  },
+  {
+    "business_name": "Ms Nanak Chand &Sons",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175048",
+    "phone_number": "+91 98052 60373",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nanak Chand Busstand, Rahkot, Thunag, Himachal Pradesh 175048",
+    "area": "Rahkot",
+    "latitude": 31.5579915,
+    "longitude": 77.165222,
+    "place_id": "ChIJhV10waUHBTkRZBMnPtb2P6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhV10waUHBTkRZBMnPtb2P6k",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:33:21"
+  }
+]

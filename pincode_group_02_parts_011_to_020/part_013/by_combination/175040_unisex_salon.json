@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair Lounge Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Eyelash salon, Nail salon",
+    "pincode": "175040",
+    "phone_number": "+91 70186 22553",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 930,
+    "address": "near Post Office, opp. BSNL Office, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.110633299999996,
+    "longitude": 76.536557,
+    "place_id": "ChIJ58DZrcazBDkRzghMVUySrhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58DZrcazBDkRzghMVUySrhs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:25:07"
+  },
+  {
+    "business_name": "Golden Scissor’s Unisex Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "175040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQ36+9WP, Dharampur, Himachal Pradesh 175040",
+    "area": "175040",
+    "latitude": 31.8035072,
+    "longitude": 76.7623406,
+    "place_id": "ChIJR8__JirdBDkREA6fgxZdjUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8__JirdBDkREA6fgxZdjUA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:25:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinod General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175034",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "GPM9+RR8, Kathla, Mehrin, Himachal Pradesh 174026",
+    "area": "Kathla",
+    "latitude": 31.5345481,
+    "longitude": 76.7195852,
+    "place_id": "ChIJwVC9SI0lBTkRf4BcAKMuLHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVC9SI0lBTkRf4BcAKMuLHI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:12:57"
+  },
+  {
+    "business_name": "Sharma Store Bhareri",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175034",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Bhareri, Himachal Pradesh 174003",
+    "area": "175034",
+    "latitude": 31.498375399999997,
+    "longitude": 76.7561216,
+    "place_id": "ChIJ1Xpvg8cjBTkRFHDfzxGOfnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Xpvg8cjBTkRFHDfzxGOfnY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:12:57"
+  }
+]

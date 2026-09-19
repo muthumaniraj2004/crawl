@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "24 hours Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175102",
+    "phone_number": "N/A",
+    "website": "https://www.amritahospitals.org/kochi/support-services/pharmacy",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "AIMS, Peeliyadu Road, Amrita Nagar, Edappally, Kochi, Ernakulam, Keralam 682041",
+    "area": "Amrita Nagar, Edappally",
+    "latitude": 10.0334826,
+    "longitude": 76.2929678,
+    "place_id": "ChIJOzpVLwANCDsRBnp3MZoxVGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzpVLwANCDsRBnp3MZoxVGo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:46:46"
+  },
+  {
+    "business_name": "365 PHARMA",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175102",
+    "phone_number": "+91 79941 33365",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kunnumpuram, Vazhakkala, Kakkanad, Kochi, Keralam 682021",
+    "area": "Kunnumpuram, Vazhakkala",
+    "latitude": 10.015544799999999,
+    "longitude": 76.33580599999999,
+    "place_id": "ChIJz6aXIPMNCDsRREGYdFpwAmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6aXIPMNCDsRREGYdFpwAmc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:46:49"
+  }
+]

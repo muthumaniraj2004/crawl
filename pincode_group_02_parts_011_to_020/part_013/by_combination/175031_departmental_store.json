@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darshan General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175031",
+    "phone_number": "+91 98820 00063",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 196,
+    "address": "101, Bhagani - Sahib Rd, Main Bazar, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "Main Bazar",
+    "latitude": 30.438935299999997,
+    "longitude": 77.6211575,
+    "place_id": "ChIJfa3bs6cjDzkRqDdDnEvZc-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfa3bs6cjDzkRqDdDnEvZc-8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:21"
+  },
+  {
+    "business_name": "Raj Daily Need Shop Jagat Khana",
+    "search_category": "Departmental Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "175031",
+    "phone_number": "+91 94592 16007",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 91,
+    "address": "Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "175031",
+    "latitude": 31.453484399999997,
+    "longitude": 77.6343715,
+    "place_id": "ChIJ2Ybcd2zBBTkRP4U1ixHq0-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Ybcd2zBBTkRP4U1ixHq0-g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:21"
+  }
+]

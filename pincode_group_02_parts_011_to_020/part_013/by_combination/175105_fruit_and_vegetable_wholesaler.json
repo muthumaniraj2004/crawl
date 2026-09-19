@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit fruit company",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "175105",
+    "phone_number": "+91 98058 02622",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near ganpati marbles, Kalehli, Himachal Pradesh 175125",
+    "area": "Kalehli",
+    "latitude": 31.8592768,
+    "longitude": 77.1573289,
+    "place_id": "ChIJ1drhHiL5BDkRbQlQ3lQ2-7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1drhHiL5BDkRbQlQ3lQ2-7A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:03"
+  },
+  {
+    "business_name": "dk fruit garden",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "175105",
+    "phone_number": "+91 62301 70635",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shiah, Himachal Pradesh 175141",
+    "area": "175105",
+    "latitude": 31.8328125,
+    "longitude": 77.2604375,
+    "place_id": "ChIJ74OsuFFXBDkRsYfSk_sa4u4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74OsuFFXBDkRsYfSk_sa4u4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:03"
+  }
+]

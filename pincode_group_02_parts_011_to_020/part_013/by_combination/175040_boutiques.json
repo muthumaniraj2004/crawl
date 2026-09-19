@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ms Nikhil Genral Store",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "175040",
+    "phone_number": "+91 86790 07100",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Sood Stores, Hospital Rd, Padhar, Himachal Pradesh 175012",
+    "area": "175040",
+    "latitude": 31.8785219,
+    "longitude": 76.9161948,
+    "place_id": "ChIJDfBuiaPpBDkRi_3IPKyhgno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfBuiaPpBDkRi_3IPKyhgno",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:35"
+  },
+  {
+    "business_name": "Saklani Garments, Baroti",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "175040",
+    "phone_number": "+91 96258 66664",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "QQMJ+VCW, Saklani Garments,, Baroti, Himachal Pradesh 175040",
+    "area": "175040",
+    "latitude": 31.784734399999998,
+    "longitude": 76.7810772,
+    "place_id": "ChIJ3ZP_ILPdBDkRSsCuEsiiD50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZP_ILPdBDkRSsCuEsiiD50",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:36"
+  }
+]

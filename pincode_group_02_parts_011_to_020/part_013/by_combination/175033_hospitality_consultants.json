@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GK Hospitality Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Branding agency, Consultant, Food and beverage consultant, Hotel, Internet marketing service, Website designer",
+    "pincode": "175033",
+    "phone_number": "+91 78386 41635",
+    "website": "http://gkhospitality.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "17-18, V, Tower of ARC, adjacent to Bharti Airtel, Sector 18, Gurugram, Shahpur, Haryana 122002",
+    "area": "Sector 18",
+    "latitude": 28.4909775,
+    "longitude": 77.0796503,
+    "place_id": "ChIJ_zt-MD4ZDTkRybaHzd0cfcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zt-MD4ZDTkRybaHzd0cfcs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:12:17"
+  },
+  {
+    "business_name": "Hotelier's International",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "175033",
+    "phone_number": "+91 97021 46740",
+    "website": "http://hoteliersinternational.in/",
+    "rating": 4.5,
+    "reviews_count": 255,
+    "address": "Office no. 1B 94 First floor, Phoenix Paragon Plaza, Lal Bahadur Shastri Marg, Kamani, Kurla, Mumbai, Maharashtra 400070",
+    "area": "Kamani, Ashok Nagar, Kurla",
+    "latitude": 19.0853653,
+    "longitude": 72.8887084,
+    "place_id": "ChIJN4hsWWLH5zsRG0zhUjPtxcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4hsWWLH5zsRG0zhUjPtxcE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:12:20"
+  }
+]

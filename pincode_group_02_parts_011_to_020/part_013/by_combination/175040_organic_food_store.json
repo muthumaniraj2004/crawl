@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hillpure Organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Food Processing Company, Natural goods store",
+    "pincode": "175040",
+    "phone_number": "+91 72170 25084",
+    "website": "http://www.hillpureorganic.com/",
+    "rating": 5,
+    "reviews_count": 123,
+    "address": "Hillpure Organic Vikasnagar , Bithoria No-1, Tilaknagar, Kusumkhera, Haldwani, Uttarakhand 263139",
+    "area": "Tilaknagar, Kusumkhera",
+    "latitude": 29.222685799999997,
+    "longitude": 79.5087028,
+    "place_id": "ChIJ42PJAJWboDkRy3d3rdwpN2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42PJAJWboDkRy3d3rdwpN2U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:12"
+  },
+  {
+    "business_name": "Gajraj medical store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dharampur Rd, near CSD Canteen, Dharampur, Chhapanu, Himachal Pradesh 175040",
+    "area": "175040",
+    "latitude": 31.8005581,
+    "longitude": 76.7580298,
+    "place_id": "ChIJDfDDqEXdBDkRdRhFDyN8KJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfDDqEXdBDkRdRhFDyN8KJ4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:12"
+  }
+]

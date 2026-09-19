@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kota Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Food court",
+    "pincode": "175037",
+    "phone_number": "+91 77929 62898",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "154-A, Krishna Vihar Rd, Laxman Vihar, Kunadi, Electricity Board Area, Kota, Kota Municipal Area, Rajasthan 324008",
+    "area": "Laxman Vihar, Kunadi, Electricity Board Area",
+    "latitude": 25.194938,
+    "longitude": 75.8304746,
+    "place_id": "ChIJJTWwYgCbbzkRMLRbvHo3U0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTWwYgCbbzkRMLRbvHo3U0A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:56"
+  },
+  {
+    "business_name": "Comfort Engineering Enterprises, Commercial Kitchen Equipments Manufacturers",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen furniture store",
+    "all_categories": "Kitchen furniture store, Cake decorating equipment shop, Commercial refrigerator supplier, Display stand manufacturer, Equipment supplier, Kitchen supply store, Shared-use commercial kitchen, Stall installation service",
+    "pincode": "175037",
+    "phone_number": "+91 93731 21236",
+    "website": "https://comfortengg.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Central Ave, Behind Dosar Bhawan, Bhagwagar Chowk, Mominpura, Nagpur, Maharashtra 440018",
+    "area": "Bhagwagar Chowk, Mominpura",
+    "latitude": 21.153145,
+    "longitude": 79.0962215,
+    "place_id": "ChIJj6XbbzbH1DsR-f5VOTG0YeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6XbbzbH1DsR-f5VOTG0YeY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhadarkali Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "175028",
+    "phone_number": "+91 70185 39515",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H2JW+QG5, Bhadarkali Diagnostic Center, karnala(Tunna), p/o Jachh, Teh, Gohar, Himachal Pradesh 175029",
+    "area": "175028",
+    "latitude": 31.581889099999998,
+    "longitude": 77.0463613,
+    "place_id": "ChIJZ0BowVIFBTkRs8srRyaCDyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0BowVIFBTkRs8srRyaCDyw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:17"
+  },
+  {
+    "business_name": "Maya Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "175028",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": null,
+    "address": "PW6H+444, Hospital Rd, Palace Colony, Mandi, Himachal Pradesh 175001",
+    "area": "Palace Colony",
+    "latitude": 31.7102662,
+    "longitude": 76.92781579999999,
+    "place_id": "ChIJfbRl5CTiBDkRWKqjou6KqxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbRl5CTiBDkRWKqjou6KqxY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:20"
+  }
+]

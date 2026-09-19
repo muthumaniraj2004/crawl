@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MCM2",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics Company",
+    "all_categories": "Electronics Company",
+    "pincode": "175051",
+    "phone_number": "+91 120 408 0800",
+    "website": "http://www.mcmtelecom.in/",
+    "rating": 3.9,
+    "reviews_count": 58,
+    "address": "D 195, D Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "D Block, Sector 63",
+    "latitude": 28.626505899999998,
+    "longitude": 77.381839,
+    "place_id": "ChIJi3qdE4rvDDkRKaPI1VXetEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3qdE4rvDDkRKaPI1VXetEA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:40:17"
+  },
+  {
+    "business_name": "MCM1",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Cell phone store",
+    "pincode": "175051",
+    "phone_number": "+91 120 408 0800",
+    "website": "http://www.mcmtelecom.in/",
+    "rating": 3.8,
+    "reviews_count": 267,
+    "address": "A-154 B, Sector 63 Rd, opp. Block A, A Block, Sector 40, Noida, Uttar Pradesh 201303",
+    "area": "A Block, Sector 40",
+    "latitude": 28.564102199999997,
+    "longitude": 77.35216059999999,
+    "place_id": "ChIJoXTS-WDlDDkRaerOOrTAjlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXTS-WDlDDkRaerOOrTAjlU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:40:17"
+  }
+]

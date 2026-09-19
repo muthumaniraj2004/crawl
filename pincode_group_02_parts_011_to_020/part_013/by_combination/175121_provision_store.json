@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta confectionery",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175121",
+    "phone_number": "+91 98168 58055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P6V5+RC3, Aut, Himachal Pradesh 175121",
+    "area": "175121",
+    "latitude": 31.7445992,
+    "longitude": 77.2085261,
+    "place_id": "ChIJG_L7agBVBDkRu_3P4evoZdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_L7agBVBDkRu_3P4evoZdE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:55:47"
+  },
+  {
+    "business_name": "Swastik Pooja Bhandar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Religious Book Store, Religious goods store",
+    "pincode": "175121",
+    "phone_number": "+91 85809 35285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Dhaneta, Himachal Pradesh 177041",
+    "area": "175121",
+    "latitude": 31.6694221,
+    "longitude": 76.3673623,
+    "place_id": "ChIJy27iEXErGzkRrQr_zT1jUos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy27iEXErGzkRrQr_zT1jUos",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:55:48"
+  }
+]

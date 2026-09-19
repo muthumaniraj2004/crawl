@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bus Stop Tikkar",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "175040",
+    "phone_number": "+91 86796 60643",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "VRGJ+R93, Tikkar, Himachal Pradesh 175015",
+    "area": "175040",
+    "latitude": 31.877017,
+    "longitude": 76.8309182,
+    "place_id": "ChIJi1cxsiboBDkRIadeIU5b6xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1cxsiboBDkRIadeIU5b6xw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:54"
+  },
+  {
+    "business_name": "HRTC DHARAMPUR (ISBT)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus depot",
+    "all_categories": "Bus depot",
+    "pincode": "175040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 36,
+    "address": "Isbt Dharampur, Dharampur, Himachal Pradesh 175040",
+    "area": "Isbt Dharampur",
+    "latitude": 31.8029181,
+    "longitude": 76.7615221,
+    "place_id": "ChIJd9mfLS_dBDkROxAD8ARYyqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9mfLS_dBDkROxAD8ARYyqQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:54"
+  }
+]

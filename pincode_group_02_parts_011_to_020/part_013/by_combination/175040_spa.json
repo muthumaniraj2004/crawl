@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spa Studio",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club, Massage therapist",
+    "pincode": "175040",
+    "phone_number": "+91 76186 19324",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 151,
+    "address": "38, EC Road, near Dawarka Store, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Race Course",
+    "latitude": 30.3180496,
+    "longitude": 78.0500297,
+    "place_id": "ChIJ6au-FdUpCTkRQTgYEu0Nc1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6au-FdUpCTkRQTgYEu0Nc1g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:25:07"
+  },
+  {
+    "business_name": "Gurudev Traditional Ayurveda & Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Thai massage therapist",
+    "pincode": "175040",
+    "phone_number": "+91 90849 57092",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 299,
+    "address": "Grond Floor, The Clark’s Hotel, Mall Rd, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "The Mall Road",
+    "latitude": 30.455515,
+    "longitude": 78.0784652,
+    "place_id": "ChIJkXgWZlDRCDkRUgOZCKU6NDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXgWZlDRCDkRUgOZCKU6NDo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:25:07"
+  }
+]

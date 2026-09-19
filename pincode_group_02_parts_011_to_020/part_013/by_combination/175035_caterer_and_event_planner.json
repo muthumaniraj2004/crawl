@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahavir Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Children's party buffet, Sweets and dessert buffet, Mobile caterer, Wedding buffet, Wedding service",
+    "pincode": "175035",
+    "phone_number": "+91 98191 99376",
+    "website": "https://mahavir-caterers.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.11, Building 7, Shanti Gardens Rd, near Aagan sweet, sector No. 4, Mira Road East, Thane, Mumbai, Maharashtra 401107",
+    "area": "sector No. 4, Mira Road East",
+    "latitude": 19.2725577,
+    "longitude": 72.8725766,
+    "place_id": "ChIJA36pesix5zsRO-m1PvBKc3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA36pesix5zsRO-m1PvBKc3M",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:59"
+  },
+  {
+    "business_name": "Master Planner Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Catering food and drink supplier, Event management company, Event venue, Music management and promotion, Photographer, Restaurant supply store, Wedding planner",
+    "pincode": "175035",
+    "phone_number": "+91 91758 78715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Siddhi Vihar Society, 5th floor, flat no.507, Opp. Abane Hospital, near Hanuman temple, Gadital, Hadapsar, Pune, Maharashtra 411028",
+    "area": "Navnath Colony, Gadital, Hadapsar",
+    "latitude": 18.499110899999998,
+    "longitude": 73.9383299,
+    "place_id": "ChIJS35o_OLDwjsRa8tkbF36qAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS35o_OLDwjsRa8tkbF36qAE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:01"
+  }
+]

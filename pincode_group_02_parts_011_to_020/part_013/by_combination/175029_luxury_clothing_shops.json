@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riya Emporium",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "175029",
+    "phone_number": "+91 62833 21316",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "parking area, Log Huts Rd, near green forests cafe, Old Manali, Manali, Himachal Pradesh 175131",
+    "area": "Old Manali",
+    "latitude": 32.2495824,
+    "longitude": 77.18017739999999,
+    "place_id": "ChIJwfpiBDqHBDkRmUExJ4D5nGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfpiBDqHBDkRmUExJ4D5nGg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:01"
+  },
+  {
+    "business_name": "Himachal Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "175029",
+    "phone_number": "+91 98160 17850",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 15,
+    "address": "3, Regal Building, Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+    "area": "Lakkar Bazar",
+    "latitude": 31.105013399999997,
+    "longitude": 77.17659979999999,
+    "place_id": "ChIJ2Z3W45N4BTkRTVwzTvCZCLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Z3W45N4BTkRTVwzTvCZCLQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:01"
+  }
+]

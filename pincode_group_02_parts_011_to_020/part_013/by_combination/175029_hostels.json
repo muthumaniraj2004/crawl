@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hostel Stories Bir - Landing Site",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Hotel, Home Stay",
+    "pincode": "175029",
+    "phone_number": "+91 62302 67754",
+    "website": "http://www.instagram.com/thehostelstories",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2PW6+PFC, Keori, Disst, po, Keori, Bir, Himachal Pradesh 176077",
+    "area": "po",
+    "latitude": 32.0459941,
+    "longitude": 76.7102697,
+    "place_id": "ChIJBaGoNMm4BDkR14zYTcnaKPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaGoNMm4BDkR14zYTcnaKPw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:41"
+  },
+  {
+    "business_name": "Happy",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "175029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J5H6+4V, Khablech, Himachal Pradesh 175035",
+    "area": "175029",
+    "latitude": 31.6277507,
+    "longitude": 77.1622474,
+    "place_id": "ChIJQ1YmMAABBTkRWC5hlm1c4L0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1YmMAABBTkRWC5hlm1c4L0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:42"
+  }
+]

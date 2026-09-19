@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "175039",
+    "phone_number": "+91 70183 58379",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rajendra footwear, Panchrukhi, Ladoh, Himachal Pradesh 176103",
+    "area": "175039",
+    "latitude": 32.0556912,
+    "longitude": 76.565556,
+    "place_id": "ChIJwT15K-a3BDkR2sNcVS56rpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwT15K-a3BDkR2sNcVS56rpc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:22:45"
+  },
+  {
+    "business_name": "Shambhu shoes store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "175039",
+    "phone_number": "+91 78070 26022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harsi Pattan Rd, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "175039",
+    "latitude": 31.8988542,
+    "longitude": 76.600199,
+    "place_id": "ChIJU1s1-grPBDkR90m-MBfN4_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1s1-grPBDkR90m-MBfN4_0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:22:45"
+  }
+]

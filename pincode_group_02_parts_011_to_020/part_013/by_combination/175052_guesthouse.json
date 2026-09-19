@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PWD Rest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "175052",
+    "phone_number": "N/A",
+    "website": "http://himatithi.nic.in/",
+    "rating": 3.9,
+    "reviews_count": 123,
+    "address": "GFJ9+M6P, Mehre, Una - Jahu - Ner Chowk Rd, Barsar, Himachal Pradesh 174305",
+    "area": "175052",
+    "latitude": 31.531713999999997,
+    "longitude": 76.4680782,
+    "place_id": "ChIJcTiTXqUsBTkRdtWZMaMtork",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTiTXqUsBTkRdtWZMaMtork",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:41:51"
+  },
+  {
+    "business_name": "K P M Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "175052",
+    "phone_number": "+91 98492 29565",
+    "website": "https://kpmlodge.in/",
+    "rating": 4.9,
+    "reviews_count": 449,
+    "address": "KG Rd, Gareebnagar, Atmakur, Andhra Pradesh 518422",
+    "area": "Gareebnagar",
+    "latitude": 15.876155599999999,
+    "longitude": 78.580062,
+    "place_id": "ChIJI8ByGTWftTsRgNto5zCFIXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8ByGTWftTsRgNto5zCFIXU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:41:51"
+  }
+]

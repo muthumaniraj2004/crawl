@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indira Gandhi Medical College & Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Medical school, Pharmacy",
+    "pincode": "175046",
+    "phone_number": "+91 177 265 4713",
+    "website": "http://www.igmcshimla.edu.in/",
+    "rating": 4,
+    "reviews_count": 1035,
+    "address": "Ridge Sanjauli Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+    "area": "Lakkar Bazar",
+    "latitude": 31.107846799999997,
+    "longitude": 77.1806519,
+    "place_id": "ChIJvUM5Z5B4BTkR9aOkyUXZn50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUM5Z5B4BTkR9aOkyUXZn50",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:30:09"
+  },
+  {
+    "business_name": "TASC Clinic (Polyclinic & Chemist)",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "175046",
+    "phone_number": "+91 70089 36427",
+    "website": "https://tascmedical.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mother Teresa Rd, beside Dosa Haat, Lower, Chelidanga, Asansol, West Bengal 713304",
+    "area": "Lower, Chelidanga",
+    "latitude": 23.688985199999998,
+    "longitude": 86.95846329999999,
+    "place_id": "ChIJob0q6NEf9zkRXgVR7DOlMdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJob0q6NEf9zkRXgVR7DOlMdg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:30:10"
+  }
+]

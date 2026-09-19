@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe selfie point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175037",
+    "phone_number": "+91 98572 61401",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 95,
+    "address": "Mandi - Katindhi Rd, Chhipnu, Himachal Pradesh 175001",
+    "area": "175037",
+    "latitude": 31.7309287,
+    "longitude": 76.9402623,
+    "place_id": "ChIJgRNvHtLjBDkRicV-IbEIvGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRNvHtLjBDkRicV-IbEIvGM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:55"
+  },
+  {
+    "business_name": "Cafe_ DevoCion",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175037",
+    "phone_number": "+91 88264 10118",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 331,
+    "address": "V.P.O, Bhira, Himachal Pradesh 177001",
+    "area": "175037",
+    "latitude": 31.645981,
+    "longitude": 76.5537696,
+    "place_id": "ChIJjVTzBnzXBDkRy5t29vvIJTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVTzBnzXBDkRy5t29vvIJTI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:18:55"
+  }
+]

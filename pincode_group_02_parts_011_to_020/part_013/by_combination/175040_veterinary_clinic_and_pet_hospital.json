@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "175040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "V2WF+GRC, Old ITI Rd, Dharampur, Himachal Pradesh 173209",
+    "area": "175040",
+    "latitude": 30.8963042,
+    "longitude": 77.0245221,
+    "place_id": "ChIJDVFa2tOHDzkR9OsWvoxpkME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVFa2tOHDzkR9OsWvoxpkME",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:42"
+  },
+  {
+    "business_name": "Dr GC Negi College of Veterinary and Animal Sciences",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care, College",
+    "pincode": "175040",
+    "phone_number": "+91 189 423 0327",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 293,
+    "address": "4H35+JRC, NH154, Holta, Palampur, Banuri, Himachal Pradesh 176062",
+    "area": "Holta",
+    "latitude": 32.1040662,
+    "longitude": 76.5595096,
+    "place_id": "ChIJF9y-aluxBDkRFkYfc9KPKNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9y-aluxBDkRFkYfc9KPKNA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:43"
+  }
+]

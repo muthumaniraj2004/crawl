@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tribo Organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "175050",
+    "phone_number": "+91 80541 44041",
+    "website": "https://www.triboorganic.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Karchham,tehsil sangla, Karcham, Himachal Pradesh 172107",
+    "area": "175050",
+    "latitude": 31.5032674,
+    "longitude": 78.1734355,
+    "place_id": "ChIJ1cH87_VtBjkRt8M0Dwuat5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cH87_VtBjkRt8M0Dwuat5w",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:00"
+  },
+  {
+    "business_name": "SansarChand&Sons",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "175050",
+    "phone_number": "+91 94180 73672",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Loharkadi Upper Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Loharkadi Upper Sudher",
+    "latitude": 32.2222442,
+    "longitude": 76.3180163,
+    "place_id": "ChIJl2hnjSBRGzkRObq_b6zPUhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2hnjSBRGzkRObq_b6zPUhg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:02"
+  }
+]

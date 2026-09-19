@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bakers Valley",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "175102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "bus stop, Bakers Valley V.P.O Katrain, NH-3, Near, Katrain, Himachal Pradesh 175129",
+    "area": "Near",
+    "latitude": 32.1039111,
+    "longitude": 77.137124,
+    "place_id": "ChIJkWMz9vWLBDkRaRkQU4LannY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWMz9vWLBDkRaRkQU4LannY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:46:30"
+  },
+  {
+    "business_name": "ioo.anshu",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "175102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "X477+627, Sultanpur, Kullu, Himachal Pradesh 175101",
+    "area": "Sultanpur",
+    "latitude": 31.9629968,
+    "longitude": 77.1124088,
+    "place_id": "ChIJ1z0SGwD3BDkRYtvprLOF29U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1z0SGwD3BDkRYtvprLOF29U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:46:31"
+  }
+]

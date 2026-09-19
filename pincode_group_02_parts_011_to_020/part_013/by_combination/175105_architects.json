@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavi's Ar.Design",
+    "search_category": "Architects",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Consultant, Design engineer",
+    "pincode": "175105",
+    "phone_number": "+91 82620 90611",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Gauri Shankar Mahadev Temple, Sainj, Himachal Pradesh 175134",
+    "area": "175105",
+    "latitude": 31.772045199999997,
+    "longitude": 77.3060204,
+    "place_id": "ChIJmT8G18lTBDkRUAvO1VGBco8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmT8G18lTBDkRUAvO1VGBco8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:57"
+  },
+  {
+    "business_name": "Avinya Architect",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architectural designer, Architecture firm, Building consultant, Building designer, Building restoration service, Design engineer",
+    "pincode": "175105",
+    "phone_number": "+91 70182 38142",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhuntar, Shillihar, Himachal Pradesh 175125",
+    "area": "175105",
+    "latitude": 31.8770982,
+    "longitude": 77.15973509999999,
+    "place_id": "ChIJjd7b9ZP5BDkR-XF830uisPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjd7b9ZP5BDkR-XF830uisPc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:58"
+  }
+]

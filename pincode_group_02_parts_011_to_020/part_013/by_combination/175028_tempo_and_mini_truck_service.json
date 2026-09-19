@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manali Cab Booking",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "175028",
+    "phone_number": "+91 82196 89404",
+    "website": "https://www.manalicabbooking.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "house no 162, hadimba moter, near, Gurudwara Rd, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Siyal",
+    "latitude": 32.2474803,
+    "longitude": 77.1816863,
+    "place_id": "ChIJiTqyZOeHBDkRUVrLDvj34s0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTqyZOeHBDkRUVrLDvj34s0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:31"
+  },
+  {
+    "business_name": "Chennai Mini Truck",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "175028",
+    "phone_number": "+91 88380 06108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "1, 3rd Cross St, Lenin Nagar, Ambattur, Chennai, Tamil Nadu 600053",
+    "area": "Lenin Nagar, Ambattur",
+    "latitude": 13.127358599999999,
+    "longitude": 80.1470257,
+    "place_id": "ChIJI1uhagFjUjoRojaMtmK_NCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1uhagFjUjoRojaMtmK_NCQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:33"
+  }
+]

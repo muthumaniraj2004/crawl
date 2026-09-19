@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khanot",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "175033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HP2R+W6M, Khanot Rd, Barin, Himachal Pradesh 175033",
+    "area": "175033",
+    "latitude": 31.552329099999998,
+    "longitude": 76.7405575,
+    "place_id": "ChIJ_2CBVAAjBTkRPqK8qCyUYFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2CBVAAjBTkRPqK8qCyUYFg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:12:58"
+  },
+  {
+    "business_name": "Plassi Mechanic Shop",
+    "search_category": "Shops",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "175033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "GQV5+362, SH 19, Himachal Pradesh 175033",
+    "area": "175033",
+    "latitude": 31.5426252,
+    "longitude": 76.75800269999999,
+    "place_id": "ChIJJ4f1lr0jBTkRy5vS9ggaPYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4f1lr0jBTkRy5vS9ggaPYM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:12:59"
+  }
+]

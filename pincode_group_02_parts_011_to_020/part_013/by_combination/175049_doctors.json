@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D N medicine center",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "175049",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JQR6+G7W, Chandesh Rd, Fatehpur, Chandesh, Himachal Pradesh 175049",
+    "area": "175049",
+    "latitude": 31.6413624,
+    "longitude": 76.7607098,
+    "place_id": "ChIJdw8T1bEhBTkRGB4X3mPE_Vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdw8T1bEhBTkRGB4X3mPE_Vw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:35:37"
+  },
+  {
+    "business_name": "Balam Ram Vaid",
+    "search_category": "Doctors",
+    "primary_category": "Pain management physician",
+    "all_categories": "Pain management physician",
+    "pincode": "175049",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MR95+25, Baggi, Himachal Pradesh 175049",
+    "area": "175049",
+    "latitude": 31.667437,
+    "longitude": 76.8079632,
+    "place_id": "ChIJ6QPWKgDfBDkRVfKBzdLvpC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QPWKgDfBDkRVfKBzdLvpC0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:35:37"
+  }
+]

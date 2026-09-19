@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Herbs",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Herb shop, Pharmaceuticals Exporter, Pharmaceutical Products Wholesaler",
+    "pincode": "175038",
+    "phone_number": "+91 86993 00666",
+    "website": "http://bestherbs.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "SCO 32 , Second Floor, in front of Paras Bliss Hospital, Sector 5, Panchkula, Haryana 134114",
+    "area": "Mansa Devi Complex, Sector 5",
+    "latitude": 30.7143488,
+    "longitude": 76.8504744,
+    "place_id": "ChIJ____vxeTDzkRn-YiDsOJql0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____vxeTDzkRn-YiDsOJql0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:21:31"
+  },
+  {
+    "business_name": "Magic Of Herbs",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetic Products Manufacturer",
+    "all_categories": "Cosmetic Products Manufacturer, Herb shop",
+    "pincode": "175038",
+    "phone_number": "+91 72064 13218",
+    "website": "https://www.amazon.in/stores/KHADINATURAL/page/38DE4A1E-0C36-4D49-A09C-7C3EBD0AB1A1?ref_=ast_bln",
+    "rating": 3.2,
+    "reviews_count": 58,
+    "address": "D-173, Defence Colony, Ambala, Ambala Cantt, Haryana 133010",
+    "area": "Defence Colony",
+    "latitude": 30.3856866,
+    "longitude": 76.83895729999999,
+    "place_id": "ChIJVVUClsK3DzkRT_MaUXengfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUClsK3DzkRT_MaUXengfE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:21:31"
+  }
+]

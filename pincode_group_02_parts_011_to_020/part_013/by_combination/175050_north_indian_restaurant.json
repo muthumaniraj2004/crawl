@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma's Sher-E-Punjab Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "175050",
+    "phone_number": "+91 98165 24328",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 393,
+    "address": "6899+4FF, Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.217858299999996,
+    "longitude": 76.3186697,
+    "place_id": "ChIJTVPpL6FRGzkRv4ZTqLMWL6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVPpL6FRGzkRv4ZTqLMWL6c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:10"
+  },
+  {
+    "business_name": "Ashoka Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant",
+    "pincode": "175050",
+    "phone_number": "+91 94180 96973",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 371,
+    "address": "Forsyth Ganj-Mcleod Ganj, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2373307,
+    "longitude": 76.32432829999999,
+    "place_id": "ChIJwQV1ZixRGzkRKWZyAhKLxiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQV1ZixRGzkRKWZyAhKLxiY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:37:10"
+  }
+]

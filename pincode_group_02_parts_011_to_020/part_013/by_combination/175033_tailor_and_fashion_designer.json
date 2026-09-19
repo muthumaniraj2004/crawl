@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New fashion Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "175033",
+    "phone_number": "+91 98163 25414",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kuthera-Smaila Rd, Smaila, Himachal Pradesh 175034",
+    "area": "175033",
+    "latitude": 31.519566599999997,
+    "longitude": 76.7644153,
+    "place_id": "ChIJB6Qw9SwjBTkRArh_fhH7WFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6Qw9SwjBTkRArh_fhH7WFg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:11:25"
+  },
+  {
+    "business_name": "Aslam Fashion Point Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "175033",
+    "phone_number": "+91 98723 11924",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 102, Main market, Maloya, Chandigarh, 160025",
+    "area": "Maloya",
+    "latitude": 30.7533477,
+    "longitude": 76.7181289,
+    "place_id": "ChIJkZ0MOjfvDzkRxTZ6oJYXdyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZ0MOjfvDzkRxTZ6oJYXdyc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:11:25"
+  }
+]

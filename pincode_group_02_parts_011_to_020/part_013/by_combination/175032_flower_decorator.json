@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehta Flower Nursery",
+    "search_category": "Flower Decorator",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery, Balloon store",
+    "pincode": "175032",
+    "phone_number": "+91 98054 80328",
+    "website": "https://www.facebook.com/share/1AECCojz56/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mehta flower nursery, Pandol Rd, near Canara bank, Baijnath, Himachal Pradesh 176125",
+    "area": "175032",
+    "latitude": 32.0488053,
+    "longitude": 76.6481713,
+    "place_id": "ChIJ32saTm-5BDkRhXiEQ6aPQ4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32saTm-5BDkRhXiEQ6aPQ4Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:10:15"
+  },
+  {
+    "business_name": "Ankush flower nursery",
+    "search_category": "Flower Decorator",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery",
+    "pincode": "175032",
+    "phone_number": "+91 83518 30855",
+    "website": "http://ankushflowernursery.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3J5C+8WC, Taragarh, Kukaina, Himachal Pradesh 176081",
+    "area": "Taragarh",
+    "latitude": 32.0580251,
+    "longitude": 76.6225493,
+    "place_id": "ChIJ67FzdTS3BDkRPUnEBq1FhFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67FzdTS3BDkRPUnEBq1FhFY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:10:15"
+  }
+]

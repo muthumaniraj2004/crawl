@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cedar Crest Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Cricket ground, Sports school, Music school, Soccer field",
+    "pincode": "175105",
+    "phone_number": "+91 88602 08070",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V566+66J Kalehli, Himachal Pradesh Kelheli, Bhuntar, Himachal Pradesh 175125",
+    "area": "175105",
+    "latitude": 31.860562499999997,
+    "longitude": 77.1605625,
+    "place_id": "ChIJuwXV8Nr5BDkR5AHql7eO3_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwXV8Nr5BDkR5AHql7eO3_Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:53:19"
+  },
+  {
+    "business_name": "Devil Music Records",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Musician",
+    "all_categories": "Musician",
+    "pincode": "175105",
+    "phone_number": "+91 89086 11222",
+    "website": "https://youtube.com/c/DevilMusicRecords",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Devil Music Studio, Dev Negi, Airport Gate, Bhuntar, Himachal Pradesh 175125",
+    "area": "175105",
+    "latitude": 31.873199699999997,
+    "longitude": 77.14923689999999,
+    "place_id": "ChIJ6_Ua6RT5BDkRhfQW3tnrK0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_Ua6RT5BDkRhfQW3tnrK0c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:53:19"
+  }
+]

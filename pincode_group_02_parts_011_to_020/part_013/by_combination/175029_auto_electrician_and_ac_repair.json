@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manali Auto Center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "175029",
+    "phone_number": "+91 88940 25679",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "near rana car wash, rangri, Manali, Gadherni, Himachal Pradesh 175131",
+    "area": "rangri",
+    "latitude": 32.214542099999996,
+    "longitude": 77.1891275,
+    "place_id": "ChIJ-cr3CxyIBDkRMbYqPc1OFLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cr3CxyIBDkRMbYqPc1OFLk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:14"
+  },
+  {
+    "business_name": "Auto Electrician And Mechanic",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "175029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vpo, Bagsiad, Himachal Pradesh 175035",
+    "area": "Vpo",
+    "latitude": 31.561919999999997,
+    "longitude": 77.123348,
+    "place_id": "ChIJCZcRzZ4HBTkRrSJYXPjWsCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZcRzZ4HBTkRrSJYXPjWsCs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:04:18"
+  }
+]

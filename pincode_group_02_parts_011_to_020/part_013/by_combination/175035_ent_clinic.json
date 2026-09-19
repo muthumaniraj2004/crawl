@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "175035",
+    "phone_number": "+91 82848 57950",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Patel Chowk, Patel Nagar, Pathankot, Punjab 145001",
+    "area": "Patel Chowk, Patel Nagar",
+    "latitude": 32.2694855,
+    "longitude": 75.65574389999999,
+    "place_id": "ChIJz00BHm5_HDkRbf1npSmNTRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz00BHm5_HDkRbf1npSmNTRs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:26"
+  },
+  {
+    "business_name": "Alpha ENT & Vertigo Clinic, Chandigarh",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "175035",
+    "phone_number": "+91 77430 33066",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "S.C.O 160, Sector 24D, Sector 24, Chandigarh, 160023",
+    "area": "Sector 24D, Sector 24",
+    "latitude": 30.746665999999998,
+    "longitude": 76.7595662,
+    "place_id": "ChIJwTw1kHTtDzkRnH5jLsFxmts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTw1kHTtDzkRnH5jLsFxmts",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:26"
+  }
+]

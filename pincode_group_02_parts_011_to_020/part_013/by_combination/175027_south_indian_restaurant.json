@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "175027",
+    "phone_number": "+91 98570 00707",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "chalakha Jarlu Majhethal Nh 154, Mandi, Himachal Pradesh 175021",
+    "area": "175027",
+    "latitude": 31.6073815,
+    "longitude": 76.9289312,
+    "place_id": "ChIJxZL1rx4dBTkRux2_1z4C8q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZL1rx4dBTkRux2_1z4C8q8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:00:07"
+  },
+  {
+    "business_name": "Varnam South Indian Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Bhojpur bazar, Sundar Nagar, Himachal Pradesh 175002",
+    "area": "175027",
+    "latitude": 31.527473599999997,
+    "longitude": 76.8885045,
+    "place_id": "ChIJTdoUFFoZBTkRVVEIBBx-FTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdoUFFoZBTkRVVEIBBx-FTk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:00:08"
+  }
+]

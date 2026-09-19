@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer point",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store, Computer software store, Printer repair service, Security service, Security system installation service",
+    "pincode": "175104",
+    "phone_number": "+91 98820 98795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "447W+3XJ, Patlikuhal, Himachal Pradesh 175129",
+    "area": "175104",
+    "latitude": 32.1127228,
+    "longitude": 77.14738799999999,
+    "place_id": "ChIJUeH7agCLBDkRGK9tr2wP0l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeH7agCLBDkRGK9tr2wP0l4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:51:31"
+  },
+  {
+    "business_name": "CS INFOTECH",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer store, Computer service",
+    "pincode": "175104",
+    "phone_number": "+91 70182 35794",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Sarsai, Manali, Hallan-i, Himachal Pradesh 175136",
+    "area": "175104",
+    "latitude": 32.1370603,
+    "longitude": 77.17370729999999,
+    "place_id": "ChIJffbt_EqLBDkRj8CujQmcYVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffbt_EqLBDkRj8CujQmcYVg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:51:31"
+  }
+]

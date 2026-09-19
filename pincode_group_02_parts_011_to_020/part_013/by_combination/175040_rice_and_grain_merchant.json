@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nath Atta Chakki",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175040",
+    "phone_number": "+91 99140 16060",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Khuda Ali Sher, Chandigarh, 160103",
+    "area": "Khuda Ali Sher",
+    "latitude": 30.7741215,
+    "longitude": 76.8116458,
+    "place_id": "ChIJsTzp1KXyDzkReTXclEdenfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTzp1KXyDzkReTXclEdenfw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:14"
+  },
+  {
+    "business_name": "Amba Seed shop",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "175040",
+    "phone_number": "+91 94184 68279",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Nehran Pukhar, Himachal Pradesh 177104",
+    "area": "175040",
+    "latitude": 31.846702099999998,
+    "longitude": 76.204984,
+    "place_id": "ChIJFxyR4A47GzkRVJi2L06wxco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxyR4A47GzkRVJi2L06wxco",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:15"
+  }
+]

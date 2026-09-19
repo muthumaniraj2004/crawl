@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAVYA HOUSEKEEPING SERVICE",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "175050",
+    "phone_number": "+91 99960 82516",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambala, Haryana 134007",
+    "area": "175050",
+    "latitude": 30.401349399999997,
+    "longitude": 76.7890087,
+    "place_id": "ChIJV5DYrHnIDzkRRjocrmShFjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5DYrHnIDzkRRjocrmShFjo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:38:28"
+  },
+  {
+    "business_name": "Grace Cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services",
+    "pincode": "175050",
+    "phone_number": "+91 99881 20110",
+    "website": "https://gracecleaning.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 9, first floor, krishna market, near 39 west, Jujhar Nagar, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Jujhar Nagar",
+    "latitude": 30.7502674,
+    "longitude": 76.70523229999999,
+    "place_id": "ChIJ14vLG-rvDzkRQrIjNcMKfHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14vLG-rvDzkRQrIjNcMKfHI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:38:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Fresh & Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Chicken & Mutton Shop, Dairy store, Egg supplier",
+    "pincode": "175035",
+    "phone_number": "+91 77996 12492",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "2-3-523/27, Minister Rd, Nallagutta, Ramgopalpet, Hyderabad, Telangana 500003",
+    "area": "Nallagutta, Ramgopalpet",
+    "latitude": 17.4347256,
+    "longitude": 78.4843592,
+    "place_id": "ChIJFWFTegebyzsRvWyn2YA1k70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWFTegebyzsRvWyn2YA1k70",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:00"
+  },
+  {
+    "business_name": "Aditya Food Services Company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Hotel supply store",
+    "pincode": "175035",
+    "phone_number": "+91 88619 99800",
+    "website": "http://www.afsc.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "46/4, infront of COTTAFE LOAF STREET Byrathi Village, Hobli, near Shobha super market, Kanakashree Layout, Bidarahalli, Bengaluru, Karnataka 560077",
+    "area": "Byrathi, Rammana Layout, Kanakashree Layout",
+    "latitude": 13.0552615,
+    "longitude": 77.6535899,
+    "place_id": "ChIJgZD9cxIXrjsRgVklOKx9IGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZD9cxIXrjsRgVklOKx9IGU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:15:01"
+  }
+]

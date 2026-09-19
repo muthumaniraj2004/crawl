@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL WHITE ROCK",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "175028",
+    "phone_number": "+91 82191 99956",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 69,
+    "address": "G626+VCJ, Janjehli, Dhim, Himachal Pradesh 175047",
+    "area": "175028",
+    "latitude": 31.502201999999997,
+    "longitude": 77.21101349999999,
+    "place_id": "ChIJY5WkWymnBTkRWUW4Q5oVUwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5WkWymnBTkRWUW4Q5oVUwg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:53"
+  },
+  {
+    "business_name": "Mid Way Tourist Resort",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Event venue, Extended stay hotel, Guest house, Holiday home, Resort hotel, Restaurant, Serviced accommodation, Wedding venue",
+    "pincode": "175028",
+    "phone_number": "+91 98165 86311",
+    "website": "https://www.midwaytouristresort.com/",
+    "rating": 3.2,
+    "reviews_count": 431,
+    "address": "Slapper - Khurahal Rd, near ACC Cement Plant, Teh, Sundar Nagar, Barmana, Himachal Pradesh 175017",
+    "area": "Teh",
+    "latitude": 31.4166049,
+    "longitude": 76.852944,
+    "place_id": "ChIJT-pvrW0WBTkRs_zic4TV-WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-pvrW0WBTkRs_zic4TV-WI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:53"
+  }
+]

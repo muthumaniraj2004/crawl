@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mountain Story",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175033",
+    "phone_number": "+91 62305 96550",
+    "website": "https://tmsthemountainstory.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Naggar Rd, Prini, Manali, Himachal Pradesh 175143",
+    "area": "Prini",
+    "latitude": 32.223410699999995,
+    "longitude": 77.19574829999999,
+    "place_id": "ChIJRczzmNBjBDkRHr_NXEjDRLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRczzmNBjBDkRHr_NXEjDRLY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:11:22"
+  },
+  {
+    "business_name": "Food Tree",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "175033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "HPPH+FXC, Himachal Pradesh 175004",
+    "area": "175033",
+    "latitude": 31.5860994,
+    "longitude": 76.73075899999999,
+    "place_id": "ChIJPYFp0WUnBTkRe8Z0cmAsRXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYFp0WUnBTkRe8Z0cmAsRXs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:11:22"
+  }
+]

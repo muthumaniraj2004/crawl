@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Niwas",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "175039",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill.&,P.O, Jahal Rd, Gohar, Jahal, Himachal Pradesh 175039",
+    "area": "175039",
+    "latitude": 31.4907173,
+    "longitude": 77.0924196,
+    "place_id": "ChIJRafKJQAPBTkRbmGeJ008Hzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRafKJQAPBTkRbmGeJ008Hzk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:22:51"
+  },
+  {
+    "business_name": "ARYA MEDICAL STORE",
+    "search_category": "Doctors",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "175039",
+    "phone_number": "+91 70181 46976",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "TEHSIL, THUNAG, Thunag, VPO, Bagsiad, Himachal Pradesh 175035",
+    "area": "175039",
+    "latitude": 31.5609382,
+    "longitude": 77.1259694,
+    "place_id": "ChIJn2cQ6gAHBTkRFe1jnfyODZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2cQ6gAHBTkRFe1jnfyODZY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:22:52"
+  }
+]

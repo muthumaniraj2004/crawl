@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/S Naina Enterprises",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "175049",
+    "phone_number": "+91 98170 50227",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Gahar Rd, Gahar, Thana, Himachal Pradesh 175049",
+    "area": "175049",
+    "latitude": 31.6403143,
+    "longitude": 76.76070179999999,
+    "place_id": "ChIJBdcFzJQgBTkR-RvcAWv2_Vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdcFzJQgBTkR-RvcAWv2_Vw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:35:54"
+  },
+  {
+    "business_name": "Hindware Brand Store - Hari Tile & Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "175049",
+    "phone_number": "+91 82787 04963",
+    "website": "https://hindware.com/?utm_source=gbp&utm_medium=google&utm_campaign=seo-local",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thana Post Office, Village, Gopalpur Teh, Sarkaghat, Mandi, Mohin, Himachal Pradesh 175007",
+    "area": "Sarkaghat",
+    "latitude": 31.6445163,
+    "longitude": 76.7374698,
+    "place_id": "ChIJc4YdivMhBTkRPVjxoz2fcWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4YdivMhBTkRPVjxoz2fcWg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:35:57"
+  }
+]

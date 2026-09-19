@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KKR Taxi service",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "175028",
+    "phone_number": "+91 98175 73675",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FJP2+F5M, Himachal Pradesh 176049",
+    "area": "175028",
+    "latitude": 31.486217999999997,
+    "longitude": 76.6004328,
+    "place_id": "ChIJdX22i_4vBTkRRjbeUzDJ2ZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdX22i_4vBTkRRjbeUzDJ2ZE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:31"
+  },
+  {
+    "business_name": "Ecom Express Solan",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "175028",
+    "phone_number": "+91 83768 88888",
+    "website": "https://ecomexpress.in/",
+    "rating": 2.6,
+    "reviews_count": 62,
+    "address": "W35V+55M, Lawi Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Lawi Khurd",
+    "latitude": 30.907952299999998,
+    "longitude": 77.09292889999999,
+    "place_id": "ChIJCz3Ru7eGDzkR_w-BXh0qmQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCz3Ru7eGDzkR_w-BXh0qmQs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:31"
+  }
+]

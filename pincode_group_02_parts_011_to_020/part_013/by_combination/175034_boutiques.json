@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lavyanshi Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "175034",
+    "phone_number": "+91 82190 80043",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Matoli, Smaila, Himachal Pradesh 175034",
+    "area": "175034",
+    "latitude": 31.519052,
+    "longitude": 76.74943789999999,
+    "place_id": "ChIJ9dVD4x8jBTkRS21z7vMrtRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dVD4x8jBTkRS21z7vMrtRU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:13:22"
+  },
+  {
+    "business_name": "Vishu fashion hub trifalghat",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "175034",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Trifalghat, Himachal Pradesh 175034",
+    "area": "175034",
+    "latitude": 31.501210399999998,
+    "longitude": 76.78699519999999,
+    "place_id": "ChIJR3nlrykjBTkRk38TVliIZL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3nlrykjBTkRk38TVliIZL4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:13:22"
+  }
+]

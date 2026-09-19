@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy Bike Point",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "175052",
+    "phone_number": "+91 99591 50449",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "1Balanagar, Shop No.6-3-131/46, Hyderabad, Telangana 500037",
+    "area": "Balanagar",
+    "latitude": 17.4673865,
+    "longitude": 78.44678739999999,
+    "place_id": "ChIJj4mNFfOQyzsR-BJm_U_FI1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4mNFfOQyzsR-BJm_U_FI1M",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:41:20"
+  },
+  {
+    "business_name": "Bromechanic Bike service & Repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Motor scooter repair shop, Motorcycle parts store, Mechanic, Motorcycle shop, Garage, Repair service, Scooter repair shop",
+    "pincode": "175052",
+    "phone_number": "+91 79968 83347",
+    "website": "https://bromechanic.com/",
+    "rating": 4.6,
+    "reviews_count": 1396,
+    "address": "10/1, 14th B Cross Rd, Mudamma Garden, Munimarappa Garden, Chinnapa Garden, Benson Town, Bengaluru, Karnataka 560046",
+    "area": "Mudamma Garden, Munimarappa Garden, Chinnapa Garden, Benson Town",
+    "latitude": 13.006238199999999,
+    "longitude": 77.6016617,
+    "place_id": "ChIJ-yir0qoXrjsRnExi7Dmmnnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yir0qoXrjsRnExi7Dmmnnk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:41:20"
+  }
+]

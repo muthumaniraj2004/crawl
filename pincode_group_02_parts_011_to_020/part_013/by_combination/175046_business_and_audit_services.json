@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A Agarwal & Co",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Auditor, Chartered accountant, Tax preparation service",
+    "pincode": "175046",
+    "phone_number": "+91 90793 74758",
+    "website": "https://aagarwalandco.com/",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "Shree Ram Nagar, 6B, Goliyawas Road, opp. Singhal Traders, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar",
+    "latitude": 26.8587441,
+    "longitude": 75.7530613,
+    "place_id": "ChIJiUdEUAC1bTkRl1UHzbmD9hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUdEUAC1bTkRl1UHzbmD9hM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:31:09"
+  },
+  {
+    "business_name": "Easevalue",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Auditor, Consultant, Income tax help association, Tax consultant",
+    "pincode": "175046",
+    "phone_number": "+91 84400 44833",
+    "website": "https://easevalue.com/",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "301, Easevalue, The Coronation Fs Realty, Sanganer, Maruti Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sanganer, Maruti Nagar",
+    "latitude": 26.817188899999998,
+    "longitude": 75.8172841,
+    "place_id": "ChIJUVeLERLJbTkRNnMgeDPEsis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVeLERLJbTkRNnMgeDPEsis",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:31:09"
+  }
+]

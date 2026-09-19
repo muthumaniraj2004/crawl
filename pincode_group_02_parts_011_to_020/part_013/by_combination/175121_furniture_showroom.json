@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HIM FURNITURE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Furniture store",
+    "pincode": "175121",
+    "phone_number": "+91 98822 03572",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "opposite D.K electronics, Kalehli, Himachal Pradesh 175125",
+    "area": "Kalehli",
+    "latitude": 31.8621803,
+    "longitude": 77.1571017,
+    "place_id": "ChIJZS0xTTb4BDkRwC2E42FiyEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZS0xTTb4BDkRwC2E42FiyEw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:56:42"
+  },
+  {
+    "business_name": "Hardeep Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture accessories",
+    "all_categories": "Furniture accessories",
+    "pincode": "175121",
+    "phone_number": "+91 86795 70051",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 6, Khokhan Rd, Bhuntar, Himachal Pradesh 175125",
+    "area": "175121",
+    "latitude": 31.880428199999997,
+    "longitude": 77.1481905,
+    "place_id": "ChIJRbiJZdz3BDkRVg-TPYU19CE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbiJZdz3BDkRVg-TPYU19CE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:56:44"
+  }
+]

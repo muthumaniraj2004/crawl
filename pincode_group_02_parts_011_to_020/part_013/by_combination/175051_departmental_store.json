@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himachal department store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175051",
+    "phone_number": "+91 73074 37439",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "Shop no 27 khuda lora, Chandigarh, 140901",
+    "area": "New Colony, Khudda Lahora",
+    "latitude": 30.774970699999997,
+    "longitude": 76.766787,
+    "place_id": "ChIJky3E32_yDzkRPOo97cTt8bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJky3E32_yDzkRPOo97cTt8bQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:38:53"
+  },
+  {
+    "business_name": "Himachal Pradesh 175051",
+    "search_category": "Departmental Store",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "175051",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Himachal Pradesh",
+    "area": "175051",
+    "latitude": 31.8635183,
+    "longitude": 76.7047904,
+    "place_id": "ChIJZ_WQCuzEBDkRQyAyKRRQHCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_WQCuzEBDkRQyAyKRRQHCo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:38:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon Decoration Services",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner",
+    "pincode": "175038",
+    "phone_number": "+91 93102 39573",
+    "website": "https://www.balloondecorationservices.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nandgram Rd, near Mariam Hospital, near Mariam Public School, Marium Nagar, Sewa Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Marium Nagar, Sewa Nagar",
+    "latitude": 28.6818185,
+    "longitude": 77.4136678,
+    "place_id": "ChIJv0TuzqDxDDkRdaEgQ0WrNNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0TuzqDxDDkRdaEgQ0WrNNA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:21:37"
+  },
+  {
+    "business_name": "Dev Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "175038",
+    "phone_number": "+91 97567 54054",
+    "website": "https://devballoondecoration.online/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bahadarabad, Haridwar, Uttarakhand 249402",
+    "area": "175038",
+    "latitude": 29.9195136,
+    "longitude": 78.0409416,
+    "place_id": "ChIJObIMWQBJCTkRkbuIIQcLoPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObIMWQBJCTkRkbuIIQcLoPE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:21:37"
+  }
+]

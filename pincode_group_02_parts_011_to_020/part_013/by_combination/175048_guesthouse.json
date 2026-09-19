@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajput Danny house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "175048",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bali Chowki, Tiki, Himachal Pradesh 175106",
+    "area": "175048",
+    "latitude": 31.609482,
+    "longitude": 77.2683665,
+    "place_id": "ChIJt0yYAOSpBTkREVykEuLCkx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0yYAOSpBTkREVykEuLCkx0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:34:26"
+  },
+  {
+    "business_name": "Door singh guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "175048",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "H7JG+CCF, Ghat, Mathyani, Himachal Pradesh 175123",
+    "area": "175048",
+    "latitude": 31.5810662,
+    "longitude": 77.2760459,
+    "place_id": "ChIJn08ObCypBTkRs1LtjyI6zJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn08ObCypBTkRs1LtjyI6zJI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:34:26"
+  }
+]

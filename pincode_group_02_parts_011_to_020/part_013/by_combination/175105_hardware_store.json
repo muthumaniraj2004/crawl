@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orient Trading Company",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "175105",
+    "phone_number": "+91 98827 00001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stand Rd, Bhuntar, Himachal Pradesh 175125",
+    "area": "175105",
+    "latitude": 31.882871299999998,
+    "longitude": 77.1493187,
+    "place_id": "ChIJXenBGYD3BDkRDjuUljhTMEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXenBGYD3BDkRDjuUljhTMEg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:49"
+  },
+  {
+    "business_name": "Jadhdi Hardware and Paint Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "175105",
+    "phone_number": "+91 98170 68574",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bajaura Vpo, Bajaura Teh.Bhunter, Distt, Kullu, Himachal Pradesh 175125",
+    "area": "175105",
+    "latitude": 31.848212999999998,
+    "longitude": 77.1589,
+    "place_id": "ChIJxWURiN35BDkRx8FbNYXlW_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWURiN35BDkRx8FbNYXlW_c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:51"
+  }
+]

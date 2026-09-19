@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "High Tech car care",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "175047",
+    "phone_number": "+91 95390 65908",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "27, Melmuri, Malappuram, Keralam 676517",
+    "area": "Melmuri",
+    "latitude": 11.080791,
+    "longitude": 76.0695996,
+    "place_id": "ChIJ2br7EqNLpjsR4_-sEF4rLek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2br7EqNLpjsR4_-sEF4rLek",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:32:13"
+  },
+  {
+    "business_name": "Maa Lakshmi Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car repair and maintenance service",
+    "pincode": "175047",
+    "phone_number": "+91 98320 12558",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Vivekananda Rd, near Pilkhana Road, Guriahati, Cooch Behar, West Bengal 736156",
+    "area": "175047",
+    "latitude": 26.3180077,
+    "longitude": 89.4717503,
+    "place_id": "ChIJ9b30KgH84jkRU8CLpuodFcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9b30KgH84jkRU8CLpuodFcI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:32:13"
+  }
+]

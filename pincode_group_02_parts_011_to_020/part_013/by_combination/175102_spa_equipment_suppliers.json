@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty 'N' Beyond",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler, Beauty product supplier",
+    "pincode": "175102",
+    "phone_number": "+91 98910 77277",
+    "website": "https://beautynbeyond.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D-2, Alankar Cinema Rd, opposite Police station, Block D, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Block D, Lajpat Nagar II, Lajpat Nagar",
+    "latitude": 28.56901,
+    "longitude": 77.24051299999999,
+    "place_id": "ChIJRR4br1PiDDkROy47yeKVL_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRR4br1PiDDkROy47yeKVL_8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:47:22"
+  },
+  {
+    "business_name": "Walking Wanderer Travels",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Adventure Sports Center, Bike sharing station, Parasailing ride operator, Rafting",
+    "pincode": "175102",
+    "phone_number": "+91 98576 65979",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "River Touch Complex, Pirdi, Himachal Pradesh 175126",
+    "area": "Pirdi",
+    "latitude": 31.9254671,
+    "longitude": 77.1192614,
+    "place_id": "ChIJI2hIztj2BDkRWciBz50Ce2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2hIztj2BDkRWciBz50Ce2c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:47:22"
+  }
+]

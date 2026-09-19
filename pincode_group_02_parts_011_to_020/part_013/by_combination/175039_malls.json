@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaur City Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "175039",
+    "phone_number": "+91 89294 42900",
+    "website": "http://www.gaurcitymall.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "C1-B-GH-01, Greater Noida West, Gaur City 1, Sector 4, Greater Noida, Ghaziabad, Uttar Pradesh 201318",
+    "area": "Greater Noida West, Gaur City 1, Sector 4",
+    "latitude": 28.606028499999997,
+    "longitude": 77.4296325,
+    "place_id": "ChIJcYRyZWHvDDkRpJFpBp6YJ_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYRyZWHvDDkRpJFpBp6YJ_A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:07"
+  },
+  {
+    "business_name": "Palladium Ahmedabad",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "175039",
+    "phone_number": "N/A",
+    "website": "https://www.palladiumahmedabad.com/",
+    "rating": 4.5,
+    "reviews_count": 17632,
+    "address": "Sarkhej - Gandhinagar Hwy, Thaltej, Ahmedabad, Gujarat 380054",
+    "area": "Thaltej",
+    "latitude": 23.0577822,
+    "longitude": 72.5210317,
+    "place_id": "ChIJDyt0RQidXjkRWhuSrnxABX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyt0RQidXjkRWhuSrnxABX4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:07"
+  }
+]

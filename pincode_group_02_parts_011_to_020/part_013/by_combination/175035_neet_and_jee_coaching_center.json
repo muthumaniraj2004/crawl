@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajat Academy",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Education center, Educational institution, Tutoring service",
+    "pincode": "175035",
+    "phone_number": "+91 92263 00900",
+    "website": "http://www.rajatacademy.com/",
+    "rating": 4.3,
+    "reviews_count": 266,
+    "address": "Sai Avenue, E1, Kunal Icon Rd, Opposite Kunal Icon Society, Pimple Saudagar, Pimpri-Chinchwad, Maharashtra 411027",
+    "area": "Pimple Saudagar",
+    "latitude": 18.5943969,
+    "longitude": 73.7919485,
+    "place_id": "ChIJZ_cNu-C4wjsRDRs3sVrrgno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_cNu-C4wjsRDRs3sVrrgno",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:07"
+  },
+  {
+    "business_name": "Turning Point Institute",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Education center, Studying center, Training center",
+    "pincode": "175035",
+    "phone_number": "+91 95821 28200",
+    "website": "http://turningpointedu.org/",
+    "rating": 4.6,
+    "reviews_count": 699,
+    "address": "2nd-3rd Floor, Ram House, Market, above Kumar Sweets, Jwalaheri Village, Paschim Vihar, Delhi, 110063",
+    "area": "Jwalaheri Village, Paschim Vihar",
+    "latitude": 28.6683174,
+    "longitude": 77.101858,
+    "place_id": "ChIJObZxDXgEDTkRPefXNLl5RHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObZxDXgEDTkRPefXNLl5RHE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:08"
+  }
+]

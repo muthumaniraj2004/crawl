@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KPARD BANK LTD",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "175030",
+    "phone_number": "+91 1972 288 734",
+    "website": "https://www.kpardb.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nangal Township, Mehre, Barsar, Himachal Pradesh 174305",
+    "area": "Nangal Township, Mehre",
+    "latitude": 31.5281232,
+    "longitude": 76.4625008,
+    "place_id": "ChIJPZkxs_0tBTkRMFiiluIGI_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZkxs_0tBTkRMFiiluIGI_c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:06:50"
+  },
+  {
+    "business_name": "The Himachal Pradesh State Cooperative Agriculture & Rural Development Bank Ltd",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "175030",
+    "phone_number": "+91 177 262 1137",
+    "website": "http://hpardb.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "Kasumpti",
+    "latitude": 31.078232699999997,
+    "longitude": 77.1844619,
+    "place_id": "ChIJAQAAQK14BTkR_D38C1hDG6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQK14BTkR_D38C1hDG6Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:06:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI Branch Pandoh",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "175124",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Vpo, Pandoh, Himachal Pradesh 175124",
+    "area": "Vpo",
+    "latitude": 31.667631999999998,
+    "longitude": 77.053568,
+    "place_id": "ChIJn0_jTPUCBTkRvi9mvqP8fRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0_jTPUCBTkRvi9mvqP8fRk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:00:58"
+  },
+  {
+    "business_name": "C D Coop. Credit Society Ltd.",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Credit Union",
+    "all_categories": "Credit Union",
+    "pincode": "175124",
+    "phone_number": "+91 1905 282 678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M3C4+655, Pandoh, Himachal Pradesh 175124",
+    "area": "175124",
+    "latitude": 31.670507899999997,
+    "longitude": 77.0554988,
+    "place_id": "ChIJleLxTPUCBTkRV422tUoge_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleLxTPUCBTkRV422tUoge_0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:00:58"
+  }
+]

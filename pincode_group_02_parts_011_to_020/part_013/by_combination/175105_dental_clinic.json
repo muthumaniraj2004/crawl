@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "32 Pearls Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "175105",
+    "phone_number": "+91 98826 22226",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "near punjab national bank, Jari, Himachal Pradesh 175105",
+    "area": "175105",
+    "latitude": 31.9964168,
+    "longitude": 77.24305609999999,
+    "place_id": "ChIJv1U3cXtfBDkRw6vxXVLSWGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1U3cXtfBDkRw6vxXVLSWGw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:31"
+  },
+  {
+    "business_name": "BVH Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175105",
+    "phone_number": "+91 81930 55666",
+    "website": "https://www.facebook.com/bhuntervalleyhospital?mibextid=9R9pXO",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "Valley Hospital, Bhuntar, Himachal Pradesh 175125",
+    "area": "175105",
+    "latitude": 31.8767213,
+    "longitude": 77.1505246,
+    "place_id": "ChIJETHGrgv5BDkR0at2rMGk62o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETHGrgv5BDkR0at2rMGk62o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:52:31"
+  }
+]

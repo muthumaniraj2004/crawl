@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seema ayurvedic clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Service establishment",
+    "pincode": "175121",
+    "phone_number": "+91 70183 47067",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Seema ayurvedic clinic, 175121, India",
+    "area": "175121",
+    "latitude": 31.847056199999997,
+    "longitude": 77.1643562,
+    "place_id": "ChIJQ3SQnO35BDkRIimKpTkVUfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3SQnO35BDkRIimKpTkVUfA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:56:48"
+  },
+  {
+    "business_name": "Dr. Sonia Physiotherapy",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "175121",
+    "phone_number": "+91 90411 72301",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 107,
+    "address": "846, Sector 16, Panchkula, Haryana 134113",
+    "area": "Sector 16",
+    "latitude": 30.691884599999998,
+    "longitude": 76.8370549,
+    "place_id": "ChIJ6TNtqlGTDzkRDS4WvJwDMcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TNtqlGTDzkRDS4WvJwDMcU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:56:51"
+  }
+]

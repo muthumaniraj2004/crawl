@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175039",
+    "phone_number": "+91 98573 70305",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jachh - Lot Rd, beside near primary hospital, jachh, Dhishti, Himachal Pradesh 175039",
+    "area": "175039",
+    "latitude": 31.5186235,
+    "longitude": 77.0734396,
+    "place_id": "ChIJ4V_A6JMFBTkRfgw_wj7Z2NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4V_A6JMFBTkRfgw_wj7Z2NM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:22:30"
+  },
+  {
+    "business_name": "Rajesh General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "175039",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 15,
+    "address": "Bus stop, swahal, Ser Swahal, Himachal Pradesh 177001",
+    "area": "swahal",
+    "latitude": 31.681215799999997,
+    "longitude": 76.5471219,
+    "place_id": "ChIJ4dqcoNHVBDkR8hJqNBhcojI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dqcoNHVBDkR8hJqNBhcojI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:22:30"
+  }
+]

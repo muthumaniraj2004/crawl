@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marit Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "175027",
+    "phone_number": "N/A",
+    "website": "https://www.maritdecor.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "83a, Girija Devi Marg, Block A, Kamla Nagar, Delhi, 110007",
+    "area": "Block A, Kamla Nagar",
+    "latitude": 28.681913899999998,
+    "longitude": 77.2001834,
+    "place_id": "ChIJj5o51Yj9DDkRug2yJ7tbhZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5o51Yj9DDkRug2yJ7tbhZ4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:01:05"
+  },
+  {
+    "business_name": "The Decor Arts",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Gift basket store",
+    "pincode": "175027",
+    "phone_number": "+91 97116 62526",
+    "website": "https://thedecorarts.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4, 19, Racquet Ct Rd, Civil Lines, Delhi, 110054",
+    "area": "Civil Lines",
+    "latitude": 28.68538,
+    "longitude": 77.22067779999999,
+    "place_id": "ChIJixraNbz9DDkR6cNgOcDJJpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixraNbz9DDkR6cNgOcDJJpI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:01:05"
+  }
+]

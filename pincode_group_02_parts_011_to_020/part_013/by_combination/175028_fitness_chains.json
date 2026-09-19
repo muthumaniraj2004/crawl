@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Midtown fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "175028",
+    "phone_number": "+91 93120 60000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mall Road, Bajoral Khurd, Solan, Himachal Pradesh 173212",
+    "area": "Mall Road, Bajoral Khurd",
+    "latitude": 30.909928299999997,
+    "longitude": 77.1034997,
+    "place_id": "ChIJb_5r0rGBDzkRMS25UlMfNkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_5r0rGBDzkRMS25UlMfNkM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:22"
+  },
+  {
+    "business_name": "AGASTYA FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "175028",
+    "phone_number": "+91 96252 47003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main, market, Waknaghat, Himachal Pradesh 173234",
+    "area": "175028",
+    "latitude": 31.009047499999998,
+    "longitude": 77.0906856,
+    "place_id": "ChIJd0e_FYh9BTkRMggfY-6B350",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0e_FYh9BTkRMggfY-6B350",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:02:22"
+  }
+]

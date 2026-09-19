@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surbhi News and Feature Agency",
+    "search_category": "Media and Event",
+    "primary_category": "Newspaper publisher",
+    "all_categories": "Newspaper publisher",
+    "pincode": "175101",
+    "phone_number": "+91 70188 56149",
+    "website": "http://surbhinews.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Katoch House, near HPO, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.960764299999997,
+    "longitude": 77.10785659999999,
+    "place_id": "ChIJkZOut-r3BDkR5wLXaohkYGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZOut-r3BDkR5wLXaohkYGk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:45:39"
+  },
+  {
+    "business_name": "iSur Studios",
+    "search_category": "Media and Event",
+    "primary_category": "Movie theater",
+    "all_categories": "Movie theater",
+    "pincode": "175101",
+    "phone_number": "+91 98160 10008",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "W43P+74F, Bhuntar - Kullu Rd, Bhutti Colony, Shamshi, Himachal Pradesh 175126",
+    "area": "Bhutti Colony",
+    "latitude": 31.9032,
+    "longitude": 77.1353,
+    "place_id": "ChIJ0YCIMhT3BDkR9jxmvgscTeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YCIMhT3BDkR9jxmvgscTeM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:45:41"
+  }
+]

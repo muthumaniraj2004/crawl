@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FINVASIA",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment service",
+    "pincode": "175028",
+    "phone_number": "+91 172 667 0000",
+    "website": "https://finvasia.com/",
+    "rating": 3.5,
+    "reviews_count": 266,
+    "address": "Finvasia Centre, D 179, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Phase 8B, Industrial Area, Sector 74",
+    "latitude": 30.7093383,
+    "longitude": 76.6855289,
+    "place_id": "ChIJF4BYsiGTDzkRHL2BmW5NADg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4BYsiGTDzkRHL2BmW5NADg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:14"
+  },
+  {
+    "business_name": "FinnovationZ",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "175028",
+    "phone_number": "N/A",
+    "website": "https://www.finnovationz.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "FinnovationZ, 175028, India",
+    "area": "175028",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJT8oRQ6Thtk0R3V7QkAOgvjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8oRQ6Thtk0R3V7QkAOgvjo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:15"
+  }
+]

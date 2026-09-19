@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern cold store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "175030",
+    "phone_number": "+91 98886 98988",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "P623+9CJ, Malerkotla Rd, Chhote Khanna, Khanna, Punjab 141401",
+    "area": "Chhote Khanna",
+    "latitude": 30.700962299999997,
+    "longitude": 76.2035198,
+    "place_id": "ChIJ8TkpTN4REDkRFfFbqOrjOn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TkpTN4REDkRFfFbqOrjOn4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:05"
+  },
+  {
+    "business_name": "One Touch Cooling Solutions",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "175030",
+    "phone_number": "+91 87289 43428",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "748, Sector 119, adarsh nagar, Balongi, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Sector 119, adarsh nagar, Balongi",
+    "latitude": 30.7262362,
+    "longitude": 76.6931661,
+    "place_id": "ChIJtRLagQjvDzkRqH9f9ojvL9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRLagQjvDzkRqH9f9ojvL9M",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:07:06"
+  }
+]

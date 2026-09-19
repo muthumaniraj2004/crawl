@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SV MOTORS JHIRI",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "175121",
+    "phone_number": "+91 88949 94912",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "R5Q9+M99, NH 3, Ranghrubehar, Hat, Himachal Pradesh 175121",
+    "area": "Ranghrubehar",
+    "latitude": 31.839162499999997,
+    "longitude": 77.168482,
+    "place_id": "ChIJdTiwgfX4BDkRxGPGRDCmB8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTiwgfX4BDkRxGPGRDCmB8c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:56:22"
+  },
+  {
+    "business_name": "Pawan Khatri taxi service aut",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "175121",
+    "phone_number": "+91 90152 17744",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aut, Himachal Pradesh 175121",
+    "area": "175121",
+    "latitude": 31.742965299999998,
+    "longitude": 77.20818009999999,
+    "place_id": "ChIJ75DZPslVBDkRls5VmwKjN00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75DZPslVBDkRls5VmwKjN00",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:56:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aseem Enterprise Pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "175040",
+    "phone_number": "+91 98167 13130",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Sugghar, Palampur, Himachal Pradesh 176061",
+    "area": "Sugghar",
+    "latitude": 32.1122434,
+    "longitude": 76.530737,
+    "place_id": "ChIJJYNJpymzBDkRtjYET7TBv9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYNJpymzBDkRtjYET7TBv9w",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:17"
+  },
+  {
+    "business_name": "PET VET",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet groomer",
+    "all_categories": "Pet groomer, Pet store",
+    "pincode": "175040",
+    "phone_number": "+91 90150 87296",
+    "website": "https://pet-vet.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ward No. 4, Geeta Niwas, Aima, near Hotal Yamini, Tehsil, Palampur, Himachal Pradesh 176061",
+    "area": "Tehsil",
+    "latitude": 32.1127597,
+    "longitude": 76.5342071,
+    "place_id": "ChIJPz-wcACzBDkR3N68uw5QSNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPz-wcACzBDkR3N68uw5QSNw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:24:21"
+  }
+]

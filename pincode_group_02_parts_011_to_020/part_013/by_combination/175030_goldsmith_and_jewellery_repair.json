@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "175030",
+    "phone_number": "+91 70183 25137",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Vill Jol Po Bumbloo, Teh, Barsar, Himachal Pradesh 177119",
+    "area": "175030",
+    "latitude": 31.5564708,
+    "longitude": 76.4907549,
+    "place_id": "ChIJ4fj64G8rBTkRbnkl1Uu4pqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fj64G8rBTkRbnkl1Uu4pqE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:05:43"
+  },
+  {
+    "business_name": "Cash My Gold",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Gold dealer",
+    "all_categories": "Gold dealer, Diamond buyer, Jewelry buyer",
+    "pincode": "175030",
+    "phone_number": "+91 98914 00064",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.20, 1st Floor, Scandal Point, Mall Rd, Middle Bazar, Gunj Bazar, Shimla, Himachal Pradesh 171001",
+    "area": "Middle Bazar, Gunj Bazar",
+    "latitude": 31.104958399999997,
+    "longitude": 77.1725373,
+    "place_id": "ChIJYyZSmuB5BTkRVAVrcAjm9sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyZSmuB5BTkRVAVrcAjm9sc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:05:44"
+  }
+]

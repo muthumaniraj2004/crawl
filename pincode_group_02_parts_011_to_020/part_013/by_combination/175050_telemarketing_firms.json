@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashnet Consulting Private Limited",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Branding agency, Business development service, Business to business service, Internet marketing service, Business management consultant, Marketing consultant, Training center, Website designer",
+    "pincode": "175050",
+    "phone_number": "+91 98160 24365",
+    "website": "https://ashnet.consulting/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shyam Nagar Rd, Dharamshala, Himachal Pradesh 176215",
+    "area": "Shyam Nagar",
+    "latitude": 32.2115613,
+    "longitude": 76.32749849999999,
+    "place_id": "ChIJNcJCPQFRGzkRrMM7M5o9rL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcJCPQFRGzkRrMM7M5o9rL8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:38:45"
+  },
+  {
+    "business_name": "Intellistall Pvt Ltd",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Design agency, Internet marketing service, Software company, Web hosting company, Website designer",
+    "pincode": "175050",
+    "phone_number": "+91 74949 55535",
+    "website": "https://www.intellistall.com/",
+    "rating": 4.4,
+    "reviews_count": 87,
+    "address": "Sco 84, 1st & 2nd Floor, Jagadhari Rd, adjoining Gagan Banquets, Ambala Cantt, Haryana 133006",
+    "area": "Pooja Vihar",
+    "latitude": 30.335151399999997,
+    "longitude": 76.87262489999999,
+    "place_id": "ChIJZQxjr0S3DzkRebZlt1LpcsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQxjr0S3DzkRebZlt1LpcsI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:38:46"
+  }
+]

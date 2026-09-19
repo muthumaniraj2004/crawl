@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Vegetable",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175036",
+    "phone_number": "+91 88942 94796",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dodu, Kapahi, Himachal Pradesh 175002",
+    "area": "Dodu",
+    "latitude": 31.534198099999998,
+    "longitude": 76.87280539999999,
+    "place_id": "ChIJq-Wi5i0ZBTkRnS1IQ02laO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-Wi5i0ZBTkRnS1IQ02laO8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:45"
+  },
+  {
+    "business_name": "SHRI GANESH AATA CHAKKI",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "175036",
+    "phone_number": "+91 70186 78486",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RAMPUR ROAD, Tatrot, TROT, Sundar Nagar, Himachal Pradesh 175019",
+    "area": "Tatrot, TROT",
+    "latitude": 31.5737259,
+    "longitude": 76.91211299999999,
+    "place_id": "ChIJLaEAv-8ZBTkRAF7E5ffVyZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLaEAv-8ZBTkRAF7E5ffVyZU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:45"
+  }
+]

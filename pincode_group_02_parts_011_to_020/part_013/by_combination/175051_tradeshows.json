@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BEC Mumbai",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "175051",
+    "phone_number": "+91 22 6645 0123",
+    "website": "https://www.nesco.in/exhibitions",
+    "rating": 4.6,
+    "reviews_count": 266,
+    "address": "Bombay Exhibition Centre, NESCO, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "NESCO, Goregaon East",
+    "latitude": 19.1498716,
+    "longitude": 72.85592249999999,
+    "place_id": "ChIJ6d59_ES35zsReGlvFQ5CFLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6d59_ES35zsReGlvFQ5CFLo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:40:34"
+  },
+  {
+    "business_name": "PENN STATE EXPO SERVICES",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "175051",
+    "phone_number": "N/A",
+    "website": "http://pennstateexposervices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PENN STATE EXPO SERVICES, 175051, India",
+    "area": "175051",
+    "latitude": 40.2003813,
+    "longitude": -77.60470459999999,
+    "place_id": "ChIJkWuXUmvOKGoRzH63Esam43o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWuXUmvOKGoRzH63Esam43o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:40:36"
+  }
+]

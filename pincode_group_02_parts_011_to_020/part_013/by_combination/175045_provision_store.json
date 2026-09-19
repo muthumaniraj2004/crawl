@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Daily Needs",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175045",
+    "phone_number": "+91 97361 14524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sec 3, near Busstop, New Shimla, Shimla, Himachal Pradesh 171009",
+    "area": "New Shimla",
+    "latitude": 31.08251,
+    "longitude": 77.16572,
+    "place_id": "ChIJJ0E4NMl4BTkRAAAAMG6FHmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0E4NMl4BTkRAAAAMG6FHmY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:27:50"
+  },
+  {
+    "business_name": "Behl General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175045",
+    "phone_number": "+91 94180 53321",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Bazaar, near by Town Hall, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Samkhetar",
+    "latitude": 31.7117154,
+    "longitude": 76.9293943,
+    "place_id": "ChIJf_CxVwXjBDkRXtpM4BvatUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_CxVwXjBDkRXtpM4BvatUY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:27:50"
+  }
+]

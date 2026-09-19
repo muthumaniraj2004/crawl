@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spark flower decoration works",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "175025",
+    "phone_number": "+91 84999 36507",
+    "website": "http://sparkflowers.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no 8, New Hafeezpet, Aditya Nagar, Hafeezpet, Hyderabad, Telangana 500049",
+    "area": "New Hafeezpet, Aditya Nagar, Hafeezpet",
+    "latitude": 17.481267499999998,
+    "longitude": 78.3610331,
+    "place_id": "ChIJ9bcNhZ-TyzsRZ70mUjvfyQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bcNhZ-TyzsRZ70mUjvfyQ0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:57:00"
+  },
+  {
+    "business_name": "Vamshi Flower Decorators",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "175025",
+    "phone_number": "+91 99499 63652",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 95,
+    "address": "opp. Pillar No 1743, beside HDFC Bank, Vittal Rao Nagar, Madhapur, Gafoornagar, Hyderabad, Telangana 500081",
+    "area": "Vittal Rao Nagar, Madhapur",
+    "latitude": 17.4414408,
+    "longitude": 78.388027,
+    "place_id": "ChIJMfbjW0-RyzsRER2Ok1qWYjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfbjW0-RyzsRER2Ok1qWYjM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 05:57:03"
+  }
+]

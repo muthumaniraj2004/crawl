@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amartex Family Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "175123",
+    "phone_number": "+91 1904 292 106",
+    "website": "https://amartex.in/",
+    "rating": 4.9,
+    "reviews_count": 297,
+    "address": "Village & Post office, Teshil, Anni, Franali, Himachal Pradesh 172026",
+    "area": "175123",
+    "latitude": 31.4378972,
+    "longitude": 77.4221297,
+    "place_id": "ChIJ-9C1X1W9BTkRez5iHMAiXgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9C1X1W9BTkRez5iHMAiXgk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:57:37"
+  },
+  {
+    "business_name": "Kirpa Ram Lekh Raj Sood",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "175123",
+    "phone_number": "+91 98164 42168",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Raj Sood, Kirpa Ram Lekh, Nogli, Himachal Pradesh 172001",
+    "area": "175123",
+    "latitude": 31.400550199999998,
+    "longitude": 77.6351774,
+    "place_id": "ChIJFcQ3SkLBBTkRGNlRDyezElU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcQ3SkLBBTkRGNlRDyezElU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:57:39"
+  }
+]

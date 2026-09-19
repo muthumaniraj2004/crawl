@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanhiya Lal Ganeral Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175048",
+    "phone_number": "+91 85808 65552",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanhaiya Lal And Sun Tasil, Rood, Rahkot, Thunag, Himachal Pradesh 175048",
+    "area": "Rood, Rahkot",
+    "latitude": 31.5571868,
+    "longitude": 77.1646882,
+    "place_id": "ChIJdSMNegkHBTkRho9qxJodE_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSMNegkHBTkRho9qxJodE_Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:33:25"
+  },
+  {
+    "business_name": "Thakur Sweet Shop",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175048",
+    "phone_number": "+91 98170 67071",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 01, Rahkot, Thunag, Himachal Pradesh 175048",
+    "area": "Rahkot",
+    "latitude": 31.5591072,
+    "longitude": 77.1687342,
+    "place_id": "ChIJkb1J680HBTkRsT5Bvob0m-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkb1J680HBTkRsT5Bvob0m-I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:33:25"
+  }
+]

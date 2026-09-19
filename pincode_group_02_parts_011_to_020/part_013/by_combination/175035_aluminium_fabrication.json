@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aluminium factory",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminum window",
+    "all_categories": "Aluminum window, Aluminium Supplier, Aluminum frames supplier, Building materials supplier, Hardware store",
+    "pincode": "175035",
+    "phone_number": "+91 98738 55520",
+    "website": "https://aluminiumfactory.in/index.php",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no. 1510, Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.6505922,
+    "longitude": 76.7345751,
+    "place_id": "ChIJiS0gNIXrDzkRxTYcJyvKrzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiS0gNIXrDzkRxTYcJyvKrzg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:30"
+  },
+  {
+    "business_name": "Mahajan Aluminium Company",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminium Supplier",
+    "all_categories": "Aluminium Supplier, Aluminum frames supplier, Aluminum welder, Aluminum window, Door shop, Door supplier, Fabrication Engineer, Glassware store, Powder coating service, Window installation service",
+    "pincode": "175035",
+    "phone_number": "+91 79732 72183",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "plot no. 50, Industrial Area Phase 1, Panchkula, Haryana 134113",
+    "area": "Industrial Area Phase 1",
+    "latitude": 30.6699098,
+    "longitude": 76.842908,
+    "place_id": "ChIJe4OEpj2VDzkRAH1IxNvbJ8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4OEpj2VDzkRAH1IxNvbJ8I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:16:30"
+  }
+]

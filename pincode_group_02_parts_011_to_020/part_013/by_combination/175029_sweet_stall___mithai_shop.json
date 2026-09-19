@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saini Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "175029",
+    "phone_number": "+91 70189 22613",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Bus Stop, Pandoh, Himachal Pradesh 175124",
+    "area": "175029",
+    "latitude": 31.6676078,
+    "longitude": 77.05352769999999,
+    "place_id": "ChIJpQKqWAADBTkRIJeJdvW9f5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQKqWAADBTkRIJeJdvW9f5c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:43"
+  },
+  {
+    "business_name": "Balaji Sweet Shop & Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop, Fast food restaurant",
+    "pincode": "175029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 31,
+    "address": "Main road, Bijhri, Himachal Pradesh 176040",
+    "area": "175029",
+    "latitude": 31.5289315,
+    "longitude": 76.5394963,
+    "place_id": "ChIJqyRqUBgsBTkRzqDsF_wDesA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyRqUBgsBTkRzqDsF_wDesA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 06:03:46"
+  }
+]
