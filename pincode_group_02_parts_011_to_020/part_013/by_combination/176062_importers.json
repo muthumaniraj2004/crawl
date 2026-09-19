@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oswal Wool Store",
+    "search_category": "Importers",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176062",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "4G6P+FCR, Dharamshala - Palampur Rd, Ghuggar, Palampur, Himachal Pradesh 176061",
+    "area": "Ghuggar",
+    "latitude": 32.111238799999995,
+    "longitude": 76.5360054,
+    "place_id": "ChIJH0cgI8OzBDkR-D0QOIYmGbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0cgI8OzBDkR-D0QOIYmGbI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:18"
+  },
+  {
+    "business_name": "Hira Lal Ganga Ram",
+    "search_category": "Importers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "176062",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3GWV+CMW, Mandi - Pathankot Rd, near Hanuman Mandir, Holta, Palampur, Himachal Pradesh 176062",
+    "area": "Holta",
+    "latitude": 32.0961067,
+    "longitude": 76.54419399999999,
+    "place_id": "ChIJl1fplfyzBDkRIJrYLWLdycI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1fplfyzBDkRIJrYLWLdycI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:18"
+  }
+]

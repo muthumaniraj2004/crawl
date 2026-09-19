@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAHIL ICECREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176039",
+    "phone_number": "+91 88941 77368",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Ward No 4, Main Road, Shahtalai, Talai, Himachal Pradesh 174030",
+    "area": "176039",
+    "latitude": 31.4531685,
+    "longitude": 76.52036149999999,
+    "place_id": "ChIJBdvlyYUzBTkRoLz339m6BeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdvlyYUzBTkRoLz339m6BeA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:28"
+  },
+  {
+    "business_name": "Amul Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176039",
+    "phone_number": "+91 1800 258 3333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FG29+PR5, Baba Balak Nath Mandir Rd, Shahtalai, Talai, Himachal Pradesh 174030",
+    "area": "176039",
+    "latitude": 31.451773699999997,
+    "longitude": 76.51960369999999,
+    "place_id": "ChIJcwbw-IEzBTkR6w4y4d7sCGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwbw-IEzBTkR6w4y4d7sCGQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:28"
+  }
+]

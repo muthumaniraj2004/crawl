@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chill In Manali",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "175136",
+    "phone_number": "+91 70184 10703",
+    "website": "https://chillinmanali.com/",
+    "rating": 4.9,
+    "reviews_count": 102,
+    "address": "Village Riyara, Pangan road, Patlikuhal, beside Panchayat Ghar, Tehsil, Manali, Riyara, Himachal Pradesh 175129",
+    "area": "Tehsil",
+    "latitude": 32.1614748,
+    "longitude": 77.15320299999999,
+    "place_id": "ChIJaSa4M1-JBDkRznxJlFwPdAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSa4M1-JBDkRznxJlFwPdAU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:19:03"
+  },
+  {
+    "business_name": "Blissful Hospitality Manali",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "175136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "17 Miles, Manali, Karjan, Himachal Pradesh 175131",
+    "area": "Manali",
+    "latitude": 32.1633417,
+    "longitude": 77.1776667,
+    "place_id": "ChIJjw-Ms-2JBDkRCNAZW7pGP_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjw-Ms-2JBDkRCNAZW7pGP_o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:19:04"
+  }
+]

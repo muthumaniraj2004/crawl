@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanuja sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing store",
+    "pincode": "176053",
+    "phone_number": "+91 96364 06040",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Fatehpur, Rajasthan 332301",
+    "area": "176053",
+    "latitude": 28.0001265,
+    "longitude": 74.9598747,
+    "place_id": "ChIJy5KjvyKoFDkREj0b8jBDzMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5KjvyKoFDkREj0b8jBDzMw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:24:24"
+  },
+  {
+    "business_name": "Radhika Sarees and Suits",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176053",
+    "phone_number": "+91 98892 26328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DeviGanj, Harihar Ganj, Fatehpur, Uttar Pradesh 212601",
+    "area": "DeviGanj, Harihar Ganj",
+    "latitude": 25.9138339,
+    "longitude": 80.80326199999999,
+    "place_id": "ChIJN3s4OYadnDkR8CEiG26hq-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3s4OYadnDkR8CEiG26hq-0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:24:24"
+  }
+]

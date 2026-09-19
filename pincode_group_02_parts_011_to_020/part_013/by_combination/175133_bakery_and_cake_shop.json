@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "175133",
+    "phone_number": "+91 99152 21000",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 2179,
+    "address": "Shop No:2502, Street Number 15, Dasmesh Nagar, New Kartar Nagar, Ludhiana, Punjab 141003",
+    "area": "Dasmesh Nagar, New Kartar Nagar",
+    "latitude": 30.8819034,
+    "longitude": 75.8585166,
+    "place_id": "ChIJ4cjkjPmCGjkRhoYY2rCI5yU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cjkjPmCGjkRhoYY2rCI5yU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:43"
+  },
+  {
+    "business_name": "The Cake Shoppe",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "175133",
+    "phone_number": "+91 161 466 6767",
+    "website": "http://cakeshoppe.in/",
+    "rating": 4.1,
+    "reviews_count": 1358,
+    "address": "8, Kitchlu Nagar Rd, D-Block, PAU Hathi Complex, Kitchlu Nagar, Ludhiana, Punjab 141001",
+    "area": "D-Block, PAU Hathi Complex, Kitchlu Nagar",
+    "latitude": 30.912411,
+    "longitude": 75.81943249999999,
+    "place_id": "ChIJWwYbY-iDGjkR4KEfeDmiRtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwYbY-iDGjkR4KEfeDmiRtc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:43"
+  }
+]

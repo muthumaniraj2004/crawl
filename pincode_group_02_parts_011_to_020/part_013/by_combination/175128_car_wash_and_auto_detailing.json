@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Chemist",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Car repair and maintenance service",
+    "pincode": "175128",
+    "phone_number": "+91 75280 06642",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Derabassi - Barwala Rd, opp. HP Gas, Saidpura, Dera Bassi, Punjab 140507",
+    "area": "Saidpura",
+    "latitude": 30.587335999999997,
+    "longitude": 76.8585112,
+    "place_id": "ChIJP12GZxS_DzkR2KBiHPgcQyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP12GZxS_DzkR2KBiHPgcQyA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:05:51"
+  },
+  {
+    "business_name": "Golu car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "175128",
+    "phone_number": "+91 93349 81683",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 131,
+    "address": "Maa Tara Complex, Bypass Rd, Ashok Kunj, SP Colony, Ashok Nagar, Ranchi, Jharkhand 834002",
+    "area": "Ashok Kunj, SP Colony, Ashok Nagar",
+    "latitude": 23.3445723,
+    "longitude": 85.3003282,
+    "place_id": "ChIJt8i48kvh9DkRNbYxGLUnJaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8i48kvh9DkRNbYxGLUnJaI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:05:52"
+  }
+]

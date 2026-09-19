@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Flavour Hub",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "176025",
+    "phone_number": "+91 86298 66366",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 131,
+    "address": "11, Batwar, Dadasiba, Himachal Pradesh 177106",
+    "area": "176025",
+    "latitude": 31.9268529,
+    "longitude": 76.0980886,
+    "place_id": "ChIJl0BvlAw_GzkRXkMnfDtPT18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0BvlAw_GzkRXkMnfDtPT18",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:55"
+  },
+  {
+    "business_name": "The Mumm's café",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176025",
+    "phone_number": "+91 85888 44606",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 80,
+    "address": "The Mumm's café , Village Latwala, Po, Bagora, Himachal Pradesh 176059",
+    "area": "176025",
+    "latitude": 32.110915,
+    "longitude": 76.4876936,
+    "place_id": "ChIJ7TQvui6zBDkRkEdf72BIcDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TQvui6zBDkRkEdf72BIcDc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:58"
+  }
+]

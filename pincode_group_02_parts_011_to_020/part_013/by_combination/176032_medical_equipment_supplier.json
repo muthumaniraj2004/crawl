@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darsh Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "176032",
+    "phone_number": "+91 82191 58959",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Darsh Medical Store, VPO Batran, Tehsil, Nadaun, Himachal Pradesh 177033",
+    "area": "Tehsil",
+    "latitude": 31.778623699999997,
+    "longitude": 76.344573,
+    "place_id": "ChIJ3T3ItOEvGzkRAc7hAoCjEd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T3ItOEvGzkRAc7hAoCjEd4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:51"
+  },
+  {
+    "business_name": "Zeelab Pharmacy",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "176032",
+    "phone_number": "+91 98055 48832",
+    "website": "https://zeelabpharmacy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. Devson Hotel, Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.7835218,
+    "longitude": 76.34496159999999,
+    "place_id": "ChIJTRJmUn8vGzkR6HRgLAr_UYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRJmUn8vGzkR6HRgLAr_UYU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:51"
+  }
+]

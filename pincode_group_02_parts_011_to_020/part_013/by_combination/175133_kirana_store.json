@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175133",
+    "phone_number": "+91 94597 97473",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Main Bazar, Thirot, Himachal Pradesh 175139",
+    "area": "Main Bazar",
+    "latitude": 32.6604599,
+    "longitude": 76.7763914,
+    "place_id": "ChIJWeJWmelBAzkR1woyGpHp5WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeJWmelBAzkR1woyGpHp5WQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:33"
+  },
+  {
+    "business_name": "KiranaSquare",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175133",
+    "phone_number": "+91 80177 73031",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 174,
+    "address": "2, Rowland Rd, Rowland Row, Ballygunge, Kolkata, West Bengal 700020",
+    "area": "Rowland Row, Ballygunge",
+    "latitude": 22.5364899,
+    "longitude": 88.3559464,
+    "place_id": "ChIJMxjt9DZ3AjoRVDwlnJRhHUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxjt9DZ3AjoRVDwlnJRhHUw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:35"
+  }
+]

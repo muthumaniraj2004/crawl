@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aastha Hospital & IVF Centre - Hospital in Hamirpur",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176040",
+    "phone_number": "+91 94180 46262",
+    "website": "http://aasthahospital.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ward no. 1, house no, 188/B, Krishna Nagar, Himachal Pradesh 177001",
+    "area": "Krishna Nagar",
+    "latitude": 31.6960075,
+    "longitude": 76.5014791,
+    "place_id": "ChIJxwtj6kvUBDkRfJOuxu9QLCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwtj6kvUBDkRfJOuxu9QLCc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:33"
+  },
+  {
+    "business_name": "Advance Clinical Centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Laboratory, Medical Center, Medical laboratory",
+    "pincode": "176040",
+    "phone_number": "+91 94184 98970",
+    "website": "https://advance-clinical-centre.grexa.site/",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "opp. Dr Radha Krishnan Medical College, Agriculture Colony, Hamirpur, Himachal Pradesh 177001",
+    "area": "Agriculture Colony",
+    "latitude": 31.680593899999998,
+    "longitude": 76.52685819999999,
+    "place_id": "ChIJkQYqi3XVBDkRmHMKlSRQh8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQYqi3XVBDkRmHMKlSRQh8E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise It Park",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "176066",
+    "phone_number": "+91 72088 33201",
+    "website": "https://sunriseitparkonline.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ground Floor, Vashi plaza, Shop No.: B156, B Wing, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "Liberty Housing Society, Sector 17, Vashi",
+    "latitude": 19.0696463,
+    "longitude": 72.9980309,
+    "place_id": "ChIJNcAvOEXB5zsR2Cl1unBEc1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcAvOEXB5zsR2Cl1unBEc1M",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:49:20"
+  },
+  {
+    "business_name": "Laptop Repair Centre",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electrical & Electronics Stores",
+    "all_categories": "Electrical & Electronics Stores",
+    "pincode": "176066",
+    "phone_number": "+91 93722 83535",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11, ragrang society, Gangapur Rd, opp. NDMVP college, S.T. Colony, Nashik, Maharashtra 422013",
+    "area": "S.T. Colony",
+    "latitude": 20.0135011,
+    "longitude": 73.7641855,
+    "place_id": "ChIJp-lyIZHr3TsRlPBzXFApLxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-lyIZHr3TsRlPBzXFApLxw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:49:20"
+  }
+]

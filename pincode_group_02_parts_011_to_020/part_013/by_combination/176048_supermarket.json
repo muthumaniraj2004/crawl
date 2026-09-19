@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "rajan handloom furniture",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "176048",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "HPQF+G4V, Jahu, Himachal Pradesh 176048",
+    "area": "176048",
+    "latitude": 31.5888641,
+    "longitude": 76.7227861,
+    "place_id": "ChIJs2bPhLcmBTkRkgkHBznC-y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2bPhLcmBTkRkgkHBznC-y4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:16:48"
+  },
+  {
+    "business_name": "Angel Enterprise",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176048",
+    "phone_number": "+91 70180 08143",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bypass Road, near Police Chowki, Jahu, Himachal Pradesh 176048",
+    "area": "176048",
+    "latitude": 31.5894655,
+    "longitude": 76.71795949999999,
+    "place_id": "ChIJWXuHHRonBTkR9Xy5SKtwbmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXuHHRonBTkR9Xy5SKtwbmk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:16:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachdeva Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176057",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Adda, kachehri, Chilgari, Dharamshala, Himachal Pradesh 176215",
+    "area": "Chilgari",
+    "latitude": 32.2069627,
+    "longitude": 76.3221186,
+    "place_id": "ChIJKTJZDd5RGzkRdQg_DOhI2Qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTJZDd5RGzkRdQg_DOhI2Qo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:31:52"
+  },
+  {
+    "business_name": "Sharma Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176057",
+    "phone_number": "+91 98822 40907",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "684G+GX5, Shyam Nagar Rd, Shyam Nagar, Mant Khas, Dharamshala, Himachal Pradesh 176215",
+    "area": "Shyam Nagar",
+    "latitude": 32.2062713,
+    "longitude": 76.3274814,
+    "place_id": "ChIJx8pKFQVRGzkR11-CrMJ5T9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8pKFQVRGzkR11-CrMJ5T9w",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:31:52"
+  }
+]

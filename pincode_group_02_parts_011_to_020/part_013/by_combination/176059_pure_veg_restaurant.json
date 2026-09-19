@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea & Trek By Mahesh",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Confectionery store, Home Stay",
+    "pincode": "176059",
+    "phone_number": "+91 73639 89370",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Vill Kand(Lathoon), PO Kardiana, Teh, Dharamshala, Himachal Pradesh 176052",
+    "area": "176059",
+    "latitude": 32.1724671,
+    "longitude": 76.4265866,
+    "place_id": "ChIJ0zlD02tTGzkRWwcIcs06oPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zlD02tTGzkRWwcIcs06oPg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:35:16"
+  },
+  {
+    "business_name": "Vibes Cafe & Restraunt",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "176059",
+    "phone_number": "+91 86797 72974",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dharmshala - palampur road, near Gopalpur, Nagri, Chachian, Garh, Himachal Pradesh 176059",
+    "area": "Nagri",
+    "latitude": 32.1348532,
+    "longitude": 76.4666177,
+    "place_id": "ChIJC00kwKSzBDkRQYSApem_ceA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC00kwKSzBDkRQYSApem_ceA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:35:16"
+  }
+]

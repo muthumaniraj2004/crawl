@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thind Machinery",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Agricultural association",
+    "pincode": "176060",
+    "phone_number": "+91 98142 99377",
+    "website": "https://thindmachinerystore.com/",
+    "rating": 4.2,
+    "reviews_count": 105,
+    "address": "Aladad Chak, Sultanpur Rural, Punjab 144626",
+    "area": "Aladad Chak",
+    "latitude": 31.225645,
+    "longitude": 75.194963,
+    "place_id": "ChIJgZXc-3s7GjkRqqLfTUJkCiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZXc-3s7GjkRqqLfTUJkCiE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:38:33"
+  },
+  {
+    "business_name": "Jaswant Agriculture Works",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "176060",
+    "phone_number": "+91 92160 00900",
+    "website": "http://www.jaswantagro.com/",
+    "rating": 4,
+    "reviews_count": 33,
+    "address": "4VX4+HQ, Patiala Road, Sunam Udham Singh Wala, Punjab 148028",
+    "area": "176060",
+    "latitude": 30.1489375,
+    "longitude": 75.8569375,
+    "place_id": "ChIJXRUTXRVTEDkRph-KPOU4qYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRUTXRVTEDkRph-KPOU4qYA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:38:33"
+  }
+]

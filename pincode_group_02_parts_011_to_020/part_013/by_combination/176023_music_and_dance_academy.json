@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sound of Folk Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Service establishment, Music school",
+    "pincode": "176023",
+    "phone_number": "+91 98727 06452",
+    "website": "http://www.soundoffolk.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sound of Folk Academy, 176023, India",
+    "area": "176023",
+    "latitude": 31.2889785,
+    "longitude": 75.62070659999999,
+    "place_id": "ChIJDUyCwnHLdyYRUhErR2ke9kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUyCwnHLdyYRUhErR2ke9kA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:09"
+  },
+  {
+    "business_name": "Amritsar Music House",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music store",
+    "all_categories": "Music store",
+    "pincode": "176023",
+    "phone_number": "+91 186 222 0302",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "7JFX+8J7, Gurdaspur Rd, Indira Colony, Pathankot, Punjab 145001",
+    "area": "Indira Colony",
+    "latitude": 32.273282099999996,
+    "longitude": 75.6490499,
+    "place_id": "ChIJuenrDGZ_HDkRTHLaEf4npvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuenrDGZ_HDkRTHLaEf4npvA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:11"
+  }
+]

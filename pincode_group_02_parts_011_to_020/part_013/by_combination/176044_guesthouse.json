@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sethi House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "176044",
+    "phone_number": "+91 98058 84310",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "teh, bhoranj, Vpo, Mundkhar, Himachal Pradesh 176044",
+    "area": "bhoranj, Vpo",
+    "latitude": 31.602364599999998,
+    "longitude": 76.6935886,
+    "place_id": "ChIJt50UuEcnBTkRIzKSG7OWrvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt50UuEcnBTkRIzKSG7OWrvU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:12:27"
+  },
+  {
+    "business_name": "Dhiman Dharamshala",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176044",
+    "phone_number": "+91 98173 72370",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 29,
+    "address": "Near Bus stand, Galore, Hamirpur, Himachal Pradesh 177001",
+    "area": "Galore",
+    "latitude": 31.6878268,
+    "longitude": 76.51673439999999,
+    "place_id": "ChIJp-2Jv0vUBDkRTzFVyTesHyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-2Jv0vUBDkRTzFVyTesHyc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:12:28"
+  }
+]

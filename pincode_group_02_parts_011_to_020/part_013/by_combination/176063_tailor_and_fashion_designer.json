@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunita boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "176063",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2JQ2+5F, Ganoh, Himachal Pradesh 176063",
+    "area": "176063",
+    "latitude": 32.037911199999996,
+    "longitude": 76.60117799999999,
+    "place_id": "ChIJKWxNqv-3BDkRiDTRMUQC1ig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWxNqv-3BDkRiDTRMUQC1ig",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:43"
+  },
+  {
+    "business_name": "New fashion tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "176063",
+    "phone_number": "+91 93928 14521",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2QJG+M97, Narayankhed (CT), Telangana 502286",
+    "area": "176063",
+    "latitude": 18.031779699999998,
+    "longitude": 77.7762314,
+    "place_id": "ChIJKfpwIgCjzjsR8TOTLXabYBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfpwIgCjzjsR8TOTLXabYBM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:46"
+  }
+]

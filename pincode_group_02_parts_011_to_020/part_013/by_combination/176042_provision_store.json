@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अपनी दुकान",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GJ9M+3R8, Dangar, Himachal Pradesh 174023",
+    "area": "176042",
+    "latitude": 31.517700299999998,
+    "longitude": 76.63448679999999,
+    "place_id": "ChIJtefYRwAvBTkR0ML-2t-pWmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtefYRwAvBTkR0ML-2t-pWmo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:07:44"
+  },
+  {
+    "business_name": "Nitin General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nitin General Store Gauta On, Road, Patta, Himachal Pradesh 176042",
+    "area": "176042",
+    "latitude": 31.565306699999997,
+    "longitude": 76.61138439999999,
+    "place_id": "ChIJd5P7XZspBTkRqVQrFXPPCrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5P7XZspBTkRqVQrFXPPCrc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:07:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza point",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "334Q+W6M, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176027",
+    "latitude": 32.057347899999996,
+    "longitude": 76.08804359999999,
+    "place_id": "ChIJh3CJc_VDGzkRNNNVw6sLQ7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3CJc_VDGzkRNNNVw6sLQ7k",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:32"
+  },
+  {
+    "business_name": "Urban Tadka",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176027",
+    "phone_number": "+91 98553 28937",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Urban Tadka, Ghar, Himachal Pradesh 176210",
+    "area": "176027",
+    "latitude": 32.0817811,
+    "longitude": 76.07006249999999,
+    "place_id": "ChIJO8P1USJpGzkRTtQkCv8uhQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8P1USJpGzkRTtQkCv8uhQk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:32"
+  }
+]

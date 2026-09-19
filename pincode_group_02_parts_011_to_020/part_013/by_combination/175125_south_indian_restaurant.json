@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Havemore Restaurant (Hotel Amit)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant",
+    "pincode": "175125",
+    "phone_number": "+91 94180 65123",
+    "website": "https://www.hotelamit.com/dining/",
+    "rating": 4,
+    "reviews_count": 14,
+    "address": "Hotel Amit, Sainik chowk, Bhuntar, Himachal Pradesh 175125",
+    "area": "Sainik chowk",
+    "latitude": 31.8838376,
+    "longitude": 77.1483291,
+    "place_id": "ChIJx20OzN33BDkR2AomBqfa2t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx20OzN33BDkR2AomBqfa2t0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:35"
+  },
+  {
+    "business_name": "Parvati Valley Cafe & Resturant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 64,
+    "address": "Manikaran Rd, Chhewur, Kashawri, Himachal Pradesh 175105",
+    "area": "Chhewur",
+    "latitude": 31.9571287,
+    "longitude": 77.1857086,
+    "place_id": "ChIJPR07NAX3BDkRkojrGLxsCFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPR07NAX3BDkRkojrGLxsCFQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:37"
+  }
+]

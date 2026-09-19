@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Vatika- The Riverside Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176029",
+    "phone_number": "+91 87280 10808",
+    "website": "http://www.hotelvatika.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Chamunda Devi, Dharamshala, Kardiana, Himachal Pradesh 176052",
+    "area": "176029",
+    "latitude": 32.1484447,
+    "longitude": 76.42254609999999,
+    "place_id": "ChIJl1L6G0BRGzkRufw2W_WDyts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1L6G0BRGzkRufw2W_WDyts",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:48:58"
+  },
+  {
+    "business_name": "Amritara Surya A Luxury Spa Retreat, McLeodganj",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bar, Cafe, Event venue, Restaurant, Spa",
+    "pincode": "176029",
+    "phone_number": "+91 11 4075 2200",
+    "website": "https://www.amritara.co.in/surya-mcleod-ganj/hotel-overview?utm_source=google&utm_medium=gbp&utm_campaign=mcleodganj",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "68PF+4RX, Hotel surya road, McLeod Ganj, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.236005899999995,
+    "longitude": 76.32409009999999,
+    "place_id": "ChIJudUQDixRGzkRXZI0ZINGjXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudUQDixRGzkRXZI0ZINGjXw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:48:59"
+  }
+]

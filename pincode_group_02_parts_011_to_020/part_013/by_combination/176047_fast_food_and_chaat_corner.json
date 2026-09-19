@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUNNY FAST FOOD",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176047",
+    "phone_number": "+91 97367 42503",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "4GGR+59Q, Lohna, Himachal Pradesh, Palampur, Himachal Pradesh 176061",
+    "area": "Lohna, Himachal Pradesh",
+    "latitude": 32.1254688,
+    "longitude": 76.54099529999999,
+    "place_id": "ChIJ758k7ZGzBDkRefbD1WYnWFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ758k7ZGzBDkRefbD1WYnWFQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:10"
+  },
+  {
+    "business_name": "BIGGI The Burger Hub",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Hamburger restaurant",
+    "all_categories": "Hamburger restaurant",
+    "pincode": "176047",
+    "phone_number": "+91 98056 70762",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 476,
+    "address": "opposite Goverment school, Ram Chwok, Palampur, Himachal Pradesh 176061",
+    "area": "Ram Chwok",
+    "latitude": 32.1107763,
+    "longitude": 76.5334285,
+    "place_id": "ChIJVwSTn86zBDkRzCZTqR8FPS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwSTn86zBDkRzCZTqR8FPS8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:10"
+  }
+]

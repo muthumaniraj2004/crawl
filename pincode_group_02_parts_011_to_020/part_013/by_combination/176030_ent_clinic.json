@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ace Medicentre E.N.T Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital, Private hospital",
+    "pincode": "176030",
+    "phone_number": "+91 90232 88999",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 20,
+    "address": "House No-89, 89, Housing Board Phase III St, Baddi, Himachal Pradesh 173205",
+    "area": "176030",
+    "latitude": 30.9410255,
+    "longitude": 76.8031695,
+    "place_id": "ChIJDQit9V31DzkRytS2Xn_wl2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQit9V31DzkRytS2Xn_wl2c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:50:13"
+  },
+  {
+    "business_name": "Times Health Care",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hearing aid store",
+    "all_categories": "Hearing aid store",
+    "pincode": "176030",
+    "phone_number": "+91 97361 03177",
+    "website": "http://www.timeshearing.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "near Lok Mitra Kendra, Nagri, Chachian, Palampur, Himachal Pradesh 176059",
+    "area": "Nagri",
+    "latitude": 32.1344306,
+    "longitude": 76.46972579999999,
+    "place_id": "ChIJBU2qWLOzBDkRy_ueJrfWk8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBU2qWLOzBDkRy_ueJrfWk8c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:50:14"
+  }
+]

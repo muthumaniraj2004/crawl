@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zonal Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "496M+26X, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176027",
+    "latitude": 32.110122,
+    "longitude": 76.3831173,
+    "place_id": "ChIJ0fzfCQBNGzkRAcBO0cmJR80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fzfCQBNGzkRAcBO0cmJR80",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:49"
+  },
+  {
+    "business_name": "Pet Wellness Dog Clinic mukerian",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "176027",
+    "phone_number": "+91 97790 64193",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "National Highway, near PAPER MILL, 1A, Mukerian, Chak Alla Baksh, Punjab 144211",
+    "area": "1A",
+    "latitude": 31.9227727,
+    "longitude": 75.62166049999999,
+    "place_id": "ChIJP1U_6FOfGzkRgKUE4u9taFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1U_6FOfGzkRgKUE4u9taFI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:49"
+  }
+]

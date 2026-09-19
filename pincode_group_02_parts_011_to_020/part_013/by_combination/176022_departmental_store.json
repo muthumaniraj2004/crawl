@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trivam Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176022",
+    "phone_number": "+91 70181 90834",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Trivam Departmental Store, Indora Road, opposite to Veterinary Hospital, Gangath, Himachal Pradesh 176204",
+    "area": "176022",
+    "latitude": 32.226540899999996,
+    "longitude": 75.8275853,
+    "place_id": "ChIJBxB8qcp9GzkRihfmm5LUgkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxB8qcp9GzkRihfmm5LUgkU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:08"
+  },
+  {
+    "business_name": "Jagga karyana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4WM5+9J, Sandrath, Himachal Pradesh 176022",
+    "area": "176022",
+    "latitude": 32.1337325,
+    "longitude": 75.9089355,
+    "place_id": "ChIJ2QozewBlGzkR4jB8SLsP7gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QozewBlGzkR4jB8SLsP7gk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:08"
+  }
+]

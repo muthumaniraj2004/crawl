@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary Hospital Saliana",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "176061",
+    "phone_number": "+91 189 420 9533",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gadiara, Himachal Pradesh 176103",
+    "area": "176061",
+    "latitude": 32.0648407,
+    "longitude": 76.56497999999999,
+    "place_id": "ChIJGW4Ta5a2BDkRVfg6F0CNfz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGW4Ta5a2BDkRVfg6F0CNfz8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:39:16"
+  },
+  {
+    "business_name": "Veterinary college CSKHPKV",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "University",
+    "all_categories": "University",
+    "pincode": "176061",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4H35+4WF, Holta, Palampur, Banuri, Himachal Pradesh 176062",
+    "area": "Holta",
+    "latitude": 32.102800699999996,
+    "longitude": 76.55980869999999,
+    "place_id": "ChIJ34xbeMizBDkROC6T0RV9rmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34xbeMizBDkROC6T0RV9rmI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:39:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matri Shakti Enterprises",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "175132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Matri Shakti Enterprises Near petrol pump NH-3 Vop. Katrain Tehsil and, Himachal Pradesh 175132",
+    "area": "175132",
+    "latitude": 32.5377674,
+    "longitude": 76.9689152,
+    "place_id": "ChIJeQ4SNvNlAzkRTlgzveN1rwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ4SNvNlAzkRTlgzveN1rwE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:12:46"
+  },
+  {
+    "business_name": "Rajendra daily needs Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175132",
+    "phone_number": "+91 94596 96654",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "JVFF+C34, Jobrang, Himachal Pradesh 175133",
+    "area": "175132",
+    "latitude": 32.6235111,
+    "longitude": 76.87271729999999,
+    "place_id": "ChIJDX6GNmNpAzkRC9EkGWhJRM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDX6GNmNpAzkRC9EkGWhJRM8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:12:46"
+  }
+]

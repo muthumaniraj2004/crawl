@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choudhary Chicken Corner",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop, Chicken & Mutton Shop",
+    "pincode": "176049",
+    "phone_number": "+91 98167 27028",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazar, near Aara Machine, Maharal, Himachal Pradesh 176049",
+    "area": "176049",
+    "latitude": 31.4897727,
+    "longitude": 76.5887925,
+    "place_id": "ChIJyU5jYQAvBTkRqLuDSWWhtMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyU5jYQAvBTkRqLuDSWWhtMQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:18:43"
+  },
+  {
+    "business_name": "Mahseer Fish Farm, Badon (Machhyal)",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "176049",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 32,
+    "address": "WRF2+GMJ, Almara, Himachal Pradesh 175015",
+    "area": "176049",
+    "latitude": 31.9238441,
+    "longitude": 76.80162539999999,
+    "place_id": "ChIJEWdTSj3CBDkRUlWNIjKdeaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWdTSj3CBDkRUlWNIjKdeaY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:18:44"
+  }
+]

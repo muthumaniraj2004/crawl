@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spicydelic Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Home Stay",
+    "pincode": "175141",
+    "phone_number": "+91 63038 57996",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "near Nepali market, Kalga, Himachal Pradesh 175105",
+    "area": "Kalgha",
+    "latitude": 31.996809799999998,
+    "longitude": 77.4527186,
+    "place_id": "ChIJr9utVRZFBDkRdpHwuZgzEs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9utVRZFBDkRdpHwuZgzEs4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:26:07"
+  },
+  {
+    "business_name": "South Bistro",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "175141",
+    "phone_number": "+91 63033 49906",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hathithan, Bhuntar, Himachal Pradesh 175125",
+    "area": "Hathithan",
+    "latitude": 31.8957169,
+    "longitude": 77.15100369999999,
+    "place_id": "ChIJ0XDIc9j3BDkRjcYBGC-htm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XDIc9j3BDkRjcYBGC-htm8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:26:08"
+  }
+]

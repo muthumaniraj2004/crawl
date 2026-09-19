@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stocktick Capital",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Financial consultant, Insurance broker",
+    "pincode": "175128",
+    "phone_number": "+91 88283 06812",
+    "website": "https://stocktick.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Office no 303, 3rd Floor, Neel Solitaire, opp. Laxmi Narayan Mandir, near Shivaji Road, Old Panvel, Panvel, Maharashtra 410206",
+    "area": "Old Panvel, Panvel",
+    "latitude": 18.9887877,
+    "longitude": 73.1121951,
+    "place_id": "ChIJQ22m2EXB5zsRqaZK1ie43i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ22m2EXB5zsRqaZK1ie43i4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:06:44"
+  },
+  {
+    "business_name": "Lofit Stock Training Institute",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "175128",
+    "phone_number": "N/A",
+    "website": "https://loftstocktraining.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "House No-715, Sector 14 Rd, Sector 14, Sonipat, Haryana 131001",
+    "area": "Sector 14",
+    "latitude": 28.9969143,
+    "longitude": 77.0346086,
+    "place_id": "ChIJT-q7XBGxDTkR5oe2xFSEbec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-q7XBGxDTkR5oe2xFSEbec",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:06:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "176033",
+    "phone_number": "+91 62302 58014",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhota Chock, Near, old, RTO Office Rd, Hamirpur, Himachal Pradesh 177001",
+    "area": "Agriculture Colony",
+    "latitude": 31.678835699999997,
+    "longitude": 76.52426489999999,
+    "place_id": "ChIJGynbfQDVBDkRJ5t2eb4QbT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGynbfQDVBDkRJ5t2eb4QbT4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:38"
+  },
+  {
+    "business_name": "Pulse GYM Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176033",
+    "phone_number": "+91 70186 08907",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "H.Ho 13, Roura Sector 2, Upper Nihal, Bilaspur, Himachal Pradesh 174001",
+    "area": "Roura Sector 2, Upper Nihal",
+    "latitude": 31.346110799999998,
+    "longitude": 76.7587427,
+    "place_id": "ChIJ7wUkFR8_BTkReBPzR2rpDqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wUkFR8_BTkReBPzR2rpDqQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:39"
+  }
+]

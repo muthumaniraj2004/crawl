@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "176044",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "MGR4+PXF, Shimla - Kangra Rd, near hamirpur by pass, Himachal Pradesh 177001",
+    "area": "176044",
+    "latitude": 31.691808499999997,
+    "longitude": 76.5074111,
+    "place_id": "ChIJuUM1taTVBDkRl3vXsmXPdVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUM1taTVBDkRl3vXsmXPdVM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:11:33"
+  },
+  {
+    "business_name": "Lucky Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176044",
+    "phone_number": "+91 98170 63766",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "3GC5+8JC, Post Office, SH 39, Dehan, Hamirpur, Himachal Pradesh 176102",
+    "area": "Dehan",
+    "latitude": 32.07082,
+    "longitude": 76.5090298,
+    "place_id": "ChIJ____P2O0BDkRYt8Fu9o-NK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P2O0BDkRYt8Fu9o-NK8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:11:33"
+  }
+]

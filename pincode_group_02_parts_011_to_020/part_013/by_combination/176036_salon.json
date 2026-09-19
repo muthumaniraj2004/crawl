@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio Glam Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176036",
+    "phone_number": "+91 88946 67557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near mini secretariat, Nadaun, Himachal Pradesh 177033",
+    "area": "176036",
+    "latitude": 31.7785589,
+    "longitude": 76.34293629999999,
+    "place_id": "ChIJ9wTzHsEvGzkRqF9rpYyQfGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wTzHsEvGzkRqF9rpYyQfGg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:57:46"
+  },
+  {
+    "business_name": "A One Professional Unisex Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176036",
+    "phone_number": "+91 62309 27417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shimla - Kangra Rd, Bhatta, Himachal Pradesh 177048",
+    "area": "176036",
+    "latitude": 31.725925099999998,
+    "longitude": 76.45216959999999,
+    "place_id": "ChIJ4ZyTRgAtGzkRsfpGdPDPRAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZyTRgAtGzkRsfpGdPDPRAg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:57:47"
+  }
+]

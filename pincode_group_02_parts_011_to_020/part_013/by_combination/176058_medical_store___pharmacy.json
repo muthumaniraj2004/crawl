@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma medical store bhogarwan",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176058",
+    "phone_number": "+91 82193 46418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vill.p.o. bhogarwan teh, Himachal Pradesh 176401",
+    "area": "176058",
+    "latitude": 32.0757636,
+    "longitude": 75.77825659999999,
+    "place_id": "ChIJ26cSQXl3GzkRAv03ajTWQ4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26cSQXl3GzkRAv03ajTWQ4M",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:41"
+  },
+  {
+    "business_name": "Vashisht Ayurvedic Store , Hajipur",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Wholesaler",
+    "pincode": "176058",
+    "phone_number": "+91 98142 68451",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 81,
+    "address": "SH 25, Hajipur, Punjab 144221",
+    "area": "176058",
+    "latitude": 31.9741868,
+    "longitude": 75.7526969,
+    "place_id": "ChIJuz9zW7Z1GzkRlCubi7oYdrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuz9zW7Z1GzkRlCubi7oYdrs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Hotel Supply",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Kitchen supply store, Restaurant supply store",
+    "pincode": "175131",
+    "phone_number": "+91 94200 81917",
+    "website": "https://vishalhotelsupply.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "675, Rameshwar chowk, near Sathe Towers, Rameshwar Chouk, Shukrawar Peth, Pune, Maharashtra 411002",
+    "area": "Rameshwar Chouk, Shukrawar Peth",
+    "latitude": 18.5129449,
+    "longitude": 73.8576334,
+    "place_id": "ChIJcy0V4GzAwjsRcPvGAZOzo84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcy0V4GzAwjsRcPvGAZOzo84",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:12:04"
+  },
+  {
+    "business_name": "HOTEL NEEDS INDIA",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Exporter, Countertop store",
+    "pincode": "175131",
+    "phone_number": "+91 99997 01322",
+    "website": "https://hotelneedsindia.tradeindia.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "4831/3, Deputy Ganj Gali, Deputy Ganj, Pahari Dhiraj, Sadar Bazar, New Delhi, Delhi, 110006",
+    "area": "Deputy Ganj, Pahari Dhiraj, Sadar Bazar",
+    "latitude": 28.658968899999998,
+    "longitude": 77.2118847,
+    "place_id": "ChIJAQAALXL9DDkRui5_RNnYPPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAALXL9DDkRui5_RNnYPPE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:12:04"
+  }
+]

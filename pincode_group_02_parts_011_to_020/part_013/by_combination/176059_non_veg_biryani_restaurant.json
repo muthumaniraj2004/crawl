@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansh family food corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176059",
+    "phone_number": "+91 78329 11259",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "Maranda, Kasoti, Himachal Pradesh 176102",
+    "area": "Maranda",
+    "latitude": 32.0823807,
+    "longitude": 76.5126358,
+    "place_id": "ChIJS0sXQQC1BDkRJd39OsSFHiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0sXQQC1BDkRJd39OsSFHiQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:35:16"
+  },
+  {
+    "business_name": "Hub New York , Palampur",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "176059",
+    "phone_number": "+91 62300 33515",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 274,
+    "address": "Hub New York, Near Uco bank Shane himachal building, Main Bazar, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1054084,
+    "longitude": 76.5345672,
+    "place_id": "ChIJ32drF2KzBDkRMxaBotYduQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32drF2KzBDkRMxaBotYduQc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:35:17"
+  }
+]

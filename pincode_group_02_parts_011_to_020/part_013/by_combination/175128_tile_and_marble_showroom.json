@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Marbles",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Marble contractor",
+    "all_categories": "Marble contractor, Bathroom supply store, Granite supplier, Tile store",
+    "pincode": "175128",
+    "phone_number": "+91 93886 02971",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "46/3586A N H BYE PASS NEAR SHOBA ROAD, NEAR EMC HOSPITAL PALARIVATTOM, BYE PASS.,COCHIN-28 Ernakulam, Kochi, Keralam 682028",
+    "area": "Vennala",
+    "latitude": 9.9949689,
+    "longitude": 76.3149619,
+    "place_id": "ChIJFep2rQYNCDsRky4HchVdTVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFep2rQYNCDsRky4HchVdTVk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:06:02"
+  },
+  {
+    "business_name": "Orma Buildware Solutions",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Bathroom supply store, Flooring store, Granite supplier, Marble supplier",
+    "pincode": "175128",
+    "phone_number": "+91 484 245 3052",
+    "website": "http://www.ormamarbles.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Thrissur Road, Kothakulangara, Angamaly, Keralam 683572",
+    "area": "Kothakulangara",
+    "latitude": 10.2044036,
+    "longitude": 76.3827105,
+    "place_id": "ChIJ6XAfs40GCDsR0eCBu0znN_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XAfs40GCDsR0eCBu0znN_A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:06:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chatori Gali",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court",
+    "pincode": "176066",
+    "phone_number": "+91 91190 41619",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ashiyana Colony, Tilokpur, Ram Ganga Vihar Phase 2, Moradabad, Uttar Pradesh 244001",
+    "area": "Ashiyana Colony, Tilokpur, Ram Ganga Vihar Phase 2",
+    "latitude": 28.872199799999997,
+    "longitude": 78.7539925,
+    "place_id": "ChIJsaoLwmT5CjkR3AplS6ScMH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaoLwmT5CjkR3AplS6ScMH8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:48:10"
+  },
+  {
+    "business_name": "Lala Ram Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Panipuri shop",
+    "all_categories": "Panipuri shop",
+    "pincode": "176066",
+    "phone_number": "+91 95682 19939",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Sri Sai Mandir Rd, opp. PROTON EDUCATION, Deen Dayal Nagar-II, Moradabad, Uttar Pradesh 244001",
+    "area": "Deen Dayal Nagar-II",
+    "latitude": 28.8669683,
+    "longitude": 78.75251159999999,
+    "place_id": "ChIJS1IZzk35CjkRS9BUmhK-rek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1IZzk35CjkRS9BUmhK-rek",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:48:10"
+  }
+]

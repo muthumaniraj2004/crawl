@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APPLiFY",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Cell phone charging station, Computer accessories store, Computer Rental Agency, Computer repair service, Computer store, Electronics repair shop, Electronics store, Mobile phone repair shop",
+    "pincode": "176051",
+    "phone_number": "+91 77228 00075",
+    "website": "https://applify.in/",
+    "rating": 4.9,
+    "reviews_count": 385,
+    "address": "Barista Basement, 4, Bhupindra Rd, Punjabi Bagh, Patiala, Punjab 147004",
+    "area": "Punjabi Bagh",
+    "latitude": 30.3454809,
+    "longitude": 76.3779672,
+    "place_id": "ChIJg0BLdiUpEDkReMdSmv-gIiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0BLdiUpEDkReMdSmv-gIiQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:21:49"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "176051",
+    "phone_number": "+91 94182 53736",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S/O SH. SHARIF DASS VILL. TOOND PO, TEH, NURPUR, Bhugnara, DHARAMSHALA, Himachal Pradesh 176201",
+    "area": "NURPUR",
+    "latitude": 32.258891,
+    "longitude": 75.878194,
+    "place_id": "ChIJCTOGUWB9GzkRFh0u4Ctfg70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTOGUWB9GzkRFh0u4Ctfg70",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:21:51"
+  }
+]

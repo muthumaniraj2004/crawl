@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office Gahlian",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "176038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "26H5+8PM, Gahalian, Gahlian Khas, Himachal Pradesh 176029",
+    "area": "176038",
+    "latitude": 32.0283964,
+    "longitude": 76.2092577,
+    "place_id": "ChIJp5TsIQBHGzkRYvlGqFEA8gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5TsIQBHGzkRYvlGqFEA8gs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:01:54"
+  },
+  {
+    "business_name": "Express Solution",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "176038",
+    "phone_number": "+91 99882 10374",
+    "website": "https://www.instagram.com/express_solution87?igsh=MTA4ZHV1M3Z5OWVkbg==",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Shop no-6, Revolving Restraunt Building, opposite Shahzad Husain Salon, near PK corner, Pritm Nagar, Model Town, Ludhiana, Punjab 141002",
+    "area": "Pritm Nagar, Model Town",
+    "latitude": 30.889126599999997,
+    "longitude": 75.8403426,
+    "place_id": "ChIJg9GpfpiDGjkRnvIggB23zHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9GpfpiDGjkRnvIggB23zHM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:01:54"
+  }
+]

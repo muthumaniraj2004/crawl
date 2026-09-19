@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.S.Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "176030",
+    "phone_number": "+91 90189 55597",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village, NH-70, near Shukrala bridge, P.O, panchwati, Jalari, Nadaun, Himachal Pradesh 177033",
+    "area": "P.O, panchwati",
+    "latitude": 31.768819899999997,
+    "longitude": 76.340739,
+    "place_id": "ChIJYekizjovGzkRfcmYANjXCBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYekizjovGzkRfcmYANjXCBY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:08"
+  },
+  {
+    "business_name": "Sodhi Cleaning Mart",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "176030",
+    "phone_number": "+91 98960 38914",
+    "website": "https://www.facebook.com/profile.php?id=100081864221035&mibextid=LQQJ4d",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House no 51 , Ward no 8 ,SAS Colony near, behind Buddy Cafe, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "176030",
+    "latitude": 30.4452894,
+    "longitude": 77.6020455,
+    "place_id": "ChIJj_frkuIjDzkRlbyR7SVt0e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_frkuIjDzkRlbyR7SVt0e0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:10"
+  }
+]

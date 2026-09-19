@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Surgical & Medicine Centre",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Pharmacy",
+    "pincode": "176031",
+    "phone_number": "+91 98554 68600",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "#12,13, G.T.B Market, T.B Hospital, Patiala, Punjab 147001",
+    "area": "Sheran Wala Gate",
+    "latitude": 30.336005399999998,
+    "longitude": 76.399153,
+    "place_id": "ChIJ2YMxBfIoEDkRXU9PFT6dQbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YMxBfIoEDkRXU9PFT6dQbc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:01"
+  },
+  {
+    "business_name": "Orthopaedic Industries",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthotics & Prosthetics Centre",
+    "all_categories": "Orthotics & Prosthetics Centre, Cosmetic Products Manufacturer, Diabetes equipment supplier, Hospital equipment and supplies, Orthopedic shoe store, Public health department",
+    "pincode": "176031",
+    "phone_number": "+91 99221 12220",
+    "website": "https://orthopaedicindustries.com/",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Gala no-17, B, Satyam Industrial Estate, Pandurang Colony, Erandwane, Pune, Maharashtra 411038",
+    "area": "Pandurang Colony, Erandwane",
+    "latitude": 18.5048258,
+    "longitude": 73.82808949999999,
+    "place_id": "ChIJ2ycRzZK_wjsR0fvhyhIpQOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ycRzZK_wjsR0fvhyhIpQOQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176045",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "JJWV+XM5, village Bhoranj,P.O Bassi,Tell.Bhoranj,Disst, Bassi, Himachal Pradesh 176045",
+    "area": "176045",
+    "latitude": 31.6473907,
+    "longitude": 76.6442385,
+    "place_id": "ChIJqe2HdZonBTkRdEwi2IU7TNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqe2HdZonBTkRdEwi2IU7TNk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:21"
+  },
+  {
+    "business_name": "Friends Buffet",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Buffet restaurant",
+    "all_categories": "Buffet restaurant, Restaurant",
+    "pincode": "176045",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 23,
+    "address": "Chowk, Daulatpur, Chalet, Himachal Pradesh 177204",
+    "area": "176045",
+    "latitude": 31.769721599999997,
+    "longitude": 76.00295899999999,
+    "place_id": "ChIJQ3S07V4XGzkRep1EPlPVYTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3S07V4XGzkRep1EPlPVYTg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:22"
+  }
+]

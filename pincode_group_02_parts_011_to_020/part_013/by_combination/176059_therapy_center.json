@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palampur physiotherapy centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "176059",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karan hospital, Mandi - Pathankot Rd, Palampur, Tanda, Himachal Pradesh 176061",
+    "area": "176059",
+    "latitude": 32.0958743,
+    "longitude": 76.5301693,
+    "place_id": "ChIJ90Ux3hKzBDkRPNYMI2RFzTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90Ux3hKzBDkRPNYMI2RFzTc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:36:05"
+  },
+  {
+    "business_name": "Rajni Parmar Speech Therapy",
+    "search_category": "Therapy Center",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist",
+    "pincode": "176059",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Kaushalya Niwas, V.P.O:, Bhattu Samula, Palampur, Himachal Pradesh 176064",
+    "area": "Bhattu Samula",
+    "latitude": 32.077602,
+    "longitude": 76.4798454,
+    "place_id": "ChIJRfUrAAe1BDkR_kxPohBcELg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfUrAAe1BDkR_kxPohBcELg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:36:07"
+  }
+]

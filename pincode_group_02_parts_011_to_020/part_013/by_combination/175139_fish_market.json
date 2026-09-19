@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satpal orchards",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "175139",
+    "phone_number": "+91 70189 23935",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill kirting, Keylong, Himachal Pradesh 175133",
+    "area": "175139",
+    "latitude": 32.612907899999996,
+    "longitude": 76.9119618,
+    "place_id": "ChIJSZH1kCdpAzkRoPEXCYLvlvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZH1kCdpAzkRoPEXCYLvlvk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:14"
+  },
+  {
+    "business_name": "Degaonkar fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "175139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "M7MX+FF9, Isbavi, Wakhari, Maharashtra 413304",
+    "area": "Isbavi",
+    "latitude": 17.6836725,
+    "longitude": 75.2987389,
+    "place_id": "ChIJT6r92-IXxDsRmE017Rdgn90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6r92-IXxDsRmE017Rdgn90",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:14"
+  }
+]

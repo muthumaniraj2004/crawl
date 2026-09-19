@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatia Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "176025",
+    "phone_number": "+91 94177 68160",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 162,
+    "address": "WVX9+V2F, Sector-2, Talwara Twp, Punjab 144216",
+    "area": "Sector-2",
+    "latitude": 31.9496933,
+    "longitude": 75.8675409,
+    "place_id": "ChIJx9JS1-hyGzkRo0ONRMz_5eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9JS1-hyGzkRo0ONRMz_5eU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:51"
+  },
+  {
+    "business_name": "Chamkila tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176025",
+    "phone_number": "+91 6284 739 969",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bus stand, near water cooler, Talwara, Old Talwara, Punjab 144216",
+    "area": "176025",
+    "latitude": 31.941620699999998,
+    "longitude": 75.8893008,
+    "place_id": "ChIJ32MFJBZzGzkRXJLfcqwZx3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32MFJBZzGzkRXJLfcqwZx3A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:51"
+  }
+]

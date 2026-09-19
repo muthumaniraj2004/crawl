@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Retailers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "176061",
+    "phone_number": "+91 98820 42325",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gahr, Palampur, Himachal Pradesh 176103",
+    "area": "176061",
+    "latitude": 32.0528421,
+    "longitude": 76.5410611,
+    "place_id": "ChIJgSvSDga1BDkRc8aCZVg7qwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSvSDga1BDkRc8aCZVg7qwU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:40:02"
+  },
+  {
+    "business_name": "BAIJNATH STATIONERS",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "176061",
+    "phone_number": "+91 94181 61700",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Traffic Lights Main Market, Baijnath, Himachal Pradesh 176125",
+    "area": "176061",
+    "latitude": 32.0522097,
+    "longitude": 76.648906,
+    "place_id": "ChIJXRQ7RGe5BDkRvOxgoiIe4K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRQ7RGe5BDkRvOxgoiIe4K8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:40:02"
+  }
+]

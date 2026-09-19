@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour and Oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V9F6+63W, Dhis, Rajasthan 301020",
+    "area": "175125",
+    "latitude": 27.8731102,
+    "longitude": 76.3601953,
+    "place_id": "ChIJ--6cFwpRbTkR82cwwkhE9BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--6cFwpRbTkR82cwwkhE9BQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:03:06"
+  },
+  {
+    "business_name": "PUSHPA OIL & FLOUR MILLS",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "175125",
+    "phone_number": "+91 73563 75992",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Periye, Keralam 671320",
+    "area": "175125",
+    "latitude": 12.4027485,
+    "longitude": 75.1027079,
+    "place_id": "ChIJebpB13aHpDsRBbaWu3D4GnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebpB13aHpDsRBbaWu3D4GnY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:03:06"
+  }
+]

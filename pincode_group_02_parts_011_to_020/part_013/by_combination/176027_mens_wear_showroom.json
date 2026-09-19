@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OXFORD",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "176027",
+    "phone_number": "+91 70183 35178",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, Main Market, near SBI Bank, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176027",
+    "latitude": 32.0564227,
+    "longitude": 76.08746599999999,
+    "place_id": "ChIJA1WV1KdDGzkRnK-s8aHcsIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1WV1KdDGzkRnK-s8aHcsIE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:34"
+  },
+  {
+    "business_name": "Rich look clothing house",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "334P+FQM, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176027",
+    "latitude": 32.0562058,
+    "longitude": 76.0868081,
+    "place_id": "ChIJP1ufAR9DGzkRvybdiKvSKEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1ufAR9DGzkRvybdiKvSKEQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:37"
+  }
+]

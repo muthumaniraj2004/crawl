@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blooming Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet groomer",
+    "all_categories": "Pet groomer, Pet store, Pet supply store",
+    "pincode": "176047",
+    "phone_number": "+91 97697 43227",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Resort & Neugal, Public Sr. Section School, Bindraban Near Justa, Palampur, Himachal Pradesh 176061",
+    "area": "Bindravan",
+    "latitude": 32.1149388,
+    "longitude": 76.5125912,
+    "place_id": "ChIJpan9bo2zBDkR3vLv53JpumM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpan9bo2zBDkR3vLv53JpumM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:04"
+  },
+  {
+    "business_name": "Pets Health Sciences",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet groomer",
+    "all_categories": "Pet groomer",
+    "pincode": "176047",
+    "phone_number": "+91 189 422 0093",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "Shop no 3&4 (F) First Floor, DR Business Complex, near Sabji Mandi, Shastri Nagar, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Shastri Nagar, Berachah",
+    "latitude": 32.109846399999995,
+    "longitude": 76.5399552,
+    "place_id": "ChIJB8eS-3SzBDkRedcbdjEqbFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8eS-3SzBDkRedcbdjEqbFo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:04"
+  }
+]

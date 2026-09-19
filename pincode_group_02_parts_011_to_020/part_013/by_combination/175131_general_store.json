@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dinesh General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "175131",
+    "phone_number": "+91 78764 82515",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Village Swai p.o. Kalath, Distt, Manali, Shallin, Himachal Pradesh 175131",
+    "area": "175131",
+    "latitude": 32.1975952,
+    "longitude": 77.1869706,
+    "place_id": "ChIJJTEOoqWJBDkRTkTSuY_2xrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTEOoqWJBDkRTkTSuY_2xrc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:10:54"
+  },
+  {
+    "business_name": "MONIKA ENTERPRISES",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175131",
+    "phone_number": "+91 85807 08477",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Aleo, Manali, Himachal Pradesh 175131",
+    "area": "Aleo",
+    "latitude": 32.2373277,
+    "longitude": 77.1937864,
+    "place_id": "ChIJ2W7yEQKIBDkR4dJ1mBNyacs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2W7yEQKIBDkR4dJ1mBNyacs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:10:56"
+  }
+]

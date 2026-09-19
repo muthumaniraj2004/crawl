@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GRACE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176060",
+    "phone_number": "+91 89883 81388",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "Palampur - Sujanpur - Hamirpur Road, Bhawarna, Himachal Pradesh 176083",
+    "area": "176060",
+    "latitude": 32.0444759,
+    "longitude": 76.4963063,
+    "place_id": "ChIJ871TwiG1BDkR3WCLyx1YhyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ871TwiG1BDkR3WCLyx1YhyM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:37:04"
+  },
+  {
+    "business_name": "Unique Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Fast food restaurant",
+    "pincode": "176060",
+    "phone_number": "+91 62839 88338",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Tanda Medical College Rd, opposite Naseeb Labs, Kangra, Sadarpur, Himachal Pradesh 176002",
+    "area": "176060",
+    "latitude": 32.1003104,
+    "longitude": 76.3060526,
+    "place_id": "ChIJJ0QGHQZPGzkRwHIgu_IVE0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0QGHQZPGzkRwHIgu_IVE0Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:37:07"
+  }
+]

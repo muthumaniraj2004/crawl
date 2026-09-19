@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Valley's Choice Supermart",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175125",
+    "phone_number": "+91 70188 80751",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "रोटरी आई हॉस्पिटल मार्ग, Parla Bhuntar, Bhuntar, Shillihar, Himachal Pradesh 175125",
+    "area": "Parla Bhuntar",
+    "latitude": 31.8866639,
+    "longitude": 77.1494159,
+    "place_id": "ChIJg1M17oH3BDkR94Cm347BBos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1M17oH3BDkR94Cm347BBos",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:24"
+  },
+  {
+    "business_name": "Ram Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Dry Fruit Store",
+    "pincode": "175125",
+    "phone_number": "+91 98160 59969",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Provision Store, Shamshi, Himachal Pradesh 175126",
+    "area": "175125",
+    "latitude": 31.9020926,
+    "longitude": 77.1357266,
+    "place_id": "ChIJkzUe49f3BDkRphOImTqISVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzUe49f3BDkRphOImTqISVY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:24"
+  }
+]

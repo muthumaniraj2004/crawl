@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sant Sweets and Vegetables store",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176044",
+    "phone_number": "+91 94180 81924",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sulgwan - Bhareri Rd, Jahu Kalan, Sulgwan, Himachal Pradesh 176048",
+    "area": "176044",
+    "latitude": 31.6093731,
+    "longitude": 76.7005397,
+    "place_id": "ChIJSUI-FTQnBTkRCbxWhHcBi30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUI-FTQnBTkRCbxWhHcBi30",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:11:29"
+  },
+  {
+    "business_name": "ROHiT Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop",
+    "pincode": "176044",
+    "phone_number": "+91 82198 61502",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Sulgwan, Himachal Pradesh 176048",
+    "area": "176044",
+    "latitude": 31.6096233,
+    "longitude": 76.7004537,
+    "place_id": "ChIJw_PYweImBTkROrCAj4vsjmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_PYweImBTkROrCAj4vsjmg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:11:29"
+  }
+]

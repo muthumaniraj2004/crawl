@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Girls hostel",
+    "search_category": "Hostels",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "176056",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "475G+836, Talpura, Kangra, Himachal Pradesh 176001",
+    "area": "Talpura",
+    "latitude": 32.108295,
+    "longitude": 76.2751376,
+    "place_id": "ChIJ21-NHwBPGzkR6-RfimzkszA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21-NHwBPGzkR6-RfimzkszA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:30:43"
+  },
+  {
+    "business_name": "Intern Hostel Medical College Tanda",
+    "search_category": "Hostels",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176056",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "38X2+488, Sadarpur, Himachal Pradesh 176002",
+    "area": "176056",
+    "latitude": 32.097781999999995,
+    "longitude": 76.300826,
+    "place_id": "ChIJpZQIoQ5PGzkRfu8BuT7JeGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZQIoQ5PGzkRfu8BuT7JeGQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:30:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite Appliance Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "175131",
+    "phone_number": "N/A",
+    "website": "http://www.eliteapplianceserviceva.com/",
+    "rating": 5,
+    "reviews_count": 38,
+    "address": "Elite Appliance Service, 175131, India",
+    "area": "175131",
+    "latitude": 37.7831945,
+    "longitude": -83.9386366,
+    "place_id": "ChIJb65CuPCHDYcRjpbd6HqriTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb65CuPCHDYcRjpbd6HqriTs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:43"
+  },
+  {
+    "business_name": "Grandcool Refrigeration & Air Conditioning Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "175131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway lines, Solapur, Maharashtra 413001",
+    "area": "Railway lines",
+    "latitude": 17.664848199999998,
+    "longitude": 75.8978491,
+    "place_id": "ChIJY_oXJJ3QxTsRisgHffMVnY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_oXJJ3QxTsRisgHffMVnY4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:44"
+  }
+]

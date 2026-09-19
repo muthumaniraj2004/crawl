@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LITTLE ROYALS",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MAHESH COMPLEX, RAMSHILLA ROAD, Mohal, Bhuntar, Himachal Pradesh 175126",
+    "area": "175125",
+    "latitude": 31.9149179,
+    "longitude": 77.1268728,
+    "place_id": "ChIJO3YilMj3BDkRokRN1QoPjak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3YilMj3BDkRokRN1QoPjak",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:42"
+  },
+  {
+    "business_name": "LITTLE STAR",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stand Rd, Bhuntar, Himachal Pradesh 175125",
+    "area": "175125",
+    "latitude": 31.8823105,
+    "longitude": 77.1502161,
+    "place_id": "ChIJSewGZEn3BDkRNIDPpzQerQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSewGZEn3BDkRNIDPpzQerQ0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:44"
+  }
+]

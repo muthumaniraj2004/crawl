@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik clinic health haven Dr. DR’s Medical Centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176039",
+    "phone_number": "+91 94181 63301",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MGHQ+QFP, Baru, Hamirpur, Himachal Pradesh 177001",
+    "area": "176039",
+    "latitude": 31.6794534,
+    "longitude": 76.5387076,
+    "place_id": "ChIJy3_0LQDVBDkRncHDkHJot54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3_0LQDVBDkRncHDkHJot54",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:45"
+  },
+  {
+    "business_name": "ECHS Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176039",
+    "phone_number": "N/A",
+    "website": "http://echs.gov.in/",
+    "rating": 3.1,
+    "reviews_count": 13,
+    "address": "Agriculture Colony, Hamirpur, Himachal Pradesh 177001",
+    "area": "Agriculture Colony",
+    "latitude": 31.679184499999998,
+    "longitude": 76.52563529999999,
+    "place_id": "ChIJ7dy9gLXVBDkRlDyMQRHdX2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dy9gLXVBDkRlDyMQRHdX2g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HERBAL BEAUTY SALON",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176053",
+    "phone_number": "+91 98050 13782",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hara, Himachal Pradesh 176053",
+    "area": "176053",
+    "latitude": 32.0951926,
+    "longitude": 75.95362899999999,
+    "place_id": "ChIJUW8J0jRvGzkRsUK-bBW7Cas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW8J0jRvGzkRsUK-bBW7Cas",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:25:04"
+  },
+  {
+    "business_name": "New Launch Beauty Saloon",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Service establishment",
+    "pincode": "176053",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Launch Beauty Saloon, 176053, India",
+    "area": "176053",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJr2xZWYNvGzkRcXzmqjMB4co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2xZWYNvGzkRcXzmqjMB4co",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:25:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Accounts Service",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "176021",
+    "phone_number": "+91 70180 17526",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Opp New Bus Stand, near SBI ATM, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.110576,
+    "longitude": 76.2784702,
+    "place_id": "ChIJ2clWdkxPGzkRA5jAobyGIVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2clWdkxPGzkRA5jAobyGIVY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:36:45"
+  },
+  {
+    "business_name": "Forever Compliance Partners",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization, Tour operator",
+    "pincode": "176021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "5WR3+VJ, Batrahn Khas, Himachal Pradesh 176051",
+    "area": "176021",
+    "latitude": 32.1922014,
+    "longitude": 75.90409249999999,
+    "place_id": "ChIJJ5hDiyRjGzkRa1d7mGScwPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5hDiyRjGzkRa1d7mGScwPc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:36:48"
+  }
+]

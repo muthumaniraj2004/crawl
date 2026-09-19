@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xostel",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Student dormitory",
+    "pincode": "175140",
+    "phone_number": "+91 89884 55000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Village, Chhatru, Himachal Pradesh 175140",
+    "area": "175140",
+    "latitude": 32.317737099999995,
+    "longitude": 77.3710183,
+    "place_id": "ChIJIXXryW96BDkRVfIqN4Rk4EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXXryW96BDkRVfIqN4Rk4EA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:25:09"
+  },
+  {
+    "business_name": "Zostel Sissu",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "175140",
+    "phone_number": "+91 11 4116 9704",
+    "website": "https://www.zostel.com/zostel/lahaul/zostel-sissu-sssh756/",
+    "rating": 4.4,
+    "reviews_count": 755,
+    "address": "VPO Sissu, Teh, Distt, Keylong, Himachal Pradesh 175140",
+    "area": "175140",
+    "latitude": 32.4790032,
+    "longitude": 77.1278626,
+    "place_id": "ChIJd727qCV_AzkRyM5fc6Ii6nQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd727qCV_AzkRyM5fc6Ii6nQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:25:10"
+  }
+]

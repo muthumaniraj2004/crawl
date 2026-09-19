@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fedbank Financial Services Ltd",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial institution, Low income housing program, Mortgage lender",
+    "pincode": "176067",
+    "phone_number": "+91 80 6961 7275",
+    "website": "https://locations.fedfina.com/financial-services-in-railway-lines-solapur-maharashtra/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Flr, Veetarag Vertex, No. 03 & 04-83a, Station Rd, opp. Naval Petrol Pump, Railway lines, Solapur, Maharashtra 413001",
+    "area": "Railway lines",
+    "latitude": 17.667093599999998,
+    "longitude": 75.8999856,
+    "place_id": "ChIJ9a4PAELbxTsRV3hwhxvhE0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a4PAELbxTsRV3hwhxvhE0c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:51:13"
+  },
+  {
+    "business_name": "JDI WEALTH",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "176067",
+    "phone_number": "+91 99951 66032",
+    "website": "http://www.jdiwealth.com/",
+    "rating": 4.9,
+    "reviews_count": 441,
+    "address": "3rd Floor, JDI Wealth, CSI BUILDING, Mahatma Gandhi Rd, Puthenchanthai, Pulimoodu, Thiruvananthapuram, Keralam 695001",
+    "area": "Puthenchanthai, Pulimoodu",
+    "latitude": 8.4942073,
+    "longitude": 76.9475788,
+    "place_id": "ChIJrVfL2O7FpzsRiYW8RCStZ40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVfL2O7FpzsRiYW8RCStZ40",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:51:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jareena beauty studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176063",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main road, opposite bus stop, Paprola, Kasba Paprola, Himachal Pradesh 176115",
+    "area": "176063",
+    "latitude": 32.0528329,
+    "longitude": 76.6340511,
+    "place_id": "ChIJEXZRAfm3BDkRJRNU3RqGLUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXZRAfm3BDkRJRNU3RqGLUQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:43:21"
+  },
+  {
+    "business_name": "Piya Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "176063",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward No 7, Upper Pahaloon, Hari, Langhu, Himachal Pradesh 176125",
+    "area": "Upper Pahaloon",
+    "latitude": 32.0119682,
+    "longitude": 76.6283177,
+    "place_id": "ChIJk1oXAYy3BDkRC4Ky0Xkx5kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1oXAYy3BDkRC4Ky0Xkx5kM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:43:23"
+  }
+]

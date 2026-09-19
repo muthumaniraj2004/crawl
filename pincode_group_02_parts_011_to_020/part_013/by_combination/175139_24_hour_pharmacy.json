@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "175139",
+    "phone_number": "+91 161 503 4397",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Park Main Road, near, Shiv Mandir Rd, Chowk, Ghumar Mandi, Ludhiana, Punjab 141001",
+    "area": "Chowk, Ghumar Mandi",
+    "latitude": 30.9055032,
+    "longitude": 75.82963579999999,
+    "place_id": "ChIJM5i5EKSDGjkRneynFttTXBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5i5EKSDGjkRneynFttTXBI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:36"
+  },
+  {
+    "business_name": "Deep Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175139",
+    "phone_number": "+91 78887 38080",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "122H, Bhai Randhir Singh Nagar, Ludhiana, Punjab 141012",
+    "area": "Bhai Randhir Singh Nagar",
+    "latitude": 30.8860614,
+    "longitude": 75.7988422,
+    "place_id": "ChIJk1tuybiBGjkRGI3wTtBgryg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1tuybiBGjkRGI3wTtBgryg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Choice",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store, Car stereo store, Seat dealer",
+    "pincode": "176060",
+    "phone_number": "+91 98162 99600",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mandi - Pathankot Road malan, Malan, Jhikli Ambwari, Himachal Pradesh 176047",
+    "area": "176060",
+    "latitude": 32.1134086,
+    "longitude": 76.4153157,
+    "place_id": "ChIJZ3R--v5MGzkRtJTD5sgoDMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3R--v5MGzkRtJTD5sgoDMk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:37:29"
+  },
+  {
+    "business_name": "Car World And Mahindra Showroom",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "176060",
+    "phone_number": "N/A",
+    "website": "http://www.mahindra.com/",
+    "rating": 3.6,
+    "reviews_count": 32,
+    "address": "3FHH+R4R, Mandi - Pathankot Rd, Samula Khas, Himachal Pradesh 176064",
+    "area": "176060",
+    "latitude": 32.0796056,
+    "longitude": 76.4777683,
+    "place_id": "ChIJhZIQBGCzBDkRZveoY94PDj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZIQBGCzBDkRZveoY94PDj4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:37:30"
+  }
+]

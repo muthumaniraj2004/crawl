@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Para Association",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Tourist attraction, Adventure Sports Center",
+    "pincode": "175143",
+    "phone_number": "+91 98822 88100",
+    "website": "https://indianparaassociation.com/",
+    "rating": 4.9,
+    "reviews_count": 62,
+    "address": "Kullu Manali Highway, near Melcome Hotel, Manali, Shallin, Himachal Pradesh 175131",
+    "area": "175143",
+    "latitude": 32.1963547,
+    "longitude": 77.1883936,
+    "place_id": "ChIJjUd1kICHBDkR5F3cVNtFbJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUd1kICHBDkR5F3cVNtFbJg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:30:59"
+  },
+  {
+    "business_name": "Mukesh Maurya",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Astrologer",
+    "all_categories": "Astrologer, Service establishment",
+    "pincode": "175143",
+    "phone_number": "+91 88262 38801",
+    "website": "https://mukeshmaurya.com/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Mukesh Maurya, 175143, India",
+    "area": "175143",
+    "latitude": 11.7051733,
+    "longitude": 94.6942399,
+    "place_id": "ChIJB9y3DmTBpCARO0wXGO_EgWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9y3DmTBpCARO0wXGO_EgWk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:30:59"
+  }
+]

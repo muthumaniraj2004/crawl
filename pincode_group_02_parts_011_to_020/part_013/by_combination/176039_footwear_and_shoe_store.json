@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sneakers Hub",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176039",
+    "phone_number": "+91 83681 77206",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bijhri, Himachal Pradesh 177040",
+    "area": "176039",
+    "latitude": 31.5235982,
+    "longitude": 76.5343721,
+    "place_id": "ChIJmyK5lpctBTkRD_eVq6G9OjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyK5lpctBTkRD_eVq6G9OjQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:34"
+  },
+  {
+    "business_name": "Parkash footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler",
+    "pincode": "176039",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FG29+RGC, Shahtalai, Talai, Himachal Pradesh 174030",
+    "area": "176039",
+    "latitude": 31.452054099999998,
+    "longitude": 76.5187729,
+    "place_id": "ChIJa5tQKZ4zBTkRP0FvJqO5q78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5tQKZ4zBTkRP0FvJqO5q78",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:36"
+  }
+]

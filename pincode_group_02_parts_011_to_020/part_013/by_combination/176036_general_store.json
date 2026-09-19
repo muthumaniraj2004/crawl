@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vijay general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "tillu chowk, jalari, Nadaun, Himachal Pradesh 177033",
+    "area": "176036",
+    "latitude": 31.7646202,
+    "longitude": 76.365554,
+    "place_id": "ChIJtSWv3Z0tGzkRuAT7obSHCG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSWv3Z0tGzkRuAT7obSHCG8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:57"
+  },
+  {
+    "business_name": "Happy General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176036",
+    "phone_number": "+91 98055 74269",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Chaplah Uparla, Himachal Pradesh 177043",
+    "area": "176036",
+    "latitude": 31.7679974,
+    "longitude": 76.2536262,
+    "place_id": "ChIJ57vEqc4lGzkRDLyV4qE2fpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57vEqc4lGzkRDLyV4qE2fpA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:59"
+  }
+]

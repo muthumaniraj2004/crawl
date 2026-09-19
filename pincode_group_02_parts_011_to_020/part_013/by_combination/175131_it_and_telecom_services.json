@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O by OYO Hema Holiday Home",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "175131",
+    "phone_number": "+91 124 620 1184",
+    "website": "https://www.oyorooms.com/187412/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "H P, Club House, Goshal Rd, Old Manali, Manali, Himachal Pradesh 175131",
+    "area": "Old Manali",
+    "latitude": 32.2548187,
+    "longitude": 77.18124759999999,
+    "place_id": "ChIJ8QeZzAaIBDkR6Tp4JPAtCuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QeZzAaIBDkR6Tp4JPAtCuI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:12:14"
+  },
+  {
+    "business_name": "Royal communication",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "175131",
+    "phone_number": "+91 86791 32641",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "near Bus Stand Road, Manu Market, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Manu Market, Siyal",
+    "latitude": 32.2447143,
+    "longitude": 77.1904308,
+    "place_id": "ChIJL7X0NMaHBDkR6257SPN7lIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7X0NMaHBDkR6257SPN7lIw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:12:15"
+  }
+]

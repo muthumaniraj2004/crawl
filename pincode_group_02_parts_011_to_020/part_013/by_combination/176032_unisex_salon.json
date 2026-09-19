@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Look",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop",
+    "pincode": "176032",
+    "phone_number": "+91 98821 85100",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 119,
+    "address": "Q8GV+W5C, Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.777317099999998,
+    "longitude": 76.342884,
+    "place_id": "ChIJBUJXqBUuGzkRuOl9mSxYFS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUJXqBUuGzkRuOl9mSxYFS4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:15"
+  },
+  {
+    "business_name": "Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.778503399999998,
+    "longitude": 76.34445869999999,
+    "place_id": "ChIJmTxOIwAvGzkRQdcyNz9yLpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTxOIwAvGzkRQdcyNz9yLpU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:15"
+  }
+]

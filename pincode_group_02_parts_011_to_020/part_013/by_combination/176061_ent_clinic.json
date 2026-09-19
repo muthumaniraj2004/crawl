@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhardwaj Clinic Sungal",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176061",
+    "phone_number": "+91 70185 77720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "chamotu(matt), post office sungal, tehsil- palampur palampur, distt, Kangra, Himachal Pradesh 176061",
+    "area": "176061",
+    "latitude": 32.0781584,
+    "longitude": 76.5905286,
+    "place_id": "ChIJQ56Y70W3BDkRXvN2nGl2hkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ56Y70W3BDkRXvN2nGl2hkI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:39:15"
+  },
+  {
+    "business_name": "Times Health Care",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hearing aid store",
+    "all_categories": "Hearing aid store, Hearing aid repair service, Speech & Hearing Specialist",
+    "pincode": "176061",
+    "phone_number": "+91 92161 30360",
+    "website": "https://www.timeshearing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "first Floor, above JKB Premium Computers, near Hotel Yamini, Sugghar, Palampur, Himachal Pradesh 176061",
+    "area": "Sugghar",
+    "latitude": 32.1127587,
+    "longitude": 76.5343802,
+    "place_id": "ChIJVz_BaISzBDkR0AjV-IAjlhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVz_BaISzBDkR0AjV-IAjlhQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:39:17"
+  }
+]

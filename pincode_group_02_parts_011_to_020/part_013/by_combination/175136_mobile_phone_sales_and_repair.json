@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phone Care Mobile Shoppee",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Computer repair service, Computer store, Mobile phone repair shop",
+    "pincode": "175136",
+    "phone_number": "+91 83088 10810",
+    "website": "http://www.phonecaremobile.com/",
+    "rating": 4.9,
+    "reviews_count": 560,
+    "address": "Phase 1, Ground Floor, Fortaleza Society, Shop No 102, next to HDFC Bank, opposite Sunshine Court Society, Kalyani Nagar, Pune, Maharashtra 411006",
+    "area": "Kalyani Nagar",
+    "latitude": 18.546050599999997,
+    "longitude": 73.9042461,
+    "place_id": "ChIJN1kpVBDBwjsRJzKSWLdQ25s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1kpVBDBwjsRJzKSWLdQ25s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:19:43"
+  },
+  {
+    "business_name": "Doctor Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone charging station, Cell phone store, Phone repair service, Repair service, Screen repair service",
+    "pincode": "175136",
+    "phone_number": "+91 89434 01197",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 3327,
+    "address": "new city plaza, mettupalayam street, near ayurveda hospital, Sultanpet, Palakkad, Keralam 678001",
+    "area": "Parakkunnam, Sultanpet",
+    "latitude": 10.7748832,
+    "longitude": 76.65696899999999,
+    "place_id": "ChIJZR-ClONtqDsRIz_-RuQbHXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZR-ClONtqDsRIz_-RuQbHXE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:19:44"
+  }
+]

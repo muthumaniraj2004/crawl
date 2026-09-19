@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oggy Holidays",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator, Tourist information center",
+    "pincode": "176047",
+    "phone_number": "+91 70093 80388",
+    "website": "https://oggyholidays.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Kapila Nursing Home, Shastri Nagar, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Shastri Nagar, Berachah",
+    "latitude": 32.1085553,
+    "longitude": 76.5408602,
+    "place_id": "ChIJI65bubKzBDkRe34p1iaFkF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI65bubKzBDkRe34p1iaFkF0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:16:09"
+  },
+  {
+    "business_name": "MapleBridge Edu Services Pvt. Ltd.",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "176047",
+    "phone_number": "+91 98059 94373",
+    "website": "https://m.facebook.com/maplebridgeeduservices/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No.28, Destination City Centre, Distt, opposite Yamini Hotel, Palampur, Himachal Pradesh 176061",
+    "area": "Sugghar",
+    "latitude": 32.113034999999996,
+    "longitude": 76.53460869999999,
+    "place_id": "ChIJY7PvfsOzBDkRZMaf6PgOOy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7PvfsOzBDkRZMaf6PgOOy0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:16:09"
+  }
+]

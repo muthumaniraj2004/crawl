@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J. S. Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "176058",
+    "phone_number": "+91 88281 71460",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Mukerian - Talwara Rd, opposite Doon Public school, Sandhwal, Punjab 144221",
+    "area": "176058",
+    "latitude": 31.969954299999998,
+    "longitude": 75.72855299999999,
+    "place_id": "ChIJVxBO3UV1GzkRfOe_Xt5hJC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxBO3UV1GzkRfOe_Xt5hJC8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:52"
+  },
+  {
+    "business_name": "The Sandhu Workshop Hub",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "176058",
+    "phone_number": "+91 95927 19364",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mukerian - Talwara Rd, Power Colony, Hajipur, Sandhwal, Punjab 144221",
+    "area": "Power Colony",
+    "latitude": 31.9716694,
+    "longitude": 75.7372693,
+    "place_id": "ChIJB0x4kcR1GzkRSUT9L25M0Q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0x4kcR1GzkRSUT9L25M0Q0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:52"
+  }
+]

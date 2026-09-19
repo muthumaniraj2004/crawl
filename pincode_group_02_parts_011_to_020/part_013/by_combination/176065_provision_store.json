@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sood provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "176065",
+    "phone_number": "+91 98165 24923",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sood provision store, near PNB bank, Thural, Halun, Himachal Pradesh 176107",
+    "area": "176065",
+    "latitude": 31.923150099999997,
+    "longitude": 76.4608884,
+    "place_id": "ChIJwYXx1K_LBDkRLwPZA2GpYi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYXx1K_LBDkRLwPZA2GpYi0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:06"
+  },
+  {
+    "business_name": "General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176065",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3C37+3JH, Lanjehr, Himachal Pradesh 176065",
+    "area": "176065",
+    "latitude": 32.0526882,
+    "longitude": 76.4140943,
+    "place_id": "ChIJkRFH0W5LGzkRMb6-IsXoymg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRFH0W5LGzkRMb6-IsXoymg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:09"
+  }
+]

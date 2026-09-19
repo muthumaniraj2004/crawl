@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit shoes Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27GW+X6M, TEH, BAROH, VPO, Khas Sunhi, Himachal Pradesh 176037",
+    "area": "BAROH, VPO",
+    "latitude": 32.027460999999995,
+    "longitude": 76.295541,
+    "place_id": "ChIJT_GHWABJGzkRtLItkJK9uWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_GHWABJGzkRtLItkJK9uWI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:48:11"
+  },
+  {
+    "business_name": "A-One Shoes Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Shopping mall",
+    "pincode": "176029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mandi - Pathankot Rd, Baijnath, Himachal Pradesh 176125",
+    "area": "176029",
+    "latitude": 32.0500209,
+    "longitude": 76.6454577,
+    "place_id": "ChIJ5SzrCiu4BDkRKyWL7QOGI5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SzrCiu4BDkRKyWL7QOGI5E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:48:12"
+  }
+]

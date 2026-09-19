@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurcure Ayurvedic Medical",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175125",
+    "phone_number": "+91 90211 55556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, opp. to Bus Stand, Dahiwadi, Maharashtra 415508",
+    "area": "175125",
+    "latitude": 17.701868299999997,
+    "longitude": 74.54136559999999,
+    "place_id": "ChIJweVP8WXDwzsRkaVo7N2Ocvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJweVP8WXDwzsRkaVo7N2Ocvc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:53"
+  },
+  {
+    "business_name": "Atreya Ayurveda Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "175125",
+    "phone_number": "+91 98448 99645",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Bus stand, Bhaskar nagar, Chitagoppa, Baskernagar, Karnataka 585412",
+    "area": "Bhaskar nagar",
+    "latitude": 17.7024467,
+    "longitude": 77.2142592,
+    "place_id": "ChIJv5AOzArVzjsROEN8rbGRjp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5AOzArVzjsROEN8rbGRjp8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:53"
+  }
+]

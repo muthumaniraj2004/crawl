@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Job Referrals",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Service establishment",
+    "pincode": "176057",
+    "phone_number": "N/A",
+    "website": "https://t.me/indeed_jobs_dubai",
+    "rating": null,
+    "reviews_count": null,
+    "address": "My Job Referrals, 176057, India",
+    "area": "176057",
+    "latitude": 35.282874299999996,
+    "longitude": -3.3907303,
+    "place_id": "ChIJ7f7JyYYJrm4RRo0ExoRXSFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7f7JyYYJrm4RRo0ExoRXSFw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:32:56"
+  },
+  {
+    "business_name": "Rock Consultant & Recruitment Agency",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Service establishment",
+    "pincode": "176057",
+    "phone_number": "N/A",
+    "website": "https://rockcra.com/",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "Rock Consultant & Recruitment Agency, 176057, India",
+    "area": "176057",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJGwhzTkXc6k0R9-ZJb9BvC8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwhzTkXc6k0R9-ZJb9BvC8w",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:32:57"
+  }
+]

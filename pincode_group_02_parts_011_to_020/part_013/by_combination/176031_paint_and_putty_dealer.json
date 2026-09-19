@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Hardware & Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Building materials supplier, Hardware store, Welding supply store",
+    "pincode": "176031",
+    "phone_number": "+91 99758 75487",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No.5, Aasra Chowk, Hotagi Rd, Solapur, Maharashtra 413003",
+    "area": "Sainath Nagar",
+    "latitude": 17.6396542,
+    "longitude": 75.9170956,
+    "place_id": "ChIJAUEhfRnaxTsR0H2IFS9eDdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUEhfRnaxTsR0H2IFS9eDdQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:17"
+  },
+  {
+    "business_name": "Mahakali paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "176031",
+    "phone_number": "+91 94208 28141",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Mahakali Paints & Hardware, Mein Road, Omerga, Maharashtra 413606",
+    "area": "176031",
+    "latitude": 17.8378148,
+    "longitude": 76.62143879999999,
+    "place_id": "ChIJu95hDjxbzzsRPQ4O2LqaLb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu95hDjxbzzsRPQ4O2LqaLb8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:17"
+  }
+]

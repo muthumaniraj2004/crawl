@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VARU SOUTH INDIAN FOOD",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "176025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "S. C. F 8, SEC 2 LAXMI NARAYN MANTHIR Talwara Twp, Rd, Bhera, Punjab 144216",
+    "area": "Sector-2",
+    "latitude": 31.950620899999997,
+    "longitude": 75.8624596,
+    "place_id": "ChIJOWDcFWtzGzkRluJE18JZuvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWDcFWtzGzkRluJE18JZuvk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:53"
+  },
+  {
+    "business_name": "MJ food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176025",
+    "phone_number": "+91 98726 76081",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 157,
+    "address": "Madhya Marg, Sector-2, Talwara Twp, Punjab 144216",
+    "area": "Sector-2",
+    "latitude": 31.950620899999997,
+    "longitude": 75.8624592,
+    "place_id": "ChIJY5vAmVFzGzkR5ur3LEoaQpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5vAmVFzGzkR5ur3LEoaQpw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:55"
+  }
+]

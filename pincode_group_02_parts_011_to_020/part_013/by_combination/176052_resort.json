@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BlueWave Villa",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Villa",
+    "pincode": "176052",
+    "phone_number": "+91 98056 06064",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sokani Da Kot, Khanyara, Himachal Pradesh 176218",
+    "area": "176052",
+    "latitude": 32.2099821,
+    "longitude": 76.3629253,
+    "place_id": "ChIJf3cI0NhRGzkRH_bO28vTdi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3cI0NhRGzkRH_bO28vTdi8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:23:27"
+  },
+  {
+    "business_name": "The Whispering Winds Resort Dharamshala",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "176052",
+    "phone_number": "+91 70183 53986",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khanyara Rd, Kand, Dharamshala, Himachal Pradesh 176218",
+    "area": "176052",
+    "latitude": 32.212195,
+    "longitude": 76.3487423,
+    "place_id": "ChIJvxZ2VrpRGzkRVdQBNpk9Izk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxZ2VrpRGzkRVdQBNpk9Izk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:23:27"
+  }
+]

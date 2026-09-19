@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trinetra House",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Event management company",
+    "pincode": "176029",
+    "phone_number": "+91 86797 33000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 40,
+    "address": "opposite Reliance iSamart, Bhawarna, Himachal Pradesh 176083",
+    "area": "176029",
+    "latitude": 32.0450999,
+    "longitude": 76.4973473,
+    "place_id": "ChIJn3tMO3G1BDkR3XvziZLeQEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3tMO3G1BDkR3XvziZLeQEs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:49:03"
+  },
+  {
+    "business_name": "Your event manager",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "176029",
+    "phone_number": "+91 86278 12441",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Gupta Ganga, Ward Number 5, Kangra, Himachal Pradesh 176001",
+    "area": "Ward Number 5",
+    "latitude": 32.101476399999996,
+    "longitude": 76.2731465,
+    "place_id": "ChIJp6lI78tPGzkRSW4cqPMRGZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6lI78tPGzkRSW4cqPMRGZI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:49:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tushant Auto Mechanical Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "175129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "552G+W78, Kullu - Naggar - Manali Rd, Haripur, Soil, Himachal Pradesh 175136",
+    "area": "175129",
+    "latitude": 32.152280999999995,
+    "longitude": 77.17571699999999,
+    "place_id": "ChIJE0_9KQCLBDkRNNQ6yEiyMl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0_9KQCLBDkRNNQ6yEiyMl4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:07:46"
+  },
+  {
+    "business_name": "Hangout Bike Rentals",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Two Wheeler Rental Agency",
+    "all_categories": "Two Wheeler Rental Agency, Scooter rental service",
+    "pincode": "175129",
+    "phone_number": "+91 98575 00036",
+    "website": "http://www.hangoutbikerentals.com/",
+    "rating": 5,
+    "reviews_count": 196,
+    "address": "Kanyal, Road, Simsa, Manali, Himachal Pradesh 175131",
+    "area": "Simsa, Simsa Village",
+    "latitude": 32.2205602,
+    "longitude": 77.1855956,
+    "place_id": "ChIJNcownZqJBDkRVxv2SLbbjVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcownZqJBDkRVxv2SLbbjVs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:07:47"
+  }
+]

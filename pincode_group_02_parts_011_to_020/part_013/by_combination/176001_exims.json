@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sareen Trading Company",
+    "search_category": "EXIMS",
+    "primary_category": "EXIMS",
+    "all_categories": "EXIMS",
+    "pincode": "176001",
+    "phone_number": "+91 98178 20071",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Housing Board Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Housing Board Colony",
+    "latitude": 32.097311499999996,
+    "longitude": 76.2712085,
+    "place_id": "ChIJHyv3IH5PGzkRXYCBKigHl-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyv3IH5PGzkRXYCBKigHl-E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:33:18"
+  },
+  {
+    "business_name": "Mi Service Center",
+    "search_category": "EXIMS",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "176001",
+    "phone_number": "+91 98161 13355",
+    "website": "https://miservicemanager.mi.com/customer.html",
+    "rating": 3.9,
+    "reviews_count": 256,
+    "address": "opp. Jk Hotel, near New Bus Stand, Adarsh Colony, Kangra, Himachal Pradesh 176001",
+    "area": "Adarsh Colony",
+    "latitude": 32.11032,
+    "longitude": 76.27846,
+    "place_id": "ChIJjStj2jxPGzkReXt0jowN2oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjStj2jxPGzkReXt0jowN2oE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:33:19"
+  }
+]

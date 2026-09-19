@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "XpressBees",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "176051",
+    "phone_number": "+91 20 4911 6100",
+    "website": "http://www.xpressbees.com/",
+    "rating": 3.5,
+    "reviews_count": 27,
+    "address": "7VG3+3FJ, SH 27, Jasur Khas, Thana, Himachal Pradesh 176201",
+    "area": "176051",
+    "latitude": 32.275203999999995,
+    "longitude": 75.85363199999999,
+    "place_id": "ChIJ9zx71ah9GzkREnWRsaA4otI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zx71ah9GzkREnWRsaA4otI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:21:12"
+  },
+  {
+    "business_name": "delhivery courier office",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "176051",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 5,
+    "address": "6VMR+3HC, Panjahra Dhallan, Himachal Pradesh 176051",
+    "area": "176051",
+    "latitude": 32.2326958,
+    "longitude": 75.8913852,
+    "place_id": "ChIJ29keNyl9GzkRJSmRqJ3KK14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29keNyl9GzkRJSmRqJ3KK14",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:21:12"
+  }
+]

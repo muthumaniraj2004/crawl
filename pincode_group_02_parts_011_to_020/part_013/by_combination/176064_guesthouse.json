@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Shepherd's Fraternity",
+    "search_category": "Guesthouse",
+    "primary_category": "Cottage",
+    "all_categories": "Cottage, Cafeteria",
+    "pincode": "176064",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Garh Mata Road, Baraham Thero, Himachal Pradesh 176064",
+    "area": "176064",
+    "latitude": 32.1011136,
+    "longitude": 76.4529364,
+    "place_id": "ChIJ87bdtQNNGzkRQ7BuI_vuSiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87bdtQNNGzkRQ7BuI_vuSiQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:45:22"
+  },
+  {
+    "business_name": "Rupayan B&B",
+    "search_category": "Guesthouse",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast, Home Stay, Wellness hotel",
+    "pincode": "176064",
+    "phone_number": "+91 78075 22999",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Maranda, Palampur, Himachal Pradesh 176102",
+    "area": "Maranda",
+    "latitude": 32.0881875,
+    "longitude": 76.5194375,
+    "place_id": "ChIJ5wcEXYmzBDkRI6AZwoMkYgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wcEXYmzBDkRI6AZwoMkYgc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:45:23"
+  }
+]

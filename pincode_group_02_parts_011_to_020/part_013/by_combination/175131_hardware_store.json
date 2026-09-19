@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Sanitary & Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "175131",
+    "phone_number": "+91 98141 98207",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No 4, Kamla Market, Phase 1, Mohali Village, Sahibzada Ajit Singh Nagar, Punjab 160055",
+    "area": "Kamla Market, Phase 1, Mohali Village",
+    "latitude": 30.730284599999997,
+    "longitude": 76.7149002,
+    "place_id": "ChIJq6qq6m7uDzkR_YmFQ8x9HdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6m7uDzkR_YmFQ8x9HdQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:37"
+  },
+  {
+    "business_name": "Maa Durga Hardware And Doors",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "175131",
+    "phone_number": "+91 98161 82135",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Modern Complex, near Railway station, Dappar, Punjab 140506",
+    "area": "175131",
+    "latitude": 30.518807199999998,
+    "longitude": 76.8051466,
+    "place_id": "ChIJwUfmZV3BDzkRmggxpw5XHL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUfmZV3BDzkRmggxpw5XHL4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:37"
+  }
+]

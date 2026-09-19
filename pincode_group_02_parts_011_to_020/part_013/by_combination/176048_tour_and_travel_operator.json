@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tripista by baba",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Service establishment",
+    "pincode": "176048",
+    "phone_number": "+91 82194 40478",
+    "website": "https://www.instagram.com/tripistabybaba/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tripista by baba, 176048, India",
+    "area": "176048",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJpw2tY1aHyKER6biYbpZTomo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpw2tY1aHyKER6biYbpZTomo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:17:32"
+  },
+  {
+    "business_name": "Tinku Tour & Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176048",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "Sulgwan - Bhareri Rd, Sulgwan, Himachal Pradesh 176048",
+    "area": "176048",
+    "latitude": 31.6292932,
+    "longitude": 76.6946316,
+    "place_id": "ChIJSf7CaQwnBTkRliiDEfvIeJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSf7CaQwnBTkRliiDEfvIeJU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:17:34"
+  }
+]

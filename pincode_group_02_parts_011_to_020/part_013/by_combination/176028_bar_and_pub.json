@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sanju /Fish/chicken corner",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "176028",
+    "phone_number": "+91 98164 20992",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "315111, Nakki Khad, Pragpur, Garh, Himachal Pradesh 177107",
+    "area": "176028",
+    "latitude": 31.816899499999998,
+    "longitude": 76.2185811,
+    "place_id": "ChIJvzXxJZA7GzkR6RY2px07CdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzXxJZA7GzkR6RY2px07CdE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:46:18"
+  },
+  {
+    "business_name": "Tandoori junction",
+    "search_category": "Bar and Pub",
+    "primary_category": "Beer hall",
+    "all_categories": "Beer hall",
+    "pincode": "176028",
+    "phone_number": "+91 88944 44386",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sunhet, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "Sunhet",
+    "latitude": 31.8817314,
+    "longitude": 76.2146617,
+    "place_id": "ChIJsxR0sNU5GzkR7MR0kwV6Kmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxR0sNU5GzkR7MR0kwV6Kmo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:46:18"
+  }
+]

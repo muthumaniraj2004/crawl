@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion 24x7",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier",
+    "pincode": "176066",
+    "phone_number": "+91 94180 01648",
+    "website": "https://www.fashion24x7.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tehsil, PO, kathog, Badoli, Jawalamukhi, Himachal Pradesh 176031",
+    "area": "kathog",
+    "latitude": 31.873904999999997,
+    "longitude": 76.2884899,
+    "place_id": "ChIJl-xtH58xGzkRBVY3h7dpETo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-xtH58xGzkRBVY3h7dpETo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:48:17"
+  },
+  {
+    "business_name": "Vicky Selections",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "176066",
+    "phone_number": "+91 99112 96865",
+    "website": "http://www.vickyselection.com/",
+    "rating": 4.3,
+    "reviews_count": 44,
+    "address": "GG-1, 72/A, opposite Bata showroom, near Relaince Jio Store, PVR Sonia road, Vikaspuri, New Delhi, Delhi 110018",
+    "area": "Block GG1, Vikaspuri",
+    "latitude": 28.6386872,
+    "longitude": 77.07792119999999,
+    "place_id": "ChIJhyro4vkFDTkRbGGwuPYDY7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyro4vkFDTkRbGGwuPYDY7Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:48:18"
+  }
+]

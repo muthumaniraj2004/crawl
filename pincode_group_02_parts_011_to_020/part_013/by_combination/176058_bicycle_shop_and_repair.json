@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukhdev Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle wholesaler",
+    "all_categories": "Bicycle wholesaler",
+    "pincode": "176058",
+    "phone_number": "+91 94178 61523",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "main bazaar, Tikhowal, Mukerian, Punjab 144211",
+    "area": "Tikhowal",
+    "latitude": 31.9501043,
+    "longitude": 75.6165663,
+    "place_id": "ChIJRxnftTuZGzkR24l6elF97kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxnftTuZGzkR24l6elF97kM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:58"
+  },
+  {
+    "business_name": "Wild camping riders",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle rental service",
+    "all_categories": "Bicycle rental service",
+    "pincode": "176058",
+    "phone_number": "+91 70184 65685",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near pnb, New Kather, Bhanat, Solan, Himachal Pradesh 173213",
+    "area": "New Kather, Bhanat",
+    "latitude": 30.912982799999998,
+    "longitude": 77.0969406,
+    "place_id": "ChIJva9Mj-2HDzkRC1KpWDzfhpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJva9Mj-2HDzkRC1KpWDzfhpE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:34:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "plaza unisex salon",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176040",
+    "phone_number": "+91 98053 07342",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Una - Hamirpur Rd, Salouni, Himachal Pradesh 174311",
+    "area": "176040",
+    "latitude": 31.5792249,
+    "longitude": 76.5141246,
+    "place_id": "ChIJlU-QUWUrBTkRShW26Mqe49c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlU-QUWUrBTkRShW26Mqe49c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:58"
+  },
+  {
+    "business_name": "s. P",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "176040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GJ9J+PQ2, Dangar, Himachal Pradesh 174023",
+    "area": "176040",
+    "latitude": 31.519253799999998,
+    "longitude": 76.631885,
+    "place_id": "ChIJMdpDBHUvBTkRzUNyWRmEs4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdpDBHUvBTkRzUNyWRmEs4E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonkhla Enterprises",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "175126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "V4PW+HMH, By Pass Road, near Truck Union, Bhuntar, Himachal Pradesh 175125",
+    "area": "175126",
+    "latitude": 31.886440699999998,
+    "longitude": 77.14672999999999,
+    "place_id": "ChIJSexEOH_3BDkRtV15Lb98mIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSexEOH_3BDkRtV15Lb98mIQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:04:10"
+  },
+  {
+    "business_name": "Sharma Welding Works",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "175126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "W42P+J8W, Bhuntar - Kullu Rd, Shamshi, Himachal Pradesh 175126",
+    "area": "175126",
+    "latitude": 31.9016009,
+    "longitude": 77.13582509999999,
+    "place_id": "ChIJd04HSi_3BDkRo5KxlCv2C2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd04HSi_3BDkRo5KxlCv2C2c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:04:14"
+  }
+]

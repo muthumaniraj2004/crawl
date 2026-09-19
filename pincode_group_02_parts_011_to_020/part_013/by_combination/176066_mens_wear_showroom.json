@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushi Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "176066",
+    "phone_number": "+91 86278 06918",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khushi Garments Kathog, Chowk, Choran, Himachal Pradesh 176031",
+    "area": "Chowk",
+    "latitude": 31.874542199999997,
+    "longitude": 76.2841621,
+    "place_id": "ChIJKclhZyIxGzkRg0uK_bm7gWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKclhZyIxGzkRg0uK_bm7gWc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:48:12"
+  },
+  {
+    "business_name": "Raj Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "176066",
+    "phone_number": "+91 90127 27106",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Pushkar Mandir Road, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+    "area": "Adarsh Gram",
+    "latitude": 30.1080553,
+    "longitude": 78.298251,
+    "place_id": "ChIJc3pMoxwWCTkRkfzSyZANZLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3pMoxwWCTkRkfzSyZANZLk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:48:14"
+  }
+]

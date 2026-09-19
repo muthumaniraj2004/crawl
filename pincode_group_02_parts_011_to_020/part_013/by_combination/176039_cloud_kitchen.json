@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AK CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176039",
+    "phone_number": "+91 98822 11144",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AK CLOUD KITCHEN Village Padgal P.O Be. Kothipura Tehsil, Bilaspur, Himachal Pradesh 174037",
+    "area": "176039",
+    "latitude": 31.2932934,
+    "longitude": 76.7732685,
+    "place_id": "ChIJH_JkhBlBBTkRmwSpvwmqg6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_JkhBlBBTkRmwSpvwmqg6g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:27"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176039",
+    "phone_number": "+91 74797 03910",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "4th Floor, LUXURY INN, Bharat Bhawan Rd, Ward No. 12, Chakradharpur, Jharkhand 833102",
+    "area": "Ward No. 12",
+    "latitude": 22.6717072,
+    "longitude": 85.618501,
+    "place_id": "ChIJPQ2ydlCD9TkRxxddhZgzE0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQ2ydlCD9TkRxxddhZgzE0o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:28"
+  }
+]

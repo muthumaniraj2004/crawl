@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Professional Couriers Network Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "176029",
+    "phone_number": "+91 94188 41105",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 10,
+    "address": "4788+9X4, Opp., Shimla Bypass, Lower Bazar, Shimla, Himachal Pradesh 176001",
+    "area": "Lower Bazar",
+    "latitude": 32.1158831,
+    "longitude": 76.2674442,
+    "place_id": "ChIJxYn8uWNFGzkRSGgsqD8aCtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYn8uWNFGzkRSGgsqD8aCtQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:49:19"
+  },
+  {
+    "business_name": "Blue Dart Express Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "176029",
+    "phone_number": "N/A",
+    "website": "https://www.bluedart.com/",
+    "rating": 2.3,
+    "reviews_count": 27,
+    "address": "Opp Rotary Eye Hospital Pathankot Mandi Nh Vill & Po- Maranda Maranda, Himachal Pradesh 176056",
+    "area": "176029",
+    "latitude": 32.092355999999995,
+    "longitude": 76.3389857,
+    "place_id": "ChIJyfgtIIu1BDkRCPQ0lCsUT2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfgtIIu1BDkRCPQ0lCsUT2A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:49:20"
+  }
+]

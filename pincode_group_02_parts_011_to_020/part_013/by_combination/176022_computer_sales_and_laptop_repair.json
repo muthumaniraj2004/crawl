@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Traders",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "176022",
+    "phone_number": "+91 82619 20000",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6VWV+Q7F, Panjahra Damuwal, Himachal Pradesh 176051",
+    "area": "176022",
+    "latitude": 32.2469424,
+    "longitude": 75.8931569,
+    "place_id": "ChIJi8_PEi59GzkRWzw3fHDjzVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8_PEi59GzkRWzw3fHDjzVY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:38:26"
+  },
+  {
+    "business_name": "Computer Repair And Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer consultant, Computer service, Computer store",
+    "pincode": "176022",
+    "phone_number": "+91 98726 42243",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GMR3+VWM, Bhogpur, Punjab 144201",
+    "area": "176022",
+    "latitude": 31.5602727,
+    "longitude": 75.6413864,
+    "place_id": "ChIJpV5QyHSrGzkRxN8U2LCaBQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpV5QyHSrGzkRxN8U2LCaBQc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:38:29"
+  }
+]

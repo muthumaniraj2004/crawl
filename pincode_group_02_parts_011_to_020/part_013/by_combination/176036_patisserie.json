@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamloo",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 29,
+    "address": "NH 3, Kaulapur, Himachal Pradesh 177033",
+    "area": "176036",
+    "latitude": 31.775621299999997,
+    "longitude": 76.2995038,
+    "place_id": "ChIJi7tkYZovGzkRELKPkU6PR6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7tkYZovGzkRELKPkU6PR6k",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:59"
+  },
+  {
+    "business_name": "Vinayak bakers & sweets",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Rakkar Bus Stop, National Highway 70, Mao, Himachal Pradesh 177043",
+    "area": "176036",
+    "latitude": 31.7818035,
+    "longitude": 76.25377929999999,
+    "place_id": "ChIJ8bKodZIlGzkR9TuYJVwq4J0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bKodZIlGzkR9TuYJVwq4J0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:57:02"
+  }
+]

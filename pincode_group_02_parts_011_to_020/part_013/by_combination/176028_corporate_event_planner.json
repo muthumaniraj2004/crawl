@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Createve Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Photography service",
+    "pincode": "176028",
+    "phone_number": "+91 95130 35035",
+    "website": "https://www.createveevents.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "371/3, 1st floor, 8th Cross Rd, 6th Block, 1st Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "area": "6th Block, 1st Block, Jayanagar",
+    "latitude": 12.937008599999999,
+    "longitude": 77.5855626,
+    "place_id": "ChIJjUIYPFgVrjsRWa4mk4mkStE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUIYPFgVrjsRWa4mk4mkStE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:47:14"
+  },
+  {
+    "business_name": "Pathania tent & catering services",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "176028",
+    "phone_number": "+91 82194 02033",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Banakhandi - Haripur Rd, Mehwa, Khaleta, Himachal Pradesh 177114",
+    "area": "176028",
+    "latitude": 31.9764967,
+    "longitude": 76.1904266,
+    "place_id": "ChIJQ1kjpmZHGzkRDf-ILr4HTZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1kjpmZHGzkRDf-ILr4HTZY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:47:15"
+  }
+]

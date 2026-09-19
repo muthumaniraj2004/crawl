@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Police by Dhiman Tent House",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Thana road, VPO, Khas Sunhi, Himachal Pradesh 176037",
+    "area": "VPO",
+    "latitude": 32.0275636,
+    "longitude": 76.29466169999999,
+    "place_id": "ChIJMYD5pyJJGzkRESgmmIb3FkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYD5pyJJGzkRESgmmIb3FkE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:00:44"
+  },
+  {
+    "business_name": "Hiway Hunger",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176038",
+    "phone_number": "+91 98168 70273",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "kangra Byapass, Himachal Pradesh 176001",
+    "area": "176038",
+    "latitude": 32.0960227,
+    "longitude": 76.2750453,
+    "place_id": "ChIJT8Pd10BFGzkRNz9OxMKoCdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8Pd10BFGzkRNz9OxMKoCdQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:00:44"
+  }
+]

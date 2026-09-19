@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PanchsheelHospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Orthopedic clinic, Skin care clinic",
+    "pincode": "176027",
+    "phone_number": "+91 88941 93200",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Sunehar - Palampur Rd, near Railway Station, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176027",
+    "latitude": 32.1108709,
+    "longitude": 76.38746119999999,
+    "place_id": "ChIJH0KBfEpMGzkRNbCfYTqak58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0KBfEpMGzkRNbCfYTqak58",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:44"
+  },
+  {
+    "business_name": "Civil Hospital Nagrota Bagwan",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "494H+QFF, Mandi - Pathankot Rd, Dhauladhar Colony, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "Dhauladhar Colony",
+    "latitude": 32.106935,
+    "longitude": 76.37867469999999,
+    "place_id": "ChIJzXFIejFMGzkRV2Aqea606f0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXFIejFMGzkRV2Aqea606f0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:47"
+  }
+]

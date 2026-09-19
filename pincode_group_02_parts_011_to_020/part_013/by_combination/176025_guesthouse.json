@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baaggechi",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "176025",
+    "phone_number": "+91 73475 21665",
+    "website": "https://www.baaggechi.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Baaggechi near VPO Kharanal, Paprola, Baijnath, Himachal Pradesh 176115",
+    "area": "176025",
+    "latitude": 32.063153299999996,
+    "longitude": 76.6412778,
+    "place_id": "ChIJ-xm-Csa5BDkRzQCjQGCymKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xm-Csa5BDkRzQCjQGCymKA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:50"
+  },
+  {
+    "business_name": "Sunrise Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "176025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "P.o, Tehsil Indora, Thapkor, Bhadroya, Himachal Pradesh 176403",
+    "area": "P.o, Tehsil Indora",
+    "latitude": 32.2559767,
+    "longitude": 75.6912164,
+    "place_id": "ChIJg-B3_v2BGzkReOTkZ63uxSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-B3_v2BGzkReOTkZ63uxSc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:51"
+  }
+]

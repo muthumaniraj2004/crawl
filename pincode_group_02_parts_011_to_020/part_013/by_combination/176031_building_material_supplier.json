@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PANKAJ ENTERPRISES",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gate no. 5, near PWD REST HOUSE, near Police station, Kohala, Jawalamukhi, Himachal Pradesh 176031",
+    "area": "Kohala",
+    "latitude": 31.8703272,
+    "longitude": 76.3217315,
+    "place_id": "ChIJseHqEikxGzkRJHVG8CoFDTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseHqEikxGzkRJHVG8CoFDTE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:18"
+  },
+  {
+    "business_name": "Subhash Chand & Sons Utensil Store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "http://garli.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R65P+88H, Garli, Garli Khas, Himachal Pradesh 177108",
+    "area": "176031",
+    "latitude": 31.808311099999997,
+    "longitude": 76.2358582,
+    "place_id": "ChIJuXJBYwA7GzkRs5jt9YP9wa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXJBYwA7GzkRs5jt9YP9wa8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapoor Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Sightseeing Tour Operator, Tour agency, Tour operator, Transportation service, Travel agency",
+    "pincode": "176053",
+    "phone_number": "+91 89880 03820",
+    "website": "http://www.taxiserviceindharamshala.in/",
+    "rating": 5,
+    "reviews_count": 265,
+    "address": "Sanjay Marg, near Adhiva Hotel, Chilgari, Dharamshala, Himachal Pradesh 176215",
+    "area": "Chilgari",
+    "latitude": 32.208540299999996,
+    "longitude": 76.3143522,
+    "place_id": "ChIJ7R5JlOFRGzkRLYD22Sc6k58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R5JlOFRGzkRLYD22Sc6k58",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:24:49"
+  },
+  {
+    "business_name": "Gupta Tour And Travel Agency",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Taxi service",
+    "pincode": "176053",
+    "phone_number": "+91 92361 49369",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 144,
+    "address": "Near Income Tax Office, Barhpur, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Awas Vikas Colony",
+    "latitude": 27.3834944,
+    "longitude": 79.59398569999999,
+    "place_id": "ChIJMX15vCwynjkRPfLMsscqvuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMX15vCwynjkRPfLMsscqvuE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:24:49"
+  }
+]

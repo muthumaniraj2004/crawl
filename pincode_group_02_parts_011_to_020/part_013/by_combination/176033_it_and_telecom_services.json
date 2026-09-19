@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Airtel Express",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider, Telecommunications equipment supplier",
+    "pincode": "176033",
+    "phone_number": "N/A",
+    "website": "http://www.airtel.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No.28-A, Suvidha Complex, Yol Cantt., Dharamshala, Himachal Pradesh 176215",
+    "area": "Chilgari",
+    "latitude": 32.2100639,
+    "longitude": 76.3221313,
+    "place_id": "ChIJqTovYhxRGzkRsZ_QHcT2Obc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTovYhxRGzkRsZ_QHcT2Obc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:27"
+  },
+  {
+    "business_name": "BSNL 4G Tower",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telephone company",
+    "all_categories": "Telephone company",
+    "pincode": "176033",
+    "phone_number": "+91 76499 24070",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "334P+X5X, Amlela Khas, Himachal Pradesh 176027",
+    "area": "176033",
+    "latitude": 32.0575304,
+    "longitude": 76.08537129999999,
+    "place_id": "ChIJJ6Q4SgBpGzkRLUBzWj2-z-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6Q4SgBpGzkRLUBzWj2-z-U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulshan plumbing service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "176030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village Chaniara , PO Chobin, Baijnath, Himachal Pradesh 176128",
+    "area": "176030",
+    "latitude": 31.9759566,
+    "longitude": 76.67378529999999,
+    "place_id": "ChIJQ-N_UTTHBDkRTIBIEopViXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-N_UTTHBDkRTIBIEopViXs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:50:30"
+  },
+  {
+    "business_name": "Near kali Matta Mandir",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "176030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RFJX+VQG, Sujanpur Tira, Himachal Pradesh 176110",
+    "area": "176030",
+    "latitude": 31.832143,
+    "longitude": 76.4993606,
+    "place_id": "ChIJx8YuS7LNBDkRxRfOINEbwFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8YuS7LNBDkRxRfOINEbwFA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:50:30"
+  }
+]

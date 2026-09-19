@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Ji Ki Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Restaurant",
+    "pincode": "175141",
+    "phone_number": "+91 63885 86784",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 30062,
+    "address": "34, Trilokinath Marg, Sushanpura, Lalbagh, Lucknow, Uttar Pradesh 226001",
+    "area": "Sushanpura, Lalbagh",
+    "latitude": 26.8477398,
+    "longitude": 80.9406583,
+    "place_id": "ChIJW6Qq16f9mzkRHhx2FtBH_dI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6Qq16f9mzkRHhx2FtBH_dI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:26:06"
+  },
+  {
+    "business_name": "Chai Point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Coffee shop",
+    "pincode": "175141",
+    "phone_number": "+91 88801 41000",
+    "website": "http://www.chaipoint.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "18th Cross, W Park Rd, Malleshwaram, Bengaluru, Karnataka 560003",
+    "area": "Malleshwaram",
+    "latitude": 13.0085001,
+    "longitude": 77.56945549999999,
+    "place_id": "ChIJW7hvli4WrjsR0IjYfeNIbHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7hvli4WrjsR0IjYfeNIbHM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:26:06"
+  }
+]

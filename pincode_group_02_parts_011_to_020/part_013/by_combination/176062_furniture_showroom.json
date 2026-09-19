@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRISHNA EMPORIUM",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "176062",
+    "phone_number": "+91 62836 38998",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ram Chowk, Shop no 5 Roshni Shopping Complex, Palampur, Himachal Pradesh 176061",
+    "area": "Sugghar",
+    "latitude": 32.1108233,
+    "longitude": 76.5323995,
+    "place_id": "ChIJD8ILnUuzBDkRmWJhPx11a7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8ILnUuzBDkRmWJhPx11a7U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:41:30"
+  },
+  {
+    "business_name": "CHHABRA ENTERPRISES",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Electronics Company, Office furniture store",
+    "pincode": "176062",
+    "phone_number": "+91 98572 12121",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HRTC COMPLEX, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1032584,
+    "longitude": 76.5342507,
+    "place_id": "ChIJ9WojXeSzBDkRBxVg7ofqdmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WojXeSzBDkRBxVg7ofqdmc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:41:33"
+  }
+]

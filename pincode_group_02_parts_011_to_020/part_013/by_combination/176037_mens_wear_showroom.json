@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AV Fashion hub",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176037",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Collage road Kangra, opposite vishal mega mart, Himachal Pradesh 176001",
+    "area": "Haripur, New Kangra",
+    "latitude": 32.0997323,
+    "longitude": 76.2690678,
+    "place_id": "ChIJqTr4OIBFGzkRgFrAKO-JLFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTr4OIBFGzkRgFrAKO-JLFk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:58:56"
+  },
+  {
+    "business_name": "The Downtown Outfits",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "176037",
+    "phone_number": "+91 98160 33933",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "NH-154, Baroh Rd, near Railway Fatak, Chowk, Nagrota Bagwan, Warai, Himachal Pradesh 176056",
+    "area": "Chowk",
+    "latitude": 32.0927994,
+    "longitude": 76.3479254,
+    "place_id": "ChIJFTWE4xBPGzkRM6wIuksXU3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTWE4xBPGzkRM6wIuksXU3Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:58:58"
+  }
+]

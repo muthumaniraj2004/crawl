@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GetMyCA Business Consultants",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Accounting firm, Business management consultant, Certified public accountant, Registration office, Tax preparation service, Virtual office rental",
+    "pincode": "175139",
+    "phone_number": "+91 98968 05552",
+    "website": "http://www.getmyca.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "45/24 4th Floor, Shree Aarambh Building, Pratap Nagar, DLF Colony, Rohtak, Haryana 124001",
+    "area": "Pratap Nagar, DLF Colony",
+    "latitude": 28.893680999999997,
+    "longitude": 76.5956763,
+    "place_id": "ChIJP8hTs2iFDTkR2nUmDA0InT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8hTs2iFDTkR2nUmDA0InT8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:23:38"
+  },
+  {
+    "business_name": "Himanshu Negi & Associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "175139",
+    "phone_number": "+91 84394 88565",
+    "website": "http://himanshunegi.co.in/",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "DL-1, Himgiri Colony Rd, Himgiri Colony, Moradabad, Uttar Pradesh 244001",
+    "area": "Himgiri Colony",
+    "latitude": 28.869206,
+    "longitude": 78.7434801,
+    "place_id": "ChIJqUdH3LT_CjkRG4AnPBKLCVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUdH3LT_CjkRG4AnPBKLCVw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:23:39"
+  }
+]

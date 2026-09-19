@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sahrini, Shat, Pini, Himachal Pradesh 175105",
+    "area": "Sahrini",
+    "latitude": 31.969156799999997,
+    "longitude": 77.2024402,
+    "place_id": "ChIJcUEiN9NZBDkRtR0aT_C5hNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUEiN9NZBDkRtR0aT_C5hNk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:03:04"
+  },
+  {
+    "business_name": "Vicky welding work",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, HIMUDA Colony Rd, Kullu, Bajaura, Himachal Pradesh 175125",
+    "area": "175125",
+    "latitude": 31.843687799999998,
+    "longitude": 77.1640852,
+    "place_id": "ChIJW2qlU9T5BDkREcIyDKr0POg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2qlU9T5BDkREcIyDKr0POg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:03:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smile Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dentist",
+    "pincode": "176032",
+    "phone_number": "+91 94184 65504",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Hospital Rd, Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.778382599999997,
+    "longitude": 76.3421671,
+    "place_id": "ChIJ3xbzZWcvGzkR55VIOBXESms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xbzZWcvGzkR55VIOBXESms",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:47"
+  },
+  {
+    "business_name": "Thakur Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "176032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ward No. 7 ,Dolli Gharana, V.P.O & Teh. ,Distt., Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.7765854,
+    "longitude": 76.34708169999999,
+    "place_id": "ChIJ2xCTaBMuGzkReJ5XVhlWfzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xCTaBMuGzkReJ5XVhlWfzQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Tea Stall",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "242M+442, Jallarian, Himachal Pradesh 176033",
+    "area": "176027",
+    "latitude": 32.000273199999995,
+    "longitude": 76.1327618,
+    "place_id": "ChIJT0jpjwBBGzkRfHWnF2G2rRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0jpjwBBGzkRfHWnF2G2rRA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:18"
+  },
+  {
+    "business_name": "Tinku ki dukaan",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 32,
+    "address": "MDR45, Dodhamb, Chari, Himachal Pradesh 176217",
+    "area": "176027",
+    "latitude": 32.2061743,
+    "longitude": 76.2574279,
+    "place_id": "ChIJ97XKQzlbGzkR-hu-N7TOaYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97XKQzlbGzkR-hu-N7TOaYQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:19"
+  }
+]

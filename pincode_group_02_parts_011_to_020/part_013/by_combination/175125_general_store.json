@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175125",
+    "phone_number": "+91 98162 18990",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Parla Bhuntar, Bhuntar, Shillihar, Himachal Pradesh 175125",
+    "area": "Parla Bhuntar",
+    "latitude": 31.888285999999997,
+    "longitude": 77.1494079,
+    "place_id": "ChIJW_RFEIL3BDkRTcBWXKSED9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_RFEIL3BDkRTcBWXKSED9w",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:28"
+  },
+  {
+    "business_name": "Thakur General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Shopping mall",
+    "pincode": "175125",
+    "phone_number": "+91 94180 05589",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bhuntar, Shamshi, Himachal Pradesh 175126",
+    "area": "175125",
+    "latitude": 31.892732799999997,
+    "longitude": 77.14021489999999,
+    "place_id": "ChIJ96CkiHD3BDkRztIQO6Y2anI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96CkiHD3BDkRztIQO6Y2anI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:28"
+  }
+]

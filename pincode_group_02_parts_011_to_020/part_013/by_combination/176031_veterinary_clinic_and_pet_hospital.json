@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vetrinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 22,
+    "address": "V898+R4G, Jawalamukhi, Uchhahr, Himachal Pradesh 176031",
+    "area": "176031",
+    "latitude": 31.869573799999998,
+    "longitude": 76.3153328,
+    "place_id": "ChIJ0XZtWtgwGzkRM4PLJZ0oqhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XZtWtgwGzkRM4PLJZ0oqhM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:02"
+  },
+  {
+    "business_name": "Very.Hosp.Ghallour",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R7R6+M6J, Bhagaur, Himachal Pradesh 176066",
+    "area": "176031",
+    "latitude": 31.8417058,
+    "longitude": 76.26052709999999,
+    "place_id": "ChIJT-ffUwA7GzkRiKHAo-_R1Sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-ffUwA7GzkRiKHAo-_R1Sk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:02"
+  }
+]

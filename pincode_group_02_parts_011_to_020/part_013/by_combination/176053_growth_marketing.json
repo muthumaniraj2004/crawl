@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "digital marketing services",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment",
+    "pincode": "176053",
+    "phone_number": "+91 82788 76937",
+    "website": "https://digitalmangat.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "digital marketing services, 176053, India",
+    "area": "176053",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ8QQv5e9GV2ARpUqfiypp3ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QQv5e9GV2ARpUqfiypp3ns",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:25:50"
+  },
+  {
+    "business_name": "Growth House India",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "176053",
+    "phone_number": "+91 98765 10775",
+    "website": "https://growthhouseindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Growth House India, 176053, India",
+    "area": "176053",
+    "latitude": 31.026816399999998,
+    "longitude": 75.4106475,
+    "place_id": "ChIJp_Ik6GP6EYERho6lrguBVwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_Ik6GP6EYERho6lrguBVwg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:25:50"
+  }
+]

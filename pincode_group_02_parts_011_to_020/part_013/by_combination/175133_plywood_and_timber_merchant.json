@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Timber & Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "175133",
+    "phone_number": "+91 98202 58380",
+    "website": "https://swastik-timber.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lal Bahadur Shastri Marg, opp. Three Petrol Pump, Panch Pakhdi, Thane West, Thane, Maharashtra 400602",
+    "area": "Panch Pakhdi, Thane West",
+    "latitude": 19.1930646,
+    "longitude": 72.9700417,
+    "place_id": "ChIJ3btzCyK55zsR3dtx86mix5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3btzCyK55zsR3dtx86mix5Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:15:23"
+  },
+  {
+    "business_name": "Bhairav Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Lumber store, Wood supplier",
+    "pincode": "175133",
+    "phone_number": "N/A",
+    "website": "https://www.bhairavplywood.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "24, Old Slaughter House Rd, near P4 Police Station, Kumaraswamy Rajapuram, Thattankulam, Choolai, Chennai, Tamil Nadu 600112",
+    "area": "Kumaraswamy Rajapuram, Thattankulam, Choolai",
+    "latitude": 13.095455999999999,
+    "longitude": 80.2648116,
+    "place_id": "ChIJu6F7oeVlUjoRgw3KY6QhcLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6F7oeVlUjoRgw3KY6QhcLw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:15:25"
+  }
+]

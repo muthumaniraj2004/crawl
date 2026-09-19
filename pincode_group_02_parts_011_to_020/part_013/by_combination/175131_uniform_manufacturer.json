@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fashion Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Stitching Class",
+    "pincode": "175131",
+    "phone_number": "+91 78310 13696",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Shop No 125,2nd Floor, Manu Market, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Manu Market, Siyal",
+    "latitude": 32.2448058,
+    "longitude": 77.19038379999999,
+    "place_id": "ChIJd2s8JRyHBDkRB61DdWzm_6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2s8JRyHBDkRB61DdWzm_6E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:11"
+  },
+  {
+    "business_name": "Satnam Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "175131",
+    "phone_number": "+91 94184 16839",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "37, Mall Rd, Manu Market, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Manu Market, Siyal",
+    "latitude": 32.245307499999996,
+    "longitude": 77.18972049999999,
+    "place_id": "ChIJQ_aZbv6HBDkRNDpsC0H8cuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_aZbv6HBDkRNDpsC0H8cuo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:14"
+  }
+]

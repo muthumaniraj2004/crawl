@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Littlewild Agri Private Limited",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Health and beauty shop",
+    "pincode": "176064",
+    "phone_number": "+91 99999 19014",
+    "website": "http://www.mountaintreestore.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 9, 100, Chowki, Palampur, Himachal Pradesh 176061",
+    "area": "176064",
+    "latitude": 32.0977253,
+    "longitude": 76.5198198,
+    "place_id": "ChIJ6VKtKxWzBDkRRUo-ezuxJJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VKtKxWzBDkRRUo-ezuxJJo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:44:15"
+  },
+  {
+    "business_name": "Novelty ( Discounted Electronics Store)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store, Electronics wholesaler, Gym",
+    "pincode": "176064",
+    "phone_number": "+91 98163 47119",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Bhawarna, Himachal Pradesh 176083",
+    "area": "176064",
+    "latitude": 32.0454698,
+    "longitude": 76.4971553,
+    "place_id": "ChIJs1s8Mc-1BDkRSnTXbIQuUio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1s8Mc-1BDkRSnTXbIQuUio",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:44:18"
+  }
+]

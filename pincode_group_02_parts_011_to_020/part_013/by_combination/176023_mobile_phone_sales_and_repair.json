@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeraj Times & Mobile Clinic",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "176023",
+    "phone_number": "+91 98162 01234",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7VJ2+MF9, MAIN BAZAAR, Jassur, Jasur Khas, Himachal Pradesh 176201",
+    "area": "176023",
+    "latitude": 32.281660699999996,
+    "longitude": 75.8512235,
+    "place_id": "ChIJkSjton6CHDkRx2qckOJ1bZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSjton6CHDkRx2qckOJ1bZE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:14"
+  },
+  {
+    "business_name": "GULERIA COMMUNICATION",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store",
+    "pincode": "176023",
+    "phone_number": "+91 70184 54789",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "address": "Apr complex, near kangra bank, Nadaun, Himachal Pradesh 177033",
+    "area": "176023",
+    "latitude": 31.7786305,
+    "longitude": 76.3449013,
+    "place_id": "ChIJz7a_gwQxBTkROYg_NoDHmQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7a_gwQxBTkROYg_NoDHmQk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:40:15"
+  }
+]

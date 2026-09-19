@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karyana shop",
+    "search_category": "Importers",
+    "primary_category": "Food broker",
+    "all_categories": "Food broker, Service establishment",
+    "pincode": "175129",
+    "phone_number": "+91 94180 95882",
+    "website": "https://pr5511191gmail.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karyana shop, 175129, India",
+    "area": "175129",
+    "latitude": 32.1137308,
+    "longitude": 77.1646536,
+    "place_id": "ChIJq2uvO9b-UiIRITO5MGZsKXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2uvO9b-UiIRITO5MGZsKXE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:08:44"
+  },
+  {
+    "business_name": "Food Supply Depot",
+    "search_category": "Importers",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "175129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "175129, Kullu - Naggar - Manali Rd, Riyara, Himachal Pradesh 175129",
+    "area": "175129",
+    "latitude": 32.160421899999996,
+    "longitude": 77.1539341,
+    "place_id": "ChIJJ64MXoOJBDkRidrikYtIgQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ64MXoOJBDkRidrikYtIgQM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:08:46"
+  }
+]

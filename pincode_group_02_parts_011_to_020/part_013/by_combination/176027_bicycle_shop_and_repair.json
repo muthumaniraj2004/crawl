@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avon Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "176027",
+    "phone_number": "+91 94188 66866",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward No.-4, Main Road, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176027",
+    "latitude": 32.1053577,
+    "longitude": 76.3788838,
+    "place_id": "ChIJrTRSBTFMGzkRN7bNONh_kqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTRSBTFMGzkRN7bNONh_kqU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:59"
+  },
+  {
+    "business_name": "VEER CYCLE STORE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "176027",
+    "phone_number": "+91 88475 68575",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "GT Rd, Mandi, Gurdaspur, Punjab 143521",
+    "area": "Mandi",
+    "latitude": 32.041044299999996,
+    "longitude": 75.4145333,
+    "place_id": "ChIJjxnK2TSTGzkRG0X-ESzpPec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxnK2TSTGzkRG0X-ESzpPec",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:59"
+  }
+]

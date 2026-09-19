@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chicken and fish corner",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "176032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q9RP+VP7, Dholas, Himachal Pradesh 176036",
+    "area": "176032",
+    "latitude": 31.7923908,
+    "longitude": 76.3860548,
+    "place_id": "ChIJ08_qiiAtGzkRB9ddpj7uTMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08_qiiAtGzkRB9ddpj7uTMo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:23"
+  },
+  {
+    "business_name": "Nadaun Fish point",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "176032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q8HV+CQM, Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.778579099999998,
+    "longitude": 76.3443913,
+    "place_id": "ChIJ6c4S0xIvGzkRg7fg8mJ-aMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6c4S0xIvGzkRg7fg8mJ-aMg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sandeep sanjeev bro's",
+    "search_category": "Fitness Chains",
+    "primary_category": "Physical fitness program",
+    "all_categories": "Physical fitness program, Gym",
+    "pincode": "176061",
+    "phone_number": "+91 94182 22595",
+    "website": "http://www.palampurfitnessclub.com/",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Ghuggar, Palampur, Himachal Pradesh 176061",
+    "area": "Ghuggar",
+    "latitude": 32.1135395,
+    "longitude": 76.52832029999999,
+    "place_id": "ChIJy91hJsezBDkR-DMsy58dpC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy91hJsezBDkR-DMsy58dpC4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:39:18"
+  },
+  {
+    "business_name": "Ajay The Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176061",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "3GJJ+WWW, Palampur, Rajpur, Himachal Pradesh 176067",
+    "area": "176061",
+    "latitude": 32.0820649,
+    "longitude": 76.5322319,
+    "place_id": "ChIJOeqf4KW1BDkREE2eKU2UOb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeqf4KW1BDkREE2eKU2UOb4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:39:20"
+  }
+]

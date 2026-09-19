@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kedar sweet shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "176052",
+    "phone_number": "+91 70189 79799",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near indrunag, Dharamshala, Sokani Da Kot, Himachal Pradesh 176218",
+    "area": "176052",
+    "latitude": 32.212958199999996,
+    "longitude": 76.3664143,
+    "place_id": "ChIJwTEhRgpTGzkReD9fEkiPnhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTEhRgpTGzkReD9fEkiPnhU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:22:23"
+  },
+  {
+    "business_name": "Krishna Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "176052",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Civil Lines, Kacheri, Dharamshala, Himachal Pradesh 176215",
+    "area": "Kacheri",
+    "latitude": 32.2059739,
+    "longitude": 76.32254019999999,
+    "place_id": "ChIJyy47XQNRGzkRjvmH7y3bMXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyy47XQNRGzkRjvmH7y3bMXU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:22:23"
+  }
+]

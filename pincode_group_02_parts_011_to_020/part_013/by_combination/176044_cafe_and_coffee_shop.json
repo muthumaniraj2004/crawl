@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umar Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176044",
+    "phone_number": "+91 94599 99803",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "NH3 Bann, near PNB Bank, Hamirpur, Himachal Pradesh 177048",
+    "area": "176044",
+    "latitude": 31.7259061,
+    "longitude": 76.4521954,
+    "place_id": "ChIJvawjAVzVBDkR68_tiu-ia8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvawjAVzVBDkR68_tiu-ia8k",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:11:38"
+  },
+  {
+    "business_name": "common service center (CSC) LOK MITRA",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176044",
+    "phone_number": "+91 76785 28454",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "339, VPO, Kot, Himachal Pradesh 174028",
+    "area": "VPO",
+    "latitude": 31.5861974,
+    "longitude": 76.7019038,
+    "place_id": "ChIJK23XZZ0nBTkRE-ADNFlAYTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK23XZZ0nBTkRE-ADNFlAYTE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:11:39"
+  }
+]

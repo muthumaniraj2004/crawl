@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crystal Clear Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "176054",
+    "phone_number": "+91 88942 96555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near SBI bank, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "176054",
+    "latitude": 31.89878,
+    "longitude": 76.5958643,
+    "place_id": "ChIJKVpjOUzPBDkRO5zBASWrS7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVpjOUzPBDkRO5zBASWrS7Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:26:23"
+  },
+  {
+    "business_name": "Roots Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dentist, Emergency dental service, Endodontist, Orthodontist, Prosthodontist",
+    "pincode": "176054",
+    "phone_number": "+91 78310 46939",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rehlu road, opposite lawrence school, shahpur, Shahpur, Chandaran, Himachal Pradesh 176206",
+    "area": "shahpur",
+    "latitude": 32.2133083,
+    "longitude": 76.1857691,
+    "place_id": "ChIJWXdlXQRRGzkRCEhpquErPXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXdlXQRRGzkRCEhpquErPXc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:26:24"
+  }
+]

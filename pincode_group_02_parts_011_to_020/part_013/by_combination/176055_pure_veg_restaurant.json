@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tibrewala's Cafe & Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Cafe, Chinese restaurant, Coffee shop, Indian restaurant, Restaurant",
+    "pincode": "176055",
+    "phone_number": "+91 82888 36334",
+    "website": "https://tibrewallas.framer.website/",
+    "rating": 4.8,
+    "reviews_count": 4364,
+    "address": "chownk, near banjarbagh, Banjar Bagh, Hoshiarpur, Punjab 146001",
+    "area": "Banjar Bagh",
+    "latitude": 31.5514212,
+    "longitude": 75.91958029999999,
+    "place_id": "ChIJQ_tMdlrjGjkRKOYmttJ6GVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_tMdlrjGjkRKOYmttJ6GVE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:27:55"
+  },
+  {
+    "business_name": "Body Fuel Station",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176055",
+    "phone_number": "+91 78329 99633",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "KCC Bank, Yol Cantt Near, Dharamshala, Himachal Pradesh 176052",
+    "area": "176055",
+    "latitude": 32.1838201,
+    "longitude": 76.3707383,
+    "place_id": "ChIJoWBt9HNTGzkR4Bdsol6p_9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWBt9HNTGzkR4Bdsol6p_9E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:27:57"
+  }
+]

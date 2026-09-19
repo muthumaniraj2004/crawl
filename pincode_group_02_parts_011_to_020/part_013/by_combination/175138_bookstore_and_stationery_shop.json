@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aggarwal Books Suppliers - Stationery Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Children's Book Store, School supply store, Sports complex, Stationery wholesaler",
+    "pincode": "175138",
+    "phone_number": "+91 82192 66224",
+    "website": "https://www.amazon.in/s?me=A75N6VVNRI0OO&marketplaceID=A21TJRUUN4KGV",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Badripur, Adarsh Colony, Paonta Sahib, Himachal Pradesh 173025",
+    "area": "Badripur, Adarsh Colony",
+    "latitude": 30.448881999999998,
+    "longitude": 77.6083685,
+    "place_id": "ChIJs45NoP0iDzkR8skc4B7GSms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs45NoP0iDzkR8skc4B7GSms",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:21:34"
+  },
+  {
+    "business_name": "Sai Books & Stationery shop (Piplu)",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Books Wholesaler",
+    "all_categories": "Books Wholesaler",
+    "pincode": "175138",
+    "phone_number": "+91 99717 46583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 35,
+    "address": "Near Piplu, Rd, Piplu, Daulatpur, Bhadar Kali, Himachal Pradesh 177204",
+    "area": "Piplu",
+    "latitude": 31.777438,
+    "longitude": 76.0232425,
+    "place_id": "ChIJBULzRi0XGzkR5lEVDxtmVRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBULzRi0XGzkR5lEVDxtmVRg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:21:34"
+  }
+]

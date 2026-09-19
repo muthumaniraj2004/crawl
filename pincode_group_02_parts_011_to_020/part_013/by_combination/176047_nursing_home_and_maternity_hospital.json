@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANH Arora Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176047",
+    "phone_number": "+91 83770 18667",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "ANH CLINIC, near Dr Lal path labs, Bhawarna, Himachal Pradesh 176083",
+    "area": "176047",
+    "latitude": 32.039874399999995,
+    "longitude": 76.49558979999999,
+    "place_id": "ChIJHXuzvAe1BDkRgPmWEd1LUWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXuzvAe1BDkRgPmWEd1LUWw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:25"
+  },
+  {
+    "business_name": "Tamiz Surgical",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "176047",
+    "phone_number": "+91 94433 71020",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Adamsa Lane, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9192213,
+    "longitude": 78.1145854,
+    "place_id": "ChIJFSVgxIbFADsRfxzF9Aehm2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSVgxIbFADsRfxzF9Aehm2Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:27"
+  }
+]

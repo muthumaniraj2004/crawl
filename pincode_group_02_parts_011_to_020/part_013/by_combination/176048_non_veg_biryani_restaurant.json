@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Parkash",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176048",
+    "phone_number": "+91 98167 91316",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jao Parkash, Bhareri, Himachal Pradesh 177024",
+    "area": "176048",
+    "latitude": 31.6510835,
+    "longitude": 76.6880161,
+    "place_id": "ChIJF__oVkwnBTkRnwc-TYhk6hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF__oVkwnBTkRnwc-TYhk6hM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:16:58"
+  },
+  {
+    "business_name": "Kumar Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Vegetarian restaurant",
+    "pincode": "176048",
+    "phone_number": "+91 88940 05201",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 62,
+    "address": "HPQF+GHV, Jahu, Himachal Pradesh 176048",
+    "area": "176048",
+    "latitude": 31.5888629,
+    "longitude": 76.72391089999999,
+    "place_id": "ChIJN0xVobcmBTkR_bFkTHyVa5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0xVobcmBTkR_bFkTHyVa5k",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:16:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Automobile",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Tire shop, Wheel alignment service",
+    "pincode": "176045",
+    "phone_number": "+91 82639 15990",
+    "website": "https://happyautomobilehamirpurhimachalpradesh.justdial.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sammu-Taal, Bassi - Tarkwari Rd, Bhoranj, Himachal Pradesh 176045",
+    "area": "176045",
+    "latitude": 31.651456399999997,
+    "longitude": 76.64598409999999,
+    "place_id": "ChIJaelz_YHZBDkRxL7DjephoqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaelz_YHZBDkRxL7DjephoqY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:47"
+  },
+  {
+    "business_name": "Trimurti Transline",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176045",
+    "phone_number": "+91 70181 09979",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A, Bhoranj, Himachal Pradesh 176045",
+    "area": "A",
+    "latitude": 31.6455193,
+    "longitude": 76.643604,
+    "place_id": "ChIJ9bcnivAnBTkRqdjDwDKfV8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bcnivAnBTkRqdjDwDKfV8A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:47"
+  }
+]

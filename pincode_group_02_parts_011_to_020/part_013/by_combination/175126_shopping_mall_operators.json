@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mountain Throne Adventures",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Hiking guide, Adventure Sports Center",
+    "pincode": "175126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhi Nagar, Kullu, Himachal Pradesh 175101",
+    "area": "Gandhi Nagar",
+    "latitude": 31.945623899999998,
+    "longitude": 77.1054521,
+    "place_id": "ChIJ4x44qWb3BDkR3nTd4CysxdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4x44qWb3BDkR3nTd4CysxdI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:05:10"
+  },
+  {
+    "business_name": "Rajaani Adventures",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Rafting",
+    "all_categories": "Rafting",
+    "pincode": "175126",
+    "phone_number": "+91 98050 72103",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bhuntar - Ramshila Rd, Pirdi, Mohal, Himachal Pradesh 175126",
+    "area": "Pirdi",
+    "latitude": 31.925376399999998,
+    "longitude": 77.11979629999999,
+    "place_id": "ChIJBbuP1tj2BDkRODFIli2gz1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbuP1tj2BDkRODFIli2gz1g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:05:10"
+  }
+]

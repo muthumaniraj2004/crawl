@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basanti Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Restaurant, Indian sweets shop",
+    "pincode": "175139",
+    "phone_number": "+91 93388 55235",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 80,
+    "address": "Ground Floor, Rajabagicha, Kataka, Odisha 753009",
+    "area": "Rajabagicha",
+    "latitude": 20.4621243,
+    "longitude": 85.8729551,
+    "place_id": "ChIJhbpl6o0NGToRx1Tx_KQkCJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbpl6o0NGToRx1Tx_KQkCJM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:19"
+  },
+  {
+    "business_name": "Agarwal Sweet House",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "175139",
+    "phone_number": "+91 98243 20648",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 304,
+    "address": "2, Raju Complex, Drive-in Road, Gurukul Road, Drive-in Road, Ahmedabad, Gujarat 380052",
+    "area": "Memnagar",
+    "latitude": 23.0477049,
+    "longitude": 72.5337523,
+    "place_id": "ChIJR4EU3ayEXjkRerZFQikW0Hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4EU3ayEXjkRerZFQikW0Hk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:19"
+  }
+]

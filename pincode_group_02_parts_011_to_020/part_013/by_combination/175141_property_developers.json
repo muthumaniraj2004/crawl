@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishant's home",
+    "search_category": "Property Developers",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "175141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "R5GQ+4X5, Bajaura, Himachal Pradesh 175141",
+    "area": "175141",
+    "latitude": 31.825467,
+    "longitude": 77.19077659999999,
+    "place_id": "ChIJ1ZStfwD5BDkRG7xM7kT5Rxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZStfwD5BDkRG7xM7kT5Rxo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:27:32"
+  },
+  {
+    "business_name": "Prashar Farm House",
+    "search_category": "Property Developers",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "175141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R57R+73W, Bhuntar, Himachal Pradesh 175121",
+    "area": "175141",
+    "latitude": 31.8132202,
+    "longitude": 77.1902653,
+    "place_id": "ChIJrScHKAD5BDkRhfRLs5j2qLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrScHKAD5BDkRhfRLs5j2qLA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:27:34"
+  }
+]

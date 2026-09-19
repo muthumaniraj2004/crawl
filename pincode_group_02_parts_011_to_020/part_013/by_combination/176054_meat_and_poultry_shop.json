@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanyal Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "176054",
+    "phone_number": "+91 88944 50608",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Chaloh, Bharlar, Himachal Pradesh 176204",
+    "area": "176054",
+    "latitude": 32.2142608,
+    "longitude": 75.7402032,
+    "place_id": "ChIJj_7ZwU5_GzkRzSAh6ubpvH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_7ZwU5_GzkRzSAh6ubpvH8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:26:00"
+  },
+  {
+    "business_name": "The Department of Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "176054",
+    "phone_number": "+91 94191 40760",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Vetinery college, Holta, Palampur, Banuri, Himachal Pradesh 176062",
+    "area": "Holta",
+    "latitude": 32.1044388,
+    "longitude": 76.56157329999999,
+    "place_id": "ChIJJzz21DaxBDkRBtCEJdzfGZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzz21DaxBDkRBtCEJdzfGZE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:26:00"
+  }
+]

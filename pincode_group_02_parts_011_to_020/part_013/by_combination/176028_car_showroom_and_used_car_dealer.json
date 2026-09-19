@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji car bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "176028",
+    "phone_number": "+91 90154 47516",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paisa Khas, Himachal Pradesh 177101",
+    "area": "176028",
+    "latitude": 31.9448367,
+    "longitude": 76.2551534,
+    "place_id": "ChIJn4SR2-85GzkR_eQgkV5ugWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4SR2-85GzkR_eQgkV5ugWo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:46:40"
+  },
+  {
+    "business_name": "Tata Motors New Cars Showroom Sunhet Ban Banyal Dehra",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "176028",
+    "phone_number": "+91 93185 43444",
+    "website": "http://car.tatamotors.com/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "VPO, Teh, Sunhet, Dehra Gopipur, Himachal Pradesh 177104",
+    "area": "Sunhet",
+    "latitude": 31.858186999999997,
+    "longitude": 76.22230619999999,
+    "place_id": "ChIJ-5JH9Uw7GzkRb39HKrlw2Q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5JH9Uw7GzkRb39HKrlw2Q0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:46:40"
+  }
+]

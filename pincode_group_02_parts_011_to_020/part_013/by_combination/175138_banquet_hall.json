@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Multipurpose Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "175138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "X435+4HJ, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.9528464,
+    "longitude": 77.1088911,
+    "place_id": "ChIJKSh-SX73BDkREIDZtbfN6GU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSh-SX73BDkREIDZtbfN6GU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:21:19"
+  },
+  {
+    "business_name": "Siddh Baba Balak Nath Samudayik Bhawan Dharamshala",
+    "search_category": "Banquet Hall",
+    "primary_category": "Dharamshala",
+    "all_categories": "Dharamshala",
+    "pincode": "175138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "W4Q6+779, Tikra Babli, Kullu, Himachal Pradesh 175101",
+    "area": "Tikra Babli",
+    "latitude": 31.938169199999997,
+    "longitude": 77.1107415,
+    "place_id": "ChIJy7vC3c72BDkRfxsMFa-x984",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7vC3c72BDkRfxsMFa-x984",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:21:19"
+  }
+]

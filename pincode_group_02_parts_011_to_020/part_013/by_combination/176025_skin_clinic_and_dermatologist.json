@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Prem Kumar Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "176025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 9,
+    "address": "Sector-2, Talwara Twp, Punjab 144216",
+    "area": "Sector-2",
+    "latitude": 31.9495433,
+    "longitude": 75.86607029999999,
+    "place_id": "ChIJMwEJuuhyGzkRETwHzV8RxC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwEJuuhyGzkRETwHzV8RxC0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:10"
+  },
+  {
+    "business_name": "Dr Sanjay Kumar's Sanjivni Healthcare and Ayurveda Centre",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176025",
+    "phone_number": "+91 75087 07003",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Terrace Road, Talwara, Punjab 144216",
+    "area": "176025",
+    "latitude": 31.931293699999998,
+    "longitude": 75.8926274,
+    "place_id": "ChIJzWIuN8VzGzkRFyOkUqXn7cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWIuN8VzGzkRFyOkUqXn7cQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:10"
+  }
+]

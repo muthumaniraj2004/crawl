@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dutt Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "V89C+5HP, Shimla - Kangra Rd, Jawalamukhi, Himachal Pradesh 176031",
+    "area": "176031",
+    "latitude": 31.867963999999997,
+    "longitude": 76.3214555,
+    "place_id": "ChIJae0v05YxGzkRJjAsxcX1wEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJae0v05YxGzkRJjAsxcX1wEc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:54"
+  },
+  {
+    "business_name": "Optical World Inc",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "https://www.opticalworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "845 Columbia Ave, Lancaster, PA 17603, United States",
+    "area": "176031",
+    "latitude": 40.0384889,
+    "longitude": -76.32308379999999,
+    "place_id": "ChIJW4h0WFkkxokRgFkSJr8KfgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4h0WFkkxokRgFkSJr8KfgQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:54"
+  }
+]

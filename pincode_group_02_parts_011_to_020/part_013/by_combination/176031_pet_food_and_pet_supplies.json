@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "V7VW+R7P, Sapri, Himachal Pradesh 176031",
+    "area": "176031",
+    "latitude": 31.8945916,
+    "longitude": 76.2957095,
+    "place_id": "ChIJY2MZXjg3GzkRZ3blQMYFO6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2MZXjg3GzkRZ3blQMYFO6A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:36"
+  },
+  {
+    "business_name": "Sood Incorporation",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Dog breeder, Dog trainer, Pet store",
+    "pincode": "176031",
+    "phone_number": "+91 98143 99920",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp ssb training centre,sapri, Jawalamukhi, Himachal Pradesh 176031",
+    "area": "176031",
+    "latitude": 31.894533799999998,
+    "longitude": 76.2957691,
+    "place_id": "ChIJ47vODeA3GzkR_rVDITP1iXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47vODeA3GzkR_rVDITP1iXg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:38"
+  }
+]

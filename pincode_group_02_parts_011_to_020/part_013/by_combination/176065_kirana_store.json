@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soni Daily Needs and sweet shop",
+    "search_category": "Kirana Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Grocery delivery service, Indian grocery store",
+    "pincode": "176065",
+    "phone_number": "+91 70094 76790",
+    "website": "https://play.google.com/store/apps/details?id=com.retailapps.sonidailyneeds",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "V. P.O, Behdala, Himachal Pradesh 174306",
+    "area": "176065",
+    "latitude": 31.444366,
+    "longitude": 76.3298616,
+    "place_id": "ChIJ2ffy8BzRGjkRZzvDXSWc-XA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ffy8BzRGjkRZzvDXSWc-XA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:06"
+  },
+  {
+    "business_name": "Shiv Kripa General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176065",
+    "phone_number": "+91 70186 40281",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "494V+579, Buhnehr, Himachal Pradesh 176047",
+    "area": "Buhnehr",
+    "latitude": 32.105424899999996,
+    "longitude": 76.39323449999999,
+    "place_id": "ChIJOT-boq9NGzkRKLPuF4mMvG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOT-boq9NGzkRKLPuF4mMvG4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:08"
+  }
+]

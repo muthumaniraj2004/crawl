@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiwi delight",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176051",
+    "phone_number": "+91 89688 86650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jawali road, near ice factory swimming pool, Raja Ka Talab, Sujal, Himachal Pradesh 176051",
+    "area": "176051",
+    "latitude": 32.2108679,
+    "longitude": 75.9198997,
+    "place_id": "ChIJtTj-5gtjGzkR4IC_v67A3D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTj-5gtjGzkR4IC_v67A3D0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:20:37"
+  },
+  {
+    "business_name": "Niner Eating Point",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "176051",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 43,
+    "address": "Road, Gangath, Thana, Himachal Pradesh 176201",
+    "area": "176051",
+    "latitude": 32.2760125,
+    "longitude": 75.8483906,
+    "place_id": "ChIJNVW9pYB9GzkRZblQlRAjOrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVW9pYB9GzkRZblQlRAjOrQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:20:41"
+  }
+]

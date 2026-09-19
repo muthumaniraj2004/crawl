@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Drone Booking",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer, Drone service, Video editing service, Wedding photographer",
+    "pincode": "176022",
+    "phone_number": "+91 89551 21929",
+    "website": "https://instagram.com/official_drone_master",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dholi Pahari, Tapukara, Rajasthan 301707",
+    "area": "176022",
+    "latitude": 28.070358199999998,
+    "longitude": 76.875383,
+    "place_id": "ChIJQ4LZ-bM1DTkRaB_cYOk_2Cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4LZ-bM1DTkRaB_cYOk_2Cs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:38:13"
+  },
+  {
+    "business_name": "Drone zone",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "176022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3H7J+7HX, Kot Bala, Punjab 140113",
+    "area": "176022",
+    "latitude": 31.0632426,
+    "longitude": 76.581498,
+    "place_id": "ChIJUZjPHgBRBTkRnZ3gb06P4xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZjPHgBRBTkRnZ3gb06P4xI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:38:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gian Chand And Company",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "176039",
+    "phone_number": "+91 98170 45372",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gian Chand And Co, Berthin, Himachal Pradesh 174029",
+    "area": "176039",
+    "latitude": 31.4171797,
+    "longitude": 76.6403016,
+    "place_id": "ChIJG68MOk4xBTkRzDO7vQAfwb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG68MOk4xBTkRzDO7vQAfwb8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:30"
+  },
+  {
+    "business_name": "Prince",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "176039",
+    "phone_number": "+91 82195 82087",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, Road, Talai, Himachal Pradesh 174030",
+    "area": "176039",
+    "latitude": 31.415845299999997,
+    "longitude": 76.5525691,
+    "place_id": "ChIJpYqYpKsxBTkRa0DmFO2X7RA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYqYpKsxBTkRa0DmFO2X7RA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:32"
+  }
+]

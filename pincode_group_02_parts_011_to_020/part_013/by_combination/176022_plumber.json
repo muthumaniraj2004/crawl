@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuldeep Hardware Store",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "176022",
+    "phone_number": "+91 94187 42778",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kuldeep Hardware Store Vill Mokhar Po Houri Devi Tehsil, Himachal Pradesh 176022",
+    "area": "176022",
+    "latitude": 32.1331987,
+    "longitude": 75.8894026,
+    "place_id": "ChIJETl99_J7GzkRwx6uEHDaDnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETl99_J7GzkRwx6uEHDaDnI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:56"
+  },
+  {
+    "business_name": "Munna Plumber (Vishav Jeet)",
+    "search_category": "Plumber",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor",
+    "pincode": "176022",
+    "phone_number": "+91 86289 82921",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Post Office, Village Bharmoli, Tehsil, Panjahra Baraswalan, Nurpur, Himachal Pradesh 176051",
+    "area": "Tehsil",
+    "latitude": 32.2523979,
+    "longitude": 75.8698435,
+    "place_id": "ChIJWd5Zrcl9GzkRYKqDV4OrFgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWd5Zrcl9GzkRYKqDV4OrFgY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:59"
+  }
+]

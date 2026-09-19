@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of home decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "176021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Barrier Chowk, opp. Central Bank, Indora, Chuharpur, Himachal Pradesh 176401",
+    "area": "176021",
+    "latitude": 32.1418014,
+    "longitude": 75.6875908,
+    "place_id": "ChIJy76GYQCDGzkRUVKnHqcturw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy76GYQCDGzkRUVKnHqcturw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:36:27"
+  },
+  {
+    "business_name": "Ashish Thakur C/o AST Home Decor Chamba",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "176021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Bus stand, Vpo, Sarol, Himachal Pradesh 176318",
+    "area": "Vpo",
+    "latitude": 32.5819915,
+    "longitude": 76.11687979999999,
+    "place_id": "ChIJ420EW5S_HDkRXyztsebXoo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ420EW5S_HDkRXyztsebXoo0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:36:28"
+  }
+]

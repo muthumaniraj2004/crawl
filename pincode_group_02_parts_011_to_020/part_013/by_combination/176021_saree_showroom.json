@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Trends",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "176021",
+    "phone_number": "+91 93118 82594",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "M232RC, JAWALI, Raja Ka Talab, Himachal Pradesh 176051",
+    "area": "176021",
+    "latitude": 32.213083499999996,
+    "longitude": 75.9160109,
+    "place_id": "ChIJLawY711jGzkRgZ2rTTiXilw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLawY711jGzkRgZ2rTTiXilw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:35:32"
+  },
+  {
+    "business_name": "SONU EXCLUSIVE",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "176021",
+    "phone_number": "+91 82195 87432",
+    "website": "https://sites.google.com/view/sonu-exclusive/home",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MAIN BAZAR, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176021",
+    "latitude": 32.0550942,
+    "longitude": 76.09285109999999,
+    "place_id": "ChIJI3RTozJDGzkRsNNhmsBNsiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3RTozJDGzkRsNNhmsBNsiM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:35:32"
+  }
+]

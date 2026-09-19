@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Royal Taj & Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Home Stay, Restaurant",
+    "pincode": "176027",
+    "phone_number": "+91 88942 36033",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Hotel Royal Taj, Near Sorig Tibetan Herbal Clinic, Near Sorig Tibetan Herbal Clinic (Phendey Chekyong, Choepal Kalsang Clinic, Shiv Nagar, Sudher, Dharamshala, Himachal Pradesh 176217",
+    "area": "Shiv Nagar, Sudher",
+    "latitude": 32.2131233,
+    "longitude": 76.28980849999999,
+    "place_id": "ChIJdUq_lZVQGzkRsD7q6IVIzYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUq_lZVQGzkRsD7q6IVIzYo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:45:22"
+  },
+  {
+    "business_name": "Dhauladhar Homes",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Hotel",
+    "pincode": "176027",
+    "phone_number": "+91 99114 71139",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 79,
+    "address": "Jhikkar, Gharoh, Dharamshala, Himachal Pradesh 176217",
+    "area": "176027",
+    "latitude": 32.2001024,
+    "longitude": 76.28235,
+    "place_id": "ChIJuzAPHsZRGzkRBNTKXXVqbfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzAPHsZRGzkRBNTKXXVqbfA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:45:24"
+  }
+]

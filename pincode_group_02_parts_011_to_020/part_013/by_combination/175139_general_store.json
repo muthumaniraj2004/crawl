@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H. N. 7, General Store",
+    "search_category": "General Store",
+    "primary_category": "General Store",
+    "all_categories": "General Store",
+    "pincode": "175139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "General Store, Thirot, Himachal Pradesh 175139",
+    "area": "175139",
+    "latitude": 32.6605183,
+    "longitude": 76.77953459999999,
+    "place_id": "ChIJu2dg4zNBAzkRKgPNCmKgnC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2dg4zNBAzkRKgPNCmKgnC4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:14"
+  },
+  {
+    "business_name": "Sharma Traders",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "near Boy School, Mohalla Surara, Mohalla Sapri, Chamba, Himachal Pradesh 176310",
+    "area": "Mohalla Surara, Mohalla Sapri",
+    "latitude": 32.5540941,
+    "longitude": 76.1281722,
+    "place_id": "ChIJF-4koB69HDkRcrKqvY_vVl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-4koB69HDkRcrKqvY_vVl0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:15"
+  }
+]

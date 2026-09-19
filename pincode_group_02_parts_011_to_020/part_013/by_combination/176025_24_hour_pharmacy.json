@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Medical Agencies",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176025",
+    "phone_number": "+91 189 426 3273",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3J2V+87Q, Baijnath, Himachal Pradesh 176125",
+    "area": "176025",
+    "latitude": 32.0508266,
+    "longitude": 76.6432214,
+    "place_id": "ChIJddYF6Sq4BDkRgw0HLoBi6W0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddYF6Sq4BDkRgw0HLoBi6W0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:08"
+  },
+  {
+    "business_name": "Krishna medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group, Medical Center, Pharmacy",
+    "pincode": "176025",
+    "phone_number": "+91 98765 68670",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Main road, bhambotar, Talwara, Punjab 144224 VPO BHAMBOTAR, TEH, Mukerian, Talwara, Punjab 144224",
+    "area": "176025",
+    "latitude": 31.9126774,
+    "longitude": 75.9102217,
+    "place_id": "ChIJY4pEfSITGzkRqp8-ixG8Dlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4pEfSITGzkRqp8-ixG8Dlw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:09"
+  }
+]

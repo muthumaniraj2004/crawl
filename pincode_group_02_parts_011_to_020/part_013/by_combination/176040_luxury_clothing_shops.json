@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRK Traders",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176040",
+    "phone_number": "+91 4252 230 255",
+    "website": "http://www.srktraders.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MGMF+7RC, Kohta, Hamirpur, Himachal Pradesh 177001",
+    "area": "Kohta",
+    "latitude": 31.6831884,
+    "longitude": 76.5245212,
+    "place_id": "ChIJH5PKvkrUBDkRDjXCCTnOVFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5PKvkrUBDkRDjXCCTnOVFI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:28"
+  },
+  {
+    "business_name": "Gilkoto Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "176040",
+    "phone_number": "+91 85804 57709",
+    "website": "https://gilkoto.shop/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "vill, Changer, Salouni, Himachal Pradesh 176041",
+    "area": "vill",
+    "latitude": 31.555017099999997,
+    "longitude": 76.55315809999999,
+    "place_id": "ChIJeyrxQw0pBTkR3Hz2fP2YPNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyrxQw0pBTkR3Hz2fP2YPNA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:29"
+  }
+]

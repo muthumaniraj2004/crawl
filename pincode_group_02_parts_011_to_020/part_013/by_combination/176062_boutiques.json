@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Duke showroom",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176062",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 11,
+    "address": "Shabas chowk, Berachah, Palampur, Himachal Pradesh 176062",
+    "area": "Berachah",
+    "latitude": 32.1105732,
+    "longitude": 76.5360359,
+    "place_id": "ChIJHT5aYQCzBDkRWUrl0sCk74U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHT5aYQCzBDkRWUrl0sCk74U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:40:58"
+  },
+  {
+    "business_name": "Rangra Emporium",
+    "search_category": "Boutiques",
+    "primary_category": "Window treatment store",
+    "all_categories": "Window treatment store, Cosmetics store, Mattress store, Women's clothing store",
+    "pincode": "176062",
+    "phone_number": "+91 99062 78236",
+    "website": "https://jsdl.in/DT-99R97RDJS8J",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Baijnath Road, Banuri, Banuri Khas, Himachal Pradesh 176061",
+    "area": "176062",
+    "latitude": 32.0947621,
+    "longitude": 76.56987029999999,
+    "place_id": "ChIJpzg6QgOxBDkRBL4pWLd0WnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzg6QgOxBDkRBL4pWLd0WnM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:40:58"
+  }
+]

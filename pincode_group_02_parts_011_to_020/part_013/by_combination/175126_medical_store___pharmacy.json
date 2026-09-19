@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghepan Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "V4QR+5Q9, Shamshi, Bhuntar, Himachal Pradesh 175125",
+    "area": "175126",
+    "latitude": 31.887909699999998,
+    "longitude": 77.1419835,
+    "place_id": "ChIJLVVlkCb3BDkRPwXlEh5pvdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVVlkCb3BDkRPwXlEh5pvdI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:03:43"
+  },
+  {
+    "business_name": "Virender Medicos",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "virender medicos, tegubehar, Bhuntar, Himachal Pradesh 175126",
+    "area": "tegubehar",
+    "latitude": 31.8870787,
+    "longitude": 77.14641739999999,
+    "place_id": "ChIJIUgo8kn3BDkRa2O5JqAKOtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUgo8kn3BDkRa2O5JqAKOtM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:03:46"
+  }
+]

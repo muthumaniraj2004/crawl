@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fast food corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Momo restaurant",
+    "all_categories": "Momo restaurant",
+    "pincode": "175138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Devdhar Ward No 10, Dhalpur, Kullu, Himachal Pradesh 175101",
+    "area": "Dhalpur",
+    "latitude": 31.950303899999998,
+    "longitude": 77.1051586,
+    "place_id": "ChIJeW4rzBz3BDkRVVX7hL92_cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeW4rzBz3BDkRVVX7hL92_cw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:20:28"
+  },
+  {
+    "business_name": "Desi Bites Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe",
+    "pincode": "175138",
+    "phone_number": "+91 94640 27284",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "175125, Bhuntar Rd, near Vishal Mega Mart, Kullu, Bhuntar, Himachal Pradesh 175125",
+    "area": "175138",
+    "latitude": 31.886208099999998,
+    "longitude": 77.14539979999999,
+    "place_id": "ChIJjxf2H9P1BDkReOxAAwopk8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxf2H9P1BDkReOxAAwopk8E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:20:28"
+  }
+]

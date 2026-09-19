@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "uday General store (uk)",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Serviced accommodation, Tea store",
+    "pincode": "176040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "near Editor, Dangar, Himachal Pradesh 174023",
+    "area": "176040",
+    "latitude": 31.5182692,
+    "longitude": 76.6341217,
+    "place_id": "ChIJpU4JiDgvBTkRJZM0Wih9-3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpU4JiDgvBTkRJZM0Wih9-3s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:02"
+  },
+  {
+    "business_name": "THAKUR GENERAL STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176040",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thamani Upperli, Himachal Pradesh 176041",
+    "area": "176040",
+    "latitude": 31.5883133,
+    "longitude": 76.5714358,
+    "place_id": "ChIJA9O-MxopBTkRJbLhFAWhT-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9O-MxopBTkRJbLhFAWhT-c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:04"
+  }
+]

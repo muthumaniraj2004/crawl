@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhiz world Unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "176021",
+    "phone_number": "+91 80914 28725",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near petrol pump, Rehan, Himachal Pradesh 176022",
+    "area": "176021",
+    "latitude": 32.1664708,
+    "longitude": 75.90859189999999,
+    "place_id": "ChIJaSqw7RtlGzkRxRFBzkZLITE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSqw7RtlGzkRxRFBzkZLITE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:36:15"
+  },
+  {
+    "business_name": "Madula Matrix Professional Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "176021",
+    "phone_number": "+91 98169 41242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baroh, Himachal Pradesh 176054",
+    "area": "176021",
+    "latitude": 31.9975177,
+    "longitude": 76.3140346,
+    "place_id": "ChIJf-7RSQFJGzkR7uNI-0NniPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-7RSQFJGzkR7uNI-0NniPQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:36:16"
+  }
+]

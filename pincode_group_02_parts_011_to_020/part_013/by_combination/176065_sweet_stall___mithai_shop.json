@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi sweets shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176065",
+    "phone_number": "+91 94181 24887",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 24,
+    "address": "Sector 3, Bilaspur, Himachal Pradesh 174001",
+    "area": "Sector 3",
+    "latitude": 31.343892999999998,
+    "longitude": 76.762528,
+    "place_id": "ChIJE5kSrPg_BTkRJbLtv_LVAOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5kSrPg_BTkRJbLtv_LVAOI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:13"
+  },
+  {
+    "business_name": "Sood Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "176065",
+    "phone_number": "+91 86288 59765",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sood Sweets, Dharwal Rd, Kangra, Dhira, Himachal Pradesh 176101",
+    "area": "176065",
+    "latitude": 32.0110879,
+    "longitude": 76.4506506,
+    "place_id": "ChIJxdQ5-oxLGzkRDkgu6QAqYm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdQ5-oxLGzkRDkgu6QAqYm4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Study Level",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Studying center",
+    "all_categories": "Studying center",
+    "pincode": "176048",
+    "phone_number": "N/A",
+    "website": "https://mystudylevel.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "vpo, Hatwar, Himachal Pradesh 174028",
+    "area": "Hatwar",
+    "latitude": 31.573133199999997,
+    "longitude": 76.6975739,
+    "place_id": "ChIJ4dyjnTInBTkRIcDSR8nry3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dyjnTInBTkRIcDSR8nry3s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:18:03"
+  },
+  {
+    "business_name": "CAD Training Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "176048",
+    "phone_number": "+91 91158 92287",
+    "website": "http://www.cadpanchkula.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SCO 40, Second Floor, Amartex Rd, Sector 11, Panchkula, Haryana 134108",
+    "area": "Sector 11",
+    "latitude": 30.686695999999998,
+    "longitude": 76.849356,
+    "place_id": "ChIJE6f_pWCTDzkRjXdHCBkfki8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6f_pWCTDzkRjXdHCBkfki8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:18:06"
+  }
+]

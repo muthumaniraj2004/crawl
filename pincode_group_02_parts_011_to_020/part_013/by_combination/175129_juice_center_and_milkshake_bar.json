@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JUICE BAR",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "175129",
+    "phone_number": "+91 80191 38553",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Narsapur X Rd, Narsapur, Telangana 502313",
+    "area": "175129",
+    "latitude": 17.7418047,
+    "longitude": 78.2817448,
+    "place_id": "ChIJl4WqNZsLzDsRfm3N8IoarYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4WqNZsLzDsRfm3N8IoarYI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:07:14"
+  },
+  {
+    "business_name": "Makers Of Milkshakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "175129",
+    "phone_number": "+91 97043 59597",
+    "website": "http://makersofmilkshakes.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "134, Rajiv Rahadari, New Vasavi Nagar Colony, Kousalya Enclave, Karkhana, Secunderabad, Telangana 500009",
+    "area": "New Vasavi Nagar Colony, Kousalya Enclave, Karkhana",
+    "latitude": 17.464624399999998,
+    "longitude": 78.50303269999999,
+    "place_id": "ChIJO3dzr1yayzsRcH3xh2QgA7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3dzr1yayzsRcH3xh2QgA7Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:07:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshay fashion club",
+    "search_category": "Malls",
+    "primary_category": "Clothes market",
+    "all_categories": "Clothes market",
+    "pincode": "176051",
+    "phone_number": "+91 62307 13430",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH 27, Raja Ka Talab, Bari, Himachal Pradesh 176051",
+    "area": "176051",
+    "latitude": 32.213545499999995,
+    "longitude": 75.91422159999999,
+    "place_id": "ChIJ6eoyzWNjGzkRcObZnypgVqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eoyzWNjGzkRcObZnypgVqs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:22:12"
+  },
+  {
+    "business_name": "Nikhil Marbles",
+    "search_category": "Malls",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176051",
+    "phone_number": "+91 94181 42732",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "6W77+X54, Raja Ka Talab, Nerna, Himachal Pradesh 176051",
+    "area": "176051",
+    "latitude": 32.214875299999996,
+    "longitude": 75.9129456,
+    "place_id": "ChIJb4F5pL9jGzkRp0RAlvHfHxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4F5pL9jGzkRp0RAlvHfHxc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:22:13"
+  }
+]

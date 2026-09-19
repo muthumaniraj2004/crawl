@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peace Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bhagsunag Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2389805,
+    "longitude": 76.32523479999999,
+    "place_id": "ChIJweo47yxRGzkROXwAnT2JW9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJweo47yxRGzkROXwAnT2JW9E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:42"
+  },
+  {
+    "business_name": "Tunna's Book Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176031",
+    "phone_number": "+91 76786 83162",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 249,
+    "address": "Mohali, Sokani da Kot, Khanyara Rd, Dharamshala, Himachal Pradesh 176218",
+    "area": "176031",
+    "latitude": 32.2051456,
+    "longitude": 76.3694725,
+    "place_id": "ChIJ51D2CTRTGzkRjcwMWKBiyW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51D2CTRTGzkRjcwMWKBiyW8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ananya beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HJ62+WW4, road, near pandwin, Mair, Himachal Pradesh 176042",
+    "area": "176042",
+    "latitude": 31.562255999999998,
+    "longitude": 76.6023187,
+    "place_id": "ChIJbW8ON20pBTkRAf0PEYQhvm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbW8ON20pBTkRAf0PEYQhvm0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:08:38"
+  },
+  {
+    "business_name": "Galaxy Beauty Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "176042",
+    "phone_number": "+91 98050 59081",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nand Lal, Dadhol, Dangar, Himachal Pradesh 174023",
+    "area": "176042",
+    "latitude": 31.5195308,
+    "longitude": 76.6320396,
+    "place_id": "ChIJ9ZOn2FQvBTkRobPzkBMzKO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZOn2FQvBTkRobPzkBMzKO0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:08:39"
+  }
+]

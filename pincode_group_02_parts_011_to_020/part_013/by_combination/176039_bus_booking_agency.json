@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahtalai",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "176039",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "FG29+WGF, Baba Balak Nath Mandir Rd, Shahtalai, Talai, Himachal Pradesh 174030",
+    "area": "176039",
+    "latitude": 31.4523008,
+    "longitude": 76.5187895,
+    "place_id": "ChIJ5wiHYa4zBTkR957fDo8zB6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wiHYa4zBTkR957fDo8zB6s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:57"
+  },
+  {
+    "business_name": "Jasvinder Tours and Travells",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tourist information center",
+    "all_categories": "Tourist information center",
+    "pincode": "176039",
+    "phone_number": "+91 82787 51207",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "post office, Village rappar, tehshil, barsar, Nain, Himachal Pradesh 176039",
+    "area": "tehshil",
+    "latitude": 31.4610824,
+    "longitude": 76.5314179,
+    "place_id": "ChIJvejx-XstBTkRytN2iOcJhPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvejx-XstBTkRytN2iOcJhPw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:57"
+  }
+]

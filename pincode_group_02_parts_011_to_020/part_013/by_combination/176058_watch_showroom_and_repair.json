@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta watch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "176058",
+    "phone_number": "+91 89689 75001",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Bus Stand, Hajipur, Punjab 144221",
+    "area": "176058",
+    "latitude": 31.9742394,
+    "longitude": 75.7524725,
+    "place_id": "ChIJFyT2ryZ1GzkRjAiRDsJnBYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFyT2ryZ1GzkRjAiRDsJnBYc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:43"
+  },
+  {
+    "business_name": "Happy Electronics & Gift Centre",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "176058",
+    "phone_number": "+91 94648 47758",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 29,
+    "address": "MAIN MARKET, POST OFFICE CHOWK, Power Colony, Hajipur, Sandhwal, Punjab 144221",
+    "area": "Power Colony",
+    "latitude": 31.974647599999997,
+    "longitude": 75.7370823,
+    "place_id": "ChIJM0RfKLZ1GzkRU37SPp2DINU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0RfKLZ1GzkRU37SPp2DINU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:43"
+  }
+]

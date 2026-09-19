@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukesh car washing point",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "176045",
+    "phone_number": "+91 83519 11532",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "post office, vill sasan, teh, Bhareri, bhoranj, Himachal Pradesh 177024",
+    "area": "176045",
+    "latitude": 31.650788799999997,
+    "longitude": 76.679962,
+    "place_id": "ChIJn7Um8vUnBTkRs5Jb-KHPL1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7Um8vUnBTkRs5Jb-KHPL1g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:46"
+  },
+  {
+    "business_name": "Chandel Car Washing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "176045",
+    "phone_number": "+91 81461 79792",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MJHP+7WG, Kunah Khadd Bridge, Himachal Pradesh 177025",
+    "area": "176045",
+    "latitude": 31.678177599999998,
+    "longitude": 76.6373393,
+    "place_id": "ChIJq40yDADXBDkR51Uw8QOPRi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq40yDADXBDkR51Uw8QOPRi4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:49"
+  }
+]

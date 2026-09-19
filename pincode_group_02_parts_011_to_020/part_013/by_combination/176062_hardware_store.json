@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176062",
+    "phone_number": "+91 94182 22539",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kalholi, Palampur, Kandbari, Himachal Pradesh 176061",
+    "area": "Kalholi",
+    "latitude": 32.1111234,
+    "longitude": 76.583844,
+    "place_id": "ChIJ4dryziKxBDkRVYVsML1E17o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dryziKxBDkRVYVsML1E17o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:41:20"
+  },
+  {
+    "business_name": "Guru hardware’s & trader's",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176062",
+    "phone_number": "+91 86268 47492",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sagoor Khas, Baijnath, Himachal Pradesh 176063",
+    "area": "176062",
+    "latitude": 32.0265045,
+    "longitude": 76.6126641,
+    "place_id": "ChIJp8hkIjW3BDkRw_t-gB84Nw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8hkIjW3BDkRw_t-gB84Nw0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:41:20"
+  }
+]

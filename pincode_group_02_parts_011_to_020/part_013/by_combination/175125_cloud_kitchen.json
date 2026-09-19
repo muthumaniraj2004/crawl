@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CLOUDS KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "SPRINGDALE TOWER-2, Zirakpur, Punjab 140603",
+    "area": "175125",
+    "latitude": 30.636355299999998,
+    "longitude": 76.8098684,
+    "place_id": "ChIJuc6ogF3rDzkRTuMwAzvPkh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuc6ogF3rDzkRTuMwAzvPkh4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:38"
+  },
+  {
+    "business_name": "Hotel Mid Orchard Kasol - Riverside",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "175125",
+    "phone_number": "+91 93179 00124",
+    "website": "http://www.hotelmidorchardkasol.in/",
+    "rating": 4.8,
+    "reviews_count": 565,
+    "address": "beside Whoopers Hostel, Manikaran Rd, Village:, Kasol, Sumaropa, Himachal Pradesh 175105",
+    "area": "Village:",
+    "latitude": 32.0065115,
+    "longitude": 77.2785962,
+    "place_id": "ChIJ1bIo65hfBDkR6rbb9vUDTWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bIo65hfBDkR6rbb9vUDTWQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:39"
+  }
+]

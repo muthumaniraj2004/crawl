@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma General Store",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "176067",
+    "phone_number": "+91 98165 60184",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3G5V+XMW, Holsu, Himachal Pradesh 176067",
+    "area": "176067",
+    "latitude": 32.0599858,
+    "longitude": 76.544212,
+    "place_id": "ChIJ76gSaiG0BDkRHSCzcvK2l5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76gSaiG0BDkRHSCzcvK2l5A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:49:53"
+  },
+  {
+    "business_name": "Madan General store bari",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176067",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 25,
+    "address": "Bari Kalan, Himachal Pradesh 174023",
+    "area": "176067",
+    "latitude": 31.509006199999998,
+    "longitude": 76.6521877,
+    "place_id": "ChIJ342SMgIlBTkRnzebpbzn3sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ342SMgIlBTkRnzebpbzn3sw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:49:56"
+  }
+]

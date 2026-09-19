@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hoshiarpur Automobiles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "176025",
+    "phone_number": "+91 95010 84500",
+    "website": "http://www.hoshiarpurautomobiles.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dam Road, Talwara, Punjab 144216",
+    "area": "176025",
+    "latitude": 31.930290999999997,
+    "longitude": 75.893973,
+    "place_id": "ChIJNfQ3CKxyGzkRa2lxWAznF7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfQ3CKxyGzkRa2lxWAznF7g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:19"
+  },
+  {
+    "business_name": "Verma Motors Pvt Ltd, Talwara",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto bodywork mechanic",
+    "pincode": "176025",
+    "phone_number": "+91 97815 36106",
+    "website": "http://verma.hyundaimotor.in/",
+    "rating": 4.8,
+    "reviews_count": 575,
+    "address": "Talwara Township, Terrace Road, Talwara, Punjab 144216",
+    "area": "176025",
+    "latitude": 31.938770299999998,
+    "longitude": 75.9010756,
+    "place_id": "ChIJ1U6x3K1yGzkRIc_DViXFQrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1U6x3K1yGzkRIc_DViXFQrk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:23"
+  }
+]

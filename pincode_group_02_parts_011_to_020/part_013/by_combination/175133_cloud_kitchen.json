@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "175133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Street no 3, 33 Feet Rd, Ram Nagar, Mundian Kalan, Ludhiana, Punjab 141015",
+    "area": "Ram Nagar, Mundian Kalan",
+    "latitude": 30.9008042,
+    "longitude": 75.928862,
+    "place_id": "ChIJRbiWcJidGjkRakoiw_hQ3l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbiWcJidGjkRakoiw_hQ3l4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:47"
+  },
+  {
+    "business_name": "S.S.R Cloud Kitchen And Corporate Tiffin services",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175133",
+    "phone_number": "N/A",
+    "website": "https://wa.me/message/6FRPV5UIKZRMN1",
+    "rating": 5,
+    "reviews_count": 55,
+    "address": "5th Main Rd, Kamadhenu Nagar, B Narayanapura, Mahadevapura, Bengaluru, Karnataka 560016",
+    "area": "Kamadhenu Nagar, B Narayanapura, Mahadevapura",
+    "latitude": 12.997406499999999,
+    "longitude": 77.6842559,
+    "place_id": "ChIJ2Xd-1q0RrjsR5e7zdhJaas0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Xd-1q0RrjsR5e7zdhJaas0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpine Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175128",
+    "phone_number": "+91 73476 31103",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5852,
+    "address": "NH 21, Bharatgarh, Punjab 140113",
+    "area": "175128",
+    "latitude": 31.082443899999998,
+    "longitude": 76.6027379,
+    "place_id": "ChIJDZcWu0lQBTkRgtfT66LsK_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZcWu0lQBTkRgtfT66LsK_8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:05:25"
+  },
+  {
+    "business_name": "Indian Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "175128",
+    "phone_number": "+91 91754 72923",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 983,
+    "address": "Road, next to darul-ulm, Ardhapur, Maharashtra 431704",
+    "area": "175128",
+    "latitude": 19.2679877,
+    "longitude": 77.3685579,
+    "place_id": "ChIJhVKhuYfQ0TsRGjYOBePJ-6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVKhuYfQ0TsRGjYOBePJ-6U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:05:25"
+  }
+]

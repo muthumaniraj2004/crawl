@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JM EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Exporter",
+    "pincode": "176033",
+    "phone_number": "+91 96553 00101",
+    "website": "http://www.jmexim.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "11-1-42/H, karumbu salai road, Nilakottai, Tamil Nadu 624208",
+    "area": "176033",
+    "latitude": 10.165497,
+    "longitude": 77.8524505,
+    "place_id": "ChIJ3-YbZ-9NBzsRGdMoJgELykE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-YbZ-9NBzsRGdMoJgELykE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:44"
+  },
+  {
+    "business_name": "Model Exim pvt ltd",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "176033",
+    "phone_number": "N/A",
+    "website": "http://modelexim.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Banther, Unnao, Banthar, Uttar Pradesh 209862",
+    "area": "Banther",
+    "latitude": 26.4880754,
+    "longitude": 80.4662743,
+    "place_id": "ChIJyXr0I70VnDkR2th-HB3xLnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXr0I70VnDkR2th-HB3xLnk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:44"
+  }
+]

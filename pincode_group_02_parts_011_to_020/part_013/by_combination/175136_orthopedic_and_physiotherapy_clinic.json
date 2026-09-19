@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEV PHYSIOTHERAPY CLINIC",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Osteopath",
+    "pincode": "175136",
+    "phone_number": "+91 99946 69354",
+    "website": "http://www.devphysio.in/",
+    "rating": 5,
+    "reviews_count": 1221,
+    "address": "04222579909, No: 5A NSR complex, Trichy Rd, opp. to Syndicate bank, Chinthamanipudur, Coimbatore, Tamil Nadu 641103",
+    "area": "Chinthamanipudur",
+    "latitude": 11.0078748,
+    "longitude": 77.0744082,
+    "place_id": "ChIJqTUWBfJWqDsRhDqr1M1JG5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTUWBfJWqDsRhDqr1M1JG5c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:18:52"
+  },
+  {
+    "business_name": "Amit Orthopaedic Center",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Orthopedic clinic, Orthopedic surgeon, Physiotherapist",
+    "pincode": "175136",
+    "phone_number": "+91 83808 50000",
+    "website": "https://www.aocpandharpur.com/",
+    "rating": 4.9,
+    "reviews_count": 168,
+    "address": "4776/108, near Uma College Road, Datta Nagar, Navin Karad Naka, Pandharpur, Maharashtra 413304",
+    "area": "Datta Nagar, Navin Karad Naka",
+    "latitude": 17.6703126,
+    "longitude": 75.3152808,
+    "place_id": "ChIJeU5E4yIYxDsR3q0uMa7t580",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeU5E4yIYxDsR3q0uMa7t580",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:18:52"
+  }
+]

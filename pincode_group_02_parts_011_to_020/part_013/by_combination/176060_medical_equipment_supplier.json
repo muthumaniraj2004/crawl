@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narang Medical Limited (Head Office)",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer, Corporate office, Exporter, Importer, Manufacturer, Wholesaler",
+    "pincode": "176060",
+    "phone_number": "+91 11 4555 4000",
+    "website": "https://www.narang.com/",
+    "rating": 4.8,
+    "reviews_count": 966,
+    "address": "Narang Tower, T-1/73-74, 1, Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri, New Delhi, Delhi, 110083",
+    "area": "Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri",
+    "latitude": 28.6864413,
+    "longitude": 77.0913427,
+    "place_id": "ChIJv_lruiQDDTkR6XvV99wdsmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_lruiQDDTkR6XvV99wdsmg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:37:25"
+  },
+  {
+    "business_name": "Narang Medical Limited (Factory)",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer, Manufacturer",
+    "pincode": "176060",
+    "phone_number": "+91 11 4555 4000",
+    "website": "http://www.orthopaedic-implants.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "D4, Sector A2, trans delhi signature city, Uttar Pradesh 201103",
+    "area": "Trans Delhi Signature City",
+    "latitude": 28.786382999999997,
+    "longitude": 77.26669299999999,
+    "place_id": "ChIJTTJZBj__DDkRehwW8KsJC8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTJZBj__DDkRehwW8KsJC8I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:37:25"
+  }
+]

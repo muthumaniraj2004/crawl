@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurvedic Hospital",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "175132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "H2CM+QCQ, Keylong, Himachal Pradesh 175132",
+    "area": "175132",
+    "latitude": 32.5719989,
+    "longitude": 77.0334389,
+    "place_id": "ChIJh5zUkpx7AzkRMueCZx94Bh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5zUkpx7AzkRMueCZx94Bh0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:13:10"
+  },
+  {
+    "business_name": "Ayurvedic Medicare",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "175132",
+    "phone_number": "+91 98823 50555",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dist, Hikkim, Dhar Lung Wooh, Himachal Pradesh 172114",
+    "area": "175132",
+    "latitude": 32.2470019,
+    "longitude": 78.09692559999999,
+    "place_id": "ChIJAQAAVKakBjkRuHpT3z1bVXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAVKakBjkRuHpT3z1bVXQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:13:10"
+  }
+]

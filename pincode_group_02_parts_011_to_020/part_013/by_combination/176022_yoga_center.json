@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanumant fitness club",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176022",
+    "phone_number": "+91 87518 70005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bassa Pranjal Rd, Gangath, Kharol, Himachal Pradesh 176204",
+    "area": "176022",
+    "latitude": 32.2215792,
+    "longitude": 75.8351947,
+    "place_id": "ChIJ4aRUVal9GzkR8MrMdbgELw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aRUVal9GzkR8MrMdbgELw0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:41"
+  },
+  {
+    "business_name": "Brahma Kumaris Rehan",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "176022",
+    "phone_number": "+91 89883 03433",
+    "website": "http://brahmakumaris.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "WARD NO: 8, OPP: POST OFFICE, H NO: 271, near GOVT. PRIMARY GIRLS SCHOOL, Dist:, Rehan, Himachal Pradesh 176022",
+    "area": "Dist:",
+    "latitude": 32.162200999999996,
+    "longitude": 75.9083192,
+    "place_id": "ChIJzX5JNM5kGzkRoAf1fjEbI-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzX5JNM5kGzkRoAf1fjEbI-s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kross Road Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176033",
+    "phone_number": "+91 80913 48924",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 593,
+    "address": "Vill, Nandpur, Una, Himachal Pradesh 177211",
+    "area": "Vill",
+    "latitude": 31.611963499999998,
+    "longitude": 76.1414589,
+    "place_id": "ChIJ5zgnP7chGzkRxyoA_wickd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zgnP7chGzkRxyoA_wickd4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:14"
+  },
+  {
+    "business_name": "Food Bazar",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Bakery and Cake Shop, Breakfast restaurant, Chinese restaurant, Chinese takeaway, Continental restaurant, Family restaurant, Indian restaurant, Indian takeaway",
+    "pincode": "176033",
+    "phone_number": "+91 181 223 8434",
+    "website": "https://cgfoodbazar.com/",
+    "rating": 4.4,
+    "reviews_count": 12296,
+    "address": "At Madan Flour Mills Compound, Ladowali Rd, Fentonganj, Jalandhar, Punjab 144001",
+    "area": "Fentonganj",
+    "latitude": 31.3267712,
+    "longitude": 75.5885697,
+    "place_id": "ChIJ3QoygURaGjkR3w9yxxVtYgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3QoygURaGjkR3w9yxxVtYgI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:15"
+  }
+]

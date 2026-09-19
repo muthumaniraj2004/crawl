@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panjabi Junction",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176041",
+    "phone_number": "+91 86289 01010",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shimla Rode, Bhota, Himachal Pradesh 176041",
+    "area": "176041",
+    "latitude": 31.6037948,
+    "longitude": 76.5723963,
+    "place_id": "ChIJsw7JQVgpBTkRpoGJJUpRrhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsw7JQVgpBTkRpoGJJUpRrhk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:06:02"
+  },
+  {
+    "business_name": "Sharma dhaba",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "176041",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JH59+W25, Bhota, Himachal Pradesh 176041",
+    "area": "176041",
+    "latitude": 31.6097672,
+    "longitude": 76.5676071,
+    "place_id": "ChIJD6MCBAApBTkR-rtj181n6XM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6MCBAApBTkR-rtj181n6XM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:06:02"
+  }
+]

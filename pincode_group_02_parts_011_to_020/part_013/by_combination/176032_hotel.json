@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Rana regency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bar, Bed & breakfast, Restaurant",
+    "pincode": "176032",
+    "phone_number": "+91 90520 59000",
+    "website": "http://www.hotelranaregency.com/",
+    "rating": 4.8,
+    "reviews_count": 92,
+    "address": "TEHSIL RAKKAR, Pirsaluhi, Peer, Himachal Pradesh 177034",
+    "area": "176032",
+    "latitude": 31.758706999999998,
+    "longitude": 76.2997525,
+    "place_id": "ChIJhy4gY60vGzkR7H1G82KStos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhy4gY60vGzkR7H1G82KStos",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:23"
+  },
+  {
+    "business_name": "Hotel VANDAN HOMESTAY(VIRASAT RESIDENCY)",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "176032",
+    "phone_number": "+91 98170 08114",
+    "website": "http://vandanhomestay.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vill. Shoun P.O. Jalari, Teh, to, SH 39, Nadaun, Himachal Pradesh 177042",
+    "area": "176032",
+    "latitude": 31.7660266,
+    "longitude": 76.37250949999999,
+    "place_id": "ChIJ_bIQYGEtGzkR_60iKEc11Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bIQYGEtGzkR_60iKEc11Q8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:25"
+  }
+]

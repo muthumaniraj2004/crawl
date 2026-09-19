@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE WELLNESS GYM CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "175139",
+    "phone_number": "+91 95699 99902",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "G625+2V9, Kala Amb, Himachal Pradesh 173030",
+    "area": "175139",
+    "latitude": 30.5000374,
+    "longitude": 77.2097259,
+    "place_id": "ChIJ2arzGkwJDzkRFLgd5SCd7ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2arzGkwJDzkRFLgd5SCd7ck",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:44"
+  },
+  {
+    "business_name": "puri fitness world",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "175139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 68,
+    "address": "MGV7+PM3, Hiranagar, Himachal Pradesh 177001",
+    "area": "Hiranagar",
+    "latitude": 31.6942511,
+    "longitude": 76.51418,
+    "place_id": "ChIJkfAsM0XUBDkRYZcDzvSPp1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfAsM0XUBDkRYZcDzvSPp1U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:47"
+  }
+]

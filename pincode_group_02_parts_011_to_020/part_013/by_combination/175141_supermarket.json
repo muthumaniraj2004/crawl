@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KC Confectionery",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175141",
+    "phone_number": "+91 97362 13686",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Akhada Bazar, Kullu, Himachal Pradesh 175121",
+    "area": "175141",
+    "latitude": 31.8174966,
+    "longitude": 77.17336639999999,
+    "place_id": "ChIJKRFp7uj5BDkRRq8I6VkumFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRFp7uj5BDkRRq8I6VkumFg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:25:55"
+  },
+  {
+    "business_name": "Amibhu Corner",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175141",
+    "phone_number": "+91 82199 49827",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No 2, Bus Stand, Kullu, Himachal Pradesh 175121",
+    "area": "175141",
+    "latitude": 31.8205466,
+    "longitude": 77.17703329999999,
+    "place_id": "ChIJgxM9QWf5BDkRUQavEI434H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxM9QWf5BDkRUQavEI434H0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:25:55"
+  }
+]

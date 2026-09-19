@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Main Point Restaurant & Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176057",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "JEJU Dharamshala, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2371274,
+    "longitude": 76.3241005,
+    "place_id": "ChIJUdiX4lZRGzkR-18qq_yXPEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdiX4lZRGzkR-18qq_yXPEk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:31:37"
+  },
+  {
+    "business_name": "Mr.Potato Jalandhar",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market, Dairy store, Grocery delivery service",
+    "pincode": "176057",
+    "phone_number": "+91 94642 31997",
+    "website": "https://wa.me/c/919464231997",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Jail Rd, Near Old Sabzi Mandi Chowk, Fentonganj, Jalandhar, Punjab 144008",
+    "area": "Near Old Sabzi Mandi Chowk, Fentonganj",
+    "latitude": 31.3332116,
+    "longitude": 75.5701397,
+    "place_id": "ChIJ9484rDVbGjkRK-NPr4b3etk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9484rDVbGjkRK-NPr4b3etk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:31:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "3S Services",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Hospital equipment and supplies, Hospital department, Medical supply store, Oxygen equipment supplier, Surgical Products Wholesaler",
+    "pincode": "176033",
+    "phone_number": "+91 98936 70494",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Napier Town, Jabalpur, Madhya Pradesh 482002",
+    "area": "Napier Town",
+    "latitude": 23.1632473,
+    "longitude": 79.9324795,
+    "place_id": "ChIJMaGfJ5SvgTkRdqO_cyDC6hg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaGfJ5SvgTkRdqO_cyDC6hg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:38"
+  },
+  {
+    "business_name": "Shivam Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Anand Complex, opp. Khalsa Gurdwara, Cantonment Area, Firozpur, Ferozepur Cantt, Punjab 152001",
+    "area": "Cantonment Area",
+    "latitude": 30.9259913,
+    "longitude": 74.6165458,
+    "place_id": "ChIJGcNxBkvoGTkRUr_U38YzvXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcNxBkvoGTkRUr_U38YzvXk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:38"
+  }
+]

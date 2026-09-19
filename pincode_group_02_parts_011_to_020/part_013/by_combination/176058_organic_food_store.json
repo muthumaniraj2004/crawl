@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditi Enterprises Talwara",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Ayurvedic clinic, Confectionery wholesaler, Dairy Products Supplier, Dry Fruit Store, Grocery delivery service, Store, Tea Wholesaler",
+    "pincode": "176058",
+    "phone_number": "+91 94643 17152",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "SH 25, Sathwan, Punjab 144222",
+    "area": "176058",
+    "latitude": 31.956613599999997,
+    "longitude": 75.8222102,
+    "place_id": "ChIJ_RurLZ1zGzkRFacTCoxbIWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RurLZ1zGzkRFacTCoxbIWA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:19"
+  },
+  {
+    "business_name": "Forever living product",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Service establishment, Health and beauty shop",
+    "pincode": "176058",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Forever living product, 176058, India",
+    "area": "176058",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJxTJEgqxzGzkRwGOYsPfynbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTJEgqxzGzkRwGOYsPfynbc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:33:21"
+  }
+]

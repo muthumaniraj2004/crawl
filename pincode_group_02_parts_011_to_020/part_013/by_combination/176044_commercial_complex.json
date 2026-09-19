@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pakka Bharo",
+    "search_category": "Commercial Complex",
+    "primary_category": "Bus stop",
+    "all_categories": "Bus stop",
+    "pincode": "176044",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH70, Himachal Pradesh 177001",
+    "area": "176044",
+    "latitude": 31.6965102,
+    "longitude": 76.500603,
+    "place_id": "ChIJizb82PXUBDkRGp0WuojVWy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizb82PXUBDkRGp0WuojVWy0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:07"
+  },
+  {
+    "business_name": "Surender Trading Company",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176044",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JM39+C5V, Himachal Pradesh 176044",
+    "area": "176044",
+    "latitude": 31.603349899999998,
+    "longitude": 76.6679145,
+    "place_id": "ChIJxbp1Ly4nBTkRsvDKoiucNaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbp1Ly4nBTkRsvDKoiucNaQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:07"
+  }
+]

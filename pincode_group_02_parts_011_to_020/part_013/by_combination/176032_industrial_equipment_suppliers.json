@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawna enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "176032",
+    "phone_number": "+91 98166 03676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Tal, P.O, VILL, Buli, Bhatawan, Himachal Pradesh 176098",
+    "area": "P.O, VILL",
+    "latitude": 31.804103599999998,
+    "longitude": 76.4478109,
+    "place_id": "ChIJC_TYoRAtGzkRT8-cNk-96-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_TYoRAtGzkRT8-cNk-96-8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:53"
+  },
+  {
+    "business_name": "Gopal Constructions and Supply",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier",
+    "pincode": "176032",
+    "phone_number": "+91 83602 79055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Bhumpal Bus Stop, Tehsil, Sudhial, Nadaun, Himachal Pradesh 177033",
+    "area": "Tehsil",
+    "latitude": 31.778503399999998,
+    "longitude": 76.34445869999999,
+    "place_id": "ChIJ091d28QvGzkRtbY7D8ddB1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ091d28QvGzkRtbY7D8ddB1o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:56"
+  }
+]

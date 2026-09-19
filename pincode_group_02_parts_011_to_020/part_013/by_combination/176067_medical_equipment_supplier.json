@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EL-MED Imaging",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "176067",
+    "phone_number": "+91 97080 38152",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "MIG-B/77, Housing Colony, Sardar Patel Nagar, Dhanbad, Jharkhand 826007",
+    "area": "Housing Colony, Sardar Patel Nagar",
+    "latitude": 23.804784299999998,
+    "longitude": 86.43792479999999,
+    "place_id": "ChIJxxCTSqW99jkR-IRWqPQGJsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxCTSqW99jkR-IRWqPQGJsY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:50:21"
+  },
+  {
+    "business_name": "Vanchinad Medicals And Surgicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center, Surgical supply store",
+    "pincode": "176067",
+    "phone_number": "+91 98460 27000",
+    "website": "http://www.vanchinadsurgicals.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "opp:medical college post office, Murinjapalam, Thiruvananthapuram, Keralam 695011",
+    "area": "Murinjapalam",
+    "latitude": 8.5208906,
+    "longitude": 76.9294115,
+    "place_id": "ChIJGQ35oOS7BTsRdSxjfT2i-tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQ35oOS7BTsRdSxjfT2i-tg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:50:21"
+  }
+]

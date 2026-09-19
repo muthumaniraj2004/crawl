@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IT World",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer security service, Computer service, Internet cafe",
+    "pincode": "176029",
+    "phone_number": "+91 88941 22111",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ward No-4, Massal Road (Engineering College Road, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176029",
+    "latitude": 32.106638499999995,
+    "longitude": 76.3857395,
+    "place_id": "ChIJgdBKk_hNGzkRdZQ0b99g_kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdBKk_hNGzkRdZQ0b99g_kw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:49:08"
+  },
+  {
+    "business_name": "IICT-Computer Institute And Lokmitra massal",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer consultant",
+    "all_categories": "Computer consultant",
+    "pincode": "176029",
+    "phone_number": "+91 94184 10406",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Opposite Govt senior secondary boys school, old bus stand, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176029",
+    "latitude": 32.1073057,
+    "longitude": 76.3783785,
+    "place_id": "ChIJCUXz2TNMGzkRFsmgvF-dQ6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUXz2TNMGzkRFsmgvF-dQ6s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:49:09"
+  }
+]

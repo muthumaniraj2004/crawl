@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Complete Motor Care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "176043",
+    "phone_number": "+91 82193 46740",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 18,
+    "address": "Shop Number 1, VPO, Ghandalwin, Samlah, Himachal Pradesh 174027",
+    "area": "VPO",
+    "latitude": 31.574138599999998,
+    "longitude": 76.65270269999999,
+    "place_id": "ChIJb-H-aOAnBTkRtq4MYLyqxac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-H-aOAnBTkRtq4MYLyqxac",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:10:10"
+  },
+  {
+    "business_name": "Ranvir car washing point",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "176043",
+    "phone_number": "+91 98170 41504",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Bahli, Chauk, Himachal Pradesh 176043",
+    "area": "176043",
+    "latitude": 31.583876999999998,
+    "longitude": 76.6489682,
+    "place_id": "ChIJ0aii4mwnBTkRfv4fGSpBaQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0aii4mwnBTkRfv4fGSpBaQ8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:10:10"
+  }
+]

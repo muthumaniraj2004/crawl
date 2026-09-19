@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Posh Palette",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Dress store, Western apparel store, Women's clothing store",
+    "pincode": "176047",
+    "phone_number": "N/A",
+    "website": "http://linktr.ee/poshpalettePalampur",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No.11, landmark Hub, near New LIC Building, Ghuggar, Palampur, Himachal Pradesh 176061",
+    "area": "Ghuggar",
+    "latitude": 32.1070175,
+    "longitude": 76.5337856,
+    "place_id": "ChIJTxoxbQCzBDkRVIdkTcHiTO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxoxbQCzBDkRVIdkTcHiTO0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:21"
+  },
+  {
+    "business_name": "B STYLE FASHION STORE",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176047",
+    "phone_number": "+91 88944 59800",
+    "website": "http://www.facebook.com/bhatiastyle",
+    "rating": 4.2,
+    "reviews_count": 31,
+    "address": "Palampur Rd, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1081073,
+    "longitude": 76.5354408,
+    "place_id": "ChIJs-JjfO6zBDkRqSa6mS2ExXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-JjfO6zBDkRqSa6mS2ExXA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMR Enterprises",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "176002",
+    "phone_number": "+91 98052 71110",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tanda Medical College Rd, Sadarpur, Himachal Pradesh 176002",
+    "area": "176002",
+    "latitude": 32.097659,
+    "longitude": 76.3238856,
+    "place_id": "ChIJtdF1DntPGzkRKNk3UEvyxHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdF1DntPGzkRKNk3UEvyxHg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:34:00"
+  },
+  {
+    "business_name": "Ahmedabad Surgical Company",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "176002",
+    "phone_number": "+91 98240 36931",
+    "website": "N/A",
+    "rating": 2.2,
+    "reviews_count": 13,
+    "address": "Shop No. 5, Tulip Corpo's, Paldi Rd, opposite VS Hospital Neonatal Intensive Care Unit, Paldi, Ahmedabad, Gujarat 380006",
+    "area": "Madalpur Gam, Paldi",
+    "latitude": 23.0207241,
+    "longitude": 72.5700584,
+    "place_id": "ChIJYxiJyFWEXjkRJtVxaKiXUjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxiJyFWEXjkRJtVxaKiXUjs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:34:02"
+  }
+]

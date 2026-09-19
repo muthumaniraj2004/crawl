@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MG FOOD (The Marigold Kitchen)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Coffee shop, Dhaba, Food court, Lunch restaurant, Tea store, Restaurant",
+    "pincode": "175125",
+    "phone_number": "+91 70180 63716",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "MG Food, Parla Bhuntar, Bhuntar, Shillihar, Himachal Pradesh 175125",
+    "area": "Parla Bhuntar",
+    "latitude": 31.886467999999997,
+    "longitude": 77.1546329,
+    "place_id": "ChIJGYBNVav3BDkRvM4d13DCRRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYBNVav3BDkRvM4d13DCRRY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:33"
+  },
+  {
+    "business_name": "Chaat Puchka, Bhunter (Pure Veg)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "http://www.chaatpuchka.net/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Hathithan, Bhuntar, Himachal Pradesh 175125",
+    "area": "Hathithan",
+    "latitude": 31.8921618,
+    "longitude": 77.14842039999999,
+    "place_id": "ChIJA_lq6YL3BDkRXAwqWWd7SWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_lq6YL3BDkRXAwqWWd7SWo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tandoori Zayaka",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176057",
+    "phone_number": "+91 98161 55595",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "68QF+FHP, Bhagsunag Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2387057,
+    "longitude": 76.323943,
+    "place_id": "ChIJ4UYGmyxRGzkRD2n8ljNQFPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UYGmyxRGzkRD2n8ljNQFPo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:31:38"
+  },
+  {
+    "business_name": "Kala Momo Point",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "176057",
+    "phone_number": "+91 98163 49911",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Sudher, Dharamshala, Himachal Pradesh 176215",
+    "area": "Sudher",
+    "latitude": 32.219377,
+    "longitude": 76.3188212,
+    "place_id": "ChIJV1fraiBRGzkRXwZ0TzjRud8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1fraiBRGzkRXwZ0TzjRud8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:31:38"
+  }
+]

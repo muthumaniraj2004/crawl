@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Slice Lab",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Pizza delivery, Pizza restaurant, Pizza takeaway",
+    "pincode": "175128",
+    "phone_number": "+91 89884 80111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 52,
+    "address": "Green Valley, 306, Seobagh, Himachal Pradesh 175138",
+    "area": "175128",
+    "latitude": 31.993094699999997,
+    "longitude": 77.1321093,
+    "place_id": "ChIJd1gK7qD1BDkR__YXW66gqkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1gK7qD1BDkR__YXW66gqkM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:05:26"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "175128",
+    "phone_number": "+91 70118 94825",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2D, Panchsheel Vihar, Block H, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Panchsheel Vihar, Block H, Khirki Extension, Malviya Nagar",
+    "latitude": 28.5325825,
+    "longitude": 77.22164959999999,
+    "place_id": "ChIJA_X_rsHjDDkRcEiHa0jkrhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_X_rsHjDDkRcEiHa0jkrhQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:05:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oswal Paints & Hardware Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Hardware store, Painting",
+    "pincode": "175140",
+    "phone_number": "+91 92509 18701",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 182-183, N I T N I T, Tikona Park, Faridabad, Haryana 121001",
+    "area": "Tikona Park, New Industrial Township",
+    "latitude": 28.3854108,
+    "longitude": 77.29839539999999,
+    "place_id": "ChIJ__-bCCncDDkROTgwgCOTSIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-bCCncDDkROTgwgCOTSIE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:24:50"
+  },
+  {
+    "business_name": "Mittal Paints & Hardware Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "175140",
+    "phone_number": "+91 97117 57442",
+    "website": "https://www.facebook.com/Mittal-Paints-and-Hardware-Store-324780791048355/",
+    "rating": 4.6,
+    "reviews_count": 199,
+    "address": "shop no -8,hospital road,mittal market, Sector 1, Ballabgarh, Haryana 121004",
+    "area": "Ballabgarh, Ballabhgarh",
+    "latitude": 28.338494899999997,
+    "longitude": 77.32002659999999,
+    "place_id": "ChIJlzEOuJbbDDkRmlqazkanG4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzEOuJbbDDkRmlqazkanG4g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:24:51"
+  }
+]

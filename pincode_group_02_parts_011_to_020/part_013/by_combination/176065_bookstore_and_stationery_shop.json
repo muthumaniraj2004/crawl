@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirpal Singh & Company",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Children's Book Store, Courier service, Gift shop, Pen store, Toy store",
+    "pincode": "176065",
+    "phone_number": "+91 94174 32265",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 37,
+    "address": "Main Market Road, Keshgarh Sahib, Anandpur Sahib, Punjab 140118",
+    "area": "Keshgarh Sahib",
+    "latitude": 31.236256899999997,
+    "longitude": 76.4979318,
+    "place_id": "ChIJ15KftP5KBTkRnXopaQ87o9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15KftP5KBTkRnXopaQ87o9s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:47:23"
+  },
+  {
+    "business_name": "Bachan Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Children's Book Store, Courier service, Office supply store, Pen store",
+    "pincode": "176065",
+    "phone_number": "+91 98095 98094",
+    "website": "https://bachanbookdepot.wixsite.com/bachanbook",
+    "rating": 4.6,
+    "reviews_count": 73,
+    "address": "Main Market Road, near Ravidas Chownk, Keshgarh Sahib, Anandpur Sahib, Punjab 140118",
+    "area": "Keshgarh Sahib",
+    "latitude": 31.235825799999997,
+    "longitude": 76.4972978,
+    "place_id": "ChIJNynjrv5KBTkRQxUZjMq47jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNynjrv5KBTkRQxUZjMq47jc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:47:23"
+  }
+]

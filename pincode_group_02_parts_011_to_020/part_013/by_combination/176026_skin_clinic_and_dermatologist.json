@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Shruti's Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176026",
+    "phone_number": "+91 89838 87156",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No, Darusalam Complex, 9, Z.P. Road, next to M.A. Pangal School, beside Kalyani Tower, Solapur, Maharashtra 413001",
+    "area": "176026",
+    "latitude": 17.669040799999998,
+    "longitude": 75.9101537,
+    "place_id": "ChIJ33pEIHvaxTsRxmBdN7n_XqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33pEIHvaxTsRxmBdN7n_XqA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:43:00"
+  },
+  {
+    "business_name": "Samarth Skin Care Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist",
+    "pincode": "176026",
+    "phone_number": "+91 93071 48353",
+    "website": "http://samarthskincare.com/",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "1st Floor, opposite Nityaseva hospital, beside old dindayal bank, Jaywanti Nagar, Ambajogai, Maharashtra 431515",
+    "area": "Jaywanti Nagar",
+    "latitude": 18.7299945,
+    "longitude": 76.3883804,
+    "place_id": "ChIJd6rm8YBfxTsRE7WG-o7D_6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6rm8YBfxTsRE7WG-o7D_6Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:43:02"
+  }
+]

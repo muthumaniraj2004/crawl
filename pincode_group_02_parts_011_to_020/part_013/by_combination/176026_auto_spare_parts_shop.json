@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagjeet trading company",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Salvage yard",
+    "all_categories": "Salvage yard",
+    "pincode": "176026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Veterinary Hospital, Sakri, Nagrota Surian, Bhaklehr, Himachal Pradesh 176027",
+    "area": "Sakri",
+    "latitude": 32.0335653,
+    "longitude": 76.1331087,
+    "place_id": "ChIJ7-CPaVJBGzkRsctUgGymH_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-CPaVJBGzkRsctUgGymH_U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:43:09"
+  },
+  {
+    "business_name": "Vipin auto",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "176026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2532+9G4, Guler, Thalla, Himachal Pradesh 176033",
+    "area": "176026",
+    "latitude": 32.0033794,
+    "longitude": 76.15133039999999,
+    "place_id": "ChIJjwA4bQBBGzkRW1PMQS4nILo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwA4bQBBGzkRW1PMQS4nILo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:43:09"
+  }
+]

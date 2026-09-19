@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saavi Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier",
+    "pincode": "176032",
+    "phone_number": "+91 98823 84766",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Jail Rd, near mm general store, Tarna, Mandi, Himachal Pradesh 175001",
+    "area": "Tarna",
+    "latitude": 31.7035812,
+    "longitude": 76.92584769999999,
+    "place_id": "ChIJLevPVjPjBDkRaDb3UYIEm28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLevPVjPjBDkRaDb3UYIEm28",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:17"
+  },
+  {
+    "business_name": "Jain Sanitary Solution",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Pipe supplier",
+    "all_categories": "Pipe supplier, Jaguar dealer",
+    "pincode": "176032",
+    "phone_number": "+91 94186 05655",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V. P. O. And tehsil, Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.782669799999997,
+    "longitude": 76.3454005,
+    "place_id": "ChIJCeUJMggvGzkRp4kFI1FYmHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeUJMggvGzkRp4kFI1FYmHc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:18"
+  }
+]

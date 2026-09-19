@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak himachali house",
+    "search_category": "Guesthouse",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "176051",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "6W8Q+9J7, Banoli, Larth, Himachal Pradesh 176051",
+    "area": "Banoli",
+    "latitude": 32.2154715,
+    "longitude": 75.9403804,
+    "place_id": "ChIJCQIMZQBjGzkRItoZn9EjuAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQIMZQBjGzkRItoZn9EjuAo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:21:36"
+  },
+  {
+    "business_name": "Hotel PR Golden",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "176051",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6W56+RQ6, Nerna, Himachal Pradesh 176051",
+    "area": "176051",
+    "latitude": 32.209534,
+    "longitude": 75.9119027,
+    "place_id": "ChIJF37yIABjGzkRadxzhVbT0Tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF37yIABjGzkRadxzhVbT0Tw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:21:36"
+  }
+]

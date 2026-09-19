@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wheels and Deals",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "176059",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "SH 39, near FCI warehouse, Gharoon, Palampur, Himachal Pradesh 176102",
+    "area": "Gharoon",
+    "latitude": 32.0669047,
+    "longitude": 76.5067761,
+    "place_id": "ChIJqRZu_C61BDkRstuh33Ep5zQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRZu_C61BDkRstuh33Ep5zQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:35:43"
+  },
+  {
+    "business_name": "Umesh All tyre service",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "176059",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4F5H+C59, Near, Himachal Pradesh 176059",
+    "area": "176059",
+    "latitude": 32.1085367,
+    "longitude": 76.4779977,
+    "place_id": "ChIJhS2qFgCzBDkRkiedgBbz3B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhS2qFgCzBDkRkiedgBbz3B0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:35:43"
+  }
+]

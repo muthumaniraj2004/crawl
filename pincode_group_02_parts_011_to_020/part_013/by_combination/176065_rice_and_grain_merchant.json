@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ruhi Agro Food",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Food manufacturer",
+    "pincode": "176065",
+    "phone_number": "+91 97364 42000",
+    "website": "http://www.ruhiagrofood.com/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Sothi PO Bhumti teh arki distt, Himachal Pradesh 173221",
+    "area": "176065",
+    "latitude": 31.114745199999998,
+    "longitude": 76.93372719999999,
+    "place_id": "ChIJwSW28Y9lBTkRV5e1B0polNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSW28Y9lBTkRV5e1B0polNE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:10"
+  },
+  {
+    "business_name": "Ashoka Rice Mills Pvt. Ltd.",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Exporter, Manufacturer",
+    "pincode": "176065",
+    "phone_number": "+91 97287 65555",
+    "website": "http://www.ashokarice.com/",
+    "rating": 4.1,
+    "reviews_count": 32,
+    "address": "Amin Rd, Kurukshetra, Haryana 136118",
+    "area": "176065",
+    "latitude": 29.9571766,
+    "longitude": 76.8556251,
+    "place_id": "ChIJg11EpsxADjkRFupaL1IkmPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg11EpsxADjkRFupaL1IkmPc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samarpan Health",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176063",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tashi Jong, Paprola, Pandtehr, Himachal Pradesh 176081",
+    "area": "176063",
+    "latitude": 32.0637338,
+    "longitude": 76.62301219999999,
+    "place_id": "ChIJb7KwNc63BDkRU_CzcWcaPmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7KwNc63BDkRU_CzcWcaPmA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:56"
+  },
+  {
+    "business_name": "Primary Health Care Center, Majherna Khas",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176063",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2JV7+7P7, Majheran Khas, Himachal Pradesh 176063",
+    "area": "176063",
+    "latitude": 32.043088,
+    "longitude": 76.61404399999999,
+    "place_id": "ChIJxev5XwC3BDkRxb2fRLnnC1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxev5XwC3BDkRxb2fRLnnC1Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:56"
+  }
+]

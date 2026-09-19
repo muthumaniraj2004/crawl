@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "pat-i",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "176062",
+    "phone_number": "+91 76762 61537",
+    "website": "https://pat-idea.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Vistara Apt, 312, 39th Main, Poorna Pragna Layout, Subramanyapura, Bengaluru, Karnataka 560061",
+    "area": "Poorna Pragna Layout, Subramanyapura",
+    "latitude": 12.9020374,
+    "longitude": 77.5393871,
+    "place_id": "ChIJ558JNCg_rjsR8Hwk-G2W-g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ558JNCg_rjsR8Hwk-G2W-g8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:05"
+  },
+  {
+    "business_name": "upstox",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "176062",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Morkhandi, Basavakalyan, Karnataka 585327",
+    "area": "Morkhandi",
+    "latitude": 17.870118899999998,
+    "longitude": 76.9462345,
+    "place_id": "ChIJZ_g7O5Q7zzsRCYiFOX0H_wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_g7O5Q7zzsRCYiFOX0H_wg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:05"
+  }
+]

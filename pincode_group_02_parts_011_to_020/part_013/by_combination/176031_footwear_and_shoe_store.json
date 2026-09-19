@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Busstand Jawala Mukhi, Near, Himachal Pradesh 176031",
+    "area": "176031",
+    "latitude": 31.8754684,
+    "longitude": 76.3185537,
+    "place_id": "ChIJES5pwFMxGzkR7M7odMTiy6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJES5pwFMxGzkR7M7odMTiy6Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:49"
+  },
+  {
+    "business_name": "Shoes Repair Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "176031",
+    "phone_number": "+91 86269 45905",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gali No 1, Nadaun, Nagrota, Himachal Pradesh 176031",
+    "area": "176031",
+    "latitude": 31.8382926,
+    "longitude": 76.3112503,
+    "place_id": "ChIJCQBtCz4xGzkRnvA6Gd-Noqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQBtCz4xGzkRnvA6Gd-Noqo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:49"
+  }
+]

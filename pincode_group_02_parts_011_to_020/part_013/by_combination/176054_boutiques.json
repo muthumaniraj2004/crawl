@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176054",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X8JG+38G, Bar, Himachal Pradesh 176054",
+    "area": "176054",
+    "latitude": 31.9801912,
+    "longitude": 76.3258365,
+    "place_id": "ChIJzyxWdwBJGzkRSsU2aaY3Ups",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyxWdwBJGzkRSsU2aaY3Ups",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:26:20"
+  },
+  {
+    "business_name": "Azad karyana store.",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "176054",
+    "phone_number": "+91 88948 27187",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "X8G4+V3M, Halehr, Duhru-Ii, Himachal Pradesh 176054",
+    "area": "176054",
+    "latitude": 31.9772109,
+    "longitude": 76.3051618,
+    "place_id": "ChIJtcMMCgBJGzkRF3qmSANS-_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcMMCgBJGzkRF3qmSANS-_M",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:26:20"
+  }
+]

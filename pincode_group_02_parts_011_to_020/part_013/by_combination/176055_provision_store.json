@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajinder General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176055",
+    "phone_number": "+91 88941 70781",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vill Lower Sihotu, Teh, Palampur, Himachal Pradesh 176083",
+    "area": "176055",
+    "latitude": 32.0092461,
+    "longitude": 76.4664856,
+    "place_id": "ChIJg-x33Ve1BDkRM4SeiWoEfPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-x33Ve1BDkRM4SeiWoEfPc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:27:44"
+  },
+  {
+    "business_name": "M V Daily Needs Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176055",
+    "phone_number": "+91 78761 77402",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "WF3G+PVQ, Chula, Himachal Pradesh 176073",
+    "area": "176055",
+    "latitude": 31.9044238,
+    "longitude": 76.4772864,
+    "place_id": "ChIJ72rYdQDLBDkRxVSQkAAcZJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72rYdQDLBDkRxVSQkAAcZJ8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:27:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Dhaba and Fast food",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "176036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Mandir road, Kohala, Jawalamukhi, Himachal Pradesh 176031",
+    "area": "Kohala",
+    "latitude": 31.875237199999997,
+    "longitude": 76.3203091,
+    "place_id": "ChIJRQeFMAAxGzkR9kj21S95X7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQeFMAAxGzkR9kj21S95X7A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:57:06"
+  },
+  {
+    "business_name": "Rudraksh cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176036",
+    "phone_number": "+91 82610 10304",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "Q8HV+H69, NH 3, Nadaun, Himachal Pradesh 177033",
+    "area": "176036",
+    "latitude": 31.778937499999998,
+    "longitude": 76.3430625,
+    "place_id": "ChIJ8_0QI0AvGzkRu2shuo4rhZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_0QI0AvGzkRu2shuo4rhZM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:57:06"
+  }
+]

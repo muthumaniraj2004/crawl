@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Silver Spoon Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175139",
+    "phone_number": "+91 70874 34462",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Booth No, 104, Sector 21, Budanpur, Panchkula, Haryana 134112",
+    "area": "Sector 21, Budanpur",
+    "latitude": 30.676481499999998,
+    "longitude": 76.8618973,
+    "place_id": "ChIJi3zBwLiVDzkRrb-wl89vnh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3zBwLiVDzkRrb-wl89vnh0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:22"
+  },
+  {
+    "business_name": "UD Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "175139",
+    "phone_number": "+91 96112 46245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No:428, Padasalai St, Vimlapuram, Periya Thoppu, Manali, Chennai, Tamil Nadu 600068",
+    "area": "Vimlapuram, Periya Thoppu, Manali",
+    "latitude": 13.1677688,
+    "longitude": 80.2584389,
+    "place_id": "ChIJyZBP4TllUjoRPyvq6jn94GA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZBP4TllUjoRPyvq6jn94GA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:24"
+  }
+]

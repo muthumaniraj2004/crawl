@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Street",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "175139",
+    "phone_number": "+91 70707 07026",
+    "website": "http://www.carstreetindia.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "A-16, A, NEAR, State Bank Of India, Shindi Colony, Branch, Naraina, New Delhi, Delhi 110028",
+    "area": "Shindi Colony, Branch, Naraina",
+    "latitude": 28.6267948,
+    "longitude": 77.1359519,
+    "place_id": "ChIJbVG4LyUDDTkRGWiMov43hig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVG4LyUDDTkRGWiMov43hig",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:49"
+  },
+  {
+    "business_name": "Sant Motors - Dealing in Used Cars Navi Mumbai",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto broker, Car finance and loan company",
+    "pincode": "175139",
+    "phone_number": "+91 84518 55803",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 003, RAILWAY STATION COMPLEX, near Railway Ticket Window, Nerul East, Nerul West, Nerul, Navi Mumbai, Maharashtra 400706",
+    "area": "Nerul East, Nerul West, Nerul",
+    "latitude": 19.0334152,
+    "longitude": 73.0175749,
+    "place_id": "ChIJY3Pog-LD5zsRX9Jv1FwJ5M0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3Pog-LD5zsRX9Jv1FwJ5M0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:49"
+  }
+]

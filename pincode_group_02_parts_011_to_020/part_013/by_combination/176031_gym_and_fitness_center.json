@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JS FITNESS CENTER",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Chamba Pattan Bridge Rd, Chamba, Chamba Katoti, Himachal Pradesh 177108",
+    "area": "176031",
+    "latitude": 31.8313147,
+    "longitude": 76.2542749,
+    "place_id": "ChIJZxEIksU7GzkR2wLQTI36R84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxEIksU7GzkR2wLQTI36R84",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:03"
+  },
+  {
+    "business_name": "Shanaya Fitness and Gymnastic Center Balaru",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "176031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "R7GR+X3F, Pher, Himachal Pradesh 176031",
+    "area": "176031",
+    "latitude": 31.827441399999998,
+    "longitude": 76.2901852,
+    "place_id": "ChIJ15FK9GYwGzkRqFzgPI_OK1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15FK9GYwGzkRqFzgPI_OK1Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:52:05"
+  }
+]

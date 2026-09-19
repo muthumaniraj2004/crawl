@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HARDWARE HUB",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176021",
+    "phone_number": "+91 88941 17156",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Hardware Hub, near Hoddi Mela Ground, Kangra, Thehr, Himachal Pradesh 176218",
+    "area": "176021",
+    "latitude": 32.2135477,
+    "longitude": 76.35618339999999,
+    "place_id": "ChIJyaLkuuhRGzkR8IfUJeWu2PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaLkuuhRGzkR8IfUJeWu2PU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:36:53"
+  },
+  {
+    "business_name": "M.K Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivaji Nagar, Basavakalyan, Karnataka 585327",
+    "area": "Shivaji Nagar",
+    "latitude": 17.859613,
+    "longitude": 76.9493013,
+    "place_id": "ChIJUb47mrs7zzsR4AbLPRjhOlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUb47mrs7zzsR4AbLPRjhOlk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:36:54"
+  }
+]

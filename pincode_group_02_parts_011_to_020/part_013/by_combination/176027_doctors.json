@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Government Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "333M+C49, Nagrota Surian, Saknara, Himachal Pradesh 176027",
+    "area": "176027",
+    "latitude": 32.0535308,
+    "longitude": 76.082865,
+    "place_id": "ChIJfz-0neFpGzkRJCsD6CAIfXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfz-0neFpGzkRJCsD6CAIfXc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:44"
+  },
+  {
+    "business_name": "Dr. Rakesh Sharma",
+    "search_category": "Doctors",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "334V+24Q, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176027",
+    "latitude": 32.0550942,
+    "longitude": 76.09285109999999,
+    "place_id": "ChIJVSCfXQBDGzkRkN7i54ozgVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSCfXQBDGzkRkN7i54ozgVA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chauhan Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "496G+7MC, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176027",
+    "latitude": 32.1106979,
+    "longitude": 76.3766357,
+    "place_id": "ChIJfdemjTJMGzkR3dz7l8P2O2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdemjTJMGzkR3dz7l8P2O2Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:44"
+  },
+  {
+    "business_name": "Aarogya clinic",
+    "search_category": "Clinics",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "176027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "332J+WVF, near Himachal Pradesh, Har, Himachal Pradesh 176027",
+    "area": "176027",
+    "latitude": 32.052309699999995,
+    "longitude": 76.0821778,
+    "place_id": "ChIJ9WyOgENpGzkR5yQncIqRZi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WyOgENpGzkR5yQncIqRZi4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:44"
+  }
+]

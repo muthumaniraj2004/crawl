@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivansh Computers Dehra",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer store, Store",
+    "pincode": "176028",
+    "phone_number": "+91 94181 58027",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "near S.B.I BANK, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "176028",
+    "latitude": 31.8818065,
+    "longitude": 76.21677849999999,
+    "place_id": "ChIJw-IyQ3o5GzkR6BBckUCJDhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-IyQ3o5GzkR6BBckUCJDhU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:47:22"
+  },
+  {
+    "business_name": "Laptop Zone",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "176028",
+    "phone_number": "+91 88474 53514",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Laptop zone, road, near sd ground , swimming pool, Shahanshah Colony, Lamini, Pathankot, Punjab 145001",
+    "area": "Shahanshah Colony, Lamini",
+    "latitude": 32.280454299999995,
+    "longitude": 75.6610809,
+    "place_id": "ChIJJePTQlh_HDkRfRmGoSlSqjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJePTQlh_HDkRfRmGoSlSqjc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:47:24"
+  }
+]

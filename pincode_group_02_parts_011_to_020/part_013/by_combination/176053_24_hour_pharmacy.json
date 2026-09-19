@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashna Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176053",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Opposite H.P Board colony Sidhpur, Dharamshala, Himachal Pradesh 176215",
+    "area": "176053",
+    "latitude": 32.195722499999995,
+    "longitude": 76.3566421,
+    "place_id": "ChIJH3FPq9BRGzkRfHSp8ct0QXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3FPq9BRGzkRfHSp8ct0QXA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:24:33"
+  },
+  {
+    "business_name": "Anu Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "176053",
+    "phone_number": "+91 75596 00355",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "post office Galore, Hatli, Himachal Pradesh 177026",
+    "area": "176053",
+    "latitude": 31.6323719,
+    "longitude": 76.4552241,
+    "place_id": "ChIJ30DHH3orGzkR_NNTakKFONs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30DHH3orGzkR_NNTakKFONs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:24:36"
+  }
+]

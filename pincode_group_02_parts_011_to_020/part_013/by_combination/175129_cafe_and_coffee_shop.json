@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jharna Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "175129",
+    "phone_number": "+91 98161 59581",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Fojal, Himachal Pradesh 175129",
+    "area": "175129",
+    "latitude": 32.0941901,
+    "longitude": 77.0883569,
+    "place_id": "ChIJ06IM14iMBDkRigcDTdEfp6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06IM14iMBDkRigcDTdEfp6o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:07:21"
+  },
+  {
+    "business_name": "Cafe 360",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "175129",
+    "phone_number": "N/A",
+    "website": "http://www.pinkididiresort.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "The last Resort, Tosh, Himachal Pradesh 175105",
+    "area": "175129",
+    "latitude": 32.0117797,
+    "longitude": 77.4510451,
+    "place_id": "ChIJKV_kq5dDBDkRR6OfDR35Omg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV_kq5dDBDkRR6OfDR35Omg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:07:21"
+  }
+]

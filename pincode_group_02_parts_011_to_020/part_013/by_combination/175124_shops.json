@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wine Shop",
+    "search_category": "Shops",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "175124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "M2FX+M46, Pandoh, Himachal Pradesh 175124",
+    "area": "175124",
+    "latitude": 31.6741656,
+    "longitude": 77.0477672,
+    "place_id": "ChIJ-2MBXqADBTkRuIBXhOP8l5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2MBXqADBTkRuIBXhOP8l5U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:22"
+  },
+  {
+    "business_name": "Happy Medical Store",
+    "search_category": "Shops",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "175124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "M393+6VJ, Juni Road, Pandoh, Himachal Pradesh 175124",
+    "area": "175124",
+    "latitude": 31.668090499999998,
+    "longitude": 77.0546419,
+    "place_id": "ChIJ2ZSgfH4DBTkREMzQaNEVXvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZSgfH4DBTkREMzQaNEVXvA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:01:24"
+  }
+]

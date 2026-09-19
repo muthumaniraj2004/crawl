@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X8JF+2W2, Bar, Himachal Pradesh 176054",
+    "area": "176029",
+    "latitude": 31.980007999999998,
+    "longitude": 76.3247715,
+    "place_id": "ChIJFZ0aVQBJGzkRjDdwovoZHqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZ0aVQBJGzkRjDdwovoZHqA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:48:50"
+  },
+  {
+    "business_name": "New Eves Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "176029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27GW+W6C, Khas Sunhi, Himachal Pradesh 176037",
+    "area": "176029",
+    "latitude": 32.0273404,
+    "longitude": 76.2955135,
+    "place_id": "ChIJT5T3agBJGzkRuTXnfDbQKT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5T3agBJGzkRuTXnfDbQKT4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:48:50"
+  }
+]

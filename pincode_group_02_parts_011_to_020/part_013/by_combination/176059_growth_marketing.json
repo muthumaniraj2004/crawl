@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "digital marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Service establishment",
+    "pincode": "176059",
+    "phone_number": "+91 85807 06995",
+    "website": "https://digitalmarketing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "digital marketing, 176059, India",
+    "area": "176059",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJC1YvlsgOqyoR4SAKW4SxZOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1YvlsgOqyoR4SAKW4SxZOs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:36:45"
+  },
+  {
+    "business_name": "Cogent Exponent",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Computer support and services, Service establishment, Software company",
+    "pincode": "176059",
+    "phone_number": "N/A",
+    "website": "https://cogentexponent.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cogent Exponent, 176059, India",
+    "area": "176059",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJI4PA1diYNEURBlKv6aMfNm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4PA1diYNEURBlKv6aMfNm4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:36:45"
+  }
+]

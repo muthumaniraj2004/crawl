@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mountain Peak Adventure",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator",
+    "pincode": "176040",
+    "phone_number": "+91 98054 12740",
+    "website": "http://www.mountainpeakadventure.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VILLAGE UKHLI, P.O, Ukhli - Towenprary Rd, TEHSIL, HAMIRPUR, Himachal Pradesh 176042",
+    "area": "TEHSIL",
+    "latitude": 31.5659644,
+    "longitude": 76.60561799999999,
+    "place_id": "ChIJZ6uNUJgpBTkRVY9DhI3v2OM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6uNUJgpBTkRVY9DhI3v2OM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:43"
+  },
+  {
+    "business_name": "South Delhi Taxi Rental Delhi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "176040",
+    "phone_number": "+91 99587 28180",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "H, 14, Ch Hukum Chand Marg, near Focus Imaging & Research, Block H, Green Park Extension, Green Park, New Delhi, Delhi 110016",
+    "area": "Block H, Green Park Extension, Green Park",
+    "latitude": 28.5601922,
+    "longitude": 77.20354119999999,
+    "place_id": "ChIJT3-xFjLjDDkR0rIBcPxy1a4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3-xFjLjDDkR0rIBcPxy1a4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:04:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Marble House",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Bathroom supply store, Building materials store, Hardware store, Marble supplier",
+    "pincode": "176063",
+    "phone_number": "+91 70187 52411",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3J3M+4JM Tharu, near petrol pump Dawat Restaurant, Paprola, Kasba Paprola, Himachal Pradesh 176115",
+    "area": "176063",
+    "latitude": 32.0528329,
+    "longitude": 76.6340511,
+    "place_id": "ChIJBYJSmfG3BDkRiWbsbttB3tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYJSmfG3BDkRiWbsbttB3tc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:43:13"
+  },
+  {
+    "business_name": "Bharat Marble And Tiles Tashi Jong",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "176063",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "3J7F+38M, Pandtehr, Himachal Pradesh 176115",
+    "area": "176063",
+    "latitude": 32.062705799999996,
+    "longitude": 76.62329679999999,
+    "place_id": "ChIJE1p0qKa3BDkRe7sqEHZFsaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1p0qKa3BDkRe7sqEHZFsaU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:43:16"
+  }
+]

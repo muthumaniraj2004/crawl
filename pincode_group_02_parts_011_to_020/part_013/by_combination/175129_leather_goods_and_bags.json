@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "American Tourister",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage wholesaler, Handbags shop, Leather repair service, Luggage repair service, Office supply wholesaler, Repair service, Wholesaler",
+    "pincode": "175129",
+    "phone_number": "+91 98157 38777",
+    "website": "https://americantouristerchandigarh.com/",
+    "rating": 4.9,
+    "reviews_count": 1139,
+    "address": "Entry Samsonite Store, SCF 6, Sector 19C, Sector 19, Chandigarh, 160019",
+    "area": "Sector 19C, Sector 19",
+    "latitude": 30.7268992,
+    "longitude": 76.79418419999999,
+    "place_id": "ChIJEdU4FRvtDzkRxuok0pKhve8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdU4FRvtDzkRxuok0pKhve8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:07:26"
+  },
+  {
+    "business_name": "Bata Shoe Store",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Shoe store, Belt shop, Boot store, Clothing store",
+    "pincode": "175129",
+    "phone_number": "+91 95012 08282",
+    "website": "https://stores.bata.com/bata-shoes-sandals-store-in-nh-88-hamirpur",
+    "rating": 4.6,
+    "reviews_count": 205,
+    "address": "Ward No.2, P.O, 1883, 1884, Upper Bazar Rd, Hamirpur, Himachal Pradesh 177001",
+    "area": "Chakmoh, Galore",
+    "latitude": 31.6857451,
+    "longitude": 76.5216544,
+    "place_id": "ChIJY_BPUkrUBDkRGkxWdeikvss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_BPUkrUBDkRGkxWdeikvss",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:07:26"
+  }
+]

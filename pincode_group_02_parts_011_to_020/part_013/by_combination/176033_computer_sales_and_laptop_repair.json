@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRD Laptop",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer accessories store",
+    "pincode": "176033",
+    "phone_number": "+91 90813 31155",
+    "website": "http://www.prdlaptop.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ag6, 1st floor, Chinmay complex, Judges Bunglow Rd, Vastrapur, Ahmedabad, Gujarat 380015",
+    "area": "Vastrapur",
+    "latitude": 23.033797999999997,
+    "longitude": 72.523664,
+    "place_id": "ChIJR8gxSquFXjkREuPpeTrMFYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8gxSquFXjkREuPpeTrMFYE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:25"
+  },
+  {
+    "business_name": "Him laptop repair",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store",
+    "pincode": "176033",
+    "phone_number": "+91 62304 62995",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hoshiarpur road, Nadaun, Himachal Pradesh 177033",
+    "area": "176033",
+    "latitude": 31.777356899999997,
+    "longitude": 76.3432344,
+    "place_id": "ChIJdV2x8JMvGzkRpaW2yxzqtgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdV2x8JMvGzkRpaW2yxzqtgE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:56:26"
+  }
+]

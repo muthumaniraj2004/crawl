@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IHP Consulting",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "175132",
+    "phone_number": "+91 98710 71942",
+    "website": "http://www.ihpgroup.in/",
+    "rating": 4.5,
+    "reviews_count": 46,
+    "address": "A-47, A block, Sector 49, Noida, Uttar Pradesh 201304",
+    "area": "A block, Sector 49",
+    "latitude": 28.561998499999998,
+    "longitude": 77.36709669999999,
+    "place_id": "ChIJKTOsFfnlDDkRdd8nDB5t9pI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTOsFfnlDDkRdd8nDB5t9pI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:13:57"
+  },
+  {
+    "business_name": "Beheney Homestay",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "175132",
+    "phone_number": "+91 85806 97970",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 63,
+    "address": "G25C+J36, Ghondhla, Himachal Pradesh 175140",
+    "area": "175132",
+    "latitude": 32.508752799999996,
+    "longitude": 77.01996,
+    "place_id": "ChIJ76sAAt57AzkR0Ngk6hc2kYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76sAAt57AzkR0Ngk6hc2kYg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:13:57"
+  }
+]

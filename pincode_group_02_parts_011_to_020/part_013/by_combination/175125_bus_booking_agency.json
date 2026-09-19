@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sujal Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "175125",
+    "phone_number": "+91 78766 75306",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Teepti Market, Purana Bridge Bhunter, Lakdi Pul, Bhuntar, Himachal Pradesh 175125",
+    "area": "Lakdi Pul",
+    "latitude": 31.886239999999997,
+    "longitude": 77.1455029,
+    "place_id": "ChIJR79gbwf3BDkRhvMLoaWMWHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR79gbwf3BDkRhvMLoaWMWHg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:02:10"
+  },
+  {
+    "business_name": "Laxmi holidays office",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "175125",
+    "phone_number": "+91 78762 74598",
+    "website": "http://www.laxmiholidays.com/",
+    "rating": 3.8,
+    "reviews_count": 319,
+    "address": "Shop no 2, Hotal black roof, Hathithan, chowk, Bhuntar, Himachal Pradesh 175125",
+    "area": "Hathithan",
+    "latitude": 31.896929099999998,
+    "longitude": 77.1509499,
+    "place_id": "ChIJ94HRRgT3BDkR1tKUwk1dBtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94HRRgT3BDkR1tKUwk1dBtY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:02:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fashion Point Taylor",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "176045",
+    "phone_number": "+91 94180 45902",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5 Stitching, Bhoraj, Bassi, Bhoranj, Himachal Pradesh 176045",
+    "area": "Bhoraj",
+    "latitude": 31.6487561,
+    "longitude": 76.6461611,
+    "place_id": "ChIJN2lFmgonBTkRGEirjZptIS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2lFmgonBTkRGEirjZptIS8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:32"
+  },
+  {
+    "business_name": "PRIYA FASHION BOUTIQUE AND BEAUTY PARLOUR",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "176045",
+    "phone_number": "+91 88942 86461",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "PRIYA FASHION BOUTIQUE, Bhareta, Hamirpur, Himachal Pradesh 177027",
+    "area": "176045",
+    "latitude": 31.7149865,
+    "longitude": 76.5449955,
+    "place_id": "ChIJt09oymLVBDkRNmE4QrgpizM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt09oymLVBDkRNmE4QrgpizM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:13:33"
+  }
+]

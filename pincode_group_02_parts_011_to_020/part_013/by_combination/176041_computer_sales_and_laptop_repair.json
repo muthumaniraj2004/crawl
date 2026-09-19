@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer service",
+    "pincode": "176041",
+    "phone_number": "+91 96257 25897",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VPO Didwin Tikker, Teh, Hamirpur, Himachal Pradesh 177401",
+    "area": "176041",
+    "latitude": 31.6291665,
+    "longitude": 76.5622994,
+    "place_id": "ChIJ-5XjIT8pBTkRMR8Wi4jp7tA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5XjIT8pBTkRMR8Wi4jp7tA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:07:13"
+  },
+  {
+    "business_name": "Dell Exclusive Store - Nangal Road, Una",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store",
+    "pincode": "176041",
+    "phone_number": "+91 80 4800 6600",
+    "website": "https://www.dellretailstores.in/himachal-pradesh-una-nangal-rd-1124?utm_source=GMB_Lead&campaign=GMB&nav=contact",
+    "rating": 4.3,
+    "reviews_count": 294,
+    "address": "PG College, Sai Market, Nangal Rd, near Govt, Professor Colony, Una, Himachal Pradesh 174303",
+    "area": "Professor Colony",
+    "latitude": 31.461692099999997,
+    "longitude": 76.2805915,
+    "place_id": "ChIJK9LNvHHQGjkRaTqSgx7QxWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9LNvHHQGjkRaTqSgx7QxWk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:07:13"
+  }
+]

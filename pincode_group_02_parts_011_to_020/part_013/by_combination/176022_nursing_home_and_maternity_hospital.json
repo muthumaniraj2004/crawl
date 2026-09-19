@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeevan Jyoti hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176022",
+    "phone_number": "+91 98168 17084",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Rey road, near cbi bank, Badukhar, Himachal Pradesh 176058",
+    "area": "176022",
+    "latitude": 32.0421433,
+    "longitude": 75.83024139999999,
+    "place_id": "ChIJ0zKVQSpxGzkRYGcszIG64Yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zKVQSpxGzkRYGcszIG64Yo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:34"
+  },
+  {
+    "business_name": "Hoshiarpur Nursing Home and Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Hospital",
+    "pincode": "176022",
+    "phone_number": "+91 94653 86271",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GWH2+4WP, Govt College Rd, opp. government college, Tulsi Nagar, Kamalpur, Hoshiarpur, Punjab 146001",
+    "area": "Tulsi Nagar, Kamalpur",
+    "latitude": 31.5272866,
+    "longitude": 75.8990864,
+    "place_id": "ChIJ-38jJiv9GjkRKUqWLm7JgiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-38jJiv9GjkRKUqWLm7JgiE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "University Auditorium",
+    "search_category": "Exhibitions",
+    "primary_category": "Auditorium",
+    "all_categories": "Auditorium",
+    "pincode": "176062",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4G2W+HJR, University Rd, Holta, Palampur, Banuri, Himachal Pradesh 176062",
+    "area": "Holta",
+    "latitude": 32.101498,
+    "longitude": 76.5465059,
+    "place_id": "ChIJ5ycET-KzBDkRC2Q81AlQMvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ycET-KzBDkRC2Q81AlQMvY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:17"
+  },
+  {
+    "business_name": "Basketball Ground Palampur Main Market H.P",
+    "search_category": "Exhibitions",
+    "primary_category": "Basketball court",
+    "all_categories": "Basketball court",
+    "pincode": "176062",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "126, Palampur - Dharamshala Rd, Shastri Nagar, Dharamshala - Palampur Rd, Shastri Nagar, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Shastri Nagar, Berachah",
+    "latitude": 32.1098101,
+    "longitude": 76.5364688,
+    "place_id": "ChIJic91xcKzBDkRoyyV3zWQMUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJic91xcKzBDkRoyyV3zWQMUA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:42:18"
+  }
+]

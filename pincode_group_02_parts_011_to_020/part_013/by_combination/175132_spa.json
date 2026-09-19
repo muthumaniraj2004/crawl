@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Johnson Lodge & Spa",
+    "search_category": "Spa",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "175132",
+    "phone_number": "N/A",
+    "website": "https://www.johnsonlodge.co/",
+    "rating": 4.7,
+    "reviews_count": 65,
+    "address": "Mall Rd, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Siyal",
+    "latitude": 32.2475273,
+    "longitude": 77.1873921,
+    "place_id": "ChIJsw73PPeHBDkRyujaz4OFgKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsw73PPeHBDkRyujaz4OFgKk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:13:41"
+  },
+  {
+    "business_name": "DIAMOND SPA AND MASSAGE",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "175132",
+    "phone_number": "+91 79739 55619",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "near bhagsu height hotel, McLeod Ganj, Dharamshala, Himachal Pradesh 176219",
+    "area": "McLeod Ganj",
+    "latitude": 32.239332,
+    "longitude": 76.330798,
+    "place_id": "ChIJwdrdHwBRGzkR6Ba8FLDwMaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdrdHwBRGzkR6Ba8FLDwMaE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:13:41"
+  }
+]

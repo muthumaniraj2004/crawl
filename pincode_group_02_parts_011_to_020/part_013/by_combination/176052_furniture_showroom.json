@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TJ Creations",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "176052",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "TJ Creations, Dharamshala - Palampur Rd, Nagri, Bagora, Kangra, Himachal Pradesh 176059",
+    "area": "Nagri",
+    "latitude": 32.1241647,
+    "longitude": 76.4831584,
+    "place_id": "ChIJ-Q9mWACzBDkR8aQVcFOjMlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q9mWACzBDkR8aQVcFOjMlw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:23:13"
+  },
+  {
+    "business_name": "Bombay Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "176052",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4G3M+5PG, Palampur Rd, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1029299,
+    "longitude": 76.5343355,
+    "place_id": "ChIJz4KEJ-mzBDkRivKi_qPg6oI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4KEJ-mzBDkRivKi_qPg6oI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:23:14"
+  }
+]

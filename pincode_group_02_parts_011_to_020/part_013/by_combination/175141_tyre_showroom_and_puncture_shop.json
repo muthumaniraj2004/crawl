@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harpreet Traders",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "175141",
+    "phone_number": "+91 82198 39760",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH3, Himachal Pradesh 175121",
+    "area": "175141",
+    "latitude": 31.8302354,
+    "longitude": 77.1719923,
+    "place_id": "ChIJhbTV8zf5BDkRi_1AGBtOxEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbTV8zf5BDkRi_1AGBtOxEE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:26:37"
+  },
+  {
+    "business_name": "Tyremall",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Auto repair shop, Wheel alignment service, Wheel store",
+    "pincode": "175141",
+    "phone_number": "+91 70881 11778",
+    "website": "https://tyremall.net/",
+    "rating": 4.8,
+    "reviews_count": 732,
+    "address": "Tyremall, GMS Rd, near Chung Gas Agency, Niranjanpur, Dehradun, Uttarakhand 248001",
+    "area": "Shakti Enclave, Niranjanpur",
+    "latitude": 30.3061163,
+    "longitude": 78.01047249999999,
+    "place_id": "ChIJ-_kUoy8qCTkRA7tJO6w9dbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_kUoy8qCTkRA7tJO6w9dbc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:26:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamla Devi",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "175133",
+    "phone_number": "+91 94187 18710",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MQ6H 6R8, Pangi Road, Shimla, Himachal Pradesh 175139",
+    "area": "175133",
+    "latitude": 32.6608302,
+    "longitude": 76.7786843,
+    "place_id": "ChIJR8xth39BAzkRM0god3eJ44I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8xth39BAzkRM0god3eJ44I",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:34"
+  },
+  {
+    "business_name": "Aggarwal Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175133",
+    "phone_number": "+91 90232 23332",
+    "website": "https://aggarwalsupermarket.com/",
+    "rating": 4.5,
+    "reviews_count": 451,
+    "address": "sco 1070, Mattaur Rd, Sector 70, Sahibzada Ajit Singh Nagar, Punjab 160071",
+    "area": "Mataur Village, Sector 70",
+    "latitude": 30.698253599999997,
+    "longitude": 76.7120011,
+    "place_id": "ChIJl9z4yNbvDzkRAvQNhEx1Qfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9z4yNbvDzkRAvQNhEx1Qfo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:34"
+  }
+]

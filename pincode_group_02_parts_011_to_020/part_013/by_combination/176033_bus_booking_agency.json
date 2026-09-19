@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176033",
+    "phone_number": "+91 98776 49964",
+    "website": "http://thakurtourandtravels.in/",
+    "rating": 5,
+    "reviews_count": 296,
+    "address": "Chowk, Malikpur, Pathankot, Asa Bano, Punjab 145025",
+    "area": "Malikpur",
+    "latitude": 32.2734118,
+    "longitude": 75.59115609999999,
+    "place_id": "ChIJSboRAch5HDkRPzjv23Nz4yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSboRAch5HDkRPzjv23Nz4yI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:44"
+  },
+  {
+    "business_name": "Bhawani Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176033",
+    "phone_number": "+91 99157 72281",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 267,
+    "address": "6W4W+4C2, Badal - Bathinda Rd, Telian Wala Mohalla, Civil Lines, Bathinda, Punjab 151001",
+    "area": "Telian Wala Mohalla, Civil Lines",
+    "latitude": 30.2052713,
+    "longitude": 74.9460069,
+    "place_id": "ChIJaVOWsaEyFzkRUw2gcaiRVDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVOWsaEyFzkRUw2gcaiRVDk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:46"
+  }
+]

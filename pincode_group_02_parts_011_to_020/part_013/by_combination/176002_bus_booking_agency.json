@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirag Travel Agency",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "176002",
+    "phone_number": "+91 261 232 4248",
+    "website": "http://www.chiragtravelagency.com/",
+    "rating": 2.9,
+    "reviews_count": 93,
+    "address": "Shop No:-27, S.M.C Shopping Center,, Ring Road, Sahara Darwaja, Surat, Gujarat 395003",
+    "area": "Sahara Darwaja, New Textile Market",
+    "latitude": 21.194207,
+    "longitude": 72.84447999999999,
+    "place_id": "ChIJHcepOlFO4DsRMmEfoDa2I04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcepOlFO4DsRMmEfoDa2I04",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:34:10"
+  },
+  {
+    "business_name": "NAVEEN RAJ TRAVEL",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "176002",
+    "phone_number": "+91 97850 96941",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 4,
+    "address": "Neelam chowk, Bhiwadi, Rajasthan 301019",
+    "area": "176002",
+    "latitude": 28.2119261,
+    "longitude": 76.8455539,
+    "place_id": "ChIJZaGfLGQ3DTkR5osalAHTsg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaGfLGQ3DTkR5osalAHTsg4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:34:10"
+  }
+]

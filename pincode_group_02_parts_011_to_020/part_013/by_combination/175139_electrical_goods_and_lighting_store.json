@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Light & Living",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "175139",
+    "phone_number": "+91 77950 37278",
+    "website": "http://www.lightsandliving.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "No. 1571, HSR, Outer Ring Rd, near Dominos Pizza, Sector 1, Agara Village, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 1, Agara Village, 1st Sector, HSR Layout",
+    "latitude": 12.9228163,
+    "longitude": 77.6462353,
+    "place_id": "ChIJs9DGE4cUrjsRChWcLITNWHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9DGE4cUrjsRChWcLITNWHU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:57"
+  },
+  {
+    "business_name": "New International Electronics and Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler",
+    "pincode": "175139",
+    "phone_number": "+91 99956 00785",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Thakaraparambu Rd, East Fort, Nalumukku, Pazhavangadi, Thiruvananthapuram, Keralam 695036",
+    "area": "East Fort, Nalumukku, Pazhavangadi",
+    "latitude": 8.4864134,
+    "longitude": 76.9473953,
+    "place_id": "ChIJnTtdyqa7BTsRx2-zajSUN0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTtdyqa7BTsRx2-zajSUN0A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:57"
+  }
+]

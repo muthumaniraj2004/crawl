@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176031",
+    "phone_number": "+91 82199 48185",
+    "website": "https://devbakeryy.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R986+p5, Makhror, Himachal Pradesh 176036",
+    "area": "176031",
+    "latitude": 31.8167014,
+    "longitude": 76.36038719999999,
+    "place_id": "ChIJcboEBF4xGzkRxpk0Fq1bdHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcboEBF4xGzkRxpk0Fq1bdHo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:37"
+  },
+  {
+    "business_name": "Lati's cakes and bakes",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "176031",
+    "phone_number": "+91 72899 29410",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "V8J6+7F6, Jwalamukhi-Kangra Ji Rd, Himachal Pradesh 176031",
+    "area": "176031",
+    "latitude": 31.8806743,
+    "longitude": 76.3111516,
+    "place_id": "ChIJjd-Q2tAxGzkRmcHmykvBPUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjd-Q2tAxGzkRmcHmykvBPUU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:51:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahajan Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "176032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near civil hospital, Sujanpur Tira, Himachal Pradesh 176110",
+    "area": "176032",
+    "latitude": 31.834061499999997,
+    "longitude": 76.50109479999999,
+    "place_id": "ChIJZe9CEgDNBDkRhT-T3xHyomY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZe9CEgDNBDkRhT-T3xHyomY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:49"
+  },
+  {
+    "business_name": "Dr Mohit’s Healthcare centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Doctor, Laboratory",
+    "pincode": "176032",
+    "phone_number": "+91 99882 15859",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Taxi Stand, Industrial Area, Mehatpur, Himachal Pradesh 174315",
+    "area": "Industrial Area",
+    "latitude": 31.407891,
+    "longitude": 76.3435016,
+    "place_id": "ChIJT8i2SHLPGjkRZlkQ1lKehfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8i2SHLPGjkRZlkQ1lKehfM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:49"
+  }
+]

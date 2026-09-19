@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Choice Farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Fish processing",
+    "pincode": "175136",
+    "phone_number": "+91 95808 23181",
+    "website": "http://www.freshchoicefarms.in/",
+    "rating": 4.6,
+    "reviews_count": 286,
+    "address": "4/285, Viram Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Gomti Nagar",
+    "latitude": 26.844737499999997,
+    "longitude": 81.0002666,
+    "place_id": "ChIJEWtAN6fjmzkR0p0an7G6Jc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWtAN6fjmzkR0p0an7G6Jc8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:18:26"
+  },
+  {
+    "business_name": "Veatfresh",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Seafood market",
+    "pincode": "175136",
+    "phone_number": "+91 91962 57705",
+    "website": "http://veatfresh.in/",
+    "rating": 4.5,
+    "reviews_count": 61,
+    "address": "LGF-3, Vinayak Complex, near Badshah Nagar Circle, Badshahnagar, Railway Colony, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Badshahnagar, Railway Colony, Mahanagar",
+    "latitude": 26.8703859,
+    "longitude": 80.95909379999999,
+    "place_id": "ChIJjRWSQhX9mzkRifNwCiyAkH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRWSQhX9mzkRifNwCiyAkH0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:18:26"
+  }
+]

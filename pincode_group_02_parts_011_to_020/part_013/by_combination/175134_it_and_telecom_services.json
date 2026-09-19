@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "North Quest",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Store",
+    "all_categories": "Store, Cell phone accessory store, Cell phone store, Prepaid SIM card store",
+    "pincode": "175134",
+    "phone_number": "+91 98054 44111",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Upper Market, near Hotel Krishna Palace, Kasol, Himachal Pradesh 175105",
+    "area": "175134",
+    "latitude": 32.0095823,
+    "longitude": 77.31669289999999,
+    "place_id": "ChIJCY_JwWlcBDkR8ik57RcOiuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCY_JwWlcBDkR8ik57RcOiuQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:17:53"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "175134",
+    "phone_number": "+91 89884 83585",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WARD NO 1, majhaan, sainj, Bhallan-i, Himachal Pradesh 175134",
+    "area": "majhaan",
+    "latitude": 31.81872,
+    "longitude": 77.33493,
+    "place_id": "ChIJcV6gyexRBDkRJ77bOTfX_uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcV6gyexRBDkRJ77bOTfX_uw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:17:54"
+  }
+]

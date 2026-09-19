@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flower Point",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Balloon store, Dried flower shop, Event planner, Flower delivery, Flower designer, Flower market, Gift basket store, Gift shop, Wedding service",
+    "pincode": "175139",
+    "phone_number": "+91 99155 74333",
+    "website": "http://www.flowerpoint.in/",
+    "rating": 4.8,
+    "reviews_count": 255,
+    "address": "Shop no.1, plot, Mall Rd, Model Town, Jalandhar, Punjab 144003",
+    "area": "Model Town",
+    "latitude": 31.310159499999997,
+    "longitude": 75.5787844,
+    "place_id": "ChIJ2TlATFRbGjkRWQChS_q5hlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TlATFRbGjkRWQChS_q5hlg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:23:14"
+  },
+  {
+    "business_name": "Surbhi florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Dried flower shop, Flower delivery, Flower market",
+    "pincode": "175139",
+    "phone_number": "+91 74176 09223",
+    "website": "https://surbhiflorist.com/",
+    "rating": 4.9,
+    "reviews_count": 241,
+    "address": "8, sekhari bazar, Rajpur Rd, near Kamal Jewellers, Ashtley Hall, Irigation Colony, Karanpur, Dehradun, Uttarakhand 248001",
+    "area": "Ashtley Hall, Irigation Colony, Karanpur",
+    "latitude": 30.328732799999997,
+    "longitude": 78.04669059999999,
+    "place_id": "ChIJzalF4MQpCTkRt-Nk48Oz6ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzalF4MQpCTkRt-Nk48Oz6ow",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:23:14"
+  }
+]

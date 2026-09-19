@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palampur Kangra",
+    "search_category": "Commercial Complex",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "176038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4G6P+9G4, Berachah, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1108881,
+    "longitude": 76.53633409999999,
+    "place_id": "ChIJ9UqbFwCzBDkRBosaCm3g5Qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UqbFwCzBDkRBosaCm3g5Qk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:14"
+  },
+  {
+    "business_name": "Kangra Mandir",
+    "search_category": "Commercial Complex",
+    "primary_category": "Train station",
+    "all_categories": "Train station",
+    "pincode": "176038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 125,
+    "address": "Halehr Khurd, Himachal Pradesh 176038",
+    "area": "176038",
+    "latitude": 32.0973543,
+    "longitude": 76.28679369999999,
+    "place_id": "ChIJa8-VSnFPGzkR-6amybRlQQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8-VSnFPGzkR-6amybRlQQQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:02:14"
+  }
+]

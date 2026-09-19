@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhu Multi Gen Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, General store, Shopping mall",
+    "pincode": "176001",
+    "phone_number": "+91 98820 78911",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "A Shopping Complex, Suvidha Plaza, 45, Yol, Himachal Pradesh 176052",
+    "area": "176001",
+    "latitude": 32.1830675,
+    "longitude": 76.37437179999999,
+    "place_id": "ChIJZQAApyJSGzkR1fVzSGo0VRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQAApyJSGzkR1fVzSGo0VRE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:33:24"
+  },
+  {
+    "business_name": "Smart Point",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "176001",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://relianceretail.com/",
+    "rating": 4,
+    "reviews_count": 173,
+    "address": "Kedar Complex, Teh, near HDFC Bank, Tharu, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176001",
+    "latitude": 32.1051679,
+    "longitude": 76.37101439999999,
+    "place_id": "ChIJkyTFPGJNGzkRZqnknxgy_yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyTFPGJNGzkRZqnknxgy_yo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:33:25"
+  }
+]

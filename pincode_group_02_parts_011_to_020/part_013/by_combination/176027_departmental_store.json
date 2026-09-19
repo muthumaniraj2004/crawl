@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Walia karyana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Supermarket",
+    "pincode": "176027",
+    "phone_number": "+91 86298 61789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Shop No 5, Road, Nagrota Bagwan, Lahar, Himachal Pradesh 176047",
+    "area": "176027",
+    "latitude": 32.1149001,
+    "longitude": 76.3908423,
+    "place_id": "ChIJO8g7LLVNGzkRaoTaNta8f64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8g7LLVNGzkRaoTaNta8f64",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:19"
+  },
+  {
+    "business_name": "Dinesh Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "176027",
+    "phone_number": "+91 88941 01097",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, Near Bus Stand Main, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176027",
+    "latitude": 32.056756799999995,
+    "longitude": 76.08756079999999,
+    "place_id": "ChIJTfKJgVhDGzkRhr1XNI55mW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfKJgVhDGzkRhr1XNI55mW0",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:19"
+  }
+]

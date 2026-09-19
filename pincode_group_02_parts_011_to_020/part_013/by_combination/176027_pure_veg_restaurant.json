@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CRIMZEE PIZZA NAGROTA SURIAN",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe",
+    "pincode": "176027",
+    "phone_number": "+91 93173 68001",
+    "website": "https://crimzepizza.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mall Road, Nagrota Surian, Himachal Pradesh 177026",
+    "area": "176027",
+    "latitude": 32.0562967,
+    "longitude": 76.0940684,
+    "place_id": "ChIJ0zh_bwBDGzkRy6I_E8OrFjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zh_bwBDGzkRy6I_E8OrFjA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:27"
+  },
+  {
+    "business_name": "Refuel Eating Point",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "176027",
+    "phone_number": "+91 98572 84370",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 26,
+    "address": "Main, opposite Boys Hostel, Masal, Nagrota Bagwan, Himachal Pradesh 176047",
+    "area": "176027",
+    "latitude": 32.0914435,
+    "longitude": 76.3951124,
+    "place_id": "ChIJsRDDYjlNGzkRuhl1L2ZPULE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRDDYjlNGzkRuhl1L2ZPULE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:29"
+  }
+]

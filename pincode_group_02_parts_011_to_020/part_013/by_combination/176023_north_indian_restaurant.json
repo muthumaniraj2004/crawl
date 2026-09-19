@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foodie point",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "176023",
+    "phone_number": "+91 98055 19928",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Vpo, teh, distt, chandua, Himachal Pradesh 176026",
+    "area": "distt",
+    "latitude": 32.0821885,
+    "longitude": 76.1597786,
+    "place_id": "ChIJjwdAPmtDGzkRCYvGJTueGLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwdAPmtDGzkRCYvGJTueGLo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:39:07"
+  },
+  {
+    "business_name": "Punjabi Jatt Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "176023",
+    "phone_number": "+91 97361 77805",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 222,
+    "address": "Dramman, Kangra, NH-20, Mandi Pathankot Road, Shahpur, Shahpur, Himachal Pradesh 176207",
+    "area": "176023",
+    "latitude": 32.2238421,
+    "longitude": 76.1724169,
+    "place_id": "ChIJn2FSAAJcGzkR_vu3UN4Wm_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2FSAAJcGzkR_vu3UN4Wm_s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:39:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghumarwin Home",
+    "search_category": "Interior Designers",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "176057",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CPG9+J2F, Kiari, Kulahru, Himachal Pradesh 174021",
+    "area": "176057",
+    "latitude": 31.4265607,
+    "longitude": 76.7175512,
+    "place_id": "ChIJV3c_OQA7BTkRbpy3DUIqWqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3c_OQA7BTkRbpy3DUIqWqg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:32:20"
+  },
+  {
+    "business_name": "MIKA Interior Design",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "176057",
+    "phone_number": "N/A",
+    "website": "https://mikainteriordesign.wixsite.com/website",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "MIKA Interior Design, 176057, India",
+    "area": "176057",
+    "latitude": 40.149279,
+    "longitude": -76.29504299999999,
+    "place_id": "ChIJs5YTzxzdyIkRUWhGs7gTG3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5YTzxzdyIkRUWhGs7gTG3s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:32:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badyal Tyre Works",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Used tire shop",
+    "pincode": "176025",
+    "phone_number": "+91 94786 78283",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Old Talwara, Punjab 144216",
+    "area": "176025",
+    "latitude": 31.940312499999997,
+    "longitude": 75.89106249999999,
+    "place_id": "ChIJdw0VrJxzGzkR7DrW_DwRQYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdw0VrJxzGzkR7DrW_DwRQYc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:20"
+  },
+  {
+    "business_name": "Ramgarhia Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "176025",
+    "phone_number": "+91 94171 54534",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Tarrace road, Old Talwara, Punjab 144216",
+    "area": "176025",
+    "latitude": 31.9406389,
+    "longitude": 75.8912153,
+    "place_id": "ChIJnyVpIJBzGzkR-cTCbzZNv-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyVpIJBzGzkR-cTCbzZNv-s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:41:20"
+  }
+]

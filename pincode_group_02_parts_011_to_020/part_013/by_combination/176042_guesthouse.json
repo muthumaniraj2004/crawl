@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "176042",
+    "phone_number": "+91 98161 32370",
+    "website": "https://kumar-guest-house.preview.emergentagent.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "73, 1, Ram Bazar, Shimla, Himachal Pradesh 171001",
+    "area": "Ram Bazar",
+    "latitude": 31.1045341,
+    "longitude": 77.1702564,
+    "place_id": "ChIJe5Wqvex4BTkR9bDvM0rarLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5Wqvex4BTkR9bDvM0rarLk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:08:49"
+  },
+  {
+    "business_name": "Shiva Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "176042",
+    "phone_number": "+91 86270 87520",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "PF4G+PG3, Jhaneri, Himachal Pradesh 177001",
+    "area": "176042",
+    "latitude": 31.706767799999998,
+    "longitude": 76.4762877,
+    "place_id": "ChIJD7SJoHrVBDkRp_5J3OXf9zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7SJoHrVBDkRp_5J3OXf9zE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:08:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Digvijay's Polyclinic and Clinical Laboratory",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "176047",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Tanda Road, near tea garden, Rajpur, Palampur, Himachal Pradesh 176061",
+    "area": "176047",
+    "latitude": 32.0857858,
+    "longitude": 76.5300646,
+    "place_id": "ChIJPd52Q_2zBDkRIixJKaPXkag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPd52Q_2zBDkRIixJKaPXkag",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:28"
+  },
+  {
+    "business_name": "ECHS PALAMPUR",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176047",
+    "phone_number": "N/A",
+    "website": "https://trendinghimachal.com/",
+    "rating": 3.8,
+    "reviews_count": 19,
+    "address": "4G5W+F2M, teh, ECHS, Holta, Palampur, Banuri, Himachal Pradesh 176061",
+    "area": "ECHS, Holta",
+    "latitude": 32.1087244,
+    "longitude": 76.5450334,
+    "place_id": "ChIJVVVVVV6xBDkRKVsUW3T89Vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVV6xBDkRKVsUW3T89Vg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:15:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A2Z Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto parts store, Shopping mall",
+    "pincode": "176036",
+    "phone_number": "+91 79733 48728",
+    "website": "https://www.a2zgarage.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nh - 88, Adj Indian Ol Petrol Pump, Bharoli, Teh, Jawalamukhi, Himachal Pradesh 176036",
+    "area": "176036",
+    "latitude": 31.791580099999997,
+    "longitude": 76.3387034,
+    "place_id": "ChIJ51wz6K4xGzkRtuFbWgIdRIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51wz6K4xGzkRtuFbWgIdRIM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:57:27"
+  },
+  {
+    "business_name": "ICICI Lombard Network Garage Nadaun, Himachal Pradesh (CAR CARE ENGINEERS)",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Garage",
+    "pincode": "176036",
+    "phone_number": "+91 98173 41181",
+    "website": "https://www.icicilombard.com/motor-insurance/car-insurance?utm_source=google&utm_medium=maps&utm_campaign=network_garage_nadaun",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VILL-GAGAAL, P.O JALARI, TEH, Nadaun, Himachal Pradesh 177042",
+    "area": "176036",
+    "latitude": 31.7662643,
+    "longitude": 76.37256579999999,
+    "place_id": "ChIJL5Y--JotGzkREWdDjs2781Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5Y--JotGzkREWdDjs2781Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:57:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "krathiyal holidays",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Service establishment",
+    "pincode": "176037",
+    "phone_number": "+91 88378 24639",
+    "website": "https://krathiyalholidays.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "krathiyal holidays, 176037, India",
+    "area": "176037",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJg2fsy0x-gKkR-FSuhKR8NZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2fsy0x-gKkR-FSuhKR8NZY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:59:22"
+  },
+  {
+    "business_name": "J.S Tour And Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "176037",
+    "phone_number": "+91 98053 26373",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "po, vill, Dhinnu, Kulthi, Himachal Pradesh 176038",
+    "area": "po, vill",
+    "latitude": 32.0421744,
+    "longitude": 76.2783235,
+    "place_id": "ChIJRylFo4JJGzkRPQQF_uGFF2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRylFo4JJGzkRPQQF_uGFF2o",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:59:22"
+  }
+]

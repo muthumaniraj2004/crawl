@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Renuka's Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Pediatric clinic",
+    "pincode": "176066",
+    "phone_number": "+91 89787 32671",
+    "website": "https://drrenukachildcare.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sai Ram Nagar Colony, Plot no 83, Kanchi Gachibowli Rd, opp. Navodaya Vidyalaya, Tellapur, Nallagandla, Hyderabad, Telangana 500046",
+    "area": "Tellapur",
+    "latitude": 17.458759,
+    "longitude": 78.30718809999999,
+    "place_id": "ChIJm1jaX9uTyzsRf6N2WAmXwoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1jaX9uTyzsRf6N2WAmXwoU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:48:26"
+  },
+  {
+    "business_name": "Elite Child Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "176066",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vijay Housing Society, Konark Nagar, Jule, Solapur, Maharashtra 413004",
+    "area": "Vijay Housing Society, Konark Nagar, Jule",
+    "latitude": 17.6441732,
+    "longitude": 75.89966179999999,
+    "place_id": "ChIJGz77iKfQxTsR8nAu_f7XcbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGz77iKfQxTsR8nAu_f7XcbM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:48:27"
+  }
+]

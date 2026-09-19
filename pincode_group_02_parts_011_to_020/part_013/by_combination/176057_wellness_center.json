@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tibetan Sorig Wellness Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "176057",
+    "phone_number": "+91 98052 26169",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Opposite to Mitra 2.0 Jogiwara Road Daharamsala, McLeod Ganj, Kangra, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.235214899999995,
+    "longitude": 76.32770649999999,
+    "place_id": "ChIJPcTmj5JRGzkRAKS8UawQ9Yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcTmj5JRGzkRAKS8UawQ9Yc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:32:28"
+  },
+  {
+    "business_name": "Kang Wellness Clinic",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176057",
+    "phone_number": "+91 160 452 4145",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Wazir Chownk, Chajju Majra Colony, Model Town, Kharar, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Chajju Majra Colony, Model Town",
+    "latitude": 30.7336824,
+    "longitude": 76.6675649,
+    "place_id": "ChIJPQNXIQDvDzkRjRe7wuWYvII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQNXIQDvDzkRjRe7wuWYvII",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:32:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CP Vet Sushant Lok",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Emergency veterinarian service, Pet boarding service, Pet groomer, Pet supply store, Veterinary pharmacy",
+    "pincode": "176062",
+    "phone_number": "+91 99582 20651",
+    "website": "http://cpvet.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CP Vet (सीपी वेट, Bestech Centre Point, Centre Point Pet Hospital Private Limited, Block A, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009",
+    "area": "Block A, Sushant Lok Phase I, Sector 43",
+    "latitude": 28.4684864,
+    "longitude": 77.0747081,
+    "place_id": "ChIJWzQ5buEYDTkRR69t9W0DN_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzQ5buEYDTkRR69t9W0DN_8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:41:08"
+  },
+  {
+    "business_name": "dr.sid's pet clinic ( डॉ. सिद्धार्थ )",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "176062",
+    "phone_number": "+91 97823 16564",
+    "website": "https://bit.ly/3qGpd4d",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "127vijay nagar, Vijay Nagar, Alwar, Rajasthan 301001",
+    "area": "Vijay Nagar",
+    "latitude": 27.58232,
+    "longitude": 76.6072989,
+    "place_id": "ChIJHR4TWruZcjkRR5bFkXx0iU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHR4TWruZcjkRR5bFkXx0iU8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:41:08"
+  }
+]

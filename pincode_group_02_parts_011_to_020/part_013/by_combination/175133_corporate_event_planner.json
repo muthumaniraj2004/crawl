@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Glacier View Camp",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Campground",
+    "all_categories": "Campground",
+    "pincode": "175133",
+    "phone_number": "+91 98174 00100",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 48,
+    "address": "Village Jagla PO Gondhla Distt, Keylong, Himachal Pradesh 175140",
+    "area": "175133",
+    "latitude": 32.5030395,
+    "longitude": 77.0544567,
+    "place_id": "ChIJlY06syB7AzkRZKuOWJFX7rI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlY06syB7AzkRZKuOWJFX7rI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:15:45"
+  },
+  {
+    "business_name": "Technotree Event Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "175133",
+    "phone_number": "+91 98881 51899",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "132,First Floor, near Agro Mall, Sector 20, Panchkula, Haryana 134117",
+    "area": "Sector 20",
+    "latitude": 30.6714283,
+    "longitude": 76.8574825,
+    "place_id": "ChIJCwh1cP-VDzkRer5NJ1x4SC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwh1cP-VDzkRer5NJ1x4SC8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:15:46"
+  }
+]

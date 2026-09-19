@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parvatah",
+    "search_category": "Guesthouse",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast, Home Stay, Hotel",
+    "pincode": "176040",
+    "phone_number": "+91 88940 40107",
+    "website": "https://parvatah.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "First floor, House Number 1393, Village & Post Office, near Panchayat House, Bir, Himachal Pradesh 176077",
+    "area": "176040",
+    "latitude": 32.0438405,
+    "longitude": 76.7238627,
+    "place_id": "ChIJQZ-q6SG5BDkRFusby7Nx2wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZ-q6SG5BDkRFusby7Nx2wg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:05:10"
+  },
+  {
+    "business_name": "Dhiman Home Stay",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "176040",
+    "phone_number": "+91 98173 26175",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Village thamani Manjhli PO sour, Shimla - Kangra Rd, Bhota, Himachal Pradesh 176041",
+    "area": "176040",
+    "latitude": 31.606482999999997,
+    "longitude": 76.5680273,
+    "place_id": "ChIJu311KLwpBTkRjdBV4-0mOY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu311KLwpBTkRjdBV4-0mOY4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:05:10"
+  }
+]

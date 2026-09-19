@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Bagula Computer Care",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "176032",
+    "phone_number": "+91 1972 232 332",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 63,
+    "address": "NH303, Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.778541299999997,
+    "longitude": 76.34436989999999,
+    "place_id": "ChIJ_T3oRhQuGzkRpZthopTjdKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_T3oRhQuGzkRpZthopTjdKE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:36"
+  },
+  {
+    "business_name": "Ellora Computors NADAUN",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "176032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.7785236,
+    "longitude": 76.3448437,
+    "place_id": "ChIJUYWjY9YvGzkR1ZrItH3S2ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYWjY9YvGzkR1ZrItH3S2ZA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:54:39"
+  }
+]

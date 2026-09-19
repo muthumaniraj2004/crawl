@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "176026",
+    "phone_number": "+91 98056 28255",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Haripur, Himachal Pradesh 176028",
+    "area": "176026",
+    "latitude": 32.0029901,
+    "longitude": 76.1610534,
+    "place_id": "ChIJe1rK1CZBGzkRTh0gAu5FfLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1rK1CZBGzkRTh0gAu5FfLg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:42:50"
+  },
+  {
+    "business_name": "DEEPRAJ SONI JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "176026",
+    "phone_number": "+91 98161 32357",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Teh, V&Po&Sub, Haripur, Himachal Pradesh 176028",
+    "area": "V&Po&Sub",
+    "latitude": 32.0031429,
+    "longitude": 76.1609862,
+    "place_id": "ChIJzVXALCFBGzkRNbj7C2yG3GE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVXALCFBGzkRNbj7C2yG3GE",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:42:50"
+  }
+]

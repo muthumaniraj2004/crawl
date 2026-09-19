@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sainath Motors Atul dealer",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Auto market",
+    "all_categories": "Auto market, Battery Store, Car dealer, Insurance agency",
+    "pincode": "175131",
+    "phone_number": "+91 80 4803 4786",
+    "website": "https://www.srenterpriseindia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "shree Krishna estate, 376, Odhav Rd, opp. Palm Hotel, near Balaji Hotel, Odhav Industrial Estate, Nikol, Ahmedabad, Kathwada, Gujarat 382415",
+    "area": "Odhav Industrial Estate, Nikol",
+    "latitude": 23.031072899999998,
+    "longitude": 72.67539599999999,
+    "place_id": "ChIJHy-VKgCHXjkRpGQUb2LRHlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHy-VKgCHXjkRpGQUb2LRHlY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:28"
+  },
+  {
+    "business_name": "Gaurav Motors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "175131",
+    "phone_number": "+91 98340 71540",
+    "website": "https://www.trakstartractor.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PV28+3VR, Pune - Solapur Rd, Bale, Solapur, Maharashtra 413255",
+    "area": "Bale",
+    "latitude": 17.700318799999998,
+    "longitude": 75.8671869,
+    "place_id": "ChIJg6SOeADRxTsRQyfkbo6qmTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6SOeADRxTsRQyfkbo6qmTI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:29"
+  }
+]

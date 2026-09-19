@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prashar PG",
+    "search_category": "PG",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "176049",
+    "phone_number": "+91 82195 96268",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Village Bakain p.o Kalol distt bilaspur teh. Jhandutta, Kalol, Himachal Pradesh 174035",
+    "area": "176049",
+    "latitude": 31.353218,
+    "longitude": 76.6052689,
+    "place_id": "ChIJm2W4Sa43BTkRycng4zR3MIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2W4Sa43BTkRycng4zR3MIo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:19:44"
+  },
+  {
+    "business_name": "Sharma PG",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "176049",
+    "phone_number": "N/A",
+    "website": "http://sharmapg.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "House No. 414, Ward No. 8, behind ACME School, Hamirpur, Himachal Pradesh 177001",
+    "area": "Chakmoh, Galore",
+    "latitude": 31.686776,
+    "longitude": 76.5199378,
+    "place_id": "ChIJCQzscoDVBDkRGZAnd1_LcW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQzscoDVBDkRGZAnd1_LcW8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:19:44"
+  }
+]

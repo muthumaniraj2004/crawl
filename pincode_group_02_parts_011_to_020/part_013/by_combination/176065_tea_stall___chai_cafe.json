@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagsu Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176065",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "68QG+VFH, Unnamed Road, McLeod Ganj, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2396923,
+    "longitude": 76.326247,
+    "place_id": "ChIJ-6e-IC1RGzkRjpE4o9OBTPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6e-IC1RGzkRjpE4o9OBTPk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:15"
+  },
+  {
+    "business_name": "Choudhary Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176065",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "26QX+JGG, Shimla - Kangra Rd, Ghat, Choharu, Himachal Pradesh 176038",
+    "area": "176065",
+    "latitude": 32.039050599999996,
+    "longitude": 76.248824,
+    "place_id": "ChIJlXoL5bVHGzkRiM40z7E1UEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXoL5bVHGzkRiM40z7E1UEk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny Property Consultants",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial agent, Warehouse",
+    "pincode": "175140",
+    "phone_number": "+91 96440 64341",
+    "website": "http://sunnypropertyconsultants.com/",
+    "rating": 4.8,
+    "reviews_count": 103,
+    "address": "Dewas Naka, Lasudia Mori, Indore, Madhya Pradesh 452010",
+    "area": "Dewas Naka, Lasudia Mori",
+    "latitude": 22.7839362,
+    "longitude": 75.9056861,
+    "place_id": "ChIJq6qqWi0dYzkR0u4H6g9GGRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqWi0dYzkR0u4H6g9GGRw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:25:36"
+  },
+  {
+    "business_name": "Rock Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency, Property management company, Real estate rental agency",
+    "pincode": "175140",
+    "phone_number": "+91 96007 99174",
+    "website": "http://www.rockrealty.co.in/",
+    "rating": 4.8,
+    "reviews_count": 905,
+    "address": "2nd Floor, No.3, Puliakulam Rd, opp. Carmel Garden School, Ramalinga Chettiyar Layout, Ramalinga Layout, Coimbatore, Tamil Nadu 641045",
+    "area": "Ramalinga Chettiyar Layout, Ramalinga Layout",
+    "latitude": 10.9993055,
+    "longitude": 76.9863845,
+    "place_id": "ChIJd7N_YgFZqDsRbhIR0Ci_59g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7N_YgFZqDsRbhIR0Ci_59g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:25:36"
+  }
+]

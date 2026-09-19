@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Himalayan Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "175131",
+    "phone_number": "N/A",
+    "website": "https://thehimalayantravels.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Leo Manali, Siyal, Manali, Himachal Pradesh 175131",
+    "area": "Siyal",
+    "latitude": 32.2431392,
+    "longitude": 77.1891125,
+    "place_id": "ChIJmZ_jytuJBDkR2KqUmpCUZ9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZ_jytuJBDkR2KqUmpCUZ9s",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:33"
+  },
+  {
+    "business_name": "BIKE RENTAL SAKSHAM TOUR AND TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "175131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 123,
+    "address": "65MP+VRJ bus stand, near volvo, Manali, Himachal Pradesh 175131",
+    "area": "175131",
+    "latitude": 32.2347172,
+    "longitude": 77.1870248,
+    "place_id": "ChIJ9-xUXJ6JBDkRtp4wMgY68XI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-xUXJ6JBDkRtp4wMgY68XI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:11:34"
+  }
+]

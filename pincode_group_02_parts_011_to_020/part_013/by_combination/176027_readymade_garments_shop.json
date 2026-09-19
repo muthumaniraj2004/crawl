@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahajan Cloth House",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176027",
+    "phone_number": "+91 94596 39250",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vpo, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "Vpo",
+    "latitude": 32.0568767,
+    "longitude": 76.0881795,
+    "place_id": "ChIJtdVoMJ9DGzkRHUDii_Mh6sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdVoMJ9DGzkRHUDii_Mh6sg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:33"
+  },
+  {
+    "business_name": "Jyoti Cloth house",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "176027",
+    "phone_number": "+91 98168 19980",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "334P+FVH, Nagrota Surian, Himachal Pradesh 176027",
+    "area": "176027",
+    "latitude": 32.0561785,
+    "longitude": 76.0872285,
+    "place_id": "ChIJtXzx9ApCGzkRBFUyYkNJmMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXzx9ApCGzkRBFUyYkNJmMA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:44:33"
+  }
+]

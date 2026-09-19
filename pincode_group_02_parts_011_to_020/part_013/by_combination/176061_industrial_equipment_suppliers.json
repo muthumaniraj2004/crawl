@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A K Enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier",
+    "pincode": "176061",
+    "phone_number": "+91 78887 01991",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Andreta, Panchrukhi, Himachal Pradesh 176103",
+    "area": "176061",
+    "latitude": 32.056559199999995,
+    "longitude": 76.56471739999999,
+    "place_id": "ChIJKTuWQmC3BDkRz0VwML05Hgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTuWQmC3BDkRz0VwML05Hgs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:40:22"
+  },
+  {
+    "business_name": "Jai Maa Enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier, Agricultural Product Wholesaler, Farm Equipment Repair Shop",
+    "pincode": "176061",
+    "phone_number": "+91 86270 32727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near verma chicken corner, Banuri, Palampur, Himachal Pradesh 176061",
+    "area": "176061",
+    "latitude": 32.0946739,
+    "longitude": 76.569614,
+    "place_id": "ChIJFcOTvNmxBDkR1DDJVT3ooMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcOTvNmxBDkR1DDJVT3ooMs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:40:22"
+  }
+]

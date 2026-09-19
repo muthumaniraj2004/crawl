@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The coffea cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176022",
+    "phone_number": "+91 70185 78047",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Post office Rehan teh, distt, nurpur, Rehan, Himachal Pradesh 176022",
+    "area": "176022",
+    "latitude": 32.1638436,
+    "longitude": 75.90798099999999,
+    "place_id": "ChIJCZHleEZlGzkRvB63tLOMdTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZHleEZlGzkRvB63tLOMdTY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:22"
+  },
+  {
+    "business_name": "Coy's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176022",
+    "phone_number": "N/A",
+    "website": "http://coyscafe.com/",
+    "rating": 4,
+    "reviews_count": 345,
+    "address": "Hotel Fresco Lohna, Road, Bundla, Palampur, Himachal Pradesh 176061",
+    "area": "Sarswati Vihar, Bundla",
+    "latitude": 32.1265967,
+    "longitude": 76.5416754,
+    "place_id": "ChIJS-zcJsOzBDkRR0yVj33Yx5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-zcJsOzBDkRR0yVj33Yx5g",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:37:24"
+  }
+]

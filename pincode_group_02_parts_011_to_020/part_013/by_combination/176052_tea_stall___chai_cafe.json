@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Himalayan Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Tea house",
+    "pincode": "176052",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 284,
+    "address": "68WG+397, Trail to Triund Hill from Main Square, Dharamkot, Dharamshala, Himachal Pradesh 176216",
+    "area": "Dharamkot",
+    "latitude": 32.2451508,
+    "longitude": 76.32591769999999,
+    "place_id": "ChIJ9dhNytNWGzkRAiYi6gtFoJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dhNytNWGzkRAiYi6gtFoJ4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:22:25"
+  },
+  {
+    "business_name": "Chai O'Clock",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "176052",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 15,
+    "address": "Tcv dallake, road Main square, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2433142,
+    "longitude": 76.3211567,
+    "place_id": "ChIJL0XE7OZRGzkRbVw1sUnueYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0XE7OZRGzkRbVw1sUnueYA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:22:25"
+  }
+]

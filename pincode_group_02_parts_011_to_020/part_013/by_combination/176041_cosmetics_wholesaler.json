@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal General Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "176041",
+    "phone_number": "+91 97366 91574",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JG34+H5W, chowk salouni, Nadaun, Himachal Pradesh 174311",
+    "area": "176041",
+    "latitude": 31.603984999999998,
+    "longitude": 76.5054443,
+    "place_id": "ChIJOyTUUlgqBTkRikCUtZkG8LA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyTUUlgqBTkRikCUtZkG8LA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:06:50"
+  },
+  {
+    "business_name": "SMART Enterprises",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "176041",
+    "phone_number": "+91 78076 74574",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Morsu, Bhota, Himachal Pradesh 177401",
+    "area": "176041",
+    "latitude": 31.618184,
+    "longitude": 76.5645966,
+    "place_id": "ChIJfVILAGQpBTkR-EHlddptl0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVILAGQpBTkR-EHlddptl0A",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:06:53"
+  }
+]

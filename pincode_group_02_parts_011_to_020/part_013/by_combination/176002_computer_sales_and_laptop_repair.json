@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalaxmi computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer support and services",
+    "pincode": "176002",
+    "phone_number": "+91 99272 82340",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Shop 1, Rahamat Nagar, Bhagwanpur, Shahpur, Uttarakhand 247661",
+    "area": "Rahamat Nagar",
+    "latitude": 29.9413451,
+    "longitude": 77.8116952,
+    "place_id": "ChIJqf1JhK23DjkRk7_2T6SH5L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqf1JhK23DjkRk7_2T6SH5L8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:34:49"
+  },
+  {
+    "business_name": "S.R. Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer service, Data recovery service",
+    "pincode": "176002",
+    "phone_number": "+91 96405 62129",
+    "website": "https://www.srcomputers.tech/",
+    "rating": 5,
+    "reviews_count": 38,
+    "address": "Ameenpur Rd, near Trends, beside Jyothi Foot Wear Cost 2 Cost, Vidya Nagar Colony, Bandam Kommu, Chanda Nagar, Miyapur, Hyderabad, Telangana 500050",
+    "area": "Vidya Nagar Colony, Bandam Kommu, Chanda Nagar",
+    "latitude": 17.5025042,
+    "longitude": 78.31814399999999,
+    "place_id": "ChIJCaGUvm2TyzsRDH06RkCZ99M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCaGUvm2TyzsRDH06RkCZ99M",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:34:49"
+  }
+]

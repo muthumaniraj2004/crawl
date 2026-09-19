@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AHC MENJHA",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "176064",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4F2M+C6W, Menjha, Menjha Uparla, Himachal Pradesh 176061",
+    "area": "Menjha",
+    "latitude": 32.1016446,
+    "longitude": 76.4830995,
+    "place_id": "ChIJXWq8XwCzBDkRaMPzDwYeaZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWq8XwCzBDkRaMPzDwYeaZQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:44:42"
+  },
+  {
+    "business_name": "Chimbalhar",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "176064",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4F6W+5XX, Chimbalhar, Himachal Pradesh 176061",
+    "area": "Chimbalhar",
+    "latitude": 32.110648,
+    "longitude": 76.49884999999999,
+    "place_id": "ChIJQ66xMQCzBDkRYpsG4TWD0FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ66xMQCzBDkRYpsG4TWD0FU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:44:42"
+  }
+]

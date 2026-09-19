@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Fashion Hub Fatehpur",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "176053",
+    "phone_number": "+91 88943 27919",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "4W5R+23H, Moch, Kut, Himachal Pradesh 176053",
+    "area": "176053",
+    "latitude": 32.107561499999996,
+    "longitude": 75.9402494,
+    "place_id": "ChIJOwNYGgBvGzkRAGwB7EFqzdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwNYGgBvGzkRAGwB7EFqzdo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:24:30"
+  },
+  {
+    "business_name": "Shivani tailring material shop",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "176053",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fatehpur, Himachal Pradesh 176053",
+    "area": "176053",
+    "latitude": 32.1009892,
+    "longitude": 75.94342089999999,
+    "place_id": "ChIJaTFwbOhvGzkRvrz_08C4Fac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTFwbOhvGzkRvrz_08C4Fac",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:24:30"
+  }
+]

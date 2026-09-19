@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175139",
+    "phone_number": "+91 60054 85387",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Shahpur, Kuthehar, Himachal Pradesh 176208",
+    "area": "175139",
+    "latitude": 32.1856349,
+    "longitude": 76.2397001,
+    "place_id": "ChIJmQOY6iZbGzkRfTLbDjtQD-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQOY6iZbGzkRfTLbDjtQD-Y",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:12"
+  },
+  {
+    "business_name": "Ashrra Provision Stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "175139",
+    "phone_number": "+91 98451 30454",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Door No 147/4, 2nd Main Road, Vidyaranyanagar, Magadi Road, Opposite-Kuvempu Park, Vijayanagar, Bengaluru, Karnataka 560023",
+    "area": "Cholur Palya, Vijayanagar",
+    "latitude": 12.9723702,
+    "longitude": 77.5481637,
+    "place_id": "ChIJHxSc8eQ9rjsRQUK0bh1ApYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxSc8eQ9rjsRQUK0bh1ApYg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:22:12"
+  }
+]

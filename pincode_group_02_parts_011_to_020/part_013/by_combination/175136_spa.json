@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banya Ritual Manali",
+    "search_category": "Spa",
+    "primary_category": "Sauna",
+    "all_categories": "Sauna",
+    "pincode": "175136",
+    "phone_number": "+91 99710 31599",
+    "website": "https://banyaritualmanali.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Soyl Mansion, Soil Valley, Kullu - Naggar - Manali Rd, manali, Soil, Himachal Pradesh 175136",
+    "area": "175136",
+    "latitude": 32.1456207,
+    "longitude": 77.1895543,
+    "place_id": "ChIJF4H-iEeLBDkRUUlQznteU58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4H-iEeLBDkRUUlQznteU58",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:19:18"
+  },
+  {
+    "business_name": "Tanishka cottage",
+    "search_category": "Spa",
+    "primary_category": "Cottage",
+    "all_categories": "Cottage",
+    "pincode": "175136",
+    "phone_number": "+91 70152 68199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manali, Soil, Himachal Pradesh 175136",
+    "area": "Manali",
+    "latitude": 32.1503067,
+    "longitude": 77.1666702,
+    "place_id": "ChIJUWd6HZSJBDkRxfGuzy5gAdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWd6HZSJBDkRxfGuzy5gAdM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:19:20"
+  }
+]

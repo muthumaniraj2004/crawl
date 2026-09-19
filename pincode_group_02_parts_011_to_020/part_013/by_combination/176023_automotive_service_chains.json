@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Automotive",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop",
+    "pincode": "176023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Banei, Lubh - Joanta Rd, Jawali, Himachal Pradesh 176023",
+    "area": "Lab",
+    "latitude": 32.151989,
+    "longitude": 75.99746449999999,
+    "place_id": "ChIJH4zQZThnGzkRQFcF09y_WIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4zQZThnGzkRQFcF09y_WIs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:39:41"
+  },
+  {
+    "business_name": "Bharat Auto Work",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "176023",
+    "phone_number": "+91 98050 61446",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "SH-22, Raja Ka Talab Road, Jawalamukhi, Samlana, Jawali, Himachal Pradesh 176023",
+    "area": "Jawalamukhi",
+    "latitude": 32.145176,
+    "longitude": 75.9720613,
+    "place_id": "ChIJVYMOzsdlGzkRJx2O24p-dlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYMOzsdlGzkRJx2O24p-dlg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:39:41"
+  }
+]

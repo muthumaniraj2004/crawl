@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rk electricals mohal",
+    "search_category": "Electrician",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "175126",
+    "phone_number": "+91 97369 45414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W47F+F9Q, Mohal, Himachal Pradesh 175126",
+    "area": "175126",
+    "latitude": 31.9137125,
+    "longitude": 77.1234844,
+    "place_id": "ChIJqYwHUwD3BDkRcCY4WQIgd8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYwHUwD3BDkRcCY4WQIgd8c",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:04:11"
+  },
+  {
+    "business_name": "Shiva electric",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "175126",
+    "phone_number": "+91 98165 69885",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhutti Colony, Bhutti, Himachal Pradesh 175126",
+    "area": "Bhutti Colony",
+    "latitude": 31.904761099999998,
+    "longitude": 77.13253209999999,
+    "place_id": "ChIJQdlq4ij3BDkRn4V7ZZIIqng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdlq4ij3BDkRn4V7ZZIIqng",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:04:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govinda's",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Bakery and Cake Shop, Sweet shop, Chinese restaurant, Italian restaurant, South Indian restaurant",
+    "pincode": "175133",
+    "phone_number": "+91 90516 55522",
+    "website": "https://govindarestaurant.org/",
+    "rating": 4.4,
+    "reviews_count": 4454,
+    "address": "22, Gurusaday Dutta Rd, opposite Max Muller Bhavan, Rowland Row, Ballygunge, Kolkata, West Bengal 700020",
+    "area": "Rowland Row, Ballygunge",
+    "latitude": 22.5373424,
+    "longitude": 88.35844519999999,
+    "place_id": "ChIJwcgUgyF3AjoREGgQICxTdAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcgUgyF3AjoREGgQICxTdAc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:45"
+  },
+  {
+    "business_name": "Veg मंडळी Pure Veg Restaurant & Snack Center",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fast food restaurant",
+    "pincode": "175133",
+    "phone_number": "+91 83290 02012",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "J25H+CCV, NH 48, Valase, Maharashtra 415519",
+    "area": "175133",
+    "latitude": 17.608617199999998,
+    "longitude": 74.02854169999999,
+    "place_id": "ChIJ3VbXBuw7wjsRtoVbGVD6oKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VbXBuw7wjsRtoVbGVD6oKA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:14:46"
+  }
+]

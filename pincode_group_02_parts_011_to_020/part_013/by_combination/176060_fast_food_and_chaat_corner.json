@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza Mannia",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Pizza delivery",
+    "pincode": "176060",
+    "phone_number": "+91 88945 44646",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 197,
+    "address": "SH 17, Berachah, Near Axis Bank, Palampur, Himachal Pradesh 176061",
+    "area": "Berachah",
+    "latitude": 32.1090771,
+    "longitude": 76.5375822,
+    "place_id": "ChIJg8dMSt2zBDkRFBAOeVS9cAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8dMSt2zBDkRFBAOeVS9cAo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:37:04"
+  },
+  {
+    "business_name": "Himachal Hut",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "176060",
+    "phone_number": "+91 97364 76181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Near, sbi chowk, Jaisinghpur, Himachal Pradesh 176095",
+    "area": "176060",
+    "latitude": 31.8988353,
+    "longitude": 76.5959446,
+    "place_id": "ChIJ816qBXHPBDkR61VS1dGNOow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ816qBXHPBDkR61VS1dGNOow",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:37:06"
+  }
+]

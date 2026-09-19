@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANISH Digital Marketing Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "176048",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "HMXW+4X6, Una - Jahu - Ner Chowk Rd, Mundkhar, Himachal Pradesh 176044",
+    "area": "176048",
+    "latitude": 31.597785,
+    "longitude": 76.697386,
+    "place_id": "ChIJtxVKgwInBTkR0SrzDzwnWRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxVKgwInBTkR0SrzDzwnWRc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:18:32"
+  },
+  {
+    "business_name": "My Twitter",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "176048",
+    "phone_number": "N/A",
+    "website": "https://mytwitter.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "vpo, Hatwar, Ghumarwin, Himachal Pradesh 174028",
+    "area": "Hatwar",
+    "latitude": 31.5730811,
+    "longitude": 76.69765439999999,
+    "place_id": "ChIJleW6YEonBTkRIawCCseyXNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleW6YEonBTkRIawCCseyXNY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:18:32"
+  }
+]

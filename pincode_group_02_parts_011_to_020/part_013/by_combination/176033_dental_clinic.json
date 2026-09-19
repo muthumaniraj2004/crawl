@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dental Solutions",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist, Dental implants provider, Orthodontist",
+    "pincode": "176033",
+    "phone_number": "+91 94185 26352",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 156,
+    "address": "Near, bhota Chowk, opposite Sudershan Mega Mart, Galore, Hamirpur, Himachal Pradesh 177001",
+    "area": "Galore",
+    "latitude": 31.682151599999997,
+    "longitude": 76.52416029999999,
+    "place_id": "ChIJsWZERHPVBDkRt7ryVvRPP2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWZERHPVBDkRt7ryVvRPP2E",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:34"
+  },
+  {
+    "business_name": "Pawana Dental Clinic - Best Dental Surgeon/Dental Implants/Root Canal/Best Dental Clinic in Dharamshala",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dental hygienist, Dental implants periodontist, Dental implants provider, Dentist",
+    "pincode": "176033",
+    "phone_number": "+91 98166 33325",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 33,
+    "address": "Near, Ghurlu bridge, Sidhpur, Himachal Pradesh 176215",
+    "area": "176033",
+    "latitude": 32.192754199999996,
+    "longitude": 76.3487171,
+    "place_id": "ChIJAUEWhZtRGzkRHVeGdY_Iwbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUEWhZtRGzkRHVeGdY_Iwbo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:55:34"
+  }
+]

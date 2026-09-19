@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan Enterprises",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "175125",
+    "phone_number": "+91 78072 24895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv mandir, forest chowk, Bajaura, Himachal Pradesh 175125",
+    "area": "175125",
+    "latitude": 31.8466126,
+    "longitude": 77.1614859,
+    "place_id": "ChIJXbOhgFX5BDkR9F9R21ud0rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbOhgFX5BDkR9F9R21ud0rM",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:02:43"
+  },
+  {
+    "business_name": "Lok Mitra Kendra",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "175125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bhuntar Bazaar Gali, Parla Bhuntar, Bhuntar, Shillihar, Himachal Pradesh 175125",
+    "area": "Parla Bhuntar",
+    "latitude": 31.883593899999997,
+    "longitude": 77.1513775,
+    "place_id": "ChIJMTBInyr4BDkRgEJW5G78UFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTBInyr4BDkRgEJW5G78UFg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:02:43"
+  }
+]

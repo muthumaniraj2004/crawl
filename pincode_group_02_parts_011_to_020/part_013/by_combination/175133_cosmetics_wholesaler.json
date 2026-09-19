@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DAWAR BEAUTY COLLECTION",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Jewelry store",
+    "pincode": "175133",
+    "phone_number": "+91 98217 90917",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "B/2/9, Lal Quarters Rd, Block B, Krishna Nagar, New Delhi, Delhi, 110051",
+    "area": "Block B, Krishna Nagar",
+    "latitude": 28.6584392,
+    "longitude": 77.2789841,
+    "place_id": "ChIJAUIFGT79DDkR_Tb_Et_Q42w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUIFGT79DDkR_Tb_Et_Q42w",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:15:33"
+  },
+  {
+    "business_name": "Sethi General Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, General store",
+    "pincode": "175133",
+    "phone_number": "+91 172 270 1818",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Booth Number 7, Sector 22 Market Rd, Sector 22D, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22D, Sector 22",
+    "latitude": 30.7344641,
+    "longitude": 76.77002209999999,
+    "place_id": "ChIJVVVVVaTtDzkRkyq1fyw54XQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVaTtDzkRkyq1fyw54XQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:15:33"
+  }
+]

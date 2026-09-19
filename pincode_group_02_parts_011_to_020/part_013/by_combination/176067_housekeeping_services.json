@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Air duct cleaning service, Carpenter, Carpet cleaning service, Dry cleaner, Cleaning Services, Pest control service, Plumber, Tile cleaning service, Window cleaning service",
+    "pincode": "176067",
+    "phone_number": "+91 86259 20208",
+    "website": "https://indianhomeservices.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nageshwarwadi, Priyadarshini Colony, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Nageshwarwadi, Priyadarshini Colony",
+    "latitude": 19.8823188,
+    "longitude": 75.3219041,
+    "place_id": "ChIJAYD7irOZ2zsRAidRtPPVBro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYD7irOZ2zsRAidRtPPVBro",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:51:17"
+  },
+  {
+    "business_name": "Sparkle Expert Cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "176067",
+    "phone_number": "+91 81299 48273",
+    "website": "https://sparklexpertcleaners.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "block 2, SRKA LANE, near Harisree vidhyalaya, Capital Village, Punkunnam, Thrissur, Keralam 680002",
+    "area": "Capital Village, Punkunnam",
+    "latitude": 10.5348242,
+    "longitude": 76.19930269999999,
+    "place_id": "ChIJeXG6QwYoaS0RTDyLjVYzlCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXG6QwYoaS0RTDyLjVYzlCI",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:51:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JS Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Hairdresser, Health and beauty shop",
+    "pincode": "175140",
+    "phone_number": "+91 74995 39835",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 604,
+    "address": "Lokmanya Tilak Rd, Sector No. 27, Pradhikaran, Nigdi, Pimpri-Chinchwad, Maharashtra 411044",
+    "area": "Sector No. 27, Pradhikaran, Nigdi",
+    "latitude": 18.6561321,
+    "longitude": 73.7680024,
+    "place_id": "ChIJy848Dkm5wjsRutB4ZMA0BEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy848Dkm5wjsRutB4ZMA0BEk",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:24:58"
+  },
+  {
+    "business_name": "Shekhar Unisex Salon & Academy",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "175140",
+    "phone_number": "+91 90214 25152",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 3492,
+    "address": "Pundlik Nagar Rd, Near Ch. Shivaji Putala, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Hanuman Nagar, Sector N 4, Cidco",
+    "latitude": 19.8655664,
+    "longitude": 75.35678519999999,
+    "place_id": "ChIJR1JhEYmi2zsReDWNURs26ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1JhEYmi2zsReDWNURs26ss",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:24:59"
+  }
+]

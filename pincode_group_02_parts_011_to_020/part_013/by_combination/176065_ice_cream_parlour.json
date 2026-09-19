@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "धर्मशाला",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176065",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3987+PFX, Kangra, Patohla, Himachal Pradesh 176056",
+    "area": "176065",
+    "latitude": 32.0668524,
+    "longitude": 76.3637285,
+    "place_id": "ChIJL6uAQQBLGzkRhXkDRa7uJlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6uAQQBLGzkRhXkDRa7uJlo",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:19"
+  },
+  {
+    "business_name": "TREET Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "176065",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "4G9M+QWR, Chopati, Palampur, Himachal Pradesh 176061",
+    "area": "Chopati",
+    "latitude": 32.119476299999995,
+    "longitude": 76.5347525,
+    "place_id": "ChIJd0OhhM-zBDkRDfWlaiCJ69U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0OhhM-zBDkRDfWlaiCJ69U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:46:21"
+  }
+]

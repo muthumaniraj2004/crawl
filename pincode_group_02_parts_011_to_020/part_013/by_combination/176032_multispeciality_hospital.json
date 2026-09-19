@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeevni Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "176032",
+    "phone_number": "+91 94597 51770",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Q8HR+2GV, Hospital Rd, Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.7776164,
+    "longitude": 76.3413052,
+    "place_id": "ChIJ6ZG0mhUuGzkRMXGA9Gs-nxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZG0mhUuGzkRMXGA9Gs-nxQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:44"
+  },
+  {
+    "business_name": "Rana Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "176032",
+    "phone_number": "+91 94180 93434",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Hospital Rd, Nadaun, Himachal Pradesh 177033",
+    "area": "176032",
+    "latitude": 31.779182199999997,
+    "longitude": 76.34114989999999,
+    "place_id": "ChIJbdNz-hUuGzkR6dVGe74mPCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdNz-hUuGzkR6dVGe74mPCU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:53:44"
+  }
+]

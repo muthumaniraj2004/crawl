@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HomeStay Maverick",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "175136",
+    "phone_number": "+91 99102 62211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Batahar Rd, near Somvan, 15 Mile, Bihal, Manali, Hallan-i, Himachal Pradesh 175136",
+    "area": "15 Mile, Bihal",
+    "latitude": 32.1392076,
+    "longitude": 77.16095779999999,
+    "place_id": "ChIJkd3iHwCLBDkRIPBXlOZJQzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkd3iHwCLBDkRIPBXlOZJQzg",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:19:51"
+  },
+  {
+    "business_name": "The Petite House, Premium Homestay Cottage",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast, Home Stay",
+    "pincode": "175136",
+    "phone_number": "+91 93545 33475",
+    "website": "https://www.indoholidayweavers.com/the-petite-house-a-premium-cottage",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Apple Tree Premium Cottage Village. Batahar, P.O. Haripur, Tehsil. Naggar, Manali, Himachal Pradesh 175136",
+    "area": "175136",
+    "latitude": 32.142333,
+    "longitude": 77.166296,
+    "place_id": "ChIJj9v8j7WLBDkRaLsXTzXiXyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9v8j7WLBDkRaLsXTzXiXyU",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:19:52"
+  }
+]

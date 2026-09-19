@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.K FAST FOOD",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "175134",
+    "phone_number": "+91 86290 67210",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Tosh, Himachal Pradesh 175105",
+    "area": "175134",
+    "latitude": 32.012668399999995,
+    "longitude": 77.44984749999999,
+    "place_id": "ChIJNRCCcdhDBDkRv1ZTrJeEZYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNRCCcdhDBDkRv1ZTrJeEZYQ",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:16:37"
+  },
+  {
+    "business_name": "Soul Kitchen",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175134",
+    "phone_number": "+91 98295 35930",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 148,
+    "address": "Kalgha, near Peace Resorts, Jari, Himachal Pradesh 175105",
+    "area": "Kalgha",
+    "latitude": 31.994602599999997,
+    "longitude": 77.45054549999999,
+    "place_id": "ChIJlT1Tt9tFBDkRrEB-lUOUfM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlT1Tt9tFBDkRrEB-lUOUfM4",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:16:37"
+  }
+]

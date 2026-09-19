@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.N. GLASSES",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "175136",
+    "phone_number": "+91 93707 74277",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhadravathi Peth, Solapur, Maharashtra 413005",
+    "area": "Bhadravathi Peth",
+    "latitude": 17.6744806,
+    "longitude": 75.9207967,
+    "place_id": "ChIJLw_H5WDaxTsRM1fZmU34Qhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLw_H5WDaxTsRM1fZmU34Qhc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:18:44"
+  },
+  {
+    "business_name": "SPOT EYE OPTICS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "175136",
+    "phone_number": "+91 90207 01074",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite private bus stand, Periyar Nagar, Aluva, Keralam 683101",
+    "area": "Periyar Nagar",
+    "latitude": 10.1089428,
+    "longitude": 76.3519685,
+    "place_id": "ChIJFYOCUkgPCDsRNoqsm17UbdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYOCUkgPCDsRNoqsm17UbdA",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:18:45"
+  }
+]

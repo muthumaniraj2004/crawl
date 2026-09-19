@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankita River View Cafe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "175136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "46R2+Q6G, Hallan-i, Himachal Pradesh 175136",
+    "area": "175136",
+    "latitude": 32.1419449,
+    "longitude": 77.20058039999999,
+    "place_id": "ChIJkw_0HDxhBDkRFXqztLIia-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkw_0HDxhBDkRFXqztLIia-U",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:18:32"
+  },
+  {
+    "business_name": "Dry and Fry",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "175136",
+    "phone_number": "+91 70187 37952",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kullu - Naggar - Manali Rd, Mansari, Soil, Himachal Pradesh 175136",
+    "area": "175136",
+    "latitude": 32.1536341,
+    "longitude": 77.1786144,
+    "place_id": "ChIJK1RUl_iJBDkRhyU-fRg8Lrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1RUl_iJBDkRhyU-fRg8Lrs",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 07:18:35"
+  }
+]

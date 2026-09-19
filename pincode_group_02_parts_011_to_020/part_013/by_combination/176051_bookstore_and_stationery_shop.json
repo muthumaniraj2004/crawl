@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "176051",
+    "phone_number": "+91 98167 31218",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "near Sr. Sec School, ganoh, Panjahra Baraswalan, Himachal Pradesh 176051",
+    "area": "176051",
+    "latitude": 32.246338,
+    "longitude": 75.8903387,
+    "place_id": "ChIJURXQ6S99GzkRs-ToFlOvkkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURXQ6S99GzkRs-ToFlOvkkc",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:21:43"
+  },
+  {
+    "business_name": "lotus book store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "176051",
+    "phone_number": "+91 94183 16049",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "near sdm office, Dehra Gopipur, Himachal Pradesh 177101",
+    "area": "176051",
+    "latitude": 31.8857455,
+    "longitude": 76.2184936,
+    "place_id": "ChIJ4_9DVBI5GzkRyqalWCGlu4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_9DVBI5GzkRyqalWCGlu4Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:21:43"
+  }
+]

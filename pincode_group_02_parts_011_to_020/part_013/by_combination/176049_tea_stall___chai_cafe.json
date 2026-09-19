@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Chai Tapri",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Chinese restaurant, Coffee shop, Continental restaurant, Indian takeaway, Pizza restaurant, Restaurant",
+    "pincode": "176049",
+    "phone_number": "N/A",
+    "website": "https://g.page/cafe-chai-tapri?gm",
+    "rating": 4.3,
+    "reviews_count": 141,
+    "address": "Aarohi heights, Chutia - Namkum Rd, near L A garden school, near Aarohi height, Ketari Bagan, Lower Chutia, Baneshwar Nagar, Ranchi, Jharkhand 834001",
+    "area": "Ketari Bagan, Lower Chutia, Baneshwar Nagar",
+    "latitude": 23.3472716,
+    "longitude": 85.35568289999999,
+    "place_id": "ChIJGebIFDjh9DkR7A-4bKvOn_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGebIFDjh9DkR7A-4bKvOn_Q",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:18:50"
+  },
+  {
+    "business_name": "Sood Bakery And Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Restaurant",
+    "pincode": "176049",
+    "phone_number": "+91 79730 75207",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 80,
+    "address": "Kotwali Bazar Rd, Jattan Mohalla, Hoshiarpur, Punjab 146001",
+    "area": "Jattan Mohalla",
+    "latitude": 31.536723,
+    "longitude": 75.91643909999999,
+    "place_id": "ChIJZ0xbUNviGjkRoj6YsXpwme8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0xbUNviGjkRoj6YsXpwme8",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:18:50"
+  }
+]

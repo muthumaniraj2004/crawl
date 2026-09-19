@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandel welding work",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works, Manufacturer",
+    "pincode": "176044",
+    "phone_number": "+91 78764 65413",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Ghuma, Baloh, Ghumarwin, Himachal Pradesh 174021",
+    "area": "Ghuma",
+    "latitude": 31.4482765,
+    "longitude": 76.69435899999999,
+    "place_id": "ChIJQcqPNwA7BTkRmi0UQBSLUtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcqPNwA7BTkRmi0UQBSLUtw",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:12:54"
+  },
+  {
+    "business_name": "Sawant welding work shop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "176044",
+    "phone_number": "+91 93567 02482",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Muli, Maharashtra 431514",
+    "area": "176044",
+    "latitude": 19.0156575,
+    "longitude": 76.7555871,
+    "place_id": "ChIJszG4VgDhzzsROmlzQqf7YNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszG4VgDhzzsROmlzQqf7YNY",
+    "part_id": "part_013",
+    "crawled_at": "2026-09-19 08:12:55"
+  }
+]
