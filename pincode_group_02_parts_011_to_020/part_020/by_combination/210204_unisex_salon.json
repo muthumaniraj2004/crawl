@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Luxury Looks Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon, Eyelash salon, Make-up artist, Nail salon",
+    "pincode": "210204",
+    "phone_number": "+91 91191 81629",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 123,
+    "address": "10/56, Janki Marg, Akruti Apartments, Chitrakoot, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Akruti Apartments, Chitrakoot, Vaishali Nagar",
+    "latitude": 26.9004181,
+    "longitude": 75.736908,
+    "place_id": "ChIJF_ccCEW1bTkRhXe8sCaIzfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_ccCEW1bTkRhXe8sCaIzfI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:17:06"
+  },
+  {
+    "business_name": "7 Colours Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "210204",
+    "phone_number": "+91 84693 60306",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 394,
+    "address": "W, Chanda Tower, Plot No.- 197 Basement, Gandhi Path Rd, Girnar Colony, Block E, Vaishali Nagar, Jaipur, Rajasthan 302012",
+    "area": "Girnar Colony, Block E, Vaishali Nagar",
+    "latitude": 26.905294299999998,
+    "longitude": 75.74623489999999,
+    "place_id": "ChIJCz9zSXm1bTkReEf3yUU_Emw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCz9zSXm1bTkReEf3yUU_Emw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:17:06"
+  }
+]

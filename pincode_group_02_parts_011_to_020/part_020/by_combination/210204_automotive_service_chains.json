@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "myTVS - Shree Ram Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Car repair and maintenance service, Mechanic, Oil change service, Garage",
+    "pincode": "210204",
+    "phone_number": "+91 96277 78661",
+    "website": "https://mytvs.in/Service",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Near 6th Vahini PAC, Roorkee Rd, Modipuram, Meerut, Uttar Pradesh 250001",
+    "area": "Ekta Nagar, Modipuram",
+    "latitude": 29.042735,
+    "longitude": 77.707379,
+    "place_id": "ChIJwTP4UCFvDDkRI6_wSOKd9Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTP4UCFvDDkRI6_wSOKd9Lk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:16:56"
+  },
+  {
+    "business_name": "Gupta Auto Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "210204",
+    "phone_number": "+91 93351 58189",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "5, Sardar Patel Marg, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4490029,
+    "longitude": 81.83482649999999,
+    "place_id": "ChIJMWlHacPKmjkRe9h-JIRiqJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWlHacPKmjkRe9h-JIRiqJc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:16:56"
+  }
+]

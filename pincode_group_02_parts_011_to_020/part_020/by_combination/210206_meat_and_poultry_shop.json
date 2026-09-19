@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apanjan Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler, Chicken shop",
+    "pincode": "210206",
+    "phone_number": "+91 99329 41633",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 54,
+    "address": "Durga Mandir, Hijalberia, Tamluk, West Bengal 721649",
+    "area": "210206",
+    "latitude": 22.283508599999998,
+    "longitude": 87.8578168,
+    "place_id": "ChIJt2Hx24eVAjoRVs8pY3ydDis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2Hx24eVAjoRVs8pY3ydDis",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:19:36"
+  },
+  {
+    "business_name": "Dulal Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "210206",
+    "phone_number": "+91 98512 07366",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 62,
+    "address": "South Dhadka, Dhadka, Asansol, West Bengal 713302",
+    "area": "South Dhadka, Dhadka",
+    "latitude": 23.6994474,
+    "longitude": 86.9823495,
+    "place_id": "ChIJN5uitDIf9zkRuehThC2z6kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5uitDIf9zkRuehThC2z6kQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:19:36"
+  }
+]

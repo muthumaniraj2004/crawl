@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Legal Route",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Registration office",
+    "all_categories": "Registration office, Chartered accountant, Civil law attorney, Consultant, Criminal justice attorney, Divorce lawyer, Law firm, Lawyer, Legal services, Real estate attorney",
+    "pincode": "210204",
+    "phone_number": "+91 97167 78456",
+    "website": "https://mylegalroute.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2/152, Vivek Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vivek Khand 2, Gomti Nagar",
+    "latitude": 26.8601529,
+    "longitude": 80.99519509999999,
+    "place_id": "ChIJ1UAbawbjmzkRkJBHH8Ga32Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UAbawbjmzkRkJBHH8Ga32Q",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:17:33"
+  },
+  {
+    "business_name": "Jayaraja & associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "210204",
+    "phone_number": "+91 94487 67609",
+    "website": "http://www.cajayaraja.com/",
+    "rating": 4.9,
+    "reviews_count": 337,
+    "address": "176, 12th Cross Rd, Mahalakshmipuram Layout, Mahalakshmipuram, Bengaluru, Karnataka 560086",
+    "area": "Mahalakshmipuram Layout, Mahalakshmipuram",
+    "latitude": 13.007732299999999,
+    "longitude": 77.5476178,
+    "place_id": "ChIJzfvh_Zw9rjsRZufNqvfBoB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfvh_Zw9rjsRZufNqvfBoB4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:17:34"
+  }
+]

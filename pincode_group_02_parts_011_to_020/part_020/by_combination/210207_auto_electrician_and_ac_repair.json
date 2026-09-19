@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajeev Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "210207",
+    "phone_number": "+91 788 753 6453",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Market, Amina, Goraju, Uttar Pradesh 212214",
+    "area": "210207",
+    "latitude": 25.3801654,
+    "longitude": 81.3303364,
+    "place_id": "ChIJO5m_4lLNhDkRkOf4IzuihsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5m_4lLNhDkRkOf4IzuihsA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:21:46"
+  },
+  {
+    "business_name": "Arpit Dwivedi",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "210207",
+    "phone_number": "+91 99189 50998",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Yog Enterprises Auto Parts Loop Line Chauraha Rajapur, Chhilli Rakas Khade, Uttar Pradesh 210207",
+    "area": "210207",
+    "latitude": 25.3895785,
+    "longitude": 81.1427266,
+    "place_id": "ChIJn0a-Ff61hDkRUEjifEAyNis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0a-Ff61hDkRUEjifEAyNis",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:21:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cake king",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "210203",
+    "phone_number": "+91 70602 81175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 93,
+    "address": "ramlila medan, near shubam banquet hall, Prakash Nagar, Chiriya Tola, Line Par, Moradabad, Uttar Pradesh 244103",
+    "area": "Prakash Nagar, Chiriya Tola, Line Par",
+    "latitude": 28.830638999999998,
+    "longitude": 78.75463409999999,
+    "place_id": "ChIJQ9K1NpP7CjkRJWjUjqXkgX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9K1NpP7CjkRJWjUjqXkgX0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:47"
+  },
+  {
+    "business_name": "CakeDaddy- Cake Delivery In Moradabad",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "210203",
+    "phone_number": "+91 73023 01747",
+    "website": "https://mydukaan.io/cakedaddy",
+    "rating": 4.8,
+    "reviews_count": 929,
+    "address": "WATER TANK, near Easy Day Store, Phase-1, Buddhi Vihar, Moradabad, Uttar Pradesh 244103",
+    "area": "Phase-1, Buddhi Vihar",
+    "latitude": 28.8341471,
+    "longitude": 78.74309099999999,
+    "place_id": "ChIJ8TYZCj38CjkR34URaGZO4I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TYZCj38CjkR34URaGZO4I8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:47"
+  }
+]

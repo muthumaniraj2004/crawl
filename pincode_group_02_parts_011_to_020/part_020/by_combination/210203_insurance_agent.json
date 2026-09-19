@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MVP Insurance Services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Service establishment",
+    "pincode": "210203",
+    "phone_number": "N/A",
+    "website": "https://www.mvp-insuranceservices.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "MVP Insurance Services, 210203, India",
+    "area": "210203",
+    "latitude": 36.3509594,
+    "longitude": -97.17043199999999,
+    "place_id": "ChIJyxdCh5z8mWURgXb8DTkVLYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxdCh5z8mWURgXb8DTkVLYo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:15:53"
+  },
+  {
+    "business_name": "Sudama Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "210203",
+    "phone_number": "+91 91736 83333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 126,
+    "address": "ચોકલેટ મેન્સવેર, Chocolet menswear, Sudama Chowk, MG Rd, opp. ZANDU MEDICAL, near old court, Panch Hatdi, Porbandar, Gujarat 360575",
+    "area": "Panch Hatdi",
+    "latitude": 21.640600499999998,
+    "longitude": 69.60663679999999,
+    "place_id": "ChIJmyvzGng1VjkRQ9xIr8BoW88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyvzGng1VjkRQ9xIr8BoW88",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:15:54"
+  }
+]

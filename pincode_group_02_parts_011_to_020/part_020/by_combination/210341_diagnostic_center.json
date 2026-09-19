@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paliwal Dr Lal PathLabs - Ragaul Collection Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "210341",
+    "phone_number": "N/A",
+    "website": "https://www.paliwaldiagnostics.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tehsil, ward no 11 madar market, thana evam, Maudaha, Uttar Pradesh 210507",
+    "area": "Marathipura",
+    "latitude": 25.6872945,
+    "longitude": 80.0985709,
+    "place_id": "ChIJgzkaYBDfnDkRDRXr7pUvUhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzkaYBDfnDkRDRXr7pUvUhM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:04"
+  },
+  {
+    "business_name": "Banyal Clinical Laboratory",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Laboratory, Pathologist",
+    "pincode": "210341",
+    "phone_number": "+91 82196 01492",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opposite CIVIL HOSPITAL, Barsar, Himachal Pradesh 174305",
+    "area": "210341",
+    "latitude": 31.5243987,
+    "longitude": 76.456075,
+    "place_id": "ChIJUyhNzeHTGjkRttpXHsJKBtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyhNzeHTGjkRttpXHsJKBtw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:04"
+  }
+]

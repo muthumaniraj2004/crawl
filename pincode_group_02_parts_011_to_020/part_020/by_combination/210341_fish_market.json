@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sani fish farming",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing store",
+    "all_categories": "Fishing store",
+    "pincode": "210341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "station road, near by Alahi talab, Maudaha, Uttar Pradesh 210507",
+    "area": "210341",
+    "latitude": 25.6856419,
+    "longitude": 80.1154979,
+    "place_id": "ChIJ86_StL7fnDkR4I5pR7mD8eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86_StL7fnDkR4I5pR7mD8eg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:27:40"
+  },
+  {
+    "business_name": "Fish Market c block",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "210341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "6 number gali, Block C 1, Jahangirpuri, Delhi 110033",
+    "area": "Block C 1, Jahangirpuri",
+    "latitude": 28.727704799999998,
+    "longitude": 77.17153909999999,
+    "place_id": "ChIJWdA37K0BDTkRWS8mCg6tEv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdA37K0BDTkRWS8mCg6tEv0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:27:42"
+  }
+]

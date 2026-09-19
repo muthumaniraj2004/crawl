@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanatan gym (workout center)",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "28HV+2FV, Karatal, Uttar Pradesh 210129",
+    "area": "210129",
+    "latitude": 25.027615599999997,
+    "longitude": 80.3436706,
+    "place_id": "ChIJZ-8eIHI9gzkR43VdX252lNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-8eIHI9gzkR43VdX252lNQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:10:07"
+  },
+  {
+    "business_name": "Alpha gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210129",
+    "phone_number": "+91 70218 46405",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Panvariya Near Vandan Guest House, Gauhania Rd, Purawa Khas, Uttar Pradesh 212301",
+    "area": "210129",
+    "latitude": 25.2964615,
+    "longitude": 81.8971085,
+    "place_id": "ChIJu2hb75FJhTkRpkfPbv5qHi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2hb75FJhTkRpkfPbv5qHi4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:10:08"
+  }
+]

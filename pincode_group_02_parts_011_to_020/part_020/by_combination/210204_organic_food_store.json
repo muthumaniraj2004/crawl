@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Total Organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "210204",
+    "phone_number": "+91 79762 23996",
+    "website": "http://www.jaipurorganic.com/",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Chitrakoot Stadium, police station, A-2, near Chitrakoot, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.900755999999998,
+    "longitude": 75.7342532,
+    "place_id": "ChIJc47JVSi1bTkRRpnGiuaxhhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc47JVSi1bTkRRpnGiuaxhhU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:16:18"
+  },
+  {
+    "business_name": "Ratna Swing And General Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Embroidery service",
+    "all_categories": "Embroidery service, Beauty Parlour, General store",
+    "pincode": "210204",
+    "phone_number": "+91 88539 88782",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Ratnawali Marg, Ram Ghat Rd, Kashavgarh, Chitrakoot, Uttar Pradesh 210204",
+    "area": "Kashavgarh",
+    "latitude": 25.1773345,
+    "longitude": 80.86869759999999,
+    "place_id": "ChIJdYENIjumhDkRwbHTIEhdxCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYENIjumhDkRwbHTIEhdxCg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:16:20"
+  }
+]

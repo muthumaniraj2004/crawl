@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "210129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "57QQ+454, Sarwai, Madhya Pradesh 471525",
+    "area": "210129",
+    "latitude": 25.1877674,
+    "longitude": 80.28796249999999,
+    "place_id": "ChIJA2lkszowgzkRWda2cPrRx9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2lkszowgzkRWda2cPrRx9U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:10:00"
+  },
+  {
+    "business_name": "Lakhan sahu",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "210129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "7HPF+P7M, Atarra, Uttar Pradesh 210201",
+    "area": "210129",
+    "latitude": 25.2868466,
+    "longitude": 80.573182,
+    "place_id": "ChIJg9Ip6bRNgzkRsxDo4cwCCNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9Ip6bRNgzkRsxDo4cwCCNM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:10:00"
+  }
+]

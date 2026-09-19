@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchvati Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "210208",
+    "phone_number": "+91 94548 82292",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sarhat, Uttar Pradesh 210208",
+    "area": "210208",
+    "latitude": 25.0646548,
+    "longitude": 81.08036419999999,
+    "place_id": "ChIJu_1Tn9O_hDkRKalYqRHacOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_1Tn9O_hDkRKalYqRHacOU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:55"
+  },
+  {
+    "business_name": "Aastha Dhawa& restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "210208",
+    "phone_number": "+91 88275 04972",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Aastha Dhaba, Bus Stand, Chitrakoot Road, near Gupta Hotel, Hiraundi, Madhya Pradesh 485331",
+    "area": "210208",
+    "latitude": 24.8519032,
+    "longitude": 80.8241579,
+    "place_id": "ChIJDQix-nOdhDkRCo4_R5HTgBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQix-nOdhDkRCo4_R5HTgBo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaitanya Agrawal Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "210208",
+    "phone_number": "+91 99233 98765",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deshbandhu Press Rd, Bhawani Patna, Ramsagar Para, Jawahar Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Bhawani Patna, Ramsagar Para, Jawahar Nagar",
+    "latitude": 21.2470574,
+    "longitude": 81.6278129,
+    "place_id": "ChIJn8jMQOHdKDoRq-kFlYGXrfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8jMQOHdKDoRq-kFlYGXrfw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:34"
+  },
+  {
+    "business_name": "Sukanya & Associates",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "210208",
+    "phone_number": "+91 84203 56008",
+    "website": "http://sukanya-associates.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "DP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "DP Block, Sector V, Bidhannagar",
+    "latitude": 22.5744141,
+    "longitude": 88.43536019999999,
+    "place_id": "ChIJbUGkU-Z1AjoRX2ICpukSKVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUGkU-Z1AjoRX2ICpukSKVc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:34"
+  }
+]

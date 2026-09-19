@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAHAL CSC CENTRE",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "210301",
+    "phone_number": "+91 84271 34022",
+    "website": "https://chahal-csc-centre.gitbook.io/chahal-csc-centre/",
+    "rating": 4.8,
+    "reviews_count": 43,
+    "address": "CHAHAL CSC CENTRE, Bus Stop, Vpo Jhandewala, Jhandewala, Moga, Punjab 142002",
+    "area": "Jhandewala",
+    "latitude": 30.7413252,
+    "longitude": 75.1728442,
+    "place_id": "ChIJvyImflenEDkR_iwYSB7NP8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyImflenEDkR_iwYSB7NP8I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:27:09"
+  },
+  {
+    "business_name": "DC Office, Hamirpur",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "State government office",
+    "all_categories": "State government office",
+    "pincode": "210301",
+    "phone_number": "+91 1972 224 300",
+    "website": "https://hphamirpur.nic.in/",
+    "rating": 4,
+    "reviews_count": 63,
+    "address": "MGR9+6V9, Pratap Nagar, Hamirpur, Himachal Pradesh 177001",
+    "area": "Pratap Nagar",
+    "latitude": 31.690545999999998,
+    "longitude": 76.5197309,
+    "place_id": "ChIJAykJLU_UBDkRbeJDm9W-V8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAykJLU_UBDkRbeJDm9W-V8I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:27:09"
+  }
+]

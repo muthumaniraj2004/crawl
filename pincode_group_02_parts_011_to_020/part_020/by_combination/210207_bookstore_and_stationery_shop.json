@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grace Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Offset Printer, Stationery store, Wedding service",
+    "pincode": "210207",
+    "phone_number": "+91 70803 20900",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "25, Mahatma Gandhi Marg, NEAR PATTHAR GIRJA, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Civil Lines",
+    "latitude": 25.4507078,
+    "longitude": 81.82738599999999,
+    "place_id": "ChIJHdGDKdvKmjkRwh6_mM_Dqw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdGDKdvKmjkRwh6_mM_Dqw8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:16"
+  },
+  {
+    "business_name": "Mahesh Cyber Cafe & Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "210207",
+    "phone_number": "+91 78600 42642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Saigal city school, Vijay Laxmi Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Vijay Laxmi Nagar",
+    "latitude": 27.5595069,
+    "longitude": 80.68274129999999,
+    "place_id": "ChIJLzIelfrXnjkRFfRYXuIAFeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzIelfrXnjkRFfRYXuIAFeo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:16"
+  }
+]

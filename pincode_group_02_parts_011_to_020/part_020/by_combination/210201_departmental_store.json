@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store, Atarra, Banda (Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "210201",
+    "phone_number": "+91 75091 18143",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maahi Enterprises, Atarra - Banda Rd, Atarra, Banda, Uttar Pradesh 210201",
+    "area": "210201",
+    "latitude": 25.2867511,
+    "longitude": 80.5743482,
+    "place_id": "ChIJT6OUpiZNgzkRBE9ZWkDQs5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6OUpiZNgzkRBE9ZWkDQs5M",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:12"
+  },
+  {
+    "business_name": "RCM Store, Bisanda, Banda (Wonder World Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "210201",
+    "phone_number": "N/A",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manas Chowk, Gupta RCM WWQ, 2, Bisanda Rural, Bisanda, Uttar Pradesh 210203",
+    "area": "210201",
+    "latitude": 25.3996806,
+    "longitude": 80.6232674,
+    "place_id": "ChIJp8lMbNqznDkRffYeUSDc0K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8lMbNqznDkRffYeUSDc0K8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:12"
+  }
+]

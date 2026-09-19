@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahu Honda",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Honda dealer",
+    "all_categories": "Honda dealer",
+    "pincode": "210201",
+    "phone_number": "+91 98384 88279",
+    "website": "http://www.honda2wheelersindia.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Baberu Rd, Bisanda Rural, Uttar Pradesh 210203",
+    "area": "210201",
+    "latitude": 25.4041052,
+    "longitude": 80.62553849999999,
+    "place_id": "ChIJBY1o4oSynDkRgq6acrcYEHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBY1o4oSynDkRgq6acrcYEHY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:46"
+  },
+  {
+    "business_name": "Chaurasiya interprises",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Electric motor scooter dealer",
+    "all_categories": "Electric motor scooter dealer",
+    "pincode": "210201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7HJM+WQV, Badausa Road, Lekhpal Colony, Atarra, Uttar Pradesh 210201",
+    "area": "Lekhpal Colony",
+    "latitude": 25.2823514,
+    "longitude": 80.58442699999999,
+    "place_id": "ChIJncbbewBNgzkROk4e67WJmsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncbbewBNgzkROk4e67WJmsk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:46"
+  }
+]

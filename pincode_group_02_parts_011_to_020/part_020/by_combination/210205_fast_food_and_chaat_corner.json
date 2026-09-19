@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sonu chat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "210205",
+    "phone_number": "+91 92609 44823",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "6W9F+F5R, Kasahai road, Karwi, Chitrakoot Dham, Uttar Pradesh 210205",
+    "area": "210205",
+    "latitude": 25.218728199999997,
+    "longitude": 80.9228992,
+    "place_id": "ChIJMQ9OIxWvhDkRko1fltp-QMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQ9OIxWvhDkRko1fltp-QMQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:03"
+  },
+  {
+    "business_name": "Ravi Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "210205",
+    "phone_number": "+91 88878 70951",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Banda, Uttar Pradesh 210205",
+    "area": "Purani Bazar",
+    "latitude": 25.2135091,
+    "longitude": 80.9087551,
+    "place_id": "ChIJQ4OkEmGvhDkR4ttJ3ErJYqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4OkEmGvhDkR4ttJ3ErJYqY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:03"
+  }
+]

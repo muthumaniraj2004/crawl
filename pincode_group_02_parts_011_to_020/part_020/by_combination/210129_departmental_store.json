@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishan Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, General store",
+    "pincode": "210129",
+    "phone_number": "+91 91180 34830",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Atarra - Banda Rd, Shastri Nagar, Atarra, Uttar Pradesh 210201",
+    "area": "Shastri Nagar",
+    "latitude": 25.289803,
+    "longitude": 80.5702965,
+    "place_id": "ChIJtwYZsJRNgzkRb9tPO_u1rG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwYZsJRNgzkRb9tPO_u1rG8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:09:36"
+  },
+  {
+    "business_name": "Ruby Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "210129",
+    "phone_number": "+91 76781 18006",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Chowk, Bawana Village, Bawana, Delhi, 110039",
+    "area": "Bawana Village, Bawana",
+    "latitude": 28.797741799999997,
+    "longitude": 77.0348911,
+    "place_id": "ChIJ68KriiKoDTkRVtpgKHjZrWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68KriiKoDTkRVtpgKHjZrWU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:09:38"
+  }
+]

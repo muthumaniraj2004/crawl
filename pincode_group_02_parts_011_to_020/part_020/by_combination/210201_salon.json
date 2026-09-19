@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sattar Bhai Gents Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser",
+    "pincode": "210201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Atarra Police Station, NH 76, Atarra, Uttar Pradesh 210201",
+    "area": "210201",
+    "latitude": 25.2895106,
+    "longitude": 80.57156789999999,
+    "place_id": "ChIJ6cVeVT9MgzkRAxeD3ugTcbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cVeVT9MgzkRAxeD3ugTcbU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:12:03"
+  },
+  {
+    "business_name": "Star men's porlour and salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "210201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9JXC+XV, Bisanda Buzurg, Uttar Pradesh 210203",
+    "area": "210201",
+    "latitude": 25.3999666,
+    "longitude": 80.6221015,
+    "place_id": "ChIJq_u1rAqznDkRKpMC98B1Y8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_u1rAqznDkRKpMC98B1Y8I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:12:06"
+  }
+]

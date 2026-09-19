@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kushwaha Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "210202",
+    "phone_number": "N/A",
+    "website": "https://kushwaha-bag-house.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khohi road, Shivrampur, Uttar Pradesh 210205",
+    "area": "210202",
+    "latitude": 25.2154556,
+    "longitude": 80.8368308,
+    "place_id": "ChIJ61AmJfSphDkRlfJ-jjA3hEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61AmJfSphDkRlfJ-jjA3hEE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:13:14"
+  },
+  {
+    "business_name": "Lubna Traders",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "210202",
+    "phone_number": "+91 84469 95542",
+    "website": "https://lubna-traders.grexa.site/",
+    "rating": 4.2,
+    "reviews_count": 43,
+    "address": "1110, Shop No. 1, Raviwar Peth, near Meeradada Dargah, Pune, Maharashtra 411002",
+    "area": "Kapad Ganj, Raviwar Peth",
+    "latitude": 18.514260699999998,
+    "longitude": 73.8612989,
+    "place_id": "ChIJmSCt32jAwjsR5O_-uFDpVEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSCt32jAwjsR5O_-uFDpVEs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:13:15"
+  }
+]

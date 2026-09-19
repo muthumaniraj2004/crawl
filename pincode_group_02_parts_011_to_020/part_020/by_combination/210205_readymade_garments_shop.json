@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand cloth store karwi",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "210205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Bhairo Paga Rd, Purani Bazar, Chitrakoot Dham, Uttar Pradesh 210205",
+    "area": "Purani Bazar",
+    "latitude": 25.2175112,
+    "longitude": 80.909764,
+    "place_id": "ChIJJ6t2aQCvhDkRDBOPBSkgqyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6t2aQCvhDkRDBOPBSkgqyk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:06"
+  },
+  {
+    "business_name": "Shreeji readymade collection",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "210205",
+    "phone_number": "+91 63880 13855",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Karwi - Rajapur Rd, Rajapur, Uttar Pradesh 210206",
+    "area": "210205",
+    "latitude": 25.3847846,
+    "longitude": 81.1480189,
+    "place_id": "ChIJzXhMiVizhDkRsp-OEbFqRHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXhMiVizhDkRsp-OEbFqRHg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:07"
+  }
+]

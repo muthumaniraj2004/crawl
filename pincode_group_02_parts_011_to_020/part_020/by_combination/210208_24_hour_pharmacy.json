@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shetal medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "210208",
+    "phone_number": "+91 99810 88014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Satna - Semariya Rd, near by unoin bank ATM, Babupur, Satna, Madhya Pradesh 485112",
+    "area": "210208",
+    "latitude": 24.632351999999997,
+    "longitude": 80.9197248,
+    "place_id": "ChIJO08e3MqHhDkRxpZSFKG_eE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO08e3MqHhDkRxpZSFKG_eE8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:09"
+  },
+  {
+    "business_name": "Harishankar yadav pharmacy and health care 💉",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "210208",
+    "phone_number": "+91 80524 13620",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2V2F+GV3, Mangawan, Uttar Pradesh 210202",
+    "area": "210208",
+    "latitude": 25.001865799999997,
+    "longitude": 80.87488619999999,
+    "place_id": "ChIJqwa4CACfhDkR5v7wOYmzZNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwa4CACfhDkR5v7wOYmzZNs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:11"
+  }
+]

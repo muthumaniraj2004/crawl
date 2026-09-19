@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flex fitness unisex gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khutar, Narainpur Vikrampur, Uttar Pradesh 242405",
+    "area": "210123",
+    "latitude": 28.2011771,
+    "longitude": 80.2676913,
+    "place_id": "ChIJDXMcXAB7nzkRowKqLEGebOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXMcXAB7nzkRowKqLEGebOw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:28"
+  },
+  {
+    "business_name": "The Zone 360 Fitness Bandra",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210123",
+    "phone_number": "+91 96488 61111",
+    "website": "https://thezone360bandra.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd Floor, Link Corner Mall Jn of 24th, &, 33rd Rd, off Linking Road, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Bandra West",
+    "latitude": 19.0655951,
+    "longitude": 72.83309229999999,
+    "place_id": "ChIJ4R2hCFXJ5zsRnW-5qgZPQvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4R2hCFXJ5zsRnW-5qgZPQvM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:29"
+  }
+]

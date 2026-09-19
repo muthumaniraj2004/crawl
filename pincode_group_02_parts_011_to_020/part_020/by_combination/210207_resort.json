@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chitrakoot Hill Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "210207",
+    "phone_number": "+91 99247 18876",
+    "website": "http://www.chitrakoothillresort.com/",
+    "rating": 4.1,
+    "reviews_count": 2897,
+    "address": "Sunset Road, Saputara, Gujarat 394720",
+    "area": "210207",
+    "latitude": 20.5783243,
+    "longitude": 73.7419331,
+    "place_id": "ChIJx9ywg14R3jsRpU3rJhWDmWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9ywg14R3jsRpU3rJhWDmWQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:06"
+  },
+  {
+    "business_name": "Dandami Luxury Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "210207",
+    "phone_number": "N/A",
+    "website": "http://dandamiluxuryresort.in/",
+    "rating": 4.1,
+    "reviews_count": 979,
+    "address": "chitrakoot, Tiratha, Chhattisgarh 494010",
+    "area": "chitrakoot",
+    "latitude": 19.2028039,
+    "longitude": 81.6929572,
+    "place_id": "ChIJId5US1olMDoR2WMVNC-hlIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJId5US1olMDoR2WMVNC-hlIw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:09"
+  }
+]

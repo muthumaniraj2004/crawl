@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Steel Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Trailer manufacturer",
+    "all_categories": "Trailer manufacturer",
+    "pincode": "210208",
+    "phone_number": "+91 99802 19312",
+    "website": "https://bharatsteelworks.netlify.app/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "near IOC petrolium, Railway Station Area, Vijayapura, Karnataka 586104",
+    "area": "Railway Station Area",
+    "latitude": 16.8326448,
+    "longitude": 75.7436077,
+    "place_id": "ChIJFbE3-9xVxjsRMJO6nmLvIvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbE3-9xVxjsRMJO6nmLvIvc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:24:10"
+  },
+  {
+    "business_name": "Vijay Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Electric motor repair shop",
+    "pincode": "210208",
+    "phone_number": "+91 91655 51101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7J5R+4W6, Main Road, Near Shiv Mandir, Jagriti Nagar, Paras Nagar, Raipur, Chhattisgarh 492009",
+    "area": "Jagriti Nagar, Paras Nagar",
+    "latitude": 21.257786199999998,
+    "longitude": 81.642264,
+    "place_id": "ChIJ2WYUZIPdKDoRVuLGkpdmPos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WYUZIPdKDoRVuLGkpdmPos",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:24:10"
+  }
+]

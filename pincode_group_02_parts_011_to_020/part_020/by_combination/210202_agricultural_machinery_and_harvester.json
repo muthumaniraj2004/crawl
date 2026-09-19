@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "John Deere Dewas Works",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "210202",
+    "phone_number": "+91 1800 209 5310",
+    "website": "http://www.deere.co.in/",
+    "rating": 4.5,
+    "reviews_count": 341,
+    "address": "Indore - Bhopal Rd, Khatamba, Madhya Pradesh 455001",
+    "area": "210202",
+    "latitude": 22.966046799999997,
+    "longitude": 76.1191446,
+    "place_id": "ChIJd28JNzA9YzkRBc6kqVCqLww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd28JNzA9YzkRBc6kqVCqLww",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:26"
+  },
+  {
+    "business_name": "Balaji Agro Tools Corporation",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Farm shop",
+    "all_categories": "Farm shop, Farm equipment supplier, Tractor dealer",
+    "pincode": "210202",
+    "phone_number": "+91 96324 82377",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "107, 4th Cross Rd, near J C Road Corporation Bank, Kalasipalyam New Extension, Kalasipalya, Bengaluru, Karnataka 560002",
+    "area": "Kalasipalyam New Extension, Kalasipalya",
+    "latitude": 12.959332499999999,
+    "longitude": 77.58184179999999,
+    "place_id": "ChIJRy9FHucVrjsRLiNfWqOduZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRy9FHucVrjsRLiNfWqOduZg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKY PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "210341",
+    "phone_number": "+91 99714 38366",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "Shop no-4, Subhram complex, D-96, near mukul jain store, Baba Gangnath Market, Munirka, New Delhi, Delhi 110067",
+    "area": "Baba Gangnath Market, Munirka",
+    "latitude": 28.556268499999998,
+    "longitude": 77.17312679999999,
+    "place_id": "ChIJ8QBXAPUdDTkRpF8jNrgajPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QBXAPUdDTkRpF8jNrgajPU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:27:58"
+  },
+  {
+    "business_name": "VL MEDICAL HALL",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "210341",
+    "phone_number": "+91 98052 91800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lambloo, Himachal Pradesh 177029",
+    "area": "210341",
+    "latitude": 31.6690437,
+    "longitude": 76.58581819999999,
+    "place_id": "ChIJT9Q6uG7XBDkRW_hY0QtwZ5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9Q6uG7XBDkRW_hY0QtwZ5E",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:00"
+  }
+]

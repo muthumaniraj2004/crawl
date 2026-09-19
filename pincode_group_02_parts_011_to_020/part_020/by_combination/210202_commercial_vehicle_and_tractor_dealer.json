@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahindra Showroom commercial",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "210202",
+    "phone_number": "+91 75674 56456",
+    "website": "http://www.vvcmahindra.com/",
+    "rating": 4.3,
+    "reviews_count": 39,
+    "address": "P, 43/PART, Gandhi Nagar Rd, Nanda Nagar, RR Nagar, Hyderabad, Telangana 500037",
+    "area": "Nanda Nagar, RR Nagar",
+    "latitude": 17.4890224,
+    "longitude": 78.44554,
+    "place_id": "ChIJVXvriImSyzsRGa1Z5iLaMm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXvriImSyzsRGa1Z5iLaMm8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:13:31"
+  },
+  {
+    "business_name": "Tractor Junction",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Tractor dealer",
+    "pincode": "210202",
+    "phone_number": "+91 97709 74974",
+    "website": "https://www.tractorjunction.com/?utm_source=GMB&utm_medium=GMB&utm_campaign=GMB_Alwar_Office",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "3rd Floor, M M Tower, Agarsen Circle, N.E.B. Housing Board, Subhash Nagar, Anand Vihar, Shastri Nagar, Alwar, Rajasthan 301001",
+    "area": "N.E.B. Housing Board, Subhash Nagar, Anand Vihar, Shastri Nagar",
+    "latitude": 27.5665804,
+    "longitude": 76.62654859999999,
+    "place_id": "ChIJnc9Oi76ZcjkRQ2W40QogPMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnc9Oi76ZcjkRQ2W40QogPMA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:13:32"
+  }
+]

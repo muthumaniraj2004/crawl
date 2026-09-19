@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EXOTTO",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment, Marketing consultant",
+    "pincode": "210423",
+    "phone_number": "+91 88030 03000",
+    "website": "https://exotto.com/",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "EXOTTO, 210423, India",
+    "area": "210423",
+    "latitude": 14.157641199999999,
+    "longitude": -95.8678762,
+    "place_id": "ChIJm8jssJ_tDzkR8g1Zj6eFCkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8jssJ_tDzkR8g1Zj6eFCkA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:34:11"
+  },
+  {
+    "business_name": "Nowcalls24 | b2b business listing | Job Portal",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Information services",
+    "all_categories": "Information services",
+    "pincode": "210423",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "25 Feet Rd, Pusta-5, Sonia Vihar, New Delhi, Delhi, 110090",
+    "area": "Pusta-5, Sonia Vihar",
+    "latitude": 28.724621499999998,
+    "longitude": 77.2461482,
+    "place_id": "ChIJp5g19Qb_DDkRT4l86gNaFJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5g19Qb_DDkRT4l86gNaFJk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:34:12"
+  }
+]

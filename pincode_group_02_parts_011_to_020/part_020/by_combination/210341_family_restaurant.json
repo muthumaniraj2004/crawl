@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Maa Gouri Resort",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "210341",
+    "phone_number": "N/A",
+    "website": "https://www.maagouriresort.com/",
+    "rating": 3.9,
+    "reviews_count": 664,
+    "address": "Orai Rd, near HDFC Bank, Pathanpura, Rath, Uttar Pradesh 210431",
+    "area": "Pathanpura",
+    "latitude": 25.599922799999998,
+    "longitude": 79.5707998,
+    "place_id": "ChIJU6gcScdDnTkRbCNnMtkYfyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6gcScdDnTkRbCNnMtkYfyI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:27:50"
+  },
+  {
+    "business_name": "Som Tiffin Service",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Tiffin Service Provider",
+    "pincode": "210341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "dr yadav ke samne, Station Road, ilahi Talab, Maudaha, Uttar Pradesh 210507",
+    "area": "ilahi Talab",
+    "latitude": 25.6863974,
+    "longitude": 80.1166113,
+    "place_id": "ChIJ0Sl-73bfnDkRHqBXZbi6J6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Sl-73bfnDkRHqBXZbi6J6M",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:27:52"
+  }
+]

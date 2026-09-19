@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GRAND CARZ",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "210123",
+    "phone_number": "+91 98403 88866",
+    "website": "http://www.grandcarz.co.in/",
+    "rating": 4.4,
+    "reviews_count": 31,
+    "address": "No 29, 35, Cooperative Colony, Austin Nagar, Alwarpet, Chennai, Tamil Nadu 600018",
+    "area": "Cooperative Colony, Austin Nagar, Alwarpet",
+    "latitude": 13.031140299999999,
+    "longitude": 80.24878489999999,
+    "place_id": "ChIJC4lZ_bFnUjoRKKoBzqxgdwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4lZ_bFnUjoRKKoBzqxgdwY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:31"
+  },
+  {
+    "business_name": "Divya Motors (Estd.1989) the Car Company",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto insurance agency, Auto repair shop, Car dealer, Car finance and loan company",
+    "pincode": "210123",
+    "phone_number": "+91 98100 05100",
+    "website": "https://www.divyamotors.co.in/",
+    "rating": 4.7,
+    "reviews_count": 51,
+    "address": "G-8, Palika Bhawan, Opp.Hotel Hayatt, Shaheed Sudhir Tyagi Marg, Sector 13 R K Puram, New Delhi, Delhi 110066",
+    "area": "Sector 13 R K Puram, Block B, Sector 13, Rama Krishna Puram",
+    "latitude": 28.5713026,
+    "longitude": 77.18459829999999,
+    "place_id": "ChIJ86hvIIMdDTkR5wnr0ryxe-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86hvIIMdDTkR5wnr0ryxe-c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:33"
+  }
+]

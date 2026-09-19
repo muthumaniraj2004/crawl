@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen World",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "210123",
+    "phone_number": "+91 98243 00439",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 19, University Rd, Indira Circle, Near, Jala Ram Nagar, Rajkot, Gujarat 360007",
+    "area": "Indira Circle, Near, Jala Ram Nagar",
+    "latitude": 22.288835499999998,
+    "longitude": 70.7717329,
+    "place_id": "ChIJQyesFy7KWTkR7lGOOJauUok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyesFy7KWTkR7lGOOJauUok",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:00"
+  },
+  {
+    "business_name": "Choice Frozen Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Cold storage facility, Food Processing Company, Store",
+    "pincode": "210123",
+    "phone_number": "+91 98255 34800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "H.p. petrol pump lane, 43, swami Industrial society Opp. Gandhi kutir, Udhana - Magdalla Rd, nr. ambica Industrial, Udhana, Surat, Gujarat 395017",
+    "area": "Ambika Industrial Society 2, Udhana",
+    "latitude": 21.161297299999998,
+    "longitude": 72.8193375,
+    "place_id": "ChIJyfWD2SZP4DsRUUb86ZrzzAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfWD2SZP4DsRUUb86ZrzzAU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janani Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "210203",
+    "phone_number": "+91 86260 62338",
+    "website": "https://jananinursinghome.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Janani Nursing Home, Seven Hills Chowk, Jalna Rd, above Sajan Sarita Showroom, Motiwala Nagar, Venkatesh Nagar, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Motiwala Nagar, Venkatesh Nagar, Mondha",
+    "latitude": 19.8758233,
+    "longitude": 75.3510584,
+    "place_id": "ChIJgzkSiIaj2zsRAJNJjoxxUgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzkSiIaj2zsRAJNJjoxxUgs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:15:03"
+  },
+  {
+    "business_name": "Department of Maternity Care at Narayana Hospitals",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing agency",
+    "all_categories": "Nursing agency",
+    "pincode": "210203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parking Complex, Near, MG Road, Kummari Guda, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Kummari Guda, Shivaji Nagar",
+    "latitude": 17.44245,
+    "longitude": 78.496905,
+    "place_id": "ChIJT8PjomGbyzsRNkBeC-Zsxbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8PjomGbyzsRNkBeC-Zsxbs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:15:05"
+  }
+]

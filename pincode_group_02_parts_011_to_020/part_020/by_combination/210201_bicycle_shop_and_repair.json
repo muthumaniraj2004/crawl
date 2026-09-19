@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Velocraft Sports Private Limited",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Bicycle Shop",
+    "pincode": "210201",
+    "phone_number": "+91 72048 83646",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No. 56/1, Walhekar Wadi Rd, Shevantiban Colony, Sector No. 32, Akurdi, Pimpri-Chinchwad, Pune, Maharashtra 411033",
+    "area": "Shevantiban Colony, Sector No. 32, Akurdi",
+    "latitude": 18.6347994,
+    "longitude": 73.7672656,
+    "place_id": "ChIJPzEV1T-5wjsRUsE5lMRAoTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzEV1T-5wjsRUsE5lMRAoTg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:53"
+  },
+  {
+    "business_name": "P K Cycle World",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "210201",
+    "phone_number": "+91 98402 22595",
+    "website": "https://www.pkcycleworld.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 11 & 12, Nest to KGN Express, Chowk, beside Spot 18 Mall, Jagtap Dairy, Pimple Saudagar, Pune, Pimpri-Chinchwad, Maharashtra 411017",
+    "area": "Jagtap Dairy, Pimple Saudagar",
+    "latitude": 18.593021099999998,
+    "longitude": 73.7854981,
+    "place_id": "ChIJB4qI6Qa5wjsR8tfrqxaw6w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4qI6Qa5wjsR8tfrqxaw6w0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Easyport Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "210123",
+    "phone_number": "+91 94038 90090",
+    "website": "http://easyport.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "QWM3+PJ3, Dewas Naka, Lasudia Mori, Indore, Madhya Pradesh 452010",
+    "area": "Dewas Naka, Lasudia Mori",
+    "latitude": 22.784371099999998,
+    "longitude": 75.9041184,
+    "place_id": "ChIJsx8YmDMdYzkRIXbRxMqHRoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsx8YmDMdYzkRIXbRxMqHRoI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:37"
+  },
+  {
+    "business_name": "Lucknow Bada Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "210123",
+    "phone_number": "+91 93356 32721",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "133/283, T.P Nagar, Transport Nagar, Kanpur Nagar, Kanpur, Uttar Pradesh 208023",
+    "area": "T.P Nagar, Transport Nagar, Kanpur Nagar",
+    "latitude": 26.441934099999997,
+    "longitude": 80.33782,
+    "place_id": "ChIJ9xVahhNHnDkRMwuQQWqfaNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xVahhNHnDkRMwuQQWqfaNY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:37"
+  }
+]

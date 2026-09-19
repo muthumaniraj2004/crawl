@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S Raheja",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Architectural designer, Real Estate Builders & Construction Company, Housing development",
+    "pincode": "210203",
+    "phone_number": "+91 22 2604 5966",
+    "website": "https://www.sraheja.com/",
+    "rating": 4.1,
+    "reviews_count": 74,
+    "address": "4th Floor, Joe Pali, 19a, Dr Ambedkar Rd, above HSBC Bank, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Bandra West",
+    "latitude": 19.06044,
+    "longitude": 72.82951299999999,
+    "place_id": "ChIJ8w2oOhDJ5zsRY1u8I3RE-NI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8w2oOhDJ5zsRY1u8I3RE-NI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:16:00"
+  },
+  {
+    "business_name": "Realspace Assets LLP",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Property investment company, Real estate consultant, Real estate rental agency",
+    "pincode": "210203",
+    "phone_number": "+91 98205 75619",
+    "website": "https://www.realspace.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siddha CHS, near Prabodhan Kridabhavan, near Swami Vivekanand Road, Siddharth Nagar, Goregaon West, Mumbai, Maharashtra 400104",
+    "area": "Siddharth Nagar, Goregaon West",
+    "latitude": 19.1576245,
+    "longitude": 72.8441864,
+    "place_id": "ChIJW_t3ENTJ5zsR1x9yhVpBxB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_t3ENTJ5zsR1x9yhVpBxB8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:16:00"
+  }
+]

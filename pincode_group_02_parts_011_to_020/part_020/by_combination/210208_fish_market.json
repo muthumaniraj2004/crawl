@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Achus Fresh Fish",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "210208",
+    "phone_number": "+91 82898 80044",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 671,
+    "address": "NH 47 Bypass Road, Karimanal Rd, Aakkulam, Thiruvananthapuram, Kerala 695583",
+    "area": "Aakkulam",
+    "latitude": 8.52247,
+    "longitude": 76.8929133,
+    "place_id": "ChIJ_Ss4ZiC8BTsRd5eoHIBbxLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Ss4ZiC8BTsRd5eoHIBbxLs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:52"
+  },
+  {
+    "business_name": "Serampore Wholesale Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "210208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 71,
+    "address": "Q83Q+H8X, Serampore, Dakshin Rajyadharpur, West Bengal 712203",
+    "area": "Serampore",
+    "latitude": 22.753975999999998,
+    "longitude": 88.3383583,
+    "place_id": "ChIJGRaFVCeb-DkRxQAHxVwieNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRaFVCeb-DkRxQAHxVwieNg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manbhavan Premium Thali Restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "210204",
+    "phone_number": "+91 88586 27067",
+    "website": "http://www.manbhavanthali.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3rd floor phoenix palassio mall, Amar Shaheed Path, Lucknow, Uttar Pradesh 226002",
+    "area": "210204",
+    "latitude": 26.808304,
+    "longitude": 81.01211479999999,
+    "place_id": "ChIJ3fjaPvfjmzkRIDQy-2g0xhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fjaPvfjmzkRIDQy-2g0xhc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:16:27"
+  },
+  {
+    "business_name": "Ghar Se Rasoi",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery, Takeout restaurant",
+    "pincode": "210204",
+    "phone_number": "+91 98978 11117",
+    "website": "https://www.thekitchenhotspot.com/?location=the-kitchen-hotspot",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "286 A, Bukhar Pura-2, Kanker Khera, Meerut, Uttar Pradesh 250001",
+    "area": "Kanker Khera, Shradhapuri Phase 1",
+    "latitude": 29.0306949,
+    "longitude": 77.6799704,
+    "place_id": "ChIJmdt1H3NlDDkRfJptaII0Dbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdt1H3NlDDkRfJptaII0Dbw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:16:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chauhan dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "210128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "QJ5H+53, Saibsi, Uttar Pradesh 212663",
+    "area": "210128",
+    "latitude": 25.758000199999998,
+    "longitude": 80.6277051,
+    "place_id": "ChIJ8yP1JQCXnDkR9Gz5LjKs9Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yP1JQCXnDkR9Gz5LjKs9Ww",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:10"
+  },
+  {
+    "business_name": "Sukla samosa",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "210128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "HPHH+X52, Tharthuwa, Uttar Pradesh 210121",
+    "area": "210128",
+    "latitude": 25.579891,
+    "longitude": 80.7278841,
+    "place_id": "ChIJC2Z1j6ennDkR4-n9lwM5HY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2Z1j6ennDkR4-n9lwM5HY4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:10"
+  }
+]

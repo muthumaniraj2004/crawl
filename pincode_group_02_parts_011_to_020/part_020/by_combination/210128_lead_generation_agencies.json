@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Success Stars",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "210128",
+    "phone_number": "+91 90081 70212",
+    "website": "https://thesuccessstars.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Wolfpack Workspaces, 39, 8th Main Rd, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "area": "Vasanth Nagar",
+    "latitude": 12.992855899999999,
+    "longitude": 77.5896898,
+    "place_id": "ChIJr3gByuUXrjsR85P4bBt5wHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3gByuUXrjsR85P4bBt5wHI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:09:31"
+  },
+  {
+    "business_name": "ZeroAdo",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "210128",
+    "phone_number": "+91 87997 67707",
+    "website": "https://zeroado.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ZeroAdo, 210128, India",
+    "area": "210128",
+    "latitude": 42.403752399999995,
+    "longitude": -47.802320699999996,
+    "place_id": "ChIJnbGZ6O3Aem4RNf8LhaEIdGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbGZ6O3Aem4RNf8LhaEIdGc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:09:32"
+  }
+]

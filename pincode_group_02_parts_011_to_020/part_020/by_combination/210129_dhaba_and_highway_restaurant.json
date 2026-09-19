@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "faoji dhaba & family restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "210129",
+    "phone_number": "+91 78791 99347",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 11,
+    "address": "MP SH 49, Pista, Madhya Pradesh 488220",
+    "area": "210129",
+    "latitude": 24.9621046,
+    "longitude": 80.3193507,
+    "place_id": "ChIJu-iCUesXgzkR_VV5ugBadFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-iCUesXgzkR_VV5ugBadFA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:09:46"
+  },
+  {
+    "business_name": "Jhalla Yadav Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "210129",
+    "phone_number": "+91 77239 45568",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "XRR3+RPF, NH 135BG, Judehi, Pindra, Judehi, Madhya Pradesh 485331",
+    "area": "Judehi",
+    "latitude": 24.993240099999998,
+    "longitude": 80.8047615,
+    "place_id": "ChIJxyI-UgBhgzkRCJsEs-s7VAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyI-UgBhgzkRCJsEs-s7VAA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:09:46"
+  }
+]

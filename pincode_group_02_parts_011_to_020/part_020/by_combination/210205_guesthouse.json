@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarambh Home Stay and Hotel",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "210205",
+    "phone_number": "+91 87074 60380",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 74,
+    "address": "Railway Station Road, near Baldau mandir, Baldauganj, Chitrakoot Dham, Uttar Pradesh 210205",
+    "area": "Baldauganj",
+    "latitude": 25.2182861,
+    "longitude": 80.9211122,
+    "place_id": "ChIJreY9_36vhDkRmHcPda_mdI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreY9_36vhDkRmHcPda_mdI4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:53"
+  },
+  {
+    "business_name": "Sumer Giri Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "210205",
+    "phone_number": "+91 91290 41441",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Allahabad Road, NH, Gandhi ganj, Chitrakoot Dham, Uttar Pradesh 210205",
+    "area": "Gandhi ganj",
+    "latitude": 25.2229049,
+    "longitude": 81.0092062,
+    "place_id": "ChIJO9BegmyvhDkR6za6mG1cyPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9BegmyvhDkR6za6mG1cyPc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons Unlimited Champapet",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store, Event planner",
+    "pincode": "210207",
+    "phone_number": "+91 63095 98666",
+    "website": "http://balloonsunlimited.co.in/",
+    "rating": 3.8,
+    "reviews_count": 37,
+    "address": "Champapet Rd, X Roads, Keshaw Nagar, Saroor Nagar West, Saidabad, Hyderabad, Telangana 500059",
+    "area": "X Roads, Keshaw Nagar, Saroor Nagar West, Saidabad",
+    "latitude": 17.3490032,
+    "longitude": 78.5153721,
+    "place_id": "ChIJdxth8U-ZyzsRz8aekd-d6tM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxth8U-ZyzsRz8aekd-d6tM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:05"
+  },
+  {
+    "business_name": "Decoration Point",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Event management company, Florist, Flower designer",
+    "pincode": "210207",
+    "phone_number": "+91 97126 86066",
+    "website": "http://www.decorationpoint.in/",
+    "rating": 4.9,
+    "reviews_count": 147,
+    "address": "Shop No 101, Chowk, Silver Complex, 101, Mavdi Main Road, near Mavdi, Mavdi, Rajkot, Gujarat 360004",
+    "area": "Mavdi",
+    "latitude": 22.262183099999998,
+    "longitude": 70.7821128,
+    "place_id": "ChIJAUiTzSTLWTkRYnpQxgHQZIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUiTzSTLWTkRYnpQxgHQZIo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:22:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Kidney Care and Dialysis Association",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "210209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jamalpur Bhakanda, Uttar Pradesh 212216",
+    "area": "210209",
+    "latitude": 25.301493699999998,
+    "longitude": 81.49105449999999,
+    "place_id": "ChIJVfK40xnXhDkRG3iWB-jnqv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfK40xnXhDkRG3iWB-jnqv4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:24:53"
+  },
+  {
+    "business_name": "Dialysis Centre Georgian Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "210209",
+    "phone_number": "N/A",
+    "website": "https://gshri.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gokul Puram Colony Rd, Awaleshpur, Varanasi, Kandwa, Uttar Pradesh 221106",
+    "area": "Awaleshpur",
+    "latitude": 25.2626262,
+    "longitude": 82.9654121,
+    "place_id": "ChIJh1Y08iMzjjkR1HPleuR5Gj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1Y08iMzjjkR1HPleuR5Gj8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:24:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advance Clinical Centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Laboratory, Medical Center, Medical laboratory",
+    "pincode": "210341",
+    "phone_number": "+91 94184 98970",
+    "website": "https://advance-clinical-centre.grexa.site/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "opp. Dr Radha Krishnan Medical College, Agriculture Colony, Hamirpur, Himachal Pradesh 177001",
+    "area": "Agriculture Colony",
+    "latitude": 31.680593899999998,
+    "longitude": 76.52685819999999,
+    "place_id": "ChIJkQYqi3XVBDkRmHMKlSRQh8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQYqi3XVBDkRmHMKlSRQh8E",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:04"
+  },
+  {
+    "business_name": "Shivam Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "210341",
+    "phone_number": "+91 94512 20771",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R5F3+MV9, Banki Rd, Bharuwa Sumerpur, Sumerpur, Uttar Pradesh 210502",
+    "area": "210341",
+    "latitude": 25.824173,
+    "longitude": 80.1547391,
+    "place_id": "ChIJEYOA-sfjnDkRX4KtkvTSCKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYOA-sfjnDkRX4KtkvTSCKo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Webocrafts",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer",
+    "pincode": "210129",
+    "phone_number": "N/A",
+    "website": "https://webocrafts.netlify.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5FJ8+RM8, Naraini, Baruwa Syodha, Uttar Pradesh 210129",
+    "area": "210129",
+    "latitude": 25.1820375,
+    "longitude": 80.46670569999999,
+    "place_id": "ChIJKbukHQBJgzkRbIHz-jh1kZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKbukHQBJgzkRbIHz-jh1kZE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:04"
+  },
+  {
+    "business_name": "Om Enterprises",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing",
+    "all_categories": "Marketing",
+    "pincode": "210129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "Laundi - Chhatarpur Rd, Chandla, Madhya Pradesh 471525",
+    "area": "210129",
+    "latitude": 25.0652065,
+    "longitude": 80.1908089,
+    "place_id": "ChIJESJZ0xwkgzkRaqhPOLPoq74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESJZ0xwkgzkRaqhPOLPoq74",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:06"
+  }
+]

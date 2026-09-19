@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The True Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Gymnastics center",
+    "pincode": "210205",
+    "phone_number": "+91 84408 34825",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "B-2/521 Chitrakoot Yojna, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.9020361,
+    "longitude": 75.7338513,
+    "place_id": "ChIJNT6GI6O0bTkRd-C1XArJLf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNT6GI6O0bTkRd-C1XArJLf4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:22"
+  },
+  {
+    "business_name": "N R Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "210205",
+    "phone_number": "+91 97837 79797",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd Floor, Durga Mansion, C-30, Chitrakoot Marg, Vidyut Nagar, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Vidyut Nagar, Vaishali Nagar",
+    "latitude": 26.902541199999998,
+    "longitude": 75.7390918,
+    "place_id": "ChIJu1DryQS1bTkRJlLjx9_3pN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1DryQS1bTkRJlLjx9_3pN4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:22"
+  }
+]

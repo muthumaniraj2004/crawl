@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishno Kirana & Bhojnalay",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "210209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4VX2+2Q2, Janki Kund, Chitrakoot, Madhya Pradesh 485334",
+    "area": "Janki Kund",
+    "latitude": 25.1475035,
+    "longitude": 80.8518943,
+    "place_id": "ChIJC-PQW8-nhDkRDwNVETmAf70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-PQW8-nhDkRDwNVETmAf70",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:24:27"
+  },
+  {
+    "business_name": "Balaji Rice Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "210209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sy.No. 288, 2, Kodichikkanahalli Main Rd, Bommanahalli, Bengaluru, Karnataka 560068",
+    "area": "Bommanahalli",
+    "latitude": 12.9020528,
+    "longitude": 77.6238946,
+    "place_id": "ChIJs77A6-kUrjsRox0H6SnGE3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs77A6-kUrjsRox0H6SnGE3Q",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:24:28"
+  }
+]

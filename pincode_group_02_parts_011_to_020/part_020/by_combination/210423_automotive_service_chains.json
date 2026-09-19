@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Service (Velocity Motors)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "210423",
+    "phone_number": "+91 95609 98709",
+    "website": "https://www.marutisuzuki.com/service-workshop-in-mahoba",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "7VWR+5RJ, Bajrang Chowk, Kanpur - Sagar Hwy, Mahoba, Uttar Pradesh 210427",
+    "area": "Bija Nagar",
+    "latitude": 25.294010999999998,
+    "longitude": 79.895224,
+    "place_id": "ChIJAdngZ0HNgjkRlTh_PlrNe4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdngZ0HNgjkRlTh_PlrNe4I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:33:17"
+  },
+  {
+    "business_name": "Khan auto parts",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "210423",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7VQF+P6C, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.2893108,
+    "longitude": 79.8730186,
+    "place_id": "ChIJ6eRRRZzNgjkR_9b9PIVVE90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eRRRZzNgjkR_9b9PIVVE90",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:33:19"
+  }
+]

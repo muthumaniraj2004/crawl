@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Kids",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "210203",
+    "phone_number": "+91 92253 00406",
+    "website": "http://www.vishalkids.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sarafa Rd, Lota Karanja, Sarafa Bazaar, Shahgunj, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Lota Karanja, Sarafa Bazaar, Shahgunj",
+    "latitude": 19.888325,
+    "longitude": 75.3325713,
+    "place_id": "ChIJH2lbKwyY2zsRgDPCt61YZK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2lbKwyY2zsRgDPCt61YZK4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:55"
+  },
+  {
+    "business_name": "Mahendra Dresses",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "210203",
+    "phone_number": "+91 94052 44403",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 25,26, Jethliya Towers, Diwan Deodi, Gulmandi, Shahgunj, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Diwan Deodi, Gulmandi, Shahgunj",
+    "latitude": 19.8846947,
+    "longitude": 75.33049079999999,
+    "place_id": "ChIJVVVVhRKY2zsRH2ozaH11HYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVhRKY2zsRH2ozaH11HYs",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:55"
+  }
+]

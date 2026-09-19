@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angel multi-speciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "210202",
+    "phone_number": "+91 63074 71848",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bodipokhari chauraha, Near, allahabad road, Rampur, Raipura, Uttar Pradesh 210205",
+    "area": "210202",
+    "latitude": 25.235807299999998,
+    "longitude": 81.1251235,
+    "place_id": "ChIJs5zkNKm3hDkR5Rl9EHvQdaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5zkNKm3hDkR5Rl9EHvQdaE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:13:20"
+  },
+  {
+    "business_name": "Neelima Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "210202",
+    "phone_number": "+91 94151 83737",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Rajapur Road, Mode, near galla mandi, Chitrakoot Dham, Uttar Pradesh 210205",
+    "area": "Jagadishganj",
+    "latitude": 25.2164555,
+    "longitude": 80.9161536,
+    "place_id": "ChIJN0ad9T2vhDkRNvoaTaSaIEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0ad9T2vhDkRNvoaTaSaIEI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:13:20"
+  }
+]

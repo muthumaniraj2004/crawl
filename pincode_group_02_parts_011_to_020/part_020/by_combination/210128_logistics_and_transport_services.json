@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Azad Group",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "210128",
+    "phone_number": "+91 120 716 0716",
+    "website": "https://www.shreeazad.com/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "6th Floor, Plot No. 2, The Business Hub, Goyal Market, Asha Pushp Vihar, Sector 14, Kaushambi, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Goyal Market, Asha Pushp Vihar, Sector 14, Kaushambi",
+    "latitude": 28.634544499999997,
+    "longitude": 77.3274407,
+    "place_id": "ChIJKRChjH_7DDkR67cARlxm5eI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRChjH_7DDkR67cARlxm5eI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:37"
+  },
+  {
+    "business_name": "DHANUSH TRANSPORT CORPORATION",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "210128",
+    "phone_number": "+91 99977 78302",
+    "website": "http://dhtc.in/",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Balaji Complex, C-334, 80 Feet Rd, near Delhi - Ajmer Highway, 4c Scheme, Vishwakarma Industrial Area, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "4c Scheme, Vishwakarma Industrial Area, Harmada",
+    "latitude": 26.990557,
+    "longitude": 75.7630492,
+    "place_id": "ChIJd-0HsGKybTkRgj9SSbrm3dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-0HsGKybTkRgj9SSbrm3dk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:37"
+  }
+]

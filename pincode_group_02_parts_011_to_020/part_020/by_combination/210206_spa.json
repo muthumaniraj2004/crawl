@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Decent Spa",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "210206",
+    "phone_number": "+91 77278 89922",
+    "website": "https://decent-spa.grexa.site/",
+    "rating": 5,
+    "reviews_count": 492,
+    "address": "1st Floor , F Block, JDA Shopping center, S-29, near Burger King & Mini Panjabi Restaurant, opposite Amar Jain Hospital, Amrapali Circle, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Amrapali Circle, Vaishali Nagar",
+    "latitude": 26.9109458,
+    "longitude": 75.7418972,
+    "place_id": "ChIJAcoIKZ20bTkRXL8u2A-XJuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcoIKZ20bTkRXL8u2A-XJuI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:20:22"
+  },
+  {
+    "business_name": "Oranz Body Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa, Spa and health club",
+    "pincode": "210206",
+    "phone_number": "+91 88900 08376",
+    "website": "http://oranzbodyspa.com/",
+    "rating": 4.9,
+    "reviews_count": 205,
+    "address": "scheme no.16, Royal reduman, First floor, Plot no.193, Gandhi Path Rd, Girnar Colony, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Girnar Colony, Girnar Colony South, Vaishali Nagar",
+    "latitude": 26.9055434,
+    "longitude": 75.741884,
+    "place_id": "ChIJC1fuSQC1bTkRPXRNgSgzeuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1fuSQC1bTkRPXRNgSgzeuU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:20:22"
+  }
+]

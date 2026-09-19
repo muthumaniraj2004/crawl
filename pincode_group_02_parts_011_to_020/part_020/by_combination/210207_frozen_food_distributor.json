@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "210207",
+    "phone_number": "+91 97678 99887",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 119,
+    "address": "262 A, near NMC Water Tank, Laxminagar, Nagpur, Maharashtra 440022",
+    "area": "Laxminagar",
+    "latitude": 21.123192799999998,
+    "longitude": 79.0602902,
+    "place_id": "ChIJP5KKJbbA1DsRvTgLlGPwVQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5KKJbbA1DsRvTgLlGPwVQY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:21:15"
+  },
+  {
+    "business_name": "Bhanu Farms Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "210207",
+    "phone_number": "+91 81000 00011",
+    "website": "http://www.bhanufarms.com/",
+    "rating": 4.1,
+    "reviews_count": 51,
+    "address": "31, Chowringee Rd, Park Street area, Kolkata, West Bengal 700016",
+    "area": "Park Street area",
+    "latitude": 22.5547094,
+    "longitude": 88.3502829,
+    "place_id": "ChIJ2ZqD6hV3AjoRl7bQf2kRmrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZqD6hV3AjoRl7bQf2kRmrw",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:21:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FITNESS ART",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210203",
+    "phone_number": "+91 84229 96655",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1 floor, Deep society, JP Rd, above dmart, near Apna Bazar Road, D.N.Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "D.N.Nagar, Andheri West",
+    "latitude": 19.126839,
+    "longitude": 72.83380009999999,
+    "place_id": "ChIJmQsYtuPJ5zsRCoLDO8yWq5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQsYtuPJ5zsRCoLDO8yWq5c",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:15:08"
+  },
+  {
+    "business_name": "Result Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "210203",
+    "phone_number": "+91 88881 18865",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "55, Ashok Shantaram Thakur Marg, Sector 6, Sanpada, Navi Mumbai, Maharashtra 400705",
+    "area": "Sector 6, Sanpada",
+    "latitude": 19.060945699999998,
+    "longitude": 73.01566609999999,
+    "place_id": "ChIJe48gzBfB5zsRIJk1vqmtTYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe48gzBfB5zsRIJk1vqmtTYI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:15:09"
+  }
+]

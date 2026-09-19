@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "210128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JCH4+6CV, Paprenda, Uttar Pradesh 210001",
+    "area": "210128",
+    "latitude": 25.6281178,
+    "longitude": 80.4060314,
+    "place_id": "ChIJidEBMQDHnDkRmvf5yEa82Og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidEBMQDHnDkRmvf5yEa82Og",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:26"
+  },
+  {
+    "business_name": "Medtex Healthcare",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Diabetes equipment supplier, Medical supply store",
+    "pincode": "210128",
+    "phone_number": "+91 99443 32322",
+    "website": "https://www.medtexindia.com/",
+    "rating": 5,
+    "reviews_count": 88,
+    "address": "161, 6th St Ext, Gandhipuram, Coimbatore, Tamil Nadu 641012",
+    "area": "210128",
+    "latitude": 11.021306599999999,
+    "longitude": 76.9667856,
+    "place_id": "ChIJ9Z2gdcdZqDsRmc3FSfgKvqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Z2gdcdZqDsRmc3FSfgKvqg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:28"
+  }
+]

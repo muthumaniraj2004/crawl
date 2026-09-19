@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokul Marbles Co",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Granite supplier, Marble supplier, Sanitation service, Stone supplier",
+    "pincode": "210128",
+    "phone_number": "+91 80 6507 6989",
+    "website": "https://gokulmarblesco.in/",
+    "rating": 4.9,
+    "reviews_count": 73,
+    "address": "beside Box Bridge, Krishnapur, Newtown, Kolkata, West Bengal 700102",
+    "area": "Krishnapur, Newtown",
+    "latitude": 22.5811812,
+    "longitude": 88.4445507,
+    "place_id": "ChIJn5emcQl1AjoRU6ZTHkHjU9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5emcQl1AjoRU6ZTHkHjU9s",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:40"
+  },
+  {
+    "business_name": "Sania Marble",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Marble supplier",
+    "all_categories": "Marble supplier",
+    "pincode": "210128",
+    "phone_number": "+91 98005 49080",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 14,
+    "address": "Gopalnagar, Raghunathganj, Srikantabati, West Bengal 742225",
+    "area": "Gopalnagar",
+    "latitude": 24.4575262,
+    "longitude": 88.0562491,
+    "place_id": "ChIJI0DR8Ps2-jkRBdpyduEFQ3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0DR8Ps2-jkRBdpyduEFQ3I",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:40"
+  }
+]

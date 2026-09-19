@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nephroworld Dialysis Center @ Medstar Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "210203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3H5P+628, Shanthivana, Sanjeevini Nagar, Bengaluru, Karnataka 560092",
+    "area": "Shanthivana, Sanjeevini Nagar",
+    "latitude": 13.0580333,
+    "longitude": 77.5850772,
+    "place_id": "ChIJH4WRyf4ZrjsRTYOjq87HHik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4WRyf4ZrjsRTYOjq87HHik",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:15:06"
+  },
+  {
+    "business_name": "DCDC Kidney Care - Sadar Hazaribagh",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "210203",
+    "phone_number": "+91 11 4558 1006",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 38,
+    "address": "Dialysis Wing, SADAR HOSPITAL, NEAR INDERPURI CHOUK, Hazaribagh, Jharkhand 825301",
+    "area": "NawabGanj",
+    "latitude": 23.9976533,
+    "longitude": 85.35627099999999,
+    "place_id": "ChIJycDiAlid9DkRPSY60zjUUWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycDiAlid9DkRPSY60zjUUWc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:15:07"
+  }
+]

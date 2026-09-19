@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uma automobiles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "210205",
+    "phone_number": "N/A",
+    "website": "http://www.heromotocorp.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Chitrakoot Dham, Ahmad Ganj, Uttar Pradesh 210205",
+    "area": "210205",
+    "latitude": 25.2164581,
+    "longitude": 80.8817456,
+    "place_id": "ChIJdRhmtcCohDkRTgc2jzb7XHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRhmtcCohDkRTgc2jzb7XHM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:25"
+  },
+  {
+    "business_name": "Used Cars in Chitrakoot",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto broker, Car dealer, Motor vehicle dealer, Vehicle inspection service",
+    "pincode": "210205",
+    "phone_number": "+91 99305 65555",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Loopline Chauraha, New, Yamuna Rd, near Kp Filling Station, Uttar Pradesh 210207",
+    "area": "210205",
+    "latitude": 25.391130999999998,
+    "longitude": 81.146372,
+    "place_id": "ChIJraBU7qa1hDkR2EnFbZipT_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraBU7qa1hDkR2EnFbZipT_o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:18:27"
+  }
+]

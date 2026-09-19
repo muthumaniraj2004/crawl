@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K R Lynch & Co",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Medical supply store, Surgical Products Wholesaler",
+    "pincode": "210208",
+    "phone_number": "+91 98311 92052",
+    "website": "https://www.krlynch.com/",
+    "rating": 3.4,
+    "reviews_count": 81,
+    "address": "113, Chittaranjan Ave, Tiretti, Kolkata, West Bengal 700073",
+    "area": "Tiretti",
+    "latitude": 22.57518,
+    "longitude": 88.35943979999999,
+    "place_id": "ChIJDSbiX7J3AjoRUqxA-nOHYeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSbiX7J3AjoRUqxA-nOHYeM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:17"
+  },
+  {
+    "business_name": "New Das Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "210208",
+    "phone_number": "+91 98360 05653",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 63,
+    "address": "emergency gate, 50/1, College St, near MEDICAL COLLEGE, Lalbajar, College Square, Kolkata, West Bengal 700073",
+    "area": "Lalbajar, College Square",
+    "latitude": 22.5734612,
+    "longitude": 88.3626522,
+    "place_id": "ChIJUZZCLa13AjoR-aYhewHu7pY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZZCLa13AjoR-aYhewHu7pY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:17"
+  }
+]

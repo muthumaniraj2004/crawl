@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fit Five Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym, Spa",
+    "pincode": "210341",
+    "phone_number": "+91 97177 31040",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 203,
+    "address": "Second Floor, Sapphire Ninety, Sector 90, Gurugram, Meoka, Haryana 122505",
+    "area": "Sector 90",
+    "latitude": 28.4047877,
+    "longitude": 76.9362417,
+    "place_id": "ChIJd95BHjI9DTkROl--SUc7QdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd95BHjI9DTkROl--SUc7QdY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:08"
+  },
+  {
+    "business_name": "RRK Power fitness club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210341",
+    "phone_number": "+91 63872 58008",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "6, thok, Muskara, Uttar Pradesh 210506",
+    "area": "210341",
+    "latitude": 25.665933199999998,
+    "longitude": 79.79500209999999,
+    "place_id": "ChIJif7bUAA_nTkRN8EOBDvtkcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJif7bUAA_nTkRN8EOBDvtkcg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:10"
+  }
+]

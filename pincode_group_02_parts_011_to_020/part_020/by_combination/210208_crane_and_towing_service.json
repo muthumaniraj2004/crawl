@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wasim Motors",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Garage",
+    "pincode": "210208",
+    "phone_number": "+91 98192 79108",
+    "website": "http://wasimmotors.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "GREEN PARK, 1, off New Link Road, near Shantivan, Milat Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Milat Nagar, Andheri West",
+    "latitude": 19.153745999999998,
+    "longitude": 72.8291883,
+    "place_id": "ChIJbalx6kG25zsRiYQuF5891uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbalx6kG25zsRiYQuF5891uo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:27"
+  },
+  {
+    "business_name": "M A Crane Towing Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "210208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arora Layout, Old Town, Badnera, near Sahil Lawn, Aman Colony, Badnera, Amravati, Maharashtra 444701",
+    "area": "Aman Colony, Badnera",
+    "latitude": 20.871467,
+    "longitude": 77.73691199999999,
+    "place_id": "ChIJCYi-3s661jsRseoikEaNMLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYi-3s661jsRseoikEaNMLI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Scissors point",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "210128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 111,
+    "address": "12, Abhay Guha Rd, Belur Math, Belur, Liluah, Howrah, West Bengal 711204",
+    "area": "Belur Math, Belur, Liluah",
+    "latitude": 22.6199339,
+    "longitude": 88.351688,
+    "place_id": "ChIJh-xVd0Wd-DkRntbNxyji_Dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-xVd0Wd-DkRntbNxyji_Dg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:48"
+  },
+  {
+    "business_name": "Ankita beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "210128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JQM3+WH9, Pindaran, Uttar Pradesh 210121",
+    "area": "210128",
+    "latitude": 25.6347816,
+    "longitude": 80.7539797,
+    "place_id": "ChIJG9DMknKnnDkRFD0_7NZ1n8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9DMknKnnDkRFD0_7NZ1n8U",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:48"
+  }
+]

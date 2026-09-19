@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MB fresh fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "210128",
+    "phone_number": "+91 63926 63925",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Lal Bahadur Shastri Sabzi Mandi, Bhakti Nagar Colony, Paharia, Varanasi, Uttar Pradesh 221007",
+    "area": "Lal Bahadur Shastri Sabzi Mandi, Bhakti Nagar Colony, Paharia",
+    "latitude": 25.3565532,
+    "longitude": 83.0035369,
+    "place_id": "ChIJA4uposkvjjkRtIQ-BJhKwhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4uposkvjjkRtIQ-BJhKwhA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:07:59"
+  },
+  {
+    "business_name": "Sabzzi.com | Vegetables & Fruits online Home Delivery in Varanasi",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "210128",
+    "phone_number": "+91 76072 68008",
+    "website": "https://sabzzi.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "H. No.- B, Sheel Nagar, Tulsipur, Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Sheel Nagar, Tulsipur, Mahmoorganj",
+    "latitude": 25.3001501,
+    "longitude": 82.9755891,
+    "place_id": "ChIJh3oUsbTNjzkRSW4eoCF8dQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3oUsbTNjzkRSW4eoCF8dQ0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:07:59"
+  }
+]

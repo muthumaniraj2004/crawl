@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Citykart",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Dress store, Formal Clothing Store, Men's clothing store, Outlet mall, Shoe store, Women's clothing store",
+    "pincode": "210129",
+    "phone_number": "+91 96504 07082",
+    "website": "https://citykart.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Degree College Chauraha, near Bharat Petroleum, Awas Vikas Colony, Indira Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Awas Vikas Colony, Indira Nagar",
+    "latitude": 26.216986499999997,
+    "longitude": 81.24550789999999,
+    "place_id": "ChIJO9wwTDGhmzkR374DFoAOEjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9wwTDGhmzkR374DFoAOEjo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:09"
+  },
+  {
+    "business_name": "Bhartiya Mall Of Bengaluru",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "210129",
+    "phone_number": "+91 89519 54663",
+    "website": "https://bhartiyamallofbengaluru.com/",
+    "rating": 4.5,
+    "reviews_count": 12780,
+    "address": "Bhartiya City, Thanisandra Main Rd, Bengaluru, Karnataka 560064",
+    "area": "Kannuru",
+    "latitude": 13.083428099999999,
+    "longitude": 77.64334579999999,
+    "place_id": "ChIJee_O5uYZrjsRYLOsndusPWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJee_O5uYZrjsRYLOsndusPWo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:11"
+  }
+]

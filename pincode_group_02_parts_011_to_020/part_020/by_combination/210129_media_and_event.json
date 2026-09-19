@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEEPAK DJ",
+    "search_category": "Media and Event",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "210129",
+    "phone_number": "+91 97945 15942",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Kushvaha Colony Ke Samne Atarra, Road, Bisanda, Orai, Uttar Pradesh 210201",
+    "area": "210129",
+    "latitude": 25.275437999999998,
+    "longitude": 80.57869,
+    "place_id": "ChIJXe_p6i1NgzkR-cMB1ywYAOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXe_p6i1NgzkR-cMB1ywYAOM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:10:39"
+  },
+  {
+    "business_name": "Studio 29 Events & Weddings",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner",
+    "pincode": "210129",
+    "phone_number": "+91 90361 92000",
+    "website": "https://studio29events.in/",
+    "rating": 4.8,
+    "reviews_count": 35,
+    "address": "Prabhu Building Bhavani Nagar, Keshwapur,Hubali, Hubballi, Karnataka 580023",
+    "area": "Bhavani Nagar, Bengeri Extension, Keshwapur",
+    "latitude": 15.362404999999999,
+    "longitude": 75.140906,
+    "place_id": "ChIJl-knTE7XuDsRy2RfZSMCVVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-knTE7XuDsRy2RfZSMCVVg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:10:39"
+  }
+]

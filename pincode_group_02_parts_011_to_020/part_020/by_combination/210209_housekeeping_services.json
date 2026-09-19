@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Upendra kumar",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Upholstery cleaning service",
+    "all_categories": "Upholstery cleaning service, Service establishment",
+    "pincode": "210209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Upendra kumar, 210209, India",
+    "area": "210209",
+    "latitude": 25.349114999999998,
+    "longitude": 81.2831308,
+    "place_id": "ChIJs0BNq0rRhDkRfvqOoAVRYPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0BNq0rRhDkRfvqOoAVRYPo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:25:43"
+  },
+  {
+    "business_name": "Amit Nishad",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "210209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "663G+FRQ, Khor, Uttar Pradesh 210209",
+    "area": "210209",
+    "latitude": 25.203700299999998,
+    "longitude": 81.2270988,
+    "place_id": "ChIJ7UIDdgDHhDkRdrQ43IucbXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UIDdgDHhDkRdrQ43IucbXc",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:25:43"
+  }
+]

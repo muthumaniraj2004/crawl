@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "We Care Diagnostic And Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "210128",
+    "phone_number": "+91 97329 68091",
+    "website": "https://www.bookline.life/wecare",
+    "rating": 4.9,
+    "reviews_count": 224,
+    "address": "We Care Diagnostic And Polyclinic, near Hijli Hospital, Prembazar, Kharagpur, West Bengal 721306",
+    "area": "Prembazar",
+    "latitude": 22.30569,
+    "longitude": 87.3055061,
+    "place_id": "ChIJgzpmovRBHToR8ags_bsIKfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzpmovRBHToR8ags_bsIKfE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:25"
+  },
+  {
+    "business_name": "Lyall Clinic & Clinical Lab",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Medical clinic",
+    "pincode": "210128",
+    "phone_number": "+91 98769 98440",
+    "website": "https://lyallclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 756,
+    "address": "BXX-2158, PAU Rd, Krishna Nagar, Ludhiana, Punjab 141001",
+    "area": "Krishna Nagar",
+    "latitude": 30.9021905,
+    "longitude": 75.82315729999999,
+    "place_id": "ChIJIzLeNsSDGjkRsShBCdsfrx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzLeNsSDGjkRsShBCdsfrx8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:25"
+  }
+]

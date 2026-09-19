@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RentAcross",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Camera store",
+    "all_categories": "Camera store, Equipment rental agency",
+    "pincode": "210201",
+    "phone_number": "+91 77208 29444",
+    "website": "https://rentacross.com/",
+    "rating": 4.9,
+    "reviews_count": 288,
+    "address": "Nandan Prospera Gold Rd, Laxman Nagar, Baner, Pune, Maharashtra 411045",
+    "area": "Laxman Nagar, Baner",
+    "latitude": 18.570251,
+    "longitude": 73.7708875,
+    "place_id": "ChIJ3SszITq_wjsRWvBcrpDFiJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SszITq_wjsRWvBcrpDFiJo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:12:15"
+  },
+  {
+    "business_name": "Houston Drone Video Co.",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Advertising agency, Film Production Company, Marketing agency, Video editing service",
+    "pincode": "210201",
+    "phone_number": "N/A",
+    "website": "http://houstondronevideo.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "4201 Main St Ste 200-101, Houston, TX 77002, United States",
+    "area": "Midtown",
+    "latitude": 29.734303399999998,
+    "longitude": -95.3822395,
+    "place_id": "ChIJT2SReTu_QIYRDp2Ssojr0y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2SReTu_QIYRDp2Ssojr0y0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:12:15"
+  }
+]

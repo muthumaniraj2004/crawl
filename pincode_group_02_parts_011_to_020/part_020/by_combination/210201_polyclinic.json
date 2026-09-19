@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R. R. Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "210201",
+    "phone_number": "+91 97166 49211",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "A-6, Johripur Rd, near toll tax, Shani Bazar, Johripur Extension, Johripur, Delhi, Uttar Pradesh 110090",
+    "area": "Shani Bazar, Johripur Extension, Johripur",
+    "latitude": 28.7126341,
+    "longitude": 77.2869308,
+    "place_id": "ChIJO35Fw4n7DDkRX8pCYE-z7nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO35Fw4n7DDkRX8pCYE-z7nA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:41"
+  },
+  {
+    "business_name": "CHIKHALI POLYCLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "210201",
+    "phone_number": "+91 91729 14335",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 165,
+    "address": "Talathi Office, opposite Chikhali, Vrindavan Chikhali Patil Nagar, GAOTHAN, Chikhali, Pimpri-Chinchwad, Maharashtra 411062",
+    "area": "Vrindavan Chikhali Patil Nagar, GAOTHAN, Chikhali",
+    "latitude": 18.6841542,
+    "longitude": 73.8148424,
+    "place_id": "ChIJQ6TMPHC3wjsR9sd0p-Y9rFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6TMPHC3wjsR9sd0p-Y9rFo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:42"
+  }
+]

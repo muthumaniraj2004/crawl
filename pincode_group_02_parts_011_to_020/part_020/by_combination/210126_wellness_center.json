@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Care & Wellness Center Bhatpurwa",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "210126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X626+6W, Samuhi, Uttar Pradesh 210301",
+    "area": "210126",
+    "latitude": 25.950578399999998,
+    "longitude": 80.21225489999999,
+    "place_id": "ChIJu-DoOAD7nDkRu7ux7gMTEyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-DoOAD7nDkRu7ux7gMTEyk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:07:14"
+  },
+  {
+    "business_name": "Primary Health Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "210126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RJRF+M95, Krishna Nagar, Bahua, Uttar Pradesh 212663",
+    "area": "Krishna Nagar",
+    "latitude": 25.8416291,
+    "longitude": 80.62349379999999,
+    "place_id": "ChIJNePJsa-QnDkR_WIjI1KudDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNePJsa-QnDkR_WIjI1KudDI",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:07:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maya HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Consultant, Recruiter, Training center",
+    "pincode": "210126",
+    "phone_number": "+91 89835 40298",
+    "website": "https://www.mayahrsolutions.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Flat A1, Shanta Commercial Complex, Gokulwadi, Desai Nagar, Sanquelim, Goa 403505",
+    "area": "Gokulwadi, Desai Nagar",
+    "latitude": 15.562132799999999,
+    "longitude": 74.0121448,
+    "place_id": "ChIJn593Tom9vzsRjLcqqurLcG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn593Tom9vzsRjLcqqurLcG8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:07:36"
+  },
+  {
+    "business_name": "Recruitia",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "210126",
+    "phone_number": "+91 86682 97225",
+    "website": "http://www.recruitia.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gera Imperium 2, 612, EDC Patto Plaza, Panaji, Goa 403001",
+    "area": "EDC Patto Plaza, Patto Centre",
+    "latitude": 15.493871299999999,
+    "longitude": 73.8361,
+    "place_id": "ChIJewU2Zqu7vzsRx-BYdQ7dAfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewU2Zqu7vzsRx-BYdQ7dAfk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:07:38"
+  }
+]

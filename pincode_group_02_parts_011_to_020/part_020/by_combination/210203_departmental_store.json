@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari Shankar Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "210203",
+    "phone_number": "+91 91409 18130",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJ2F CR, Lakhmi Thok, Bisanda Buzurg, Uttar Pradesh 210203",
+    "area": "210203",
+    "latitude": 25.400657799999998,
+    "longitude": 80.6248457,
+    "place_id": "ChIJk6VkdJCznDkRCVWv07uuLeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6VkdJCznDkRCVWv07uuLeM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:38"
+  },
+  {
+    "business_name": "Dinesh kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "210203",
+    "phone_number": "+91 73093 17822",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CJ2C+2JF, nearby Address:, Bisanda, Bisanda Buzurg, Uttar Pradesh 210203",
+    "area": "210203",
+    "latitude": 25.4000594,
+    "longitude": 80.6215572,
+    "place_id": "ChIJT41ZOQCznDkRAVmdnK-s2hA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT41ZOQCznDkRAVmdnK-s2hA",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:38"
+  }
+]

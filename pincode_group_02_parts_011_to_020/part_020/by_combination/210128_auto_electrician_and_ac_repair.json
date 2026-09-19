@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "car care technologies",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "210128",
+    "phone_number": "+91 95290 90074",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 234,
+    "address": "Jaipur International Airport Terminal, 2 road, Siddharth Nagar, Govind Vihar, Chainpura, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Siddharth Nagar, Govind Vihar, Chainpura, Malviya Nagar",
+    "latitude": 26.836472,
+    "longitude": 75.80295799999999,
+    "place_id": "ChIJR6YVEb61bTkRgV6TA3uEZM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6YVEb61bTkRgV6TA3uEZM8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:32"
+  },
+  {
+    "business_name": "Air Zone",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Auto air conditioning service, Auto repair shop",
+    "pincode": "210128",
+    "phone_number": "+91 97464 40740",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 27,
+    "address": "BPL Koottupatha Pollachi, Road, Palakkad, Kerala 678007",
+    "area": "Kodumba",
+    "latitude": 10.7694767,
+    "longitude": 76.69181429999999,
+    "place_id": "ChIJuXJdj99tqDsR9U3ocqR15ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXJdj99tqDsR9U3ocqR15ow",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:08:34"
+  }
+]

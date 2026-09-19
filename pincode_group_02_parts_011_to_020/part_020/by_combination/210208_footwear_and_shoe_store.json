@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jassi Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "210208",
+    "phone_number": "+91 96874 00070",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Tajawala Supermarket, Sir Lakhajiraj Rd, Raghuveer Para, Lohana Para, Rajkot, Gujarat 360001",
+    "area": "Raghuveer Para, Lohana Para",
+    "latitude": 22.2958288,
+    "longitude": 70.8037181,
+    "place_id": "ChIJC4L0eBLKWTkR0tRaXlCjjw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4L0eBLKWTkR0tRaXlCjjw4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:05"
+  },
+  {
+    "business_name": "Red Chief Exclusive Store - Civil Line",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Men's clothing store",
+    "pincode": "210208",
+    "phone_number": "+91 8071 655 089",
+    "website": "https://stores.redchief.in/red-chief/stores-in-prayagraj/stores-in-Civil-Line/red-chief-exclusive-store-in-Civil-Line-prayagraj--1JVWJe/home",
+    "rating": 4.8,
+    "reviews_count": 2228,
+    "address": "Shop No 5, opposite Indane Gas Service, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.45045,
+    "longitude": 81.8312787,
+    "place_id": "ChIJXQkT-MrLmjkR08qqSFpDBno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQkT-MrLmjkR08qqSFpDBno",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:23:06"
+  }
+]

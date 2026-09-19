@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "210207",
+    "phone_number": "+91 89284 12108",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Flat 5C, Fifth Floor, Ma Tara Enclave, 89/6, Vivekananda Rd, near Radhika Town School Ground, Kali Tala, Bangur Park, Rishra, West Bengal 712248",
+    "area": "Kali Tala, Bangur Park, Rishra",
+    "latitude": 22.722495,
+    "longitude": 88.3453808,
+    "place_id": "ChIJ-fHNIyyb-DkRrppsHdBuJHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fHNIyyb-DkRrppsHdBuJHg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:21:21"
+  },
+  {
+    "business_name": "GutBucket Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery",
+    "pincode": "210207",
+    "phone_number": "+91 90931 29921",
+    "website": "https://gutbucket-cloud-kitchen.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kishore Kumar, Mahatma Gandhi Rd, near NIT, Benachity, Durgapur, West Bengal 713213",
+    "area": "Benachity",
+    "latitude": 23.544724,
+    "longitude": 87.2868944,
+    "place_id": "ChIJN0X9ssdt9zkR6-oVD8vkNQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0X9ssdt9zkR6-oVD8vkNQM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:21:21"
+  }
+]

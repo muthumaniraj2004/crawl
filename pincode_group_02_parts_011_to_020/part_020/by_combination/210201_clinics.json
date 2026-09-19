@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kratika Associates",
+    "search_category": "Clinics",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "210201",
+    "phone_number": "+91 98934 51047",
+    "website": "http://www.storespatakare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv Shakti Mandir, Tansen Rd, near Tansen Nagar, Ashok Vihar Colony, Gwalior, Madhya Pradesh 474002",
+    "area": "Ashok Vihar Colony",
+    "latitude": 26.2264329,
+    "longitude": 78.1800975,
+    "place_id": "ChIJHyW2b73GdjkRVpSLhmwjmzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyW2b73GdjkRVpSLhmwjmzE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:39"
+  },
+  {
+    "business_name": "Jai Baba Medical & Surgical",
+    "search_category": "Clinics",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store, Surgical supply store, Wholesale market",
+    "pincode": "210201",
+    "phone_number": "+91 98262 13388",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shatabdi Complex, Jinshi Nala Road No. 2, Near Huzrat Pul Chouraha, Huzrat Pull, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "area": "Huzrat Pull, Lashkar",
+    "latitude": 26.197259799999998,
+    "longitude": 78.1544531,
+    "place_id": "ChIJDYhREs3FdjkRMFCIIB6qgKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYhREs3FdjkRMFCIIB6qgKE",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:39"
+  }
+]

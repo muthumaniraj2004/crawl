@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saurabh Shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "210201",
+    "phone_number": "+91 79858 89145",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH35 Banda, Rod, Atarra, Uttar Pradesh 210201",
+    "area": "210201",
+    "latitude": 25.2881559,
+    "longitude": 80.57384689999999,
+    "place_id": "ChIJV8mvQlFNgzkRH6uipM4Aa4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8mvQlFNgzkRH6uipM4Aa4g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:29"
+  },
+  {
+    "business_name": "2 BROTHER'S MEN'S WEAR",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "210201",
+    "phone_number": "+91 93276 17705",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GROUND FLOOR, UNIQUE SQUARE, 44, opp. ZUDIO, KATARGAM, Singanpor, Surat, Gujarat 395004",
+    "area": "KATARGAM, Singanpor",
+    "latitude": 21.229790299999998,
+    "longitude": 72.8056924,
+    "place_id": "ChIJC9UxP_lP4DsRE_-BFZPZ-9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9UxP_lP4DsRE_-BFZPZ-9A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:11:29"
+  }
+]

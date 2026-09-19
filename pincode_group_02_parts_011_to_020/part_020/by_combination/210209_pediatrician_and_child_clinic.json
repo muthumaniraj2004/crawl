@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. RK Singh",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Children's hospital, Day care center, Dermatologist, Diabetologist, Gastroenterologist, Neurologist, Pediatric cardiologist, Skin care clinic, Speech & Hearing Specialist",
+    "pincode": "210209",
+    "phone_number": "+91 98388 88873",
+    "website": "https://docspoint.in/doctor-rk-singh",
+    "rating": 4.9,
+    "reviews_count": 1878,
+    "address": "Bramha Kumari Ln, Jawahar Nagar Colony, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Jawahar Nagar Colony, Bhelupur",
+    "latitude": 25.2969613,
+    "longitude": 82.99827119999999,
+    "place_id": "ChIJb7hei_kxjjkRQ0ZOfQK3xNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7hei_kxjjkRQ0ZOfQK3xNo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:24:50"
+  },
+  {
+    "business_name": "Dr Arpit Gupta - Best Pediatrician and Child Specialist in Noida",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "210209",
+    "phone_number": "+91 88301 35649",
+    "website": "https://drarpitgupta.com/",
+    "rating": 4.8,
+    "reviews_count": 926,
+    "address": "T-5, Block T, Sector 12, Noida, Uttar Pradesh 201301",
+    "area": "Block T, Sector 12",
+    "latitude": 28.594063,
+    "longitude": 77.34118959999999,
+    "place_id": "ChIJ26o0wyrlDDkRs3zkaIiP8Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26o0wyrlDDkRs3zkaIiP8Jo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:24:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep Jewellers and Silk Sarees",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "210206",
+    "phone_number": "+91 99869 41661",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hima Arcade, Gangamma Gudi Rd, M V Extenstion, Hoskote, Karnataka 562114",
+    "area": "M V Extenstion",
+    "latitude": 13.070465899999999,
+    "longitude": 77.79127869999999,
+    "place_id": "ChIJrxhNIQkFrjsRmCsZBwXnH_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxhNIQkFrjsRmCsZBwXnH_o",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:19:48"
+  },
+  {
+    "business_name": "P V Jewellers & Sons (S)",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "210206",
+    "phone_number": "+91 98874 55804",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "E-801, Behind Gupta Store, Amrapali Circle, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Amrapali Circle, Vaishali Nagar",
+    "latitude": 26.910673,
+    "longitude": 75.744362,
+    "place_id": "ChIJZS6yyp20bTkROE_biAFoLMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZS6yyp20bTkROE_biAFoLMk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:19:49"
+  }
+]

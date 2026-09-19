@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HI LANES HYPERMARKET",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket",
+    "pincode": "210201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Dasarahalli, Bengaluru, Karnataka 560024",
+    "area": "Dasarahalli",
+    "latitude": 13.0561964,
+    "longitude": 77.61117399999999,
+    "place_id": "ChIJDU6yUX4XrjsRIvPol_0Z40g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDU6yUX4XrjsRIvPol_0Z40g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:12:52"
+  },
+  {
+    "business_name": "Spar Hypermarket",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, ATM, Grocery store",
+    "pincode": "210201",
+    "phone_number": "+91 80 2524 2433",
+    "website": "https://www.sparindia.com/en/?utm_source=GBL&utm_medium=organic",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "3rd Floor, Gopalan Signature Mall, Old Madras Rd, Nagavarapalya, C V Raman Nagar, Bengaluru, Karnataka 560093",
+    "area": "Nagavarapalya, C V Raman Nagar",
+    "latitude": 12.99282,
+    "longitude": 77.6613679,
+    "place_id": "ChIJX2ZzcbsWrjsROV2kBzBldfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2ZzcbsWrjsROV2kBzBldfg",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:12:52"
+  }
+]

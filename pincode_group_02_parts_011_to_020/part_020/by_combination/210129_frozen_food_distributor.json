@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen Delights",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Catering food and drink supplier, Dairy Products Supplier, Food products supplier, Fried chicken takeaway, Hotel supply store, Meat wholesaler, Wholesale Food Store, Wholesale grocer, Wholesaler",
+    "pincode": "210129",
+    "phone_number": "+91 73586 21707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 67,
+    "address": "Plot no 2/76A, 1st Main Rd, Poompuhar Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Poompuhar Nagar, Kolathur",
+    "latitude": 13.120565099999999,
+    "longitude": 80.21214859999999,
+    "place_id": "ChIJucJJuY5lUjoRbTmaNYFpObQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucJJuY5lUjoRbTmaNYFpObQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:09:44"
+  },
+  {
+    "business_name": "Frozen kings /Tanvi foods India Ltd.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer, Food products supplier",
+    "pincode": "210129",
+    "phone_number": "+91 92465 87399",
+    "website": "http://www.tanvifoods.com/",
+    "rating": 4,
+    "reviews_count": 26,
+    "address": "Old canteen building, Sanath Nagar IE, Sanath Nagar, Hyderabad, Telangana 500018",
+    "area": "Sanath Nagar IE, Sanath Nagar",
+    "latitude": 17.4590435,
+    "longitude": 78.4429759,
+    "place_id": "ChIJXc43yu-QyzsR6syBdXFZisQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXc43yu-QyzsR6syBdXFZisQ",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:09:44"
+  }
+]

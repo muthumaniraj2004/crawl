@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Traders",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "210205",
+    "phone_number": "+91 99193 73727",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Railway Station Road, Bhauri, Jagadishganj, Karwi, Chitrakoot Dham, Uttar Pradesh 210205",
+    "area": "Bhauri, Jagadishganj",
+    "latitude": 25.217112699999998,
+    "longitude": 80.921363,
+    "place_id": "ChIJ-wMgrGqvhDkRn-MR4LWNoF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wMgrGqvhDkRn-MR4LWNoF8",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:19:30"
+  },
+  {
+    "business_name": "Janta Press",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "210205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 15,
+    "address": "6W89+P8R, Jagadishganj, Karwi, Chitrakoot Dham, Uttar Pradesh 210205",
+    "area": "Jagadishganj",
+    "latitude": 25.2168663,
+    "longitude": 80.91828079999999,
+    "place_id": "ChIJgVdxfECvhDkRWorprPeq24g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVdxfECvhDkRWorprPeq24g",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:19:30"
+  }
+]

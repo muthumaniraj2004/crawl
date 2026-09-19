@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Same-Day Appliance Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "210123",
+    "phone_number": "N/A",
+    "website": "https://sameday-repair.com/boca-raton/oven-repair",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Same-Day Appliance Repair, 210123, India",
+    "area": "210123",
+    "latitude": 26.4115458,
+    "longitude": -80.089985,
+    "place_id": "ChIJJ10RMz-EX2IRt0e3pKKdgpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ10RMz-EX2IRt0e3pKKdgpk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:43"
+  },
+  {
+    "business_name": "OneDios",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Software company, Appliance store, Grocery store, Interior designer, Painter, Pest control service, Repair service, Small appliance repair service",
+    "pincode": "210123",
+    "phone_number": "+91 88000 23613",
+    "website": "https://www.onedios.com/",
+    "rating": 4.7,
+    "reviews_count": 141,
+    "address": "Suite 102, Procapitus Business Park, D247/4A, A Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "A Block, Sector 63",
+    "latitude": 28.6266051,
+    "longitude": 77.3817174,
+    "place_id": "ChIJGc1CuuXvDDkRxz5gi3DHcJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGc1CuuXvDDkRxz5gi3DHcJ0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:43"
+  }
+]

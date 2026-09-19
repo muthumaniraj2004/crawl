@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Air Marketing",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "210122",
+    "phone_number": "N/A",
+    "website": "http://air-marketing.co.uk/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Generator Hub, The Gallery, kings wharf, The Quay, Exeter EX2 4AN, United Kingdom",
+    "area": "210122",
+    "latitude": 50.7184616,
+    "longitude": -3.5303004999999996,
+    "place_id": "ChIJp7Pv5T6kbUgRlsQVkMAbs9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7Pv5T6kbUgRlsQVkMAbs9A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:02:50"
+  },
+  {
+    "business_name": "UniqLeads Research Pvt. Ltd.",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Market researcher",
+    "all_categories": "Market researcher, Marketing consultant",
+    "pincode": "210122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Trans Asia Corporate Park, Seaport - Airport Rd, Chittethukara, Kakkanad, Keralam 682037",
+    "area": "Chittethukara",
+    "latitude": 9.9959891,
+    "longitude": 76.35168929999999,
+    "place_id": "ChIJmfNmn50MCDsRmQDb-6nkiCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfNmn50MCDsRmQDb-6nkiCk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:02:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dairy Milk Ice Cream",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store, Ice cream shop",
+    "pincode": "210203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5QRH+V92, Anpara, Uttar Pradesh 231225",
+    "area": "210203",
+    "latitude": 24.1921456,
+    "longitude": 82.77839639999999,
+    "place_id": "ChIJDXDIr6AljzkRYCJKThpLc-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXDIr6AljzkRYCJKThpLc-0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:40"
+  },
+  {
+    "business_name": "Bagha, Uttar Pradesh 210203",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "210203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bagha, Uttar Pradesh",
+    "area": "210203",
+    "latitude": 25.423239799999998,
+    "longitude": 80.6437906,
+    "place_id": "ChIJK-mqCWarnDkRUB33NRVKmMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-mqCWarnDkRUB33NRVKmMY",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:14:41"
+  }
+]

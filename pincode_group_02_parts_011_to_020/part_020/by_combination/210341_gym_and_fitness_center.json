@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fitness center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "M3QX+F2Q, Fattepur rodad, Maudaha, Uttar Pradesh 210507",
+    "area": "210341",
+    "latitude": 25.688713099999998,
+    "longitude": 80.0976187,
+    "place_id": "ChIJ8xTnBFUhnTkRY5Dl3XSAXB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xTnBFUhnTkRY5Dl3XSAXB0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:07"
+  },
+  {
+    "business_name": "R & S Enterprises",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "210341",
+    "phone_number": "+91 94180 13430",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 28,
+    "address": "opp. Sabji Mandi, Dosarka, Himachal Pradesh 177001",
+    "area": "210341",
+    "latitude": 31.6757451,
+    "longitude": 76.530035,
+    "place_id": "ChIJo3kNUczVBDkRDm7CQWvuKwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3kNUczVBDkRDm7CQWvuKwM",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:28:10"
+  }
+]

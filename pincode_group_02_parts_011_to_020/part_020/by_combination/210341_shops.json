@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Nizami Auto Service Center",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "210341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": null,
+    "address": "Keeratpur, Hamirpur, NH-86, Sagar Road, Kabrai Kanpur Road, Sumerpur, Sumerpur, Uttar Pradesh 210502",
+    "area": "Keeratpur",
+    "latitude": 25.8235141,
+    "longitude": 80.1545395,
+    "place_id": "ChIJNYdE5sfjnDkRqQGq9CWwns0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYdE5sfjnDkRqQGq9CWwns0",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:29:18"
+  },
+  {
+    "business_name": "GANPATI Enterprises",
+    "search_category": "Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Clothing supplier, Designer Clothing Store, Formal Clothing Store",
+    "pincode": "210341",
+    "phone_number": "+91 88941 74012",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gandhi Chowk, Kohta, Hamirpur, Himachal Pradesh 177001",
+    "area": "Kohta",
+    "latitude": 31.6892079,
+    "longitude": 76.5196302,
+    "place_id": "ChIJf5TBzU7UBDkRuyL9jF90T54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5TBzU7UBDkRuyL9jF90T54",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:29:18"
+  }
+]

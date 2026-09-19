@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "210301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Word -7, road, Amirta, Kuchhechha Danda, Helapur Danda, Uttar Pradesh 210301",
+    "area": "Amirta",
+    "latitude": 25.931915099999998,
+    "longitude": 80.13343739999999,
+    "place_id": "ChIJd9d5KQD9nDkR1w78xB5mW4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9d5KQD9nDkR1w78xB5mW4A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:26:27"
+  },
+  {
+    "business_name": "C M O Office",
+    "search_category": "Polyclinic",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "210301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 10,
+    "address": "X45W+36M, Vivek Nagar, Hamirpur, Uttar Pradesh 210301",
+    "area": "Vivek Nagar",
+    "latitude": 25.9577128,
+    "longitude": 80.1455332,
+    "place_id": "ChIJubO9iUz8nDkRw7ot6cDnheo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubO9iUz8nDkRw7ot6cDnheo",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:26:27"
+  }
+]

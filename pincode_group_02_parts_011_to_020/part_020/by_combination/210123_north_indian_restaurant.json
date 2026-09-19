@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "210123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "PF6J+H85, Palara, Ghoora, Uttar Pradesh 210123",
+    "area": "210123",
+    "latitude": 25.7113934,
+    "longitude": 80.4808529,
+    "place_id": "ChIJ7y9xZMG_nDkRNTzKJfprt8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7y9xZMG_nDkRNTzKJfprt8A",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:04"
+  },
+  {
+    "business_name": "Nataraja Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "210123",
+    "phone_number": "+91 97928 15105",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 32, Mata, Uttar Pradesh 210128",
+    "area": "210123",
+    "latitude": 25.6602824,
+    "longitude": 80.5541879,
+    "place_id": "ChIJbWTd36q-nDkRQzTCM9G-ucU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWTd36q-nDkRQzTCM9G-ucU",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:03:04"
+  }
+]

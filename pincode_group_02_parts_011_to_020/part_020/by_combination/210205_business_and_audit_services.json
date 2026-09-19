@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIMRA ENTERPRISES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "210205",
+    "phone_number": "+91 76070 44020",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "6V8M+QM3, Ahmad Ganj, Uttar Pradesh 210205",
+    "area": "210205",
+    "latitude": 25.216877699999998,
+    "longitude": 80.8841824,
+    "place_id": "ChIJM8B1DceohDkRxsk9TbJbIkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8B1DceohDkRxsk9TbJbIkk",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:19:13"
+  },
+  {
+    "business_name": "R.V. CONSULTANT",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "210205",
+    "phone_number": "+91 89319 15402",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stand, Bhauri, Chitrakoot Dham, Uttar Pradesh 210205",
+    "area": "Bhauri",
+    "latitude": 25.215762599999998,
+    "longitude": 80.9212185,
+    "place_id": "ChIJV8tYsyyvhDkRUELcmmsrlO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8tYsyyvhDkRUELcmmsrlO4",
+    "part_id": "part_020",
+    "crawled_at": "2026-09-19 08:19:14"
+  }
+]
