@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taaza Thindi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Coffee store, Fast food restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "201315",
+    "phone_number": "+91 80 3120 2860",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 37567,
+    "address": "1004, 26th Main Rd, 4th T Block East, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "4th T Block East, Jayanagara 9th Block, Jayanagar",
+    "latitude": 12.9228411,
+    "longitude": 77.5932826,
+    "place_id": "ChIJGzjadqcVrjsRChTAxBu2SFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzjadqcVrjsRChTAxBu2SFk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:20"
+  },
+  {
+    "business_name": "SS COMBO KITCHEN",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "201315",
+    "phone_number": "N/A",
+    "website": "https://www.scfhospitality.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "129, Pocket 13, Sector 24, Rohini, Delhi, 110085",
+    "area": "Pocket 13, Sector 24, Rohini",
+    "latitude": 28.7281762,
+    "longitude": 77.0914439,
+    "place_id": "ChIJuyEzQyoHDTkRpJRaz9XK46M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyEzQyoHDTkRpJRaz9XK46M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:22"
+  }
+]

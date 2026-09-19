@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "201315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "251, 9th cross, 5th main, MSR nagar, Bengaluru, Karnataka 560054",
+    "area": "5th main, MSR nagar",
+    "latitude": 13.034289099999999,
+    "longitude": 77.564843,
+    "place_id": "ChIJ3-m-g_gXrjsR7IEycg6uDgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-m-g_gXrjsR7IEycg6uDgs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:17"
+  },
+  {
+    "business_name": "Cloud Kitchen Tasty Home Food",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "201315",
+    "phone_number": "+91 98186 91398",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Noble Enclave Palam Vihar Extension, 87, Noble Enclave Road, Noble Enclave, Palam Vihar Extension, Gurugram, Delhi NCR, Haryana 122015",
+    "area": "Noble Enclave, Palam Vihar Extension",
+    "latitude": 28.5005143,
+    "longitude": 77.0603527,
+    "place_id": "ChIJd_WSk3YZDTkRIB1gNU5YnCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_WSk3YZDTkRIB1gNU5YnCg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:19"
+  }
+]

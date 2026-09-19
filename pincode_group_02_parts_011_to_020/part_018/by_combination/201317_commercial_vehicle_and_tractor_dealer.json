@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TractorChoice",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "201317",
+    "phone_number": "+91 96254 38993",
+    "website": "http://tractorchoice.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7/306, Pandav Rd, Jawala Nagar, Shahdara, New Delhi, Delhi, 110032",
+    "area": "Jawala Nagar, Shahdara",
+    "latitude": 28.668624899999998,
+    "longitude": 77.2980623,
+    "place_id": "ChIJ4Zn2gXD7DDkRskMj3xcweJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Zn2gXD7DDkRskMj3xcweJI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:15:34"
+  },
+  {
+    "business_name": "कुमार ( ट्रेक्टर्स ट्रेडस)",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "201317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XHH4+66H, Chhuriya, Chhattisgarh 491558",
+    "area": "201317",
+    "latitude": 20.9780558,
+    "longitude": 80.5556211,
+    "place_id": "ChIJl5ZHYQDxKzoRKGzltVM2BRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5ZHYQDxKzoRKGzltVM2BRw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:15:34"
+  }
+]

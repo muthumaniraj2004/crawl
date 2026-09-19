@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kestone",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "201305",
+    "phone_number": "+91 11 4050 8888",
+    "website": "https://kestoneglobal.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "1st Floor, Pash Building, A45, Block B, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block B, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.520429999999998,
+    "longitude": 77.29246599999999,
+    "place_id": "ChIJq6qqqmHhDDkRqexJulfiLh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqmHhDDkRqexJulfiLh8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:55:38"
+  },
+  {
+    "business_name": "Alpha Leads Tech",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "201305",
+    "phone_number": "+91 89718 15739",
+    "website": "https://www.alphaleadstech.com/contact-us/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "33, Dodda Banaswadi Main Rd, Seva Nagar, Ramaswamipalya, Maruthi Sevanagar, Bengaluru, Karnataka 560005",
+    "area": "Seva Nagar, Ramaswamipalya, Maruthi Sevanagar",
+    "latitude": 13.0011505,
+    "longitude": 77.6283725,
+    "place_id": "ChIJY5WpXegWrjsRTVdOd7qG9ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5WpXegWrjsRTVdOd7qG9ok",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:55:38"
+  }
+]

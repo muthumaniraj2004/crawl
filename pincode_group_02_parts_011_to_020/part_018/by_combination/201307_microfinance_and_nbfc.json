@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IIFL Home Finance Limited",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "201307",
+    "phone_number": "+91 1800 3000 1155",
+    "website": "https://www.iifl.com/home-loans",
+    "rating": 1,
+    "reviews_count": 8,
+    "address": "1st Floor, B-12 , UPPER GROUND, Sector 22, Noida, Uttar Pradesh 201307",
+    "area": "Block E, Chora Sadatpur, Sector 22",
+    "latitude": 28.5965648,
+    "longitude": 77.3504396,
+    "place_id": "ChIJ--AcEAzlDDkRECkt6akK6fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--AcEAzlDDkRECkt6akK6fo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:59:21"
+  },
+  {
+    "business_name": "Loansettlement",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Service establishment",
+    "pincode": "201307",
+    "phone_number": "+91 80 4718 5085",
+    "website": "http://loansettlement.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Loansettlement, 201307, India",
+    "area": "201307",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJe2ajyFDkDDkRuFnLQ-_6QKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2ajyFDkDDkRuFnLQ-_6QKI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:59:23"
+  }
+]

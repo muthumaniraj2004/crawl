@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagpal’s Jewellery (Gaur City)",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "201316",
+    "phone_number": "+91 72900 50777",
+    "website": "https://nagpalsjewellery.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Market, Shop No. 5, White Orchid Plaza Gaur City-2, opp. Gaurs Galleria Road, Sector 16C, West, Greater Noida, Uttar Pradesh 201009",
+    "area": "Sector 16C, West",
+    "latitude": 28.6195095,
+    "longitude": 77.42368239999999,
+    "place_id": "ChIJATlUnrjvDDkRb_BMm76vd4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATlUnrjvDDkRb_BMm76vd4Y",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:13:18"
+  },
+  {
+    "business_name": "Yash Ornaments",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Wholesale jeweler",
+    "all_categories": "Wholesale jeweler, Jeweler, Jewelry store",
+    "pincode": "201316",
+    "phone_number": "+91 97118 81372",
+    "website": "http://www.yashornaments.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Yash Wali building, 1159/1114, Old Delhi, Kucha Mahajani, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Kucha Mahajani, Chandni Chowk",
+    "latitude": 28.656971799999997,
+    "longitude": 77.2285438,
+    "place_id": "ChIJ4UJNdxD9DDkRET79NjKycWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UJNdxD9DDkRET79NjKycWA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:13:19"
+  }
+]

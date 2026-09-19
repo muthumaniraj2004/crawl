@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brothers pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "201317",
+    "phone_number": "+91 72176 06990",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Sehatpur Rd, Shiv Colony, Chauhan Colony, Palla, Faridabad, Haryana 121013",
+    "area": "Shiv Colony, Chauhan Colony, Palla",
+    "latitude": 28.472931499999998,
+    "longitude": 77.32133259999999,
+    "place_id": "ChIJgezmUw3nDDkR-Cg-gp-lqkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgezmUw3nDDkR-Cg-gp-lqkg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:15:20"
+  },
+  {
+    "business_name": "24*7 Pharmacy (A Unit of Dev Medical)",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "201317",
+    "phone_number": "+91 81307 87961",
+    "website": "https://247-pharmacy-a-unit.grexa.site/",
+    "rating": 4.4,
+    "reviews_count": 39,
+    "address": "T-203, Block T, New Palam Vihar Phase 2, Sector 110, Gurugram, Pawala Khasrupur, Haryana 122017",
+    "area": "Block T, New Palam Vihar Phase 2, Sector 110",
+    "latitude": 28.5146537,
+    "longitude": 77.01101109999999,
+    "place_id": "ChIJBTEw5AUbDTkRW9MrUGcL6gE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTEw5AUbDTkRW9MrUGcL6gE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:15:23"
+  }
+]

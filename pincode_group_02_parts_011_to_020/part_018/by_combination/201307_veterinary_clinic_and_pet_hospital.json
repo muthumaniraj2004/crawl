@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Tales Veterinary Clinic (#1 Best Pet (Dog/Cat) Clinic in Sector 71 Noida)",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Dog day care center, Pet groomer, Pet store",
+    "pincode": "201307",
+    "phone_number": "+91 89012 54697",
+    "website": "https://pettale.co.in/",
+    "rating": 4.5,
+    "reviews_count": 318,
+    "address": "A-77, A Block, Sector 71, Noida, Uttar Pradesh 201301",
+    "area": "A Block, Sector 71",
+    "latitude": 28.5948486,
+    "longitude": 77.3754428,
+    "place_id": "ChIJcRLv5FblDDkR4rIB5VmelHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRLv5FblDDkR4rIB5VmelHs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:58:24"
+  },
+  {
+    "business_name": "Sunshine Pet Care and Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Emergency veterinarian service, Pet boarding service, Pet groomer, Pet store, Veterinary pharmacy",
+    "pincode": "201307",
+    "phone_number": "+91 88028 39776",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Block N-201, opposite dolly petrol pump, Block N, Sector 12, Noida, Uttar Pradesh 201301",
+    "area": "Block N, Sector 12",
+    "latitude": 28.592422,
+    "longitude": 77.33870499999999,
+    "place_id": "ChIJr2K3JMzlDDkRPGxH9Gbxd2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2K3JMzlDDkRPGxH9Gbxd2Y",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:58:26"
+  }
+]

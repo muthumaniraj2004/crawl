@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegitable Shop",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "201307",
+    "phone_number": "+91 96253 23202",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "34, Sabzi Mandi, Block Y, Sector 12, Noida, Uttar Pradesh 201301",
+    "area": "Sabzi Mandi, Block Y, Sector 12",
+    "latitude": 28.5972321,
+    "longitude": 77.34410439999999,
+    "place_id": "ChIJm_ZHW6_lDDkR6w-UpgCPDpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_ZHW6_lDDkR6w-UpgCPDpk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:59:47"
+  },
+  {
+    "business_name": "Keshav Puram Trinagar Subzi Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "201307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 651,
+    "address": "Sabzi Mandi Road, Kanhiya Nagar, Tri Nagar, Delhi, 110035",
+    "area": "Kanhiya Nagar, Tri Nagar",
+    "latitude": 28.681949799999998,
+    "longitude": 77.16120149999999,
+    "place_id": "ChIJL-vCE0YCDTkRK8muKr39MAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-vCE0YCDTkRK8muKr39MAs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:59:49"
+  }
+]

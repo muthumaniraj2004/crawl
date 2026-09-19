@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Frozen Snacks Store",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Bakery and Cake Shop",
+    "pincode": "201314",
+    "phone_number": "+91 94786 59004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "Shop No 1, Division Number 3, Naulakha Garden Colony, Ludhiana, Punjab 141008",
+    "area": "Naulakha Garden Colony",
+    "latitude": 30.915168299999998,
+    "longitude": 75.8626283,
+    "place_id": "ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:09:21"
+  },
+  {
+    "business_name": "The Frozen Co.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "201314",
+    "phone_number": "+91 98475 03777",
+    "website": "https://mathewsons.com/product-category/Food/Frozen%20Foods",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "Mathewsons Group, next to St. Anthony Church, opp. Metro Pillar No. 568, Kaloor, Kochi, Keralam 682017",
+    "area": "Kaloor",
+    "latitude": 9.9978453,
+    "longitude": 76.2955289,
+    "place_id": "ChIJA_531K0NCDsRu3ChpVSWmFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_531K0NCDsRu3ChpVSWmFw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:09:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paw Centric Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet groomer, Pet store",
+    "pincode": "201309",
+    "phone_number": "+91 72238 47355",
+    "website": "https://pawcentric.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SB-06, Sector 117, Noida, Uttar Pradesh 201304",
+    "area": "Sector 117",
+    "latitude": 28.5748519,
+    "longitude": 77.3946879,
+    "place_id": "ChIJG_jwCrLjDDkR2jk0XQX8y2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_jwCrLjDDkR2jk0XQX8y2s",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:00:24"
+  },
+  {
+    "business_name": "Cadovet Home Veterinary Services | Vet at home | 24/7 Home Veterinary services",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service, Animal hospital, Dog day care center, Pet groomer, Pet supply store, Veterinarian, Veterinary pharmacy",
+    "pincode": "201309",
+    "phone_number": "+91 92204 10777",
+    "website": "https://cadovet.com/",
+    "rating": 4.4,
+    "reviews_count": 84,
+    "address": "Bhumi Greens Society, Plot No. 150, Ambedkar City, Noida, Uttar Pradesh 201316",
+    "area": "Ambedkar City",
+    "latitude": 28.5913807,
+    "longitude": 77.41508639999999,
+    "place_id": "ChIJG1-SOwDvDDkRmfuYsOSuTO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1-SOwDvDDkRmfuYsOSuTO4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:00:25"
+  }
+]

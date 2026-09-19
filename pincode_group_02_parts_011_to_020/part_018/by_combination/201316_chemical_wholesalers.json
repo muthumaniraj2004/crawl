@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Products",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Hygiene articles wholesaler",
+    "all_categories": "Hygiene articles wholesaler, Office supply wholesaler",
+    "pincode": "201316",
+    "phone_number": "N/A",
+    "website": "https://www.primeproductsnoida.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CP-001 A, Sector 70, Noida, Basi Bahuddin Nagar, Uttar Pradesh 201316",
+    "area": "Sector 70",
+    "latitude": 28.596345699999997,
+    "longitude": 77.3815589,
+    "place_id": "ChIJn5FybO7vDDkRpBrG52qvaCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5FybO7vDDkRpBrG52qvaCw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:14:41"
+  },
+  {
+    "business_name": "Gopal Orgchem Pvt. Ltd.",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Chemical Manufacturer",
+    "pincode": "201316",
+    "phone_number": "+91 98912 99998",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gol Chakkar, Plot No. 36A, Chotpur Rd, near Kali Mata Mandir, Green Park Colony, Garhi, Sector 68, Noida, Uttar Pradesh 201301",
+    "area": "Green Park Colony, Garhi, Sector 68",
+    "latitude": 28.6070997,
+    "longitude": 77.4043171,
+    "place_id": "ChIJ4yV4GYXvDDkRbPvdmpu8Ifk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yV4GYXvDDkRbPvdmpu8Ifk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:14:42"
+  }
+]

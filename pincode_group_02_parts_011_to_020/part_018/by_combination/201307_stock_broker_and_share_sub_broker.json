@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Precize",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment service",
+    "pincode": "201307",
+    "phone_number": "+91 77383 36457",
+    "website": "https://www.precize.in/",
+    "rating": 4.4,
+    "reviews_count": 1708,
+    "address": "Office No.1117, The Summit Business Park, Andheri - Kurla Rd, near Petrol Pump, J B Nagar, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "J B Nagar, Andheri East",
+    "latitude": 19.112222799999998,
+    "longitude": 72.8673215,
+    "place_id": "ChIJRVRJSRrJ5zsRx536tfun3_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVRJSRrJ5zsRx536tfun3_w",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:59:25"
+  },
+  {
+    "business_name": "PehlaSubbroker",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial advisor",
+    "all_categories": "Financial advisor, Service establishment",
+    "pincode": "201307",
+    "phone_number": "+91 97739 84066",
+    "website": "https://www.pehlasubbroker.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PehlaSubbroker, 201307, India",
+    "area": "201307",
+    "latitude": 28.577679399999997,
+    "longitude": 77.3149005,
+    "place_id": "ChIJpR1gRIEEhycRT33sMX5hI-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR1gRIEEhycRT33sMX5hI-8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 05:59:26"
+  }
+]

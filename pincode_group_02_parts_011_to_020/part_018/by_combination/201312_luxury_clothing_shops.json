@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Culge Chicago",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Handbags shop",
+    "all_categories": "Handbags shop, Design agency, Service establishment, Fashion designer",
+    "pincode": "201312",
+    "phone_number": "N/A",
+    "website": "https://culgechicago.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Culge Chicago, 201312, India",
+    "area": "201312",
+    "latitude": 40.266869,
+    "longitude": -179.3878585,
+    "place_id": "ChIJ3YWbx1fFhK0RfMOO9iFDfeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YWbx1fFhK0RfMOO9iFDfeg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:05:55"
+  },
+  {
+    "business_name": "Fashion Square",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing manufacturer, Clothing wholesaler",
+    "pincode": "201312",
+    "phone_number": "+91 99905 57433",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "46-B, Noor Nagar Extension, Noor Nagar, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+    "area": "Noor Nagar Extension, Noor Nagar, Jamia Nagar, Okhla",
+    "latitude": 28.556024299999997,
+    "longitude": 77.28780259999999,
+    "place_id": "ChIJOTPRHArkDDkRwTEeG4jrKf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTPRHArkDDkRwTEeG4jrKf8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:05:56"
+  }
+]

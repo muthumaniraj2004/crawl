@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Ka Chaska",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant, North Indian restaurant",
+    "pincode": "201315",
+    "phone_number": "+91 95915 13636",
+    "website": "https://chaatkachaska.in/",
+    "rating": 4.6,
+    "reviews_count": 389,
+    "address": "52/3 Ranka Colony Road, Bannerghatta Rd, next to Epitome Crowne Apartment, Bilekahalli, Bengaluru, Karnataka 560076",
+    "area": "Ramanashree Enclave, Bilekahalli",
+    "latitude": 12.903092599999999,
+    "longitude": 77.60637559999999,
+    "place_id": "ChIJGUkLqI4VrjsR6MJzsen1h7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUkLqI4VrjsR6MJzsen1h7g",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:17"
+  },
+  {
+    "business_name": "Annpurna Chaat Cafe.",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Cafe",
+    "pincode": "201315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 588,
+    "address": "829W+W6X, Subhash Rd, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Race Course",
+    "latitude": 30.319854999999997,
+    "longitude": 78.0456224,
+    "place_id": "ChIJ8craA78pCTkRjsyle2L_hao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8craA78pCTkRjsyle2L_hao",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:19"
+  }
+]

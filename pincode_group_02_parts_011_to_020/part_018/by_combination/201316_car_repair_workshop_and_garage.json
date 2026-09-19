@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garage on Wheels",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "201316",
+    "phone_number": "+91 87448 00914",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "KH NO 13, FNG Service Rd, near MODERN DECOR, Sector 121, Noida, Uttar Pradesh 201316",
+    "area": "Sector 121",
+    "latitude": 28.6028038,
+    "longitude": 77.4028496,
+    "place_id": "ChIJjbj6YkHvDDkRLfiOlSyci5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbj6YkHvDDkRLfiOlSyci5E",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:13:35"
+  },
+  {
+    "business_name": "CarX Auto Services",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "201316",
+    "phone_number": "+91 99991 16179",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "PK-14, Sector 122, Noida, Uttar Pradesh 201316",
+    "area": "Sector 122",
+    "latitude": 28.593806599999997,
+    "longitude": 77.3968557,
+    "place_id": "ChIJS4d78nXvDDkR1B58STSc64U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4d78nXvDDkR1B58STSc64U",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:13:39"
+  }
+]

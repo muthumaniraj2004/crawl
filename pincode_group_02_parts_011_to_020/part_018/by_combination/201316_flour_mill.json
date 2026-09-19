@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour mill repair and electrical services",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Electrical repair shop",
+    "pincode": "201316",
+    "phone_number": "+91 95375 88067",
+    "website": "http://electronicsandelectrical.in/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Akshar Vintage, Adarsh Nagar, Tarsali, Vadodara, Gujarat 390009",
+    "area": "Adarsh Nagar, Tarsali",
+    "latitude": 22.2490706,
+    "longitude": 73.21912259999999,
+    "place_id": "ChIJIRtE3YHFXzkRzTw8l9RN5YA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRtE3YHFXzkRzTw8l9RN5YA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:13:03"
+  },
+  {
+    "business_name": "Rajesh flour mills",
+    "search_category": "Flour Mill",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "201316",
+    "phone_number": "+91 98915 25419",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "23, Shaheed Captain Sanjeev Dahiya Marg, Rajapur, Pocket 31, Sector 13, Rohini, Delhi, 110085",
+    "area": "Rajapur, Pocket 31, Sector 13, Rohini",
+    "latitude": 28.723753,
+    "longitude": 77.1274929,
+    "place_id": "ChIJQ5rzdf4BDTkRpMVYV6hjLP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5rzdf4BDTkRpMVYV6hjLP8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:13:03"
+  }
+]

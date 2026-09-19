@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DigiBrood",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Advertising agency, Marketing agency, Marketing consultant, Web hosting company, Website designer",
+    "pincode": "201314",
+    "phone_number": "+91 87775 71887",
+    "website": "https://digibrood.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd Floor, 22, Deb Kamini Debi Ln, Ariadaha, Kolkata, West Bengal 700076",
+    "area": "Ariadaha",
+    "latitude": 22.6636231,
+    "longitude": 88.35889069999999,
+    "place_id": "ChIJLfV34WWd-DkRfDLdoOMx0CM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfV34WWd-DkRfDLdoOMx0CM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:01"
+  },
+  {
+    "business_name": "SunQuest Mediaz",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "201314",
+    "phone_number": "+91 74285 88665",
+    "website": "https://www.sunquestmediaz.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "S-01, ATS Arcade, Block N, Zeta I, Greater Noida, Uttar Pradesh 201310",
+    "area": "Block N, Zeta I",
+    "latitude": 28.5063845,
+    "longitude": 77.53130929999999,
+    "place_id": "ChIJgfGX-yvrDDkR3hQztR--kO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfGX-yvrDDkR3hQztR--kO8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Villa Wares",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Bathroom remodeler, Tile store, Countertop store, Kitchen remodeler, Lighting store",
+    "pincode": "201315",
+    "phone_number": "+91 97177 44626",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "D-68/1, Surajpur Site 4 Industrial Block D Rd, Mandia, Block D, Industrial Area, Surajpur Site 4, Greater Noida, Uttar Pradesh 201315",
+    "area": "Mandia, Block D, Industrial Area, Surajpur Site 4",
+    "latitude": 28.4523269,
+    "longitude": 77.53072809999999,
+    "place_id": "ChIJ9YR6YaPBDDkRr-nG1zsEHrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YR6YaPBDDkRr-nG1zsEHrs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:51"
+  },
+  {
+    "business_name": "Srinath Collective",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "201315",
+    "phone_number": "+91 89040 88017",
+    "website": "http://www.srinathcollective.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Srinath Mansion, 1010, Dr Rajkumar Rd, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "4th Block, Rajajinagar",
+    "latitude": 12.989435,
+    "longitude": 77.5586764,
+    "place_id": "ChIJ_y8RIos9rjsRgryqEsCs0Uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_y8RIos9rjsRgryqEsCs0Uo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:11:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deconique - Furniture and Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Gift shop, Home improvement store, Interior Decorator",
+    "pincode": "201310",
+    "phone_number": "+91 92208 28882",
+    "website": "https://www.deconiqueindia.com/",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Ground Floor, Durga Industrial park, H-38, Prakash Industrial Estate, Sahibabad Industrial Area Site 4, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+    "area": "Prakash Industrial Estate, Sahibabad Industrial Area Site 4, Sahibabad",
+    "latitude": 28.675113,
+    "longitude": 77.3602707,
+    "place_id": "ChIJlex-YTH7DDkRnlgZ43uzLKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlex-YTH7DDkRnlgZ43uzLKU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:02:53"
+  },
+  {
+    "business_name": "Modern Quests",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store, Corporate office",
+    "pincode": "201310",
+    "phone_number": "+91 76696 61699",
+    "website": "http://www.modernquests.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Quests Creative Pvt. Ltd, B2/12, Block B, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block B, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.492735999999997,
+    "longitude": 77.30100999999999,
+    "place_id": "ChIJcUH8difnDDkRnLkfv2ZMUPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUH8difnDDkRnLkfv2ZMUPk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:02:54"
+  }
+]

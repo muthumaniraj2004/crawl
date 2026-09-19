@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB Electricals",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "201309",
+    "phone_number": "+91 97177 23357",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no.7, bypass road, near Bharat petrol pump, Shiv Vihar, Bhim Nagar, Vijay Nagar, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Shiv Vihar, Bhim Nagar, Vijay Nagar",
+    "latitude": 28.6355707,
+    "longitude": 77.4237945,
+    "place_id": "ChIJXS1eTfzvDDkRmzbjY3yMdvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXS1eTfzvDDkRmzbjY3yMdvE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:01:29"
+  },
+  {
+    "business_name": "AS MOTOR WORKS",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop, Electric motor store, Electronics store, Water Pump Supplier",
+    "pincode": "201309",
+    "phone_number": "N/A",
+    "website": "http://fb.com/asmotorwork",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no, 2907, Gali Sakko Wali, Shah Ganj, Ajmeri Gate, New Delhi, Delhi, 110006",
+    "area": "Gali Sakko Wali, Shah Ganj, Ajmeri Gate",
+    "latitude": 28.6488807,
+    "longitude": 77.2224263,
+    "place_id": "ChIJCx6zDSz9DDkRbWEmtseWmQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCx6zDSz9DDkRbWEmtseWmQ8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:01:30"
+  }
+]
