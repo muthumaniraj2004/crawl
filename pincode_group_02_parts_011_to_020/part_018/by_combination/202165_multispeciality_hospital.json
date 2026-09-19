@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RJ Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202165",
+    "phone_number": "+91 74648 75091",
+    "website": "http://rjhospital.co.in/",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "Raipur, Uttar Pradesh 202165",
+    "area": "202165",
+    "latitude": 28.078395699999998,
+    "longitude": 77.5250877,
+    "place_id": "ChIJPW-BbPY1czkRhMjQK2QTHGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPW-BbPY1czkRhMjQK2QTHGU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:28"
+  },
+  {
+    "business_name": "Aarogyadhara Hospital Private Limited",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202165",
+    "phone_number": "+91 120 297 9856",
+    "website": "http://aarogyadharahospital.org/",
+    "rating": 4.2,
+    "reviews_count": 18,
+    "address": "near Sub Registrar Office, Jewar, Uttar Pradesh 203135",
+    "area": "202165",
+    "latitude": 28.1262735,
+    "longitude": 77.57334449999999,
+    "place_id": "ChIJAQAAAKTKDDkR3g70VtP4hRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAKTKDDkR3g70VtP4hRI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:30"
+  }
+]

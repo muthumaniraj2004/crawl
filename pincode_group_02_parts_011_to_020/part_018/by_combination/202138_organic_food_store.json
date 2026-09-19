@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FRESHZ FOODS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "202138",
+    "phone_number": "+91 82183 15716",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 9 ROYAL KAVERI MARKET, Swarna Jayanti Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "Swarna Jayanti Nagar",
+    "latitude": 27.893124699999998,
+    "longitude": 78.1007132,
+    "place_id": "ChIJJwQSEbeldDkRoC_cqaqUROE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwQSEbeldDkRoC_cqaqUROE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:51:43"
+  },
+  {
+    "business_name": "Pronit Nutrition Food Supplement Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Nutritionist",
+    "all_categories": "Nutritionist",
+    "pincode": "202138",
+    "phone_number": "+91 98080 85317",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khair Somna Rd, near Om Shanti Farm House, Khair, Uttar Pradesh 202138",
+    "area": "202138",
+    "latitude": 27.9409003,
+    "longitude": 77.85194969999999,
+    "place_id": "ChIJIQweSspZczkRWs47zhq3YX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQweSspZczkRWs47zhq3YX8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:51:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hulk Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "202129",
+    "phone_number": "+91 84393 89312",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near by Green Park, Krishna Vihar, Gopal Puri, Aligarh, Uttar Pradesh 202001",
+    "area": "Krishna Vihar, Gopal Puri",
+    "latitude": 27.875625199999998,
+    "longitude": 78.08658679999999,
+    "place_id": "ChIJBwAAwJ-kdDkROl4AZirlg8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwAAwJ-kdDkROl4AZirlg8I",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:43"
+  },
+  {
+    "business_name": "MOHD UBAISH",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "202129",
+    "phone_number": "+91 72478 75600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, Barla, Piploi, Uttar Pradesh 202129",
+    "area": "202129",
+    "latitude": 27.9203421,
+    "longitude": 78.2850282,
+    "place_id": "ChIJ_zhmp_i7dDkRVm-uUJaY_oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zhmp_i7dDkRVm-uUJaY_oY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:43"
+  }
+]

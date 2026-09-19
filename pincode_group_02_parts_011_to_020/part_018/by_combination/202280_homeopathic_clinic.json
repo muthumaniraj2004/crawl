@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gargi Homoeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Pharmacy",
+    "pincode": "202280",
+    "phone_number": "+91 94116 05280",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gargi Homoeopathic Clinic, Chaudhariyan Mohalla, Bara Bazar, Atrauli, Uttar Pradesh 202280",
+    "area": "Chaudhariyan Mohalla, Bara Bazar",
+    "latitude": 28.0307905,
+    "longitude": 78.28657299999999,
+    "place_id": "ChIJf40IFci3dDkRkIzBuRNHT_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf40IFci3dDkRkIzBuRNHT_c",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:12:52"
+  },
+  {
+    "business_name": "Sonika Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "202280",
+    "phone_number": "+91 94125 97444",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, College Road, near Hdfc Bank, Atrauli, Uttar Pradesh 202280",
+    "area": "202280",
+    "latitude": 28.0316838,
+    "longitude": 78.2843937,
+    "place_id": "ChIJhYn5gSC3dDkR3V8ME8NRWz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYn5gSC3dDkR3V8ME8NRWz0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:12:52"
+  }
+]

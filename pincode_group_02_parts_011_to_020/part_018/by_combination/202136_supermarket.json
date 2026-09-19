@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal General Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Indian grocery store",
+    "pincode": "202136",
+    "phone_number": "+91 92596 18542",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Vishal Market, 1, NH 34 Aligad, Aligarh, Bharatri, Uttar Pradesh 202002",
+    "area": "202136",
+    "latitude": 27.966737,
+    "longitude": 78.0061017,
+    "place_id": "ChIJz09jtDmpdDkRVA5KyTKAwaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz09jtDmpdDkRVA5KyTKAwaA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:08"
+  },
+  {
+    "business_name": "AH MART",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "202136",
+    "phone_number": "+91 97201 70123",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4XQ5+VCH, Thakur Kewal Singh Marg, Surjawali, Uttar Pradesh 203131",
+    "area": "202136",
+    "latitude": 28.1396992,
+    "longitude": 77.95861219999999,
+    "place_id": "ChIJ53wXzcyqdDkRT0f2_Rnkk40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53wXzcyqdDkRT0f2_Rnkk40",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:08"
+  }
+]

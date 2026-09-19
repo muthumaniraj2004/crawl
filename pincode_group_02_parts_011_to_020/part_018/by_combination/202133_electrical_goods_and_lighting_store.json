@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electronic and electrical supplies",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electronics store",
+    "pincode": "202133",
+    "phone_number": "+91 97601 22648",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V3MC+XP2 Malum bhanja, Manik Chowk, Aligarh, Uttar Pradesh 202001",
+    "area": "Manik Chowk",
+    "latitude": 27.8848755,
+    "longitude": 78.0717561,
+    "place_id": "ChIJF7M3Wo-kdDkRzeUboKEdTXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7M3Wo-kdDkRzeUboKEdTXs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:43:41"
+  },
+  {
+    "business_name": "Jain Electric Store",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "202133",
+    "phone_number": "+91 97609 09231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarai Mansingh, Aligarh, Uttar Pradesh 202001",
+    "area": "Sarai Mansingh",
+    "latitude": 27.8753896,
+    "longitude": 78.0729029,
+    "place_id": "ChIJrYTBDACldDkRfSgSTfnZbfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYTBDACldDkRfSgSTfnZbfI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:43:41"
+  }
+]

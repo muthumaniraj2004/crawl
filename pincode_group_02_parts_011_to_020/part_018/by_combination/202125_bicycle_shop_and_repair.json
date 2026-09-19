@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "202125",
+    "phone_number": "+91 98374 05870",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Etah Chungi, Grand Trunk Rd, opp. Jabalpuri Police Station, Ram Sanehi Dham Colony, Mukund Nagar, Etah Chungi, Aligarh, Uttar Pradesh 202001",
+    "area": "Ram Sanehi Dham Colony, Mukund Nagar, Etah Chungi",
+    "latitude": 27.8757983,
+    "longitude": 78.0939702,
+    "place_id": "ChIJmTpBTKekdDkRR9vA789uvf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTpBTKekdDkRR9vA789uvf0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:29:44"
+  },
+  {
+    "business_name": "Rajendra Tyre Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Tire shop",
+    "pincode": "202125",
+    "phone_number": "+91 70178 75720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V3GW 73M, Thakur Compound, Near Vijay Arams Store, New, Surendra N, Sanjay Gandhi Colony, Etah Chungi, Aligarh, Uttar Pradesh 202001",
+    "area": "Surendra N, Sanjay Gandhi Colony, Etah Chungi",
+    "latitude": 27.875718799999998,
+    "longitude": 78.0951838,
+    "place_id": "ChIJUbx9aKekdDkRGRN1jyI1C68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbx9aKekdDkRGRN1jyI1C68",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:29:45"
+  }
+]

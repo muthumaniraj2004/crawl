@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Savi beauty studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "203002",
+    "phone_number": "+91 70886 80639",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chandpur Rd, near shiv mandir, New Raj Nagar, Sant Raj Nagar, Bulandshahr, Uttar Pradesh 203203",
+    "area": "New Raj Nagar, Sant Raj Nagar",
+    "latitude": 28.4037333,
+    "longitude": 77.8355423,
+    "place_id": "ChIJOdPRYkqlDDkRusu1ITmUvQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdPRYkqlDDkRusu1ITmUvQM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:21"
+  },
+  {
+    "business_name": "Neera Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "203002",
+    "phone_number": "+91 93549 55028",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Main Road, near PNB Bank, Jhanda, Naithla Hasanpur, Uttar Pradesh 203002",
+    "area": "Jhanda",
+    "latitude": 28.3646022,
+    "longitude": 77.8046356,
+    "place_id": "ChIJGZ6s1TGlDDkReKRd5bbwGcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZ6s1TGlDDkReKRd5bbwGcQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:21"
+  }
+]

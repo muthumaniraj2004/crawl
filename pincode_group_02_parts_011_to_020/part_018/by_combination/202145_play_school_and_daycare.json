@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Kumar house",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "202145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JXHC+XHP, Sooraja, Uttar Pradesh 204213",
+    "area": "202145",
+    "latitude": 27.6299519,
+    "longitude": 77.9714573,
+    "place_id": "ChIJpyquWQCddDkRn33lZuNJ6dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyquWQCddDkRn33lZuNJ6dg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:03:12"
+  },
+  {
+    "business_name": "Rinku chaudhary",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "202145",
+    "phone_number": "+91 95201 86924",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MVRR+76F, Iglas, Uttar Pradesh 202124",
+    "area": "202145",
+    "latitude": 27.6907738,
+    "longitude": 77.8906547,
+    "place_id": "ChIJ4asxeUhhczkROuloARbll3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4asxeUhhczkROuloARbll3A",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:03:12"
+  }
+]

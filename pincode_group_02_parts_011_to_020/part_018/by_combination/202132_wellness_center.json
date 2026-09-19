@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Community Health Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "202132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "Chandaus, Uttar Pradesh 202132",
+    "area": "202132",
+    "latitude": 28.079805699999998,
+    "longitude": 77.85909219999999,
+    "place_id": "ChIJjwSbpWBUczkRYQJOxK3FQ6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwSbpWBUczkRYQJOxK3FQ6M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:42:11"
+  },
+  {
+    "business_name": "Janta medical & clinical care centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Health counselor",
+    "all_categories": "Health counselor",
+    "pincode": "202132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VIP market, Chandaus, Uttar Pradesh 202132",
+    "area": "202132",
+    "latitude": 28.0827422,
+    "longitude": 77.85014149999999,
+    "place_id": "ChIJe3TZig1VczkRG9JYXEt0Pzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3TZig1VczkRG9JYXEt0Pzs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:42:11"
+  }
+]

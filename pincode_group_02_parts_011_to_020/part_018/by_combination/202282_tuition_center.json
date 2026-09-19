@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj Classes",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "202282",
+    "phone_number": "+91 98371 14493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Surya Sarovar Colony, 2/10, Ramghat Rd, near Three Dots School, Uttar Pradesh 202280",
+    "area": "202282",
+    "latitude": 28.014149399999997,
+    "longitude": 78.25739229999999,
+    "place_id": "ChIJEy3jipW3dDkR9WIrbI6XwPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy3jipW3dDkR9WIrbI6XwPY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:17:03"
+  },
+  {
+    "business_name": "Shikshami Classes",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Charter school",
+    "pincode": "202282",
+    "phone_number": "+91 76686 28811",
+    "website": "https://shikshami.com/",
+    "rating": 3.1,
+    "reviews_count": 11,
+    "address": "Shikshami Classes, 344, GT Rd, Avas Vikas Colony, Masoodabad, Chaurah, Aligarh, Uttar Pradesh 202001",
+    "area": "Avas Vikas Colony, Masoodabad",
+    "latitude": 27.8956697,
+    "longitude": 78.0656588,
+    "place_id": "ChIJtQBbAoWldDkR1s5GyJtlSyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQBbAoWldDkR1s5GyJtlSyk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:17:05"
+  }
+]

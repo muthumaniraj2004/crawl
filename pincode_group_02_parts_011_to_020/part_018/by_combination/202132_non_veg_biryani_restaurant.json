@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajputana dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "202132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "5WG9+66, Rasoolpur, Uttar Pradesh 203131",
+    "area": "202132",
+    "latitude": 28.175552399999997,
+    "longitude": 77.91810699999999,
+    "place_id": "ChIJowD2BNKrDDkR5HIF4qlQ-wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowD2BNKrDDkR5HIF4qlQ-wc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:22"
+  },
+  {
+    "business_name": "The brew palace",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "202132",
+    "phone_number": "+91 70783 84883",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "main road, opposite canara bank, Chandaus, Uttar Pradesh 202132",
+    "area": "202132",
+    "latitude": 28.0819583,
+    "longitude": 77.8531939,
+    "place_id": "ChIJ91DPTFRVczkRzUq0yqz7PmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91DPTFRVczkRzUq0yqz7PmQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:25"
+  }
+]

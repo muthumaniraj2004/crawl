@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kusum Palace Banquet Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Restaurant",
+    "pincode": "202125",
+    "phone_number": "+91 571 274 0792",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 77,
+    "address": "Ramghat Rd, Aligarh, Uttar Pradesh 202125",
+    "area": "202125",
+    "latitude": 27.986953,
+    "longitude": 78.21702909999999,
+    "place_id": "ChIJeefVoPS3dDkRGyiOfsL8OUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeefVoPS3dDkRGyiOfsL8OUs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:30:03"
+  },
+  {
+    "business_name": "Savitri Garden",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "202125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Jwalagarh, Aligarh, Uttar Pradesh 202001",
+    "area": "Jwalagarh",
+    "latitude": 27.8599987,
+    "longitude": 78.11378619999999,
+    "place_id": "ChIJMya5cQi9dDkRro2ktO44rh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMya5cQi9dDkRro2ktO44rh0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:30:03"
+  }
+]

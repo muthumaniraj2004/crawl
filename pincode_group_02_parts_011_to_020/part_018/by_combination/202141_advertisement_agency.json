@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny creations",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer, Photography service, Video editing service, Wedding Portrait Studio",
+    "pincode": "202141",
+    "phone_number": "+91 85069 00406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1st floor, Ganpat plaza, nearby HDFC Bank, Bajna, Uttar Pradesh 281201",
+    "area": "202141",
+    "latitude": 27.8948789,
+    "longitude": 77.67770039999999,
+    "place_id": "ChIJa8bWwk9FczkRkereQK0gNG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8bWwk9FczkRkereQK0gNG8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:33"
+  },
+  {
+    "business_name": "Chetan Khad Beez Bhandar",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "202141",
+    "phone_number": "+91 94108 11518",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Main Road, near by Bank, Bajna, Uttar Pradesh 281201",
+    "area": "202141",
+    "latitude": 27.8961032,
+    "longitude": 77.6791643,
+    "place_id": "ChIJVV6QIpZFczkRGBDrEqMSSis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVV6QIpZFczkRGBDrEqMSSis",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:35"
+  }
+]

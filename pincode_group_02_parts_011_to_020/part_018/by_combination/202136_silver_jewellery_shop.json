@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishesh Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "202136",
+    "phone_number": "+91 82181 51710",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "18, Somna Rd, Somna, Aligarh, Uttar Pradesh 202143",
+    "area": "202136",
+    "latitude": 28.056383699999998,
+    "longitude": 77.9393426,
+    "place_id": "ChIJSSZQNgCrdDkRuUh-UvjALLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSZQNgCrdDkRuUh-UvjALLU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:26"
+  },
+  {
+    "business_name": "Shiva jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "202136",
+    "phone_number": "+91 84390 38061",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lakha bazar, near chetan khad beez bhandar, Gabhana, Uttar Pradesh 202136",
+    "area": "202136",
+    "latitude": 28.049256,
+    "longitude": 77.9626706,
+    "place_id": "ChIJwZJqFQCrdDkRSPIx3K0V6H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZJqFQCrdDkRSPIx3K0V6H0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:27"
+  }
+]

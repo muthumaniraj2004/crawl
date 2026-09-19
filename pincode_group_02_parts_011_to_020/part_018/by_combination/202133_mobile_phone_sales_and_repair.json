@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Munna Mobile Repairing center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "202133",
+    "phone_number": "+91 88100 06611",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nala Rd, Badam Nagar, Jamalpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Badam Nagar, Jamalpur",
+    "latitude": 27.9267678,
+    "longitude": 78.080933,
+    "place_id": "ChIJWxblMZSldDkRxbPdoUdooAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxblMZSldDkRxbPdoUdooAA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:44:14"
+  },
+  {
+    "business_name": "Kumar Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "202133",
+    "phone_number": "+91 90451 43744",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shyam Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "Shyam Nagar",
+    "latitude": 27.8903389,
+    "longitude": 78.0816632,
+    "place_id": "ChIJnQDeT5GkdDkRphss_Da7TOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQDeT5GkdDkRphss_Da7TOY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:44:14"
+  }
+]

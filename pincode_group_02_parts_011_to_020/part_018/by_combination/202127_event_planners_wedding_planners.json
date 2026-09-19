@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Photo Point",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Wedding photographer",
+    "pincode": "202127",
+    "phone_number": "+91 98371 23212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Moh. Uchaan, opposite Lalla Halwai Sweet Center, Atrauli, Uttar Pradesh 202280",
+    "area": "202127",
+    "latitude": 28.028802,
+    "longitude": 78.2827537,
+    "place_id": "ChIJ_ysLSMG3dDkRTYByG0e6iq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ysLSMG3dDkRTYByG0e6iq0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:38"
+  },
+  {
+    "business_name": "Manoharam Weddings",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "202127",
+    "phone_number": "N/A",
+    "website": "http://www.manoharamweddings.com/",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "C-102, Sangwan City Rd, Sangwan City, Aligarh, Uttar Pradesh 202002",
+    "area": "Sangwan City",
+    "latitude": 27.8951195,
+    "longitude": 78.1246776,
+    "place_id": "ChIJjzN2Jx-7dDkRl2kDQ60NKpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzN2Jx-7dDkRl2kDQ60NKpc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:40"
+  }
+]

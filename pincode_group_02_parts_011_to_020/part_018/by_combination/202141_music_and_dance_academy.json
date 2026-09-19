@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SDS Dance and Music Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Aerobics Class, Art school, Coaching Center, Dance company, Educational institution, Fitness center, Guitar instructor, Music college, Music school",
+    "pincode": "202141",
+    "phone_number": "+91 99113 29711",
+    "website": "https://www.facebook.com/SDSdanceacademy/?ti=as",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave, New Delhi, Delhi, 110045",
+    "area": "Mahavir Enclave I, Mahavir Enclave Part 2, Mahavir Enclave",
+    "latitude": 28.5969347,
+    "longitude": 77.08226739999999,
+    "place_id": "ChIJUwTdskcbDTkRZpevdRdHmeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwTdskcbDTkRZpevdRdHmeA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:09"
+  },
+  {
+    "business_name": "Classic Music and Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "202141",
+    "phone_number": "N/A",
+    "website": "http://www.tarangmusicacademy.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-17, Paprawat Rd, Prem Nagar, Najafgarh, New Delhi, Delhi, 110043",
+    "area": "Prem Nagar, Najafgarh",
+    "latitude": 28.603470599999998,
+    "longitude": 76.983524,
+    "place_id": "ChIJEekyuYgPDTkRoFcEYkX4gIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEekyuYgPDTkRoFcEYkX4gIY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vrindavanam Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "202129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "X56F+FFC, Barotha, Uttar Pradesh 202125",
+    "area": "202129",
+    "latitude": 27.9611953,
+    "longitude": 78.1736359,
+    "place_id": "ChIJ3dBfLAC7dDkR8EVx80xIYMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3dBfLAC7dDkR8EVx80xIYMY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:37:09"
+  },
+  {
+    "business_name": "IMPERRA RESORT",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "202129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Front of GK filling station, Fatehabad Rd, Bamrauli Katara, Agra, Uttar Pradesh 282006",
+    "area": "202129",
+    "latitude": 27.132587299999997,
+    "longitude": 78.1099878,
+    "place_id": "ChIJY02LvKlzdDkR7l5uzqDJ9eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY02LvKlzdDkR7l5uzqDJ9eU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:37:09"
+  }
+]

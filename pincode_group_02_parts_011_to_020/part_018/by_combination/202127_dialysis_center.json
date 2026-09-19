@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHRI GANESH DIALYSIS CENTRE",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202127",
+    "phone_number": "+91 73407 34693",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Teja market, Mata Singha Devi Mandir Rd, Govind Nagar, Nayagaon, Punjab 160103",
+    "area": "Govind Nagar",
+    "latitude": 30.779204399999998,
+    "longitude": 76.79628799999999,
+    "place_id": "ChIJ5cTrChrzDzkR7tmYtVWEkB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cTrChrzDzkR7tmYtVWEkB0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:09"
+  },
+  {
+    "business_name": "Eskag Sanjeevani Dialysis Center Kamakhyanagar",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "202127",
+    "phone_number": "+91 1800 102 2294",
+    "website": "https://www.eskagsanjeevanidialysis.com/",
+    "rating": 4.9,
+    "reviews_count": 67,
+    "address": "Sub Divitional Hospital, Kamakhyanagar, Odisha 759018",
+    "area": "202127",
+    "latitude": 20.9228602,
+    "longitude": 85.5560635,
+    "place_id": "ChIJi89Yxu7XGDoRZ4OBcewEtog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi89Yxu7XGDoRZ4OBcewEtog",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:09"
+  }
+]

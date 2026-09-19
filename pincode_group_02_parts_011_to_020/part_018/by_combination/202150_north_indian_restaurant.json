@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bridge, Clarks Inn, Aligarh",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "202150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Agra Rd, near flyyover, Burj Ki Sarai, Mandir Ka Nagla, Aligarh, Uttar Pradesh 202002",
+    "area": "Burj Ki Sarai",
+    "latitude": 27.8479526,
+    "longitude": 78.0773559,
+    "place_id": "ChIJN03lWAOjdDkRnOJ-ZJYfUBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN03lWAOjdDkRnOJ-ZJYfUBw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:05:45"
+  },
+  {
+    "business_name": "Dilli Chilli",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "202150",
+    "phone_number": "+91 85109 96265",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Unnamed Road, Avas Vikas Colony, ADA Bank Colony, Aligarh, Uttar Pradesh 202001",
+    "area": "Avas Vikas Colony, ADA Bank Colony",
+    "latitude": 27.8673732,
+    "longitude": 78.072874,
+    "place_id": "ChIJ4d10d3yjdDkRR9Cbbootbrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4d10d3yjdDkRR9Cbbootbrc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:05:46"
+  }
+]

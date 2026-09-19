@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchayat Ghar",
+    "search_category": "PG",
+    "primary_category": "Local government office",
+    "all_categories": "Local government office",
+    "pincode": "202145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MRMJ+WQ2, Amarpur Dahana, Uttar Pradesh 202145",
+    "area": "202145",
+    "latitude": 27.6847584,
+    "longitude": 77.8318802,
+    "place_id": "ChIJN_8lD7RmczkRNPCwcMmLKK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_8lD7RmczkRNPCwcMmLKK0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:03:04"
+  },
+  {
+    "business_name": "Bala Ji Pg (Hostel & Guest House)",
+    "search_category": "PG",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "202145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HNO- A2, near NH2, near Bhawna Estate, Sikandra, BUILDING, Agra, Uttar Pradesh 282007",
+    "area": "Sikandra, BUILDING",
+    "latitude": 27.215863499999998,
+    "longitude": 77.9585898,
+    "place_id": "ChIJSXPyYyd4dDkRqZXlgmlElpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXPyYyd4dDkRqZXlgmlElpE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:03:05"
+  }
+]

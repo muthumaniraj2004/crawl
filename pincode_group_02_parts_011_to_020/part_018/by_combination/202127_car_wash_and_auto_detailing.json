@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Speed Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "202127",
+    "phone_number": "+91 70896 46976",
+    "website": "http://www.speedcarwash.com/",
+    "rating": 4.6,
+    "reviews_count": 42,
+    "address": "Besides Patly Complex, near Suraj Tiles, Industrial Area, Garra, Madhya Pradesh 481001",
+    "area": "Industrial Area",
+    "latitude": 21.8068338,
+    "longitude": 80.1532167,
+    "place_id": "ChIJPwCLqgRZKjoRHakdwdW769I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwCLqgRZKjoRHakdwdW769I",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:14"
+  },
+  {
+    "business_name": "Hindustan motors",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto painting",
+    "pincode": "202127",
+    "phone_number": "+91 70173 13851",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27C8+W78, Atrauli, Uttar Pradesh 202280",
+    "area": "202127",
+    "latitude": 28.02227,
+    "longitude": 78.265575,
+    "place_id": "ChIJ_x68PAC3dDkRFnBF0-XeslY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_x68PAC3dDkRFnBF0-XeslY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:16"
+  }
+]

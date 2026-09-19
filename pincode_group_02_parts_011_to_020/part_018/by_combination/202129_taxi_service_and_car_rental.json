@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagendra Taxi services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "202129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "212653, Tikari Rd, Tikari, Uttar Pradesh 202129",
+    "area": "202129",
+    "latitude": 27.9362344,
+    "longitude": 78.3080755,
+    "place_id": "ChIJ-f5bdADHdDkRc1nCjI8bQeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-f5bdADHdDkRc1nCjI8bQeA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:47"
+  },
+  {
+    "business_name": "Onstreet Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Taxi service",
+    "pincode": "202129",
+    "phone_number": "+91 96278 22333",
+    "website": "https://www.onstreetcabs.com/",
+    "rating": 4.7,
+    "reviews_count": 45,
+    "address": "Power House, Dr. Ram Sarup Colony, Loco Shed, Moradabad, Uttar Pradesh 244001",
+    "area": "Dr. Ram Sarup Colony, Loco Shed",
+    "latitude": 28.8438138,
+    "longitude": 78.7561041,
+    "place_id": "ChIJab2Ay3L7CjkRSlb5OIlOOmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJab2Ay3L7CjkRSlb5OIlOOmk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:48"
+  }
+]

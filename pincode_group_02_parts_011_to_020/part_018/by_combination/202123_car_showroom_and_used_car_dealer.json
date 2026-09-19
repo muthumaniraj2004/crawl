@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gola Motors Aligarh",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "202123",
+    "phone_number": "N/A",
+    "website": "http://www.golamotors.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Bhaiyan, Uttar Pradesh 202124",
+    "area": "202123",
+    "latitude": 27.768107399999998,
+    "longitude": 77.91273939999999,
+    "place_id": "ChIJQ7rocQBfczkR0oBRJUsS2cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7rocQBfczkR0oBRJUsS2cA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:26:12"
+  },
+  {
+    "business_name": "Shivang Hyundai Khair",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "202123",
+    "phone_number": "+91 96677 10711",
+    "website": "https://shivang.hyundaimotor.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Aligarh - Palwal Rd, Khair, Uttar Pradesh 202138",
+    "area": "202123",
+    "latitude": 27.9514821,
+    "longitude": 77.8241822,
+    "place_id": "ChIJqRoGFZdRczkRK_xfnoi7wPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRoGFZdRczkRK_xfnoi7wPU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:26:14"
+  }
+]

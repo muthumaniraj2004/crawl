@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marketify",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "202126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near petrol pump, humdard nager B, Jamalpur, Aligarh, Uttar Pradesh 202001",
+    "area": "humdard nager B, Jamalpur",
+    "latitude": 27.9303934,
+    "longitude": 78.0828875,
+    "place_id": "ChIJYZC0D7eldDkRNJemVe6-6M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZC0D7eldDkRNJemVe6-6M4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:32:33"
+  },
+  {
+    "business_name": "Legitimo Services Pvt Ltd",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Website designer",
+    "pincode": "202126",
+    "phone_number": "+91 95573 26206",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "White Dune, Silver Estates, 695, Aligarh Bypass Rd, near Ashyana Greens, Radio Colony, Manjoor Garhi, Aligarh, Uttar Pradesh 202001",
+    "area": "Radio Colony",
+    "latitude": 27.9400487,
+    "longitude": 78.0778445,
+    "place_id": "ChIJMzeMgkKldDkRcdz1VQrA3iA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzeMgkKldDkRcdz1VQrA3iA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:32:33"
+  }
+]

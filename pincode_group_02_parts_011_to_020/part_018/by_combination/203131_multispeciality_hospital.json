@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "203131",
+    "phone_number": "+91 84770 00375",
+    "website": "http://www.shivamhospitalkhurja.com/",
+    "rating": 4.5,
+    "reviews_count": 32,
+    "address": "STC Campus, Junction Road, Khurja, Uttar Pradesh 203132",
+    "area": "203131",
+    "latitude": 28.2259876,
+    "longitude": 77.8287671,
+    "place_id": "ChIJ29TzHJCvDDkRGKFGC5sVt8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29TzHJCvDDkRGKFGC5sVt8M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:23:25"
+  },
+  {
+    "business_name": "MediGram S.S. Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "203131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mohan Kuti, Plot number 1551/3, Maman Rd, Shastri Nagar, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Shastri Nagar",
+    "latitude": 28.3901619,
+    "longitude": 77.85829,
+    "place_id": "ChIJVTUCZwCnDDkRihtdJZF1XvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTUCZwCnDDkRihtdJZF1XvA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:23:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best car service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "RV repair shop",
+    "all_categories": "RV repair shop",
+    "pincode": "202129",
+    "phone_number": "+91 96669 64288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1-11-209/2 Guru murthi line, Shamlal Buildings, Hyderabad, Telangana 500016",
+    "area": "Begumpet",
+    "latitude": 17.4467075,
+    "longitude": 78.46279439999999,
+    "place_id": "ChIJBUfW8x2RyzsRGqkEObnHWP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUfW8x2RyzsRGqkEObnHWP8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:51"
+  },
+  {
+    "business_name": "CAR-O-MAN",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "202129",
+    "phone_number": "+91 92480 43499",
+    "website": "https://car-o-man.com/",
+    "rating": 4.2,
+    "reviews_count": 668,
+    "address": "Sadguru Nagar, Raghavendra Nagar Colony, L. B. Nagar, Hyderabad, Telangana 500074",
+    "area": "Sadguru Nagar, Raghavendra Nagar Colony, L. B. Nagar",
+    "latitude": 17.3438916,
+    "longitude": 78.5534048,
+    "place_id": "ChIJJ7-knHeZyzsRJg4uJKgoXsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7-knHeZyzsRJg4uJKgoXsQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:51"
+  }
+]

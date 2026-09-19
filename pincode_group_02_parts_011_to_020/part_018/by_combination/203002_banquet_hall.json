@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Sudesh Ji Farm",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Hotel",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Bulandshahr, Uttar Pradesh 203002",
+    "area": "203002",
+    "latitude": 28.389001,
+    "longitude": 77.8235091,
+    "place_id": "ChIJHSdETwClDDkRonG0n18CkWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSdETwClDDkRonG0n18CkWg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:27"
+  },
+  {
+    "business_name": "Hotel Classic",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "203002",
+    "phone_number": "+91 92194 08405",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 549,
+    "address": "SH 65, Sant Raj Nagar, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Sant Raj Nagar",
+    "latitude": 28.4111434,
+    "longitude": 77.8398342,
+    "place_id": "ChIJhaYaK1ShDDkRCNA2YG84JQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhaYaK1ShDDkRCNA2YG84JQk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:27"
+  }
+]

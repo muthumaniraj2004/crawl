@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuldeep Kirana Store",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "202155",
+    "phone_number": "+91 94114 92124",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "5PG3+44R, College bus stand Jewar jahangirpur Road Jangirpur, Uttar Pradesh 203141",
+    "area": "202155",
+    "latitude": 28.175369399999997,
+    "longitude": 77.70275389999999,
+    "place_id": "ChIJPSr-nESzDDkRBF3bG1jFGhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSr-nESzDDkRBF3bG1jFGhs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:17"
+  },
+  {
+    "business_name": "RBS MINI MART",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "202155",
+    "phone_number": "+91 98706 71258",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Habibpur on, jewar road, junction, Khurja, Saudahavipur, Uttar Pradesh 203132",
+    "area": "junction",
+    "latitude": 28.1953712,
+    "longitude": 77.7892742,
+    "place_id": "ChIJIZFQ8iytDDkR8cW_klqFaVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZFQ8iytDDkR8cW_klqFaVE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:18"
+  }
+]

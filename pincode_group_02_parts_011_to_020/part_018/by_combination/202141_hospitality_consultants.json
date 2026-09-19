@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abm hotel consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "202141",
+    "phone_number": "+91 99357 35561",
+    "website": "https://www.abmconsultancy.in/",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Sangam Rd, North Lokpur, Naini, Prayagraj, Uttar Pradesh 211001",
+    "area": "North Lokpur, Naini",
+    "latitude": 25.40592,
+    "longitude": 81.8745697,
+    "place_id": "ChIJUxLEqdlLhTkRSBtgLLgz1yA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxLEqdlLhTkRSBtgLLgz1yA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:04"
+  },
+  {
+    "business_name": "Hotelier's International",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "202141",
+    "phone_number": "+91 97021 46740",
+    "website": "http://hoteliersinternational.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Office no. 1B 94 First floor, Phoenix Paragon Plaza, Lal Bahadur Shastri Marg, Kamani, Kurla, Mumbai, Maharashtra 400070",
+    "area": "Kamani, Ashok Nagar, Kurla",
+    "latitude": 19.0853653,
+    "longitude": 72.8887084,
+    "place_id": "ChIJN4hsWWLH5zsRG0zhUjPtxcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4hsWWLH5zsRG0zhUjPtxcE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:05"
+  }
+]

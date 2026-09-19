@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiyan Enterprises",
+    "search_category": "Importers",
+    "primary_category": "Importers",
+    "all_categories": "Importers",
+    "pincode": "202143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W22V+C7P, Khair Bypass, Bank Colony, Nagla Masani, Aligarh, Uttar Pradesh 202001",
+    "area": "Bank Colony, Nagla Masani",
+    "latitude": 27.9010949,
+    "longitude": 78.0432051,
+    "place_id": "ChIJJWMwb0ekdDkRliDnxYpxw14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWMwb0ekdDkRliDnxYpxw14",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:01:53"
+  },
+  {
+    "business_name": "Rajpoot Enterprises",
+    "search_category": "Importers",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "202143",
+    "phone_number": "+91 90453 49246",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A, Hamdard Nagar, Jamalpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Hamdard Nagar, Jamalpur",
+    "latitude": 27.932184699999997,
+    "longitude": 78.0815952,
+    "place_id": "ChIJn9NUlimldDkRbD9xTyMBzcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9NUlimldDkRbD9xTyMBzcs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:01:53"
+  }
+]

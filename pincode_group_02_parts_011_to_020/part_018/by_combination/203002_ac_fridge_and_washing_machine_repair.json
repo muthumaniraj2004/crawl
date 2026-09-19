@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Daily Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Beauty Parlour, Service establishment, Microwave oven repair service, Refrigerator repair service, Repair service, Washer & dryer repair service",
+    "pincode": "203002",
+    "phone_number": "+91 98212 21877",
+    "website": "https://delhidailyservice.com/",
+    "rating": 4.6,
+    "reviews_count": 244,
+    "address": "Delhi Daily Service, 203002, India",
+    "area": "203002",
+    "latitude": 28.5951345,
+    "longitude": 77.1885751,
+    "place_id": "ChIJ5S0R3XgHDTkRIVUmDw_hyrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5S0R3XgHDTkRIVUmDw_hyrY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:16"
+  },
+  {
+    "business_name": "Voltas service center",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Machine repair service",
+    "all_categories": "Machine repair service",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Kala Aam Chauraha, NEAR, Raje Babu Rd, Moti Bagh, Kotiyat, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Moti Bagh, Kotiyat",
+    "latitude": 28.406962999999998,
+    "longitude": 77.8498292,
+    "place_id": "ChIJRx1aYJCnDDkRFEgYUPioryQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRx1aYJCnDDkRFEgYUPioryQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:16"
+  }
+]

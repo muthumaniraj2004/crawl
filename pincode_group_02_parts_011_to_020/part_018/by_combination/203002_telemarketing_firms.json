@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pranshu Ventures",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "203002",
+    "phone_number": "+91 93581 63886",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Azad Manson, Raje Babu Rd, Laxmi Nagar, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Laxmi Nagar",
+    "latitude": 28.402015499999997,
+    "longitude": 77.8501215,
+    "place_id": "ChIJN9lTeKWnDDkRQLJFWEEkjMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9lTeKWnDDkRQLJFWEEkjMU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:21:09"
+  },
+  {
+    "business_name": "Adarsh Electricals",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier",
+    "pincode": "203002",
+    "phone_number": "+91 75995 41055",
+    "website": "https://www.adarshelectricals.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bahlimpura, Nelkanth, Mahadev Mandir, Amba Enclave, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Amba Enclave",
+    "latitude": 28.3886133,
+    "longitude": 77.8442263,
+    "place_id": "ChIJhzCQc6-hDDkRKFblTVNgaMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzCQc6-hDDkRKFblTVNgaMQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:21:09"
+  }
+]

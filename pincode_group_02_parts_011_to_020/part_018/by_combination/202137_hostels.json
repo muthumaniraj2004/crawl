@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohammad Habib Hall",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "202137",
+    "phone_number": "+91 571 270 0920",
+    "website": "http://www.amu.ac.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Mohammad Habib Hall, NH 509, AMU Campus, Aligarh, Uttar Pradesh 202001",
+    "area": "AMU Campus",
+    "latitude": 27.921624899999998,
+    "longitude": 78.0736367,
+    "place_id": "ChIJBVRf_gKldDkRNkdn5tBvElA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVRf_gKldDkRNkdn5tBvElA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:51:00"
+  },
+  {
+    "business_name": "Marriage Home",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "202137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3J2G+34W, Khandeha, Uttar Pradesh 202137",
+    "area": "202137",
+    "latitude": 28.0502321,
+    "longitude": 77.62531489999999,
+    "place_id": "ChIJV9aLPABLczkRMgC-UqkAK10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9aLPABLczkRMgC-UqkAK10",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:51:00"
+  }
+]

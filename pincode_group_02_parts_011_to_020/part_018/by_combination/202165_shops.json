@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanwar saintery shop",
+    "search_category": "Shops",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "202165",
+    "phone_number": "+91 78950 84571",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PN Bank, Near, main, Aligarh - Palwal Rd, Tappal, Uttar Pradesh 202165",
+    "area": "202165",
+    "latitude": 28.0422409,
+    "longitude": 77.5827011,
+    "place_id": "ChIJJUlPQF5LczkRQSh1sorh1rE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUlPQF5LczkRQSh1sorh1rE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:10:45"
+  },
+  {
+    "business_name": "Daksh Infotech",
+    "search_category": "Shops",
+    "primary_category": "Camera store",
+    "all_categories": "Camera store",
+    "pincode": "202165",
+    "phone_number": "+91 73105 83084",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Tappal Road, Jewar, Hamidpur, Uttar Pradesh 202165",
+    "area": "202165",
+    "latitude": 28.0789081,
+    "longitude": 77.5604257,
+    "place_id": "ChIJTfA9PoQ1czkRowsTjtKhoao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfA9PoQ1czkRowsTjtKhoao",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:10:48"
+  }
+]

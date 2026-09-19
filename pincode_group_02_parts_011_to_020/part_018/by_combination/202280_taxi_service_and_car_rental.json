@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atrauli Taxi stand",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "202280",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "27MJ+6R9, Atrauli, Uttar Pradesh 202280",
+    "area": "202280",
+    "latitude": 28.033043199999998,
+    "longitude": 78.28211519999999,
+    "place_id": "ChIJoZx_hi22dDkRK7jvVorHP_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZx_hi22dDkRK7jvVorHP_c",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:13:06"
+  },
+  {
+    "business_name": "Taxi stand",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "202280",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "27HH+C9V, Aligarh Adda Rd, Atrauli, Uttar Pradesh 202280",
+    "area": "202280",
+    "latitude": 28.028610999999998,
+    "longitude": 78.2784365,
+    "place_id": "ChIJu3eD0My3dDkR_VtJYzLi5NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3eD0My3dDkR_VtJYzLi5NQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:13:09"
+  }
+]

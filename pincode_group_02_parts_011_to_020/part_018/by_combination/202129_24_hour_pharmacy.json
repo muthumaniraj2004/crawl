@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "202129",
+    "phone_number": "+91 83838 28544",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taj pharmacy, 4/36, chungi road, near Taj hospital, Kela Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "Kela Nagar",
+    "latitude": 27.903269599999998,
+    "longitude": 78.09187639999999,
+    "place_id": "ChIJqTpFocaldDkRJIuOuL3AIEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTpFocaldDkRJIuOuL3AIEQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:32"
+  },
+  {
+    "business_name": "Meena pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "202129",
+    "phone_number": "+91 90844 05066",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "Qila shankargarh road, meena complex, Kasganj, Uttar Pradesh 207123",
+    "area": "Durga Colony",
+    "latitude": 27.813364099999998,
+    "longitude": 78.6479796,
+    "place_id": "ChIJl9hRRdThdDkRVelrXdDP46U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9hRRdThdDkRVelrXdDP46U",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:34"
+  }
+]

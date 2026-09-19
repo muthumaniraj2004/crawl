@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream Merchants Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "203002",
+    "phone_number": "+91 98733 33253",
+    "website": "https://www.dmevents.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhagat Chambers, F-15, Block F, Mansarover Garden, New Delhi, Delhi, 110015",
+    "area": "Block F, Mansarover Garden",
+    "latitude": 28.6446886,
+    "longitude": 77.13555939999999,
+    "place_id": "ChIJ_-v4n28DDTkR4gv0QEBtoU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-v4n28DDTkR4gv0QEBtoU0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:37"
+  },
+  {
+    "business_name": "The DC Event Planner.com",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "http://www.thedceventplanner.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The DC Event Planner.com, 203002, India",
+    "area": "203002",
+    "latitude": 39.182128999999996,
+    "longitude": -75.65129999999999,
+    "place_id": "ChIJPzHZwwm4t4kRvl9tI9yGX3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzHZwwm4t4kRvl9tI9yGX3g",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:37"
+  }
+]

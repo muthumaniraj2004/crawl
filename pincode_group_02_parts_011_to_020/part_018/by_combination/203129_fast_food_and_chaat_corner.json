@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak chaat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "203129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 23,
+    "address": "FQ4G+FF8, Gurunanak Colony, Chandausi, Uttar Pradesh 244412",
+    "area": "Gurunanak Colony",
+    "latitude": 28.4561738,
+    "longitude": 78.7761982,
+    "place_id": "ChIJzwKbA3bbCjkRzW9wMLSk5bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwKbA3bbCjkRzW9wMLSk5bo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:21:25"
+  },
+  {
+    "business_name": "Sk Chaat bhandar sankra (aligrah)",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Panipuri shop",
+    "all_categories": "Panipuri shop",
+    "pincode": "203129",
+    "phone_number": "+91 80068 33875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sankara, Uttar Pradesh 202133",
+    "area": "203129",
+    "latitude": 28.040138499999998,
+    "longitude": 78.5327655,
+    "place_id": "ChIJq6qqWuXQdDkRPuQS46PF_r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqWuXQdDkRPuQS46PF_r8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:21:27"
+  }
+]

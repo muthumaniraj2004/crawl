@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Store",
+    "pincode": "202136",
+    "phone_number": "+91 78957 02695",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Nagaliya, Pala Sallu, Gabhana, Uttar Pradesh 202136",
+    "area": "202136",
+    "latitude": 27.999829899999998,
+    "longitude": 77.9803897,
+    "place_id": "ChIJY3BfIAepdDkRHyhguc_1xR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3BfIAepdDkRHyhguc_1xR8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:09"
+  },
+  {
+    "business_name": "JAIN PROVISION STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "202136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 3,
+    "address": "W34P+6PJ, Dodhpur Rd, Dodhpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Dodhpur",
+    "latitude": 27.9055817,
+    "longitude": 78.0867541,
+    "place_id": "ChIJe4AqyumkdDkRQFP5EkEqIas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4AqyumkdDkRQFP5EkEqIas",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:12"
+  }
+]

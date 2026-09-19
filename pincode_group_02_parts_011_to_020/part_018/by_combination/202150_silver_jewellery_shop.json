@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.K. Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "202150",
+    "phone_number": "+91 87554 34445",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bhadeshi Road, near Kali Mata Temple, Mahendra Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "Mahendra Nagar",
+    "latitude": 27.8697415,
+    "longitude": 78.0831901,
+    "place_id": "ChIJ--ud10yjdDkRvfEDMqGYd_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--ud10yjdDkRvfEDMqGYd_Q",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:05:51"
+  },
+  {
+    "business_name": "Jai Guru Jewelers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "202150",
+    "phone_number": "+91 94100 59585",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "V38C+M2W, Mathura Bypass Rd, in front of Maheshwari Inter College, Vivek Vihar, Sasni Gate, Aligarh, Uttar Pradesh 202001",
+    "area": "Vivek Vihar, Sasni Gate",
+    "latitude": 27.8667393,
+    "longitude": 78.07008309999999,
+    "place_id": "ChIJpd28TXmjdDkRDq_qEnFfVbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpd28TXmjdDkRDq_qEnFfVbA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:05:53"
+  }
+]

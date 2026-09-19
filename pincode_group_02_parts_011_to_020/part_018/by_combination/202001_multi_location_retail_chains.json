@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saveti Complex",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "202001",
+    "phone_number": "+91 92197 33846",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 33,
+    "address": "nighat plaza, Samad Rd, Centre Point, Church Compound, Civil Lines, Aligarh, Uttar Pradesh 202001",
+    "area": "Centre Point, Church Compound, Civil Lines",
+    "latitude": 27.891434999999998,
+    "longitude": 78.07670999999999,
+    "place_id": "ChIJg9pDCJKkdDkRz0251w8gW2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9pDCJKkdDkRz0251w8gW2k",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:20:19"
+  },
+  {
+    "business_name": "Vishal Mega Mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket",
+    "pincode": "202001",
+    "phone_number": "+91 73006 59641",
+    "website": "https://stores.vishalmegamart.com/shopping-mart-dhanipur-aligarh-30193/home?utm_source=GMB",
+    "rating": 3.8,
+    "reviews_count": 873,
+    "address": "near Vaishno Dham, Vaishno Dham, Etah Chungi, Aligarh, Uttar Pradesh 202002",
+    "area": "Vaishno Dham, Etah Chungi",
+    "latitude": 27.8741043,
+    "longitude": 78.0979895,
+    "place_id": "ChIJW5oKTeKjdDkRtcEeYxhjKw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5oKTeKjdDkRtcEeYxhjKw0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:20:20"
+  }
+]

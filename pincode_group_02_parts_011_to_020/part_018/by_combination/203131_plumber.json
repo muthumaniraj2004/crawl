@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soyab",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "203131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6VX3+JXC, Khurja, Uttar Pradesh 203131",
+    "area": "203131",
+    "latitude": 28.2490697,
+    "longitude": 77.8549042,
+    "place_id": "ChIJN1GCtWapDDkRT54SDGg7QfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1GCtWapDDkRT54SDGg7QfA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:23:49"
+  },
+  {
+    "business_name": "Rahul Sharma",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "203131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bichola, Uttar Pradesh 203131",
+    "area": "203131",
+    "latitude": 28.2845491,
+    "longitude": 77.80102099999999,
+    "place_id": "ChIJ4Zf2AwCvDDkRm3hAcq9v9eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Zf2AwCvDDkRm3hAcq9v9eU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:23:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chiklet cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Restaurant supply store",
+    "pincode": "203135",
+    "phone_number": "+91 85788 81775",
+    "website": "https://www.youtube.com/@cHikLet03",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "near Ramleela maidan, Sector 1, Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Sector 1, Vasundhara",
+    "latitude": 28.6648508,
+    "longitude": 77.3902438,
+    "place_id": "ChIJP16OayXxDDkRsQbOX_4VgXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP16OayXxDDkRsQbOX_4VgXQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:26:49"
+  },
+  {
+    "business_name": "s cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "203135",
+    "phone_number": "+91 97113 44735",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 13,
+    "address": "J77R+23Q, Patparganj, Mayur Vihar, Delhi, 110091",
+    "area": "Patparganj, Mayur Vihar",
+    "latitude": 28.612591899999998,
+    "longitude": 77.2902489,
+    "place_id": "ChIJMWVfbQDlDDkRrS8wVgA1L7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWVfbQDlDDkRrS8wVgA1L7k",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:26:49"
+  }
+]

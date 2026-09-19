@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palwal Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "202165",
+    "phone_number": "+91 97288 34600",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rasulpur Rd, opp. Sehrawat Nursing Home, New Colony Extension, Palwal, Haryana 121102",
+    "area": "New Colony Extension",
+    "latitude": 28.1348767,
+    "longitude": 77.3380459,
+    "place_id": "ChIJC9UKNErTDDkRc-lq4rlVwDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9UKNErTDDkRc-lq4rlVwDQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:09"
+  },
+  {
+    "business_name": "Mittal Pet Mart & Clinic",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Animal hospital, Dog day care center, Pet groomer, Pet store, Veterinary pharmacy",
+    "pincode": "202165",
+    "phone_number": "+91 95282 80621",
+    "website": "https://mittal-pet-mart.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "94A/94B, Old GT Rd, near Gandhi Park, Kosi Kalan, Uttar Pradesh 281403",
+    "area": "202165",
+    "latitude": 27.791102499999997,
+    "longitude": 77.4413533,
+    "place_id": "ChIJA6K3Lkw9czkRiRvSpgtn7Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6K3Lkw9czkRiRvSpgtn7Z0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:09"
+  }
+]

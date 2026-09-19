@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Webmobilez Inc",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Service establishment",
+    "pincode": "203002",
+    "phone_number": "+91 96424 64660",
+    "website": "http://webmobilez.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Webmobilez Inc, 203002, India",
+    "area": "203002",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ1_wj78WQyzsRrzbgc8i6BYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_wj78WQyzsRrzbgc8i6BYE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:21:09"
+  },
+  {
+    "business_name": "Global services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Service establishment",
+    "pincode": "203002",
+    "phone_number": "+91 99494 13771",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Global services, 203002, India",
+    "area": "203002",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJW6EWT0CXyzsR6eU4-SXxBbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6EWT0CXyzsR6eU4-SXxBbg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:21:09"
+  }
+]

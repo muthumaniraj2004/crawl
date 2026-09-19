@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panasar Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "202128",
+    "phone_number": "+91 98766 62450",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Village Lakhnaur, Sector 91, Sahibzada Ajit Singh Nagar, Punjab 140308",
+    "area": "Village Lakhnaur, Sector 91",
+    "latitude": 30.6946135,
+    "longitude": 76.6837042,
+    "place_id": "ChIJ16BkRhzvDzkRPC959UoIQOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16BkRhzvDzkRPC959UoIQOU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:55"
+  },
+  {
+    "business_name": "Sahil Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "202128",
+    "phone_number": "+91 98155 91421",
+    "website": "N/A",
+    "rating": 1.8,
+    "reviews_count": 6,
+    "address": "Shop No.105-106-107, Sector 77, Sohana, Sahibzada Ajit Singh Nagar, Punjab 140308",
+    "area": "Sector 77, Sohana",
+    "latitude": 30.6913116,
+    "longitude": 76.7063718,
+    "place_id": "ChIJ607EQOruDzkRAF4EyWJ-cIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ607EQOruDzkRAF4EyWJ-cIs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:55"
+  }
+]

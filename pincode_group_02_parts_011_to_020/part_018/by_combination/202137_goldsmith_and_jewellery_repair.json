@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "202137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jattari, Uttar Pradesh 202137",
+    "area": "202137",
+    "latitude": 28.0233492,
+    "longitude": 77.6553453,
+    "place_id": "ChIJ6TSk4vRNczkRHhHmQk4EYIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TSk4vRNczkRHhHmQk4EYIc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:50:15"
+  },
+  {
+    "business_name": "Banti Verma Prince Verma Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "202137",
+    "phone_number": "+91 99178 42454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Connector Rd, Tappal, Uttar Pradesh 202165",
+    "area": "202137",
+    "latitude": 28.042352599999997,
+    "longitude": 77.57868189999999,
+    "place_id": "ChIJeVRJ9lFLczkR-6DZ3oTvN9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVRJ9lFLczkR-6DZ3oTvN9M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:50:17"
+  }
+]

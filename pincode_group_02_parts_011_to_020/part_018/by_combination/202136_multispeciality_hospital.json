@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gyan Shree Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202136",
+    "phone_number": "+91 79068 08900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3X25+7V6, near Sharda Banquet Hall, Gabhana, Uttar Pradesh 202136",
+    "area": "202136",
+    "latitude": 28.050666099999997,
+    "longitude": 77.95962879999999,
+    "place_id": "ChIJdS7naVurdDkRXe7xQovUthU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdS7naVurdDkRXe7xQovUthU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:35"
+  },
+  {
+    "business_name": "A.R.S HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202136",
+    "phone_number": "+91 94569 52347",
+    "website": "https://www.arshospital.org/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "NH-34, in front of deorau mod, near fire station, Gabhana, Daurau Chandpur, Uttar Pradesh 202136",
+    "area": "202136",
+    "latitude": 28.0780294,
+    "longitude": 77.9363249,
+    "place_id": "ChIJBcMIJnCrdDkRlDFpAC3Gdmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcMIJnCrdDkRlDFpAC3Gdmc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:35"
+  }
+]

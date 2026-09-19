@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Worn",
+    "search_category": "Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "202141",
+    "phone_number": "+91 84334 83241",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Baraula Chauraaha, Under The Bridge, opp. Hanuman Temple, Baraula, Aligarh, Uttar Pradesh 202001",
+    "area": "Baraula",
+    "latitude": 27.912770499999997,
+    "longitude": 78.05733939999999,
+    "place_id": "ChIJfYTgM0eldDkRmpubmaDF13Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfYTgM0eldDkRmpubmaDF13Y",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:40"
+  },
+  {
+    "business_name": "Jyoti Electricals Shop Mr KARANVEER Singh",
+    "search_category": "Shops",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "202141",
+    "phone_number": "+91 73006 61504",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sofa Nahar, near by Ganga Khund Inter College, Uttar Pradesh 202141",
+    "area": "202141",
+    "latitude": 27.9742006,
+    "longitude": 77.7685487,
+    "place_id": "ChIJdQzDAtdRczkRqeJ0WyVd3Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQzDAtdRczkRqeJ0WyVd3Nw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:42"
+  }
+]

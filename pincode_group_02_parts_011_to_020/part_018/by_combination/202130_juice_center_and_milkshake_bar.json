@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cool Juice & Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice Center and Milkshake Bar",
+    "all_categories": "Juice Center and Milkshake Bar",
+    "pincode": "202130",
+    "phone_number": "+91 93129 45657",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Block A, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+    "area": "Block A, Jamia Nagar, Okhla",
+    "latitude": 28.5508016,
+    "longitude": 77.2997843,
+    "place_id": "ChIJvV_gnRrkDDkR2mfWPyFi8Cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvV_gnRrkDDkR2mfWPyFi8Cw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:37:56"
+  },
+  {
+    "business_name": "Juicet : Juice & Snack Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Snack bar",
+    "pincode": "202130",
+    "phone_number": "+91 80176 26515",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 124,
+    "address": "Juicet 6, Russel St, Park Street area, Kolkata, West Bengal 700071",
+    "area": "Park Street area",
+    "latitude": 22.549443999999998,
+    "longitude": 88.350313,
+    "place_id": "ChIJE8er0Jt3AjoRuTa_u3MisMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8er0Jt3AjoRuTa_u3MisMY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:37:58"
+  }
+]

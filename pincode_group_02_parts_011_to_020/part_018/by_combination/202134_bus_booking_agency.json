@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Travels (Bus Service)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "202134",
+    "phone_number": "+91 93593 95556",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "Rampur Rd, opp. Mohan x-ray, Gandhi Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Gandhi Nagar",
+    "latitude": 28.8260258,
+    "longitude": 78.7727549,
+    "place_id": "ChIJL7euvyn7CjkRoNPKojPyZZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7euvyn7CjkRoNPKojPyZZw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:45:22"
+  },
+  {
+    "business_name": "Malhotra golden travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "202134",
+    "phone_number": "+91 82739 48321",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 22,
+    "address": "Chhatrapati Shivaji Maharaj Marg, opposite Side Of Railway Station, Budh Bazaar, Moradabad, Uttar Pradesh 244001",
+    "area": "Budh Bazaar",
+    "latitude": 28.8315436,
+    "longitude": 78.7672379,
+    "place_id": "ChIJO5ZR1ZT7CjkREGHxDZgOTNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5ZR1ZT7CjkREGHxDZgOTNg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:45:22"
+  }
+]

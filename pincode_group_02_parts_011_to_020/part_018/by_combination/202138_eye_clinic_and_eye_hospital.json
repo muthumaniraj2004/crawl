@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Eye Care Center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital, Ophthalmology clinic, Optometrist",
+    "pincode": "202138",
+    "phone_number": "+91 94538 78684",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 17,
+    "address": "Chouhan Complex, Sootmil Chauraha, Infront of Oriental Bank, Khair Bypass, near to Axis Bank ATM, Aligarh, Uttar Pradesh 202001",
+    "area": "Nagla Kalan",
+    "latitude": 27.9045648,
+    "longitude": 78.0476135,
+    "place_id": "ChIJ-zfuYSWldDkRajlmSUEupTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zfuYSWldDkRajlmSUEupTk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:52:10"
+  },
+  {
+    "business_name": "Raghav Eye Care & Optical - Eye Care Center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "202138",
+    "phone_number": "+91 63954 28247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 53,
+    "address": "Shop No. 3, Shivalik Market, Khair - Aligarh Rd, near Khereswar Chauraha, Wajidpur Nada, Aligarh, Uttar Pradesh 202140",
+    "area": "Wajidpur Nada",
+    "latitude": 27.891102399999998,
+    "longitude": 78.0257432,
+    "place_id": "ChIJnwgQdWWldDkR29KXVLDpa_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwgQdWWldDkR29KXVLDpa_Q",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:52:10"
+  }
+]

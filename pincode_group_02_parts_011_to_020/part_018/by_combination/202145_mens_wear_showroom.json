@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dauji fashion point",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Baby clothing store, Clothing wholesaler, Clothing store",
+    "pincode": "202145",
+    "phone_number": "+91 80570 71978",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gonda Rd, near Bajaj Bike showroom, Gorai, Bansvali, Uttar Pradesh 202145",
+    "area": "202145",
+    "latitude": 27.699154999999998,
+    "longitude": 77.834238,
+    "place_id": "ChIJNTVuRwBnczkRLt9l3QGVD3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTVuRwBnczkRLt9l3QGVD3U",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:02:17"
+  },
+  {
+    "business_name": "Al_qadri_store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "202145",
+    "phone_number": "+91 89238 40022",
+    "website": "https://youtube.com/channel/UCw8vVcxWf9C04N7SsPK1ufg",
+    "rating": 4.7,
+    "reviews_count": 41,
+    "address": "Amir Nishan Rd, Abad Nagar, Amir Nishan, Aligarh, Uttar Pradesh 202001",
+    "area": "Abad Nagar, Amir Nishan",
+    "latitude": 27.904642499999998,
+    "longitude": 78.08442099999999,
+    "place_id": "ChIJnVquKMGldDkRmX3WnobDJZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVquKMGldDkRmX3WnobDJZ4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:02:20"
+  }
+]

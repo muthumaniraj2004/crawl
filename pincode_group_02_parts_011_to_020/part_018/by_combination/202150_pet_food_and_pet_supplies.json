@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uma agencies",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "202150",
+    "phone_number": "+91 97199 57600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Baba Neem karoli dham, Agra Rd, Aligarh, Uttar Pradesh 202002",
+    "area": "Nagla Mandir",
+    "latitude": 27.8514461,
+    "longitude": 78.0794499,
+    "place_id": "ChIJTyDpZMajdDkR3v3e7dk-bEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyDpZMajdDkR3v3e7dk-bEo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:05:39"
+  },
+  {
+    "business_name": "D.k Trader's And Netaji Pashu Ahar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "202150",
+    "phone_number": "+91 89096 84450",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Mahendra Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "Mahendra Nagar",
+    "latitude": 27.869925499999997,
+    "longitude": 78.0848551,
+    "place_id": "ChIJrXDcHmGjdDkR0MtVZ-uB6rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXDcHmGjdDkR0MtVZ-uB6rg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:05:39"
+  }
+]

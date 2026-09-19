@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aligarh Clinic- Heart & Diabetes Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "202132",
+    "phone_number": "+91 99977 17872",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "Azad market, infront of Malkhan Singh hospital, Rasal Ganj Rd, Sarai Hakeem, Aligarh, Uttar Pradesh 202001",
+    "area": "Sarai Hakeem, Rasal Ganj",
+    "latitude": 27.8897534,
+    "longitude": 78.07052709999999,
+    "place_id": "ChIJMfGr64qldDkR0W4a7aT1cgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfGr64qldDkR0W4a7aT1cgs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:45"
+  },
+  {
+    "business_name": "Maa Sheetla Hospital Madhauli Atrauli Aligarh",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202132",
+    "phone_number": "+91 97196 15555",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2797+X42, Atrauli, Uttar Pradesh 202280",
+    "area": "202132",
+    "latitude": 28.019488499999998,
+    "longitude": 78.2625291,
+    "place_id": "ChIJfyKhbwC3dDkRS2_NSuAPDZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyKhbwC3dDkRS2_NSuAPDZg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:45"
+  }
+]

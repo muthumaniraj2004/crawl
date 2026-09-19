@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.S HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202132",
+    "phone_number": "+91 97606 86895",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "phase 2, Sagar complex, Anupshahr - Aligarh Rd, near woodbine school, Manjur Garhi, Aligarh, Uttar Pradesh 202122",
+    "area": "Manjur Garhi",
+    "latitude": 27.9461187,
+    "longitude": 78.0856561,
+    "place_id": "ChIJpfElYwCldDkR-P0RpwhcVyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfElYwCldDkR-P0RpwhcVyk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:38"
+  },
+  {
+    "business_name": "OM HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202132",
+    "phone_number": "+91 96753 52904",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ozone city road Ozone City gate, Street No 2, Mali Nagla, Dhanipur, Aligarh, Uttar Pradesh 202002",
+    "area": "Mali Nagla, Dhanipur",
+    "latitude": 27.871306699999998,
+    "longitude": 78.1064579,
+    "place_id": "ChIJbUJmE1SjdDkRPD4GcZNazXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUJmE1SjdDkRPD4GcZNazXQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:38"
+  }
+]

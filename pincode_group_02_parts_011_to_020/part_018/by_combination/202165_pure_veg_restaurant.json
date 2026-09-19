@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "140pureVeg Gulshan Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, North Indian restaurant, Dhaba",
+    "pincode": "202165",
+    "phone_number": "+91 75006 00021",
+    "website": "https://140veggulshandhaba.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Kotwan, Nabipur, Uttar Pradesh 281403",
+    "area": "202165",
+    "latitude": 27.8472759,
+    "longitude": 77.4091503,
+    "place_id": "ChIJbbZHhRA7czkRDSniF8MykKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbZHhRA7czkRDSniF8MykKM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:10"
+  },
+  {
+    "business_name": "Bikano Family Restaurant / Bikanervala ( Magic Food Zone)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Indian restaurant, Family restaurant",
+    "pincode": "202165",
+    "phone_number": "+91 92581 21447",
+    "website": "https://www.magicfoodzone.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Toll, 35km Facility, Yamuna Expy, near Jewar, Jewar, Uttar Pradesh 203135",
+    "area": "202165",
+    "latitude": 28.1472059,
+    "longitude": 77.5733226,
+    "place_id": "ChIJi62pPni1DDkROaPl7D6IwW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi62pPni1DDkROaPl7D6IwW8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phantam Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Boot store",
+    "all_categories": "Boot store",
+    "pincode": "203131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "7V23+29J, Khurja, Uttar Pradesh 203131",
+    "area": "203131",
+    "latitude": 28.2500996,
+    "longitude": 77.8534033,
+    "place_id": "ChIJVXMGSTmpDDkRkUjG8Z5XiSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXMGSTmpDDkRkUjG8Z5XiSg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:23:19"
+  },
+  {
+    "business_name": "Chetan Footwear & Leather Socks",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "203131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dori Moholla, Khurja, Uttar Pradesh 203131",
+    "area": "Dori Moholla",
+    "latitude": 28.248291299999998,
+    "longitude": 77.8533468,
+    "place_id": "ChIJEwShufKpDDkR7pbH37FOaDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwShufKpDDkR7pbH37FOaDM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:23:20"
+  }
+]

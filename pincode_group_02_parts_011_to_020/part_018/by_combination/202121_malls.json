@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magneto The Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Event venue, Fast food restaurant, Food court, Game store, Guest house, Outlet mall, Pub, Restaurant, Visitor center",
+    "pincode": "202121",
+    "phone_number": "+91 99814 16736",
+    "website": "https://www.magnetothemall.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "NH 53, Great Eastern Rd, beside Signature Homes 2, Jivan Vihar, Labhandih, Raipur, Chhattisgarh 492001",
+    "area": "Jivan Vihar",
+    "latitude": 21.240816799999997,
+    "longitude": 81.6842606,
+    "place_id": "ChIJjU8JyTbdKDoRtGnBj5n-Ups",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjU8JyTbdKDoRtGnBj5n-Ups",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:23:44"
+  },
+  {
+    "business_name": "Ambuja City Centre",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Outlet mall",
+    "pincode": "202121",
+    "phone_number": "+91 77140 40202",
+    "website": "http://www.citycentremalls.in/contactus/addresses.aspx",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main, Vidhan Sabha Rd, Mowa, Raipur, Chhattisgarh 492014",
+    "area": "Mowa",
+    "latitude": 21.275629,
+    "longitude": 81.687617,
+    "place_id": "ChIJqShQRmDdKDoRofW4niZ4Edg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqShQRmDdKDoRofW4niZ4Edg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:23:44"
+  }
+]

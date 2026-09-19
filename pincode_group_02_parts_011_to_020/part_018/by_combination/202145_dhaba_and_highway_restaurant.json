@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAKE DA DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "202145",
+    "phone_number": "+91 81096 43441",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "24G7+QF, Dusekela, Chhattisgarh 496661",
+    "area": "202145",
+    "latitude": 22.0269375,
+    "longitude": 83.1136875,
+    "place_id": "ChIJacLhWgATJzoRQntCIgQXeCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacLhWgATJzoRQntCIgQXeCo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:02:13"
+  },
+  {
+    "business_name": "Shree Krishna family dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "202145",
+    "phone_number": "+91 73106 03421",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 79,
+    "address": "NH 19, Agra delhi highway, Jait, Uttar Pradesh 281504",
+    "area": "202145",
+    "latitude": 27.5723079,
+    "longitude": 77.617773,
+    "place_id": "ChIJH4bsEgBtczkRHjhL87EUP_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4bsEgBtczkRHjhL87EUP_4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:02:14"
+  }
+]

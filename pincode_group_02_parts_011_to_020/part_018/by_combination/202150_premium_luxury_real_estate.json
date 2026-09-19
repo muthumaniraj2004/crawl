@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property for sale",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "202150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R3VJ+W4G, Aligarh, Uttar Pradesh 202002",
+    "area": "202150",
+    "latitude": 27.8448106,
+    "longitude": 78.08034359999999,
+    "place_id": "ChIJgbqrGfCjdDkRf9fk5YwOIy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbqrGfCjdDkRf9fk5YwOIy8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:01"
+  },
+  {
+    "business_name": "Silver estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "202150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "W3RG+PMX, Manjur Garhi, Aligarh, Uttar Pradesh 202122",
+    "area": "Manjur Garhi",
+    "latitude": 27.941856599999998,
+    "longitude": 78.0767206,
+    "place_id": "ChIJ-wukb8CldDkR3NnnVGj6swk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wukb8CldDkR3NnnVGj6swk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:01"
+  }
+]

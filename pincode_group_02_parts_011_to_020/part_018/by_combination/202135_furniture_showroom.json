@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fouji Furniture & trunk house",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "202135",
+    "phone_number": "+91 94123 33304",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Tentigaon Bypass Rd, Khair, Uttar Pradesh 202138",
+    "area": "202135",
+    "latitude": 27.9399946,
+    "longitude": 77.840695,
+    "place_id": "ChIJBcQOwl1ZczkReYHXPeX4ue4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcQOwl1ZczkReYHXPeX4ue4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:47:16"
+  },
+  {
+    "business_name": "Shiv Furniture & Plaza",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "202135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "WRRR+7G6, near OBC Bank, Agrasen Market, Khair, Uttar Pradesh 202138",
+    "area": "202135",
+    "latitude": 27.940661199999997,
+    "longitude": 77.84125089999999,
+    "place_id": "ChIJqa7oq2VZczkRXPft1ah5f4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqa7oq2VZczkRXPft1ah5f4k",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:47:16"
+  }
+]

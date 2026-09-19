@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V H nursing home",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202127",
+    "phone_number": "+91 87918 56027",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kasimpur, Uttar Pradesh 202127",
+    "area": "202127",
+    "latitude": 28.0032167,
+    "longitude": 78.1361111,
+    "place_id": "ChIJd1VnMfWxdDkR6IVjZhLJM8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1VnMfWxdDkR6IVjZhLJM8I",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:03"
+  },
+  {
+    "business_name": "Jamshed Multispeciality Centre and Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "in front of Alpine Apartment, near Albarkaat school, Radio Colony, Aligarh, Uttar Pradesh 202122",
+    "area": "Radio Colony",
+    "latitude": 27.9423109,
+    "longitude": 78.0780331,
+    "place_id": "ChIJLarsyRKldDkRqr71TRgdx2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLarsyRKldDkRqr71TRgdx2w",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:06"
+  }
+]

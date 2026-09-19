@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAI MAA VAISHNO DHABA",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "202136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Aligarh, Uttar Pradesh 202002",
+    "area": "202136",
+    "latitude": 27.9443539,
+    "longitude": 78.0166752,
+    "place_id": "ChIJIeWcdQmmdDkRBtV4zjTSUIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeWcdQmmdDkRBtV4zjTSUIQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:17"
+  },
+  {
+    "business_name": "The Burger Company",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "202136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 224,
+    "address": "2XFF+GFQ, Aligarh, Ogarnagala Rajoo, Uttar Pradesh 202136",
+    "area": "202136",
+    "latitude": 28.023827599999997,
+    "longitude": 77.9737288,
+    "place_id": "ChIJh4XrNACpdDkReTZXDZRYisY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4XrNACpdDkReTZXDZRYisY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:19"
+  }
+]

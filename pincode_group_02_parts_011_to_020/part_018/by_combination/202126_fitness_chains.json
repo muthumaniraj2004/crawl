@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.R Sports & Pool Academy",
+    "search_category": "Fitness Chains",
+    "primary_category": "Swimming pool",
+    "all_categories": "Swimming pool, Cricket ground, Pickleball court",
+    "pincode": "202126",
+    "phone_number": "+91 70116 79673",
+    "website": "https://rrpoolacademy.com/",
+    "rating": 4.8,
+    "reviews_count": 54,
+    "address": "Ramghat Rd, opposite Hp gas filling station, near DPS school, Talanagri, Talashpur, Kithara, Aligarh, Uttar Pradesh 202002",
+    "area": "Talanagri, Talashpur",
+    "latitude": 27.9376961,
+    "longitude": 78.12967669999999,
+    "place_id": "ChIJ35gXt0G7dDkRARpzz4GTP-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35gXt0G7dDkRARpzz4GTP-o",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:24"
+  },
+  {
+    "business_name": "Aligarh Martial Arts Academy, Aligarh",
+    "search_category": "Fitness Chains",
+    "primary_category": "Martial arts school",
+    "all_categories": "Martial arts school",
+    "pincode": "202126",
+    "phone_number": "+91 98974 52729",
+    "website": "http://www.aligarhmartialarts.com/",
+    "rating": 4.8,
+    "reviews_count": 74,
+    "address": "Fatima Masjid, Badam Nagar Aligarh Bypass Rd, Gulistan Colony, Shibli Bagh, Jamalpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Gulistan Colony, Shibli Bagh, Jamalpur",
+    "latitude": 27.9270431,
+    "longitude": 78.0818084,
+    "place_id": "ChIJH5pOpaeldDkR4rU--w6fgXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5pOpaeldDkR4rU--w6fgXA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:24"
+  }
+]

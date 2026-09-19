@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aradhya Clinic",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "202132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Post, Nagla Jait, Nagla Padam, Uttar Pradesh 202132",
+    "area": "Post",
+    "latitude": 28.044115599999998,
+    "longitude": 77.80433169999999,
+    "place_id": "ChIJ9eamj7FTczkRI3QlNSog5lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eamj7FTczkRI3QlNSog5lk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:42:07"
+  },
+  {
+    "business_name": "Body Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "202132",
+    "phone_number": "N/A",
+    "website": "https://body.spa-center.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near police chowki, Taj Nagari Phase 1, R.K. Puram Phase-2, Agra, Dhandhupura, Uttar Pradesh 282006",
+    "area": "Taj Nagari Phase 1, R.K. Puram Phase-2",
+    "latitude": 27.1595172,
+    "longitude": 78.0535475,
+    "place_id": "ChIJpZ8CkF9xdDkRQRdpfg0LIPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZ8CkF9xdDkRQRdpfg0LIPQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:42:09"
+  }
+]

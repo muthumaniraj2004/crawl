@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shamsi Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "202133",
+    "phone_number": "+91 99972 64591",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shamsi Market, Eid Gah Rd, near Old Barafkhana, Delhi Gate, Usmanpura, Aligarh, Uttar Pradesh 202001",
+    "area": "Delhi Gate, Usmanpura",
+    "latitude": 27.882167799999998,
+    "longitude": 78.0586496,
+    "place_id": "ChIJ40zXAr-ldDkRwGbiFyoUxnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40zXAr-ldDkRwGbiFyoUxnU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:43:20"
+  },
+  {
+    "business_name": "Shiva Optical Center",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "202133",
+    "phone_number": "+91 97199 56042",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kasganj - Atrauli Marg, Purana Pepal, Dholna, Bhamon, Uttar Pradesh 200201",
+    "area": "Purana Pepal",
+    "latitude": 27.846088299999998,
+    "longitude": 78.51686839999999,
+    "place_id": "ChIJgfhEWAbddDkRWeCczQBkZCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfhEWAbddDkRWeCczQBkZCg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:43:22"
+  }
+]

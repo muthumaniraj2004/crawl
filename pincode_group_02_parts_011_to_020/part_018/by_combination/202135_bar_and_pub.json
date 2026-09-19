@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaudhary Automobile",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "202135",
+    "phone_number": "+91 84708 29832",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "गौमत, Uttar Pradesh 202135",
+    "area": "202135",
+    "latitude": 27.9616875,
+    "longitude": 77.7999375,
+    "place_id": "ChIJ4fQlBI1QczkRrOL7eDlMhHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fQlBI1QczkRrOL7eDlMhHU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:46:36"
+  },
+  {
+    "business_name": "बीयर शिवाला",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "202135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WQP4+H9P, Shivala Kalan, Shivala, Uttar Pradesh 202135",
+    "area": "Shivala Kalan",
+    "latitude": 27.9364693,
+    "longitude": 77.75594009999999,
+    "place_id": "ChIJMe9FP_NbczkRbGxlWUoyo1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMe9FP_NbczkRbGxlWUoyo1c",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:46:36"
+  }
+]

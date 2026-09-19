@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Farms & Resorts",
+    "search_category": "Resort",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "202165",
+    "phone_number": "+91 98087 28880",
+    "website": "http://www.saifarms.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4H65+32X, Tappal road, opposite kailash hospita, U P, Jewar, Uttar Pradesh 203135",
+    "area": "U P",
+    "latitude": 28.110239999999997,
+    "longitude": 77.55761199999999,
+    "place_id": "ChIJV2VA2KjKDDkRCQjN1zexL7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2VA2KjKDDkRCQjN1zexL7c",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:10:05"
+  },
+  {
+    "business_name": "Ratan Resort",
+    "search_category": "Resort",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "202165",
+    "phone_number": "N/A",
+    "website": "http://www.ravinderrana.wordpress.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "218, Mangroli Road, NEW BASTI, Jewar, Uttar Pradesh 203135",
+    "area": "NEW BASTI",
+    "latitude": 28.122654899999997,
+    "longitude": 77.56328789999999,
+    "place_id": "ChIJSSFKxFm1DDkRRo65PgvUfvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSFKxFm1DDkRRo65PgvUfvo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:10:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "202133",
+    "phone_number": "N/A",
+    "website": "http://www.kamalpathology.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagala Mandir (Main Market, Ghinauna, Uttar Pradesh 207124",
+    "area": "202133",
+    "latitude": 27.858850999999998,
+    "longitude": 78.5726265,
+    "place_id": "ChIJ3wQpXqThdDkRllYTpXsj6N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wQpXqThdDkRllYTpXsj6N0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:43:26"
+  },
+  {
+    "business_name": "MARVEL Pathology Lab pvt.ltd.",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "202133",
+    "phone_number": "+91 89231 41404",
+    "website": "http://www.marvelpathlab.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramghat Rd, Quarsi, Aligarh, Uttar Pradesh 202001",
+    "area": "Quarsi",
+    "latitude": 27.9035293,
+    "longitude": 78.1006245,
+    "place_id": "ChIJbybhPzeldDkRT6CJoOihcxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbybhPzeldDkRT6CJoOihcxY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:43:27"
+  }
+]

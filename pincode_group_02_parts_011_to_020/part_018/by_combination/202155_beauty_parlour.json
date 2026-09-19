@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANAND SUNIL",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Make-up artist, Hairdresser",
+    "pincode": "202155",
+    "phone_number": "+91 93680 72001",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 24,
+    "address": "ground floor, Abul Fazal Jalali, near water tank, Kishanpur, Janakpuri, Hem Chand Compound, Aligarh, Uttar Pradesh 202001",
+    "area": "Kishanpur, Janakpuri, Hem Chand Compound",
+    "latitude": 27.895190399999997,
+    "longitude": 78.0860075,
+    "place_id": "ChIJgS6D2HKldDkRMXbqSbWag6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgS6D2HKldDkRMXbqSbWag6k",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:08:10"
+  },
+  {
+    "business_name": "Rekha Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "202155",
+    "phone_number": "+91 84331 88970",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "House no.90, Jahangirpur, Uttar Pradesh 203141",
+    "area": "202155",
+    "latitude": 28.176955099999997,
+    "longitude": 77.7036914,
+    "place_id": "ChIJAQAAQEyyDDkRfObtYfcIGUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQEyyDDkRfObtYfcIGUQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:08:10"
+  }
+]

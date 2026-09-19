@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE WORKOUT ZONE GYM (Arun fitness centre)",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "202129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "W86C+7GC, Barla, Uttar Pradesh 202129",
+    "area": "202129",
+    "latitude": 27.9106851,
+    "longitude": 78.3212772,
+    "place_id": "ChIJh4zCKADHdDkRxlQkLrR6MjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4zCKADHdDkRxlQkLrR6MjE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:41"
+  },
+  {
+    "business_name": "Gautam fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "202129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W7RM+2W7, Alampur Rani, Uttar Pradesh 202129",
+    "area": "202129",
+    "latitude": 27.9400454,
+    "longitude": 78.284802,
+    "place_id": "ChIJSy0SewC5dDkR2_mPOzzR6iM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSy0SewC5dDkR2_mPOzzR6iM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:41"
+  }
+]

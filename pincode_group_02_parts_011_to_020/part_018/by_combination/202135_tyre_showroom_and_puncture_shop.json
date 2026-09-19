@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Tyre Service",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "202135",
+    "phone_number": "+91 96349 78158",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Palwal Road, Gomat Chauraha, Gomat, Uttar Pradesh 202135",
+    "area": "202135",
+    "latitude": 27.962892699999998,
+    "longitude": 77.79727729999999,
+    "place_id": "ChIJ-TQpJJBRczkREkTsGnK3hIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TQpJJBRczkREkTsGnK3hIA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:47:00"
+  },
+  {
+    "business_name": "Vipin kumar",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "202135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jatav churaya, bhudh vihar, Aligarh, Ahraula, Uttar Pradesh 202135",
+    "area": "bhudh vihar",
+    "latitude": 27.9278053,
+    "longitude": 77.77953699999999,
+    "place_id": "ChIJG7n3lo9bczkR5BcrOGV9FKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7n3lo9bczkR5BcrOGV9FKU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:47:00"
+  }
+]

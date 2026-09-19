@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMAN HAIR SALON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "202126",
+    "phone_number": "+91 78200 51563",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 02 DHORRA, Chaudhary chowk, Dhorra, Dhourra Mafi, Aligarh, Uttar Pradesh 202001",
+    "area": "Dhorra, Dhourra Mafi",
+    "latitude": 27.923413399999998,
+    "longitude": 78.0907648,
+    "place_id": "ChIJqTHfFACldDkRw27O2YjajPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTHfFACldDkRw27O2YjajPY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:49"
+  },
+  {
+    "business_name": "Matrix New Hair Style",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "202126",
+    "phone_number": "+91 87911 59160",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 104,
+    "address": "Alhumd Market Near Eidgaha Masjid, Anupshahr - Aligarh Road, Jamalpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Nagla, Jamalpur",
+    "latitude": 27.925624499999998,
+    "longitude": 78.0770241,
+    "place_id": "ChIJgSQrVxuldDkR_8zH3y-Qj6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSQrVxuldDkR_8zH3y-Qj6c",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:49"
+  }
+]

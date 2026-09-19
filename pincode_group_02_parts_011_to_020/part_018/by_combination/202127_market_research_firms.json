@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sigmax Marketing",
+    "search_category": "Market Research Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "202127",
+    "phone_number": "+91 96502 64368",
+    "website": "https://sigmaxmarketing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A-4, Medical Colony Rd, Medical Colony, Aligarh, Uttar Pradesh 202001",
+    "area": "Medical Colony",
+    "latitude": 27.922674899999997,
+    "longitude": 78.0808681,
+    "place_id": "ChIJRYiXyh2ldDkR5MazyQ850cE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYiXyh2ldDkR5MazyQ850cE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:34:19"
+  },
+  {
+    "business_name": "SEMAP RESEARCH INDIA PRIVATE LIMITED",
+    "search_category": "Market Research Firms",
+    "primary_category": "Market researcher",
+    "all_categories": "Market researcher",
+    "pincode": "202127",
+    "phone_number": "+91 88403 93618",
+    "website": "http://www.semapresearch.com/",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "First Floor, Sahara plaza, C-314, Patrakarpuram Crossing Rd, Vikas Khand 1, Vikas Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vikas Khand 1, Vikas Khand, Gomti Nagar",
+    "latitude": 26.852871,
+    "longitude": 80.9983402,
+    "place_id": "ChIJR7P8btnimzkRKmbsbqlnk8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7P8btnimzkRKmbsbqlnk8A",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:34:20"
+  }
+]

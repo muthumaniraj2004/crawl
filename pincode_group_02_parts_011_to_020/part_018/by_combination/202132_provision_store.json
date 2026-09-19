@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIV PROVISION STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "202132",
+    "phone_number": "+91 83848 81464",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "SHIV PROVISION STORE, G T ROAD, Aligarh, Uttar Pradesh 202132",
+    "area": "202132",
+    "latitude": 28.081743499999998,
+    "longitude": 77.8417484,
+    "place_id": "ChIJmTY1gehVczkRqIA11TgwawU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTY1gehVczkRqIA11TgwawU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:13"
+  },
+  {
+    "business_name": "Atul Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "202132",
+    "phone_number": "+91 97598 30529",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kaseru, Uttar Pradesh 202132",
+    "area": "202132",
+    "latitude": 28.1529004,
+    "longitude": 77.8308527,
+    "place_id": "ChIJZUUUuBKtDDkRZGrpPDqT-io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUUUuBKtDDkRZGrpPDqT-io",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muskan Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "202282",
+    "phone_number": "+91 81078 70627",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway Station, 1 Atrauli, Aligarh, Uttar Pradesh 202282",
+    "area": "202282",
+    "latitude": 28.093854099999998,
+    "longitude": 78.221228,
+    "place_id": "ChIJmb9YV221dDkRfyRRMKnoWhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmb9YV221dDkRfyRRMKnoWhQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:16:20"
+  },
+  {
+    "business_name": "Janta health care",
+    "search_category": "Clinics",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "202282",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill. Jamuna, Atrauli, Aligarh, Uttar Pradesh 202282",
+    "area": "202282",
+    "latitude": 28.097568499999998,
+    "longitude": 78.2340956,
+    "place_id": "ChIJZem--4q1dDkRZZpadpsbfgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZem--4q1dDkRZZpadpsbfgE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:16:20"
+  }
+]

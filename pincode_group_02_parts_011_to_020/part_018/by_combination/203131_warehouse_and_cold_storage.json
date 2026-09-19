@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annapurna cold Store general Mills",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "203131",
+    "phone_number": "+91 70788 14828",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "pahasu Road, Khurja, Uttar Pradesh 203129",
+    "area": "203131",
+    "latitude": 28.2490697,
+    "longitude": 77.8549042,
+    "place_id": "ChIJA-zFNl6pDDkR94ZH5t5H4XA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-zFNl6pDDkR94ZH5t5H4XA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:24:35"
+  },
+  {
+    "business_name": "Sharma Dairy",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "203131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Phashu road, in front of gulzar cold store, Khurja, Uttar Pradesh 203131",
+    "area": "Murari Nagar",
+    "latitude": 28.2456204,
+    "longitude": 77.86434849999999,
+    "place_id": "ChIJ774HRGupDDkRrvg5Mpxcw6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ774HRGupDDkRrvg5Mpxcw6E",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:24:35"
+  }
+]

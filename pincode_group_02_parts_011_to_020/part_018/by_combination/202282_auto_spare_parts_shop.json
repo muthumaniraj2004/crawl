@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaur Auto Center",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "202282",
+    "phone_number": "+91 98707 47797",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tyor, Uttar Pradesh 203397",
+    "area": "202282",
+    "latitude": 28.096451199999997,
+    "longitude": 78.1584834,
+    "place_id": "ChIJQ1QbXLKzdDkR4ytxN9ygQjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1QbXLKzdDkR4ytxN9ygQjw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:16:32"
+  },
+  {
+    "business_name": "Omveer Singh Automobile Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "202282",
+    "phone_number": "+91 97205 61819",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mujafara, Godha Rd, Aligarh, Uttar Pradesh 202127",
+    "area": "202282",
+    "latitude": 28.041098899999998,
+    "longitude": 78.1993066,
+    "place_id": "ChIJ2xxdRoKxdDkRZ4f5EEVWxSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xxdRoKxdDkRZ4f5EEVWxSg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:16:33"
+  }
+]

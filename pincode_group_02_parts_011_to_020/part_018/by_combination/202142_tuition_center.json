@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Maths",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "202142",
+    "phone_number": "+91 90452 96396",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Danadan Bagichi old chhara adda, Uttar Pradesh 202001",
+    "area": "New Etah Chungi, New Vishnupuri",
+    "latitude": 27.880191699999997,
+    "longitude": 78.08093079999999,
+    "place_id": "ChIJrQ_6y56ldDkRHtCA9jEmm8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQ_6y56ldDkRHtCA9jEmm8Y",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:59:49"
+  },
+  {
+    "business_name": "KP Thakur",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service, Coaching Center",
+    "pincode": "202142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill khempur, Post, Bheempur, Uttar Pradesh 202142",
+    "area": "202142",
+    "latitude": 28.0510386,
+    "longitude": 77.94273989999999,
+    "place_id": "ChIJn1EO9SmrdDkRqgXR8KJDX28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1EO9SmrdDkRqgXR8KJDX28",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:59:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Maternity Centre",
+    "pincode": "202121",
+    "phone_number": "+91 94121 73144",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 429,
+    "address": "Palika bazar, Aligarh Rd, Hathras, Uttar Pradesh 204101",
+    "area": "Nehru Colony",
+    "latitude": 27.5988951,
+    "longitude": 78.0503042,
+    "place_id": "ChIJ4Z99SzCbdDkRNc7BzSswLwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z99SzCbdDkRNc7BzSswLwA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:33"
+  },
+  {
+    "business_name": "Rainbow Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202121",
+    "phone_number": "N/A",
+    "website": "https://www.rainbowhospitals.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Rainbow Hospital, New Vishnupuri, Aligarh, Uttar Pradesh 202001",
+    "area": "New Vishnupuri",
+    "latitude": 27.885601899999997,
+    "longitude": 78.0808651,
+    "place_id": "ChIJ84YgmZCkdDkRNHDly-cZj8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84YgmZCkdDkRNHDly-cZj8o",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:35"
+  }
+]

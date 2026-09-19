@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Medical Store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "202281",
+    "phone_number": "+91 97582 20145",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Post- Bembirpur, 245, Tehsil- Atrauli, Nagla Harji, Uttar Pradesh 202281",
+    "area": "202281",
+    "latitude": 28.1215346,
+    "longitude": 78.3195094,
+    "place_id": "ChIJVdomuTnLdDkRklqSKymSrA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdomuTnLdDkRklqSKymSrA0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:14:38"
+  },
+  {
+    "business_name": "Laxmi pathology lab 🔬",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "202281",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "578H+46G, Govindpur Dibai, Jaraina, Uttar Pradesh 203393",
+    "area": "202281",
+    "latitude": 28.165311,
+    "longitude": 78.2780674,
+    "place_id": "ChIJBY6OQAC1dDkRnAMGQAs3uFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBY6OQAC1dDkRnAMGQAs3uFk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:14:40"
+  }
+]

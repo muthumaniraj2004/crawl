@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Raysab Palace",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "202137",
+    "phone_number": "+91 70534 31833",
+    "website": "http://raysab.petpooja.com/",
+    "rating": 4.7,
+    "reviews_count": 110,
+    "address": "Main road, Aligarh - Palwal Rd, near Nitin Motors And Petrol pump, Jattari, Uttar Pradesh 202137",
+    "area": "202137",
+    "latitude": 28.0152821,
+    "longitude": 77.6697726,
+    "place_id": "ChIJnWrPUwBPczkRb7OqTwtWMw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWrPUwBPczkRb7OqTwtWMw4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:50:08"
+  },
+  {
+    "business_name": "Pizza Fire Jattari",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "202137",
+    "phone_number": "+91 89585 90466",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 134,
+    "address": "Oposite, State Bank of India, Shri Banke Bihari Plaza, Main Rd, Jattari, Uttar Pradesh 202137",
+    "area": "202137",
+    "latitude": 28.022303899999997,
+    "longitude": 77.658163,
+    "place_id": "ChIJuZ1OAeFNczkRabxrsCpKHwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZ1OAeFNczkRabxrsCpKHwI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:50:09"
+  }
+]

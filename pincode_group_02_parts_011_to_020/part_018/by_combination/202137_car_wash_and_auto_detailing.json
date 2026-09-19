@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandit Ji Car Washing Centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "202137",
+    "phone_number": "+91 63989 69723",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aligarh - Palwal Rd, Khair Road, Khair, Uttar Pradesh 202137",
+    "area": "Khair Road",
+    "latitude": 28.0126435,
+    "longitude": 77.6743047,
+    "place_id": "ChIJTxyQojxPczkRr7qExkvAdu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxyQojxPczkRr7qExkvAdu0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:50:32"
+  },
+  {
+    "business_name": "CarHeroZ",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "202137",
+    "phone_number": "+91 83769 79797",
+    "website": "https://carheroz.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "STORE NO.3, next to WorldMark, Sector 65, Gurugram, Haryana 122102",
+    "area": "Sector 65",
+    "latitude": 28.396314999999998,
+    "longitude": 77.0708002,
+    "place_id": "ChIJh0NvKCx4cE0Rvt0uWJOwLjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0NvKCx4cE0Rvt0uWJOwLjc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:50:34"
+  }
+]

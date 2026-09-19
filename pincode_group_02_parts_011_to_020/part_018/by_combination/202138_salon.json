@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bharat Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "202138",
+    "phone_number": "+91 84454 13233",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Jattari Road Khair, near Dev Mandir, Aligarh, Uttar Pradesh 202138",
+    "area": "202138",
+    "latitude": 27.9421258,
+    "longitude": 77.8414329,
+    "place_id": "ChIJmcAF4rtZczkRdMFgE2lcLtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcAF4rtZczkRdMFgE2lcLtw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:52:36"
+  },
+  {
+    "business_name": "Ns4 Hair & Beauty Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Charter school, Hairdresser",
+    "pincode": "202138",
+    "phone_number": "+91 75795 53000",
+    "website": "http://ns4salon.com/",
+    "rating": 4.7,
+    "reviews_count": 122,
+    "address": "Main Market, opposite Nagar Palika Parishad, Khair, Uttar Pradesh 202138",
+    "area": "202138",
+    "latitude": 27.9405026,
+    "longitude": 77.8443824,
+    "place_id": "ChIJcZVCh99ZczkRE7g0UaLC5A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZVCh99ZczkRE7g0UaLC5A8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:52:36"
+  }
+]

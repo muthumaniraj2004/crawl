@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Stationery Mart",
+    "search_category": "Document Writer and Stamp Vendor",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "202137",
+    "phone_number": "+91 11 4039 6473",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "G-16b, Main Rd, Krishna Market, Block G, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Krishna Market, Block G, Kalkaji",
+    "latitude": 28.540714299999998,
+    "longitude": 77.2572417,
+    "place_id": "ChIJI8Z22dvjDDkRxdIYlHdrRDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8Z22dvjDDkRxdIYlHdrRDY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:51:14"
+  },
+  {
+    "business_name": "P Raveendranathan Document Writer",
+    "search_category": "Document Writer and Stamp Vendor",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "202137",
+    "phone_number": "+91 94476 21434",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kenathuparambu, Kunathurmedu, Palakkad, Keralam 678001",
+    "area": "Kenathuparambu, Kunathurmedu",
+    "latitude": 10.7615488,
+    "longitude": 76.6565224,
+    "place_id": "ChIJdQs_OOxtqDsRRN3wIyxNrZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQs_OOxtqDsRRN3wIyxNrZw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:51:15"
+  }
+]

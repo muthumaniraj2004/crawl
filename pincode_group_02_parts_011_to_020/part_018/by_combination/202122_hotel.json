@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O Mohini Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "202122",
+    "phone_number": "N/A",
+    "website": "https://www.oyorooms.com/256050/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Sarmastpur Kota, Plot No. 43, Barauli Rd, nearby Pohinamod and Yadav, Bhatta, Amrauli, Aligarh, Uttar Pradesh 202122",
+    "area": "Bhatta",
+    "latitude": 28.0099034,
+    "longitude": 78.0532276,
+    "place_id": "ChIJHbzwRp-vdDkRZPT9B43Qqv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbzwRp-vdDkRZPT9B43Qqv8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:24:54"
+  },
+  {
+    "business_name": "Antra Hospitality Services",
+    "search_category": "Hotel",
+    "primary_category": "Service Apartment",
+    "all_categories": "Service Apartment, Condominium rental agency, Extended stay hotel, Guest house, Hotel, Serviced accommodation",
+    "pincode": "202122",
+    "phone_number": "+91 97129 49797",
+    "website": "https://antrahospitality.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Iscon Circle, 215, Devarc Complex, Sarkhej - Gandhinagar Hwy, nr. Wide Angle Cinema, Ahmedabad, Gujarat 380015",
+    "area": "Ramdev Nagar",
+    "latitude": 23.025978199999997,
+    "longitude": 72.5079434,
+    "place_id": "ChIJNaxsCE2bXjkR1SLuj1F1rMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaxsCE2bXjkR1SLuj1F1rMg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:24:57"
+  }
+]

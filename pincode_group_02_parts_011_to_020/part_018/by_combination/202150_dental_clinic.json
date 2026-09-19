@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "202150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dhanipur Mandi nikasi gate no 2 gali ETA by pass, Aligarh, Uttar Pradesh 202002",
+    "area": "Mali Nagla, Dhanipur",
+    "latitude": 27.871723099999997,
+    "longitude": 78.1055229,
+    "place_id": "ChIJbdOoklOjdDkRozMUphTNfgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdOoklOjdDkRozMUphTNfgI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:06:00"
+  },
+  {
+    "business_name": "PEARL DENTAL CLINIC",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dental implants periodontist, Oral and maxillofacial surgeon, Orthodontist, Periodontist",
+    "pincode": "202150",
+    "phone_number": "+91 74172 11511",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "123LIG Avas Vikas Colony Sasni Gate, Aligarh, Uttar Pradesh 202001",
+    "area": "Avas Vikas Colony, ADA Bank Colony",
+    "latitude": 27.869221,
+    "longitude": 78.072194,
+    "place_id": "ChIJneA-OHyjdDkRcQJGpwFVQUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneA-OHyjdDkRcQJGpwFVQUg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:06:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Briefly.in",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "202139",
+    "phone_number": "+91 94560 68433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2 Floor, NH 509, In Front Of JML Complex Shree Naveen Complex, Hathras, Uttar Pradesh 204216",
+    "area": "202139",
+    "latitude": 27.6975505,
+    "longitude": 78.07666259999999,
+    "place_id": "ChIJ2VCejU6ZdDkRFV9I9fv3wd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VCejU6ZdDkRFV9I9fv3wd0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:54:38"
+  },
+  {
+    "business_name": "Anshul Dev Verma",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "202139",
+    "phone_number": "+91 82997 37622",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Agra Highway, Aligarh, Uttar Pradesh 202150",
+    "area": "202139",
+    "latitude": 27.773066,
+    "longitude": 78.0832362,
+    "place_id": "ChIJmXEPt5CZdDkRd64lhUnUyJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXEPt5CZdDkRd64lhUnUyJs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:54:38"
+  }
+]

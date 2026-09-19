@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salman hair saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "202134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WCF3+RM9, Chharra, Chharra Rafatpur, Uttar Pradesh 202130",
+    "area": "Chharra",
+    "latitude": 27.9245524,
+    "longitude": 78.40420739999999,
+    "place_id": "ChIJtwtSDabFdDkRTvCLa1VJsjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwtSDabFdDkRTvCLa1VJsjY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:45:34"
+  },
+  {
+    "business_name": "Anuj Kumar Anuj Kumar",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "202134",
+    "phone_number": "+91 63977 46725",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kasganj - Atrauli Marg, near by Gramin Bank, Chharra, Malsai, Uttar Pradesh 202134",
+    "area": "Chharra",
+    "latitude": 27.8573082,
+    "longitude": 78.4863319,
+    "place_id": "ChIJv0IEU2XddDkRB_74KQvb6pQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0IEU2XddDkRB_74KQvb6pQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:45:34"
+  }
+]

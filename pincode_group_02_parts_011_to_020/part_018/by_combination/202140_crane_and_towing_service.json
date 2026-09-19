@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Express Service Bay",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto repair shop, Car wash",
+    "pincode": "202140",
+    "phone_number": "+91 73401 97143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Plot No 4, Ward No 29, New Sanganer Road, Gandhi Vihar, Rajat Path, Manyawas, Rd, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Manyawas, Rd, Mansarovar",
+    "latitude": 26.8581476,
+    "longitude": 75.73610959999999,
+    "place_id": "ChIJge4RYgC1bTkRGXGDSNUwmYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJge4RYgC1bTkRGXGDSNUwmYY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:55:55"
+  },
+  {
+    "business_name": "Raju Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "202140",
+    "phone_number": "+91 98297 06559",
+    "website": "https://www.rajucraneservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/237, Sector 2, Sector-1, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Sector-1, Vidyadhar Nagar",
+    "latitude": 26.9519624,
+    "longitude": 75.7748185,
+    "place_id": "ChIJi_XSrC6zbTkR0o4ebMwDeiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_XSrC6zbTkR0o4ebMwDeiE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:55:56"
+  }
+]

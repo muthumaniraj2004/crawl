@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandigarh Maid Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "202131",
+    "phone_number": "+91 92570 22648",
+    "website": "https://maidserviceschandigarh.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "First Floor, Local Bus Stand, SCF 13-14, near Bombay Collection, 19A, Manimajra, Chandigarh, 160019",
+    "area": "19A, Manimajra",
+    "latitude": 30.731356299999998,
+    "longitude": 76.79168349999999,
+    "place_id": "ChIJ3SFkqL7tDzkRUcwCtcm2Fbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SFkqL7tDzkRUcwCtcm2Fbk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:40:53"
+  },
+  {
+    "business_name": "InstaMaids",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Service establishment, Window cleaning service",
+    "pincode": "202131",
+    "phone_number": "N/A",
+    "website": "http://www.instamaids.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "InstaMaids, 202131, India",
+    "area": "202131",
+    "latitude": 37.3044596,
+    "longitude": -121.93684259999999,
+    "place_id": "ChIJH3-217PSj4ARJtEuPGnFm5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3-217PSj4ARJtEuPGnFm5o",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:40:54"
+  }
+]

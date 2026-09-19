@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHI CITY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202129",
+    "phone_number": "+91 73515 11431",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aligarh Rd, near Sarkari Hospital, Chharra Rafatpur, Uttar Pradesh 202130",
+    "area": "202129",
+    "latitude": 27.921911599999998,
+    "longitude": 78.3873765,
+    "place_id": "ChIJX6z-tRzFdDkRzbcECeb9Hh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6z-tRzFdDkRzbcECeb9Hh0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:34"
+  },
+  {
+    "business_name": "S S Memorial Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202129",
+    "phone_number": "N/A",
+    "website": "https://ssmemorialhospital.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Qurasi Bye Pass Road Hamdard Nagar (D, Mod, Maheshpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Maheshpur",
+    "latitude": 27.936165799999998,
+    "longitude": 78.0849518,
+    "place_id": "ChIJFzsXPXKldDkR3ufFXR1u51o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzsXPXKldDkR3ufFXR1u51o",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:35"
+  }
+]

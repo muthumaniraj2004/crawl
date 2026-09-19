@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "202155",
+    "phone_number": "+91 97194 77773",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 36,
+    "address": "Rampur Rd, near Purana Roadways, Gandhi Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Gandhi Nagar",
+    "latitude": 28.826352099999998,
+    "longitude": 78.7730402,
+    "place_id": "ChIJO8UIren7CjkR9KBXlrU4clU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8UIren7CjkR9KBXlrU4clU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:57"
+  },
+  {
+    "business_name": "Rao Travels Head Office",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Corporate office",
+    "pincode": "202155",
+    "phone_number": "+91 11 4613 1313",
+    "website": "http://www.raotravels.com/",
+    "rating": 3.1,
+    "reviews_count": 409,
+    "address": "Vasant Enclave, Market, 17, Rao Tularam Marg, Block D, Block C, Vasant Vihar, New Delhi, Delhi 110057",
+    "area": "Block D, Block C, Vasant Vihar",
+    "latitude": 28.5722389,
+    "longitude": 77.1615447,
+    "place_id": "ChIJqwkRIAgdDTkRgHF1QVOOQKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwkRIAgdDTkRgHF1QVOOQKk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:58"
+  }
+]

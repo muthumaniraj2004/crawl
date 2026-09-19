@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "202128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Varun Hospital, New Vishnupuri, Aligarh, Uttar Pradesh 202001",
+    "area": "New Vishnupuri",
+    "latitude": 27.8838908,
+    "longitude": 78.08182649999999,
+    "place_id": "ChIJmU7pQjildDkRqH7SHAFedlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmU7pQjildDkRqH7SHAFedlU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:34:47"
+  },
+  {
+    "business_name": "Shivam Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Beauty product supplier, Cosmetics store, Health and beauty shop, Herbal medicine store",
+    "pincode": "202128",
+    "phone_number": "+91 91379 99799",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 171,
+    "address": "Lakshmiwadi, Bhakti Nagar, Rajkot, Gujarat 360002",
+    "area": "Lakshmiwadi, Bhakti Nagar",
+    "latitude": 22.2801559,
+    "longitude": 70.8004361,
+    "place_id": "ChIJzf4tq3LKWTkRvQKRhXO1uYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzf4tq3LKWTkRvQKRhXO1uYU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:34:47"
+  }
+]

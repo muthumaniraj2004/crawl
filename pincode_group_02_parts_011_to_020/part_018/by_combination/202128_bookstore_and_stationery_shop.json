@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Dogears Bookshop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "202128",
+    "phone_number": "+91 99229 74479",
+    "website": "https://www.thedogearsbookshop.com/",
+    "rating": 4.6,
+    "reviews_count": 367,
+    "address": "Shop No. SH-1, Adolfo Mansion, Bernardo da Costa Road, near Dr Menezes Nursing Home, beside Asian Paints Store, Margao, Goa 403601",
+    "area": "Nehrunagar",
+    "latitude": 15.280021,
+    "longitude": 73.9582672,
+    "place_id": "ChIJ1UuCaeezvzsR0l5HQsWseqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UuCaeezvzsR0l5HQsWseqE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:38"
+  },
+  {
+    "business_name": "Golden Heart Emporium Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Public library",
+    "pincode": "202128",
+    "phone_number": "+91 832 273 2450",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 51,
+    "address": "Abade Faria Rd, behind Post Office, Pajifond, Margao, Goa 403601",
+    "area": "Pajifond",
+    "latitude": 15.2756473,
+    "longitude": 73.9575005,
+    "place_id": "ChIJp6hDwemzvzsRyVzeSu0cyzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6hDwemzvzsRyVzeSu0cyzU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:38"
+  }
+]

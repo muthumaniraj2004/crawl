@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAA RENTAL LLP",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Equipment rental agency",
+    "all_categories": "Equipment rental agency, Audiovisual equipment rental service, Electronics hire shop, Computer Rental Agency, Event management company, Office equipment rental service, Tool rental service, Video game rental store",
+    "pincode": "202130",
+    "phone_number": "+91 97117 08090",
+    "website": "https://indianrenters.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Unit No 06, Jumbo Industrial Estate, Dr Jha Marg, near Max House, Bahapur, Okhla Phase III, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Bahapur, Okhla Phase III, Okhla Industrial Estate",
+    "latitude": 28.5581435,
+    "longitude": 77.26578219999999,
+    "place_id": "ChIJ5wrji8jjDDkRgCz_ZUhuZbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wrji8jjDDkRgCz_ZUhuZbw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:38:47"
+  },
+  {
+    "business_name": "Raj Sound",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service",
+    "pincode": "202130",
+    "phone_number": "N/A",
+    "website": "http://rajsounds.in.net/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Aligarh Bypass, Kunwar Nagar, Aligarh, Uttar Pradesh 202002",
+    "area": "Kunwar Nagar",
+    "latitude": 27.8667108,
+    "longitude": 78.09855019999999,
+    "place_id": "ChIJrdVH8MOjdDkRYW1rWATyDAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdVH8MOjdDkRYW1rWATyDAs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:38:47"
+  }
+]

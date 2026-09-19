@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "202142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W36Q+4RH, S.S Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "S.S Nagar",
+    "latitude": 27.9103094,
+    "longitude": 78.0896137,
+    "place_id": "ChIJnRaF8CuldDkRzLdItUTf5U4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRaF8CuldDkRzLdItUTf5U4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:50"
+  },
+  {
+    "business_name": "OYO 814100 Shahid Bhagat Singh Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "202142",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/213674/?utm_source=Google&utm_medium=GMB",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 34, Daurau Chandpur, Uttar Pradesh 202143",
+    "area": "202142",
+    "latitude": 28.068634099999997,
+    "longitude": 77.9393861,
+    "place_id": "ChIJW1ryU1irdDkR9VM5ZRjg80M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1ryU1irdDkR9VM5ZRjg80M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:52"
+  }
+]

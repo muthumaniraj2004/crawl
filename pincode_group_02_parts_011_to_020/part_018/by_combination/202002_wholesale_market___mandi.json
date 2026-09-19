@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju and sons",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "202002",
+    "phone_number": "+91 63961 54287",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sabzi mandi, Hameed Miyan Chote Miyan, Dhanipur, Aligarh, Uttar Pradesh 202002",
+    "area": "Vishwanath Puram, Dhanipur",
+    "latitude": 27.873655399999997,
+    "longitude": 78.1136794,
+    "place_id": "ChIJI6IHSEy9dDkRTaIFrw6jVyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6IHSEy9dDkRTaIFrw6jVyw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:05"
+  },
+  {
+    "business_name": "Prem chand aadti",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "202002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "10, Dhanipur, Aligarh, Uttar Pradesh 202002",
+    "area": "Dhanipur",
+    "latitude": 27.8735559,
+    "longitude": 78.107283,
+    "place_id": "ChIJN8CkwBWjdDkRGyq6-dRYr3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8CkwBWjdDkRGyq6-dRYr3g",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:06"
+  }
+]

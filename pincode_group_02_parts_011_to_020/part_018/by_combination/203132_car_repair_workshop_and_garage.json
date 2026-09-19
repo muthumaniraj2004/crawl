@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varun Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "203132",
+    "phone_number": "+91 90129 32582",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, Jewer Road, Bulandshahr, Kakod, Uttar Pradesh 203203",
+    "area": "203132",
+    "latitude": 28.2932915,
+    "longitude": 77.70359239999999,
+    "place_id": "ChIJY8KJ6S-xDDkRWkY0fcG2EsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8KJ6S-xDDkRWkY0fcG2EsI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:25:22"
+  },
+  {
+    "business_name": "Cosmetic Auto Repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Service establishment",
+    "pincode": "203132",
+    "phone_number": "07825 881553",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cosmetic Auto Repair, 203132, India",
+    "area": "203132",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJ68fQ8diVeUgRqIlgxuK_nnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68fQ8diVeUgRqIlgxuK_nnw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:25:23"
+  }
+]

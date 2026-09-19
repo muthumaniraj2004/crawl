@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "202126",
+    "phone_number": "+91 88592 83336",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Anupshahr - Aligarh Rd, Chhatari, Teyor Bujurag, Uttar Pradesh 203397",
+    "area": "202126",
+    "latitude": 28.0923116,
+    "longitude": 78.1559338,
+    "place_id": "ChIJ-z2w2wSzdDkRme5oeCazubo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-z2w2wSzdDkRme5oeCazubo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:59"
+  },
+  {
+    "business_name": "GENAS HOTELS ALIGARH",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "202126",
+    "phone_number": "+91 81711 56655",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Village Pala Sallu,BPCL PUMP(Jadon Fuel Point P.O.Kohara, N.H.-91, GT Rd, Rustampur, Tehsil, Gabhana, Uttar Pradesh 202136",
+    "area": "Rustampur, Tehsil",
+    "latitude": 27.996242199999998,
+    "longitude": 77.986015,
+    "place_id": "ChIJY1Kqi3qldDkROJJOzP5IBow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1Kqi3qldDkROJJOzP5IBow",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:59"
+  }
+]

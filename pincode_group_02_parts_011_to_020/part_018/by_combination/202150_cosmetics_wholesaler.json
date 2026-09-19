@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M D Traders",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "202150",
+    "phone_number": "+91 172 272 5628",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1st Floor, Sco 1068-69, Sector 22B, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.7330568,
+    "longitude": 76.7784361,
+    "place_id": "ChIJVVVVVaTtDzkRQTHNOcAWmkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVaTtDzkRQTHNOcAWmkk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:06:31"
+  },
+  {
+    "business_name": "Manish Traders",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "202150",
+    "phone_number": "+91 97956 24014",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "cheatganj 1st Floor, beside Oriental Insurance Com, near Bharat Gas Agencies, Hathua Market, Near Arya Mahila College, Ramakanth Nagar, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Hathua Market, Near Arya Mahila College, Ramakanth Nagar, Chetganj",
+    "latitude": 25.3214643,
+    "longitude": 82.9985995,
+    "place_id": "ChIJIwac3RcvjjkRwWjlW1UeoFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwac3RcvjjkRwWjlW1UeoFo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:06:31"
+  }
+]

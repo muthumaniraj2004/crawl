@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Revive Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Day spa, Spa",
+    "pincode": "203129",
+    "phone_number": "+91 73036 79398",
+    "website": "https://revivespa61noida.blogspot.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.218, Ground Floor, Shopprix Mall, Block C, Sector 61, Noida, Uttar Pradesh 201307",
+    "area": "Block C, Sector 61",
+    "latitude": 28.5972032,
+    "longitude": 77.3648448,
+    "place_id": "ChIJWRpzu03lDDkRtqUcBFKqlWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRpzu03lDDkRtqUcBFKqlWw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:22:06"
+  },
+  {
+    "business_name": "SWAMI MEDICAL STORE",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "203129",
+    "phone_number": "+91 97615 83759",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raipur Raipur, Uttar Pradesh 203129",
+    "area": "203129",
+    "latitude": 28.2291262,
+    "longitude": 77.9595879,
+    "place_id": "ChIJN62qqtlVCzkRAAAAcOnws1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN62qqtlVCzkRAAAAcOnws1M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:22:06"
+  }
+]

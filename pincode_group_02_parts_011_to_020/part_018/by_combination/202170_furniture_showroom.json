@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW AGRAWAL FURNITURE HOUSE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "202170",
+    "phone_number": "+91 97589 03426",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vijaygarh, Uttar Pradesh 202170",
+    "area": "202170",
+    "latitude": 27.7176987,
+    "longitude": 78.22536199999999,
+    "place_id": "ChIJ2f4fsWyUdDkR-rTXqcbXPEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2f4fsWyUdDkR-rTXqcbXPEc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:11:38"
+  },
+  {
+    "business_name": "Shri Ram Khad Bhandar",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "202170",
+    "phone_number": "+91 90272 66071",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Vijaygarh, Vijaigarh Dehat, Uttar Pradesh 202170",
+    "area": "202170",
+    "latitude": 27.7289304,
+    "longitude": 78.2285591,
+    "place_id": "ChIJT23GM8GVdDkRvmaizyVyjLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT23GM8GVdDkRvmaizyVyjLQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:11:38"
+  }
+]

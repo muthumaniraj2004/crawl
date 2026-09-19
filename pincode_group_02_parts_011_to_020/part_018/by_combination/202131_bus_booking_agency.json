@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bus Stop",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "202131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "38XW+4M2, Ramghat Rd, Jirauli Dhoom Singh, Uttar Pradesh 202281",
+    "area": "202131",
+    "latitude": 28.097768,
+    "longitude": 78.3466481,
+    "place_id": "ChIJZT-42s7LdDkRFfZebcrbqpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZT-42s7LdDkRFfZebcrbqpA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:40:09"
+  },
+  {
+    "business_name": "HARSHIKA TOURS AND TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency",
+    "pincode": "202131",
+    "phone_number": "+91 95355 12008",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 609,
+    "address": "Doddakannelli - Kaadubeesanahalli Rd, Adarsh Palm Retreat Villas, Bellandur, Bengaluru, Karnataka 560103",
+    "area": "Adarsh Palm Retreat Villas, Bellandur",
+    "latitude": 12.924858599999999,
+    "longitude": 77.6947291,
+    "place_id": "ChIJ0dLhfSsTrjsRqTOEJhaOfHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dLhfSsTrjsRqTOEJhaOfHA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:40:09"
+  }
+]

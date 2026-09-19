@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Discovery Leathers Pvt. Ltd.",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Leather Products Manufacturer",
+    "pincode": "203002",
+    "phone_number": "+91 98912 48949",
+    "website": "https://www.discoveryleather.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "56, IDC, Industrial Development Area, Sector 16, Gurugram, Haryana 122007",
+    "area": "Industrial Development Area, Sector 16",
+    "latitude": 28.4693279,
+    "longitude": 77.05389,
+    "place_id": "ChIJqSvcmawZDTkRZWIAML_nkvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSvcmawZDTkRZWIAML_nkvg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:19:47"
+  },
+  {
+    "business_name": "LEATHER GOODS REPAIR",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather repair service",
+    "all_categories": "Leather repair service",
+    "pincode": "203002",
+    "phone_number": "+91 98999 56429",
+    "website": "http://leathergoodsrepair.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "596 2nd Floor, Mohan Lal A, near Pream Prakash Asharam, Gopi Colony, Old Faridabad, Faridabad, Haryana 121002",
+    "area": "Gopi Colony, Old Faridabad",
+    "latitude": 28.4210928,
+    "longitude": 77.31592959999999,
+    "place_id": "ChIJq6qqGrzdDDkRLlsUj-AC8eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqGrzdDDkRLlsUj-AC8eQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:19:50"
+  }
+]

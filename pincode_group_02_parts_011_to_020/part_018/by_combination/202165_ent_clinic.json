@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENT Specialist",
+    "search_category": "ENT Clinic",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist",
+    "pincode": "202165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4HF6+PH8, Jewar, Uttar Pradesh 203135",
+    "area": "202165",
+    "latitude": 28.1243478,
+    "longitude": 77.56151179999999,
+    "place_id": "ChIJC5ayVQDLDDkRZHpoJAJ1jFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5ayVQDLDDkRZHpoJAJ1jFk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:33"
+  },
+  {
+    "business_name": "Kailash Hospital, Jewar",
+    "search_category": "ENT Clinic",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital, Hospital, Private hospital",
+    "pincode": "202165",
+    "phone_number": "+91 70602 55555",
+    "website": "https://www.kailashhealthcare.com/Kailash-Hospital-Jewar?utm_source=google&utm_medium=gmb&utm_campaign=kailash-hospital-jewar",
+    "rating": 4.8,
+    "reviews_count": 1405,
+    "address": "Plot No:1727, Tappal Road, Jewar Bangar, Jewar, Uttar Pradesh 203135",
+    "area": "202165",
+    "latitude": 28.1115249,
+    "longitude": 77.5564871,
+    "place_id": "ChIJG2hNS6nKDDkR1KP66yFRloM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2hNS6nKDDkR1KP66yFRloM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:33"
+  }
+]

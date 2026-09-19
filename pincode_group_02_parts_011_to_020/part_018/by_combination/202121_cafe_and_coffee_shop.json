@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RTS Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Movie theater",
+    "pincode": "202121",
+    "phone_number": "+91 82181 40175",
+    "website": "https://www.instagram.com/rtscafealigarh",
+    "rating": 4,
+    "reviews_count": 191,
+    "address": "2/469, Ramghat Rd, near Zudio Mall, Surmarg, New Vishnupuri, Aligarh, Uttar Pradesh 202001",
+    "area": "Surmarg, New Vishnupuri",
+    "latitude": 27.8871462,
+    "longitude": 78.0798725,
+    "place_id": "ChIJvYUWZvildDkRjn2Iu2PiIvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYUWZvildDkRjn2Iu2PiIvg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:20"
+  },
+  {
+    "business_name": "Hungry Bites (Cafe And Restaurant)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "202121",
+    "phone_number": "+91 90272 01767",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "First Floor, Bharat Petrol Pump, in-front of Indian, near Khereshwar Mandir Chauraha, Laxmi Colony, Delhi Gate, Aligarh, Uttar Pradesh 202001",
+    "area": "Laxmi Colony, Delhi Gate",
+    "latitude": 27.8964541,
+    "longitude": 78.0390038,
+    "place_id": "ChIJr6oXRRGldDkR-zMnughAKsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6oXRRGldDkR-zMnughAKsk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health care clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "202126",
+    "phone_number": "+91 87568 37466",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24P4+QX7, Madafarpur, Uttar Pradesh 230401",
+    "area": "202126",
+    "latitude": 26.0369003,
+    "longitude": 82.10742929999999,
+    "place_id": "ChIJNwDKTACFmjkRnkYAj-ji7xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwDKTACFmjkRnkYAj-ji7xk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:25"
+  },
+  {
+    "business_name": "Hospital Store",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies, Dental laboratory, Laboratory equipment supplier, Medical Equipment Manufacturer, Medical equipment supplier, Mobility equipment supplier, Oxygen equipment supplier, Surgical supply store, Wheelchair store",
+    "pincode": "202126",
+    "phone_number": "+91 98715 08509",
+    "website": "http://www.hospitalstore.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Office 203 , Building No. 49, Hasanpur, I.P.Extension, Patparganj, Delhi, 110092",
+    "area": "Hasanpur, I.P.Extension, Patparganj",
+    "latitude": 28.6356456,
+    "longitude": 77.3108963,
+    "place_id": "ChIJlYSkpF_7DDkRyvgx_VvF5a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYSkpF_7DDkRyvgx_VvF5a8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:26"
+  }
+]

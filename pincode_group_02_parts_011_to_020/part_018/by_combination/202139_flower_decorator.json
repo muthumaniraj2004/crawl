@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR.SHAUKAT ALI",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "202139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V3RC+PPX, Rasal Ganj Rd, Rasal Ganj, Aligarh, Uttar Pradesh 202001",
+    "area": "Rasal Ganj",
+    "latitude": 27.8918513,
+    "longitude": 78.071849,
+    "place_id": "ChIJURJZbIykdDkR2AkTrbFkbvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURJZbIykdDkR2AkTrbFkbvo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:54:27"
+  },
+  {
+    "business_name": "Flower N More",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "202139",
+    "phone_number": "+91 70420 05408",
+    "website": "http://www.flowernmore.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 3, Plot No 88, Chander Lok, Pitampura, Delhi, 110034",
+    "area": "Chander Lok, Pitampura",
+    "latitude": 28.6886582,
+    "longitude": 77.1356004,
+    "place_id": "ChIJf2WvricDDTkRmfoQNs4ZUaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2WvricDDTkRmfoQNs4ZUaw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:54:27"
+  }
+]

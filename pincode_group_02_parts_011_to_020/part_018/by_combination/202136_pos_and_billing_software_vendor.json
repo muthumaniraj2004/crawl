@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Online Office POS",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "202136",
+    "phone_number": "0335 5411500",
+    "website": "https://onlineoffice.live/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Online Office POS, 202136, India",
+    "area": "202136",
+    "latitude": 18.2533755,
+    "longitude": -19.4984273,
+    "place_id": "ChIJ_bMHJ-6V3zgRKkSWk4a5ctw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bMHJ-6V3zgRKkSWk4a5ctw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:49:30"
+  },
+  {
+    "business_name": "iServeU Technology Pvt Ltd",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "202136",
+    "phone_number": "+91 80930 12720",
+    "website": "https://iserveu.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9th Floor, Dextrus Peninsula Corporate Park, 902-903A, Lower Parel West, Lower Parel, Mumbai, Maharashtra 400013",
+    "area": "Lower Parel West, Lower Parel",
+    "latitude": 18.9987382,
+    "longitude": 72.8258882,
+    "place_id": "ChIJJSqYEjLP5zsRwLJt_0A4kuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSqYEjLP5zsRwLJt_0A4kuE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:49:30"
+  }
+]

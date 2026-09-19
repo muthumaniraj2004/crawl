@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VPS Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "202123",
+    "phone_number": "+91 75054 00589",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anganlal dharamsala, Khair - Aligarh Rd, Khair, Uttar Pradesh 202138",
+    "area": "202123",
+    "latitude": 27.9321752,
+    "longitude": 77.8840458,
+    "place_id": "ChIJ9Wxanx9ZczkRyRBq0yHSIZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Wxanx9ZczkRyRBq0yHSIZs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:25:38"
+  },
+  {
+    "business_name": "Braj Bhoomi Ice And Cold Storage Kuagaon",
+    "search_category": "Departmental Store",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "202123",
+    "phone_number": "+91 80579 03637",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "QW49+HC2, Aligarh, Uttar Pradesh 202124",
+    "area": "202123",
+    "latitude": 27.7563909,
+    "longitude": 77.91851419999999,
+    "place_id": "ChIJhRWGOQVgczkRxsYosLL_RBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRWGOQVgczkRxsYosLL_RBk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:25:40"
+  }
+]

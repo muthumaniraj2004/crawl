@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Gautam skin clinic( MD dermatologist)",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Pediatric dermatologist, Dermatologist",
+    "pincode": "203135",
+    "phone_number": "+91 87500 31995",
+    "website": "https://drgautamskinclinic.wordpress.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.6, Shri Ram Complex, Samaypur - Libaspur Rd, near Jindal Pansari, Badli, Market, Delhi, 110042",
+    "area": "Badli, Market",
+    "latitude": 28.7456233,
+    "longitude": 77.14446219999999,
+    "place_id": "ChIJLe_d_x8BDTkRwDXlyOqtKjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLe_d_x8BDTkRwDXlyOqtKjA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:27:03"
+  },
+  {
+    "business_name": "Dr Sidharth Tandon Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "203135",
+    "phone_number": "+91 80765 58183",
+    "website": "https://drsidharthtandon.com/",
+    "rating": 4.9,
+    "reviews_count": 343,
+    "address": "4 th floor, Orbit plaza, Shop No, 421 A, Crossings Republik, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Crossings Republik",
+    "latitude": 28.6312517,
+    "longitude": 77.43520339999999,
+    "place_id": "ChIJ5Y2HfJzvDDkRsM2-namiW98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Y2HfJzvDDkRsM2-namiW98",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:27:04"
+  }
+]

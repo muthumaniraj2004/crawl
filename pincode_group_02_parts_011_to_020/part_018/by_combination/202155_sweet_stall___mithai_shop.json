@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghantewala",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "202155",
+    "phone_number": "+91 85272 79535",
+    "website": "https://www.ghantewala.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "M64J+FHC, Old Delhi, Maliwara Tiraha Bazar, Katra Shah N Shah, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Maliwara Tiraha Bazar, Katra Shah N Shah, Chandni Chowk",
+    "latitude": 28.656181699999998,
+    "longitude": 77.2313782,
+    "place_id": "ChIJD_3iiRr9DDkRhG7_Tr9QMkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_3iiRr9DDkRhG7_Tr9QMkQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:25"
+  },
+  {
+    "business_name": "Lala Khayaliram Harishchandra Misthan Kendra",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "202155",
+    "phone_number": "+91 98370 52196",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Halwai khana, Aligrah, Aligarh, Uttar Pradesh 202001",
+    "area": "Halwai khana, Aligrah",
+    "latitude": 27.8841118,
+    "longitude": 78.0722222,
+    "place_id": "ChIJx9dh84WkdDkR4v1c7phFXI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9dh84WkdDkR4v1c7phFXI4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Marble and Granite",
+    "search_category": "Granite Dealer",
+    "primary_category": "Marble supplier",
+    "all_categories": "Marble supplier",
+    "pincode": "202123",
+    "phone_number": "+91 88688 71009",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khair Rd, Aligarh, Khair, Uttar Pradesh 202138",
+    "area": "202123",
+    "latitude": 27.938062,
+    "longitude": 77.8563411,
+    "place_id": "ChIJByxrnuRZczkRKx3tAdVNniY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByxrnuRZczkRKx3tAdVNniY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:26:22"
+  },
+  {
+    "business_name": "Aakar Granites",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "202123",
+    "phone_number": "+91 89783 83809",
+    "website": "http://aakargranite.com/",
+    "rating": 4.9,
+    "reviews_count": 361,
+    "address": "P90, 100 Feet Rd, Guttala_Begumpet, Kavuri Hills, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Guttala_Begumpet, Kavuri Hills, Madhapur",
+    "latitude": 17.4456156,
+    "longitude": 78.3943166,
+    "place_id": "ChIJgSPzMd2RyzsRMsymQf2lvtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSPzMd2RyzsRMsymQf2lvtU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:26:24"
+  }
+]

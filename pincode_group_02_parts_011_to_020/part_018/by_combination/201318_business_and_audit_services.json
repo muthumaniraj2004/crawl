@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unified Books",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Accountant, Accounting firm, Chartered accountant",
+    "pincode": "201318",
+    "phone_number": "+91 96256 84537",
+    "website": "https://www.unifiedbooks.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "ASSOTECH THE NEST, A-31, Crossings Republik, Ghaziabad, Uttar Pradesh 201016",
+    "area": "Crossings Republik",
+    "latitude": 28.626799,
+    "longitude": 77.43803849999999,
+    "place_id": "ChIJDXMDI43vDDkR4QAWjAGv9Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXMDI43vDDkR4QAWjAGv9Kg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:18:19"
+  },
+  {
+    "business_name": "Engineering Facility Services (EFS)",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Engineering consultant",
+    "all_categories": "Engineering consultant, Energy equipment and solutions, Environmental consultant, Safety equipment supplier",
+    "pincode": "201318",
+    "phone_number": "+91 88266 82703",
+    "website": "https://www.energyefs.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Office no. 778, 779, Mall, Gaur City 1, Sector 4, Greater Noida, Ghaziabad, Uttar Pradesh 201318",
+    "area": "Gaur City 1, Sector 4",
+    "latitude": 28.606060399999997,
+    "longitude": 77.4299434,
+    "place_id": "ChIJoSEweQPvDDkR6msxoCw-AFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSEweQPvDDkR6msxoCw-AFk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:18:20"
+  }
+]

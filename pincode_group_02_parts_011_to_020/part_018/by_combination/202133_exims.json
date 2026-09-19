@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZEELAB Pharmacy - Sootmill Chauraha Aligarh",
+    "search_category": "EXIMS",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "202133",
+    "phone_number": "+91 90340 27160",
+    "website": "https://zeelabpharmacy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khasara no. 1, 5/167A, Sootmil Chauraha, Bhima Nagar, Nagla Kalan, Aligarh, Uttar Pradesh 202001",
+    "area": "Bhima Nagar, Nagla Kalan",
+    "latitude": 27.9046582,
+    "longitude": 78.047567,
+    "place_id": "ChIJkQ7M6sCldDkR8Ay2jfYzl8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQ7M6sCldDkR8Ay2jfYzl8k",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:44:31"
+  },
+  {
+    "business_name": "Pathak Medico",
+    "search_category": "EXIMS",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Pharmacy",
+    "pincode": "202133",
+    "phone_number": "+91 90589 23640",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "3/245, Ramghat Rd, Kishanpur, Hem Chand Compound, Aligarh, Uttar Pradesh 202001",
+    "area": "Kishanpur, Hem Chand Compound",
+    "latitude": 27.895626099999998,
+    "longitude": 78.0900728,
+    "place_id": "ChIJqyywu7-kdDkRzmVgjDiRWEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyywu7-kdDkRzmVgjDiRWEc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:44:31"
+  }
+]

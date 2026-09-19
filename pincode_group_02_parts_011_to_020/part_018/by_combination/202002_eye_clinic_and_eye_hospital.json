@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veena Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202002",
+    "phone_number": "+91 90122 92737",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 144,
+    "address": "Chamad Devi Mandir, Vasundhara Colony, Mathura Rd, near Daulatabad, Kasba Kol, Aligarh, Uttar Pradesh 202002",
+    "area": "Kasba Kol",
+    "latitude": 27.8574262,
+    "longitude": 78.0640404,
+    "place_id": "ChIJwQ3QtgWjdDkRNvxYzNYrzEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQ3QtgWjdDkRNvxYzNYrzEM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:20:50"
+  },
+  {
+    "business_name": "Aravind Eye Clinic - Tirumangalam",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202002",
+    "phone_number": "+91 4549 450 502",
+    "website": "http://www.aravind.org/",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Tirumangalam, Tamil Nadu 625706",
+    "area": "202002",
+    "latitude": 9.8275083,
+    "longitude": 77.9891947,
+    "place_id": "ChIJIcCI9E7SADsRttB3eE34f_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcCI9E7SADsRttB3eE34f_Y",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:20:52"
+  }
+]

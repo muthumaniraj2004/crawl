@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FastnFry Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "202125",
+    "phone_number": "+91 99252 57870",
+    "website": "https://www.fastnfry.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Survey no 193/3, Plot no 1 & 2, Charakhadi main road, Jetpur National Highway 27, Gondal, Gujarat 360380",
+    "area": "202125",
+    "latitude": 21.8776421,
+    "longitude": 70.7091471,
+    "place_id": "ChIJwz89pEc9WDkRibKCRE8aS30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwz89pEc9WDkRibKCRE8aS30",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:29:09"
+  },
+  {
+    "business_name": "Bihar frozen food and food products supplies",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Food products supplier",
+    "pincode": "202125",
+    "phone_number": "+91 90658 08777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gate no- 18, Main Rd, dujra devi asthan, Buddha Colony, Patna, Bihar 800001",
+    "area": "dujra devi asthan, Buddha Colony",
+    "latitude": 25.623913599999998,
+    "longitude": 85.12745579999999,
+    "place_id": "ChIJrQOT2AFZ7TkRJ1LAXy5TOy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQOT2AFZ7TkRJ1LAXy5TOy8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:29:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRJewelry",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "202165",
+    "phone_number": "+91 97194 12413",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 57,
+    "address": "Main Market Rd, Jewar, Uttar Pradesh 203135",
+    "area": "202165",
+    "latitude": 28.1237401,
+    "longitude": 77.56024819999999,
+    "place_id": "ChIJd-MK2KPKDDkR3K8DXR0XacA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-MK2KPKDDkR3K8DXR0XacA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:20"
+  },
+  {
+    "business_name": "Shining Silver",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "202165",
+    "phone_number": "N/A",
+    "website": "https://shiningsilver.in/",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "13, Radharaman Complex, Koyala Gali, Tilak Dwar, Mathura, Uttar Pradesh 281001",
+    "area": "Tilak Dwar",
+    "latitude": 27.5005869,
+    "longitude": 77.684203,
+    "place_id": "ChIJfRtQHPVxczkRF_qqtMo3nec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRtQHPVxczkRF_qqtMo3nec",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:09:22"
+  }
+]

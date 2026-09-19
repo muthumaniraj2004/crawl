@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Auto Service",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "202127",
+    "phone_number": "+91 78300 44028",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Khurja Rd, Kasimpur, Atrauli, Uttar Pradesh 202282",
+    "area": "202127",
+    "latitude": 28.0494,
+    "longitude": 78.259,
+    "place_id": "ChIJ5yHNSl22dDkRfEDBoxdlP4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yHNSl22dDkRfEDBoxdlP4o",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:16"
+  },
+  {
+    "business_name": "R.Tiwari diesel service",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "202127",
+    "phone_number": "+91 87555 51854",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nagaich Pada Rd, Atrauli, Uttar Pradesh 202280",
+    "area": "202127",
+    "latitude": 28.0304385,
+    "longitude": 78.29166239999999,
+    "place_id": "ChIJz-f1GgC3dDkR9y5M36Wx7YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-f1GgC3dDkR9y5M36Wx7YU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:33:16"
+  }
+]

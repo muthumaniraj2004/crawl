@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Seva Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Tax preparation",
+    "all_categories": "Tax preparation",
+    "pincode": "202280",
+    "phone_number": "+91 92050 55775",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. D 69, Ph, Plot, 1, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Pocket D, Okhla Phase I, Okhla Industrial Estate",
+    "latitude": 28.521471599999998,
+    "longitude": 77.2791487,
+    "place_id": "ChIJq6r-wE7hDDkR1jGhR56fFtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6r-wE7hDDkR1jGhR56fFtY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:13:43"
+  },
+  {
+    "business_name": "Digital seva kendra Csc",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "202280",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A 70, Shanti Nagar, Block A, Shiv Vihar, Karanal nagar, Ghaziabad, Uttar Pradesh 201102",
+    "area": "Shanti Nagar, Block A, Shiv Vihar, Karanal nagar",
+    "latitude": 28.7251238,
+    "longitude": 77.2866435,
+    "place_id": "ChIJzYtn2g75DDkRtoeIfT-GzTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYtn2g75DDkRtoeIfT-GzTk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:13:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Care Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Gynecologist, Ophthalmologist",
+    "pincode": "202281",
+    "phone_number": "+91 96347 86751",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 46,
+    "address": "E10, Ekta Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "Ekta Nagar",
+    "latitude": 27.9037024,
+    "longitude": 78.0935757,
+    "place_id": "ChIJ4e3nMk-ldDkR507Hx2Kz8Mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4e3nMk-ldDkR507Hx2Kz8Mc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:14:37"
+  },
+  {
+    "business_name": "OPTICAL HOUSE AND EYE CARES",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "202281",
+    "phone_number": "+91 99174 26729",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rasal Ganj Rd, Sarai Babu, Aligarh, Uttar Pradesh 202001",
+    "area": "Sarai Babu",
+    "latitude": 27.8898604,
+    "longitude": 78.0705629,
+    "place_id": "ChIJqwu8g2WldDkRQf3OUftOS1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwu8g2WldDkRQf3OUftOS1U",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:14:38"
+  }
+]

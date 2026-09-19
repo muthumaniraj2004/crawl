@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaur provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "202125",
+    "phone_number": "+91 86508 57167",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W4MV+WP, Sector 2, Talanagri, Talashpur, Aligarh, Uttar Pradesh 202125",
+    "area": "Sector 2, Talanagri, Talashpur",
+    "latitude": 27.934825999999997,
+    "longitude": 78.14429179999999,
+    "place_id": "ChIJQdodOwC7dDkR3zxDf4on8Cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdodOwC7dDkR3zxDf4on8Cg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:29:04"
+  },
+  {
+    "business_name": "Shakun General Stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "202125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "W4FV+M7M, Harduaganj Dehat, Aligarh, Uttar Pradesh 202125",
+    "area": "202125",
+    "latitude": 27.9242141,
+    "longitude": 78.1431802,
+    "place_id": "ChIJ4_VIQQC7dDkRHLnGoBb3Ok4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_VIQQC7dDkRHLnGoBb3Ok4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:29:05"
+  }
+]

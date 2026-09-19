@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Complete Car Care",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service, Auto painting, Wheel alignment service",
+    "pincode": "202146",
+    "phone_number": "+91 97304 93159",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 54,
+    "address": "72/1, River Residency Rd, MIDC, Chikhali, Pimpri-Chinchwad, Maharashtra 412114",
+    "area": "MIDC, Chikhali",
+    "latitude": 18.6843887,
+    "longitude": 73.83202299999999,
+    "place_id": "ChIJ370Amdm3wjsR8jHY0WmksL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ370Amdm3wjsR8jHY0WmksL4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:04:20"
+  },
+  {
+    "business_name": "GoMechanic - Car Service Kharadi Pune",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car repair and maintenance service, Car wash, Honda dealer, Hyundai dealer, Toyota dealer",
+    "pincode": "202146",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "Grant Rd, Rajaram Patil Nagar, Kharadi, Pune, Maharashtra 411014",
+    "area": "Rajaram Patil Nagar, Kharadi",
+    "latitude": 18.5636881,
+    "longitude": 73.9542699,
+    "place_id": "ChIJw60doMHDwjsRc_kKn_J5lGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw60doMHDwjsRc_kKn_J5lGM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:04:20"
+  }
+]

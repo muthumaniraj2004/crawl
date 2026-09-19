@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "202280",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27JP+687, Chaudhariyan Mohalla, Atrauli, Uttar Pradesh 202280",
+    "area": "Chaudhariyan Mohalla",
+    "latitude": 28.030537799999998,
+    "longitude": 78.285805,
+    "place_id": "ChIJkaaLVAC3dDkRj2kBvFacnao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkaaLVAC3dDkRj2kBvFacnao",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:13:19"
+  },
+  {
+    "business_name": "Shoaib Qureshi",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "202280",
+    "phone_number": "+91 81930 25167",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Vespada, Purana Bas Stand, Atrauli, Uttar Pradesh 202280",
+    "area": "202280",
+    "latitude": 28.0295781,
+    "longitude": 78.2829335,
+    "place_id": "ChIJa-F8zmq3dDkR9IKqZa5Wo44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-F8zmq3dDkR9IKqZa5Wo44",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:13:19"
+  }
+]

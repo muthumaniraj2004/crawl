@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Oil Mill",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Flour mill, Food products supplier, General store, Herb shop, Indian grocery store, Natural goods store, Organic food store",
+    "pincode": "202137",
+    "phone_number": "+91 83070 00043",
+    "website": "https://theoilmill.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop no. 136, ground floor, Vyapar Kendra Rd, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009",
+    "area": "Block C, Sushant Lok Phase I, Sector 43",
+    "latitude": 28.4600291,
+    "longitude": 77.08322609999999,
+    "place_id": "ChIJE26VBUUZDTkR4cvW5_Ke0Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE26VBUUZDTkR4cvW5_Ke0Oc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:50:02"
+  },
+  {
+    "business_name": "Pt Nekram essar oil",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump",
+    "pincode": "202137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "Aligarh - Palwal Rd, Tappal, Uttar Pradesh 202165",
+    "area": "202137",
+    "latitude": 28.051364099999997,
+    "longitude": 77.5753064,
+    "place_id": "ChIJk-c_shJLczkR4gklmxqFPvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-c_shJLczkR4gklmxqFPvM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:50:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Recharge",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "202135",
+    "phone_number": "+91 92591 51617",
+    "website": "http://login.metrorecharge.co.in/",
+    "rating": 4.8,
+    "reviews_count": 50,
+    "address": "Ikhu Dahora Road, Ikhu, Uttar Pradesh 281205",
+    "area": "202135",
+    "latitude": 27.855477,
+    "longitude": 77.790532,
+    "place_id": "ChIJAR4RmXhbczkRrgzje7o6bUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAR4RmXhbczkRrgzje7o6bUo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:47:27"
+  },
+  {
+    "business_name": "Love kush garden",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "202135",
+    "phone_number": "+91 79822 61630",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Love kush garden, tentigaon road, Khair, Uttar Pradesh 202123",
+    "area": "202135",
+    "latitude": 27.858460299999997,
+    "longitude": 77.81611819999999,
+    "place_id": "ChIJ_ZYOEV5bczkRvH9lSmc8nAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZYOEV5bczkRvH9lSmc8nAo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:47:27"
+  }
+]

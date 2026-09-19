@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "202155",
+    "phone_number": "+91 94569 06590",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5PF2+XCF, Jahangirpur, Uttar Pradesh 203141",
+    "area": "202155",
+    "latitude": 28.174740099999998,
+    "longitude": 77.7010978,
+    "place_id": "ChIJIV0Wyr-zDDkRLF2IULvDFFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIV0Wyr-zDDkRLF2IULvDFFI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:37"
+  },
+  {
+    "business_name": "SHOE PUMP",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "202155",
+    "phone_number": "+91 92135 99963",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 690,
+    "address": "14/4, Mangal Bazar Rd, Block 14, Tilak Nagar, Delhi, 110018",
+    "area": "Block 14, Tilak Nagar",
+    "latitude": 28.6414646,
+    "longitude": 77.0921738,
+    "place_id": "ChIJPWMJfxsFDTkRKpYi0X5Rmxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWMJfxsFDTkRKpYi0X5Rmxc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:07:37"
+  }
+]

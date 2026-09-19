@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aligarh Machinery Mart",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Hydraulic Engineer",
+    "all_categories": "Hydraulic Engineer, Building materials store",
+    "pincode": "202001",
+    "phone_number": "+91 94122 72234",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Gandhi Marg, Sarai Hakeem, City, Aligarh, Uttar Pradesh 202001",
+    "area": "Sarai Hakeem, City",
+    "latitude": 27.886325,
+    "longitude": 78.0705007,
+    "place_id": "ChIJZatWzoikdDkR6ovcTDkLFek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZatWzoikdDkR6ovcTDkLFek",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:20:10"
+  },
+  {
+    "business_name": "Rawat Machinery Traders",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Battery Store",
+    "pincode": "202001",
+    "phone_number": "+91 98371 56744",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 9,
+    "address": "V3FF+HQR, Khirni Gate, Agra Rd, Aligarh, Uttar Pradesh 202001",
+    "area": "Sarai Mansingh",
+    "latitude": 27.8739928,
+    "longitude": 78.0744045,
+    "place_id": "ChIJo-zOj4KkdDkR1zIDxdxQh4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-zOj4KkdDkR1zIDxdxQh4E",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:20:10"
+  }
+]

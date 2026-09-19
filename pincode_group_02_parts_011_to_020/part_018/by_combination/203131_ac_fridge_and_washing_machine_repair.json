@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samad Cool Engineers",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "203131",
+    "phone_number": "+91 98112 41026",
+    "website": "http://www.samadcoolengineers.com/",
+    "rating": 4.1,
+    "reviews_count": 13,
+    "address": "NH plaza market, GT Rd, near Bus stand, Khurja, Uttar Pradesh 203131",
+    "area": "203131",
+    "latitude": 28.251099399999998,
+    "longitude": 77.8626716,
+    "place_id": "ChIJZSI6grupDDkRgqf6xtF1cT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSI6grupDDkRgqf6xtF1cT0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:23:51"
+  },
+  {
+    "business_name": "Unique Air Conditioner",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "203131",
+    "phone_number": "N/A",
+    "website": "https://uniqueairconditioner.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nehrupur Rd, Khurja Rural, Uttar Pradesh 203131",
+    "area": "203131",
+    "latitude": 28.271011299999998,
+    "longitude": 77.85945579999999,
+    "place_id": "ChIJy5oKvluvDDkR_NYDX0Zs4k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5oKvluvDDkR_NYDX0Zs4k8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:23:51"
+  }
+]

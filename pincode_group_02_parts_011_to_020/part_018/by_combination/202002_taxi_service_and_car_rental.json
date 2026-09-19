@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Car Booking",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car rental agency",
+    "pincode": "202002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6/245 Kothi Lankram, Uttar Pradesh 202001",
+    "area": "Shatabdi Nagar, Nai Basti, Bannadevi",
+    "latitude": 27.894063,
+    "longitude": 78.0665624,
+    "place_id": "ChIJF7vI6UWldDkREDL30CZo814",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7vI6UWldDkREDL30CZo814",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:21:02"
+  },
+  {
+    "business_name": "Miscott Taxi & Travels Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Computer service, Grocery delivery service, Internet shop, Lamination service, Medical supply store, Mobile phone repair shop, Print shop, Repair service, Unemployment office",
+    "pincode": "202002",
+    "phone_number": "+91 72518 09802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No1, Pink House, Patwari Ka Nagla, JanSevaKendra, Uttar Pradesh 202001",
+    "area": "Fort Enclave, Patwari Ka Nagla",
+    "latitude": 27.923209,
+    "longitude": 78.0669587,
+    "place_id": "ChIJFe3Juw2ldDkRV32pHRdleRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFe3Juw2ldDkRV32pHRdleRo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:21:03"
+  }
+]

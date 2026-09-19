@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CallingGo",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company, Service establishment",
+    "pincode": "202002",
+    "phone_number": "N/A",
+    "website": "https://www.callinggo.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "CallingGo, 202002, India",
+    "area": "202002",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJ--lJ_uZ_biIRvwgJk6eQaIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--lJ_uZ_biIRvwgJk6eQaIY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:03"
+  },
+  {
+    "business_name": "VRS Enterprises",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant",
+    "pincode": "202002",
+    "phone_number": "+91 78400 73650",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 2398,
+    "address": "Pyarelal Complex, First Floor, Mehrauli-Gurgaon Rd, near Canara Bank, Sukhrali, Gurugram, Haryana 122007",
+    "area": "Sukhrali, Sector 17",
+    "latitude": 28.475569,
+    "longitude": 77.060835,
+    "place_id": "ChIJ_QhtRwEZDTkRvikNWzn9u-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QhtRwEZDTkRvikNWzn9u-I",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jashan Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "202145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Baba Heera Singh Nagar, Kalka Chowk, Police Line, Ambala, Haryana 134003",
+    "area": "Police Line",
+    "latitude": 30.375201099999998,
+    "longitude": 76.782122,
+    "place_id": "ChIJsz0C90nJDzkRI05jGXEmjLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsz0C90nJDzkRI05jGXEmjLQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:02:44"
+  },
+  {
+    "business_name": "Brothers Towing Service LLC",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto wrecker, Service establishment",
+    "pincode": "202145",
+    "phone_number": "N/A",
+    "website": "https://brotowservice.com/",
+    "rating": 4.8,
+    "reviews_count": 86,
+    "address": "Brothers Towing Service LLC, 202145, India",
+    "area": "202145",
+    "latitude": 39.3091119,
+    "longitude": -76.61561449999999,
+    "place_id": "ChIJu5xxrX8FyIkR-uXvqqwCoyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5xxrX8FyIkR-uXvqqwCoyU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:02:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Rabita School",
+    "search_category": "School",
+    "primary_category": "General education school",
+    "all_categories": "General education school",
+    "pincode": "202143",
+    "phone_number": "+91 98975 12152",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W3MF+GW3, Near Usmania Masjid Maulana Nagar, Jamalpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Jamalpur",
+    "latitude": 27.9337569,
+    "longitude": 78.0747918,
+    "place_id": "ChIJSbgtCceldDkRNQay2abkaE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbgtCceldDkRNQay2abkaE8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:01:25"
+  },
+  {
+    "business_name": "Indian Sweet & Namkeen House",
+    "search_category": "School",
+    "primary_category": "High school",
+    "all_categories": "High school, Elementary school, Middle school, Primary school, Public educational institution",
+    "pincode": "202143",
+    "phone_number": "+91 91490 62670",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baraula Bypass, Barouli Road, Patwari Colony, Patwari Ka Nagla, Aligarh, Uttar Pradesh 202001",
+    "area": "Patwari Colony, Patwari Ka Nagla",
+    "latitude": 27.928517499999998,
+    "longitude": 78.0672658,
+    "place_id": "ChIJR0sovQmldDkR28Ulk5KQ2iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0sovQmldDkR28Ulk5KQ2iU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:01:27"
+  }
+]

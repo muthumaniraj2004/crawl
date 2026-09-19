@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "De Lantern's cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "202142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "W434+G6G, Diggi Rd, opposite Abdullah Women's College, Civil Lines, Aligarh, Uttar Pradesh 202001",
+    "area": "Civil Lines",
+    "latitude": 27.900781199999997,
+    "longitude": 78.0831372,
+    "place_id": "ChIJd4rQLlmldDkRPCsTCFSQk78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4rQLlmldDkRPCsTCFSQk78",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:49"
+  },
+  {
+    "business_name": "Sukoon tea point (dhorra)",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "202142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "W3PP+45V, Hamdard Nagar, Aligarh, Uttar Pradesh 202001",
+    "area": "Hamdard Nagar",
+    "latitude": 27.9353509,
+    "longitude": 78.0854262,
+    "place_id": "ChIJ0S8GYACldDkRXtFSzrNL6vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S8GYACldDkRXtFSzrNL6vw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:58:50"
+  }
+]

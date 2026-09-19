@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALPHA DAILY NEEDS",
+    "search_category": "Shops",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "202121",
+    "phone_number": "+91 87918 42788",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gulistan Colony, Hamdard Nagar, A, Aligarh, Uttar Pradesh 202001",
+    "area": "Gulistan Colony, Hamdard Nagar, A",
+    "latitude": 27.926366599999998,
+    "longitude": 78.0823717,
+    "place_id": "ChIJN0i6VxmldDkRJT1re5ixVUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0i6VxmldDkRJT1re5ixVUI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:23:46"
+  },
+  {
+    "business_name": "Chotu Car Repairing Centre",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "202121",
+    "phone_number": "+91 86503 24206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Akrabad, Aligarh, NH-91, Aligrah Kanpur Road, Aligarh, Aligarh, Uttar Pradesh 202121",
+    "area": "202121",
+    "latitude": 27.8056,
+    "longitude": 78.2731,
+    "place_id": "ChIJm9qwHee_dDkRx6J2ve7LYlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9qwHee_dDkRx6J2ve7LYlc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:23:49"
+  }
+]

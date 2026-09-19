@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAA GANGA MARKET",
+    "search_category": "Fish Market",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "202130",
+    "phone_number": "+91 99971 56295",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aligarh Rd, Chharra, Chharra Rafatpur, Uttar Pradesh 202130",
+    "area": "Chharra",
+    "latitude": 27.924530599999997,
+    "longitude": 78.4022323,
+    "place_id": "ChIJSX5EuHHFdDkRXpUrFK8GpDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSX5EuHHFdDkRXpUrFK8GpDU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:37:51"
+  },
+  {
+    "business_name": "Blue Spring Farm",
+    "search_category": "Fish Market",
+    "primary_category": "Aquaculture farm",
+    "all_categories": "Aquaculture farm",
+    "pincode": "202130",
+    "phone_number": "+91 99274 47785",
+    "website": "https://www.bluespringfarm.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near Bilona , Chitrasi, Chitkura talab Kalan, Chitkura, Gangiri, Uttar Pradesh 202133",
+    "area": "Chitkura talab Kalan",
+    "latitude": 27.896486499999998,
+    "longitude": 78.50557549999999,
+    "place_id": "ChIJJ8MBFyrddDkR8pjNJ8EegDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8MBFyrddDkR8pjNJ8EegDA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:37:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sami Automobile",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto body shop, Auto bodywork mechanic, Auto painting, Auto spring shop, Mechanic, Repair service",
+    "pincode": "202129",
+    "phone_number": "+91 97601 86498",
+    "website": "http://samiautomobile.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop No- 5, opp. Rishikesh Chs Mathura building, near MM Chicken, Manali Society, Evershine Nagar, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Manali Society, Evershine Nagar, Malad West",
+    "latitude": 19.1909196,
+    "longitude": 72.830343,
+    "place_id": "ChIJ19DjuTG35zsROZwU_8rJ52M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19DjuTG35zsROZwU_8rJ52M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:47"
+  },
+  {
+    "business_name": "Auto Electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "202129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C22W+C7P, Badshahpur, Sector 66, Gurugram, Haryana 122101",
+    "area": "Badshahpur, Sector 66",
+    "latitude": 28.4010842,
+    "longitude": 77.0457062,
+    "place_id": "ChIJRU5DRY0iDTkRcudWvr5ELiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRU5DRY0iDTkRcudWvr5ELiA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:36:47"
+  }
+]

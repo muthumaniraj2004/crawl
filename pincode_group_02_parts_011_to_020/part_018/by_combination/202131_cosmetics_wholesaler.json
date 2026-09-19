@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banti Cosmetic Shop",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "202131",
+    "phone_number": "+91 98374 75078",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Public School, P D, Chandaniya, Aligarh, Uttar Pradesh 202001",
+    "area": "Nagla Tikona, Chandaniya",
+    "latitude": 27.8876048,
+    "longitude": 78.0883272,
+    "place_id": "ChIJjRAW1TaldDkReTau1YgDmYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRAW1TaldDkReTau1YgDmYo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:40:24"
+  },
+  {
+    "business_name": "Veeru bhai",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "202131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "589G+P63, Aurangabad Kasair, Uttar Pradesh 203393",
+    "area": "202131",
+    "latitude": 28.1692029,
+    "longitude": 78.3256834,
+    "place_id": "ChIJp9lXNwDLdDkRrqDsM0SmmLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9lXNwDLdDkRrqDsM0SmmLg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:40:24"
+  }
+]

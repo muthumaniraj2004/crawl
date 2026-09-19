@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalit Kala Academi",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "202139",
+    "phone_number": "+91 44 2829 1692",
+    "website": "http://lalitkala.gov.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4, Greams Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+    "area": "Thousand Lights West, Thousand Lights",
+    "latitude": 13.064929,
+    "longitude": 80.2546997,
+    "place_id": "ChIJ6x_uUxNmUjoRoMbNfe56QKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6x_uUxNmUjoRoMbNfe56QKY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:55:00"
+  },
+  {
+    "business_name": "Kanha electricals",
+    "search_category": "Exhibitions",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "202139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Bijahari, Sasni, Uttar Pradesh 204216",
+    "area": "202139",
+    "latitude": 27.6972621,
+    "longitude": 78.0773978,
+    "place_id": "ChIJ_z1YeACZdDkRVYk1M32K1To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_z1YeACZdDkRVYk1M32K1To",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:55:00"
+  }
+]

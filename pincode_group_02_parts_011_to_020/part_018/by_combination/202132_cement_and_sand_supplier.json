@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Building material Store",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "202132",
+    "phone_number": "+91 95570 37563",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near, pnb jewar road, junction, khurja, Abrahimpur Junedpur Urf Mozpur, Uttar Pradesh 203132",
+    "area": "junction",
+    "latitude": 28.2119365,
+    "longitude": 77.8182082,
+    "place_id": "ChIJvUzWIhmsDDkRjFCZRXMeH-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUzWIhmsDDkRjFCZRXMeH-c",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:42:01"
+  },
+  {
+    "business_name": "G Traders And Cement Udyog",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Tile manufacturer",
+    "all_categories": "Tile manufacturer, Tile contractor",
+    "pincode": "202132",
+    "phone_number": "+91 98377 73376",
+    "website": "https://rccconcretearticlesagra.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagla Talfi, Sikandarpur Road, near Salasar Institute, DayalBagh, Agra, Khaspur Ehtmali, Uttar Pradesh 282005",
+    "area": "DayalBagh",
+    "latitude": 27.255146699999997,
+    "longitude": 78.0113648,
+    "place_id": "ChIJAQAAAOR5dDkRcMsl_jQwfGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAOR5dDkRcMsl_jQwfGg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:42:02"
+  }
+]

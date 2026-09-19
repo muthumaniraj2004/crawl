@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car universe",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Car stereo store",
+    "all_categories": "Car stereo store",
+    "pincode": "203002",
+    "phone_number": "+91 91197 93907",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 23,
+    "address": "MMR mall, Near, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Yamunapuram",
+    "latitude": 28.4029389,
+    "longitude": 77.8286579,
+    "place_id": "ChIJ51m6_L6jDDkRdm6BdMWMU6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51m6_L6jDDkRdm6BdMWMU6w",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:05"
+  },
+  {
+    "business_name": "Japan Auto Service and Training Center",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Service Apartment",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "717/2, Old, Satha Rd, Sheetal Ganj, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Sheetal Ganj",
+    "latitude": 28.3997694,
+    "longitude": 77.86045399999999,
+    "place_id": "ChIJCw8hx8mmDDkRDBHNmZV5ZaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCw8hx8mmDDkRDBHNmZV5ZaM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:07"
+  }
+]

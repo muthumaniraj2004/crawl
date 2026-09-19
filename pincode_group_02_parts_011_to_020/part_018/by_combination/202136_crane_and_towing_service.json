@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raje Crane services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "202136",
+    "phone_number": "+91 97639 19147",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "Sr.no.580/2A, building no. 4 Flat no. 13, Gangadham Chowk, Hamal Nagar, Market Yard, Pune, Maharashtra 411037",
+    "area": "Hamal Nagar, Market Yard, Gultekadi",
+    "latitude": 18.4812199,
+    "longitude": 73.87198479999999,
+    "place_id": "ChIJw6TKDV7rwjsRnvtM1A1r3eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6TKDV7rwjsRnvtM1A1r3eU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:55"
+  },
+  {
+    "business_name": "Ex-serviceman crane service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service, Forklift rental service",
+    "pincode": "202136",
+    "phone_number": "+91 94404 09515",
+    "website": "https://exservicemancraneservice.com/index.php/home/",
+    "rating": 4.5,
+    "reviews_count": 19,
+    "address": "Samosa Ground, 11-3-703 , FAQR-E-MILLAT GROUND or, New Mallepally, Hyderabad, Telangana 500001",
+    "area": "Bazar Ghat, New Mallepally",
+    "latitude": 17.392125,
+    "longitude": 78.45857,
+    "place_id": "ChIJ8-nxBW6XyzsRniRtGtWOLhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-nxBW6XyzsRniRtGtWOLhI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:55"
+  }
+]

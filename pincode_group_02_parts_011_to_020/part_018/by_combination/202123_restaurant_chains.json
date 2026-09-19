@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MILKBAR STUDIO",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "202123",
+    "phone_number": "+91 84749 79899",
+    "website": "https://milkbarstudio.in/menu/",
+    "rating": 2.9,
+    "reviews_count": 11,
+    "address": "V38C+JPW, Agra Rd, near raghuvir sahay inter college, Avas Vikas Colony, jhrni gate, Aligarh, Uttar Pradesh 202001",
+    "area": "Avas Vikas Colony, jhrni gate",
+    "latitude": 27.866615,
+    "longitude": 78.07182829999999,
+    "place_id": "ChIJwRocAcajdDkRffke1Fz2TTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRocAcajdDkRffke1Fz2TTo",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:25:51"
+  },
+  {
+    "business_name": "Cafe Knight Riders",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Delivery service",
+    "pincode": "202123",
+    "phone_number": "+91 74539 99927",
+    "website": "http://www.knightriders.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Medical Rd, Dodhpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Dodhpur",
+    "latitude": 27.9076077,
+    "longitude": 78.08455169999999,
+    "place_id": "ChIJvcl2wVeldDkRF3qx1uDG-BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcl2wVeldDkRF3qx1uDG-BU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:25:52"
+  }
+]

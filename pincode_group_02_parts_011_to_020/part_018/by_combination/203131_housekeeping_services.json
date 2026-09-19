@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azima Queen",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Upholstery cleaning service",
+    "all_categories": "Upholstery cleaning service, House cleaning service",
+    "pincode": "203131",
+    "phone_number": "+91 80 4806 7674",
+    "website": "http://www.azimaqueen.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "nand gram, Raj Nagar Extension, Ghaziabad, Uttar Pradesh 201003",
+    "area": "Raj Nagar Extension",
+    "latitude": 28.698337199999997,
+    "longitude": 77.43711979999999,
+    "place_id": "ChIJj2IedINRFgsRIHCnycunieU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2IedINRFgsRIHCnycunieU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:24:26"
+  },
+  {
+    "business_name": "Jaat Land",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Household goods wholesaler",
+    "all_categories": "Household goods wholesaler",
+    "pincode": "203131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7/105, Shastri Nagar, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Shastri Nagar",
+    "latitude": 28.391791299999998,
+    "longitude": 77.8562232,
+    "place_id": "ChIJ9d7pbwCnDDkR9_UTg5eMhmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9d7pbwCnDDkR9_UTg5eMhmM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:24:27"
+  }
+]

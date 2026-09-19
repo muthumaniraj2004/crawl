@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tamilnadu Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Food court",
+    "pincode": "202128",
+    "phone_number": "+91 99994 66860",
+    "website": "http://tamilnadudosa.com/",
+    "rating": 3.8,
+    "reviews_count": 125,
+    "address": "Shop No. M-11 Qutub Palaza, Phase 1, Gurugram, Haryana 122002",
+    "area": "Phase 1, Block A, Sector 26A",
+    "latitude": 28.472244,
+    "longitude": 77.1017997,
+    "place_id": "ChIJAxOT6HwZDTkRMPY1jUDc5Hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxOT6HwZDTkRMPY1jUDc5Hw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:34:33"
+  },
+  {
+    "business_name": "Karnataka Food Centre",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Karnataka restaurant, Vegetarian restaurant",
+    "pincode": "202128",
+    "phone_number": "+91 93133 70092",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sector 12, Rama Krishna Puram, New Delhi, Delhi 110022",
+    "area": "Sector 12, Rama Krishna Puram",
+    "latitude": 28.577924099999997,
+    "longitude": 77.1753465,
+    "place_id": "ChIJnUr4QHQdDTkR9IadejYGWcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUr4QHQdDTkR9IadejYGWcU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:34:34"
+  }
+]

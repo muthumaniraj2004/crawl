@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajmandir Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "202139",
+    "phone_number": "+91 94125 95637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Old Sabji Mandi Aligarh Road, Sasni, Uttar Pradesh 204216",
+    "area": "202139",
+    "latitude": 27.707505899999997,
+    "longitude": 78.08179129999999,
+    "place_id": "ChIJQ8mlLzOZdDkRYTgQseLAuF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8mlLzOZdDkRYTgQseLAuF4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:53:29"
+  },
+  {
+    "business_name": "Sumit General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "202139",
+    "phone_number": "+91 76682 11284",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Krishna Nagar Vijaygarh, Road, Aligarh, Bijahari, Uttar Pradesh 204216",
+    "area": "202139",
+    "latitude": 27.6983182,
+    "longitude": 78.08069929999999,
+    "place_id": "ChIJ1_KP_5qZdDkReFjM9KjlBPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_KP_5qZdDkReFjM9KjlBPA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:53:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Pen store",
+    "pincode": "202145",
+    "phone_number": "+91 85338 29399",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "19/158, Krishna Puri Mathiya, Khirni Gate, Police Chowk, Aligarh, Uttar Pradesh 202001",
+    "area": "Isha Nagar, Gopal Puri",
+    "latitude": 27.8701995,
+    "longitude": 78.0702154,
+    "place_id": "ChIJu7cwr2KjdDkRTKEjpyUFOd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7cwr2KjdDkRTKEjpyUFOd8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:03:15"
+  },
+  {
+    "business_name": "Aligarh book binding",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "202145",
+    "phone_number": "+91 70373 79061",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khai Dora, Jaiganj Rd, Aligarh, Uttar Pradesh 202001",
+    "area": "Purani Kotwali, Baniisrailan, Usmanpura",
+    "latitude": 27.8788299,
+    "longitude": 78.0691915,
+    "place_id": "ChIJ-RbA8dKldDkRuqeiQkmI1jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RbA8dKldDkRuqeiQkmI1jg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:03:16"
+  }
+]

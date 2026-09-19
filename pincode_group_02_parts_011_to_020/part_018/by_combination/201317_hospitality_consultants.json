@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "201317",
+    "phone_number": "+91 93777 55221",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "102 Swamini, Drive In Rd, opp. Drive-in Cinema, Ahmedabad, Gujarat 380054",
+    "area": "Sunrise Park, Gurukul",
+    "latitude": 23.0469808,
+    "longitude": 72.5279635,
+    "place_id": "ChIJb0SbJ9mFXjkRlMv2xdbmHKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0SbJ9mFXjkRlMv2xdbmHKQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:16:03"
+  },
+  {
+    "business_name": "SOEG Consulting LLP",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Service establishment",
+    "pincode": "201317",
+    "phone_number": "N/A",
+    "website": "https://www.soegjobs.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "SOEG Consulting LLP, 201317, India",
+    "area": "201317",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJq5Uq9BbAeQARh5jLtWRb0EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5Uq9BbAeQARh5jLtWRb0EI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:16:04"
+  }
+]

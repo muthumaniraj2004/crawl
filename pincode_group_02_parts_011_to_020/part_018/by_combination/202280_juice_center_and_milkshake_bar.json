@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "202280",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 13,
+    "address": "D-Block, D-Block, Sector 4, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "D-Block, Sector 4, Malviya Nagar",
+    "latitude": 26.855698099999998,
+    "longitude": 75.8065305,
+    "place_id": "ChIJazqCp3m1bTkR714sKGvr8y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazqCp3m1bTkR714sKGvr8y4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:12:40"
+  },
+  {
+    "business_name": "Super Cool Drinks Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "202280",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 169,
+    "address": "F9WW+WJ6, Jal Vayu Vihar, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Jal Vayu Vihar, Kukatpally",
+    "latitude": 17.4972829,
+    "longitude": 78.396524,
+    "place_id": "ChIJKzpI7O2RyzsREnX8i4tnQ0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzpI7O2RyzsREnX8i4tnQ0s",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:12:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fasttrack Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "202130",
+    "phone_number": "+91 93194 11466",
+    "website": "http://www.fasttrackbus.in/contact.html",
+    "rating": 4.8,
+    "reviews_count": 474,
+    "address": "Inter State Bus Terminal, Kashmere Gate, Delhi, 110006",
+    "area": "Inter State Bus Terminal, Kashmere Gate",
+    "latitude": 28.6665662,
+    "longitude": 77.228476,
+    "place_id": "ChIJX4oy9-X9DDkRNucwYEnt_sA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4oy9-X9DDkRNucwYEnt_sA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:38:27"
+  },
+  {
+    "business_name": "City ride Eeco taxi service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "202130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Aligarh bus stop, Chharra Rafatpur, Uttar Pradesh 202130",
+    "area": "202130",
+    "latitude": 27.9242869,
+    "longitude": 78.39878499999999,
+    "place_id": "ChIJ3byRGgDFdDkRUULcGQow4uk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3byRGgDFdDkRUULcGQow4uk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:38:29"
+  }
+]

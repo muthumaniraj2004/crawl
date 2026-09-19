@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City dentist",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "202145",
+    "phone_number": "+91 94106 92111",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Agra Rd, opp. Chiranji Lal Girls Inter College, Gopal Puri, Aligarh, Uttar Pradesh 202001",
+    "area": "Gopal Puri",
+    "latitude": 27.8713131,
+    "longitude": 78.07254499999999,
+    "place_id": "ChIJhREsvn2jdDkRBe9OmR7FK7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhREsvn2jdDkRBe9OmR7FK7o",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:02:29"
+  },
+  {
+    "business_name": "Gulzar Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "202145",
+    "phone_number": "+91 82181 58995",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "W3FG+VCQ, Kabir Colony, Jamalpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Kabir Colony, Jamalpur",
+    "latitude": 27.924709,
+    "longitude": 78.07610799999999,
+    "place_id": "ChIJHUAFUQOldDkRTURPpkKFlDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUAFUQOldDkRTURPpkKFlDY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:02:30"
+  }
+]

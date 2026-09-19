@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "201318",
+    "phone_number": "+91 120 286 6891",
+    "website": "http://www.amritfood.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Grand Trunk Rd, Amrit Nagar, Bulandshahr Road Industrial Area, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Amrit Nagar, Bulandshahr Road Industrial Area",
+    "latitude": 28.644704599999997,
+    "longitude": 77.4487032,
+    "place_id": "ChIJ9-Lcjh_uDDkRgKIU9Xbb5eY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-Lcjh_uDDkRgKIU9Xbb5eY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:16:48"
+  },
+  {
+    "business_name": "Wholesaler paneer bhandar",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Manufacturer",
+    "pincode": "201318",
+    "phone_number": "+91 97110 26967",
+    "website": "http://balajidosaidlibatter.link/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Crossing Plaza, paramount, Crossings Republik, Ghaziabad, Uttar Pradesh 201016",
+    "area": "paramount, Crossings Republik",
+    "latitude": 28.6289639,
+    "longitude": 77.4402514,
+    "place_id": "ChIJ826OFEvvDDkRmS2EyI2OC3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ826OFEvvDDkRmS2EyI2OC3M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:16:51"
+  }
+]

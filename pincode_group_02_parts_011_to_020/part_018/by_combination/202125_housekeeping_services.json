@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pragya Pest Management",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "202125",
+    "phone_number": "N/A",
+    "website": "https://pragyapestmanagement.com/aligarh",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Chauhan Market, Ramghat Rd, near Kumar Nursing Home, Raza Nagar, Gokuleshpuram Colony, Aligarh, Uttar Pradesh 202002",
+    "area": "Raza Nagar, Gokuleshpuram Colony",
+    "latitude": 27.9064426,
+    "longitude": 78.1037506,
+    "place_id": "ChIJk0w4k86kdDkRyxs_euxS7kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0w4k86kdDkRyxs_euxS7kE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:30:29"
+  },
+  {
+    "business_name": "Green Cross PCS",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "202125",
+    "phone_number": "+91 88658 71441",
+    "website": "https://www.greencross.co.in/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Shop No. A102 Ground Floor, Dilshad Colony, Aligarh Bypass Rd, nearby Indian Oil Petrol, opposite Waqar Hospital, Dhorra, Jamalpur Ka Nagla, Aligarh, Uttar Pradesh 202001",
+    "area": "Dhorra, Jamalpur Ka Nagla",
+    "latitude": 27.9302192,
+    "longitude": 78.0882512,
+    "place_id": "ChIJT9S6c7rnOmARm3EpgtVIOa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9S6c7rnOmARm3EpgtVIOa8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:30:29"
+  }
+]

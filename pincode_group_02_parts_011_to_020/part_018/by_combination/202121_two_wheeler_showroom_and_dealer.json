@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aftab Automobiles",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Used motorcycle dealer",
+    "all_categories": "Used motorcycle dealer, Auto Accessories Store, Two Wheeler Repair Shop",
+    "pincode": "202121",
+    "phone_number": "+91 80065 97786",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 10,
+    "address": "W3QM+3M5, Maheshpur Tiraha, Jamalpur Bypass, Dhorra Bypass Road, Aligarh, Uttar Pradesh 202001",
+    "area": "Hamdard Nagar",
+    "latitude": 27.9376429,
+    "longitude": 78.0842393,
+    "place_id": "ChIJZdCHJBSldDkRRoAx-FQE198",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdCHJBSldDkRRoAx-FQE198",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:42"
+  },
+  {
+    "business_name": "Vikas Auto Wheels Hero Moto Corp",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "202121",
+    "phone_number": "+91 92899 22407",
+    "website": "https://dealers.heromotocorp.com/vikas-auto-wheels-hero-motocorp-two-wheeler-dealer-gt-road-aligarh-25070/Home",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Riyaz colony Riyaz Colony, Baraula Bypass, near Patwari Nagla, Manjur Garhi, Aligarh, Uttar Pradesh 202122",
+    "area": "Manjur Garhi",
+    "latitude": 27.943767599999997,
+    "longitude": 78.0655153,
+    "place_id": "ChIJ5zdrFAyldDkRcxXqjgsRbd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zdrFAyldDkRcxXqjgsRbd8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:42"
+  }
+]

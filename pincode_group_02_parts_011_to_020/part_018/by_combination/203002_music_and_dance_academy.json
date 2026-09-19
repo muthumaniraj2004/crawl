@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A R dance company",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance company",
+    "all_categories": "Dance company",
+    "pincode": "203002",
+    "phone_number": "+91 73005 99945",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Nav Durga Shakti Mandir Rd, Khurja, Uttar Pradesh 203131",
+    "area": "203002",
+    "latitude": 28.235928299999998,
+    "longitude": 77.8637198,
+    "place_id": "ChIJT1UTmTqpDDkR5xCLklutTqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1UTmTqpDDkR5xCLklutTqg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:40"
+  },
+  {
+    "business_name": "Dance Academy Bulandshahr",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance club",
+    "all_categories": "Dance club",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "31, Shanti Niketan Colony, Avas Vikas Colony, Shikar Pur Colony, Devpuri-II, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Shanti Niketan Colony, Avas Vikas Colony, Shikar Pur Colony, Devpuri-II",
+    "latitude": 28.416860699999997,
+    "longitude": 77.84294779999999,
+    "place_id": "ChIJTzTFOdChDDkRx_2mFzih1js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzTFOdChDDkRx_2mFzih1js",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haseen Bike Service Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "202282",
+    "phone_number": "+91 75056 56446",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Aligarh, Nagla Rajkhan, Uttar Pradesh 202127",
+    "area": "202282",
+    "latitude": 28.0314294,
+    "longitude": 78.1947933,
+    "place_id": "ChIJA6XwCHKxdDkRgCyeAzPa7MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6XwCHKxdDkRgCyeAzPa7MU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:16:27"
+  },
+  {
+    "business_name": "Two wheeler mechanic..",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "202282",
+    "phone_number": "+91 70137 74506",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ayyappa Society, Sri Sai Nagar, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Ayyappa Society, Sri Sai Nagar, Madhapur",
+    "latitude": 17.4465579,
+    "longitude": 78.39125729999999,
+    "place_id": "ChIJm3g19K2RyzsRMaIoSfI9DrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3g19K2RyzsRMaIoSfI9DrM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:16:31"
+  }
+]

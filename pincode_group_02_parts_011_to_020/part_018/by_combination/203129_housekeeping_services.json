@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Clean Wala Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "203129",
+    "phone_number": "N/A",
+    "website": "https://deepcleanwala.com/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Deep Clean Wala Services, 203129, India",
+    "area": "203129",
+    "latitude": 18.5159719,
+    "longitude": 73.77351019999999,
+    "place_id": "ChIJ90VUu1U9qacRCY7G095RqIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90VUu1U9qacRCY7G095RqIE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:22:40"
+  },
+  {
+    "business_name": "Prabha cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "203129",
+    "phone_number": "+91 96960 58739",
+    "website": "https://prabhacleaners.in/",
+    "rating": 4.9,
+    "reviews_count": 131,
+    "address": "House No. 23A, Gadariyan Purwa, Vikas Nagar, Khyora, Kanpur, Uttar Pradesh 208024",
+    "area": "Vikas Nagar, Khyora",
+    "latitude": 26.4962903,
+    "longitude": 80.2884685,
+    "place_id": "ChIJmwh2zjU5nDkRcPkD744r03k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwh2zjU5nDkRcPkD744r03k",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:22:41"
+  }
+]

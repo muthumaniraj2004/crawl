@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Apartment building, Commercial real estate agency, Condominium complex, Industrial real estate agency, Property investment company, Property management company, Real estate agent, Real estate consultant, Real estate rental agency",
+    "pincode": "202130",
+    "phone_number": "+91 98208 92789",
+    "website": "http://www.powaiproperties.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.90, Ground Floor, Powai Plaza, Hiranandani Gardens, Sainath Nagar, Powai, Mumbai, Maharashtra 400076",
+    "area": "Hiranandani Gardens, Sainath Nagar, Powai",
+    "latitude": 19.123393099999998,
+    "longitude": 72.913112,
+    "place_id": "ChIJF1ICKfDH5zsRXnhWUfd3U9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1ICKfDH5zsRXnhWUfd3U9I",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:39:13"
+  },
+  {
+    "business_name": "Premier Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "202130",
+    "phone_number": "+91 96254 38388",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Block B, Sewak Park, Dwarka, Delhi, 110059",
+    "area": "Block B, Sewak Park, Dwarka",
+    "latitude": 28.616610299999998,
+    "longitude": 77.0356734,
+    "place_id": "ChIJW3TImjcFDTkROuPaQhxryhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3TImjcFDTkROuPaQhxryhw",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:39:14"
+  }
+]

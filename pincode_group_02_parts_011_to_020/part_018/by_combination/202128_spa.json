@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhe Cosmetic",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "202128",
+    "phone_number": "+91 97196 23598",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W5P5+G7Q, Harduaganj Hardua, Aligarh, Uttar Pradesh 202125",
+    "area": "202128",
+    "latitude": 27.9363337,
+    "longitude": 78.1582246,
+    "place_id": "ChIJxW45uiK7dDkRIPKBGvFIw8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxW45uiK7dDkRIPKBGvFIw8Y",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:19"
+  },
+  {
+    "business_name": "Jeevan Medical Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa, Health and beauty shop",
+    "pincode": "202128",
+    "phone_number": "+91 86307 35662",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhavigarh, Atrauli, Uttar Pradesh 202125",
+    "area": "202128",
+    "latitude": 27.9531681,
+    "longitude": 78.2321305,
+    "place_id": "ChIJHXGX2CS5dDkRFjRBOehwkcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXGX2CS5dDkRFjRBOehwkcA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:19"
+  }
+]

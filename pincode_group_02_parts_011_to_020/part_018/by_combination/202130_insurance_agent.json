@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Life Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "202130",
+    "phone_number": "+91 1800 3000 8181",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "V3RH+GGP, Samad Rd, Centre Point, Hari Om Nagar, Civil Lines, Aligarh, Uttar Pradesh 202001",
+    "area": "Centre Point, Hari Om Nagar, Civil Lines",
+    "latitude": 27.8913454,
+    "longitude": 78.07883249999999,
+    "place_id": "ChIJn9AKJZKkdDkRmJEWM4TSTGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9AKJZKkdDkRmJEWM4TSTGM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:39:07"
+  },
+  {
+    "business_name": "Khurana Investment",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "202130",
+    "phone_number": "+91 98111 98726",
+    "website": "http://www.khuranainvestment.com/",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "1A/268, Neelam Bata Rd, Block A, New Industrial Twp 1, New Industrial Township, Faridabad, Haryana 121001",
+    "area": "Block A, New Industrial Township 1, New Industrial Township",
+    "latitude": 28.385042199999997,
+    "longitude": 77.3064382,
+    "place_id": "ChIJkWG1KjncDDkRuHpdUBaIa_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWG1KjncDDkRuHpdUBaIa_k",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:39:08"
+  }
+]

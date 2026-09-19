@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hairsmith Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Cosmetic surgeon, Dermatologist, Hair removal service, Hair replacement service, Skin care clinic",
+    "pincode": "202141",
+    "phone_number": "+91 99994 81878",
+    "website": "https://hairsmith.in/",
+    "rating": 5,
+    "reviews_count": 481,
+    "address": "Upper Ground Floor, 5, Block J & K, Laxmi Nagar, Delhi, 110092",
+    "area": "Block J & K, Laxmi Nagar",
+    "latitude": 28.6337956,
+    "longitude": 77.2760607,
+    "place_id": "ChIJHcU3dPz9DDkRIoi6EGAWr1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcU3dPz9DDkRIoi6EGAWr1w",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:57:55"
+  },
+  {
+    "business_name": "HRG SKIN AND HAIR CLINIC",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Hair replacement service, Skin care clinic",
+    "pincode": "202141",
+    "phone_number": "+91 87777 37797",
+    "website": "https://www.hrgclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 340,
+    "address": "1st floor, C-1/167, opposite cng pump, Rohini sec 11, Sector 11, Rohini, Delhi, 110085",
+    "area": "Rohini sec 11, Sector 11, Rohini",
+    "latitude": 28.731154,
+    "longitude": 77.11751079999999,
+    "place_id": "ChIJQymcOfQBDTkRLrA4Rq2QT-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQymcOfQBDTkRLrA4Rq2QT-4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:57:55"
+  }
+]

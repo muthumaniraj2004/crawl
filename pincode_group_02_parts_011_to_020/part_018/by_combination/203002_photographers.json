@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameer Film's",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "203002",
+    "phone_number": "+91 90274 62725",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Roadwayz Bus Stand, Moti Bagh, Kotiyat, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Moti Bagh, Kotiyat",
+    "latitude": 28.406962999999998,
+    "longitude": 77.8498292,
+    "place_id": "ChIJrQLDn8CpDDkRstTiy5VCL0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQLDn8CpDDkRstTiy5VCL0M",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:31"
+  },
+  {
+    "business_name": "Puru Album",
+    "search_category": "Photographers",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "203002",
+    "phone_number": "+91 95572 88877",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Bus stand, 1st Floor, Namaskar Market near Road ways, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Sheetal Ganj",
+    "latitude": 28.400259499999997,
+    "longitude": 77.8539801,
+    "place_id": "ChIJE2LdjK2nDDkR3DHZ51o0IQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2LdjK2nDDkR3DHZ51o0IQM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:32"
+  }
+]

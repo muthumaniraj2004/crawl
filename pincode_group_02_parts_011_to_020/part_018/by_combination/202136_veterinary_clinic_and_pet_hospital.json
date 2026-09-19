@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X3P4+P3M, Aligarh, Uttar Pradesh 202122",
+    "area": "202136",
+    "latitude": 27.986844299999998,
+    "longitude": 78.0551868,
+    "place_id": "ChIJQamXgFGvdDkRkbP27qmJfL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQamXgFGvdDkRkbP27qmJfL0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:42"
+  },
+  {
+    "business_name": "Greenvet Pharma",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "202136",
+    "phone_number": "+91 84459 34976",
+    "website": "https://www.greenvetpharma.com/products/",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "Krishna Nagar, Phase 2, Aligarh, Uttar Pradesh 202001",
+    "area": "Swarna Jayanti Nagar",
+    "latitude": 27.8911336,
+    "longitude": 78.1010252,
+    "place_id": "ChIJAQAA67CkdDkR7EWxx6QDCC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA67CkdDkR7EWxx6QDCC0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:48:44"
+  }
+]

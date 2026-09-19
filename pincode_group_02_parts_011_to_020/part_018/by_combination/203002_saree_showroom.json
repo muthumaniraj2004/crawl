@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushboo Saree Sansar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "203002",
+    "phone_number": "+91 75350 42028",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "gayatri peeth ke samne, Khurja Rd, Mansarovar Colony, Amba Enclave, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Mansarovar Colony, Amba Enclave",
+    "latitude": 28.3915781,
+    "longitude": 77.8399208,
+    "place_id": "ChIJoQExF8unDDkRandqT3s_pFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQExF8unDDkRandqT3s_pFU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:19:41"
+  },
+  {
+    "business_name": "Arora Vastra Bhandar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "203002",
+    "phone_number": "+91 95573 21443",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "398, DM Rd, opp. LIC office, Shanti Niketan Colony, Avas Vikas Colony, Shikar Pur Colony, Devpuri-II, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Shanti Niketan Colony, Avas Vikas Colony, Shikar Pur Colony, Devpuri-II",
+    "latitude": 28.416034399999997,
+    "longitude": 77.84080569999999,
+    "place_id": "ChIJhYlqEdyhDDkR4FuB2qZ_3TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYlqEdyhDDkR4FuB2qZ_3TY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:19:42"
+  }
+]

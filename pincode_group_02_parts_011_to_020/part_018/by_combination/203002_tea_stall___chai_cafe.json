@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JP tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Delhi School Of Economics, University Enclave, Delhi, 110007",
+    "area": "Delhi School Of Economics, University Enclave",
+    "latitude": 28.6849244,
+    "longitude": 77.20913999999999,
+    "place_id": "ChIJGdo7nZH9DDkRLbQOJ50vWsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdo7nZH9DDkRLbQOJ50vWsI",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:19:38"
+  },
+  {
+    "business_name": "Bulandshahr Tea Point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Vegetarian restaurant",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 267,
+    "address": "Bulandshahr Rd, Adaoli, Uttar Pradesh 203001",
+    "area": "203002",
+    "latitude": 28.4181881,
+    "longitude": 77.8132747,
+    "place_id": "ChIJZ49RRpOjDDkRFYky_LRkJ0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ49RRpOjDDkRFYky_LRkJ0Y",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:19:38"
+  }
+]

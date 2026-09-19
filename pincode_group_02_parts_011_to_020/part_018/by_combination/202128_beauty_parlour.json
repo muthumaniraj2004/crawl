@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radha Rani beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "202128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W5F9+5JP, Kol, Harduaganj Dehat, Uttar Pradesh 202125",
+    "area": "202128",
+    "latitude": 27.9229712,
+    "longitude": 78.16906399999999,
+    "place_id": "ChIJt_QMKwC7dDkROnuh_noFd0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_QMKwC7dDkROnuh_noFd0Q",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:19"
+  },
+  {
+    "business_name": "Shahrukh Cosmetic",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "202128",
+    "phone_number": "+91 76684 28720",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Munna market, Rashan Wali Gali, Jamalpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Jamalpur",
+    "latitude": 27.9257262,
+    "longitude": 78.0794033,
+    "place_id": "ChIJOQ8_8tKldDkRRfzD_oxhLv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQ8_8tKldDkRRfzD_oxhLv0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:21"
+  }
+]

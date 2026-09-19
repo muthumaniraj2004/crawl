@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travel Bureau - Noida International Airport, Jewar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Taxi service, Tour operator, Travel agency",
+    "pincode": "203135",
+    "phone_number": "+91 90277 11144",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop 3, near Pirbaba Mazar, Dayanat Pur, Uttar Pradesh 203135",
+    "area": "203135",
+    "latitude": 28.1786466,
+    "longitude": 77.5738636,
+    "place_id": "ChIJy04hX9K1DDkRZqzZetjvtns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy04hX9K1DDkRZqzZetjvtns",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:27:16"
+  },
+  {
+    "business_name": "Cabs Vu Car Hire",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Minibus taxi service",
+    "all_categories": "Minibus taxi service, Bus charter, Bus tour agency, Car leasing service, Car rental agency, Taxi service, Tour operator, Transportation service, Van rental agency",
+    "pincode": "203135",
+    "phone_number": "+91 99993 10244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 82,
+    "address": "Leiah Apartment, 143, Vasundhara Enclave, Delhi, 110096",
+    "area": "Vasundhara Enclave",
+    "latitude": 28.5993589,
+    "longitude": 77.3150235,
+    "place_id": "ChIJk54PxW7lDDkRM9llBhr2zRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk54PxW7lDDkRM9llBhr2zRg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:27:16"
+  }
+]

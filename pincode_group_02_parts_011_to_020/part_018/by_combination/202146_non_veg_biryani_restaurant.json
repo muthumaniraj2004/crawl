@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arsalan Restaurant & Caterer",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Indian restaurant, Mughlai restaurant",
+    "pincode": "202146",
+    "phone_number": "+91 90070 07934",
+    "website": "https://arsalanrestaurants.com/hatibagan/",
+    "rating": 4.2,
+    "reviews_count": 13987,
+    "address": "138, Bidhan Sarani Rd, near Town School, beside Hati Bagan, Sovabazar, Hati Bagan, Shyam Bazar, Kolkata, West Bengal 700004",
+    "area": "Sovabazar, Hati Bagan, Shyam Bazar",
+    "latitude": 22.596743099999998,
+    "longitude": 88.3712054,
+    "place_id": "ChIJ___IdOF2AjoR1fQGvJfH64k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___IdOF2AjoR1fQGvJfH64k",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:03:54"
+  },
+  {
+    "business_name": "Hotel Pune Gate Garden Family Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant, Fast food restaurant, Family restaurant, Non Vegetarian Restaurant, Restaurant, Seafood restaurant",
+    "pincode": "202146",
+    "phone_number": "+91 20 2765 0555",
+    "website": "https://punegaterestaurant.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Parmar Industrial Complex, Old Mumbai - Pune Hwy, Block B6, Sector G, Transport Nagar, Nigdi, Dehu Road, Maharashtra 411044",
+    "area": "Block B6, Sector G, Transport Nagar, Nigdi",
+    "latitude": 18.6680892,
+    "longitude": 73.76877449999999,
+    "place_id": "ChIJlScut123wjsRboGPnFX0oTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlScut123wjsRboGPnFX0oTE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:03:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Sweets & Fastfood",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Snack bar",
+    "all_categories": "Snack bar, Sweet shop, Fast food restaurant",
+    "pincode": "202121",
+    "phone_number": "+91 97199 91982",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 199,
+    "address": "Aligarh, Uttar Pradesh 202002",
+    "area": "202121",
+    "latitude": 27.851704899999998,
+    "longitude": 78.16698749999999,
+    "place_id": "ChIJs2fvWlu8dDkRJI5AlH-yKd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2fvWlu8dDkRJI5AlH-yKd8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:14"
+  },
+  {
+    "business_name": "Kumar Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "202121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "WCG3+79Q, Chharra, Chharra Rafatpur, Uttar Pradesh 202130",
+    "area": "Chharra",
+    "latitude": 27.9257006,
+    "longitude": 78.40347129999999,
+    "place_id": "ChIJO25DNz7EdDkRme91JyL6KCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO25DNz7EdDkRme91JyL6KCE",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:22:15"
+  }
+]

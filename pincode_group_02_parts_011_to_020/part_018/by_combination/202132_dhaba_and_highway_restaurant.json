@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "202132",
+    "phone_number": "+91 83970 70805",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1395,
+    "address": "Tappal, Uttar Pradesh 202165",
+    "area": "202132",
+    "latitude": 28.035559,
+    "longitude": 77.5983878,
+    "place_id": "ChIJ0a2ypzdKczkRh0iM2xNB6mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a2ypzdKczkRh0iM2xNB6mM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:22"
+  },
+  {
+    "business_name": "FAUJI DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "202132",
+    "phone_number": "+91 84458 08065",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 24,
+    "address": "NH 34, Dashahara Kherli, Uttar Pradesh 203131",
+    "area": "202132",
+    "latitude": 28.1695198,
+    "longitude": 77.9007773,
+    "place_id": "ChIJoyTxrU6rDDkRe5UE384vNYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyTxrU6rDDkRe5UE384vNYY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:41:22"
+  }
+]

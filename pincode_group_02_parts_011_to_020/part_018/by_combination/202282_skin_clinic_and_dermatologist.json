@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Mala's Derma Studio",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist, Service establishment",
+    "pincode": "202282",
+    "phone_number": "N/A",
+    "website": "http://www.thedermastudio.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dr Mala's Derma Studio, 202282, India",
+    "area": "202282",
+    "latitude": 28.593317499999998,
+    "longitude": 77.090042,
+    "place_id": "ChIJ66vC2xUHDTkRb07O8IBRRjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66vC2xUHDTkRb07O8IBRRjU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:16:24"
+  },
+  {
+    "business_name": "Skinos Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "202282",
+    "phone_number": "+91 11 4101 0203",
+    "website": "http://skinos.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "41, Bungalow Rd, Block UA, Jawahar Nagar, Kamla Nagar, Delhi, 110007",
+    "area": "Block UA, Jawahar Nagar, Kamla Nagar",
+    "latitude": 28.681020099999998,
+    "longitude": 77.2077145,
+    "place_id": "ChIJmxqRbOr9DDkRMoPlJiq-Jqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxqRbOr9DDkRMoPlJiq-Jqc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:16:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeev Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "202127",
+    "phone_number": "+91 98377 79558",
+    "website": "http://www.sanjeevjewellers.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khera Patan Rd, Atrauli, Uttar Pradesh 202280",
+    "area": "202127",
+    "latitude": 28.028601899999998,
+    "longitude": 78.2827825,
+    "place_id": "ChIJL1pEMM67dDkR32hUiQ83pRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1pEMM67dDkR32hUiQ83pRs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:32:56"
+  },
+  {
+    "business_name": "Shree Ji Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "202127",
+    "phone_number": "+91 94574 65744",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 30, Radhika Complex, Gol Market, Quarsi, Aligarh, Uttar Pradesh 202001",
+    "area": "Quarsi",
+    "latitude": 27.9020156,
+    "longitude": 78.08335579999999,
+    "place_id": "ChIJGwFqn_GldDkR1PmYBKaJiOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwFqn_GldDkR1PmYBKaJiOs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:32:56"
+  }
+]

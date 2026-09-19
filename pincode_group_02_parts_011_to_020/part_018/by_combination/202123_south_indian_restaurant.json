@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anna Ka Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Fast food restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "202123",
+    "phone_number": "+91 70422 00132",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No. 2, near Deshbandhu College, University of Delhi, Krishna Market, Kalkaji Extension, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Krishna Market, Kalkaji Extension, Kalkaji",
+    "latitude": 28.5416316,
+    "longitude": 77.2553387,
+    "place_id": "ChIJzXJ_Ed_jDDkRfvBX5tKslWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXJ_Ed_jDDkRfvBX5tKslWs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:25:50"
+  },
+  {
+    "business_name": "Andhra Pradesh Bhavan",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "202123",
+    "phone_number": "+91 11 2338 7499",
+    "website": "https://andhrapradeshbhavan.shop/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1, Ashoka Rd, near India Gate, Pataudi House, New Delhi, Delhi 110001",
+    "area": "Pataudi House",
+    "latitude": 28.6170202,
+    "longitude": 77.2256337,
+    "place_id": "ChIJcwlkCM7iDDkRXKdMpqvdhVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwlkCM7iDDkRXKdMpqvdhVs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:25:50"
+  }
+]

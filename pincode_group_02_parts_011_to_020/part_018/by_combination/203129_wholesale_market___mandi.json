@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pahalwan Agg",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "203129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House S H 94, Main Market, near Sabji Mandi, Pahasu, Uttar Pradesh 203396",
+    "area": "203129",
+    "latitude": 28.170501299999998,
+    "longitude": 78.0634881,
+    "place_id": "ChIJnxvaNRlTCzkRiv64yZmtfU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxvaNRlTCzkRiv64yZmtfU0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:22:59"
+  },
+  {
+    "business_name": "Sabji Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "203129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H84W+V6W, Bansgaon, Balua Urf Gopalpur, Uttar Pradesh 273403",
+    "area": "203129",
+    "latitude": 26.557258299999997,
+    "longitude": 83.3458387,
+    "place_id": "ChIJY_YHYwBpkTkRqsZF1-CRCso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_YHYwBpkTkRqsZF1-CRCso",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:22:59"
+  }
+]

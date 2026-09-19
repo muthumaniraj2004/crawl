@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Telecom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "202165",
+    "phone_number": "+91 98080 80303",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main market, new Anaj Mandi Nal Wale Gate par, Jewar, Uttar Pradesh 203135",
+    "area": "202165",
+    "latitude": 28.1234267,
+    "longitude": 77.5597044,
+    "place_id": "ChIJvbY-7bTLDDkRPZJwvKQ8clM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbY-7bTLDDkRPZJwvKQ8clM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:10:18"
+  },
+  {
+    "business_name": "Jewar Mobile Mart",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "202165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "4H97+93X, Vaina Rd, Jewar, Uttar Pradesh 203135",
+    "area": "202165",
+    "latitude": 28.1184761,
+    "longitude": 77.5627246,
+    "place_id": "ChIJTSv2VQC1DDkRqVFnSIswl2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSv2VQC1DDkRqVFnSIswl2A",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:10:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.S. Computer Solution",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Sikhera, Uttar Pradesh 203002",
+    "area": "203002",
+    "latitude": 28.3684624,
+    "longitude": 77.7749482,
+    "place_id": "ChIJGRnrGZ2lDDkRaVEbD4HcymQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRnrGZ2lDDkRaVEbD4HcymQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:43"
+  },
+  {
+    "business_name": "APPIL KUMAR JAN SEVA KENDRA",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "203002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9RMV+RRG, Bahlipura, Bulandshahr, Bahalimpur, Uttar Pradesh 203002",
+    "area": "Bahlipura",
+    "latitude": 28.3845499,
+    "longitude": 77.844593,
+    "place_id": "ChIJuezg2NunDDkRjUW732vMFIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuezg2NunDDkRjUW732vMFIs",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:20:46"
+  }
+]

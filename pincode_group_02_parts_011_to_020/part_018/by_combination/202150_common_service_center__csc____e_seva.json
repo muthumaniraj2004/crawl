@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waseem CSC Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Store",
+    "all_categories": "Store, Education center",
+    "pincode": "202150",
+    "phone_number": "+91 90272 66064",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "202002, Kasba Kol, Aligarh, Uttar Pradesh 202002",
+    "area": "Kasba Kol",
+    "latitude": 27.856565699999997,
+    "longitude": 78.0666195,
+    "place_id": "ChIJc2phiiCldDkRjMk8b3vZbak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2phiiCldDkRjMk8b3vZbak",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:06:49"
+  },
+  {
+    "business_name": "C S C COMMON SERVICE CENTER",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Smart shop",
+    "all_categories": "Smart shop",
+    "pincode": "202150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nagla Tikona, Sangam Vihar, Aligarh, Uttar Pradesh 202001",
+    "area": "Nagla Tikona, Sangam Vihar",
+    "latitude": 27.8863153,
+    "longitude": 78.0907048,
+    "place_id": "ChIJdUF2HXWldDkR1ZpEazUj3NA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUF2HXWldDkR1ZpEazUj3NA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:06:49"
+  }
+]

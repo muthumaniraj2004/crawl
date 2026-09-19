@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Shoes Point",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "202126",
+    "phone_number": "+91 63989 60794",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24H8+4C2, Near Uco Bank, Jawan, Aligarh, Jawan Sikandpur, Uttar Pradesh 202126",
+    "area": "202126",
+    "latitude": 28.027768899999998,
+    "longitude": 78.1160026,
+    "place_id": "ChIJbwac8dmxdDkR2wbkl-nwYBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwac8dmxdDkR2wbkl-nwYBM",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:10"
+  },
+  {
+    "business_name": "Hasan footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "202126",
+    "phone_number": "+91 97602 81161",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shamim market, Anoop Shahar Rd, near centenary gate amu, opp. chemistry department, Hamdard Nagar, Civil lines, Aligarh, Uttar Pradesh 202001",
+    "area": "Hamdard Nagar, Civil lines",
+    "latitude": 27.9313245,
+    "longitude": 78.078558,
+    "place_id": "ChIJlY5yuS2ldDkRksTjNq9rS1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlY5yuS2ldDkRksTjNq9rS1A",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:31:10"
+  }
+]

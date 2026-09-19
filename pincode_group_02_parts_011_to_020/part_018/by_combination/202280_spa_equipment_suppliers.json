@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spa Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "202280",
+    "phone_number": "+91 80900 88900",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "53, 53, Sector 14, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Sector 14, Indira Nagar",
+    "latitude": 26.8953837,
+    "longitude": 80.995758,
+    "place_id": "ChIJF7OXBAVYmTkRuvv17CokA-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7OXBAVYmTkRuvv17CokA-o",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:13:25"
+  },
+  {
+    "business_name": "SPA INDUSTRIES",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "202280",
+    "phone_number": "+91 98389 57666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nahar, Plot No 69, Block, near Chapri, Chak Raham, Jakhania, Uttar Pradesh 275202",
+    "area": "202280",
+    "latitude": 25.722794,
+    "longitude": 83.4399973,
+    "place_id": "ChIJb9fYi-zxkTkRunG21U_lTSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9fYi-zxkTkRunG21U_lTSY",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:13:25"
+  }
+]

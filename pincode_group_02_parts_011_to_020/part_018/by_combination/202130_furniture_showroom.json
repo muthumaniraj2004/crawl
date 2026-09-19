@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Hause",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "202130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Village Lahaski Atrauli, Uttar Pradesh 202131",
+    "area": "202130",
+    "latitude": 28.0265156,
+    "longitude": 78.41195789999999,
+    "place_id": "ChIJOzZ4lt_PdDkRk1UAaRejIO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzZ4lt_PdDkRk1UAaRejIO0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:38:40"
+  },
+  {
+    "business_name": "Sleepwell Exclusive Dealer - Chharra, Aligarh",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "202130",
+    "phone_number": "+91 8071 629 081",
+    "website": "https://storesnearme.mysleepwell.com/sleepwell/stores-in-aligarh/stores-in-chharra/sleepwell-exclusive-dealer-rajat-maheshwari-enterprises-in-chharra-aligarh--2c180fdd-c435-4535-940f-a0fb8e896d6f/home",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rajat Maheshwari Enterprises, Atroli Road, nearby Saifi Machinery Store Mukhtar Khan, Chharra, Chharra Rafatpur, Uttar Pradesh 202130",
+    "area": "Chharra",
+    "latitude": 27.926970899999997,
+    "longitude": 78.4021246,
+    "place_id": "ChIJmfEnT1PDdDkRMwCjHeOKHGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfEnT1PDdDkRMwCjHeOKHGA",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:38:41"
+  }
+]

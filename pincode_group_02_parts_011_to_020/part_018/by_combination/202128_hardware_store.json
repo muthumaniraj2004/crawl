@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalai",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "202128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Kalai, Uttar Pradesh 202125",
+    "area": "202128",
+    "latitude": 27.9577739,
+    "longitude": 78.2018872,
+    "place_id": "ChIJ_W8pIB66dDkRzttPHjWnspQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_W8pIB66dDkRzttPHjWnspQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:06"
+  },
+  {
+    "business_name": "Abbas Electrical Shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "202128",
+    "phone_number": "+91 70371 05826",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Bus Stand Aligarh, Road, Jalali, Uttar Pradesh 202128",
+    "area": "202128",
+    "latitude": 27.867323799999998,
+    "longitude": 78.2490406,
+    "place_id": "ChIJU0a9hIq_dDkRwKJKiiysXoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0a9hIq_dDkRwKJKiiysXoQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:35:09"
+  }
+]

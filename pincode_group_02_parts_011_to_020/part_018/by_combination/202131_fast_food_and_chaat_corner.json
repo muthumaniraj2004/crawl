@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta fruit chaat and salads",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Salad shop",
+    "all_categories": "Salad shop",
+    "pincode": "202131",
+    "phone_number": "+91 98185 50136",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "J6M8+37P, Shivaji Stadium, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Shivaji Stadium, Connaught Place",
+    "latitude": 28.632703799999998,
+    "longitude": 77.2157118,
+    "place_id": "ChIJFVu0vdj9DDkROzuQtjS4F_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVu0vdj9DDkROzuQtjS4F_I",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:39:42"
+  },
+  {
+    "business_name": "K.D.H. Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, North Indian restaurant, Rajasthani Restaurant, Restaurant",
+    "pincode": "202131",
+    "phone_number": "+91 95997 04429",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gurudwara, 1593, Dariba Kalan Rd, near Sis Ganj Sahib, Old Delhi, Kucha Alam, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Kucha Alam, Chandni Chowk",
+    "latitude": 28.653813999999997,
+    "longitude": 77.233532,
+    "place_id": "ChIJZ3rXohv9DDkRCEJCQd_6lGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3rXohv9DDkRCEJCQd_6lGU",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:39:42"
+  }
+]

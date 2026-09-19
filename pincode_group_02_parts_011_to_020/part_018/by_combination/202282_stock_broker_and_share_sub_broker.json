@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Corporate Securities Limited",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Insurance broker, Investment service, Travel agency",
+    "pincode": "202282",
+    "phone_number": "+91 11 4700 3600",
+    "website": "http://www.sscorporate.com/",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "3rd floor, NDM 2, D block, Netaji Subhash Place, Pitampura, Delhi, 110034",
+    "area": "D block, Netaji Subhash Place, Pitampura",
+    "latitude": 28.6910781,
+    "longitude": 77.14989469999999,
+    "place_id": "ChIJXSVymTQCDTkRL41_sRPdfeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSVymTQCDTkRL41_sRPdfeQ",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:17:18"
+  },
+  {
+    "business_name": "Aditya Trading Solutions",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "202282",
+    "phone_number": "+91 76763 83344",
+    "website": "https://adityatrading.in/",
+    "rating": 2.8,
+    "reviews_count": 11,
+    "address": "WMGM+M5W, First Floor, Block C, Smart Work Building, Global Technology Park Devarabisanahalli, Near, Adarsh Palm Retreat Villas, Bellandur, Bengaluru, Karnataka 560103",
+    "area": "Adarsh Palm Retreat Villas, Bellandur",
+    "latitude": 12.9267497,
+    "longitude": 77.6829451,
+    "place_id": "ChIJVVVVVboWrjsR32BjPNje6B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVboWrjsR32BjPNje6B4",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:17:18"
+  }
+]

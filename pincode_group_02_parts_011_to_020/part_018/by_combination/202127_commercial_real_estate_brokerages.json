@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "202127",
+    "phone_number": "+91 94128 19730",
+    "website": "https://urban2properties.blogspot.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MIG 283a, Azad Nagar MDA Colony Sambhal Road, Green Park Rd, near RTO, opposite Ever, Moradabad, Uttar Pradesh 244001",
+    "area": "Karula",
+    "latitude": 28.8052501,
+    "longitude": 78.7587162,
+    "place_id": "ChIJu0j5vCf7CjkRLwOYi6qOhY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0j5vCf7CjkRLwOYi6qOhY0",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:34:04"
+  },
+  {
+    "business_name": "Malhotra Property Home",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "202127",
+    "phone_number": "+91 96933 04720",
+    "website": "http://www.mathotrapropertyhome.com/",
+    "rating": 4.1,
+    "reviews_count": 29,
+    "address": "Malhotra property homeSouth Of Piler, 13, Bailey Rd, Jagdeo Path, Patna, Bihar 800014",
+    "area": "Jagdeo Path, Khajpura",
+    "latitude": 25.6057421,
+    "longitude": 85.07485299999999,
+    "place_id": "ChIJGdpgq7dX7TkRX51h04mP1Sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdpgq7dX7TkRX51h04mP1Sk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:34:06"
+  }
+]

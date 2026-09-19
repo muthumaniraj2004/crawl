@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Bike Shop Sonu",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "202134",
+    "phone_number": "+91 96344 21163",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Kasganj - Atrauli Marg, Gangiri, Uttar Pradesh 202134",
+    "area": "202134",
+    "latitude": 27.8582462,
+    "longitude": 78.45433609999999,
+    "place_id": "ChIJHc6UTi7DdDkRV6wKsr_0TRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHc6UTi7DdDkRV6wKsr_0TRg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:45:19"
+  },
+  {
+    "business_name": "Sahil Bike Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "202134",
+    "phone_number": "+91 88599 61766",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sahil Bike Service Dholna, Kasganj - Atrauli Marg, Kasganj, Uttar Pradesh 207124",
+    "area": "202134",
+    "latitude": 27.8398434,
+    "longitude": 78.5364097,
+    "place_id": "ChIJkzwl09LddDkRYknkTfYjl1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzwl09LddDkRYknkTfYjl1w",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:45:22"
+  }
+]

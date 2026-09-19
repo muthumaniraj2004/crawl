@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahipal Singh Building Material Store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "202281",
+    "phone_number": "+91 96270 64799",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "47Q2+WJ5, Sultanpur Bilauni, Uttar Pradesh 203393",
+    "area": "202281",
+    "latitude": 28.1397591,
+    "longitude": 78.2516057,
+    "place_id": "ChIJ59n--bu1dDkRRlRgi-tqhb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59n--bu1dDkRRlRgi-tqhb8",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:14:55"
+  },
+  {
+    "business_name": "Vaishnavi Enterprise",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "202281",
+    "phone_number": "+91 80062 04516",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Khadeya road, Suratgarh, Uttar Pradesh 202282",
+    "area": "202281",
+    "latitude": 28.098529,
+    "longitude": 78.2883131,
+    "place_id": "ChIJFbcJNwC1dDkR8gz4biXwINk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbcJNwC1dDkR8gz4biXwINk",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 07:14:55"
+  }
+]

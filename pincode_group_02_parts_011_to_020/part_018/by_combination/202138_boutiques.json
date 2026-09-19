@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "London Berry | Clothing Shop | Khair",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "202138",
+    "phone_number": "+91 95285 59487",
+    "website": "https://londonberryclothing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop At Ground Floor, Aligarh - Palwal Rd, near SBI Bank, Khair, Uttar Pradesh 202138",
+    "area": "202138",
+    "latitude": 27.939978399999998,
+    "longitude": 77.8467454,
+    "place_id": "ChIJvaf8fbxZczkR3djHFvyAbFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvaf8fbxZczkR3djHFvyAbFg",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:52:07"
+  },
+  {
+    "business_name": "Chaudhary Shopping Mall and Shadi Showroom",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store",
+    "pincode": "202138",
+    "phone_number": "+91 97191 20401",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Somna Bye Pass Rd, mod, Rasulpur, Khair, Uttar Pradesh 202138",
+    "area": "mod",
+    "latitude": 27.9470305,
+    "longitude": 77.8506991,
+    "place_id": "ChIJE_zwYlZXczkRLvkaVI7DsLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_zwYlZXczkRLvkaVI7DsLc",
+    "part_id": "part_018",
+    "crawled_at": "2026-09-19 06:52:07"
+  }
+]
