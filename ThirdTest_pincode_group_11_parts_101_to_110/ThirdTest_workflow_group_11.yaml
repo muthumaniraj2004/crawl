@@ -1,0 +1,104 @@
+name: ThirdTest Run Pincode Crawler Group 11 (Parts 101 to 110)
+
+on:
+  workflow_dispatch:
+    inputs:
+      part_number:
+        description: 'Choose Split Part to Crawl (101 to 110) or "all"'
+        required: false
+        default: 'all'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-single-part:
+    if: ${{ github.event.inputs.part_number != 'all' && github.event.inputs.part_number != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install pandas requests
+
+      - name: Run Crawler Part ${{ github.event.inputs.part_number }}
+        run: |
+          PART_RAW="${{ github.event.inputs.part_number }}"
+          PART_PAD=$(printf "%03d" "$PART_RAW")
+          echo "Launching ThirdTest_pincode_group_11_parts_101_to_110/crawler_part_$PART_PAD.py..."
+          python ThirdTest_pincode_group_11_parts_101_to_110/crawler_part_$PART_PAD.py
+
+      - name: Upload Scraped Output Artifacts (Master, by_pincode, by_category, by_combination, reference)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: group-11-leads-part-${{ github.event.inputs.part_number }}
+          if-no-files-found: ignore
+          path: |
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/master/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/master/*.json
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_pincode/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_pincode/*.json
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_category/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_category/*.json
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_combination/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_combination/*.json
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/pincode_city_reference/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/pincode_city_reference/*.json
+
+  crawl-group-matrix:
+    if: ${{ github.event.inputs.part_number == 'all' || github.event.inputs.part_number == '' }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix:
+        part: [101, 102, 103, 104, 105, 106, 107, 108, 109, 110]
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install pandas requests
+
+      - name: Run Part ${{ matrix.part }} in Parallel Matrix
+        run: |
+          PART_PAD=$(printf "%03d" "${{ matrix.part }}")
+          echo "Launching ThirdTest_pincode_group_11_parts_101_to_110/crawler_part_$PART_PAD.py in parallel..."
+          python ThirdTest_pincode_group_11_parts_101_to_110/crawler_part_$PART_PAD.py
+
+      - name: Upload Output for Part ${{ matrix.part }} (Master, by_pincode, by_category, by_combination, reference)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: group-11-leads-part-${{ matrix.part }}
+          if-no-files-found: ignore
+          path: |
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/master/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/master/*.json
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_pincode/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_pincode/*.json
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_category/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_category/*.json
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_combination/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/by_combination/*.json
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/pincode_city_reference/*.csv
+            ThirdTest_pincode_group_11_parts_101_to_110/part_*/pincode_city_reference/*.json
